@@ -238,6 +238,18 @@ function getGrade(score){
 getGrade(85);
 }
 
+// Rock Paper Scissor logic
+{
+  function rps(user, computer){
+    if (user === computer) return"tie"; 
+    if (user === "rock" && computer === "scissor")return"user win";
+    if (user === "paper" && computer === "rock")return"user win";
+    if (user === "scissor" && computer === "paper")return"user win";
+
+    return"computer win";
+  }
+  console.log(rps("scissor","rock"));
+}
 // end of script.js
 // {
 //   let age = prompt("tell me your age bro");
