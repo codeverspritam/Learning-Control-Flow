@@ -198,9 +198,7 @@
   console.log(result);
 }
 
-{
-  let a = 2;
-}
+
 
 // end of script.js
 // {
