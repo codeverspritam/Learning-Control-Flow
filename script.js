@@ -250,6 +250,23 @@ getGrade(85);
   }
   console.log(rps("scissor","rock"));
 }
+
+// switch case
+{
+  switch(1){
+    case 1: 
+    console.log("no.1");
+    break
+    case 2: 
+    console.log("no.2");
+    break;
+    case 3: 
+    console.log("no.3");
+    break;
+    default:
+      console.log("not found");
+  }
+}
 // end of script.js
 // {
 //   let age = prompt("tell me your age bro");
