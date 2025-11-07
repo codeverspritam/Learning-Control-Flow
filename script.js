@@ -399,3 +399,15 @@
     }
   }
 }
+/* Q 10. Stop a First Multiple of 7
+Write a loop rom 1 to 100 that;
+ > Prints each number 
+ > Stop completely when it finds the first number 
+ divisible by 7 
+*/
+{
+  for (let i = 1; i < 101; i++) {
+    console.log(i);
+    if (i % 7 === 0) break;
+  }
+}
