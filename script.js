@@ -411,3 +411,18 @@ Write a loop rom 1 to 100 that;
     if (i % 7 === 0) break;
   }
 }
+
+/*Q 11. Skip  Multiples of 3
+Write a loop from 1 to 20 that:
+ > Skip numbers divisible by 3 
+ > Prints all others
+  - use Continue 
+  Expected Output:
+  1 2 4 5 7 8 10 11 .... (no 3,6,9, etc.)
+*/
+{
+  for (let i = 1; i < 21; i++) {
+    if (i % 3 === 0) continue;
+    console.log(i);
+  }
+}
