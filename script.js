@@ -316,20 +316,26 @@
 
 {
   for (let i = 1; i < 11; i++) {
-    console.log(i); 
+    console.log(i);
   }
 }
-// print numbers from 10 to 1 using a for, while loop.
+//Q2. print numbers from 10 to 1 using a for, while loop.
 {
   //for
-  for (let i=10; i<0; i--){
-      console.log(i);
+  for (let i = 10; i < 0; i--) {
+    console.log(i);
   }
- // while
- let i = 10;
- while(i>0){
-  console.log(i);
- }
+  // while
+  let i = 10;
+  while (i > 0) {
+    console.log(i);
+  }
+}
+// Q3. Print even number from 1 to 20 using a for loop.
+{
+  for (let i = 1; i < 21; i++) {
+    if (i % 2 === 0) console.log(i);
+  }
 }
 // end of script.js
 // {
