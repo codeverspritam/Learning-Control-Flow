@@ -348,3 +348,11 @@
     i++;
   }
 }
+
+// Q5. Print the Multiplication table of 5 (5 x 1 = 5 to 5 x 10 = 50)
+
+{
+  for (i = 1; i<11; i++){
+    console.log(`5 x ${i} = ${i*5}`);
+  }
+}
