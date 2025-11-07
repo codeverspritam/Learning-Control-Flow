@@ -71,7 +71,7 @@
 // multiplication table of 9
 
 {
-  let Password = "wwe";
+  let Password = "start";
   let pass = prompt("password bol");
   if (pass === null) {
     console.error("Abe dal ne password");
@@ -139,7 +139,7 @@
 
 {
   let attemp = 0;
-  let pass = "jadu";
+  let pass = "ending";
   let Khuljabe = false;
   let password = prompt("password bata de last bar");
   attemp++;
@@ -167,6 +167,7 @@
   }
   console.log(`total time yes count : ${counter}`);
 }
+
 
 {
   let word = prompt("word bolo");
