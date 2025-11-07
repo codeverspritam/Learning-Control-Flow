@@ -426,3 +426,22 @@ Write a loop from 1 to 20 that:
     console.log(i);
   }
 }
+
+/*Q 12. Print First 5 Odd Numbers Only 
+  Write a loop from 1 to 100 that:
+  > Prints only 5 odd Number 
+  >Then stop the loop
+  user both if, continue, and a counter + break 
+  Expected output:
+  1 3 5 7 9 
+*/
+{
+  let count = 0;
+  for (let i = 1; i < 101; i++) {
+    if (i % 2 === 1) {
+      count++;
+      console.log(i);
+    }
+    if (count === 5) break;
+  }
+}
