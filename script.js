@@ -319,7 +319,18 @@
     console.log(i); 
   }
 }
-
+// print numbers from 10 to 1 using a for, while loop.
+{
+  //for
+  for (let i=10; i<0; i--){
+      console.log(i);
+  }
+ // while
+ let i = 10;
+ while(i>0){
+  console.log(i);
+ }
+}
 // end of script.js
 // {
 //   let age = prompt("tell me your age bro");
