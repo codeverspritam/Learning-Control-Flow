@@ -284,7 +284,14 @@ getGrade(85);
      i++
   }
  }
- 
+
+ // do while 
+ {
+   do {
+
+   }
+   while(end)
+ }
 // end of script.js
 // {
 //   let age = prompt("tell me your age bro");
