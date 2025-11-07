@@ -268,6 +268,15 @@ getGrade(85);
       console.log("not found");
   }
 }
+ // loops
+ {
+  start 
+  while(end){
+    //code
+    change 
+  }
+ }
+ 
 // end of script.js
 // {
 //   let age = prompt("tell me your age bro");
