@@ -168,7 +168,6 @@
   console.log(`total time yes count : ${counter}`);
 }
 
-
 {
   let word = prompt("word bolo");
   let counter = 0;
@@ -180,12 +179,13 @@
   console.log(`total time yes count : ${counter}`);
 }
 
-{let  sum = 0;
+{
+  let sum = 0;
   for (let i = 1; i < 31; i++) {
     if (i % 2 !== 0) {
-    sum =  sum +i; 
+      sum = sum + i;
     }
-  } 
+  }
   console.log(sum);
 }
 {
@@ -201,222 +201,124 @@
 
 // if else ...
 {
-function getGrade(score){
-  if(score >= 90 && score<= 100){
-    return'A';
+  function getGrade(score) {
+    if (score >= 90 && score <= 100) {
+      return "A";
+    } else if (score >= 80 && score <= 89) {
+      return "B";
+    } else if (score >= 70 && score <= 79) {
+      return "C";
+    } else if (score >= 60 && score <= 69) {
+      return "D";
+    } else if (score >= 33 && score <= 59) {
+      return "E";
+    } else if (score >= 0 && score <= 32) {
+      return "Fail";
+    } else {
+      ("Invalid marks.....");
+    }
   }
-  else if (score >= 80 && score <= 89 ){
-    return'B';
-  }
-  else if (score >= 70 && score <= 79){
-    return'C';
-  }
-  else if (score >= 60 && score <= 69){
-    return'D';
-  }
-  else if (score >= 33 && score <= 59){
-    return'E'
-  }
-  else if (score >= 0 && score <= 32){
-    return'Fail'
-  }
-  else {"Invalid marks....."}
-}
-getGrade(85);
+  getGrade(85);
 }
 
 //early return
 {
-function getGrade(score){
-  if(score >= 90 && score<= 100) return"A";
-  else if (score >= 80 && score <= 89 ) return"B";
-  else if (score >= 70 && score <= 79)return"C";
-  else if (score >= 60 && score <= 69)return"D";
-  else if (score >= 33 && score <= 59)return"E";
-  else if (score >= 0 && score <= 32)return"Fail";
-  else {"Invalid marks....."}
-}
-getGrade(85);
+  function getGrade(score) {
+    if (score >= 90 && score <= 100) return "A";
+    else if (score >= 80 && score <= 89) return "B";
+    else if (score >= 70 && score <= 79) return "C";
+    else if (score >= 60 && score <= 69) return "D";
+    else if (score >= 33 && score <= 59) return "E";
+    else if (score >= 0 && score <= 32) return "Fail";
+    else {
+      ("Invalid marks.....");
+    }
+  }
+  getGrade(85);
 }
 
 // Rock Paper Scissor logic
 {
-  function rps(user, computer){
-    if (user === computer) return"tie"; 
-    if (user === "rock" && computer === "scissor")return"user win";
-    if (user === "paper" && computer === "rock")return"user win";
-    if (user === "scissor" && computer === "paper")return"user win";
+  function rps(user, computer) {
+    if (user === computer) return "tie";
+    if (user === "rock" && computer === "scissor") return "user win";
+    if (user === "paper" && computer === "rock") return "user win";
+    if (user === "scissor" && computer === "paper") return "user win";
 
-    return"computer win";
+    return "computer win";
   }
-  console.log(rps("scissor","rock"));
+  console.log(rps("scissor", "rock"));
 }
 
 // switch case
 {
-  switch(1){
-    case 1: 
-    console.log("no.1");
-    break
-    case 2: 
-    console.log("no.2");
-    break;
-    case 3: 
-    console.log("no.3");
-    break;
+  switch (1) {
+    case 1:
+      console.log("no.1");
+      break;
+    case 2:
+      console.log("no.2");
+      break;
+    case 3:
+      console.log("no.3");
+      break;
     default:
       console.log("not found");
   }
 }
- // loops
- {
-  start 
-  while(end){
-    //code
-    change 
-  }
- }
- {
-  let i = 1
-  while(i<33){
-    //Code
-     console.log(i);
-     i++
-  }
- }
-
- // do while 
- {
-   do {
-
-   }
-   while(end)
- }
+// loops
 {
-let i = 1;
-do{
- console.log(i);
- i++
+  start;
+  while (end) {
+    //code
+    change;
+  }
 }
-while(i<20)
+{
+  let i = 1;
+  while (i < 33) {
+    //Code
+    console.log(i);
+    i++;
+  }
+}
+
+// do while
+{
+  do {} while (end);
+}
+{
+  let i = 1;
+  do {
+    console.log(i);
+    i++;
+  } while (i < 20);
 }
 
 // break and continue
 {
   /*break */
-  for (i=1; i<201; i++){
+  for (i = 1; i < 201; i++) {
     console.log(i);
-    if (i === 32){
+    if (i === 32) {
       break;
     }
-  } 
+  }
 
   /*continue */
-  for (i=1; i<201; i++){
-    if(i===32)
-    continue;
+  for (i = 1; i < 201; i++) {
+    if (i === 32) continue;
   }
   console.log(i);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// Q1. Print numbers from 1 to 10 using a for loop.
+
+{
+  for (let i = 1; i < 11; i++) {
+    console.log(i); 
+  }
+}
 
 // end of script.js
 // {
