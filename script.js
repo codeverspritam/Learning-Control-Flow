@@ -352,7 +352,16 @@
 // Q5. Print the Multiplication table of 5 (5 x 1 = 5 to 5 x 10 = 50)
 
 {
-  for (i = 1; i<11; i++){
-    console.log(`5 x ${i} = ${i*5}`);
+  for (i = 1; i < 11; i++) {
+    console.log(`5 x ${i} = ${i * 5}`);
   }
+}
+
+// Q6. Fingd the sum of numbers from 1 to 100 using a loop.
+{
+  let sum = 0;
+  for (let i = 1; i < 101; i++) {
+    sum = sum + i;
+  }
+  console.log(sum);
 }
