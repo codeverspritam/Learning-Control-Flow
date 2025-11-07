@@ -276,6 +276,14 @@ getGrade(85);
     change 
   }
  }
+ {
+  let i = 1
+  while(i<33){
+    //Code
+     console.log(i);
+     i++
+  }
+ }
  
 // end of script.js
 // {
