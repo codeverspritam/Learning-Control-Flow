@@ -337,26 +337,14 @@
     if (i % 2 === 0) console.log(i);
   }
 }
-// end of script.js
-// {
-//   let age = prompt("tell me your age bro");
-//   if (age === null) {
-//     console.error("bro what is your age ?");
-//   } else {
-//     if (age.trim() === "") {
-//       console.error("man what are you doing...");
-//     } else {
-//       if (age < 0) {
-//         console.error("marunga sir pe hugega gharpre chal bhag yaha se.....");
-//       } else if (age >= 18) {
-//         console.log("chal aa ja ");
-//       } else {
-//         if (age >= 50) {
-//           console.log("chcha kaise ho");
-//         } else {
-//           console.log("tu abhi ja re ");
-//         }
-//       }
-//     }
-//   }
-// }
+
+// Q4. Print odd number from 1 to 15 using a while loop.
+{
+  let i = 1;
+  while (i < 16) {
+    if (i % 2 === 1) {
+      console.log(i);
+    }
+    i++;
+  }
+}
