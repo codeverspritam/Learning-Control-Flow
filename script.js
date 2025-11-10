@@ -472,3 +472,10 @@ function abcd(v) {
 }
 let val = abcd(24);
 console.log(val);
+{
+function xyz(a){
+  return 12 + a;
+}
+let val = xyz (20)
+console.log(val);
+}
