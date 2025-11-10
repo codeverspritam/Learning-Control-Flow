@@ -463,3 +463,12 @@ function abcd(a, b, c, ...val) {
   console.log(a, b, c, val);
 }
 abcd(1, 2, 3, 4, 5, 6);
+
+// return values and early return
+
+/*return values */
+function abcd(v) {
+  return 12 + v;
+}
+let val = abcd(24);
+console.log(val);
