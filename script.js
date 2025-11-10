@@ -447,8 +447,19 @@ Write a loop from 1 to 20 that:
 }
 // Default, rest and spread Parameters
 
-/*Default Parameters*/ 
-function add(v1 =0, v2 =0) {
-  console.log(v1+ v2);
-} 
+/*Default Parameters*/
+function add(v1 = 0, v2 = 0) {
+  console.log(v1 + v2);
+}
 add();
+
+/*Rest Parameters */
+function abcd(...val) {
+  console.log(val);
+}
+abcd(1, 2, 3, 4, 5, 6);
+
+function abcd(a, b, c, ...val) {
+  console.log(a, b, c, val);
+}
+abcd(1, 2, 3, 4, 5, 6);
