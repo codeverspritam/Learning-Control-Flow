@@ -473,18 +473,25 @@ function abcd(v) {
 let val = abcd(24);
 console.log(val);
 {
-function xyz(a){
-  return 12 + a;
-}
-let val = xyz (20)
-console.log(val);
+  function xyz(a) {
+    return 12 + a;
+  }
+  let val = xyz(20);
+  console.log(val);
 }
 
 //Functions
 
-/*Functions*/
-function lolo(){
+/*Functions declarations*/
+function lolo() {
   console.log("Happy New Year");
-} 
+}
 
-lolo()
+lolo();
+
+/*expressions function */
+let fnc = function () {
+  console.log("hayhayhayhayhay");
+};
+fnc();
+
