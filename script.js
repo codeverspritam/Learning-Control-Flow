@@ -510,3 +510,18 @@ let stop = () => {
   console.log("work stop");
 };
 stop();
+
+/*
+type:-1
+function abcd(){
+
+}
+type:-2
+let fnc = function(){
+
+}
+type:-3
+let abcd = ()=>{
+  
+}
+*/
