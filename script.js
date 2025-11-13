@@ -479,3 +479,12 @@ function xyz(a){
 let val = xyz (20)
 console.log(val);
 }
+
+//Functions
+
+/*Functions*/
+function lolo(){
+  console.log("Happy New Year");
+} 
+
+lolo()
