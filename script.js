@@ -494,4 +494,19 @@ let fnc = function () {
   console.log("hayhayhayhayhay");
 };
 fnc();
+/*Arrow functions */
 
+let think = () => {
+  console.log("heygays");
+};
+think();
+
+let start = () => {
+  console.log("work start");
+};
+fnc();
+
+let stop = () => {
+  console.log("work stop");
+};
+stop();
