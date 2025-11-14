@@ -649,3 +649,8 @@ abcd()();
   }
   abcd(); // Calling abcd to execute it
 }
+
+// IIFE (Immediately invoked Function Expressions)
+(function () {
+  console.log("hay");
+})();
