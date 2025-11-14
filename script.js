@@ -601,3 +601,12 @@ function ok() {
   a++;
 }
 console.log(a);
+
+// closures -> ek function jo return kare ek aur function aur return hone waala function humesha use karega parent function ka koi variable
+function abcd() {
+  let a = 10;
+  return function () {
+    console.log(a);
+  };
+}
+abcd()();
