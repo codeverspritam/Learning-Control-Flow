@@ -531,6 +531,15 @@ function add(v1, v2) {
   console.log(v1 + v2); /*(v1, v2 ) this all are Parameters */
 }
 
-add(1, 2);/* add( 1,2 then 11,22 then 111,222 This all are Arguments)*/
+add(1, 2); /* add( 1,2 then 11,22 then 111,222 This all are Arguments)*/
 add(11, 22);
 add(111, 222);
+
+// Default, rest and spread parameters
+
+/*Default */
+function add(a1 = 0, a2 = 0) {
+  console.log(a1 + a2);
+}
+add(1 + 2);
+
