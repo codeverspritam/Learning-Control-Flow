@@ -610,3 +610,23 @@ function abcd() {
   };
 }
 abcd()();
+
+//Lexical scoping  -> ek inner function apne parent function ke variable ko use kr sake. jaha vo  code main deffine kiya gaya hai.
+
+{
+  function abcd() {
+    let a = 10;
+    function efgh() {
+      let b = 11;
+      function ijkl() {
+        let c = 12;
+        console.log(c);
+        console.log(b);
+        console.log(a);
+      }
+      ijkl();
+    }
+    efgh();
+  }
+  abcd();
+}
