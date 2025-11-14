@@ -558,3 +558,12 @@ add(1 + 2);
   let val = abcd(24);
   console.log(val);
 }
+
+// first class function -> fuction ko values ki tara treat kr sakte hai
+function abcd(val) {
+  val();
+}
+abcd(function () {
+  console.log("hey");
+});
+/*so first class aak jisme function ko hm value kin tarajha use kr sakte hai pure function mai value function ke tara use ho sakte hai */
