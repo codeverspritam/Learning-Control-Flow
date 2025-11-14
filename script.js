@@ -525,3 +525,12 @@ let abcd = ()=>{
   
 }
 */
+/*Parameters and arguments */
+
+function add(v1, v2) {
+  console.log(v1 + v2); /*(v1, v2 ) this all are Parameters */
+}
+
+add(1, 2);/* add( 1,2 then 11,22 then 111,222 This all are Arguments)*/
+add(11, 22);
+add(111, 222);
