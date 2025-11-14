@@ -612,7 +612,6 @@ function abcd() {
 abcd()();
 
 //Lexical scoping  -> ek inner function apne parent function ke variable ko use kr sake. jaha vo  code main deffine kiya gaya hai.
-
 {
   function abcd() {
     let a = 10;
@@ -629,4 +628,24 @@ abcd()();
     efgh();
   }
   abcd();
+}
+/*Lexical example */
+
+{
+  function abcd() {
+    let a = 10; // 'a' is in abcd's scope
+    function efgh() {
+      let b = 11; // 'b' is in efgh's scope
+      function ijkl() {
+        let c = 12; // 'c' is in ijkl's scope
+        console.log("Inside ijkl function:");
+        console.log("Value of c:", c); // Accessing its own variable
+        console.log("Value of b (from efgh):", b); // Accessing 'b' due to lexical scoping
+        console.log("Value of a (from abcd):", a); // Accessing 'a' due to lexical scoping
+      }
+      ijkl(); // Calling ijkl to execute it
+    }
+    efgh(); // Calling efgh to execute it
+  }
+  abcd(); // Calling abcd to execute it
 }
