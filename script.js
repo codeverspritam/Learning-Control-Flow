@@ -588,3 +588,16 @@ abcd(function () {
   abcd()()();
 }
 /* So Higher oreder ek aisa function jo ya to parametermai function acceept kare nahito return kare ek function or vo dono saath main bhi kr sakta hai*/
+
+// pure vs impure functions
+/* aisa functions jo baahar ki value ko na badle wo hai pure functions*/
+function abcd() {
+  console.log("hay ");
+}
+abcd();
+/* aisa functions jo baahar ki value ko badal de wo hai impure functions */
+let a = 10;
+function ok() {
+  a++;
+}
+console.log(a);
