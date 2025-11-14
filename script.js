@@ -567,3 +567,24 @@ abcd(function () {
   console.log("hey");
 });
 /*so first class aak jisme function ko hm value kin tarajha use kr sakte hai pure function mai value function ke tara use ho sakte hai */
+
+//high order function -> aise function jo ki return kare aak function ya fir acceept kare ek function apne parameter mai
+{
+  function abcd() {
+    return function () {
+      console.log("hay");
+    };
+  }
+  abcd()();
+}
+{
+  function abcd() {
+    return function () {
+      return function () {
+        console.log("123");
+      };
+    };
+  }
+  abcd()()();
+}
+/* So Higher oreder ek aisa function jo ya to parametermai function acceept kare nahito return kare ek function or vo dono saath main bhi kr sakta hai*/
