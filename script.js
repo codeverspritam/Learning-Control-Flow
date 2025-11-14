@@ -543,3 +543,18 @@ function add(a1 = 0, a2 = 0) {
 }
 add(1 + 2);
 
+/*Rest operator */
+// jab arguments kai saare ho to humein utne hi parameter banaana padege, issey bachne ke liye, hum rest ka use karte hai... agar... function ke parameter  space main lage to wo rest operator hai.
+{
+  function abcd(a, b, c, ...val) {
+    console.log(val);
+  }
+  abcd(1, 2, 3, 4, 5, 6);
+}
+{
+  function abcd(v) {
+    return 12 + v;
+  }
+  let val = abcd(24);
+  console.log(val);
+}
