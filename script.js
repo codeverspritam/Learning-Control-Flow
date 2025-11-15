@@ -695,3 +695,9 @@ function greet() {
     return a * b;
   };
 }
+
+/* Q3: Identify the parameter and arguments */
+function welcome(country) {
+  console.log(country);
+} // country = parameter
+welcome("India"); // "India" = argument
