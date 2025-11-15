@@ -654,3 +654,13 @@ abcd()();
 (function () {
   console.log("hay");
 })();
+
+// Hosting 
+/*Agar hm function statement banai to hm run kar sakte hai funson ko pehele agar vo hosting ho   */
+{
+  abcd();
+
+  function abcd() {
+    console.log("hey");
+  }
+}
