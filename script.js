@@ -683,3 +683,15 @@ greet();
 function greet() {
   console.log("Hello!");
 }
+
+/*Q2: Convert this function into an arrow function */
+
+{
+  function multiply(a, b) {
+    return a * b;
+  }
+  /*now in arrow function */
+  let multiply = (a, b) => {
+    return a * b;
+  };
+}
