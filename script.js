@@ -655,7 +655,7 @@ abcd()();
   console.log("hay");
 })();
 
-// Hosting 
+// Hosting
 /*Agar hm function statement banai to hm run kar sakte hai funson ko pehele agar vo hosting ho   */
 {
   abcd();
@@ -663,4 +663,23 @@ abcd()();
   function abcd() {
     console.log("hey");
   }
+}
+
+/*Q.1: What's the diffrence between function declaration and expresssion in terms of hoisting? */
+
+//this is  hoisting
+abcd();
+
+function abcd() {}
+
+//this is not hoisting
+abcd();
+
+let abcd = function () {};
+// hoisting example
+
+greet();
+
+function greet() {
+  console.log("Hello!");
 }
