@@ -701,3 +701,9 @@ function welcome(country) {
   console.log(country);
 } // country = parameter
 welcome("India"); // "India" = argument
+
+/*Q4: How many parameters does this function have, and how many arguments are passed?*/
+function demo(a, b, c) {
+  demo(1, 2);
+}
+/*3 parameters and 2 argunments */
