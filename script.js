@@ -709,8 +709,14 @@ function demo(a, b, c) {
 /*3 parameters and 2 argunments */
 
 /*Q5: predict output */
-function sayHi(name = "Guest"){
+function sayHi(name = "Guest") {
   console.log("Hi", name);
 }
-sayHi() 
+sayHi();
 /*Output = Hi Guest */
+
+/*Q6: What does the ... operator mean in parameters ? */
+function abcd(...val) {
+   console.log(...val);
+}
+abcd(1, 2, 3, 4, 5, 6);
