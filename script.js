@@ -836,3 +836,32 @@ console.log(multiplyByTen(5)); // Output: 50
     console.log("hay");
   });
 }
+
+/*Q13: What is a highter-order function? */
+/*Higher-order functions are a fundamental concept in functional programming and allow for greater abstraction, reusability, and composability of code. */
+/*A higher-order function is a function that does at least one of the following:
+
+1. Takes one or more functions as arguments.*/
+
+// Example from your code: The operate function takes add or subtract as an argument.
+
+function operate(num1, num2, operation) {
+  return operation(num1, num2);
+}
+
+/*2. Returns a function as its result.*/
+
+//Example from your code: The createMultiplier function returns an anonymous function.
+
+function createMultiplier(factor) {
+  return function (number) {
+    return number * factor;
+  };
+}
+
+{
+  function abcd(val) {
+    val();
+  }
+  abcd(function () {});
+}
