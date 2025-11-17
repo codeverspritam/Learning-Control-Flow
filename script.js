@@ -802,3 +802,27 @@ const multiplyByTen = createMultiplier(10);
 
 console.log(multiplyByTwo(5)); // Output: 10
 console.log(multiplyByTen(5)); // Output: 50
+
+/*Q11: Can you assign a function a variable and then call it show how. */
+{
+  let a = function () {};
+  a();
+
+  // Define a function
+  function sayHello() {
+    return "Hello from the function!";
+  }
+
+  // Assign the function to a variable
+  const myFuncVariable = sayHello;
+
+  // Call the function using the variable
+  console.log(myFuncVariable()); // Output: Hello from the function!
+
+  // You can also define an anonymous function and assign it directly
+  const greetUser = function (name) {
+    return `Hi, ${name}!`;
+  };
+
+  console.log(greetUser("Alice")); // Output: Hi, Alice!
+}
