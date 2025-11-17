@@ -758,3 +758,47 @@ function checkAge(age) {
   console.log(f());
   /*Output = Undefined */
 }
+
+/*Q10: What does it mean when we say "functions are first-class citizens"? */
+
+/*In JavaScript, when we say "functions are first-class citizens" (or "first-class functions"), it means that functions are treated like any other variable. You can:
+
+1. Assign them to variables: Store a function in a variable.
+2. Pass them as arguments: Send a function as an input to another function.
+3. Return them from other functions: A function can produce another function as its output.
+Here's a code example demonstrating these concepts: */
+// 1. Assigning a function to a variable
+const greet = function (name) {
+  return `Hello, ${name}!`;
+};
+
+console.log(greet("Alice")); // Output: Hello, Alice!
+
+// 2. Passing a function as an argument (callback)
+function operateOnNumbers(num1, num2, operation) {
+  return operation(num1, num2);
+}
+
+const add = function (a, b) {
+  return a + b;
+};
+
+const subtract = function (a, b) {
+  return a - b;
+};
+
+console.log(operateOnNumbers(10, 5, add)); // Output: 15
+console.log(operateOnNumbers(10, 5, subtract)); // Output: 5
+
+// 3. Returning a function from another function (higher-order function / closure)
+function createMultiplier(factor) {
+  return function (number) {
+    return number * factor;
+  };
+}
+
+const multiplyByTwo = createMultiplier(2);
+const multiplyByTen = createMultiplier(10);
+
+console.log(multiplyByTwo(5)); // Output: 10
+console.log(multiplyByTen(5)); // Output: 50
