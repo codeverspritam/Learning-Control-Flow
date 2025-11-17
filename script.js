@@ -865,3 +865,10 @@ function createMultiplier(factor) {
   }
   abcd(function () {});
 }
+
+/*Q14: Convert the above function into a pure function */
+let total = 0;
+function addTotal(num) {
+  let newtotal = total;
+  newtotal += num;
+}
