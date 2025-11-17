@@ -740,7 +740,7 @@ function checkAge(age) {
   } else {
     console.log("Allowed");
   }
-    /*so */
+  /*so */
   {
     function checkage(age) {
       if (age < 18) return "Too young";
@@ -748,4 +748,13 @@ function checkAge(age) {
     }
     console.log(checkage(22));
   }
+}
+
+/*Q9: What is the return value of this function? */
+{
+  function f() {
+    return;
+  }
+  console.log(f());
+  /*Output = Undefined */
 }
