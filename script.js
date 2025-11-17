@@ -732,3 +732,20 @@ abcd(1, 2, 3, 4, 5, 6);
   }
   console.log(getScore(10, 12, 14, 16, 18));
 }
+
+/*Q8: Fix the function using early return. */
+function checkAge(age) {
+  if (age < 18) {
+    console.log("Too young");
+  } else {
+    console.log("Allowed");
+  }
+    /*so */
+  {
+    function checkage(age) {
+      if (age < 18) return "Too young";
+      return "Allowed";
+    }
+    console.log(checkage(22));
+  }
+}
