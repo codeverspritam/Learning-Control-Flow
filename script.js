@@ -872,3 +872,16 @@ function addTotal(num) {
   let newtotal = total;
   newtotal += num;
 }
+
+/*Q15: What is a closure? when is it created? */
+/*A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In simpler terms, a closure gives you access to an outer function's scope from an inner function.*/
+
+/*When is it created?
+A closure is created every time a function is created, at function creation time. It "remembers" its lexical environment (the variables and functions that were in scope where it was defined) even when the function is executed outside that environment. */
+
+function abcd() {
+  let val = 0;
+  return function () {
+    console.log(val);
+  };
+}
