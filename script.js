@@ -707,3 +707,10 @@ function demo(a, b, c) {
   demo(1, 2);
 }
 /*3 parameters and 2 argunments */
+
+/*Q5: predict output */
+function sayHi(name = "Guest"){
+  console.log("Hi", name);
+}
+sayHi() 
+/*Output = Hi Guest */
