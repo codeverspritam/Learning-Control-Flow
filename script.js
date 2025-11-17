@@ -717,6 +717,18 @@ sayHi();
 
 /*Q6: What does the ... operator mean in parameters ? */
 function abcd(...val) {
-   console.log(...val);
+  console.log(...val);
 }
 abcd(1, 2, 3, 4, 5, 6);
+
+/*Q7: Use rest parameter to accept any number of scores and return the total. */
+{
+  function getScore(...scores) {
+    let total = 0;
+    scores.forEach(function (val) {
+      total = total + val;
+    });
+    return total;
+  }
+  console.log(getScore(10, 12, 14, 16, 18));
+}
