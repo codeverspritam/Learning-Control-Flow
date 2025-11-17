@@ -826,3 +826,13 @@ console.log(multiplyByTen(5)); // Output: 50
 
   console.log(greetUser("Alice")); // Output: Hi, Alice!
 }
+
+/*Q12: Pass a function into another function and execute it inside. */
+{
+  function abcd() {
+    val();
+  }
+  abcd(function () {
+    console.log("hay");
+  });
+}
