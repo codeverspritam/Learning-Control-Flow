@@ -905,3 +905,45 @@ function abcd() {
 (function init() {
   console.log("now i am IIFE functionF");
 });
+
+/*Q18: What is the use of IIFE? Name one real-world use case. */
+//An Immediately Invoked Function Expression (IIFE) is a JavaScript function that runs as soon as it is defined.
+
+/*Use of IIFE:
+The primary use of an IIFE is to create a private scope for variables and functions, thereby preventing them from polluting the global scope. This helps in avoiding naming conflicts and keeps the global namespace clean.*/
+
+/*Real-world use case:
+A common real-world use case for IIFEs is in the Module Pattern to encapsulate code and create private variables and methods, exposing only a public interface. This was widely used before ES6 modules became standard.*/
+{
+  let MyModule = (function () {
+    let privateVariable = "I am private";
+
+    function privateMethod() {
+      console.log(privateVariable);
+    }
+
+    return {
+      publicMethod: function () {
+        console.log("This is a public method.");
+        privateMethod();
+      },
+      publicProperty: "I am public",
+    };
+  })();
+}
+
+MyModule.publicMethod(); // Output: This is a public method. \n I am private
+// console.log(MyModule.privateVariable); // Undefined - cannot access private variable
+{
+  let points = (function () {
+    let score = 0;
+    return {
+      getScore: function () {
+        console.log(score);
+      },
+      setScore: function (val) {
+        score = val;
+      },
+    };
+  })();
+}
