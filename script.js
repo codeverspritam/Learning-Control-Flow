@@ -900,3 +900,8 @@ function abcd() {
   counter(); // output = 1
   counter(); // output = 2
 }
+
+/*Q17: Convert this normal funtion into an IIFE */
+(function init() {
+  console.log("now i am IIFE functionF");
+});
