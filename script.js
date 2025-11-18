@@ -885,3 +885,18 @@ function abcd() {
     console.log(val);
   };
 }
+
+/*Q16: What will console.log output? */
+
+{
+  function outer() {
+    let count = 0;
+    return function () {
+      count++;
+      console.log(count);
+    };
+  }
+  let counter = outer();
+  counter(); // output = 1
+  counter(); // output = 2
+}
