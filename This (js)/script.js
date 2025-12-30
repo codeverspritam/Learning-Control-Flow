@@ -1,0 +1,2 @@
+// this keyword aak special keyword hai, kyuki jaise ki baaki saare keyword ki value ya unka nature same rehta hai this ki value ya nature badal jaata hai baat se ki aap usey kaha use kar rahe ho
+// commit-note: (this definition)
