@@ -15,3 +15,9 @@
 /*This ki value  global scope mai > window  */
 /*This ki value  function scope mai > window  */
 /*This ki value  object ke method ke ander > object */
+
+// event handler
+
+document.querySelector("h1").addEventListener("click", function () {
+    console.log(this.style.color = "red"); 
+});
