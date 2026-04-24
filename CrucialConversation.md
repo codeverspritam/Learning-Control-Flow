@@ -1049,3 +1049,258 @@ Dialogue mein jo sabse behtareen hain wo Mutual Purpose dhoondne ke liye chaar s
 Jaise zyada-tar dialogue skills ke saath hota hai, agar aap dialogue par wapas aana chahte hain, toh aapko Dil se Shuru (Start with Heart) karna hoga. Is case mein, aapko sehmat hone par sehamat hona hoga. Kamyab hone ke liye, humein dusron ko apne view par majboor karne ke liye silence ya violence use karna band karna hoga. Humein jhoothe dialogue ko bhi chhodna hoga, jahan hum Mutual Purpose hone ka dikhawa karte hain (shanti se tab tak apni side argue karna jab tak dusra insaan haar na maan le). Hum Dil se Shuru karte hain ye wada karke ki hum conversation mein tab tak bane rahenge jab tak hum koi aisa solution nahi nikal lete jo hum dono ke common purpose ko serve kare.
 
 Ye mushkil ho sakta hai. Behas band karne ke liye, humein ye yakeen thoda side mein rakhna hoga ki hamari choice hi sabse behtareen aur wahid choice hai, aur hum tab tak khush nahi honge jab tak humein wahi nahi mil jata jo hum abhi chahte hain. Humein apna dimaag is baat ke liye kholna hoga ki shayad, shayad koi alag choice ho sakti hai...
+
+---
+## 6
+
+### It's not how you play the game, it's how the game plays you.
+
+### Master My Stories
+**Kaise Dialogue mein rahein jab aap Angry, Scared, ya Hurt hon**
+
+Is point par shayad aap apne aap se keh rahe honge, "Main ye sab cheezein kaise yaad rakhu—khas kar tab jab mere emotions garam magma ki tarah ubal rahe hon?"
+
+Yeh chapter explore karta hai ki kaise aap apni emotions par control pa kar crucial conversations ko kabu mein kar sakte hain. Apne feelings par asar daalna seekh kar, aap apne aap ko ek behtar position mein payenge un sab tools ko use karne ke liye jo humne ab tak explore kiye hain.
+
+---
+
+### USNE MUJHE GUSSA DILAYA!
+
+Aapne kitni baar kisi ko kehte suna hai: "Usne mujhe gussa dilaya!"? Aapne khud ye kitni baar kaha hai? For instance, aap ghar par sukoon se TV dekh rahe hain aur aapki mother-in-law (jo aapke saath rehti hain) andar aati hain. Wo idhar-udhar dekhti hain aur phir us gandagi (mess) ko saaf karne lagti hain jo aapne kuch der pehle nachos banate waqt ki thi. Ye baat aapko chidha deti hai (ticks you off). Wo hamesha ghar mein smugly ghoomti rehti hain, ye sochte hue ki aap ek slob (gande rehne waale) hain.
+
+Kuch der baad jab aapka spouse aapse puchta hai ki aap itne upset kyun hain, toh aap explain karte hain, "Ye phir se tumhari mummy hain. Main yahan maze se leta tha jab unhone mujhe wo look diya, aur isne mujhe sach mein bharka diya. Sach toh ye hai ki main chahta hoon wo ye sab band kar dein. Mera akela chhutti ka din hai, main sukoon se relax kar raha hoon, aur tabhi wo aati hain aur mere buttons push karti hain."
+
+"Kya wo tumhare buttons push karti hain?" aapka spouse puchta hai. "Ya tum khud karte ho?"
+
+Ye ek interesting sawal hai.
+
+Ek baat toh pakki hai. Chahe buttons koi bhi push kar raha ho, kuch log doosron ke muqable zyada explosive tareeke se react karte hain—wo bhi ek hi tarah ke stimulus par. Aisa kyun hai? For example, kya cheez kuch logon ko is kaabil banati hai ki wo kadwi feedback (withering feedback) bina palke jhapkaye sun lete hain, jabki doosre tabhi gussa ho jate hain jab aap unhe batate hain ki unki thodi (chin) par salsa laga hai? Aisa kyun hota hai ki kabhi kabhi aap khud ek verbal attack ko bina asar ke seh lete hain, par doosri baar aap ballistic ho jate hain agar koi aapko halka sa tirchi nazar se bhi dekh le?
+
+---
+
+### EMOTIONS BAS YUNHI NAHI HO JATE
+
+In sawalon ka jawab dene ke liye, hum do kafi bold (aur shayad unpopular) claims se shuru karenge. Phir, apni baat rakhne ke baad, hum har claim ke peeche ki logic samjhayenge.
+
+**Claim One:** Emotions aap par kisi dhund (fog) ki tarah nahi chha jate. Wo doosron dwara aap par thope nahi jate. Chahe aapko ye kehne mein kitna bhi sukoon mile—doosre aapko gussa nahi dilate.
+
+Aap khud apne aap ko gussa dilate hain. Aap aur sirf aap apne emotions create karte hain.
+
+**Claim Two:** Ek baar jab aapne apne emotions create kar liye, toh aapke paas sirf do options hote hain: Aap un par act kar sakte hain ya unke dwara act kiye ja sakte hain (acted on by them). Yani ki, jab baat strong emotions ki aati hai, toh ya toh aap unhe master karne ka raasta dhundte hain ya unke hostage (qaidi) ban jate hain. Dekhiye ye sab kaise shuru hota hai.
+
+---
+
+### MARIA KI STORY
+
+Maria ke baare mein sochiye, jo ek copywriter hai aur filhal kuch bahut strong emotions ki hostage hai. Usne aur uske colleague Louis ne abhi apne boss ke saath ek proposal ka latest draft review kiya hai. Meeting ke dauran, unhe mil kar apne latest ideas present karne the. Par jab Maria ne saans lene ke liye thoda pause liya, Louis ne presentation sambhaal li aur lagbhag wo saare points bol diye jo unhone mil kar banaye the. Jab boss Maria ki taraf input ke liye mude, toh uske paas kehne ke liye kuch bacha hi nahi tha.
+
+Maria is poore project ke dauran humiliated aur angry feel kar rahi hai. Pehle, Louis unke suggestions boss ke paas le gaya aur unke peeche un par discuss kiya. Doosra, usne presentation ko poori tarah monopolize kar liya. Consequently, Maria ko lagta hai ki Louis uske contribution ko kam dikha raha hai kyunki wo team mein akeli aurat hai.
+
+Wo uske "boys' club" mentality se tang aa rahi hai. Toh wo kya karti hai? Wo "oversensitive" nahi dikhna chahti, isliye zyada tar waqt wo kuch nahi kehti aur bas apna kaam karti hai. Halanki, wo kabhi kabhi sarcastic comments (taane) maar kar apni baat rakhne ki koshish karti hai.
+
+"Sure, main tumhare liye wo printout la sakti hoon. Kya mujhe tumhari coffee bhi lani chahiye aur saath mein ek cake bhi bana dena chahiye?" wo budbudati hai, aur room se nikalte waqt apni aankhein roll karti hai.
+
+Louis ko, badle mein, Maria ke ye saste comments aur sarcasm ajeeb lagte hain. Use samajh nahi aa raha ki Maria kyun upset hai par wo uske smug attitude aur har kaam par hostile reaction se nafrat karne laga hai. Result ye hai ki, jab dono saath kaam karte hain, toh tension itni zyada hoti hai ki use chaku se kata ja sake.
+
+---
+
+### Maria Ko Kya Cheez Gussa dila rahi hai?
+
+Dialogue mein sabse bure log usi jaal (trap) mein phans jate hain jisme Maria phansi hai. Maria ek khatarnaak assumption (andaze) se bilkul bekhabar hai jo wo laga rahi hai. Wo overlook kiye jaane par upset hai aur professional silence banaye huye hai. Wo assume kar rahi hai ki uske emotions aur behavior hi is situation mein wahed sahi aur reasonable reactions hain. Use yakeen hai ki uski jagah koi bhi hota toh aisa hi feel karta.
+
+Yahan problem ye hai. Maria apne emotions ko aise treat kar rahi hai jaise wo hi ekmatra valid response hon. Kyunki, uske dimaag mein, wo justified aur accurate hain, wo unhe badalne ya un par sawal uthane ki koi koshish nahi karti. In fact, uski nazar mein, Louis unka kaaran hai. Ultimately, uske actions (kuch na kehna aur taane maarna) inhi emotions se drive ho rahe hain. Kyunki wo apne emotions par control nahi kar rahi, uske emotions us par control kar rahe hain—uske behavior ko chalana aur Louis ke saath uske bigadte rishte ko lead karna. Dialogue mein sabse bure log apne emotions ke hostage hote hain, aur unhe pata tak nahi hota.
+
+Dialogue mein jo log achhe hain wo samajhte hain ki agar unhone apne emotions control nahi kiye, toh maamla aur bigad jayega. Isliye wo kuch aur try karte hain. Wo ise fake karte hain. Wo apne reactions ko daba dete hain (choke down) aur phir dialogue mein wapas aane ki poori koshish karte hain. Kam se kam, wo ek koshish toh karte hain.
+
+Badkismati se, jaise hi wo kisi crucial conversation mein kisi mushkil mod par pahunchte hain, unke dabaye huye emotions bahar nikal aate hain. Wo tiche huye jabdon (tightened jaws) ya sarcastic comments ke roop mein dikhayi dete hain. Dialogue par asar padta hai. Ya shayad unka dar (fear) unhe wo kehne se rok deta hai jo wo sach mein sochte hain. Meaning source par hi kat jata hai. Kisi bhi case mein, unke emotions us choti si jagah (cubbyhole) se nikal aate hain jahan unhe thoosa gaya tha aur conversation mein raasta bana lete hain. Ye kabhi achha nahi hota, aur ye hamesha dialogue ko khatam kar deta hai.
+
+Dialogue mein jo sabse behtar hain wo kuch bilkul alag karte hain. Wo apne emotions ke hostage nahi bante, aur na hi wo unhe chhupane ya dabane ki koshish karte hain. Iske bajaye, wo apne emotions par act karte hain. Yani ki, jab unhe strong feelings hoti hain, toh wo un par asar daalte hain (aur aksar badal dete hain) unhe soch-samajh kar (thinking them out). Result ke taur par, wo apne emotions khud chunte hain, aur aisa karke, un behaviors ko chunna mumkin banate hain jo behtar results create karte hain.
+
+Ye, zahir hai, kehna asaan hai par karna mushkil. Aap apne aap ko ek emotional aur khatarnaak state se wapas control waali state mein kaise layenge?
+
+Maria ko kahan se shuru karna chahiye? Apne emotions ko dobara sochne ya un par control paane ke liye, pehle ye dekhte hain ki hamari feelings aati kahan se hain. Chaliye ek model dekhte hain jo humein pehle apne emotions ko examine karne aur phir un par control paane mein madad karta hai.
+
+Maria ke baare mein sochiye. Wo hurt feel kar rahi hai par use darr hai ki agar usne Louis se kuch kaha, toh wo bahut emotional lagegi, isliye wo apni feelings ko andar dabane (avoiding) aur saste taane maarne (masking) ke beech chalti rehti hai.
+
+Jaisa ki Figure 6-1 dikhata hai, Maria ke actions uski feelings se nikalte hain. Pehle wo feel karti hai aur phir wo act karti hai. Ye kafi simple hai, par ye sawal khada karta hai: Maria ki feelings ka asar pehle kahan se ho raha hai?
+
+Kya ye Louis ka behavior hai? Jaisa ki nacho-mother-in-law ke case mein tha, kya Louis ne Maria ko insulted aur hurt feel karwaya? Maria ne Louis ko kuch karte huye suna aur dekha, usne ek emotion generate kiya, aur phir apne feelings par act kiya—masking aur avoiding ka use karte huye.
+
+Toh bada sawal ye hai: Louis ke act karne aur Maria ke feel karne ke beech kya hota hai? Kya koi beech ka step hai jo kisi aur ke actions ko hamari feelings mein badal deta hai? Agar nahi, toh ye sach hona chahiye ki doosre humein waisa feel karwate hain jaisa hum karte hain.
+
+---
+
+### STORIES FEELINGS CREATE KARTI HAIN
+
+Jaisa ki pata chala hai, doosre jo karte hain aur hum kaisa feel karte hain, uske beech ek intermediate step hota hai. Isiliye, jab ek hi tarah ki circumstances ka saamna hota hai, toh das logon ke das alag emotional responses ho sakte hain. For instance, Louis jaise coworker ke saath, kuch log insulted feel kar sakte hain jabki doosre sirf curious feel karte hain. Kuch gussa ho jate hain aur doosre concern ya sympathy feel karte hain.
+
+Ye intermediate step kya hai? Doosre jo karte hain use observe karne ke thik baad aur unke baare mein koi emotion feel karne ke thik pehle, hum apne aap ko ek story sunate hain. Yani ki, hum us action mein jo humne dekha, ek meaning add karte hain. Simple behavior mein hum maqsad (motive) add karte hain. Wo aisa kyun kar rahe the? Hum judgment bhi add karte hain—kya ye achha hai ya bura? Aur phir, in thoughts ya stories ke basis par, hamari body ek emotion ke saath respond karti hai.
+
+Pictorially ye Figure 6-2 ke model jaisa dikhta hai. Hum is model ko apna **Path to Action** kehte hain kyunki ye explain karta hai ki kaise emotions, thoughts, aur experiences hamare actions tak le jaate hain.
+
+Aap notice karenge ki humne apne model mein **telling a story** add kiya hai. Hum observe karte hain, hum ek story sunate hain, aur phir hum feel karte hain. Halanki ye addition cheezon ko thoda complex bana deta hai, par ye humein umeed bhi deta hai. Kyunki hum aur sirf hum hi story suna rahe hain, hum apni emotions ka control wapas le sakte hain ek alag story suna kar. Ab hamare paas leverage ya control ka ek point hai. Agar hum stories ko control karne ka raasta dhund sakein, unhe dobara soch kar ya dobara suna kar, toh hum apne emotions ko master kar sakte hain aur, isliye, apne crucial conversations ko master kar sakte hain.
+
+---
+
+### HAMARI STORIES
+
+"Is duniya mein kuch bhi achha ya bura nahi hai, bas hamari soch use aisa banati hai."
+**- WILLIAM SHAKESPEARE**
+
+Stories explain karti hain ki kya ho raha hai. Exactly hamari stories kya hain?
+
+Wo facts ke hamare interpretations hain. Wo humein explain karne mein madad karti hain jo hum dekhte aur sunte hain. Wo aisi theories hain jinhe hum ye samjhane ke liye use karte hain ki kyun, kaise, aur kya. For instance, Maria puchti hai: "Louis kyun take over karta hai? Use meri communicate karne ki ability par bharosa nahi hai. Wo sochta hai ki kyunki main ek aurat hoon, log meri baat nahi sunenge."
+
+Hamari stories ye samjhane mein bhi madad karti hain ki kaise. "Mujhe is sab ko kaise judge karna chahiye? Kya ye achhi cheez hai ya buri? Louis sochta hai ki main incompetent hoon, aur ye bura hai."
+
+Finally, ek story mein 'kya' bhi shamil ho sakta hai. "Mujhe is sab ke baare mein kya karna chahiye? Agar main kuch kahungi, toh wo sochega ki main rone waali (whiner) hoon ya oversensitive hoon ya militant hoon, isliye chup rehna hi behtar hai."
+
+Zahir hai, jaise hi hum apna meaning ya stories banate hain, hamari body strong feelings ya emotions ke saath respond karne lagti hai—wo directly hamare right/wrong, good/bad, kind/selfish, fair/unfair, etc. ke judgments se judi hoti hain. Maria ki story gussa aur frustration paida karti hai. Ye feelings, badle mein, Maria ko uske actions ki taraf le jaati hain—chup rehne aur kabhi kabhi saste taane maarne ke beech switch karte huye (Figure 6-3 dekhiye).
+
+**Chahe aapko ehsas na ho, aap apne aap ko stories suna rahe hain.**
+
+Jab hum logon ko sikhate hain ki ye hamari stories hain jo hamare emotions ko chalti hain na ki doosre logon ke actions, toh koi na koi zaroor haath uthata hai aur kehta hai, "Rukiye ek minute! Maine apne aap ko story sunate huye notice nahi kiya. Jab us aadmi ne meri presentation ke dauran mujh par hasa, toh mujhe bas gussa aaya. Feelings pehle aayi; thoughts baad mein."
+
+Storytelling aam taur par bahut tez hoti hai. Jab humein lagta hai ki hum khatre (risk) mein hain, toh hum apne aap ko itni jaldi story suna dete hain ki humein pata bhi nahi chalta ki hum aisa kar rahe hain. Agar aapko yakeen nahi hai ki ye sach hai, toh apne aap se puchiye ki kya aap hamesha gussa hote hain jab koi aap par hasta hai. Agar kabhi aap hote hain aur kabhi nahi, toh aapka response hardwired nahi hai. Iska matlab hai ki doosron ke hasne aur aapke feel karne ke beech kuch hota hai. Sach toh ye hai ki aap ek story sunate hain. Shayad aapko yaad na rahe, par aap story sunate hain.
+
+Kisi bhi facts ke set ko use karke anant (infinite) stories sunayi ja sakti hain. Stories bas wahi hain, stories. In fabrications ko hazaron alag tareekon se sunaya ja sakta hai. For instance, Maria utni hi asani se ye faisla kar sakti thi ki Louis ko ehsas nahi tha ki wo project ke baare mein itna care karti hai. Wo ye nateeja nikal sakti thi ki Louis unimportant feel kar raha tha aur ye dikhane ka ek tareeka tha ki wo valuable hai. Ya shayad wo past mein dhokha kha chuka tha kyunki usne personally project ki har detail nahi dekhi thi. Inmein se koi bhi story facts par fit baithti aur bahut alag emotions paida karti.
+
+Agar hum apni stories par control kar lein, toh wo humein control nahi karengi. Jo log dialogue mein excel karte hain wo crucial conversations ke dauran apne emotions ko influence karne ke kaabil hote hain. Wo pehchante hain ki jabki ye sach hai ki shuru mein hum apni stories ke control mein hote hain—aakhirkar hum unhe apni marzi se banate hain—ek baar sunaye jaane ke baad, stories humein control karti hain. Wo control karti hain ki hum kaisa feel karte hain aur kaise act karte hain. Aur result ke taur par, wo un results ko control karti hain jo humein crucial conversations se milte hain.
+
+Lekin aisa hona zaroori nahi hai. Hum alag stories suna sakte hain aur is loop ko tod sakte hain. In fact, jab tak hum alag stories nahi sunate, hum loop nahi tod sakte.
+
+Agar aap apne crucial conversations se behtar results chahte hain, toh un stories ko badlein jo aap apne aap ko sunate hain—yahan tak ki jab aap behas ke beech mein hon.
+
+---
+
+### SKILLS FOR MASTERING OUR STORIES
+
+Alag stories banane ka sabse asar-daar tareeka kya hai? Dialogue mein sabse behtar log pehle slow hone ka raasta dhundte hain aur phir apne Path to Action ka charge lete hain. Dekhiye kaise.
+
+#### Apna Path Retrace Karein
+Tez-raftaar storytelling process aur uske baad adrenaline ke flow ko slow karne ke liye, apne Path to Action ko retrace karein—ek ek element karke. Iske liye thodi mental gymnastics ki zaroorat hoti hai. Pehle aapko wo rokna hoga jo aap filhal kar rahe hain. Phir aapko us wajah se judna hoga ki aap aisa kyun kar rahe hain. Apne path ko retrace karne ka tareeka ye hai:
+
+* **[Act] Apne behavior ko notice karein.** Puchein: Kya main silence ya violence ke kisi form mein hoon?
+* **[Feel] Apni feelings se judein.** Kaunse emotions mujhe is tarah act karne ke liye encourage kar rahe hain?
+* **[Tell story] Apni stories ko analyze karein.** Kaunsi story ye emotions create kar rahi hai?
+* **[See/hear] Facts par wapas jayein.** Mere paas is story ko support karne ke liye kya saboot (evidence) hai?
+
+Ek ek element karke apne path ko retrace karke, aap apne aap ko is position mein rakhte hain ki aap kisi bhi ek ya zyada elements ke baare mein soch sakein, sawal kar sakein aur unhe badal sakein.
+
+#### Apne Behavior Ko Notice Karein
+Aap pehle apne Path to Action ko kyu rokenge aur retrace karenge? Zahir hai agar aap hamesha jo kar rahe hain use rok kar apne underlying motive aur thoughts ko dhundenge, toh aap apne joote bhi nahi pehen payenge bina soche huye pata nahi kab tak. Aap "analysis paralysis" se mar jayenge.
+
+Actually, aapko hamesha apne actions ko rok kar sawal nahi karna chahiye. Agar aap **Learn to Look** seekh lein (jaisa humne Chapter 4 mein suggest kiya tha) aur note karein ki aap khud silence ya violence mein phisalkar ja rahe hain, toh aapke paas rukne aur jaiza lene ki achhi wajah hai.
+
+Lekin sirf dekhna kafi nahi hai. Aapko imandari se dekhna hoga ki aap kya kar rahe hain. Agar aap apne aap ko story sunate hain ki aapka violent behavior ek "zaroori tactic" hai, toh aapko apne actions par dobara sochne ki zaroorat nahi lagegi. Agar aap turant "unhone shuru kiya tha" keh dete hain, ya kisi aur tarah se apne behavior ko justify karte hain, toh aapko badalne ki zaroorat mehsoos nahi hogi. Rukne aur review karne ke bajaye, aap apna waqt apne actions ko khud ko aur doosron ko sahi thahrane (justifying) mein lagayenge.
+
+Jab koi unhelpful story aapko silence ya violence ki taraf le ja rahi ho, toh rukein aur sochein ki doosre aapke actions ko kaise dekhenge. For example, agar 60 Minutes ki camera crew is scene ko national television par replay kare, toh aap kaise lagenge? Wo aapke behavior ke baare mein kya batayenge?
+
+Crucial conversations mein jo sabse behtar hain wo na sirf ye notice karte hain ki wo kab silence ya violence mein phisalkar ja rahe hain, balki wo ise maan ne ke kaabil bhi hote hain. Wo self-doubt mein nahi doobte, par wo problem ko pehchante hain aur corrective action lena shuru karte hain. Jis pal unhe ehsas hota hai ki wo dialogue ko khatam kar rahe hain, wo apna Path to Action review karte hain.
+
+#### Apni Feelings Se Judein
+Jaise hi skilled log apna Path to Action retrace karna shuru karte hain, wo turant apne unhealthy behavior ko examine karne se hat kar apni feelings ya emotions ko explore karne lagte hain. Pehli nazar mein ye task asaan lagta hai. "Mujhe gussa aa raha hai!" aap apne aap se sochte hain. Isse asaan kya ho sakta hai?
+
+Actually, apne emotions ko pehchanna usse zyada mushkil hai jitna aap soch sakte hain. In fact, bahut se log "emotionally illiterate" hote hain. Jab unse pucha jata hai ki wo kaisa feel kar rahe hain, toh wo "bad" ya "angry" ya "frightened" jaise words use karte hain—jo sahi hota agar ye accurate descriptors hote, par aksar wo nahi hote. Log kehte hain ki wo angry hain jabki, sach toh ye hai ki, wo embarrassment aur surprise ka mix feel kar rahe hain. Ya wo suggest karte hain ki wo unhappy hain jab wo violated feel kar rahe hon. Shayad wo kahein ki wo upset hain jab wo sach mein humiliated aur cheated feel kar rahe hon.
+
+Kyunki life vocabulary tests ki series nahi hai, aap soch sakte hain ki words se kya farq padta hai. Par words matter karte hain. Ye jaanna ki aap sach mein kya feel kar rahe hain, aapko ek zyada accurate nazar dalne mein madad karta hai ki kya ho raha hai aur kyun. For instance, aap us story par imandari se nazar dalne ke zyada kabil honge jo aap apne aap ko suna rahe hain agar aap ye maan lein ki aap embarrassed aur surprised feel kar rahe hain na ki sirf angry.
+
+Aapke baare mein kya khayal hai? Jab strong emotions feel hote hain, toh kya aap ruk kar apni feelings ke baare mein sochte hain? Agar haan, toh kya aap ek rich vocabulary use karte hain, ya aap zyada tar "bummed out" aur "furious" jaise terms use karte hain? Doosra, kya aap doosron se khul kar baat karte hain ki aap kaisa feel karte hain? Kya aap apne loved ones se willingly baat karte hain ki aapke andar kya chal raha hai? Teesra, aisa karte waqt, kya aapki vocabulary robust aur accurate hai?
+
+Apni feelings se judna zaroori hai, aur aisa karne ke liye, aap apni emotional vocabulary badhana chahenge.
+
+#### Apni Stories Ko Analyze Karein
+Apni feelings aur stories par sawal uthayein. Ek baar jab aapne pehchan liya ki aap kya feel kar rahe hain, toh aapko ruk kar puchna hoga, circumstances ko dekhte huye, kya ye sahi feeling hai? Yani ki, kya aap sahi story suna rahe hain? Aakhirkar, feelings stories se aati hain, aur stories hamari apni invention hain.
+
+Emotional control wapas paane ka pehla step us illusion ko challenge karna hai ki jo aap feel kar rahe hain wahi is situation mein wahed sahi emotion hai. Ye sabse mushkil step ho sakta hai, par ye sabse important bhi hai. Apni feelings par sawal utha kar, hum apne aap ko apni stories par sawal uthane ke liye kholte hain. Hum is comfortable nateeje ko challenge karte hain ki hamari story sahi aur sach hai. Hum willingly sawal karte hain ki kya hamare emotions (jo bahut real hain), aur unke peeche ki story (jo bahut se explanations mein se sirf ek hai), accurate hain.
+
+For instance, Maria ki story mein facts kya the? Usne Louis ko poori presentation dete dekha. Usne boss ko Louis ke saath project discuss karne ke baare mein baat karte suna jab wo wahan nahi thi. Wo Maria ke Path to Action ki shuruat thi.
+
+**Stories ko facts ke saath confuse na karein.** Kabhi kabhi aap apni stories par sawal uthane mein fail ho jate hain kyunki aap unhe immutable facts (na badalne waale sach) ki tarah dekhte hain. Jab aap palke jhapakte hi stories generate karte hain, toh aap us moment mein itna phans sakte hain ki aap apni stories ko facts maan ne lagte hain. Wo facts ki tarah feel hoti hain. Aap subjective conclusions ko steel-hard data points ke saath confuse kar dete hain. For example, facts ko story se alag karne ki koshish mein, Maria keh sakti hai, "Wo ek male chauvinist pig hai—ye fact hai! Kisi se bhi puch lo jisne dekha hai ki wo mere saath kaise treat karta hai!"
+
+"Wo ek male chauvinist pig hai" fact nahi hai. Ye wo story hai jo Maria ne facts ko meaning dene ke liye banayi. Facts ka matlab kuch bhi ho sakta hai. Jaisa humne pehle kaha, doosre Maria aur Louis ke interactions dekh sakte hain aur alag stories ke saath ja sakte hain.
+
+#### Facts Par Wapas Jayein
+Behavior par focus karke fact ko story se alag karein. Fact ko story se alag karne ke liye, apni feelings ke asli source par wapas jayein. Apne ideas ko ek simple criterion par test karein: Kya aap is cheez ko dekh ya sun sakte hain jise aap fact keh rahe hain? Kya ye ek actual behavior tha?
+
+For example, ye ek fact hai ki Louis ne "presentation ka 95 percent diya aur ek ke ilawa baaki saare sawalon ke jawab diye." Ye specific, objective aur verifiable hai. Meeting dekhne waale koi bhi do log yahi observation karenge. Halanki, statement "Wo mujh par bharosa nahi karta" ek conclusion hai. Ye batata hai ki aap kya sochte hain, na ki ye ki doosre person ne kya kiya. Conclusions subjective hote hain.
+
+**"Hot" words ko watch karke story ko pehchanein.** Yahan ek aur tip hai. Story ko fact ke saath confuse karne se bachne ke liye, "hot" terms ka dhyan rakhein. For example, facts ka andaza lagate waqt, aap keh sakte hain, "Usne meri taraf ghoora (scowled)" ya "Usne ek sarcastic comment kiya." "Scowl" aur "sarcastic" jaise words hot terms hain. Wo judgments aur attributions express karte hain jo, badle mein, strong emotions create karte hain. Wo story hain, fact nahi. Notice karein kitna farq hai jab aap kehte hain: "Uski aankhein sikud gayi (pinched shut) aur uske honth tight ho gaye," bajaye iske ki "Usne meri taraf ghoora." Maria ke case mein, usne suggest kiya ki Louis controlling tha aur uska respect nahi karta tha. Agar usne uske behavior par focus kiya hota (wo bahut bola aur boss se one-on-one mila), toh ye kam volatile description kai tarah ke interpretations allow karta. For example, shayad Louis nervous tha, concerned tha, ya apne aap ko lekar unsure tha.
+
+---
+
+### Teen "Clever" Stories Ka Dhyan Rakhein
+
+Jaise hum ye jodne lagte hain ki log waisa kyun kar rahe hain jaisa wo kar rahe hain (ya utna hi important, hum waisa kyun kar rahe hain jaisa hum kar rahe hain), waqt aur experience ke saath hum aise explanations dene mein kafi achhe ho jate hain jo hamare kaam aayein. Ya toh hamari stories bilkul accurate hoti hain aur humein healthy directions mein le jaati hain, ya phir wo kafi inaccurate hoti hain par hamare current behavior ko justify karti hain—humein apne baare mein achha feel karwati hain aur badalne ki koi zaroorat nahi dikhati.
+
+Ye doosre tarah ki story hai jo humein aksar musibat mein dalti hai. For example, hum silence ya violence ki taraf badhte hain, aur phir hum ek bilkul plausible wajah nikal lete hain ki ye kyun thik hai. "Zahir hai main us par chillaya. Kya tumne dekha usne kya kiya? Wo isi ke layak tha." "Hey, mujhe tirchi nazar mat dikhao. Mere paas aur koi raasta nahi tha." Hum in imaginative aur self-serving concoctions ko **"clever stories"** kehte hain. Wo clever hain kyunki wo humein bura behave karne ke baad bhi achha feel karne dete hain. Isse bhi behtar, wo humein bura behave karne par achha feel karne dete hain jabki humein bahut bure results mil rahe hote hain.
+
+Un sab clever stories mein jo hum sunate hain, yahan teen sabse common hain.
+
+#### Victim Stories—"Ismein Meri Galti Nahi Hai"
+Clever stories mein pehli hai **Victim Story**. Victim Stories, jaisa aap soch sakte hain, humein masoom sufferers (innocent sufferers) banati hain. Theme hamesha wahi rehta hai. Doosra aadmi bura aur galat hai, aur hum achhe aur sahi hain. Doosre log buri cheezein karte hain, aur hum nateeje mein suffer karte hain.
+
+Sach toh ye hai ki masoom victim jaisi cheez hoti hai. Aapko raste mein roka jata hai aur gunpoint par loota jata hai. Jab aisa koi event hota hai, toh ye ek dukhad sach (sad fact) hai, story nahi. Aap ek victim hain.
+
+Lekin victimization ki saari kahaniyan itni one-sided nahi hoti hain. Jab aap ek Victim Story sunate hain, toh aap us role ko ignore karte hain jo aapne problem mein nibhaya hai. Aap apni story is tarah sunate hain jo un facts ko hoshiyari se avoid karti hai jo bhi aapne kiya hai (ya karne se reh gaye hain) jisne shayad problem mein contribute kiya ho.
+
+For instance, pichle hafte aapke boss ne aapko ek bade project se hata diya, aur isse aapka dil dukh gaya. Aapne har kisi se complain ki ki aapko kitna bura laga. Beshak, aapne apne boss ko ye batana bhool gaye ki aap ek important project mein peeche the, unhe mushkil mein chhod kar—isiliye unhone aapko pehle hataya tha. Story ka ye hissa aap chhod dete hain kyunki, hey, unhone aapko bura feel karwaya.
+
+Apni Victim Stories ko support karne ke liye aap sirf apne noble motives ki baat karte hain. "Maine zyada waqt liya kyunki main standard specs se behtar karna chahta tha." Phir aap apne aap se kehte hain ki aapko aapki achhaiyon ke liye saza mil rahi hai, buraiyon ke liye nahi. "Wo bas mujh jaise superb attention to detail waale insaan ki kadar nahi karte." (Ye added twist aapko victim se martyr bana deta hai. Kya bonus hai!)
+
+#### Villain Stories—"Ye Sab Tumhari Galti Hai"
+Hum ye gandi chhoti kahaniyan normal, shareef insaanon ko villains bana kar create karte hain. Hum unmein bura maqsad (bad motive) dhundte hain, aur phir hum har kisi ko doosri party ki buraiyon ke baare mein batate hain jaise ki hum duniya par bahut bada ehsan kar rahe hon.
+
+For example, hum ek aise boss ko jo quality ke liye pagal hai, ek **control freak** describe karte hain. Jab hamara spouse upset hota hai ki humne apna waada nahi nibhaya, toh hum use inflexible aur stubborn dekhte hain.
+
+Victim Stories mein hum apni masoomiyat ko exaggerate karte hain. **Villain Stories** mein hum doosre aadmi ki galti par zyada zor dete hain. Hum automatically sabse bure motives assume kar lete hain jabki kisi ke paas koi achha ya neutral intention ho sakta hai use ignore kar dete hain. Labeling Villain Stories mein ek common device hai. For example, "Main yakeen nahi kar sakta ki us **bonehead** ne mujhe phir se ghatiya materials diye." Ek handy label use karke, ab hum ek complex insaan ke saath nahi, balki ek bonehead ke saath deal kar rahe hain.
+
+Na sirf Villain Stories humein bure results ke liye doosron ko blame karne mein madad karti hain, balki wo humein is liye bhi set karti hain ki hum "villains" ke saath jo chahe wo karein. Aakhirkar, hum ek bonehead ko insult ya abuse karke achha feel kar sakte hain—jabki humein ek jeete-jaagte insaan ke saath zyada careful rehna padta. Phir jab hum wo results nahi paate jo hum sach mein chahte hain, toh hum apne ineffective behavior mein phanse rehte hain kyunki, aakhirkar, dekho hum kiske saath deal kar rahe hain!
+
+**Double standard ka dhyan rakhein.** Jab aap Victim aur Villain Stories par dhyan dete hain aur unhe pehchante hain ki wo kya hain—unfair characterizations—toh aap wo bhayanak double standard dekhne lagte hain jo hum tab use karte hain jab hamare emotions out of control hote hain. Jab hum galtiyan karte hain, toh hum Victim Story sunate hain ye claim karte huye ki hamari intentions masoom aur paak (pure) thi. "Zahir hai mujhe ghar aane mein der ho gayi aur maine call nahi kiya, par main team ko peeche nahi chhod sakta tha!" Doosri taraf, jab doosre aisi cheezein karte hain jo humein chot pahunchati hain, toh hum Villain Stories sunate hain jismein hum doosron ke liye bhayanak motives invent karte hain is basis par ki unke actions ne humein kaise affect kiya. "Tum kitne laparwah (thoughtless) ho! Tum mujhe call karke bata sakte the ki tumhe der hone wali hai."
+
+#### Helpless Stories—"Main Aur Kuch Nahi Kar Sakta"
+Aakhir mein aati hain **Helpless Stories**. In fabrications mein hum apne aap ko kuch bhi karne ke liye powerless banate hain. Hum apne aap ko yakeen dila dete hain ki hamari pareshani (predicament) se deal karne ke liye koi healthy alternatives nahi hain, jo us action ko justify karta hai jo hum lene waale hain. Ek Helpless Story suggest kar sakti hai, "Agar main apne bete par nahi chillata, toh wo sunta hi nahi." Ya doosri taraf, "Agar maine apne husband ko ye bataya, toh wo bas defensive ho jayega." Jabki Villain aur Victim Stories peeche dekhti hain ye explain karne ke liye ki hum is situation mein kyun hain, Helpless Stories aage dekhti hain ye explain karne ke liye ki hum badalne ke liye kuch kyun nahi kar sakte.
+
+Ye khaas taur par asaan hota hai helpless act karna jab hum doosron ke behavior ko fixed aur na badalne waale traits mein badal dete hain. For example, jab hum faisla kar lete hain ki hamara boss ek "control freak" hai (Villain Story), toh hum use feedback dene ke liye kam inclined hote hain kyunki, aakhirkar, us jaise control freaks feedback accept nahi karte (Helpless Story). Kuch bhi jo hum karenge wo us fact ko nahi badal sakta.
+
+Jaisa ki aap dekh sakte hain, Helpless Stories aksar Villain Stories se nikalti hain aur aam taur par humein **Sucker's Choices** ke alawa kuch nahi deti.
+
+---
+
+### Hum Clever Stories Kyun Sunate Hain?
+
+**Wo reality se match karti hain.** Kabhi kabhi jo stories hum sunate hain wo accurate hoti hain. Doosra insaan humein nuksan pahunchane ki koshish kar raha hai, hum masoom victims hain, ya shayad hum sach mein problem ke baare mein zyada kuch nahi kar sakte. Aisa ho sakta hai. Ye common nahi hai, par aisa ho sakta hai.
+
+**Wo humein zimmedari se chhutkara dila deti hain (get us off the hook).** Aksar, hamare conclusions reasonable explanations se clever stories mein tab badal jate hain jab wo humein suvidha se kisi bhi zimmedari se bacha lete hain—jab, reality mein, hum partially responsible hote hain. Doosra insaan bura aur galat nahi hai, aur hum sahi aur achhe nahi hain. Sach kahin beech mein hota hai. Halanki, agar hum doosron ko galat aur apne aap ko sahi bana sakein, toh hum azad hain. Isse bhi behtar, ek baar jab humne doosron ko demonize kar diya, toh hum chahein toh unhe insult aur abuse bhi kar sakte hain.
+
+**Clever stories humein apne khud ke sellouts ko manne se rokti hain.** Ab tak ye saaf ho jana chahiye ki clever stories hamare liye problems create karti hain. Is point par ek reasonable sawal ye hai, "Agar wo itni bhayanak nuksandeh (hurtful) hain, toh hum kabhi clever stories kyun sunate hain?"
+
+Hamari clever stories sunane ki zaroorat aksar hamare apne **sellouts** se shuru hoti hai. Maane ya na maane, hum aam taur par aisi stories sunana shuru nahi karte jo hamare actions ko justify karein jab tak ki humne aisa kuch na kiya ho jise humein justify karne ki zaroorat mehsoos ho.
+
+Hum tab **sell out** karte hain jab hum jaan-bujh kar apne us sense ke khilaf act karte hain jo sahi hai. Aur sell out karne ke baad, hamare paas sirf do choices hote hain: apne sellout ko maanna, ya use justify karne ki koshish karna. Aur agar hum apni galtiyon ko nahi maante, toh hum inevitably unhe justify karne ke raaste dhundte hain. Tabhi hum clever stories sunana shuru karte hain.
+
+Chaliye sellout ka ek example dekhte hain: Aap heavy traffic mein drive kar rahe hain. Aap un cars ko pass karna shuru karte hain jo aapki lane mein merge karne ki koshish kar rahi hain. Aapke paas ek car accelerate karti hai aur aapki lane mein enter kar rahi hai. Ek thought aata hai ki aapko use andar aane dena chahiye. Ye ek achhi baat hogi, aur aap bhi chahenge ki koi aapko andar aane de. Par aap nahi karte. Aap aage accelerate karte hain aur gap band kar dete hain. Iske baad kya hota hai? Aapko aise thoughts aane lagte hain: "Wo mujh par aise bheed nahi jama sakta. Kya jerk hai! Main kab se is traffic se lad raha hoon. Iske alawa, mujhe ek important appointment par pahunchna hai." Aur aise hi aage.
+
+Ye story aapko masoom victim aur doosre insaan ko ganda villain banati hai. Is story ke asar mein ab aap apne aap ko sahi (justified) mehsoos karte hain wo na karne ke liye jo aapne shuru mein socha tha ki aapko karna chahiye. Aap ye bhi ignore kar dete hain ki aap doosron ke baare mein kya sochenge jo wahi cheez karein—"Us jerk ne mujhe andar nahi aane diya!"
+
+Ek aise example par gaur karein jo crucial conversations se zyada related ho. Aapke spouse ki ek annoying aadat hai. Ye koi badi baat nahi hai, par aapko lagta hai ki aapko iska zikr karna chahiye. Par aap nahi karte. Iske bajaye, aap bas huff karte hain ya aankhein roll karte hain, umeed karte huye ki wo message samajh jayenge. Badkismati se, aapka spouse hint nahi samajhta aur aadat jari rakhta hai. Aapki chid (annoyance) nafrat (resentment) mein badal jati hai. Aapko ghin aati hai ki aapka spouse itna moti buddhi (thick) hai ki wo ek obvious hint bhi nahi pakad sakta. Aur iske alawa, aapko waise bhi iska zikr nahi karna chahiye tha—kisi bhi reasonable insaan ko ye apne aap notice karna chahiye tha! Kya aapko har cheez point out karni padegi? Is point se aage aap us issue ke baare mein insulting wisecracks (mazak) karna shuru kar dete hain jab tak ki ye ek ugly confrontation mein badal nahi jata.
+
+Dono examples mein events ke order par dhyan dein. Pehle kya aaya, story ya sellout? Kya aapne doosre driver ki selfishness ka apne aap ko yakeen dilaya aur phir use andar nahi aane diya? Bilkul nahi. Aapke paas use selfish sochne ki koi wajah nahi thi jab tak ki aapko apne khud ke selfish behavior ke liye bahane ki zaroorat nahi padi. Aapne clever stories sunana tab tak shuru nahi kiya jab tak aap wo karne mein fail nahi ho gaye jo aap jaante the ki aapko karna chahiye tha. Aapke spouse ki annoying aadat tab tak resentment ka source nahi bani jab tak aap problem ka hissa nahi ban gaye. Aap isliye upset huye kyunki aapne sell out kiya. Aur clever story ne aapko rude hone par achha feel karne mein madad ki.
+
+Sellouts aksar bade events nahi hote. In fact, wo itne chhote ho sakte hain ki hamare liye unhe overlook karna asaan ho jata hai jab hum apni clever stories craft kar rahe hote hain. Yahan kuch common hain:
+
+* Aapko lagta hai ki aapko kisi ki madad karni chahiye, par nahi karte.
+* Aapko lagta hai ki aapko maafi mangni chahiye, par nahi mangte.
+* Aapko lagta hai ki aapko kisi commitment ko finish karne ke liye der tak rukna chahiye, par ghar chale jate hain.
+* Aap haan keh dete hain jab aap jaante hain ki aapko na kehna chahiye, phir umeed karte hain ki koi follow up na kare ye dekhne ke liye ki aapne apna waada poora kiya ya nahi.
+* Aapko lagta hai ki aapko kisi se un concerns ke baare mein baat karni chahiye jo aapke unke saath hain, par nahi karte.
+* Aap apne hisse se kam kaam karte hain aur sochte hain ki aapko ise acknowledge karna chahiye, par kuch nahi kehte ye jaante huye ki koi aur bhi ise nahi uthayega.
+* Aapko lagta hai ki aapko feedback dhang se sunna chahiye, par iske bajaye defensive ho jate hain.
+* Aap kisi ke present kiye gaye plan mein problems dekhte hain aur sochte hain ki aapko bolna chahiye, par nahi bolte.
+* Aap koi assignment waqt par poora karne mein fail ho jate hain aur sochte hain ki aapko doosron ko batana chahiye, par nahi batate.
+* Aap jaante hain ki aapke paas aisi information hai jo ek coworker ke kaam aa sakti hai, par use apne paas hi rakhte hain.
+
+Aise chhote sellouts bhi humein clever stories sunana shuru karwa dete hain. Jab hum apni galtiyon ko nahi maante, toh hum doosron ke faults, apni masoomiyat, aur apne powerless hone par obsess karte hain. Hum ek clever story tab sunate hain jab humein results se zyada self-justification chahiye hoti hai. Beshak, self-justification wo nahi hai jo hum sach mein chahte hain, par hum bilkul aisa act karte hain jaise wahi ho.
+
+Is sad fact ko dhyan mein rakhte huye—
