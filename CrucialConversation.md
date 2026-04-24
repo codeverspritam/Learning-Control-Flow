@@ -581,3 +581,215 @@ Yahan bataya gaya hai ki jo log dialogue mein skilled hote hain, wo apne goals p
 - Dekhein ki kya aap apne aap se keh rahe hain ki aapko shanti aur imandari, ya jeetne aur haarne ke beech chunna hoga.
 - "AND" (aur) ko dhoond kar in Sucker's Choices se aazaad ho jayein.
 - Clarify karein ki aap kya nahi chahte, use usme jodein jo aap chahte hain, aur apne dimaag se kahein ki wo aapko dialogue tak le jaane wale healthy options dhoondna shuru kare.
+
+---
+## 4
+
+Maine hazaron badmaashon (scamps) ko dekha hai, lekin kabhi aise kisi se nahi mila jo khud ko aisa maanta ho.
+Self-knowledge itni common nahi hai.
+**- OUIDA**
+
+### Dekhna Seekhein (Learn to Look)
+
+**Kaise Pehchanein ki Safety Kab Khatre Mein Hai**
+
+Chalo is chapter ki shuruat ek crucial conversation se karte hain. Aapne abhi-abhi un logon ke saath ek garam behas (heated debate) khatam ki hai jinhe aap supervise karte hain. Jo baatcheet aapke naye shift rotations ke baare mein ek harmless discussion se shuru hui thi, wo ek gandi bahas (nasty argument) par khatam hui. Ek ghante ki chid-chid aur shikayaton ke baad, aakhirkar aap sab apne-apne raaste nikal gaye.
+
+Ab aap corridor mein chalte hue soch rahe hain ki aakhir hua kya. Kuch hi minutes mein ek masoom si baatcheet ek crucial conversation mein badal gayi, aur phir ek failed conversation mein—aur aapko yaad nahi aa raha ki kyun. Aapko wo ek tense moment yaad hai jab aapne apna point of view thoda zyada zor dekar (theek hai, shayad bahut zyada zor dekar) rakhna shuru kiya tha aur aath log aapko aise ghoor rahe the jaise aapne abhi-abhi kisi zinda murgi ka sar kaat diya ho. Lekin phir meeting khatam ho gayi.
+
+Jo aapko samajh nahi aa raha wo ye hai ki aapke do dost corridor mein ulte direction mein chalte hue usi meeting ka "play-by-play" analysis kar rahe hain. Unhe pata hai ki wahan kya hua tha.
+
+"Ye phir se hua. Boss ne apne personal agenda ke liye itna zyada pressure daalna shuru kiya ki hum sab defensive hone lage. Kya tumne notice kiya ki kaise ek point par hum sabka mooh khula ka khula reh gaya? Beshak, main bhi boss jitna hi bura tha. Maine sirf 'absolutes' mein baat ki, sirf unhi facts ko dikhaya jo mere view ko support karte the, aur phir ajeeb-o-gareeb daawon (outlandish claims) ki ek list pakda di. Main ek machhli (marlin) ki tarah fans gaya."
+
+Baad mein us din jab aap apne doston se meeting ke baare mein baat karte hain, toh wo aapko batate hain ki asliyat mein kya hua tha. Aap wahan maujood the, lekin kisi tarah aapne wo miss kar diya jo sach mein ho raha tha.
+
+"Wo isliye kyunki tum baatcheet ke 'content' mein itne kho gaye the," aapka dost samjhata hai. "Tum shift rotation ke baare mein itna gehra soch rahe the ki tum wahan ki 'conditions' ke liye andhe ho gaye the. Matlab—log kaisa feel kar rahe the aur kaisa behave kar rahe the, unka tone kaisa tha, aisi cheezein."
+
+"Tumne wo sab dekh liya jabki tum khud us garam baatcheet ka hissa the?" aapne poocha.
+
+"Haan," aapka coworker samjhata hai, "Main hamesha 'dual-process' karta hoon. Yani, jab cheezein bigadne lagti hain, toh main baatcheet ke content ke saath-saath ye bhi dekhta hoon ki log kya kar rahe hain. Main 'kya' aur 'kyun' dono ko examine karta hoon. Agar tum dekh sako ki log kyun pareshan ho rahe hain ya apni baat kyun chhupa rahe hain ya silent ho rahe hain, toh tum baatcheet ko wapas track par laane ke liye kuch kar sakte ho."
+
+"Tum 'conditions' ko dekhte ho, aur phir tumhe pata chal jata hai ki track par wapas kaise aana hai?"
+
+"Kabhi-kabhi," aapka dost jawab deta hai. "Lekin tumhe exact wahi seekhna hoga ki kya dekhna hai."
+
+"Ye ek tarah ki social first aid hai. Jaise hi aap dekhte hain ki baatcheet unhealthy ho rahi hai, aap turant respond kar sakte hain. Jitni jaldi aap problem ko pakdenge, utni hi jaldi aap wapas healthy dialogue par aa payenge, aur nuksan utna hi kam hoga." Aapko yakeen nahi hota ki ye advice kitni obvious hai—aur phir bhi aapne kabhi aisa nahi socha tha. Aur bhi ajeeb baat ye hai ki aapke dost ne aisa socha hai. In fact, uske paas un sab cheezon ke liye ek poori vocabulary hai jo ek crucial conversation ke dauran ho rahi hoti hain. Aisa lagta hai jaise aap koi dusri language bol rahe the.
+
+### CONDITIONS PAR NAZAR RAKHEIN (WATCH FOR CONDITIONS)
+
+Sach toh ye hai ki hum mein se zyadatar logon ko dual-processing (content aur conditions dono par nazar rakhna) mein mushkil hoti hai—khaas kar jab baat kisi crucial conversation ki ho. Jab stakes aur emotions dono high hote hain, toh hum apni baaton mein itne ulajh jate hain ki bahas se bahar nikal kar ye dekhna lagbhag namumkin ho jata hai ki hamare aur dusron ke saath kya ho raha hai. Yahan tak ki jab hum wahan ho rahi cheezon se chaunk bhi jate hain, aur sochte hain: "Arrey! Ye toh bigad gaya. Ab kya karein?" toh shayad humein ye pata nahi hota ki cheezon ko sudharne ke liye kya dekhna hai. Hum shayad wo sab nahi dekh paate jo ho raha hota hai.
+
+Aisa kaise ho sakta hai? Hum ek garam bahas ke bilkul beech mein hokar bhi kaise nahi dekh sakte ki kya ho raha hai? Ek misaal (metaphor) shayad kaam aaye. Ye bilkul waisa hai jaise pehli baar kisi expert machhuare (angler) ke saath machhli pakadne (fly fishing) jana. Aapka dost baar-baar keh raha hai ki apni dor us brown trout se cheh foot upar phenko jo "wahan bilkul samne" hai. Bas farq ye hai ki aapko wo brown trout "wahan bilkul samne" dikhayi nahi de rahi. Use dikh rahi hai. Wo isliye kyunki use pata hai ki kya dekhna hai. Aapko lagta hai ki aapko pata hai. Aapko lagta hai ki aapko ek brown trout dhoondni hai. Asliyat mein, aapko ek aisi brown trout dekhni hai jo paani ke niche hai jabki sooraj ki roshni aapki aankhon mein chubh rahi hai. Aapko un elements ko dekhna hai jo us machhli se alag hain jise aapke dad ne deewar par saja rakha hai. Kya dekhna hai ye janne aur phir sach mein use dekhne ke liye knowledge aur practice dono chahiye.
+
+Toh jab aap ek crucial conversation ke beech mein hon, toh aap kya dekhte hain? Problems ko bade hone se pehle pakadne ke liye aapko kya dekhne ki zaroorat hai? Asal mein, teen alag conditions par nazar rakhna faydemand hota hai: wo pal jab baatcheet crucial ban jati hai, wo signs ki log safe mehsoos nahi kar rahe (khamoshi ya hinsa/silence or violence), aur aapka apna Style Under Stress. Chaliye in conversation killers ko ek-ek karke dekhte hain.
+
+### Crucial Conversations ko Pehchanna Seekhein (Learn to Spot Crucial Conversations)
+
+Pehle, us pal ke liye alert rahein jab ek routine ya harmless discussion ek crucial baatcheet mein badal jati hai. Isi tarah, jab aapko lage ki aap kisi mushkil baatcheet mein enter karne wale hain, toh is baat par dhyan dein ki aap danger zone mein kadam rakh rahe hain. Warna, aap aasani se bewakoofana games mein phans sakte hain isse pehle ki aapko pata chale ki kya hua hai. Aur jaisa ki humne pehle kaha, aap track se jitna door jayenge, wapas aana utna hi mushkil hoga.
+
+Problems ko jaldi pakadne ke liye apne dimaag ko un signs par dhyan dene ke liye train karein jo batate hain ki aap ek crucial conversation mein hain. Kuch log pehle physical signals notice karte hain—unka pet tight ho jata hai ya unki aankhein sookhne lagti hain. Sochiye ki jab baatcheet mushkil hoti hai toh aapki body ke saath kya hota hai. Har koi thoda alag hota hai. Aapke cues kya hain? Jo bhi hon, unhe aise signs ki tarah dekhein jo aapko peeche hatne, dheere hone, aur cheezon ke haath se nikalne se pehle "Start with Heart" karne ko kahen.
+
+Doosre log apni body ke signs se pehle apne emotions ko notice karte hain. Wo realize karte hain ki wo dare hue, dukhi, ya gusse mein hain aur in feelings par react karna ya unhe dabana shuru kar rahe hain. Ye emotions bhi behtareen cues ho sakte hain jo aapko bataate hain ki peeche hatein, dheere hon, aur apne dimaag ko wapas active karne ke liye steps uthayein.
+
+Kuch logon ka pehla cue physical ya emotional nahi, balki behavioral hota hai. Ye ek out-of-body experience jaisa hota hai. Wo khud ko apni awaaz badhate hue, apni ungli ko ek loaded weapon ki tarah point karte hue, ya bilkul khamosh hote hue dekhte hain. Tabhi unhe ehsaas hota hai ki wo kaisa feel kar rahe hain.
+
+Toh ek pal ke liye apni kuch sabse mushkil conversations ke baare mein sochiye. Aap aise kaun se cues use kar sakte hain ye pehchane ke liye ki aapka dimaag ab saath chhod raha hai aur aap healthy dialogue se door jane ke risk par hain?
+
+### Safety Problems ko Dekhna Seekhein (Learn to Look for Safety Problems)
+
+Agar aap un signs ko pakad sakein ki baatcheet crucial hone lagi hai—isse pehle ki aap bahas mein itna doob jayein ki content se bahar hi na nikal payein—toh aap turant dual-processing shuru kar sakte hain. Aur aapko exact kya dekhna chahiye? Jo log dialogue mein mahir hote hain, wo safety par lagatar nazar rakhte hain. Wo content par toh dhyan dete hi hain—wo toh lazmi hai—par wo un signs ko bhi dekhte hain ki log dar rahe hain. Jab dost, pyare log, ya colleagues healthy dialogue se door hat-te hain (yani apni baat khul kar pool of meaning mein nahi daalte)—ya toh apni raay jabardasti thopte hain ya apne ideas ko jaan-boojh kar bahar rakhte hain—toh wo turant apna dhyan is baat par le jaate hain ki dusre safe feel kar rahe hain ya nahi.
+
+Jab mahaul safe hota hai, toh aap kuch bhi keh sakte hain. Yahan bataya gaya hai ki kyun behtareen communicators safety par kadi nazar rakhte hain. Dialogue ke liye zaroori hai ki baaton ka flow free ho—bas. Aur dar se zyada koi cheez flows ko khatam nahi karti. Jab aapko dar lagta hai ki log aapke ideas ko maan nahi rahe, toh aap zyada pressure daalna shuru kar dete hain. Jab aapko dar lagta hai ki aapko kisi tarah nuksan pahunch sakta hai, toh aap peeche hatne aur chhupne lagte hain. Ye dono reactions—ladna (fight) ya bhagna (flight)—ek hi emotion se paida hote hain: dar. Doosri taraf, agar aap mahaul ko kaafi safe bana dein, toh aap lagbhag kisi bhi cheez ke baare mein baat kar sakte hain aur log sunenge. Agar aapko ye dar nahi hai ki aap par attack kiya ja raha hai ya aapko zaleel kiya ja raha hai, toh aap khud bhi lagbhag kuch bhi sun sakte hain aur defensive nahi honge.
+
+Apne experience ke baare mein sochiye. Kya aapko yaad hai ki kabhi kisi se bahut kadvi feedback mili ho, lekin us waqt aap defensive nahi hue? Iske bajaye, aapne us feedback ko apnaya. Us par gaur kiya. Use khud ko influence karne diya. Agar aisa hai, toh apne aap se poochiye kyun. Kyun us waqt aap potentially threatening feedback ko itni achhi tarah samajh paye? Agar aap baaki sab ki tarah hain, toh wo isliye kyunki aapko yakeen tha ki saamne wala aapka bhala chahta hai. Saath hi, aap saamne wale ki raay ki izzat karte the. Aapne wo feedback lete waqt safe mehsoos kiya kyunki aapko us insaan ki niyyat aur kabliyat par bharosa tha. Aapko jo kaha ja raha tha usse khud ko bachane (defend karne) ki zaroorat nahi thi.
+
+Doosri taraf, agar aap safe mehsoos nahi karte, toh aap koi bhi feedback nahi le sakte. Aisa lagta hai jaise pool of meaning par dhakkan laga ho. "Tumhara kya matlab hai ki main achha lag raha hoon? Kya ye koi mazak hai? Kya tum mera mazaak uda rahe ho?" Jab aap safe feel nahi karte, toh achhi niyyat se kahi gayi baatein bhi shak ke ghere mein aa jati hain.
+
+Jab unsafe hota hai, toh aap andhe hone lagte hain. Safety violations par dhyaan dekar, na sirf aap ye dekh sakte hain ki dialogue kab khatre mein hai, balki aap apne dimaag ko wapas kaam par laga sakte hain. Jaisa ki humne pehle kaha hai, jab aapke emotions badhne lagte hain, toh dimaag ke key functions band hone lagte hain. Na sirf aap bhagne (flight) ke liye taiyar hote hain, balki aapka side ka vision (peripheral vision) sach mein sikud jata hai. In fact, jab aap sach mein khatra mehsoos karte hain, toh aap mushkil se hi us cheez ke aage dekh paate hain jo bilkul aapke saamne hai. Isi tarah, jab aapko lagta hai ki kisi baatcheet ka result khatre mein hai, toh aapko apne point ke aage dekhne mein mushkil hoti hai. Bahas ke content se khud ko bahar nikal kar aur dar par nazar rakh kar, aap apne dimaag ko phir se active karte hain aur aapka poora vision wapas aa jata hai.
+
+Safety problems ko aapko bhatkaane na dein. Ek warning dhyan mein rakhein. Jab dusre unsafe feel karne lagte hain, toh wo buri tarah behave karne lagte hain. Ab, kyunki wo unsafe feel kar rahe hain, aapko apne dimaag mein ye sochna chahiye: "Hey, wo unsafe feel kar rahe hain. Mujhe kuch karna chahiye—shayad mahaul ko thoda safe banana chahiye." Ye wo hai jo aapko sochna chahiye. Badkismati se, kyunki dusre unsafe feel kar rahe hain, wo shayad aapka mazaak udane ki koshish kar rahe hon, aapki insult kar rahe hon, ya apne arguments se aapko dabane ki koshish kar rahe hon. Is tarah ka aggressive behavior aapke andar ke diplomat ko bahar nahi lata. Toh unke attack ko safety khatre mein hone ka sign samajhne ke bajaye, aap use waisa hi lete hain jaisa wo dikhta hai—ek attack ki tarah. "Mujh par attack ho raha hai!" aap sochte hain. Phir aap bhi waise hi respond karte hain. Ya shayad aap bhagne ki koshish karte hain. Dono hi suraton mein aap dual-processing nahi kar rahe hote aur safety ko restore karne ki skill nahi laga rahe hote. Iske bajaye, ladayi mein khinch kar aap khud problem ka hissa ban jate hain.
+
+Zara sochiye ki hum yahan kitni badi baat keh rahe hain. Hum aapse keh rahe hain ki khamoshi (silence) aur hinsa (violence) ko is sign ki tarah dekhein ki log unsafe mehsoos kar rahe hain. Hum aapse keh rahe hain ki apne us natural reaction se ladein jo aapko waise hi jawab dene par majboor karta hai. Hum aapse keh rahe hain ki saalon ki practice aur shayad sadiyon ki genetic shaping ko badlein jo aapko (attack hone par) bhagne ya ladne ke liye uksati hai, aur us stimulus ko naye tareeke se samjhein. "Ah, ye ek sign hai ki saamne wala unsafe feel kar raha hai." Aur phir kya? Mahaul ko safe banane ke liye kuch karein. Agle chapter mein hum dekhenge ki kaise. Abhi ke liye, bas safety ko pehchanna seekhein aur phir gussa ya darne ke bajaye curious banein.
+
+### Khamoshi aur Hinsa (Silence and Violence)
+
+Jaise-jaise log unsafe feel karne lagte hain, wo do unhealthy raaston mein se ek par chalne lagte hain. Wo ya toh silence (pool se apni baat chhupana) ki taraf badhte hain ya violence (pool mein apni baat jabardasti thopna) ki taraf. Wo hissa humein pata hai. Lekin chaliye thodi aur detail jodte hain. Jaise thodi si knowledge dhundhle paani ko brown trout mein badal sakti hai, silence aur violence ki kuch common forms ko janne se aapko safety problems ko shuruat mein hi dekhne mein madad milti hai. Is tarah aap bahar nikal sakte hain, safety restore kar sakte hain, aur dialogue par wapas aa sakte hain—isse pehle ki nuksan bahut zyada ho jaye.
+
+**Silence (Khamoshi)**
+
+Silence mein koi bhi aisa kaam shamil hai jisme jaan-boojhkar pool of meaning se jankari chhupayi jati hai. Ye hamesha potential problems se bachne ke liye kiya jata hai, aur ye hamesha baaton ke flow ko rokta hai. Iske tarike verbal games khelne se lekar kisi insaan ko poori tarah avoid karne tak ho sakte hain. Silence ki teen sabse common forms hain: masking, avoiding, aur withdrawing.
+
+* **Masking** ka matlab hai apni asli raay ko kam karke dikhana ya sirf chuninda hissa dikhana. Sarcasm, sugarcoating (baaton ko meetha banana), aur ghuma-phira kar baat karna (couching) iske popular tarike hain.
+    "Mujhe lagta hai tumhara idea, uh, brilliant hai. Haan, bas wahi. Mujhe dar hai ki dusre log iski barikiyon (nuances) ko samajh nahi payenge. Kuch ideas apne waqt se pehle aa jate hain, toh thoda, uh, minor resistance expect karna."
+    *Asli Matlab:* Tumhara idea paagalpan hai, aur log apni aakhri saans tak isse ladenge.
+    "Oh haan, ye toh kamaal ka kaam karega. Logon ko discount do, aur wo sabun ke ek box par cheh cents bachane ke liye poore shehar ke us paar drive karke jayenge. Tum ye sab kahan se sochte ho?"
+    *Asli Matlab:* Kitna bekaar idea hai.
+
+* **Avoiding** ka matlab hai sensitive subjects se poori tarah door rehna. Hum baat toh karte hain, lekin asli muddon (real issues) ko chhede bina.
+    "Tumhara naya suit kaisa lag raha hai? Well, tumhe pata hi hai ki blue mera favorite color hai."
+    *Asli Matlab:* Ye kya hua? Kya tumne apne kapde circus se kharide hain?
+    "Cost cutting ke ideas ki baat karein toh—kya tumne kal raat *Friends* dekha? Joey ko bahut saara paisa mila tha aur wo bewakoofana cheezein kharid raha tha. Bahut maza aaya."
+    *Asli Matlab:* Chalo cost cut karne ki baat nahi karte. Isse hamesha ladayi hoti hai.
+
+* **Withdrawing** ka matlab hai baatcheet se poori tarah bahar nikal jana. Hum ya toh baatcheet chhod dete hain ya kamre se bahar nikal jate hain.
+    "Excuse me. Mujhe ye call leni hogi."
+    *Asli Matlab:* Main is bekaar meeting mein ek minute aur bitane ke bajaye apna haath kaatna pasand karunga.
+    "Sorry, main phone bill divide karne ke baare mein phir se baat nahi karne wala. Mujhe nahi pata ki hamari dosti ek aur jung jhel payegi ya nahi." (Bahar nikal jata hai.)
+    *Asli Matlab:* Hum bina bahas kiye sabse simple topic par bhi baat nahi kar sakte.
+
+**Violence (Hinsa)**
+
+Violence mein koi bhi aisi verbal strategy shamil hai jo dusron ko apne point of view par raazi karne, control karne ya majboor karne ki koshish karti hai. Ye pool mein jabardasti apni baat thop kar safety ko khatam karti hai. Iske tarike naam rakhne (name-calling) aur akela bolne (monologuing) se lekar dhamkiyan dene tak ho sakte hain. Teen sabse common forms hain: controlling, labeling, aur attacking.
+
+* **Controlling** ka matlab hai dusron ko apni soch manne par majboor karna. Ye ya toh dusron par apni raay thop kar kiya jata hai ya baatcheet par kabza karke. Iske tarikon mein dusron ko beech mein tokna, facts ko badha-chadhakar batana, absolutes mein baat karna, topics badalna, ya baatcheet ko control karne ke liye directive questions use karna shamil hai.
+    "Duniya mein aisa koi insaan nahi hai jisne ye cheez na kharidi ho. Ye perfect gift hai."
+    *Asli Matlab:* Main hamari mehnat ki kamayi ko is mehenge khilaune par kharch karna justify nahi kar sakta, lekin mujhe ye sach mein chahiye.
+    "Humne unka product try kiya tha, lekin wo ek absolute disaster tha. Har koi jaata hai ki wo time par deliver nahi kar sakte aur wo planet par sabse ghatiya customer service dete hain."
+    *Asli Matlab:* Mujhe asli facts ka yakeen nahi hai isliye main tumhara dhyan khinchne ke liye baat ko badha-chadhakar (hyperbole) kahunga.
+
+* **Labeling** ka matlab hai logon ya ideas par koi label laga dena taaki hum unhe ek general stereotype ya category ke tehet kharij (dismiss) kar sakein.
+    "Tumhare ideas lagbhag Neanderthal (purane zamane ke) hain. Koi bhi samajhdaar insaan mere plan ko follow karega."
+    *Asli Matlab:* Main apne case ko uski khoobiyon par argue nahi kar sakta.
+    "Tum unki baat nahi sunne wale na? Khuda ke waaste! Pehle toh, wo headquarters se hain. Dusra, wo engineers hain. Kya mujhe aur kuch kehne ki zaroorat hai?"
+    *Asli Matlab:* Agar main ye dikhawa karun ki headquarters ke saare log aur saare engineers kisi tarah bure aur galat hain, toh mujhe kuch bhi explain nahi karna padega.
+
+* **Attacking** khud apni baat kehta hai. Aap bahas jeetne se aage badhkar saamne wale ko takleef pahunchane lage hain. Isme belittling (neecha dikhana) aur dhamkana shamil hai.
+    "Wo bewakoofana harkat karke dekho aur phir dekho kya hota hai."
+    *Asli Matlab:* Main isme apni baat manwa kar rahunga chahe mujhe tumhari burayi karni pade aur kisi anjaan saza ki dhamki deni pade.
+    "Jim jo keh raha hai uski ek baat mat sunna. I'm sorry Jim, par main tumhe samajh gaya hoon. Tum bas apni team ke liye cheezein behtar banane ki koshish kar rahe ho jabki hum baaki sab pareshan ho rahe hain. Maine tumhe pehle bhi aisa karte dekha hai. Tum sach mein ek jerk ho, pata hai? I'm sorry, par kisi mein toh ye himmat honi chahiye ki sach bol sake."
+    *Asli Matlab:* Apni baat manwane ke liye main tumhare baare mein buri baatein kahunga aur phir ye dikhawa karunga ki sirf mujh mein hi imaandari (integrity) hai.
+
+### Stress ke Waqt Apna Style Dekhein (Look for Your Style Under Stress)
+
+Maan lijiye ki aap content aur conditions dono par nazar rakh rahe hain! Aap khaas taur par dhyan de rahe hain ki baatcheet kab crucial banti hai. Is important moment ko pakadne ke liye, aap un signs ko dhoond rahe hain ki safety khatre mein hai. Jab safety toot-ti hai, aapko pata hai ki silence aur violence ki alag-alag forms par nazar rakhni hai. Toh kya ab aap poori tarah taiyar hain? Kya aapne wo sab dekh liya hai jo dekhne layak hai?
+
+Asal mein, nahi. Shayad sabse mushkil element jis par dual-processing ke dauran kadi nazar rakhni hai, wo hai aapka apna behavior.
+
+Sach toh ye hai ki zyadatar logon ko chal rahi bahas ke "tractor beam" se khud ko bahar nikalne mein mushkil hoti hai. Phir aapke paas wo problem hai jo dusre log pesh karte hain jab wo har tarah ke tactics use karte hain. Aapko un par baaz (hawk) ki tarah nazar rakhni padti hai. Isme koi hairani nahi hai ki apne khud ke behavior par dhyan dena peeche chhut jata hai. Iske alawa, aisa nahi hai ki aap sach mein apne sharir se bahar nikal kar khud ko observe kar sakein. Aap apni aankhon ki galat side par hain. Low self-monitors. Sach toh ye hai ki hum sab ko kabhi na kabhi apne behavior ko monitor karne mein mushkil hoti hai. Hum aam taur par social sensitivity tab kho dete hain jab hum ideas aur maqsad (causes) mein itne doob jate hain ki humein pata hi nahi chalta ki hum kya kar rahe hain. Hum zor-zabardasti karne ki koshish karte hain. Hum tab bolte hain jab humein nahi bolna chahiye. Hum wo cheezein karte hain jo kaam nahi karti—ye sab ek maqsad ke naam par. Hum aakhirkar itne be-khabar (unaware) ho jate hain ki hum Jack Handy ke banaye is kirdar jaise ban jate hain.
+
+"Log hamesha us aadmi ke baare mein baat karte the jo hamare block par rehta tha aur bahut zaleel tha. Lekin maine tay kiya ki main khud jaakar dekhunga. Main uske darwaze par gaya, par usne kaha ki wo zaleel aadmi nahi hai, zaleel aadmi toh us ghar mein rehta hai jo wahan samne hai. 'Nahi, tum stupid idiot,' maine kaha, 'wo toh mera ghar hai.'"
+
+Badkismati se, jab aap apne behavior ko monitor karne mein fail hote hain, toh aap kafi bewakoof lag sakte hain. For example, aap apne spouse se is baare mein baat kar rahe hain ki unhone aapko auto repair shop par ek ghante se zyada intezar karwaya. Jab wo ye kehte hain ki ye ek simple galat-fehmi thi, toh aapka spouse chilla kar kehta hai: "Tumhe gussa hone ki zaroorat nahi hai."
+
+Tab aap wo mashhoor shabd bolte hain: "Main gussa nahi hoon!"
+
+Beshak, jab aap mana kar rahe hote hain toh aap chilla rahe hote hain, thook ud raha hota hai, aur aapke mathe ki nas phool kar ek teenage ajgar (python) jitni badi ho gayi hoti hai. Aap, zahir taur par, apne response mein ye contradiction nahi dekh paate. Aap is sab ke beech mein hain, aur jab aapka spouse aap par hansta hai toh aapko bilkul achha nahi lagta.
+
+Aap ye denial game tab bhi khelte hain jab aap masoomiyat se is sawal ka jawab dete hain, "Kya hua?"
+
+"Kuch nahi hua," aap sisakte (whimper) hain. Phir aap apne pair ragadte hain, farsh ko ghoorte hain, aur dukhi dikhte hain.
+
+### Ek Vigilant Self-Monitor Banein (Become a Vigilant Self-Monitor)
+
+Ek bahas se bahar nikalne aur poori process par nazar rakhne ke liye—jisne ye shamil ho ki aap khud kya kar rahe hain aur uska kya asar ho raha hai—kya lagta hai? Aapko ek vigilant self-monitor banna hoga. Yani, aap jo kar rahe hain aur uska jo asar ho raha hai us par gehri nazar rakhein, aur phir zaroorat padne par apni strategy badlein. Khaas taur par, ye dekhein ki aapka safety par achha asar pad raha hai ya bura.
+
+**Aapka Style Under Stress Test**
+
+Aap kis tarah ke self-monitor hain? Apni self-awareness badhane ka ek achha tarika hai apna "Style Under Stress" dhoondna. Jab baatcheet mushkil ho jati hai toh aap kya karte hain? Ye janne ke liye, agle pages par diye gaye survey ko bharein. Ya, aasaan scoring ke liye, [www.crucialconversations.com/sus](https://www.crucialconversations.com/sus) par jayein. Ye aapko ye dekhne mein madad karega ki jab aap ek crucial conversation mein phanste hain toh aap aam taur par kaun se tactics use karte hain. Ye aapko ye tay karne mein bhi madad karega ki is book ke kaun se hisse aapke liye sabse zyada faydemand ho sakte hain.
+
+Instructions: Neeche diye gaye sawal ye dekhte hain ki aap aam taur par kaise respond karte hain jab aap ek crucial conversation ke beech mein hote hain. Jawab dene se pehle, kaam par ya ghar par kisi ek specific rishte (relationship) ko chunein. Phir un items ka jawab dein ye sochte hue ki aap us rishte mein risky conversations ko aam taur par kaise handle karte hain.
+
+1. Kabhi-kabhi main aisi situations ko avoid karta hoon jo mujhe un logon ke contact mein la sakti hain jinse mujhe problems hain.
+2. Maine phone calls ya emails ka jawab dena tala hai kyunki main bas us insaan se deal nahi karna chahta tha jisne wo bheje the.
+
+T F 3. Kabhi-kabhi jab log koi touchy ya awkward issue chhedte hain, toh main topic badalne ki koshish karta hoon.
+T F 4. Jab awkward ya stressful subjects se deal karne ki baat aati hai, toh kabhi-kabhi main apni poori aur saaf raay dene ke bajaye peeche hat jata hoon.
+T F 5. Logon ko ye batane ke bajaye ki main exact kya sochta hoon, kabhi-kabhi main apni frustration dikhane ke liye jokes, sarcasm, ya tanz (snide remarks) ka sahara leta hoon.
+T F 6. Jab mujhe koi mushkil baat shuru karni hoti hai, toh kabhi-kabhi main asar ko kam karne (soften the blow) ke liye kamzor ya jhoothi tareefen karta hoon.
+T F 7. Apni baat manwane ke liye, main kabhi-kabhi argument ki apni side ko badha-chadhakar pesh karta hoon.
+T F 8. Agar mujhe lagta hai ki baatcheet mere control se bahar ja rahi hai, toh main logon ko beech mein tok sakta hoon ya topic badal sakta hoon taaki use wapas wahan la sakun jahan mujhe lagta hai ki use hona chahiye.
+T F 9. Jab dusre aisi baatein karte hain jo mujhe bewakoofana lagti hain, toh kabhi-kabhi main bina ruke unhe ye jata deta hoon.
+T F 10. Jab main kisi comment se chaunk jata hoon, toh kabhi-kabhi main aisi baatein kehta hoon jinhe dusre attacking samajh sakte hain—jaise ki "Had hai!" (Give me a break!) ya "Ye bakwas hai!"
+11. Kabhi-kabhi jab baat garam ho jati hai, toh main dusron ke points ke khilaf argue karne ke bajaye aisi baatein kehne lagta hoon jo unhe personally chot pahuncha sakti hain.
+12. Agar main kisi garam bahas mein pad jata hoon, toh main saamne wale ke saath sakht hone ke liye jana jata hoon. In fact, saamne wala thoda insulted ya hurt feel kar sakta hai.
+T F 13. Jab main dusron ke saath kisi important topic par discuss kar raha hota hoon, toh kabhi-kabhi main apni baat samjhane ke bajaye jung jeetne ki koshish karne lagta hoon.
+T F 14. Ek mushkil baatcheet ke beech mein, main aksar arguments mein itna kho jata hoon ki main ye nahi dekh pata ki main dusron ko kaisa lag raha hoon.
+T F 15. Jab baatcheet mushkil ho jati hai aur main kuch bura kar deta hoon, toh main apni galtiyon ke liye turant maafi maang leta hoon.
+T F 16. Jab main aisi baatcheet ke baare mein sochta hoon jo bigad gayi thi, toh main dusron ki galtiyon ke bajaye sabse pehle is par dhyan deta hoon ki maine kya galat kiya.
+T F 17. Jab mujhe kuch aisa kehna hota hai jo dusre shayad sunna na chahein, toh main kadve conclusions se shuru karne ke bajaye un facts se shuru karta hoon jo unhe ye samajhne mein madad karein ki main aisa kyun keh raha hoon.
+T F 18. Main bahut jaldi pehchan leta hoon ki kab dusre baatcheet mein peeche hat rahe hain ya defensive feel kar rahe hain.
+T F 19. Kabhi-kabhi main tay karta hoon ki kadvi feedback na dena hi behtar hai kyunki mujhe pata hai ki isse asli problems paida hongi.
+T F 20. Jab baatcheet kaam nahi kar rahi hoti, toh main bahas se peeche hat-ta hoon, sochta hoon ki kya ho raha hai, aur ise behtar banane ke liye steps uthata hoon.
+21. Jab dusre defensive ho jate hain kyunki wo mujhe galat samajh lete hain, toh main ye clarify karke ki mera kya matlab hai aur kya nahi, turant humein wapas track par le aata hoon.
+22. Kuch log aise hain jinpar main sakht hota hoon kyunki, sach kahun toh, unhe wahi chahiye ya wo wahi deserve karte hain jo main unhe deta hoon.
+T F 23. Main kabhi-kabhi absolute statements deta hoon jaise "Fact ye hai..." ya "Ye obvious hai ki..." taaki main apni baat pakki tarah se pahuncha sakun.
+T F 24. Agar dusre apni raay dene mein hichkichate hain, toh main dil se unhe invite karta hoon ki wo apne dimaag ki baat kahein, chahe wo kuch bhi ho.
+T F 25. Kabhi-kabhi main apni raay ke liye bahut zor se argue karta hoon—is umeed mein ki dusre un opinions ko na layein jinpar discuss karna energy ka waste hoga.
+T F 26. Jab cheezein tense ho jati hain, tab bhi main jaldi se dhal jata hoon (adapt) ki dusre mujhe kaise respond kar rahe hain aur main nayi strategy try karta hoon.
+T F 27. Jab mujhe lagta hai ki main kisi ke saath cross-purposes par hoon (matlab hamare maqsad alag hain), toh main aksar common ground dhoondne ke bajaye apni baat jeetne ki koshish karta rehta hoon.
+T F 28. Jab cheezein achhi nahi hoti, toh main apni bhumika (role) dekhne ke bajaye dusron ki galtiyon ko dekhne ki taraf zyada jhuka hota hoon.
+T F 29. Apni mazboot raay share karne ke baad, main apni taraf se koshish karta hoon ki dusron ko unke views share karne ke liye invite karun, khaas kar unhe jo mujhse alag hon.
+T F 30. Jab dusre apni raay share karne mein hichkichate hain, toh main wo sab karta hoon jo main kar sakta hoon taaki unke liye imaandari se bolna safe ho jaye.
+T F 31. Kabhi-kabhi mujhe un cheezon par discuss karna padta hai jo mujhe laga tha settle ho gayi hain kyunki main track nahi rakhta ki pehle kya discuss hua tha.
+32. Main khud ko aisi situations mein paata hoon jahan logon ki feelings hurt ho jati hain kyunki unhe laga tha ki final decisions mein unka zyada bol-baala hoga jitna aakhir mein hota hai.
+T F 33. Main kabhi-kabhi is baat se frustrate ho jata hoon ki kuch groups ko decision lene mein kitna waqt lagta hai kyunki bahut saare log involved hote hain.
+
+### Style Under Stress Score
+
+Please Figures 4-1 aur 4-2 ke score sheets bharein. Har domain mein do se teen sawal hain. Question number ke saath ya toh (T) hai ya (F). For example, "Masking" ke niche, Figure 4-1 ka question 5, aapko ek (T) milega. Iska matlab hai ki agar aapne iska jawab 'true' diya hai, toh box ko check karein. Doosri taraf, Figure 4-2 ke question 13 ke saath aapko ek (F) milega. Us box ko sirf tabhi check karein agar aapne sawal ka jawab 'false' diya hai—aur isi tarah aage bhi.
+
+Aapka Style Under Stress score (Figure 4-1) aapko dikhayega ki aap sabse zyada silence ya violence ki kaun si forms ki taraf mudte hain. Aapka Dialogue Skills score (Figure 4-2) concept aur chapter ke hisaab se organize kiya gaya hai taaki aap tay kar sakein ki kaun se chapters aapke liye sabse zyada faydemand honge.
+
+**Aapke Score ka Kya Matlab Hai**
+
+Aapke silence aur violence scores ye batate hain ki aap kitni baar in 'less-than-perfect' strategies mein girte hain. Ye sach mein possible hai ki aapka dono mein score high ho. Ek high score (har domain mein ek ya do checked boxes) ka matlab hai ki aap ye technique kaafi aksar use karte hain. Iska ye bhi matlab hai ki aap insaan hain. Zyadatar log peeche hatne (holding back) aur bahut zyada forceful hone ke beech toggle karte rehte hain.
+
+Figure 4-2 ke saat domains aapki un skills ko dikhate hain jo unke corresponding saat skill chapters mein hain. Agar aapka score kisi ek domain mein high hai (do ya teen boxes), toh aap pehle se hi is area mein kafi skilled hain. Agar aapka score low hai (zero ya ek), toh shayad aap in chapters par khaas dhyan dena chahenge.
+
+Kyunki ye scores ye batate hain ki aap aam taur par stressful ya crucial conversations ke dauran kaise behave karte hain, ye badal sakte hain. Aapka score kisi na-badalne wali personality trait ya genetic jhukaav ko nahi dikhata. Ye sirf aapke behavior ka ek measure hai—aur aap use badal sakte hain. In fact, jo log is book ko seriously lenge wo har chapter mein di gayi skills ki practice karenge aur aakhirkar wo badal jayenge. Aur jab wo badlenge, toh unki life bhi badal jayegi.
+
+Ab aage kya? Ab jab aapne apna Style Under Stress pehchan liya hai, aapke paas ek aisa tool hai jo aapko 'Learn to Look' mein madad kar sakta hai. Yani, jaise hi aap kisi touchy conversation mein enter karte hain, aap apni silence ya violence ki aadaton se bachne ke liye ek khaas koshish kar sakte hain. Saath hi, jab aap kisi crucial conversation ke beech mein hon, toh aap is baare mein zyada conscious ho sakte hain ki kya dekhna hai.
+
+### SUMMARY—LEARN TO LOOK
+
+Jab kisi crucial conversation mein phanse hon, toh ye dekhna mushkil hota hai ki exact kya ho raha hai aur kyun. Jab koi discussion stressful hone lagti hai, toh hum aksar wahi karte hain jo kaam nahi karta. Hum apne Style Under Stress ke unhealthy components ki taraf mud jate hain.
+
+**Learn to Look**
+
+Is chakravyuh (insidious cycle) se nikalne ke liye, Learn to Look.
+
+* Content aur conditions dono ko dekhna seekhein.
+* Nazar rakhein ki kab cheezein crucial banti hain.
+* Safety problems ko pehchanna seekhein.
+* Ye dekhein ki kya dusre log silence ya violence ki taraf badh rahe hain.
+* Apne Style Under Stress ke outbreaks par nazar rakhein.
