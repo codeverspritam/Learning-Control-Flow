@@ -793,3 +793,259 @@ Is chakravyuh (insidious cycle) se nikalne ke liye, Learn to Look.
 * Safety problems ko pehchanna seekhein.
 * Ye dekhein ki kya dusre log silence ya violence ki taraf badh rahe hain.
 * Apne Style Under Stress ke outbreaks par nazar rakhein.
+
+---
+## 5 
+
+Wo itne saalon tak saath rahe the ki unhone apni behas (arguments) ko hi baatcheet (conversation) samajhne ki galti kar li thi. 
+**- MARJORIE KELLOGG**
+
+---
+
+### Maahol ko Safe Banayein (Make It Safe)
+
+**Lagbhag kisi bhi topic par baat karne ke liye safety kaise banayein**
+
+Pichle chapter mein ek waada kiya gaya tha: Agar aap safety risks ko pehchan lein jaise hi wo hote hain, toh aap conversation se bahar nikal sakte hain, safety build kar sakte hain, aur phir lagbhag kisi bhi cheez par dialogue karne ka raasta dhoond sakte hain. Is chapter mein hum us waade ko poora karenge aur seekhenge ki safety ko restore karne ke liye kya zaroori hai.
+
+Shuruat karne ke liye, aaiye ek aisi situation dekhte hain jahan safety khatre mein hai. Hum ek couple ki baaton ko chhupkar sunenge jab wo sabse sensitive topics mein se ek—physical intimacy—par baat karne ki koshish kar rahe hain.
+
+Pehle thoda background. Jotham ko lagta hai ki wo aur Yvonne ek dusre ke saath bahut kam intimate hote hain. Yvonne apni physical relationship se satisfied hai. Saalon se dono ne apne concerns par baat karne ke bajaye unhe apne behavior se jataya (acted out) hai. Jab Jotham amorous hona chahta hai aur Yvonne respond nahi karti, toh wo silence mein chala jata hai. Wo pouts karta hai, lagbhag kuch nahi bolta, aur agle kuch dino tak Yvonne ko avoid karta hai.
+
+Yvonne ko pata hai ki Jotham ke saath kya ho raha hai. Kabhi-kabhi wo uske saath chali jati hai bhale hi wo romantic feel na kar rahi ho. Wo aisa Jotham ke pouting se bachne ki umeed mein karti hai. Badkismati se, phir wo Jotham ke prati narazgi (resentment) feel karti hai, aur uske baad use genuinely romantic feel karne mein aur bhi zyada waqt lagta hai.
+
+Toh game ye hai. Jotham jitna zyada insist aur pout karta hai, wo Yvonne ke liye utna hi kam attractive aur interesting hota jata hai. Yvonne jitna zyada haar maanti hai aur phir resent karti hai, poore rishte mein uska interest utna hi kam ho jata hai. Ye dono is crucial conversation par baat karne ke bajaye jitna zyada act out karte hain, utne hi zyada chances hain ki wo apne alag-alag raaste chun lein. Yvonne ne Jotham ke saath is subject ko chhedne ka faisla kiya hai. Dono ke upset hone ka intezar karne ke bajaye, usne ek aisa waqt chuna hai jab wo couch par relax kar rahe hain. Shuru karte hain.
+
+**YVONNE:** Jotham, kya hum kal raat jo hua us baare mein baat kar sakte hain—wahi, jab maine tumse kaha tha ki main thaki hui hoon?
+**JOTHAM:** Mujhe nahi pata ki main mood mein hoon ya nahi.
+**YVONNE:** Iska kya matlab hai?
+**JOTHAM:** Main thak gaya hoon tumhare ye decide karne se ki hum kab kya karte hain!
+**YVONNE:** (Bahar chali jati hai)
+
+---
+
+### BAHAR NIKLEIN. SAFETY BANAYEIN. PHIR WAPAS ANDAR AAYEIN.
+
+Okay, aaiye Yvonne ko dekhte hain. Usne ek mushkil topic ko tackle karne ki koshish ki. Uske liye achha hai. Wo pehle se hi uncomfortable thi aur uske partner ne us par ek cheap shot mara. Usne kya khaak madad ki. Ab use kya karna chahiye? Wo wapas honest aur healthy dialogue par kaise aa sakti hai? Aap tab kya karte hain jab aapko nahi lagta ki aapke dimaag mein jo hai use share karna safe hai?
+
+Key ye hai ki conversation ke content se bahar niklein (step out). Jo kaha ja raha hai sirf usme mat phase rahein. Yvonne isliye nikal gayi kyunki uska focus is par tha ki Jotham kya keh raha tha. Agar wo Jotham ke behavior ko dekh rahi hoti, toh wo uske sarcasm ko pehchan leti—jo masking ka ek form hai. Apne concern par baat karne ke bajaye, wo ek potshot le raha hai. Wo aisa kyun karega? Kyunki use dialogue use karna safe nahi lag raha. Par Yvonne ne ye point miss kar diya.
+
+Ab, hum ye nahi keh rahe ki Jotham ka behavior acceptable hai, ya Yvonne ko ise bardasht karna chahiye. Lekin pehle zaroori kaam—Dil se shuru karein (Start with Heart). Pehla sawal hai: "Main sach mein kya chahti hoon?"
+
+Agar aap sach mein ek aise topic par healthy conversation karna chahte hain jo aapke rishte ko bana ya bigad sakta hai, toh ek ya do pal ke liye aapko current issue—yani Jotham ke sarcasm—ko confront karna side mein rakhna pad sakta hai.
+
+Yvonne ka challenge yahan safety build karna hai—itni ki wo apni physical relationship, Jotham ke deal karne ke tareeke, ya kisi bhi aur concern par baat kar sake. Lekin agar wo ise safe nahi banati, toh use sirf silence aur violence ke games hi milte rahenge.
+
+Toh, use kya karna chahiye?
+
+Aisi situations mein, jo dialogue mein sabse kharab (worst) hote hain, wo wahi karte hain jo Jotham aur Yvonne ne kiya. Jotham ki tarah, wo safety ki sakht zaroorat ko poori tarah ignore kar dete hain. Wo jo bhi dimaag mein aata hai keh dete hain—bina is par dhyan diye ki ise kaise liya jayega. Ya phir Yvonne ki tarah, wo ye maan lete hain ki topic bilkul unsafe hai aur silence ki taraf chale jate hain.
+
+Jo dialogue mein achhe (good) hain wo realize karte hain ki safety khatre mein hai, par wo ise bilkul galat tareeke se theek karte hain. Wo apne message ko sugarcoat karke subject ko zyada palatable banane ki koshish karte hain. "Oh honey, main sach mein tumhare saath rehna chahti hoon par mujh par kaam ka bahut pressure hai, aur stress ki wajah se mujhe hamare saath waqt bitane mein maza nahi aata." Wo content ko kamzor (watering down) karke cheezon ko safer banane ki koshish karte hain. Ye strategy, zahir hai, asli problem ko avoid karti hai, aur wo kabhi theek nahi hoti.
+
+Jo dialogue mein sabse behtareen (best) hain wo games nahi khelte. Wo jaante hain ki dialogue ka matlab hai meaning ka free flow—bina kisi dikhawe, sugarcoating, ya faking ke. Isliye wo kuch bilkul alag karte hain. Wo conversation ke content se bahar nikalte hain, safety banate hain, aur phir wapas andar aate hain.
+
+Ek baar jab aapne safety problems ko pehchan liya, toh aap sabse challenging topics par bhi baat kar sakte hain content se bahar nikal kar aur itni safety build karke ki lagbhag har cheez discussable ho jaye. For example: "Kya hum ek minute ke liye topic badal sakte hain? Main us baare mein baat karna chahti hoon jo tab hota hai jab hum romantically sync mein nahi hote. Achha hoga agar hum dono share kar sakein ki kya kaam kar raha hai aur kya nahi. Mera maqsad tumhe guilty feel karana nahi hai, aur main yakeenan defensive nahi hona chahti. Main toh bas ye chahti hoon ki hum koi aisa solution nikalein jisse hum dono apne rishte mein satisfied rahein."
+
+---
+
+### PEHCHANEIN KI KAUNSI CONDITION KHATRE MEIN HAI
+
+Ab, aaiye un kuch tukdon ko dekhte hain jo humein safety establish karne mein madad karte hain bhale hi topic high risk, controversial aur emotional ho. Safety build karne ka pehla step ye samajhna hai ki safety ki do conditions mein se kaunsi khatre mein hai. Har ek ke liye alag solution chahiye.
+
+#### Mutual Purpose (Aapsi Maqsad)
+**Baat shuru hi kyun karein?**
+
+Yaad hai pichli baar jab kisi ne aapko mushkil feedback diya tha aur aap defensive nahi hue the? Maan lijiye ek dost ne aapse kuch aisi baatein kahin jin par zyada-tar log upset ho sakte hain. Us insaan ke liye wo delicate message deliver kar paana isliye mumkin hua kyunki aapko yakeen tha ki wo aapki parwah karta hai, ya aapke goals aur objectives ki. Iska matlab hai ki aapko uske purpose par bharosa tha—isliye aap kaafi tough feedback sunne ke liye taiyaar the.
+
+Crucial conversations aksar isliye kharab nahi hoti kyunki conversation ka content bura hai, balki isliye kyunki dusron ko lagta hai ki us painful aur pointed content ka matlab hai ki aapka maqsad galat (malicious intent) hai. Wo kaise safe feel kar sakte hain jab unhe lagta hai ki aap unhe nuksaan pahunchana chahte hain? Jald hi, aapke munh se nikla har shabd shak ke ghere mein aa jata hai.
+
+Natijan, safety ki pehli condition Mutual Purpose hai. Mutual Purpose ka matlab hai ki dusre ye perceive karein ki hum conversation mein ek common outcome ki taraf kaam kar rahe hain, ki hum unke goals, interests aur values ki parwah karte hain. Aur iska ulta bhi. Hum yakeen karte hain ki wo hamari parwah karte hain. Isliye, Mutual Purpose dialogue ki entry condition hai. Ek shared goal dhoond lijiye aur aapke paas baat karne ki ek achhi wajah aur ek healthy maahol dono honge.
+
+For example, agar Jotham ko lagta hai ki Yvonne ka is topic ko uthane ka maqsad use guilty feel karana ya apni baat manwana hai, toh ye conversation shuruat se hi doomed hai. Agar use lagta hai ki wo sach mein uske aur apne liye cheezon ko behtar banane ki parwah karti hai, toh shayad uska ek chance ho.
+
+Mutual Purpose ke khatre mein hone ke signs par nazar rakhein. Humein kaise pata chalega ki jo safety problem hum dekh rahe hain wo Mutual Purpose ki kami ki wajah se hai? Ise pehchanna kaafi aasaan hai. Sabse pehle, jab purpose khatre mein hota hai, toh hum debate mein phans jate hain. Jab dusre pool of meaning mein apni opinions force karna shuru karte hain, toh aksar isliye hota hai kyunki unhe lagta hai ki hum jeetne ki koshish kar rahe hain aur unhe bhi wahi karne ki zaroorat hai. Purpose khatre mein hone ke baaki signs mein defensiveness, hidden agendas (purpose kharab hone ka silence wala form), ilzaam (accusations), aur baar-baar usi topic par ghoom kar aana shamil hain. Ye tay karne ke liye ki Mutual Purpose kab khatre mein hai, yahan kuch crucial sawal hain:
+
+* Kya dusron ko lagta hai ki main is conversation mein unke goals ki parwah karta hoon?
+* Kya wo mere motives par bharosa karte hain?
+
+Mutual Purpose mein "Mutual" word ko yaad rakhein. Samajhdaaro ke liye ek ishara. Mutual Purpose koi technique nahi hai. Crucial conversations mein kamyab hone ke liye, humein sach mein dusron ke interests ki parwah karni hogi—sirf apne nahi. Purpose sach mein mutual hona chahiye. Agar hamara goal apni baat manwana ya dusron ko manipulate karna hai, toh ye jaldi hi saaf ho jayega, safety destroy ho jayegi, aur hum kuch hi der mein silence aur violence par wapas aa jayenge. Shuru karne se pehle apne motives ko examine karein. Apne aap se Start with Heart wale sawal puchein:
+
+* Main apne liye kya chahta hoon?
+* Main dusron ke liye kya chahta hoon?
+* Main is rishte (relationship) ke liye kya chahta hoon?
+
+Mutuality ko dhoondein. Aaiye dekhte hain ki Mutual Purpose ek mushkil example par kaise apply hota hai—jahan, pehli nazar mein, aisa lag sakta hai ki aapka maqsad sirf apne liye cheezon ko behtar banana hai. Aap isme Mutual Purpose kaise dhoond sakte hain? Maan lijiye aapka ek boss hai jo aksar apne commitments poore nahi karta. Aap boss ko kaise bata sakte hain ki aap un par bharosa nahi karte? Yakeenan aisa kehne ka koi raasta nahi hai jisse boss defensive ya vengeful na ho jaye, kyunki wo jaanta hai ki aapka goal sirf apni life behtar banana hai.
+
+Disaster se bachne ke liye, ek aisa Mutual Purpose dhoondein jo boss ke liye itna motivating ho ki wo aapke concerns sunna chahe. Agar boss ko approach karne ki aapki wahid wajah wahi hai jo aap chahte hain, toh boss aapko critical aur selfish samjhega—jo ki aap hain. Dusri taraf, agar aap dusre insaan ka point of view dekhne ki koshish karte hain, toh aap aksar bahut sensitive baatcheet mein bhi dusre insaan ko marzi se shamil karne ka raasta dhoond sakte hain. For example, agar boss ka behavior aapke deadlines miss hone ka kaaran ban raha hai jiski wo parwah karta hai, ya koi extra cost lag rahi hai jisse wo pareshan hota hai, ya productivity kam ho rahi hai jiski use chinta hai, toh aap ek possible Mutual Purpose tak pahunch gaye hain.
+
+Imagine kijiye topic ko is tarah uthana: "Mere paas kuch ideas hain ki main kaise aur zyada reliable ban sakta hoon aur har mahine report taiyaar karne mein kuch hazaar dollars ki cost bhi kam kar sakta hoon. Ye thodi sensitive baatcheet hogi—par mujhe lagta hai ki agar hum is baare mein baat karein toh isse bahut madad milegi."
+
+#### Mutual Respect (Aapsi Izzat)
+**Kya hum dialogue mein bane reh payenge?**
+
+Jahan ye sach hai ki crucial conversation mein enter hone ki koi wajah nahi hai agar aapke paas Mutual Purpose nahi hai, wahi ye bhi utna hi sach hai ki aap conversation mein bane nahi reh sakte agar aap Mutual Respect maintain nahi karte. Mutual Respect dialogue ki continuance condition hai. Jaise hi logon ko lagta hai ki dusre unki izzat nahi kar rahe, conversation turant unsafe ho jati hai aur dialogue ekdum ruk jata hai.
+
+Kyun? Kyunki respect hawa (air) ki tarah hai. Agar aap ise cheen lein, toh log sirf isi ke baare mein soch paate hain. Jis pal logon ko conversation mein disrespect mahsoos hoti hai, interaction ab original purpose ke baare mein nahi rehta—ab ye apni dignity (izzat) bachane ke baare mein ho jata hai.
+
+For example, aap supervisors ke ek group se ek complicated quality problem ke baare mein baat kar rahe hain. Aap sach mein chahte hain ki problem hamesha ke liye solve ho jaye. Aapki job is par depend karti hai. Badkismati se, aap ye bhi sochte hain ki supervisors ko zaroorat se zyada pay kiya ja raha hai aur wo underqualified hain. Aapka pakka manna hai ki na sirf ye kaam unke bas se bahar hai, balki wo har waqt bewakoofiyan karte rehte hain. Unmein se kuch toh unethical bhi hain.
+
+Jaise hi supervisors ideas dete hain, aap apni aankhein ghumate (roll eyes) hain. Wo disrespect jo aapke dimaag mein hai, wo ek durbhagya-purna ishare (gesture) se bahar nikal aati hai. Aur sab khatam. Conversation ka kya hota hai iske bawajood ki aapka objective abhi bhi common hai? Wo doob jati hai. Wo aapke proposals par attack karte hain. Aap unke proposals ko describe karne mein insulting adjectives jod dete hain. Jaise hi focus points score karne par jata hai, har koi haar jata hai. Aapka Mutual Purpose, Mutual Respect ki kami ki wajah se suffer karta hai.
+
+Telltale signs. Jab respect violate hoti hai aur safety bigadne lagti hai, toh logon ke apni dignity bachane ke signs par nazar rakhein. Emotions hi key hain. Jab log disrespected feel karte hain, toh wo kaafi charged ho jate hain. Unke emotions darr se gusse mein badal jate hain. Phir wo pouting, naam rakhne (name-calling), chillane, aur dhamkiyan dene ka sahara lete hain. Ye tay karne ke liye ki Mutual Respect kab khatre mein hai, niche diya sawal puchein:
+
+* Kya dusron ko lagta hai ki main unki izzat karta hoon?
+
+**Kya aap un logon ki izzat kar sakte hain jinki aap izzat nahi karte?**
+
+Kuch logon ko darr lagta hai ki wo kuch khaas logon ke saath ya kuch situations mein kabhi Mutual Purpose ya Mutual Respect maintain nahi kar payenge. Wo sochte hain ki wo un logon ke saath same purpose kaise share kar sakte hain jo bilkul alag background se aate hain ya jinke morals ya values unse alag hain? Aap kya karte hain, for example, agar aap isliye upset hain kyunki kisi dusre insaan ne aapko niraash kiya hai? Aur agar aisa baar-baar hua hai, toh aap ek aise insaan ki izzat kaise kar sakte hain jo itna poorly motivated aur selfish hai?
+
+Yvonne isi point se struggle kar rahi hai. Aise waqt hote hain jab wo Jotham ko pasand tak nahi karti. Wo use whiny aur self-centered samajhti hai. Aap aise kisi insaan ke saath respectfully kaise baat kar sakte hain?
+
+Dialogue sach mein doomed ho jata agar humein baat karne se pehle har objective share karna padta ya dusre insaan ke character ke har element ki izzat karni padti. Agar aisa hota, toh hum sab gonge hote. Hum, halanki, dusre insaan ki basic humanity ka samman karke dialogue mein bane reh sakte hain. Asal mein, disrespect ki feelings aksar tab aati hain jab hum is par dhyan dete hain ki dusre humse kaise alag hain. Hum in feelings ko un tareekon ko dhoond kar counter kar sakte hain jinme hum ek jaise hain. Unke behavior ko excuse kiye bina, hum unke saath hamdardi (sympathize) karne ki koshish karte hain.
+
+Ek kaafi chalaak insaan ne ek baar iska tareeka ek prayer ke roop mein bataya tha—"Hey Ishwar, mujhe unhe maaf karne mein madad kar jo mujhse alag tarah se paap (sin) karte hain." Jab hum recognize karte hain ki hum sab mein kamzoriyan hain, toh dusron ki izzat karne ka raasta dhoondna aasaan ho jata hai. Jab hum aisa karte hain, toh humein ek apnapan (kinship), ek mutuality ki feeling mahsoos hoti hai bhale hi saamne wala insaan kitna hi mushkil kyun na ho. Ye apnapan aur connection hi hai jo humein tough conversations mein enter karne ke liye motivate karta hai, aur ye aakhir-kar humein lagbhag kisi ke bhi saath dialogue mein rehne ke qabil banata hai.
+
+Niche diye gaye example par gaur karein. Ek manufacturing company cheh mahine se zyada waqt se strike par hai. Aakhir-kar, union kaam par lautne ke liye raazi ho jati hai, par employees ko ek aise contract par sign karna padta hai jo asal mein unki original demand se bhi bura hai. Pehle din hi ye saaf ho jata hai ki bhale hi log kaam karenge, par wo smile aur joash ke saath nahi karenge. Har koi gusse mein hai. Log aage kaise badhenge?
+
+Is chinta mein ki bhale hi strike khatam ho gayi hai par jung nahi, ek manager authors mein se ek se madad maangta hai. Toh wo leaders ke do groups (managers aur union heads dono) se milta hai aur unhe ek kaam karne ko kehta hai. Har group ko ek alag kamre mein jana hai aur flip-chart size paper par company ke liye apne goals likhne hain. Do ghante tak har group junoon ke saath likhta hai ki wo future mein kya chahta hai aur phir lists ko deewar par tape kar deta hai. Jab wo apna assignment poora kar lete hain, toh groups apni jagah badal lete hain (swap places) is maqsad ke saath ki wo kuch bhi dhoond sakein—shayad sirf ek thoda sa hissa—par kuch bhi jo unmein common ho.
+
+Kuch minutes baad dono groups training room mein wapas aate hain. Wo poori tarah dang (stunned) hain. Aisa lag raha tha jaise unhone bilkul ek jaisi lists likhi hon. Unhone sirf ek ya do ideas ki parchhayi share nahi ki thi. Unki ummeedein lagbhag ek jaisi thin. Sab chahte the ek profitable company, stable aur rewarding jobs, high-quality products, aur community par ek positive impact. Bina kisi attack ke darr ke aur khul kar bolne ka mauka milne par, har group ne sirf wo nahi bataya jo wo chahta tha, balki wo jo lagbhag har insaan chahta tha.
+
+Is experience ne har group ko is par gambhirta se sochne par majboor kar diya ki unhone dusri side ko kaise dekha tha. Groups ne dusron ko apne se aur zyada milta-julta dekhna shuru kiya. Unhe realize hua ki jo chhoti aur political tactics dusron ne use ki thin, wo embarassing hadd tak unhi tactics jaisi thin jo unhone khud use ki thin. Dusron ke "paap" unke apne paap se alag sirf isliye the kyunki unka role alag tha, na ki isliye ki unke character mein koi buniyadi kharaabi thi. Unhone Mutual Respect restore ki, aur dashakon mein pehli baar silence aur violence ki jagah dialogue ne le li.
+
+---
+
+### JAB AAP BAHAR NIKAL JAATE HAIN TOH KYA KAREIN
+
+Jab aap dekhte hain ki ya toh Mutual Respect ya Purpose khatre mein hai, toh humne suggest kiya hai ki aapko ise ignore nahi karna chahiye. Humne ye bhi kaha hai ki aapko Mutual Purpose dhoondne aur Mutual Respect enjoy karne ka raasta mil jana chahiye—un logon ke saath bhi jo aapse bahut alag hain.
+
+Lekin kaise? Aapko asal mein karna kya hai? Humne kuch modest ideas share kiye hain (zyada-tar wo cheezon jo avoid karni hain), toh aaiye teen hard-hitting skills ke baare mein jaante hain jo dialogue mein behtareen log use karte hain:
+
+* Apologize (Maafi maangein)
+* Contrast (Farq batayein)
+* CRIB
+
+Har skill ya toh Mutual Respect ya Mutual Purpose ko rebuild karne mein madad karti hai. Pehle, hum unhe action mein dekhenge. Phir, hum dekhenge ki kya wo Yvonne ko cheezon ko wapas track par laane mein madad kar sakti hain.
+
+Aap kahan the? Aap hourly employees ke ek group se baat kar rahe hain jinhone factory tour ki taiyari mein poori raat kaam kiya. Aapko division vice president ko lekar aana tha, aur phir team members unhe ek naye process ke baare mein update dene wale the jo unhone lagaya hai. Unhe apne kiye gaye improvements par garv hai—itna ki unhone aakhri details poori karne ke liye khushi-khushi poori raat kaam kiya.
+
+Badkismati se, jab unke area mein jane ka waqt aaya, toh visiting VP ne ek bomb phoda. Usne ek aisa plan rakha jiske baare mein aapko yakeen tha ki wo quality ko nuksaan pahunchayega aur potentially aapke sabse bade customers ko door kar dega. Chunki aapke paas VP ke saath sirf ek aur ghanta tha, aapne tour karne ke bajaye issue par baat karna chuna. Aapka future us khaas conversation par depend karta tha. Khushkismati se, aap us plan ko rokne mein kamyab rahe. Badkismati se, aap us team ko khabar dena bhool gaye jisne itni mehnat ki thi.
+
+Executive ko uski car tak chhodne ke baad jab aap apne office wapas ja rahe the, toh aapki takkar team se hui. Aankhein thaki hui aur niraash, wo cheh log ab gusse mein bhun rahe the. Na koi visit, na koi phone call, aur ab ye saaf tha jis tarah se aap bhagte hue nikal rahe the ki aap ruk kar unhe ek simple explanation tak nahi dene wale the.
+
+Ouch.
+
+Tabhi cheezon ne bura rukh lena shuru kiya. "Humne poori raat jaag kar kaam kiya, aur tumne aane tak ki takleef nahi ki! Ye aakhri baar hai jab hum tumhare liye itni mehnat kar rahe hain!"
+
+Waqt thamm jata hai. Ye conversation ab crucial ho gayi hai. Jin employees ne itni mehnat ki thi wo zahir taur par upset hain. Wo disrespected feel kar rahe hain.
+
+Lekin aap wo point miss kar dete hain. Kyun? Kyunki ab aap disrespected feel kar rahe hain. Unhone aap par attack kiya hai. Isliye aap conversation ke content mein phanse rehte hain—ye sochte hue ki iska factory tour se kuch lena-dena hai.
+
+"Mujhe company ke future aur plant tour mein se kisi ek ko chunna tha. Maine hamara future chuna, aur agar mujhe phir se karna pada toh main wahi karunga."
+
+Ab aap aur wo dono respect ke liye lad rahe hain. Isse aap kahin nahi pahunch rahe. Par aap aur kya kar sakte the?
+
+Hook hone aur wapas ladne ke bajaye, is cycle ko todein. Unke aggressive behavior ko wahi samjhein jo wo hai—violated safety ka ek sign—phir conversation se bahar niklein, safety banayein, aur wapas content mein kadam rakhein. Dekhiye kaise.
+
+#### Jab Zaroorat ho toh Apologize karein
+Jab aapne koi aisi galti ki ho jisse dusron ko chot pahunchi ho (e.g., aapne team ko call nahi kiya), toh ek apology se shuru karein. Apology ek aisa statement hai jo dusron ko pahunche dard ya mushkil mein aapke role ke liye aapke dukh (sorrow) ko sincerely express karta hai.
+
+"Mujhe maaf kar dijiye ki jab mujhe pata chala ki hum nahi aa payenge toh maine aapko call nahi kiya. Aapne poori raat kaam kiya, ye aapke improvements dikhane ka ek behtareen mauka hota, aur maine ye tak nahi bataya ki kya hua. Main maafi maangta hoon."
+
+Ab, apology tab tak asli apology nahi hai jab tak aapka dil na badle. Ek sincere apology dene ke liye, aapke motives badalne chahiye. Aapko apni izzat bachane (saving face), sahi hone, ya jeetne ka moh chhodna hoga taaki aap us par focus kar sakein jo aap sach mein chahte hain. Aapko apni galti maan kar apni ego ka thoda balidaan dena hoga. Lekin kai balidaanon ki tarah, jab aap apni kisi keemti cheez ko chhodte hain, toh aapko badle mein aur bhi keemti cheez milti hai—healthy dialogue aur behtar results. Phir dekhiye ki kya respect ke is sincere dikhawe ne safety restore karne mein madad ki hai. Agar ki hai, toh ab aap bata sakte hain ki asal mein kya hua tha. Agar nahi, toh aapko agle kuch pages mein aane wali advanced skills use karni hongi. Kisi bhi case mein, pehle safety banayein; phir issue par wapas aayein.
+
+Jab aapke behavior ne kisi ko aapki respect ya Mutual Purpose ke prati commitment par shak karne ki saaf wajah de di ho, toh aapki conversation tab tak faltu game-playing aur frustrating galat-fehmiyon mein phansi rahegi jab tak aap ek sincere apology nahi dete.
+
+#### Galat-fehmi theek karne ke liye Contrast karein
+Kabhi-kabhi crucial conversations ke dauran dusron ko disrespected feel hota hai bhale hi humne kuch bhi disrespectful na kiya ho. Bilkul, aise waqt hote hain jab respect violate hoti hai kyunki humne zahir taur par bura behave kiya hota hai. Par utni hi baar, insult poori tarah anjaane mein (unintended) hoti hai.
+
+Wahi cheez Mutual Purpose ke saath bhi ho sakti hai. Aap masoomiyat se apne views share karna shuru kar sakte hain, par dusre insaan ko lagta hai ki aapka iraada use neecha dikhana ya apni opinion manne par majboor (coerce) karna hai. Zahir hai aisi situations mein apology sahi nahi hai. Ye kehna galat hoga ki aap galat the jab aap nahi the. Phir, aap dialogue par wapas jane ke liye safety banane ki khatir Mutual Purpose ya Mutual Respect ko kaise rebuild kar sakte hain?
+
+Jab dusre aapke purpose ya aapke iraade (intent) ka galat matlab nikalein, toh argument se bahar niklein aur Contrasting naam ki skill use karke safety rebuild karein. Contrasting ek don't/do statement hai jo:
+
+* Dusron ki un chintaon ko address karta hai ki aap unki izzat nahi karte ya aapka maqsad galat hai (don't wala part).
+* Aapki respect ko confirm karta hai ya aapke asli maqsad ko saaf karta hai (do wala part).
+
+For example:
+
+**[The don't part]** "Main bilkul bhi ye communicate nahi karna chahta tha ki main aapke kaam ki value nahi karta ya main ise VP ke saath share nahi karna chahta tha.
+**[The do part]** Mujhe lagta hai ki aapka kaam spectacular se kam nahi raha hai."
+
+Ab jab aapne safety ke khatre ko address kar liya hai, toh aap tour ke issue par wapas aa sakte hain aur solution ki taraf badh sakte hain:
+
+"Badkismati se, jab main yahan aane ki taiyari kar hi raha tha, tabhi VP ke saath ek aisa issue aa gaya jise mujhe usi waqt handle karna zaroori tha, warna hamara ek bahut bada business haath se nikal jata. Main aapko batata hoon—main dekhunga ki kya main unhe kal kisi waqt yahan la sakta hoon aapka kaam dekhne ke liye. Wo ribbon-cutting ceremony ke liye yahan honge. Dekhte hain agar hum unhe wo process improvements dikha sakein jo aapne nikale hain."
+
+Contrasting ke do parts mein se, 'don't' wala part zyada important hai kyunki ye us galat-fehmi se deal karta hai jisne safety ko khatre mein dala hai. Wo employees jinhone itni mehnat ki, wo is yakeen par act kar rahe hain ki aap unki koshishon ki qadar nahi karte aur unhe inform karne ki parwah nahi ki—jabki sach iska ulta tha. Isliye aap galat-fehmi ko address karte hain ye bata kar ki aapka iraada kya nahi hai. Ek baar jab aapne ye kar diya, aur conversation mein safety wapas aa gayi, tab aap bata sakte hain ki aapka iraada kya hai. Safety pehle.
+
+Aaiye Yvonne aur Jotham par wapas chalte hain. Yvonne conversation shuru karne ki koshish kar rahi hai, aur Jotham ko uske motives par shak hai. Dekhte hain Contrasting uski kaise madad kar sakta hai.
+
+**YVONNE:** Mujhe lagta hai cheezon aur bigad jati hain jab tum peeche hat jate ho aur mujhse dino tak baat nahi karte.
+**JOTHAM:** Toh tum mujhse na sirf ye expect karti ho ki main baar-baar rejection jhelun, balki jab jhelun tab sociable aur khush bhi rahoon?
+
+Jotham ko lagta hai ki Yvonne ka motive use badalna (reshape) hai. Ye unsafe hai. Mutual Purpose khatre mein hai. Uske sarcasm ka jawab dene ke bajaye, use content se bahar nikal kar apne asli motives saaf karne chahiye.
+
+**YVONNE:** Main ye nahi kehna chahti ki ye problem tumhari hai. Sach toh ye hai ki mujhe lagta hai ye hamari hai. Main poora bojh tum par nahi dalna chahti. Mujhe toh ye bhi nahi pata ki solution kya hai. Main bas itna chahti hoon ki hum baat kar sakein taaki hum ek dusre ko behtar samajh sakein. Shayad isse mujhe ye badalne mein madad mile ki main tumhe kaise respond kar rahi hoon.
+
+**JOTHAM:** Mujhe pata hai ye kahan ja raha hai. Hum baat karenge, main reject hota rahunga, par tum apne baare mein achha feel karogi kyunki "humne communicate kiya hai." Kya tum phir se Oprah dekh rahi ho?
+
+Zahir hai Jotham abhi bhi yakeen karta hai ki Yvonne sirf ye confirm karna chahti hai ki unka rishta theek hai aur agar wo aisa kar leti hai, toh wo Jotham ko reject karna jari rakh payegi—par achha feel karegi. Jotham abhi bhi unsafe feel kar raha hai. Isliye Yvonne bahar nikalna jari rakhti hai aur Contrasting use karke safety build karti hai.
+
+**YVONNE:** Seriously, Honey. Mujhe is baare mein baat karne mein koi interest nahi hai ki hamara current relationship kyun theek hai. Main dekh sakti hoon ki ye nahi hai. Main sirf is baare mein baat karna chahti hoon ki hum mein se har ek ko kya pasand hai aur kya nahi. Is tarah hum dekh payenge ki humein kya improve karne ki zaroorat hai aur kyun. Mera wahid maqsad kuch aise ideas nikalna hai jo hum dono ko khush karein.
+
+**JOTHAM:** (Tone aur behavior badalte hue) Sach mein? Sorry main is baare mein itna insecure ho raha hoon. Main jaanta hoon main thoda selfish ho raha hoon, par mujhe nahi pata ki main alag kaise feel karoon.
+
+Contrasting apology nahi hai. Ye samajhna zaroori hai ki Contrasting maafi mangna nahi hai. Ye kisi aisi cheez ko wapas lene ka tareeka nahi hai jo humne kahi ho aur jisse dusron ka dil dukha ho. Balki, ye yakeen dilane ka ek tareeka hai ki jo humne kaha usne zaroorat se zyada chot na pahunchayi ho. Ek baar jab Yvonne ne apne asli goals saaf kar diye (na ki sirf koi banawati goal jo Jotham ko pasand aaye), Jotham ne apna contribution manne mein zyada safe feel kiya, aur dono wapas dialogue par aa gaye.
+
+Contrasting context aur proportion deta hai. Jab hum kisi touchy conversation ke beech mein hote hain, toh kabhi-kabhi dusre hamari baat ko hamare iraade se zyada bada ya bura samajh lete hain. For example, aap apne assistant se uski punctuality (waqt ki pabandi) ki kami par baat karte hain. Jab aap apni chinta share karte hain, toh wo toot jata hai (crushed).
+
+Is point par aap content ko halka (water down) karne ke lalach mein aa sakte hain—"Tumhe pata hai ye koi itni badi baat nahi hai." Aisa mat kijiye. Jo aapne kaha hai use wapas mat lijiye. Iske bajaye, use context mein rakhein. For instance, is point par aapka assistant shayad yakeen kar raha ho ki aap uski performance se poori tarah dissatisfied hain. Use lagta hai ki is issue par aapka view uske liye aapki poori respect ko represent karta hai. Agar ye yakeen galat hai, toh Contrasting use karke saaf karein ki aap kya nahi maante aur kya maante hain. Pehle usse shuru karein jo aap nahi maante.
+
+"Main ise sahi perspective mein rakhta hoon. Main nahi chahta ki tum ye socho ki main tumhare kaam ki quality se satisfied nahi hoon. Main chahta hoon ki hum saath kaam karna jari rakhein. Main sach mein sochta hoon ki tum achha kaam kar rahe ho. Ye punctuality ka issue mere liye important hai, aur main bas chahta hoon ki tum is par kaam karo. Agar tum is par dhyan doge, toh koi aur issues nahi hain."
+
+Prevention ya First Aid ke liye Contrasting ka use karein. Contrasting safety problems ke liye prevention aur first aid dono ke roop mein kaam aata hai. Ab tak hamare examples first-aid type ke rahe hain. Kisi ne kisi baat ko galat tarah se liya hai, aur humne apne asli maqsad ya meaning ko saaf karne ke liye interfere kiya hai.
+
+Jab humein pata ho ki jo baat hum pool of meaning mein dalne wale hain wo defensiveness paida kar sakti hai, toh hum safety badhane ke liye Contrasting use karte hain—is se pehle bhi ki hum dusron ko silence ya violence ki taraf jate hue dekhein.
+
+"Main nahi chahta ki aap ye sochein ki main us waqt ki qadar nahi karta jo aapne hamari checkbook balance aur up-to-date rakhne mein lagaya hai. Main iski qadar karta hoon, aur main jaanta hoon ki main yakeenan itna achha nahi kar pata. Lekin, mujhe kuch concerns hain ki hum naya electronic banking system kaise use kar rahe hain."
+
+Jab log galat samajhein aur aap us galat-fehmi par behas karne lagein, toh ruk jayein. Contrasting use karein. Jab tak safety restore na ho jaye tab tak samjhayein ki aapka kya matlab nahi hai. Phir conversation par wapas aayein. Safety pehle.
+
+**Aap Try Kijiye**
+Aaiye practice karte hain. Niche di gayi situations ko padhein aur phir apne khud ke Contrasting statements banayein. Yaad rakhein, jo aap nahi chahte ya aapka iraada nahi hai use usse contrast karein jo aap asal mein chahte hain ya aapka iraada hai. Ise is tarah kahein ki dusre insaan ke liye safety bane.
+
+**Gusse wala Roommate:** Aapne apne roommate se kaha ki wo fridge mein se apna saaman aapki shelves se hata kar apni shelves par rakh de. Aapne socha ye koi badi baat nahi hai, sirf space ko barabari se share karne ki ek request hai. Aapka koi hidden agenda nahi hai. Aap is roommate ko bahut pasand karte hain. Usne jawab diya: "Phir se wahi shuru, mujhe bata rahe ho ki main apni life kaise chalaun. Main tumhare beech mein aaye aur salah diye bina vacuum cleaner ka bag tak nahi badal sakti." Ek Contrasting statement banayein.
+
+Main nahi chahta ___________________
+Main chahta hoon ___________________
+
+**Touchy Employee:** Aap Jacob se baat karne wale hain, ek employee jo tab bhadak jata hai jab log use feedback dene ki koshish karte hain. Kal ek coworker ne Jacob se kaha ki wo pasand karegi agar wo lunchroom mein apne baad safai karde (jo baaki sab karte hain), aur Jacob bhadak gaya. Aapne kuch kehne ka faisla kiya hai. Zahir hai, aap use feedback de rahe honge, aur wahi cheez use bhadkati hai, isliye aapko shuruat mein savdhan rehna hoga. Aap sahi tone set karna chahenge aur context ko dhyan se samjhayenge. Aakhir-kar, aap Jacob ko bahut pasand karte hain. Sab karte hain. Uska sense of humor kamaal ka hai aur wo sabse competent aur mehnat karne wala employee hai. Kaash wo itna touchy na hota. Ek Contrasting statement banayein.
+
+Main nahi chahta ___________________
+Main chahta hoon ___________________
+
+**Chatty Teenager:** Aapka teenage nephew aapke saath rehne aaya jab uske pita (aapke bhai) ka inteqal ho gaya aur aapki bhabhi use sambhal nahi pa rahi thin. Wo galat dosti mein padne laga tha. Uska hamesha aapke saath achha raha hai, aur cheezon achhi chal rahi hain siwaye ek area ke: Wo ghanton phone aur internet par bitata hai—apne jaagne ke zyada-tar ghante. Wo jo kar sakta tha (galat kaam) uske mukable aap zyada disturbed nahi hain, par aapke liye calls karna aur email check karna mushkil ho raha hai. Aapne usse phone aur online waqt kam karne ke baare mein kuch kaha, aur usne jawab diya: "Please mujhe youth home mat bhejo! Main achha banunga! Main promise karta hoon. Main apne doston se baat karna band kar dunga; bas mujhe door mat bhejo."
+Ek Contrasting statement banayein.
+
+Main nahi chahta ___________________
+Main chahta hoon ___________________
+
+---
+
+### MUTUAL PURPOSE TAK PAHUNCHNNE KE LIYE CRIB
+
+Aaiye ek aur skill jodte hain. Kabhi-kabhi hum ek debate ke beech mein hote hain kyunki hamare maqsad (purposes) zahir taur par alag hote hain. Yahan koi galat-fehmi nahi hai. Contrasting yahan kaam nahi karega. Humein is kaam ke liye kuch zyada mazboot chahiye.
+
+Example ke liye, aapko abhi ek promotion offer hui hai jo aapke career ko fast track par le jayegi aur aapko bahut zyada authority degi, aur iski pay itni achhi hai ki displacement ka dukh thoda kam ho jaye. Wo aakhri part important hai kyunki aapko family ke saath poore desh ke dusri taraf move hona padega aur aapke spouse aur bachhon ko wo jagah bahut pasand hai jahan aap abhi rehte hain.
+
+Aapne expect kiya tha ki move ko lekar aapke spouse ke feelings mix (ambivalence) honge, par wo thoda sa bhi mix nahi lag rahe. Aapke spouse ke liye ye promotion ek bad news/bad news event hai. Pehla, aapko move hona padega, aur dusra, aap aur bhi zyada ghante kaam karenge. Wo zyada paise aur power wali baat use compensate karti nahi lag rahi. Ab kya?
+
+Jo dialogue mein sabse kharab hain wo ya toh problem ko ignore karke aage badhte hain ya haar maan lete hain aur dusron ki marzi chalne dete hain. Wo ya toh competition ya submission chun-te hain. Dono strategies winners aur losers banati hain, aur problem initial conversation ke bahut baad tak chalti rehti hai.
+
+Dialogue mein jo achhe hain wo turant compromise ki taraf badhte hain. For example, transfer ka saamna kar raha couple do ghar set up karta hai—ek jahan ek spouse kaam karega aur ek jahan family abhi reh rahi hai. Koi bhi ye arrangement sach mein nahi chahta, aur sach kahein toh, ye kaafi bura solution hai jisse aage chalkar aur gambhir problems, yahan tak ki divorce bhi ho sakta hai. Halanki compromise kabhi-kabhi zaroori hota hai, par behtareen log jaante hain ki wahan se shuruat nahi karni chahiye.
+
+Dialogue mein jo sabse behtareen hain wo Mutual Purpose dhoondne ke liye chaar skills use karte hain. Jo chaar skills wo use karte hain wo acronym **CRIB** banati hain.
+
+#### **C**ommit to Seek Mutual Purpose (Mutual Purpose dhoondne ka wada karein)
+Jaise zyada-tar dialogue skills ke saath hota hai, agar aap dialogue par wapas aana chahte hain, toh aapko Dil se Shuru (Start with Heart) karna hoga. Is case mein, aapko sehmat hone par sehamat hona hoga. Kamyab hone ke liye, humein dusron ko apne view par majboor karne ke liye silence ya violence use karna band karna hoga. Humein jhoothe dialogue ko bhi chhodna hoga, jahan hum Mutual Purpose hone ka dikhawa karte hain (shanti se tab tak apni side argue karna jab tak dusra insaan haar na maan le). Hum Dil se Shuru karte hain ye wada karke ki hum conversation mein tab tak bane rahenge jab tak hum koi aisa solution nahi nikal lete jo hum dono ke common purpose ko serve kare.
+
+Ye mushkil ho sakta hai. Behas band karne ke liye, humein ye yakeen thoda side mein rakhna hoga ki hamari choice hi sabse behtareen aur wahid choice hai, aur hum tab tak khush nahi honge jab tak humein wahi nahi mil jata jo hum abhi chahte hain. Humein apna dimaag is baat ke liye kholna hoga ki shayad, shayad koi alag choice ho sakti hai...
