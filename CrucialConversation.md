@@ -2567,4 +2567,15 @@ Ye bilkul clear kar dein ki ek baar jab aapne koi assignment de diya, toh sirf d
 **"HAAN, LEKIN... KYA HO AGAR JIS INSAAN se aap deal kar rahe hain wo zyada tar dialogue ke saare principles todta hai—khas taur par crucial conversations ke dauran."**
 
 **The Danger Point**
-Jab aap dialogue skills ke spectrum ko dekhte hain, toh hum mein se zyada tar log beech mein aate hain. Kabhi hum track par hote hain aur kabhi off. Hum mein se kuch 'Sucker’s Choices' se bachne mein achhe hain; dusre safety build karne mein achhe hain. Of course, aapke paas extremes bhi hote hain. Aapke paas aise log hain jo bilkul conversational geniuses hain. Aur ab aap keh rahe hain ki aap kisi aise ke saath kaam karte hain (shayad rehte hain) jo...
+Jab aap dialogue skills ke spectrum ko dekhte hain, toh hum mein se zyada tar log beech mein aate hain. Kabhi hum track par hote hain aur kabhi off. Hum mein se kuch 'Sucker’s Choices' se bachne mein achhe hain; dusre safety build karne mein achhe hain. Of course, aapke paas extremes bhi hote hain. Aapke paas aise log hain jo bilkul conversational geniuses hain. Aur ab aap keh rahe hain ki aap kisi aise ke saath kaam karte hain (shayad rehte hain) jo bilkul opposite hai. Wo insaan shayad hi kabhi koi skills use karta ho. Aise mein ek insaan kya kare?
+
+Khatra, zahir hai, ye hai ki shayad wo dusra insaan itna bura na ho jitna aap soch rahe hain—ho sakta hai aap hi unka sabse bura side bahar la rahe hon—ya phir wo sach mein itne bure hain aur aap saari problems ko ek saath theek karne ki koshish kar rahe hain.
+
+**The Solution**
+Maan lete hain ki ye insaan hamesha aur har kisi ke saath kaafi bura behave karta hai. Toh shuruat kahan se karein? Yahan ek metaphor apply karte hain. Ek haathi (elephant) ko kaise khaya jata hai? Ek baar mein ek nivala (one bite at a time). Apne targets bahut dhayan se chunein. Do baaton par gaur karein: (1) Kaun si cheez aapko sabse zyada pareshan karti hai? "Wo hamesha bura hi sochte hain aur bhayanak stories banate hain." (2) Kis cheez par kaam karna sabse aasaan ho sakta hai? "Wo shayad hi kabhi kisi kaam ki tareef karte hain."
+
+Un areas ko dekhein jo aapko sabse zyada chot pahunchate hain aur jinpar baat karna shayad itna mushkil na ho. Kisi ek element ko pakdein aur us par kaam karein. Mutual Purpose establish karein. Conversation ko is tarah frame karein ki samne wale ko bhi uski parwah ho.
+
+"Mujhe bahut achha lagta hai jab hum ek dusre ke saath friendly hote hain. Main chahta hoon ki hamare beech wo feeling aur zyada baar ho. Kuch cheezein hain jin par main baat karna chahta hoon aur mujhe poora yakeen hai ki unse humein madad milegi. Kya hum baat kar sakte hain?"
+
+Issue ko STATE karein, aur phir sirf us ek issue par kaam karein. Nag mat karein; har cheez se ek saath mat ladiye. Ek waqt mein sirf ek element se deal karein, har din thoda-thoda.
