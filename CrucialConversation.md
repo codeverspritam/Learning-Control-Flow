@@ -2075,3 +2075,176 @@ Apni successful crucial conversations ko acche decisions aur ek-jut action mein 
 
 **Saaf-Suthra Finish Karein**
 Tay karein ki kaun kya kab tak karega. Deliverables ko bilkul saaf (crystal clear) rakhein. Ek follow-up waqt set karein. Commitments ko record karein aur phir follow up karein. Aakhir mein, logon ko unke waadon ke liye accountable thehrayein.
+
+---
+
+## 10
+
+### Communication
+unke liye kaam karti hai jo is par mehnat karte hain.
+**- JOHN POWELL**
+
+---
+
+### Sab Kuch Ek Saath Lana (Putting It All Together)
+
+**Tayyari aur Seekhne ke Tools**
+
+Agar aapne pichle pages ko thode hi waqt mein padha hai, toh shayad aapko us anaconda jaisa feel ho raha hoga jisne abhi-abhi ek jungli sooar (warthog) ko nigla ho. Ye sab digest karne ke liye bahut zyada hai.
+
+Aap is waqt shayad ye soch rahe honge ki aap kaise in saare ideas ko yaad rakh paayenge—khaas taur par kisi aisi cheez ke dauran jo itni unpredictable aur fast-moving ho jaise ki ek "crucial conversation".
+
+Yeh chapter aapko dialogue tools aur skills ko yaad rakhne aur use karne ke daunting task mein madad karega. Pehle, hum cheezon ko simple banayenge un logon ke anubhav share karke jinhone in skills ko use karke apni life badal di hai. Dusra, hum ek aisa model pesh karenge jo aapko in saat dialogue principles ko visually organize karne mein madad karega. Teesra, hum ek aisi crucial conversation ka example dekhenge jahan saare dialogue principles apply kiye gaye hain.
+
+---
+
+### DO LEVERS (TWO LEVERS)
+
+Saalon se, log humein aksar batate hain ki is book mein diye gaye principles aur skills ne unki bahut madad ki hai. Par kaise? Ek likha hua shabd (printed word) kaise itne bade badlav la sakta hai?
+
+Logon ko ghar aur kaam par observe karne aur unka interview lene ke baad, humne seekha hai ki zyada tar log specific skills par focus karke progress nahi karte—kam se kam shuruat mein toh nahi—balki wo is book ke do main principles ko apply karke aage badhte hain. Hum umeed karte hain ki jab hum unki success strategies aapke saath share karenge, toh aap improved results aur relationships ki raah par chalne ke liye zyada confident feel karenge.
+
+**Learn to Look:** Positive change ka pehla lever hai "Learn to Look". Yani, wo log jo apni dialogue skills ko improve karte hain, wo lagatar apne aap se puchte rehte hain ki wo dialogue ke andar hain ya bahar. Sirf ye ek cheez bahut bada farq paida karti hai. Yahan tak ki wo log jinhe STATE ya CRIB jaisi skills yaad nahi hain, wo bhi sirf ye puch kar is material ka fayda utha paate hain ki kahin wo silence ya violence mein toh nahi gir rahe. Shayad unhe ye na pata ho ki us specific problem ko kaise fix karna hai, par wo ye jaante hain ki agar wo dialogue mein nahi hain, toh ye achha nahi hai. Aur phir wo dialogue mein wapas aane ke liye kuch na kuch koshish karte hain. Jaise ki pata chala hai, kuch koshish karna kuch na karne se behtar hai.
+
+Toh ye important sawal puchna yaad rakhein: "Kya hum games khel rahe hain ya hum dialogue mein hain?" Ye ek shandaar shuruat hai.
+
+Bahut se logon ko "Learn to Look" mein apne doston se madad milti hai. Wo families ya teams ke taur par training lete hain. Jab wo concepts aur ideas share karte hain, toh wo ek common vocabulary seekhte hain. Crucial conversations ke baare mein baat karne ka ye shared tareeka logon ko badalne mein madad karta hai.
+
+Shayad dialogue ki language roz-marra ki baatcheet mein sabse zyada is expression ke saath aati hai, "Mujhe lagta hai hum dialogue se bhatak gaye hain." Ye simple reminder logon ko khud ko jaldi pakadne mein madad karta hai, isse pehle ki nuksan bahut bada ho jaye. Jab humne executive teams, work groups, aur couples ko dekha ki wo khule aam ye maan lete hain ki wo silence ya violence ki taraf badh rahe hain, toh dusre aksar problem ko pehchan lete hain aur corrective action lete hain. "Tum sahi keh rahe ho. Main wo nahi bol raha jo bolne ki zaroorat hai," ya "I'm sorry. Main apne ideas tum par th थोपने (force) ki koshish kar raha tha."
+
+**Make It Safe:** Dusra lever hai "Make It Safe". Humne sujhaav diya hai ki dialogue ka matlab hai meaning ka free flow, aur flow ko rokne waali number one cheez safety ki kami hai. Jab aap notice karein ki aap aur baaki log dialogue se hatt gaye hain, toh safety badhane ke liye kuch karein. Kuch bhi. Humne kuch skills batayi hain, par wo sirf kuch aam practices hain. Wo koi atal (immutable) principles nahi hain. Kisi ko hairani nahi hogi ki safety badhane ke liye aap bahut kuch kar sakte hain. Agar aap sirf ye samajh lein ki aapka challenge safety ko behtar banana hai, toh das mein se nau baar aap intuitively kuch aisa karenge jo madad karega.
+
+Kabhi-kabhi aap sawal puch kar aur dusron ke views mein interest dikha kar safety build karenge. Kabhi-kabhi ek sahi touch (apno aur family members ke saath—kaam par nahi jahan touch ko harassment mana ja sakta hai) safety ka ehsaas dila sakta hai. Maafi mangna, muskurana, yahan tak ki ek chhote "time out" ki request bhi safety bahal karne mein madad kar sakti hai jab cheezin mushkil ho jayein. Main idea ye hai ki safety banaye rakhein. Kuch aisa karein jisse dusre comfortable mehsoos karein. Aur yaad rakhein, is book mein humne Contrasting se lekar CRIB tak jo bhi skill cover ki hai, wo safety banane ka ek tool hai.
+
+Ye do levers dialogue ko pehchane, banane aur maintain karne ka basis hain. Jab dialogue ka concept introduce kiya jata hai, toh ye wo ideas hain jinhe zyada tar log aasani se samajh lete hain aur crucial conversations mein apply kar sakte hain. Ab aaiye baaki principles par discussion karte hain.
+
+---
+
+### DIALOGUE KA EK MODEL (A MODEL OF DIALOGUE)
+
+Apni soch ko organize karne aur principles ko yaad rakhne (aur kab apply karna hai ye janne) ke liye, aaiye Figure 10-1 mein dikhaye gaye model ko dekhte hain. Ye concentric circles se shuru hota hai—ek target ki tarah. Notice kijiye ki beech wala circle "Pool of Shared Meaning" hai—ye target ka center hai, ya dialogue ka maqsad (aim) hai. Jab meaning freely flow karta hai, toh wo is pool mein jagah bana leta hai, jo logon ki best collective thinking ko represent karta hai.
+
+Pool of Shared Meaning ke chaaron taraf "Safety" hai. Safety humein meaning share karne ki ijazat deti hai aur humein silence ya violence ki taraf badhne se rokti hai. Jab conversations crucial ho jati hain, toh safety ka mazboot hona zaroori hai.
+
+**Games par nazar rakhein.** Agle step mein aap notice karenge ki humne un behaviors ko dikhaya hai jin par safety ke bare mein sochte waqt nazar rakhni hai. Ye wo che silence aur violence behaviors hain jinhe hum dusron mein aur apne "Style Under Stress" mein dekhte hain. Jab hum ye ya aise hi behaviors dekhte hain, toh humein pata chalta hai ki safety kamzor hai. Ye ek cue hai baatcheet ke content se bahar nikalne ka, safety ko mazboot karne ka, aur phir wapas andar aane ka. Yaad rakhein, piche mat hatiye ya apne argument ko kamzor mat kijiye. Bas safety ko phir se banaiye. Isse jaldi karein. Aap dialogue se jitna door silence ya violence ki taraf jayenge, wapas aana utna hi mushkil hoga aur uski keemat utni hi zyada hogi.
+
+Ab, apne model mein logon ko jodte hain.
+
+**Main aur Dusre (Me and Others).** (Figure 10-2). Aap model mein "ME" arrow hain. Dusron ko "OTHER" arrow mein shamil kiya gaya hai. Dono arrows (jo pool ke center ki taraf ishara kar rahe hain) dikhate hain ki hum aur dusre dono dialogue mein hain. Hamara saara meaning shared pool mein freely flow kar raha hai. "Learn to Look" ka matlab hai ye dekhna ki kab inme se koi bhi arrow upar ya niche, yani silence ya violence ki taraf, ishara karne lagta hai. Jab aisa hota hai, toh ya toh aap ya dusre games khelna shuru kar rahe hain.
+
+**Nazar rakhna aur conditions banana.** (Figure 10-3). Jab aap khud ko silence ya violence ki taraf jate hue dekhein, toh "Start with Heart". Apne aap ko dialogue mein rakhne ke liye is baat par focus karein ki aap asliyat mein kya chahte hain aur phir waise hi behave karein jaise aap sach mein use chahte hon. Un "Sucker's Choices" se bachein jo ye dikhate hain ki silence aur violence hi sirf do options hain.
+
+Jab aapke emotions bahut strong hone lagein aur conversation ka control lene lagein, toh "Master My Stories" principle ka use karein taaki aapka arrow wapas Pool of Shared Meaning ki taraf aa jaye. Apne "Path to Action" ko phir se trace karein, "clever stories" par nazar rakhein, aur baaki ki puri kahani (rest of the story) kahein.
+
+Jab dusre silence ya violence ki taraf badhein, toh "Make It Safe". Jaise-jaise hum safety ko mazboot karte hain, is baat ka chance badh jata hai ki dusre apni silence aur violence ko chhod denge aur wapas center mein dialogue ki taraf aayenge.
+
+**Kya karna hai.** Agle teen principles humein sikhate hain ki humein apne meaning ke saath kya karna hai. Pehle, humne seekha "STATE My Path". Hum apne sensitive ya controversial views ko apne Path to Action ko follow karke share karte hain. Hum pehle facts share karte hain aur phir tentative tareeke se apni story share karte hain. Phir hum dusron ko apni story share karne ke liye encourage karke (Figure 10-4) ye dikhate hain ki hum dialogue ke liye serious hain—khaas taur par agar unki story hamari story se alag ho.
+
+Dusron ko apna meaning share karne mein madad karne ke liye, hum "Explore Others' Paths" karte hain. Hum zaroorat ke hisaab se Ask, Mirror, Paraphrase, aur Prime (AMPP) karte hain taaki unki feelings, stories aur facts tak pahunch sakein. Jab hum in skills ko asar-dar tareeke se use karte hain, toh hum ye dikhate hain ki unke concerns discussable hain—yani dialogue sach mein kaam kar sakta hai. Isse dusron ko apni silence aur violence chhodne aur hamare saath dialogue mein shamil hone mein safety feel hoti hai.
+
+Aakhir mein, jab Pool of Shared Meaning bhar jata hai, toh hum "Move to Action" karte hain. Hum ye clear karte hain ki decisions kaise liye ja rahe hain aur decisions hain kya. Aur hum follow-up karte hain taaki ye ensure kiya ja sake ki dialogue positive actions aur results tak le jaye.
+
+Aap Dialogue Model ka use pehle ye diagnose karne ke liye kar sakte hain ki kya chal raha hai. Yaad rakhein puchna: "Main kahan hoon?" "Dusre kahan hain?" "Kya hum dialogue mein hain ya silence ya violence ke kisi roop mein?"
+
+Phir puchein, "Main kahan hona chahta hoon?" "Main dusron ko kahan dekhna chahta hoon?" Principles aur tools wo tareeke aur zariye (methods and means) ban jate hain dialogue tak pahunchne ke liye.
+
+---
+
+### CRUCIAL CONVERSATION KE LIYE TAYYARI KAISE KAREIN (HOW TO PREPARE FOR A CRUCIAL CONVERSATION)
+
+Yahan ek aakhri tool hai jo aapko organize karne mein madad karega jo kuch bhi humne crucial conversations ko master karne ke baare mein share kiya hai. Ye tool aapko aane wali kisi crucial conversation ke liye tayyar hone mein ya us baatcheet se seekhne mein madad karega jo aap pehle hi kar chuke hain.
+
+Niche di gayi table "Coaching for Crucial Conversations" ko dekhein. Table ke pehle column mein wo saat dialogue principles hain jo humne share kiye hain. Dusra column har principle se judi skills ko summarize karta hai. Aakhri column apne aap ko ya dusron ko coach karne ke liye sabse achhi jagah hai. Is column mein sawalon ki ek list hai jo aapko apni conversations mein specific skills apply karne mein madad karegi.
+
+**Coaching for Crucial Conversations**
+
+| Principle | Skill | Crucial Question |
+| :--- | :--- | :--- |
+| **1. Start with Heart** (Chapter 3) | Jo aap sach mein chahte hain us par focus karein. Sucker's Choice ko refuse karein. | Main aisa kya kar raha hoon jaise main sach mein kya chahta hoon? Main asliyat mein kya chahta hoon? Mere liye? Dusron ke liye? Rishte ke liye? Agar main sach mein ye chahta toh main kaise behave karta? Main kya nahi chahta? Main wo kaise paun jo main sach mein chahte hoon aur usse kaise bachun jo main nahi chahta? |
+| **2. Learn to Look** (Chapter 4) | Nazar rakhein jab conversation crucial ho jaye. Safety problems ko dekhein. Apne Style Under Stress ko pehchanein. | Kya main silence ya violence ki taraf ja raha hoon? Kya dusre ja rahe hain? |
+| **3. Make It Safe** (Chapter 5) | Zaroorat padne par maafi mangein. Galat-fehmi door karne ke liye Contrast karein. Mutual Purpose tak pahunchne ke liye CRIB use karein. | Safety khatre mein kyun hai? Kya maine Mutual Purpose establish kiya hai? Kya main Mutual Respect maintain kar raha hoon? Safety phir se banane ke liye main kya karunga? |
+| **4. Master My Stories** (Chapter 6) | Apne Path to Action ko retrace karein. Fact ko story se alag karein. Teen Clever Stories par nazar rakhein. Baaki ki kahani kahein. | Meri story kya hai? Is problem mein apne role ke bare mein main kya na janne ka natak kar raha hoon? Ek samajhdaar aur bhala insaan aisa kyun karega? Jo main sach mein chahta hoon uski taraf badhne ke liye mujhe abhi kya karna chahiye? |
+| **5. STATE My Path** (Chapter 7) | Apne facts share karein. Apni story batayein. Dusron ke paths ke bare mein puchein. Tentative tareeke se baat karein. Testing ko encourage karein. | Kya main sach mein dusron ke views ke liye open hoon? Kya main asli mudde (real issue) par baat kar raha hoon? Kya main poore confidence ke saath apne views express kar raha hoon? |
+| **6. Explore Others' Paths** (Chapter 8) | Ask. Mirror. Paraphrase. Prime. | Kya main actively dusron ke views explore kar raha hoon? |
+| | Agree. Build. Compare. | Kya main fizool ki disagreement se bach raha hoon? |
+| **7. Move to Action** (Chapter 9) | Tai karein ki decision kaise hoga. Decisions ko document karein aur follow up karein. | Hum decisions kaise lenge? Kaun kya karega aur kab tak? Hum follow up kaise karenge? |
+
+---
+
+### Aaiye Dekhte Hain Ye Sab Kaise Kaam Karta Hai
+
+Humne yahan ek extended case shamil kiya hai ye dikhane ke liye ki ye principles tab kaise dikhte hain jab aap kisi crucial conversation ke beech mein hote hain. Ye aapke aur aapki behen ke beech maa ki estate (virsat) baantne ke baare mein ek mushkil discussion ko outline karta hai. Is case ko aise set kiya gaya hai jo ye dikhaye ki principles kahan apply hote hain, aur baatcheet ke dauran har ek principle ka brief review karein.
+
+Baatcheet tab shuru hoti hai jab aap family summerhouse ka zikr karte hain. Aapki maa ka funeral ek mahine pehle tha, aur ab paise aur nishaniyon (keepsakes) ko baantne ka waqt hai. Aap iske liye zyada excited nahi hain.
+
+Mudda isliye zyada sensitive hai kyunki aapko lagta hai ki kyunki pichle kuch saalon mein aapne lagbhag akele hi apni maa ki dekh-bhaal ki hai, toh aapko uska compensation milna chahiye. Aapko nahi lagta ki aapki behen cheezon ko isi tarah dekhegi.
+
+**Aapki Crucial Conversation**
+
+**AAP:** Humein summer cottage bechna hoga. Hum ise kabhi use nahi karte, aur mujhe pichle chaar saal se Maa ka khayal rakhne mein hue kharchon ke liye cash ki zaroorat hai.
+
+**BEHEN:** Please guilt-trip dena shuru mat karo. Maine Maa ki care mein help karne ke liye har mahine tumhe paise bheje the. Agar mujhe apne kaam ke liye travel nahi karna padta, toh tum jaanti ho ki main unhe apne ghar par rakhna chahti thi.
+
+Aap notice karte hain ki emotions pehle hi strong ho rahe hain. Aap defensive ho rahe hain, aur aapki behen gusse mein lag rahi hai. Aap ek crucial conversation mein hain, aur ye achhi nahi ja rahi.
+
+**Start with Heart**
+Apne aap se puchein ki aap sach mein kya chahte hain. Aap chahte hain ki aapne jo extra waqt aur paisa lagaya hai (jo aapki behen ne nahi lagaya), uska aapko fair compensation mile. Aap apni behen ke saath achha rishta bhi rakhna chahte hain. Par aap ek Sucker's Choice se bachna chahte hain. Toh aap apne aap se puchte hain: "Main use kaise bataun ki main apne extra effort aur kharche ke liye fair compensation chahta hoon aur saath hi ek achha rishta bhi maintain karun?"
+
+**Learn to Look**
+Aap pehchante hain ki Mutual Purpose ki kami hai—aap dono estate par discuss karne ke bajaye apne actions ko defend karne ki koshish kar rahe hain.
+
+**Make It Safe**
+Apni behen ko apna purpose samjhane ke liye Contrast ka use karein.
+
+**AAP:** Main koi behas shuru karna ya tumhe guilty feel karana nahi chahta. Par main pichle kuch saalon mein zyada zimmedari uthane ke compensation ke baare mein baat karna chahta hoon. Main Maa se pyaar karta hoon, par isne mujh par financially aur emotionally kafi bojh dala.
+
+**BEHEN:** Tumhe aisa kyun lagta hai ki tumne mujhse itna zyada kiya?
+
+**Master My Stories**
+Aap khud ko bata rahe hain ki aap zyada deserve karte hain kyunki aapne Maa ki care ke liye zyada kiya aur unplanned kharche uthaye. Apne Path to Action ko retrace karein taaki wo facts jaan sakein jo us story ke piche hain jo aapko gussa dila rahi hai.
+
+**STATE My Path**
+Aapko apne facts aur conclusions apni behen ke saath aise share karne honge jisse wo apni story batate waqt safe feel kare.
+
+**AAP:** Baat bas itni hai ki maine Maa ka khayal rakhne mein kafi paisa kharch kiya aur nurse rakhne ke bajaye khud bahut kaam kiya. Main jaanta hoon ki tum bhi Maa ki parwah karti thi, par sach kahun toh mujhe lagta hai ki maine day-to-day caregiving mein tumse zyada kiya, aur ye sahi lagta hai ki unhone hamare liye jo chhoda hai usme se kuch hissa mere kharchon ki bharpayi (repay) ke liye use ho. Kya tum ise alag tarah se dekhti ho? Main sach mein sun-na chahunga.
+
+**BEHEN:** Okay, theek hai. Tum mujhe bas ek bill bhej do.
+
+Aisa lag raha hai jaise aapki behen is arrangement se sach mein theek nahi hai. Aap keh sakte hain ki uski awaaz mein tanaav hai aur uska tone haar maan-ne wala hai, sachhi sahamati (true agreement) wala nahi.
+
+**Explore Others' Paths**
+Kyunki aapka ek objective apni behen ke saath achha rishta maintain karna hai, ye zaroori hai ki wo pool mein apna meaning shamil kare. Uske views ko actively explore karne ke liye AMPP skills ka use karein.
+
+**AAP:** Jis tarah se tumne ye kaha, usse lagta hai ki shayad ye sujhaav tumhe theek nahi laga. [Mirror] Kya kuch aisa hai jo main miss kar raha hoon? [Ask]
+
+**BEHEN:** Nahi—agar tumhe lagta hai ki tum mujhse zyada deserve karte ho, toh shayad tum sahi ho.
+
+**AAP:** Kya tumhe lagta hai ki main unfair ho raha hoon? Ki main tumhare contributions ko acknowledge nahi kar raha? [Prime]
+
+**BEHEN:** Baat bas ye hai ki main jaanti hoon ki main pichle do saalon mein zyada aas-paas nahi thi. Mujhe kaam ke liye bahut travel karna pada. Par main phir bhi jab ho sakta tha visit karti thi, aur Maa ki care mein contribute karne ke liye har mahine paise bhejti thi. Maine nurse laane ke liye paise dene ka offer bhi kiya tha agar tumhe lagta ki wo zaroori hai. Mujhe nahi pata tha ki tumhe lagta hai ki tumhare upar zimmedari ka unfair share tha, aur aisa lag raha hai jaise tumhara zyada paise maangna achanak se kahin se bhi aa gaya hai.
+
+**AAP:** Toh tumhe lagta hai ki tum help karne ke liye wo sab kar rahi thi jo tum kar sakti thi aur tumhe hairani ho rahi hai ki mujhe lagta hai ki mujhe compensate kiya jana chahiye? [Paraphrase]
+
+**BEHEN:** Haan, bilkul.
+
+**Explore Others' Paths**
+Ab aap apni behen ki story samajhte hain aur phir bhi ek hadd tak asahmat (disagree) hain. Ye samjhane ke liye ki aapka view kaise alag hai, ABC skills ka use karein. Aap apni behen ki baaton se kuch hadd tak sehmat hain. Jis baat par aap sehmat hain use emphasize karne ke liye "Building" ka use karein aur jahan aap alag hain use samne layein.
+
+**AAP:** Tum sahi keh rahi ho. Tumne help karne ke liye bahut kuch kiya, aur main samajhta hoon ki itni baar visit karna mehenga tha. Maine professional home health care ke liye mana kar diya kyunki Maa mere saath zyada comfortable thi, aur mujhe usse koi dikkat nahi thi. Uske upar se, kuch aise kharche (incidental expenses) bhi the jinke bare mein shayad tumhe pata nahi tha. Pichle athrah (18) mahino mein wo jo nayi dawa le rahi thi, wo purani se dugni mehengi thi, aur insurance unke hospital stays ka sirf ek percentage cover karta tha. Ye sab jud kar kafi ho jata hai.
+
+**BEHEN:** Toh ye wo kharche hain jinhe cover karne ki tumhe chinta hai? Kya hum in kharchon ko dekh sakte hain taaki tai kar sakein ki unhe kaise cover karna hai?
+
+**Move to Action**
+Aap in kharchon ke reimbursement ke liye ek definite plan banana chahte hain, aur aap chahte hain ki ye aisa ho jis par aap dono sehmat hon. Is par ek consensus banaiye ki kya hoga, aur document kijiye ki "Kaun-Kya-Kab" karega, aur follow up ke tareeke par faisla kijiye.
+
+**AAP:** Maine un saare kharchon ka record rakha hai jo us amount se zyada the jo hum dono ne contribute karne ke liye agree kiya tha. Kya hum kal baith kar unhe dekh sakte hain aur baat kar sakte hain ki mujhe kitna reimburse karna fair hoga?
+
+**BEHEN:** Theek hai. Hum estate ke baare mein baat karenge aur ek plan likhenge ki cheezon ko kaise baantna hai.
+
+---
+
+### SUMMARY—SAB KUCH EK SAATH LANA
+
+Agar hum pehle ye pehchanna seekh lein ki kab safety khatre mein hai aur conversation kab crucial ban jati hai (**Learn to Look**) aur ye ki humein sabka meaning shamil karne ke liye **Make It Safe** karne ke steps lene hain, toh hum ye dekhna shuru kar sakte hain ki humne jo skills seekhi hain unhe kahan apply karna hai. Ek visual model bhi humein ye dekhne mein madad kar sakta hai ki principles aur skills ki kahan zaroorat hai.
+
+In tools aur reminders ka use karke hum un skills ko master karna shuru kar denge jo hamari crucial conversations ko improve karne mein madad karti hain. 
