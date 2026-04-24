@@ -1304,3 +1304,295 @@ Sellouts aksar bade events nahi hote. In fact, wo itne chhote ho sakte hain ki h
 Aise chhote sellouts bhi humein clever stories sunana shuru karwa dete hain. Jab hum apni galtiyon ko nahi maante, toh hum doosron ke faults, apni masoomiyat, aur apne powerless hone par obsess karte hain. Hum ek clever story tab sunate hain jab humein results se zyada self-justification chahiye hoti hai. Beshak, self-justification wo nahi hai jo hum sach mein chahte hain, par hum bilkul aisa act karte hain jaise wahi ho.
 
 Is sad fact ko dhyan mein rakhte huye—
+
+---
+## 7
+
+### STATE My Path
+
+**Persuasively Kaise Bolein, Abrasively (Kharab Tareeke Se) Nahi**
+
+"Outspoken by whom?"
+**-DOROTHY PARKER**
+(Jab unhe bataya gaya ki wo bahut outspoken hain)
+
+Ab tak humne crucial conversations ke liye khud ko taiyaar karne mein kaafi mehnat ki hai. Humne ye sikha hai: Hamara dil (heart) sahi jagah par hona chahiye. Humein crucial conversations par gehra dhyan dena chahiye—khaas kar jab logon ko unsafe feel hone lage. Aur bhagwan na kare ki hum apne aap ko chalak aur bekar ki kahaniyan (clever stories) sunayein.
+
+Toh maan lijiye ki hum achhi tarah taiyaar hain. Hum apna mooh kholne aur apna pool of meaning share karne ke liye ready hain. Ji haan, hum sach mein baat karne waale hain. Ab aage kya?
+
+Zyada tar waqt hum kisi discussion mein jaate hain aur autopilot par chale jaate hain. "Hi, bachhe kaise hain? Kaam par kya chal raha hai?" Baat karne se zyada aasan aur kya ho sakta hai? Hum hazaron shabd jaante hain aur aam taur par unhe aisi baatcheet mein piro dete hain jo hamari zarooraton ke hisaab se sahi ho. Zyada tar waqt.
+
+Lekin, jab stakes badh jaate hain aur hamare emotions beech mein aa jaate hain, tab hum apna mooh kholte hain aur cheezein bigad dete hain. Sach toh ye hai ki, jaisa humne pehle bataya tha, baat jitni zyada important hoti hai, hamare achhe behavior ki gunjayish utni hi kam ho jati hai. Specifically, hum apni baat (advocate) bahut bure tareeke se rakhte hain.
+
+Humein apni advocacy skills sudharne mein madad karne ke liye, hum do challenging situations ko dekhenge. Pehle, hum baat karne ki paanch skills dekhenge jab hamari kahi hui baat dusron ko defensive bana sakti hai. Dusra, hum ye dekhenge ki kaise yehi same skills humein tab apni rai (opinion) dene mein madad karti hain jab hum kisi cheez par itna zyada yakeen karte hain ki hum dusron ko sunne ke bajaye unhe chup karane ka risk lete hain.
+
+---
+
+### RISKY MEANING SHARE KARNA
+
+Pool of meaning mein jankari (information) add karna kaafi mushkil ho sakta hai jab wo ideas jo hum collective consciousness mein dalne waale hain, unmein nazuk (delicate), unattractive, ya controversial rai shamil ho.
+
+"I’m sorry, Marta, par logon ko tumhare saath kaam karna pasand nahi hai. Tumhe special-projects team chhodne ke liye kaha gaya hai."
+
+Ek baat ye hai ki aap argue karein ki company ko green ke bajaye red packaging use karni chahiye; par kisi insaan ko ye kehna ki wo offensive hai ya unlikable hai ya uska leadership style controlling hai, ye bilkul alag baat hai. Jab topic cheezon se hatkar logon par aata hai, toh ye hamesha mushkil ho jata hai, aur kisi ke liye hairani ki baat nahi hai ki kuch log ismein dusron se behtar hote hain.
+
+Jab baat touchy information share karne ki aati hai, toh sabse bure log do hi raaste chunte hain: ya toh wo bina soche-samjhe apne ideas pool mein phenk dete hain (bluntly dumping), ya phir kuch bhi nahi kehte. Ya toh wo aise shuru karte hain: "Tumhe ye pasand nahi aayega, par dekho, kisi ko toh sach bolna hi padega..." (ek classic Sucker’s Choice), ya phir wo bilkul chup rehte hain.
+
+---
+
+### STATE MY PATH
+
+Is darr se ki wo ek achhe rishte ko khatam kar sakte hain, jo log dialogue mein achhe hote hain, wo apne mann ki kuch baatein toh kehte hain par dusron ko dukh pahunchane ke darr se apni rai ko kam karke batate hain (understate). Wo baat toh karte hain, par apne message ko sugarcoat kar dete hain.
+
+Dialogue mein jo sabse behtar hote hain, wo apne mann ki baat puri tarah se kehte hain aur is tareeke se kehte hain ki dusre unki baat sunne aur uspar respond karne mein safe feel karein. Wo puri tarah se saaf (frank) bhi hote hain aur puri tarah se respectful bhi.
+
+---
+
+### SAFETY BANAYE RAKHEIN
+
+Imandari se baat karne ke liye, jab imandari dusron ko bura lag sakti hai, humein safety maintain karne ka koi raasta dhoondna hoga. Ye kuch aisa hai jaise kisi se kehna ki dusre ke naak par zor se maaro, par dhyan rakhna, use dard na ho. Hum kaise wo baat keh sakte hain jo kehne layak nahi hai (unspeakable) aur phir bhi izzat banaye rakh sakte hain? Asal mein, ye kiya ja sakta hai agar aapko pata ho ki teen ingredients ko dhang se kaise milana hai—confidence, humility, aur skill.
+
+**Confidence.** Zyada tar log nazuk conversations nahi karte—kam se kam sahi insaan ke saath toh bilkul nahi. For example, aapka colleague Brian raat ko ghar jaakar apni wife ko batata hai ki uska boss, Fernando, use itna micromanage karta hai ki uska jeena mushkil ho gaya hai. Wo lunch ke waqt apne doston se bhi yehi baat kehta hai. Sabko pata hai ki Brian Fernando ke baare mein kya sochta hai—siwaye, zahir hai, Fernando ke.
+
+Jo log dialogue mein skilled hote hain, unmein wo confidence hota hai ki wo wo baat kahein jo kahi jani chahiye, us insaan se jise wo sunni chahiye. Unhe poora bharosa hota hai ki unki rai pool of meaning mein jagah pane ke layak hai. Unhe ye bhi confidence hota hai ki wo bina kisi ko chot pahunchaye ya bina wajah bura lagwaye khulkar baat kar sakte hain.
+
+**Humility.** Confidence ka matlab arrogance ya zidd (pigheadedness) nahi hai. Skilled log is baat par confident hote hain ki unke paas kehne ke liye kuch hai, par wo ye bhi samajhte hain ki dusron ke paas bhi valuable input ho sakta hai. Wo itne humble hote hain ki ye samajh sakein ki sach par sirf unka haq (monopoly) nahi hai. Unki rai ek shuruat ho sakti hai, par aakhri shabd nahi. Wo shayad filhaal kisi cheez par yakeen karte hon, par wo samajhte hain ki nayi jankari milne par wo apna mann badal sakte hain. Iska matlab hai ki wo apni rai batane ke liye bhi taiyaar hain aur dusron ko bhi aisa karne ke liye encourage karte hain.
+
+**Skill.** Finally, jo log nazuk jankari khushi-khushi share karte hain, wo ismein mahir hote hain. Isliye toh unmein confidence hota hai. Wo Sucker’s Choice nahi banate kyunki unhone ek aisa raasta dhoond liya hai jo candor (saaf-safai) aur safety dono ki ijazat deta hai. Wo unspeakable baatein keh dete hain, aur log unki imandari ke liye shukraguzar hote hain.
+
+---
+
+### Good Night and Good-Bye!
+
+Sensitive issues par kaise discuss karein, ye dekhne ke liye aaiye ek bahut hi mushkil problem ko dekhte hain. Bob abhi darwaze se andar aaya hai, aur uski wife Carole pareshan dikh rahi hai. Wo uski suji hui aankhon se dekh sakta hai ki wo ro rahi hai. Jab wo darwaze se andar aata hai, Carole sukoon ke liye uske paas nahi aati. Iske bajaye, wo use ek aise expression se dekhti hai jo kehta hai "Tum aisa kaise kar sakte ho?" Bob ko abhi pata nahi hai, par Carole ko lagta hai ki uska kisi aur ke saath affair chal raha hai.
+Jabki aisa nahi hai.
+
+Carole is khatarnak aur galat natije (conclusion) par kaise pahunchi? Us din pehle wo credit card statement check kar rahi thi jab usne Good Night Motel ka ek charge dekha—ek sasti jagah jo unke ghar se ek mile se bhi kam doori par hai. "Wo ghar ke itne paas motel mein kyun rukega?" wo sochti hai. "Aur mujhe iske baare mein kyun nahi pata tha?" Phir use dimaag mein aata hai—
+"Wo dhokebaaz!"
+
+Ab sabse bura tareeka kya hoga jisse Carole ise handle kare (wo wala nahi jismein wo samaan pack karke wapas Wisconsin chali jaye)? Is problem ke baare mein baat karne ka sabse bura tareeka kya hai? Zyada tar log maante hain ki ek gande ilzaam (accusation) ke saath shuru karna aur phir dhamki dena iska sabse bada candidate hai. Yehi wo cheez hai jo zyada tar log karte hain, aur Carole bhi koi exception nahi hai.
+
+"Mujhe yakeen nahi ho raha ki tum mere saath aisa kar rahe ho," wo dard bhari awaaz mein kehti hai.
+"Kya kar raha hoon?" Bob poochta hai—ye na jaante hue ki wo kis baare mein baat kar rahi hai par ye samajhte hue ki jo bhi hai, achha nahi ho sakta.
+"Tumhe pata hai main kis baare mein baat kar rahi hoon," wo kehti hai, Bob ko tension mein rakhte hue.
+"Kya mujhe uske birthday miss karne ke liye maafi mangni chahiye?" Bob mann mein sochta hai. "Nahi, abhi toh garmiyan bhi shuru nahi hui hain aur uska birthday toh... khair, uske birthday par bahut garmi hoti hai."
+"I’m sorry, mujhe nahi pata tum kis baare mein baat kar rahi ho," wo hairan hokar jawab deta hai.
+"Tumhara affair chal raha hai, aur mere paas yahan saboot (proof) hai!" Carole batati hai, ek muda hua kagaz ka tukda dikhate hue.
+"Us kagaz par aisa kya hai jo kehta hai ki mera affair chal raha hai?" wo poochta hai, poori tarah uljha hua kyunki (1) uska koi affair nahi hai aur (2) us kagaz par ek bhi compromising photo nahi hai.
+"Ye ek motel ka bill hai, badtameez. Tum kisi aurat ko motel le jaate ho, aur use credit card par daalte ho?! Mujhe yakeen nahi ho raha ki tum mere saath aisa kar rahe ho!"
+
+Ab agar Carole ko yakeen hota ki Bob ka affair hai, toh shayad is tarah ki baat jayaz hoti. Ye issue solve karne ka sabse behtar tareeka nahi hota, par Bob kam se kam ye toh samajh pata ki Carole ne kyun ilzaam lagaye aur dhamkiyan di.
+
+Par sach toh ye hai ki uske paas sirf ek kagaz ka tukda hai jis par kuch numbers hain. Is tangible saboot ne use shakki bana diya hai. Use is gande shak (hunch) ke baare mein kaise baat karni chahiye jo dialogue ki taraf le jaye?
+
+Agar Carole ka goal ek mushkil topic (e.g., mujhe lagta hai tumhara affair hai) par ek healthy conversation karna hai, toh uski ekmatra umeed dialogue mein rehna hai. Ye kisi bhi insaan ke liye kisi bhi crucial conversation par lagu hota hai (i.e., mujhe lagta hai aap mujhe micromanage karte hain; mujhe darr hai ki aap drugs use kar rahe hain). Iska matlab hai ki aapke bure se bure shak ke bawajood, aapko respect nahi khoni chahiye. Iske saath hi, aapko dhamkiyon aur ilzaamon se safety khatam nahi karni chahiye.
+
+Toh aapko kya karna chahiye? **Start with Heart.** Sochiye ki aap sach mein kya chahte hain aur dialogue use pane mein aapki kaise madad kar sakta hai. Aur apni story ko master kijiye—samajhiye ki shayad aap jaldbaazi mein Victim, Villain, ya Helpless Story par kood rahe hain. Sahi story janne ka sabse achha tareeka ye nahi hai ki aap us sabse buri story par act karein jo aap soch sakte hain. Wo sirf self-destructive silence aur violence games ki taraf le jayegi. Dusre mumkin explanations ke baare mein itni der tak sochiye ki aapke emotions thande ho jayein taaki aap dialogue kar sakein. Iske alawa, agar ye pata chalta hai ki aap apne pehle impression ke baare mein sahi the, toh baad mein confrontations ke liye bahut waqt milega.
+
+Ek baar jab aapne dialogue ke liye sahi conditions banane ke liye khud par kaam kar liya hai, toh aap paanch alag skills ka upyog kar sakte hain jo aapko sabse sensitive topics par bhi baat karne mein madad kar sakti hain. In paanch tools ko **STATE** acronym se aasani se yaad rakha ja sakta hai. Iska matlab hai:
+
+* **S**hare your facts (Apne facts share karein)
+* **T**ell your story (Apni story sunayein)
+* **A**sk for others' paths (Dusron ke raaste/point of view poochein)
+* **T**alk tentatively (Halki aur shak bhari awaaz mein baat karein)
+* **E**ncourage testing (Testing ko badhava dein)
+
+Pehle teen skills batate hain ki **kya (what)** karna hai. Aakhri do batate hain ki **kaise (how)** karna hai.
+
+---
+
+### "What" Skills
+
+**Share Your Facts**
+
+Pichle chapter mein humne suggest kiya tha ki agar aap apne Path to Action ko wapas source tak le jayein, toh aakhir mein aap facts tak pahunchenge. For example, Carole ko credit card invoice mila. Ye ek fact hai. Phir usne ek story banayi—Bob ka affair chal raha hai. Iske baad, usne dhokha aur dar mehsoos kiya. Finally, usne Bob par hamla kiya—"Mujhe tumse kabhi shaadi nahi karni chahiye thi!" Poori baatcheet tez, predictable aur bahut gandi thi.
+
+Kya hota agar Carole ne dusra raasta chuna hota—wo jo facts se shuru hota? Kya hota agar wo us gandi story ko thodi der ke liye rok paati jo usne khud ko sunayi thi (shayad kisi alternative story ke baare mein sochti) aur phir apni conversation facts ke saath shuru karti? Kya wo zyada safe raasta nahi hota?
+
+"Shayad," wo sochti hai, "is sab ke peeche koi achhi wajah ho. Kyun na main us suspicious bill se shuru karoon aur phir wahan se aage badhoon?"
+
+Agar wo wahan se shuru karti, toh wo sahi hoti. Apni baat share karne ka sabse achha tareeka ye hai ki aap apne Path to Action ko shuru se aakhir tak follow karein—usi tarah jaise aapne travel kiya tha (Figure 7-1). Badkismati se, jab hum adrenaline ke nashe mein hote hain, hamari tendency thik iska ulta karne ki hoti hai. Kyunki hum apne emotions aur stories mein doobe hote hain, hum wahin se shuru karte hain. Beshak, ye shuru karne ka sabse controversial, sabse kam prabhavshali (least influential), aur sabse अपमानजनक (insulting) tareeka hai.
+
+Maamle ko aur bigadne ke liye, ye strategy ek aur self-fulfilling prophecy banati hai. Hum apni gandi stories bolne ke liye itne betab hote hain ki hum cheezein bahut hi be-asar tareekon se kehte hain. Phir, jab humein bure results milte hain (aur humein bure results milne hi waale hain), toh hum khud se kehte hain ki hum bina problem create kiye risky views share hi nahi kar sakte. Toh agli baar jab hamare paas kuch mushkil kehne ko hota hai, toh hum use kehne mein aur bhi hichkichate hain. Hum use andar daba kar rakhte hain jahan story aur zor pakadti hai, aur jab hum aakhir mein apni bhayanak story share karte hain, toh hum poore gusse ke saath karte hain. Cycle phir se shuru ho jati hai.
+
+**Facts sabse kam controversial hote hain.** Facts ek safe shuruat dete hain. Apni fitrat se hi, facts controversial nahi hote. Isiliye hum unhe facts kehte hain. For example, is statement ko dekhiye: "Kal aap kaam par bees minute late aaye the." Ismein koi behas nahi hai. Dusri taraf, conclusions bahut zyada controversial hote hain. For example: "Aap par bharosa nahi kiya ja sakta." Ye shayad hi koi fact ho. Asal mein, ye ek insult ki tarah hai, aur is par behas ki ja sakti hai. Aakhir mein hum apne conclusions share karna chah sakte hain, par hum bilkul nahi chahte ki shuruat kisi behas (controversy) se ho.
+
+**Facts sabse zyada persuasive hote hain.** Kam controversial hone ke alawa, facts subjective conclusions ke muqable zyada persuasive bhi hote hain. Facts yakeen (belief) ki buniyaad bante hain. Toh agar aap dusron ko manana chahte hain, toh apni stories se shuruat na karein. Apni observations se shuruat karein. For example, aapko inmein se kaunsa zyada persuasive lagta hai?
+
+"Main chahti hoon ki tum mujhe sexually harass karna band karo!"
+ya
+"Jab aap mujhse baat karte hain, toh aapki aankhen mere chehre ke bajaye upar-neeche dekhti hain. Aur kabhi-kabhi aap apna hath mere kandhe par rakhte hain."
+
+Jabki hum yahan persuasive hone ki baat kar rahe hain, toh ye bhi add kar dein ki hamara goal dusron ko ye manana nahi hai ki hum sahi hain. Hum dialogue ko "jeetne" ki koshish nahi kar rahe hain. Hum sirf itna chahte hain ki hamari baat ko dhang se suna jaye. Hum dusron ki ye dekhne mein madad karne ki koshish kar rahe hain ki kaise ek samajhdaar, rational aur sharif insaan us story tak pahunch sakta hai jo hum lekar chal rahe hain. Bas itna hi.
+
+Jab hum hairan karne waale ya offensive conclusions se shuru karte hain ("Apni aankhon se mujhe ghoorna band karo!" ya "Mujhe lagta hai humein bankruptcy declare kar deni chahiye"), toh hum asal mein dusron ko encourage karte hain ki wo hamare baare mein Villain Stories banayein. Kyunki humne unhe apne conclusion ko support karne ke liye koi facts nahi diye, wo wajah dhoondne lagte hain ki hum ye baatein kyun keh rahe hain. Unhe lagne lagta hai ki ya toh hum bewakoof hain ya bure.
+
+Toh agar aapka goal dusron ki ye dekhne mein madad karna hai ki kaise ek samajhdaar, rational aur sharif insaan wo soch sakta hai jo aap soch rahe hain, toh apne facts se shuru karein.
+
+Aur agar aapko yakeen nahi hai ki aapke facts kya hain (aapki story aapke dimaag mein poori tarah bhari hui hai), toh crucial conversation mein enter karne se pehle unhe sochne ke liye waqt nikaalein. Facts ko conclusions se alag karne ka waqt nikaalein. Facts ikatha karna wo homework hai jo crucial conversations ke liye zaroori hai.
+
+**Facts sabse kam insulting hote hain.** Agar aap apni story share karna chahte hain, toh usse shuruat na karein. Aapki story (khaas kar agar wo kisi gande conclusion tak le gayi hai) dusron ko aasani se hairan aur insult kar sakti hai. Ye ek jaldbaazi mein kahe gaye galat sentence se safety ko khatam kar sakti hai.
+
+**BRIAN:** Main aapse aapke leadership style ke baare mein baat karna chahta hoon. Aap mujhe micromanage karte hain, aur ab ye mujhe pareshan karne laga hai.
+**FERNANDO:** Kya? Main bas poochta hoon ki kya tum waqt par kaam khatam karoge aur tum mujh par aise bhadak rahe ho...
+
+Agar aap apni story se shuru karte hain (aur aisa karke safety khatam kar dete hain), toh shayad aap kabhi facts tak pahunch hi na payein.
+
+**Apne path ki shuruat facts se karein.** Apni stories ke baare mein baat karne ke liye, aapko dusron ko apne Path to Action par neeche le jaane ki zaroorat hai. Unhe apne path ko shuru se aakhir tak experience karne dein, na ki aakhir se—khair, jahan bhi wo aapko le jaye. Dusron ko apna experience apne point of view se dekhne dein—apne facts se shuru karte hue. Is tarah, jab aap us baare mein baat karenge jo aap conclude kar rahe hain, toh wo samajh payenge ki kyun. Pehle facts, phir story—aur phir ye pakka karein ki jab aap apni story explain karein, toh ise ek "possible story" ki tarah batayein, na ki pakke fact ki tarah.
+
+**BRIAN:** Jab se maine yahan kaam shuru kiya hai, aapne mujhse din mein do baar milne ke liye kaha hai. Ye kisi aur ke muqable zyada hai. Aapne mujhse ye bhi kaha hai ki main apne saare ideas kisi project mein shamil karne se pehle aapse discuss karoon. [Facts]
+**FERNANDO:** Tumhara point kya hai?
+**BRIAN:** Main pakka nahi hoon ki aapka iraada ye message dena hai, par main sochne laga hoon ki shayad aapko mujh par bharosa nahi hai. Shayad aapko lagta hai ki main is kaam ke layak nahi hoon ya main aapko kisi musibat mein dal doonga. Kya aisa hi hai? [Possible story]
+**FERNANDO:** Sach mein, main toh bas tumhe ye mauka dene ki koshish kar raha tha ki kisi project mein bahut aage badhne se pehle tum mera input le lo. Pichla banda jiske saath maine kaam kiya tha, wo aksar apna project khatam hone ke kareeb le aata tha aur tab pata chalta tha ki usne koi key element chhod diya hai. Main surprises se bachne ki koshish kar raha hoon.
+
+Apne facts se shuru karke apni story share karne ka haq kamaein. Facts saari nazuk conversations ke liye buniyaad (groundwork) taiyaar karte hain.
+
+---
+
+### Tell Your Story
+
+Apni story share karna tricky ho sakta hai. Bhale hi aapne apne facts se shuruat ki ho, dusra insaan tab bhi defensive ho sakta hai jab aap facts se stories par jaate hain. Aakhirkaar, aap potentially un-flattering conclusions aur judgments share kar rahe hain.
+
+Apni story share hi kyun karein? Kyunki sirf facts ka zikr karna shayad hi kabhi kaafi hota hai. Ye facts plus conclusion hi hain jinki wajah se face-to-face discussion ki zaroorat padti hai. Iske alawa, agar aap sirf facts batate hain, toh ho sakta hai dusra insaan uske asar ki gambhirta (severity) ko na samajh paye. For example:
+
+"Maine dekha ki aapke briefcase mein company ka software tha."
+"Haan, software ki yehi toh khoobi hai. Ye portable hai."
+"Wo particular software proprietary hai."
+"Hona hi chahiye! Hamara future is par depend karta hai."
+"Meri samajh ye hai ki ise ghar nahi le jaana chahiye."
+"Beshak nahi. Log aise hi toh ise churate hain."
+(Ab conclusion ka waqt hai.) "Main soch raha tha ki wo software aapke briefcase mein kya kar raha hai. Aisa lag raha hai ki aap ise ghar le ja rahe hain. Kya yahan yehi ho raha hai?"
+
+**Ismein confidence lagta hai.** Sach kahun toh, negative conclusions aur unattractive judgments share karna mushkil ho sakta hai (e.g., "Main soch raha hoon ki kya aap chor hain"). Aisi potentially bhadkau story share karne mein confidence lagta hai. Halanki, agar aapne apni story ke peeche ke facts ko sochkar apna homework kiya hai, toh aapko ehsas hoga ki aap ek samajhdaar, rational aur sharif conclusion nikaal rahe hain. Ek aisa jo sunne layak hai. Aur facts se shuru karke, aapne buniyaad taiyaar kar di hai. Facts ke baare mein sochkar aur phir unke saath lead karke, iski zyada gunjayish hai ki aapke paas wo confidence hoga jo controversial aur important meaning ko shared pool mein add karne ke liye chahiye.
+
+**Ise dher na banayein.** Kabhi-kabhi hummein bolne ka confidence nahi hota, isliye hum problems ko bahut der tak dabaye rakhte hain. Mauka milne par, hum un-flattering conclusions ka ek poora hathiyar taiyaar kar lete hain. For example, aap apne bachhe ki second-grade teacher ke saath ek crucial conversation karne waale hain. Teacher aapki beti ko ek saal peeche rokna chahti hai. Aap chahte hain ki aapki beti apni age group ke saath aage badhe. Aapke dimaag mein ye chal raha hai:
+
+"Mujhe yakeen nahi ho raha! Ye teacher abhi abhi college se aayi hai, aur wo Debbie ko peeche rokna chahti hai. Sach kahun toh, mujhe nahi lagta ki wo peeche rehne ke stigma ko zyada weight deti hai. Isse bhi bura ye hai ki wo school psychologist ki recommendation quote kar rahi hai. Wo banda ek dum bewakoof hai. Main usse mila hoon, aur main use sardi-zukham ke liye bhi trust nahi karunga. Main in do morons ko apne upar haavi nahi hone doonga."
+
+Inmein se kaunse insulting conclusions ya judgments aapko share karne chahiye? Bilkul bhi poora ka poora "unflattering tales" ka jhund nahi. Asal mein, aapko dialogue ki umeed karne se pehle is Villain Story par kaam karne ki zaroorat hogi. Jab aap aisa karte hain, toh aapki story kuch aisi sunayi dene lagti hai (shabdon ka chunav dhyan se dekhiye—aakhirkaar, ye aapki story hai, facts nahi):
+
+"Jab maine pehli baar aapki recommendation suni, toh mera pehla reaction aapke faisle ka virodh karna tha. Par is baare mein sochne ke baad, mujhe ehsas hua ki main galat ho sakta hoon. Mujhe ehsas hua ki mere paas Debbie ke liye is situation mein kya behtar hai uska koi experience nahi hai—sirf peeche rehne ke stigma ka darr hai. Main jaanta hoon ye ek complex issue hai. Main baat karna chahta hoon ki hum dono kaise is faisle ko zyada objectively tol sakte hain."
+
+**Safety problems par nazar rakhein.** Jaise-jaise aap apni story share karein, un signs par nazar rakhein ki safety khatam ho rahi hai. Agar log defensive hone lagein ya insult mehsoos karein, toh conversation se bahar nikal jayein aur **Contrasting** ka upyog karke safety phir se banayein.
+
+Contrasting ka use karein. Ye aise kaam karta hai:
+
+"Main jaanta hoon ki aap meri beti ki bahut parwah karti hain, aur mujhe poora bharosa hai ki aap well-trained hain. Wo meri chinta bilkul nahi hai. Main jaanta hoon aap Debbie ke liye wahi karna chahti hain jo behtar hai, aur main bhi wahi chahta hoon. Mera bas itna issue hai ki ye ek ambiguous faisla hai jiske asar uski baaki life par bahut bade honge."
+
+Dhyan rakhein ki aap apne views ke liye maafi na mangein. Yaad rakhein, Contrasting ka goal apne message ko halka karna nahi hai, balki ye pakka karna hai ki log usse zyada na sunein jitna aapka iraada hai. Itne confident banein ki aap wo share kar sakein jo aap sach mein express karna chahte hain.
+
+---
+
+### Ask for Others' Paths
+
+Humne bataya tha ki sensitive ideas share karne ki chabi confidence aur humility ka mishran (blend) hai. Hum apne facts aur stories ko saaf taur par share karke apna confidence dikhate hain. Hum phir dusron ko unke views share karne ke liye keh kar apni humility dikhate hain.
+
+Toh ek baar jab aapne apna point of view share kar diya hai—facts aur stories dono—toh dusron ko bhi aisa karne ke liye invite karein. Agar aapka goal seekhna hai bajaye sahi hone ke, behtar faisla lena hai bajaye apni baat manwane ke, toh aap dusre views sunne ke liye taiyaar honge. Seekhne ke liye open hokar hum apni humility ka sabse achha nazara pesh kar rahe hain.
+
+For example, apne aap se poochein: "School teacher kya sochti hai?" "Kya aapka boss sach mein aapko micromanage karne ka iraada rakhta hai?" "Kya aapka spouse sach mein affair kar raha hai?"
+
+Is baare mein dusron ke views janne ke liye, unhe apne facts, stories aur feelings express karne ke liye encourage karein. Phir dhyan se suniye jo unhe kehna hai. Utna hi important ye hai ki, jaise-jaise Pool of Shared Meaning mein aur jankari aaye, aap apni story ko chhodne ya badalne ke liye taiyaar rahein.
+
+---
+
+### "How" Skills
+
+**Talk Tentatively**
+
+Agar aap un vignettes ko dobara dekhein jo humne ab tak share kiye hain, toh aap payenge ki humne facts aur stories dono ko tentative tareeke se describe karne ka dhyan rakha tha. For example, "Main soch raha tha ki kyun... "
+
+Tentatively baat karne ka matlab sirf ye hai ki hum apni story ko ek story ki tarah batate hain bajaye ise fact ka roop dene ke. "Shayad aapko pata nahi tha..." suggest karta hai ki aap bilkul pakke nahi hain. "Meri rai mein..." kehta hai ki aap ek opinion share kar rahe hain aur usse zyada kuch nahi.
+
+Story share karte waqt, confidence aur humility ke beech ek blend banayein. Is tarah share karein jo aapke conclusions mein sahi confidence dikhaye jabki ye bhi dikhaye ki, agar zaroorat ho, toh aap chahte hain ki aapke conclusions ko challenge kiya jaye. Aisa karne ke liye, "Sach toh ye hai" ko badalkar "Meri rai mein" kar dein. "Sab jaante hain ki" ki jagah "Maine hamare teen suppliers se baat ki hai jinhe lagta hai ki" use karein. "Mujhe saaf dikh raha hai" ko halka karke "Main sochne laga hoon ki" kar dein.
+
+Message ko halka kyun karein? Kyunki hum pool mein meaning add karne ki koshish kar rahe hain, na ki ise dusron ke gale utarne ki. Agar hum bahut zyada forceful honge, toh jankari pool tak nahi pahunchegi. Iske alawa, facts aur stories dono ke saath, hum poori tarah pakke nahi hote ki wo sach hain. Hamari observations galat ho sakti hain. Hamari stories—khair, wo sirf andaze (educated guesses) hain.
+
+Iske alawa, jab hum tentative language use karte hain, toh ye na sirf hamare uncertain view ko sahi dikhati hai, balki ye defensiveness kam karne mein bhi madad karti hai aur dusron ke liye alag rai dena safe bana deti hai. Dialogue ki ironies mein se ek ye hai ki jab hum potentially resistant logon ke saath controversial ideas share kar rahe hote hain, hum jitne zyada forceful hote hain, utne hi kam persuasive hote hain. Short mein, tentatively baat karna asal mein hamara asar (influence) badha sakta hai.
+
+**Tentative, wimpy nahi.** Kuch log itne dare hue hote hain ki wo bahut zyada forceful ya pushy na ho jayein ki wo dusri taraf galti kar dete hain. Wo ek aur Sucker’s Choice karke darpok (wimp out) ban jaate hain. Wo sochte hain ki touchy data share karne ka ekmatra safe tareeka ye hai ki aise act karein jaise wo important hi nahi hai. "Mujhe pata hai ye shayad sach nahi hai..." ya "Mujhe pagal samjho par..."
+
+Jab aap poore disclaimer ke saath shuru karte hain aur use aise tone mein karte hain jo batata hai ki aap shak mein doobe hue hain, toh aap message ke saath na-insaafi karte hain. Humble aur open hona ek baat hai. Poori tarah uncertain hona bilkul alag hai. Aisi language use karein jo kahe ki aap ek rai share kar rahe hain, na ki aisi language jo kahe ki aap ek nervous wreck hain.
+
+**Ek "Achhi" Story—The Goldilocks Test**
+
+Apni story ko behtar tareeke se share karne ke liye, ye pakka karte hue ki aap na toh bahut sakht hain na hi bahut narm, in examples par gaur karein:
+
+* **Bahut narm:** "Ye shayad bewakoofi hai, par..."
+* **Bahut sakht:** "Tumne humein kyun loota?"
+* **Just right:** "Aisa lagne laga hai ki aap ise apne niji upyog ke liye ghar le ja rahe hain. Kya ye sahi hai?"
+
+* **Bahut narm:** "Mujhe ye batate hue bhi sharam aa rahi hai, par..."
+* **Bahut sakht:** "Tumne kab se hard drugs use karna shuru kiya?"
+* **Just right:** "Isse main is natije par pahunch raha hoon ki aap drugs use karne lage hain. Kya aapke paas koi aur explanation hai jo mujhse miss ho raha hai?"
+
+* **Bahut narm:** "Shayad ye meri hi galti hai, par..."
+* **Bahut sakht:** "Tum toh apni maa par bhi bharosa nahi karoge ki wo ek minute wala anda bana degi!"
+* **Just right:** "Mujhe lagne laga hai ki aap mujh par bharosa nahi karte. Kya yahan yehi ho raha hai? Agar aisa hai, toh main jaanna chahunga ki maine aapka bharosa khone ke liye kya kiya."
+
+* **Bahut narm:** "Shayad main hi zyada oversexed hoon ya kuch, par..."
+* **Bahut sakht:** "Agar tumne frequency badhane ka koi raasta nahi dhoondha, toh main ja rahi hoon."
+* **Just right:** "Mujhe nahi lagta ki aapka iraada ye hai, par main rejected mehsoos karne lagi hoon."
+
+---
+
+### Encourage Testing
+
+Jab aap dusron ko unke raaste (paths) share karne ke liye kehte hain, toh aapka invitation dene ka tareeka bahut bada farq paida karta hai. Na sirf aapko dusron ko baat karne ke liye invite karna chahiye, balki aapko ise aise tareeke se karna chahiye jo ye saaf kar de ki chahe unke ideas kitne hi controversial kyun na hon, aap unhe sunna chahte hain. Dusron ko apni observations aur stories share karne mein safe feel hona chahiye—bhale hi wo alag hon. Warna, wo bolte nahi hain aur aap apne views ki accuracy aur relevance ko test nahi kar paate.
+
+Ye khaas taur par tab important ho jata hai jab aap aise logon ke saath crucial conversation kar rahe hon jo silence ki taraf ja sakte hain. Kuch log in halaton mein Sucker’s Choices banate hain. Wo darte hain ki agar wo apni asli rai share karenge, toh dusre chup ho jayenge. Isliye wo apne mann ki baat kehne aur dusron ki baat sunne mein se ek ko chunte hain. Par dialogue mein jo behtar hote hain, wo chunte nahi hain. Wo dono karte hain. Wo samajhte hain ki aap apni rai kitni majbooti se rakh sakte hain, uski ek hi limit hai—aap dusron ko use challenge karne ke liye utne hi zor-shor se encourage karne ke liye taiyaar hon.
+
+**Opposing views ko invite karein.** Toh agar aapko lagta hai ki dusre hichkicha rahe honge, toh ye saaf kar dein ki aap unke views sunna chahte hain—chahe unki rai kuch bhi ho. Agar wo disagree karte hain, toh aur bhi achha hai. Agar unhe jo kehna hai wo controversial ya touchy hai, toh unki himmat ki izzat karein ki unhone wo kehne ki koshish ki jo wo soch rahe hain. Agar unke paas alag facts ya stories hain, toh aapko poori picture samajhne ke liye unhe sunne ki zaroorat hai. Pakka karein ki unke paas share karne ka mauka ho, unhe actively invite karke: "Kya koi ise alag tarah se dekhta hai?" "Mujhse yahan kya miss ho raha hai?" "Main sach mein is story ka dusra paksh sunna chahunga."
+
+**Ise dil se kahein.** Kabhi-kabhi log aisa invitation dete hain jo rai maangne ke bajaye dhamki jaisa lagta hai. "Khair, main toh ise aise hi dekhta hoon. Koi disagree toh nahi karta, haina?" Logon ko aise shabdon aur tone ke saath invite karein jo kahe "Main sach mein aapse sunna chahta hoon." For instance: "Main jaanta hoon ki log is baare mein bolne se hichkicha rahe hain, par main sach mein sabse sunna pasand karunga." Ya: "Main jaanta hoon ki is story ke kam se kam do paksh hain. Kya hum ab alag-alag views sun sakte hain? Ye faisla hamare liye kya problems khadi kar sakta hai?"
+
+**Devil’s advocate banein.** Kabhi-kabhi aap dekh sakte hain ki dusre aapke facts ya story ko maante nahi hain, par wo bol bhi nahi rahe hain. Aapne unhe imandari se invite kiya hai, yahan tak ki alag views ke liye encourage bhi kiya hai, par koi kuch nahi kehta. Maamle ko aage badhane ke liye, devil’s advocate banein. Disagree karne ka model pesh karein apne hi view se disagree karke. "Shayad main yahan galat hoon. Kya hoga agar iska ulta sach ho? Kya hoga agar sales girne ki wajah ye hai ki..."
+
+---
+
+### BACK TO THE MOTEL
+
+STATE skills ek touchy conversation mein kaise fit baithti hain, ye dekhne ke liye aaiye motel bill par wapas chalte hain. Is baar, Carole ek nazuk issue uthane ka bahut behtar kaam karti hai.
+
+**BOB:** Hi honey, tumhara din kaisa raha?
+**CAROLE:** Zyada achha nahi.
+**BOB:** Kyun?
+**CAROLE:** Main hamara credit card bill check kar rahi thi, aur maine dekha ki neeche waale Good Night Motel ka forty-eight dollars ka charge hai. [Facts share karti hai]
+**BOB:** Bhai, ye toh galat lag raha hai.
+**CAROLE:** Haan, bilkul.
+**BOB:** Khair, chinta mat karo. Main kisi din udhar se guzarte waqt check kar loonga.
+**CAROLE:** Mujhe zyada achha lagega agar hum abhi check kar lein.
+**BOB:** Sach mein? Pachas buck se bhi kam hai. Wait kar sakta hai.
+**CAROLE:** Wo paison ki baat nahi hai jiski mujhe chinta hai.
+**BOB:** Tum pareshan ho?
+**CAROLE:** Wo raste ke neeche wala motel hai. Tumhe pata hai meri sister ko kaise pata chala tha ki Phil ka affair chal raha hai. Use ek suspicious hotel bill mila tha. [Story share karti hai—tentatively] Mere paas chinta karne ki koi wajah toh nahi hai, hai na? Tumhe kya lagta hai is bill ka kya chakkar hai? [Dusre ka path poochti hai]
+**BOB:** Mujhe nahi pata, par tumhe mujh par chinta karne ki bilkul zaroorat nahi hai.
+**CAROLE:** Main jaanti hoon ki tumne mujhe apni fidelity par shak karne ki koi wajah nahi di hai. Main sach mein ye nahi maanti ki tumhara affair chal raha hai. [Contrasting] Bas ye hai ki agar hum ise abhi check kar lein toh shayad mere mann ko shanti milegi. Kya isse tumhe bura lagega? [Encourages testing]
+**BOB:** Bilkul nahi. Chalo unhe call karte hain aur pata lagate hain ki kya chal raha hai.
+
+Jab ye conversation sach mein hui, toh ye bilkul waisi hi sunayi di jaisi upar batayi gayi hai. Shakki spouse ne gande ilzaamon aur bhayanak stories se bacha, facts share kiye, aur phir tentatively ek possible conclusion share kiya. Baad mein pata chala ki wo couple us mahine pehle ek Chinese restaurant gaye the. Us restaurant ke owner ka hi wo motel tha aur wo dono jagah ek hi credit card imprinting machine use karta tha. Oops.
+
+Ek hamla karne, naam rakhne aur dhamki dene ke bajaye tentatively story share karke, pareshan spouse ne ek badi ladai tal di, aur couple ka rishta us waqt majboot hua jab wo aasani se toot sakta tha.
+
+---
+
+### STRONG BELIEF
+
+Ab aaiye apna dhyan ek aur communication challenge ki taraf modein. Is baar aap koi nazuk feedback ya iffy stories nahi de rahe hain; aap bas ek argument mein kadam rakh rahe hain aur apna point of view advocate kar rahe hain. Ye wo cheez hai jo aap hamesha karte hain. Aap ise ghar par karte hain, kaam par karte hain, aur haan, aap DMV ki line mein khade hokar bhi ek do rai (opinions) dene ke liye jaane jaate hain.
+
+Badkismati se, jaise-jaise stakes badhte hain aur dusre alag views par argue karte hain—aur aap bas apne dil ki gehraiyon se jaante hain ki aap sahi hain aur wo galat—aap bahut zyada push karne lagte hain. Aapko bas jeetna hota hai. Risk bahut zyada hai aur sirf aapke paas hi sahi ideas hain. Agar unhe unke haal par chhod diya gaya, toh dusre sab gadbad kar denge. Toh jab aap bahut zyada parwah karte hain aur apne views par yakeen rakhte hain, aap sirf bolte nahi hain—aap dusron par apni rai thopne ki koshish karte hain. Zaahir hai, dusre resist karte hain. Aap badle mein aur bhi zyada push karte hain.
+
+Consultants ke taur par, hum (authors) is tarah ki cheezein hamesha hote hue dekhte hain. For instance, table ke chaaron taraf leaders ka ek group baitha hai jo ek important topic par debate karna shuru kar rahe hain. Pehle, koi ishara karta hai ki wahi ek akela hai jise asli insight hai. Phir koi aur facts ko zeherile teeron ki tarah phenkne lagta hai. Ek aur insaan—jiske paas critical information hai—chup ho jata hai (silence). Jaise-jaise emotions badhte hain, jo shabd pehle dhyan se chune gaye the aur tentatively kahe gaye the, ab wo poore yakeen ke saath bole jaate hain jo aam taur par stone tablets par khode gaye claims ke liye reserve hote hain.
+
+Aakhir mein, koi nahi sun raha hota, har koi silence ya violence ke liye committed hota hai, aur Pool of Shared Meaning sookh chuka hota hai. Koi nahi jeet-ta.
+
+**Hum aise kaise ban gaye?**
+
+Ye ek story se shuru hota hai. Jab humein lagta hai ki humein apne ideas dusron par thopne ki zaroorat hai, toh ye aam taur par isliye hota hai kyunki hum maante hain ki hum sahi hain aur baaki sab galat. Pool of meaning ko badhane ki koi zaroorat nahi hai kyunki pool hamara hai. Hum ye bhi mazbooti se maante hain ki us sach ke liye ladna hamara farz hai jo humne pakda hua hai. Ye ek samman-janak (honorable) kaam hai. Yehi wo cheez hai jo acche character waale log karte hain.
+
+Beshak, dusre is story mein bilkul villains nahi hain. Wo bas behtar nahi jaante. Dusri taraf hum, naivete aur tunnel vision ke khilaaf ladne waale modern-day heroes hain.
+
+**Humein gandi tricks use karna jayaz lagta hai.** Ek baar jab humein yakeen ho jata hai ki sach ke liye ladna hamara farz hai, toh hum bade hathiyar nikaal lete hain. Hum debating tricks use karte hain jo humne saalon mein sikhi hain. Unmein sabse badi skill hai "stack the deck" karne ki. Hum wo jankari cite karte hain jo hamare ideas ko support karti hai jabki kisi bhi aisi cheez ko chhupate ya badnam karte hain jo aisa nahi karti. Phir hum exaggerate karke thoda spicy bana dete hain: "Sab jaante hain ki yehi ekmatra raasta hai." Jab ye kaam nahi karta, toh hum apni language mein bhadkau (inflammatory) terms milate hain: "Saare sahi sochne waale log mujhse sehmat honge."
+
+Wahan se hum koi bhi gandi trick istemal karte hain. Hum authority ka sahara lete hain: "Khair, boss toh yehi sochte hain." Hum insaan par hamla karte hain: "Tum itne nadan toh nahi ho ki sach mein us par yakeen karo?" Hum jaldbaazi mein generalizations nikaalte hain: "Agar ye hamare overseas operation mein hua, toh yahan bhi pakka hoga."
+
+Aur phir se, hum jitni koshish karte hain aur hamari tactics jitni forceful hoti hain, hum utna hi zyada resistance paida karte hain, result utna hi bura hota hai...
