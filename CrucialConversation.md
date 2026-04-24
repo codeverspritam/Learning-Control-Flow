@@ -1853,3 +1853,225 @@ Jab aap apne views share karna shuru karein, toh yaad rakhein:
 * **Agree:** Jab aap agree karein, toh agree karein. 
 * **Build:** Agar dusre kuch chhod dete hain, toh jahan agree karte hain wahan agree karein, phir build karein. 
 * **Compare:** Jab aapka vichaar kaafi alag ho, toh ye mat kahein ki dusre galat hain. Apne dono views ko compare karein.
+
+---
+## 9
+
+### Kuch Nahi Karna Har Insaan Ke Bas Mein Hai
+**- SAMUEL JOHNSON**
+
+---
+
+### Move to Action
+
+**Crucial Conversations ko Action aur Results mein kaise badlein**
+
+Ab tak humne ye suggest kiya hai ki pool mein zyada meaning dalne se dialogue mein madad milti hai. Ye wahi ek cheez hai jo logon ko samajhdaar faisle lene mein madad karti hai, jo badle mein smart actions ki taraf le jaate hain. Meaning ke is free flow ko badhava dene ke liye, humne wo skills share ki hain jo humne un logon ko dekh kar seekhi hain jo dialogue mein gifted hain. Ab tak, agar aapne isme se kuch ya saari advice follow ki hai, toh aap bhare hue pools ke saath ghoom rahe honge. Jo log aapke paas se guzrein, unhe "sloshing" ki awaaz sunayi deni chahiye.
+
+Ab waqt hai ki hum do final skills add karein. Pool mein zyada meaning hona, yahan tak ki uspar sabka haq hona bhi, is baat ki guarantee nahi deta ki hum sab is baat par agree karenge ki hum us meaning ka karenge kya. For example, jab teams ya families milti hain aur dher saare ideas generate karti hain, toh wo aksar un ideas ko action mein badalne mein fail ho jati hain, jiske do reasons hain:
+
+* Unhe is baare mein clear expectations nahi hoti ki decisions kaise liye jayenge.
+* Wo jo decisions lete hain, unpar amal (action) karne mein wo kacche hote hain.
+
+Ye khatarnak ho sakta hai. Sach toh ye hai ki jab log pool mein meaning add karne se action ki taraf badhte hain, toh ye naye challenges ke paida hone ka sabse bada waqt hota hai. Assignment kise milni chahiye? Ye controversial ho sakta hai. Humein shuruat mein decide kaise karna chahiye? Ye emotional ho sakta hai. Chaliye dekhte hain ki inme se har problem ko solve karne ke liye kya lagta hai. Pehle, making decisions.
+
+---
+
+### DIALOGUE IS NOT DECISION MAKING
+
+Crucial conversations mein do sabse risky waqt hote hain: shuruat mein aur end mein. Shuruat risky hai kyunki aapko safety create karne ka raasta dhoondna hota hai warna cheezein bigad jati hain. End mushkil hota hai kyunki agar aap apne Pool of Shared Meaning se nikalne wale conclusions aur decisions ko clarify karne mein savdhan nahi rahe, toh baad mein expectations tootne ka darr rehta hai. Ye do tareekon se ho sakta hai.
+
+**Decisions kaise liye jayenge?** Pehle, logon ko shayad ye samajh nahi aata ki decisions kaise liye jayenge. For example, Cara chidhi hui hai. Rene ne abhi ek three-day cruise ka brochure table par rakha aur announce kiya ki usne reservations kara li hain aur yahan tak ki ek outside suite ke liye paanch sau dollar deposit bhi bhar diya hai.
+
+Ek hafta pehle unki vacation plans par ek crucial conversation hui thi. Donon ne apne views aur preferences izzat aur imandari ke saath zahir kiye the. Ye asaan nahi tha, par end mein unhone conclude kiya ki ek cruise donon ke liye sahi rahegi. Aur phir bhi Cara chidhi hui hai, aur Rene dang hai ki Cara khush kyun nahi hai.
+
+Cara cruise ke "principle" par raazi thi. Wo is "particular" cruise se raazi nahi thi. Rene ko laga ki koi bhi cruise chalegi aur usne akele hi decision le liya. Ab akele hi cruise enjoy karo, Rene.
+
+**Kya hum kabhi decide karenge?** Decision making ki doosri problem tab hoti hai jab koi decision liya hi nahi jata. Ya toh ideas haath se nikal jate hain aur gayab ho jate hain, ya log samajh nahi paate ki unka kya karein. Ya shayad har koi dusre ka wait kar raha hai ki wo decision le. "Hey, humne pool bhar diya. Ab tum kuch karo iska." Jo bhi ho, decisions hamesha ke liye khichte chale jate hain.
+
+---
+
+### DECIDE HOW TO DECIDE
+
+Ye donon problems solve ho jati hain agar decision lene se pehle, involved log ye decide karein ki "decide kaise karna hai." Logon ko ye assume mat karne dijiye ki dialogue hi decision making hai. Dialogue ek process hai saare relevant meaning ko ek shared pool mein laane ka. Us process mein, zahir hai, har koi shamil hota hai. Halanki, sirf isliye ki har kisi ko apna meaning share karne ki ijazat hai—balki unhe encourage kiya jata hai—iska matlab ye nahi hai ki unhe saare decisions lene mein hissa lene ki guarantee mil gayi hai. Expectation violations se bachne ke liye, dialogue aur decision making ko alag rakhein. Ye clear karein ki decisions kaise liye jayenge—kaun involve hoga aur kyun.
+
+**Jab authority ki line clear ho.** Jab aap authority ki position mein hote hain, toh aap decide karte hain ki decision making ka kaunsa method use hoga. Managers aur parents, for example, decide karte hain ki decide kaise karna hai. Ye leaders ke taur par unki zimmedari ka hissa hai. Misal ke taur par, VPs hourly employees se pricing changes ya product lines par faisla lene ko nahi kehte. Wo leaders ka kaam hai. Parents chhote bachon se home security device chunne ya apna curfew khud set karne ko nahi kehte. Wo parent ka kaam hai. Of course, leaders aur parents donon apne direct reports aur bachon ko zyada decisions sounpte hain jab wo zimmedari ke layak ho jate hain, par phir bhi ye authority figure hi decide karta hai ki decision making ka kaunsa method use karna hai. Kaunse decisions sounpne hain aur kab, ye unki stewardship ka hissa hai.
+
+**Jab authority ki line clear na ho.** Jab authority ki koi clear line nahi hoti, toh decide kaise karna hai ye tay karna kaafi mushkil ho sakta hai.
+
+
+
+For instance, us conversation par gaur karein jiska humne pehle zikr kiya tha—jo aapki beti ke schoolteacher ke saath hui thi. Kya aapko apne bache ko usi class mein rok lena chahiye? Ye choice akhir hai kiski? Kaun decide karta hai ki ye kiski choice hai? Kya har kisi ki baat suni jayegi, aur phir vote hoga? Kya ye school officials ki zimmedari hai, toh wo chunenge? Kyunki parents ki ultimate zimmedari hoti hai, toh kya unhe experts se consult karke phir decide karna chahiye? Kya is mushkil sawal ka koi clear answer hai bhi?
+
+Aisa case dialogue ke liye hi bana hai. Saare participants ko apna meaning pool mein dalna hoga—is baare mein unki opinion bhi ki final choice kise leni chahiye. Ye us meaning ka hissa hai jo aapko discuss karna hai. Agar aap khul kar baat nahi karte ki kaun decide karega aur kyun, aur aapki opinions alag hain, toh aap ek garam behas mein phans sakte hain jo sirf court mein resolve hogi. Agar dhang se handle na kiya jaye, toh ye mudde wahin resolve hote hain—The Jones Family vs. Happy Valley School District.
+
+Toh ek insaan ko kya karna chahiye? Apne bache ki abilities aur interests ke baare mein khul kar baat karein, aur ye bhi ki final choice kaise li jayegi. Apni shuruati baton mein lawyers ya lawsuit ka zikr na karein; isse sirf safety kam hoti hai aur ek dushmani wala mahol ban jata hai. Aapka goal ek bache ke baare mein open, honest, aur healthy discussion karna hai, na ki apna asar dikhana, dhamki dena, ya educators ko harana. Jo experts wahan hain unki opinions par tike rahein, aur discuss karein ki unhe kaise aur kyun shamil hona chahiye. Jab decision-making authority unclear ho, toh pool mein meaning dalne ke liye apni best dialogue skills use karein. Mil kar decide karein ki decide kaise karna hai.
+
+---
+
+### Decision Making Ke Chaar Methods
+
+Jab aap decide kar rahe honge ki decide kaise karna hai, toh decision-making options ke baare mein baat karne ka ek tareeka hona chahiye. Decisions lene ke chaar aam tareeke hain: command, consult, vote, aur consensus. Ye chaar options involvement ke badhte hue levels ko dikhate hain. Zyada involvement se, zahir hai, zyada commitment ka fayda milta hai, par saath hi decision-making efficiency kam hone ka bojh bhi aata hai. Samajhdaar log in chaar methods mein se wo chunte hain jo unke halaat ke liye sabse best ho.
+
+#### Command
+Chaliye un decisions se shuru karte hain jo bina kisi involvement ke liye jate hain. Ye do tareekon se hota hai. Ya toh bahari forces (outside forces) hum par demands rakhti hain (aisi demands jo koi option nahi chhodti), ya hum decisions dusron ko sounp dete hain aur unke peeche chalte hain. Humein itni parwah nahi hoti ki hum involve hon—kisi aur ko kaam karne do.
+
+External forces ke case mein, customers prices set karte hain, agencies safety standards mandate karti hain, aur dusre governing bodies bas humein demands thama dete hain. Jitna employees ko lagta hai ki unke bosses baith kar choices le rahe hain, aksar wo bas halaat ki demands ko aage pass kar rahe hote hain. Ye command decisions hain. Command decisions ke saath, ye hamara kaam nahi hai ki kya karna hai. Hamara kaam ye decide karna hai ki ise kaam kaise karwaya jaye.
+
+Decisions dusron ko sounpne ke case mein, hum decide karte hain ki ya toh ye itna low-stakes issue hai ki humein parwah nahi hai, ya humein delegate ki ability par poora bharosa hai ki wo sahi decision lega. Zyada involvement se kuch add nahi hoga. Strong teams aur acche rishton mein, bahut se decisions kisi aise insaan ko final choice sounp kar liye jate hain jis par humein bharosa ho. Hum khud waqt nahi lagana chahte aur khushi-khushi decision dusron ko de dete hain.
+
+#### Consult
+Consulting ek aisa process hai jahan decision makers dusron ko invite karte hain ki wo apna faisla lene se pehle unhe influence karein. Aap experts se, ek representative population se, ya har us insaan se consult kar sakte hain jo opinion dena chahta ho. Consulting ek efficient tareeka ho sakta hai ideas aur support hasil karne ka bina decision-making process ko slow kiye. Kam se kam zyada slow nahi. Samajhdaar leaders, parents, aur yahan tak ki couples aksar isi tareeke se decisions lete hain. Wo ideas ikkattha karte hain, options ko evaluate karte hain, ek choice banate hain, aur phir sabko inform karte hain.
+
+#### Vote
+Voting un situations ke liye sabse best hai jahan efficiency ki value sabse zyada ho—aur aap kayi saare acche options mein se chun rahe hon. Team ke members samajhte hain ki shayad unhe unki pehli choice na mile, par sach toh ye hai ki wo us issue par baat karke waqt barbaad nahi karna chahte. Wo kuch der options discuss kar sakte hain aur phir vote ke liye keh sakte hain. Jab kayi theek-thaak options hon, toh voting ek bada time saver hai, par ise kabhi tab use nahi karna chahiye jab team members is baat par raazi na hon ki wo liye gaye decision ko support karenge. Aise cases mein, consensus ki zaroorat hoti hai.
+
+#### Consensus
+Ye method ek badi nemat (blessing) bhi ho sakta hai aur ek frustrating bojh (curse) bhi. Consensus ka matlab hai ki aap tab tak baat karte hain jab tak har koi imandari se ek decision par agree na kar jaye. Ye method jabardast unity aur high-quality decisions paida kar sakta hai. Agar galat tareeke se apply kiya jaye, toh ye waqt ki bhayanak barbadi bhi ho sakta hai. Ise sirf (1) high-stakes aur complex issues ke liye use karna chahiye ya (2) un issues ke liye jahan har kisi ka final choice ko support karna bilkul zaroori ho.
+
+---
+
+### KAISE CHUNEIN
+
+Ab jab hum chaar methods jaante hain, toh chaliye explore karte hain ki kaunsa method kab use karna hai—saath hi kuch hints ki aam galtiyon (blunders) se kaise bachein.
+
+**Chaar Zaroori Sawal**
+Decision making ke chaar methods mein se chunte waqt, in sawalon par gaur karein:
+
+1. **Kise parwah hai?** Tay karein ki kaun sach mein decision mein involve hona chahta hai aur kaun isse affect hoga. Ye aapke involvement ke candidates hain. Un logon ko involve na karein jinhe parwah nahi hai.
+2. **Kaun jaanta hai?** Pehchanein ki kiske paas wo expertise hai jo aapko best decision lene ke liye chahiye. In logon ko hissa lene ke liye encourage karein. Un logon ko involve na karne ki koshish karein jo koi nayi information contribute nahi karte.
+3. **Kise agree karna zaroori hai?** Un logon ke baare mein sochein jinka cooperation (authority ya influence ke roop mein) aapko apne decisions mein chahiye ho sakta hai. In logon ko involve karna behtar hai bajaye iske ki unhe surprise dein aur phir unki open resistance jheleinn.
+4. **Kitne logon ko involve karna worth hai?** Aapka goal kam se kam logon ko involve karna hona chahiye jabki decision ki quality aur logon ke support ka bhi khayal rakha jaye. Poochein: "Kya hamare paas ek acchi choice lene ke liye kaafi log hain? Kya dusron ko unka commitment paane ke liye involve karna padega?"
+
+Aapka kya haal hai? Teams ya couples ke liye, khaas kar unke liye jo decision making se pareshan hain, ye ek suggestion hai. Team ya rishte mein liye gaye kuch important decisions ki list banayein. Phir discuss karein ki har decision abhi kaise liya jata hai, aur har ek ko kaise liya jaana chahiye—in chaar zaroori sawalon ka use karke. Har decision par discuss karne ke baad, decide karein ki aap future mein decisions kaise lenge. Aapki decision-making practices par ek crucial conversation kayi frustrating issues ko resolve kar sakti hai.
+
+---
+
+### DECISION-MAKING BLUNDERS AUR SOLUTIONS
+
+Ab, chaliye har ek method ko ek-ek karke dekhte hain. Inse judi aam galtiyan kya hain, aur sabse important, hum unse kaise bach sakte hain?
+
+**Command Ka Sahi Use**
+* **Galti:** Saalon se, employees ne complaint ki hai ki unke bosses bahut zyada bossy hain. Wo orders aise baantte hain jaise Halloween candy ho. Wo na sirf logon ko batate hain ki kya karna hai, balki unhe sirf ek hi tareeke se karne par restrict kar dete hain. Wo tiniest detail tak directions dete hain jabki ye behtar hota ki employee ko kaam karne ke details khud nikalne diye jayein. Akhirkaar, employee na sirf kaam ke sabse kareeb hai, balki wo ise karne ke tareeke ka expert bhi hai.
+
+Aaj ki generation ke employees (aur bache bhi) grandparents ke muqable zyada decisions mein involve hona expect karte hain. Wahin se empowerment movement aayi. Naujawan log apne aap ko sirf direction maangne wale haath nahi samajhte. Wo sochna chahte hain. Wo decide karna chahte hain. Wo zyada zimmedari lene ko taiyaar hain.
+
+Toh jab aap ek potential "command decision" ka saamna karein, toh in baton par gaur karein:
+
+* **Orders ko candy ki tarah mat baantein.** Hum pehle hi kaafi command decisions (bahari taqaton ki constraints) jhelte hain, naye banane ki zaroorat nahi hai. Ek general rule ke taur par, agar log choices le sakte hain, toh unhe lene dein. Bina wajah unke haath mat baandhein. Bachon ke saath, for example, aap ghar ke common areas mein safai ke rules bana sakte hain, par unhe ye chunne dein (hygiene ki hadd mein) ki wo apna kamra kaise rakhenge.
+* **Jab aap command decision face karein, toh poochein ki kaunse elements flexible hain.** Ek baar jab kisi agency ne standard set kar diya ya customer ne order de diya, bhale hi aap ye decide na kar sakein ki kis par kaam karna hai, par aap ye decide kar sakte hain ki kaam kaise karna hai. Dhoondiye ki kahan aapke paas freedom hai aur phir dusron ko un boundaries ke andar chunne dein.
+* **Samjhayein kyun.** Order dete waqt, demand ke peeche ki wajah samjhayein. "Kyun" jaanne se "kya" karna bahut asaan ho jata hai. For example, agar aap decide karte hain ki deadline meet karne ke liye overtime zaroori hai, toh ye batana help karta hai ki aap is conclusion par kaise pahunche.
+
+**Consultation Ke Dos aur Don'ts**
+Consultation ke saath sabse badi problem ye hai ki logon ko lagta hai ki agar aap unhe ideas share karne mein involve kar rahe hain, toh wo decision lenge. Ye dekhna asaan hai ki aisa kyun hota hai kyunki aap logon ka input maangte hain, saare options tolte hain, aur ek decision lete hain. Phir unme se do-tehayi (two-thirds) log violated feel karte hain kyunki aapne wo nahi kiya jo unhone kaha tha.
+
+Dialogue consultation ke liye ek behtareen tool hai. Ye aapko saare meaning shared pool mein laane ke qabil banata hai. Lekin logon ke contribute karne se pehle, ye pakka kar lein ki wo samajhte hain ki unse consult karne ka matlab ye nahi hai ki aakhir mein decision consensus se liya jayenge.
+
+Aapko consultation kab use karni chahiye? Consult karein jab (1) bahut se log affect honge, (2) aap information kaafi asani se ikkattha kar sakte hain, (3) logon ko decision ki parwah hai, aur (4) bahut se options hain, jinme se kuch controversial hain.
+
+Jab ye conditions apply hon, toh aage badhne se pehle alag-alag positions, locations aur functions ke logon se touch base karne ka raasta dhoondiye. Sirf apne doston aur yaaron ko mat bulaiye. Saath hi, in baton par gaur karein:
+
+* **Consult karne ka natak mat karein.** Agar aapne pehle hi mann bana liya hai, toh logon ko involve karne ka dikhava mat karein, sirf wahi karne ke liye jo aap shuru se chahte the. For example, boss logon ko bulata hai aur phir un ideas ko khaarij kar deta hai jo uske dimaag ke mutabiq nahi hain, jabki unhe subtle clues aur rewards deta hai jo "sahi idea" tak pahunch jate hain.
+* **Announce karein ki aap kya kar rahe hain.** Jab aap sirf affect hone wale logon ke ek sample ko involve karne wale hon, toh dusron ko batayein ki ye log kaun hain taaki agar wo chahein toh unse baat kar sakein. Ye neighborhood political meetings rakhne jaisa hai. Har koi nahi aayega, par jo hissa lena chahte hain wo le sakte hain.
+* **Apna decision report karein.** Jab dusre log itne acche hain ki apni opinions share kar rahe hain (chahe aap unki advice lein ya nahi), toh wo ye jaanne ke haqdaar hain ki aapne kya decide kiya aur kyun. Apne decision ko secret rakhne ki koshish na karein kyunki aapko darr hai ki log offend ho jayenge. Unhe jald hi decision ka pata chal hi jayega. Behtar hai ki wo aapse sunein na ki afwahon (grapevine) se.
+
+**Ek Accha Vote Karwana**
+* **Anjaam (Consequences) ko tolein.** Voting apni fitrat se winners aur losers paida karti hai. Isliye aapko savdhan rehna hoga. Aapko vote tabhi lena chahiye jab aap jaante hon ki haarne walon ko zyada farq nahi padta. Warna aap decision lene ke baad bhi lambe waqt tak jung ladte rahenge. Bachon ke saath, for example, unhe dhang se sochne dein ki kya wo haarne se okay hain, isse pehle ki wo poll karwane par raazi hon.
+* **Jaanein kab vote karna hai.** Jab baatein itni bhari na hon, chunne ke liye kayi acche choices hon, aur logon ko parwah ho ki zyada waqt na lage, tab vote karein. Ye aisi cheez hai jo aap lambi lists ko chhota karne ke liye karte hain. Bees items ki list ko paanch tak laane ke liye vote karein. Phir un paanch mein se chunne ke liye consensus use karein.
+* **Vote ke saath bhagein nahi (Don't cop out).** Jab har koi kisi issue ki bahut parwah karta hai aur logon ko choice lene mein takleef ho rahi ho, toh rukiye mat aur vote mat bulaiye. Votes ko kabhi bhi patient analysis aur healthy dialogue ki jagah nahi leni chahiye. Agar aap khud ko keh rahe hain, "Theek hai, hum kabhi agree nahi karenge toh chalo vote karte hain," toh aap bach kar nikal rahe hain.
+
+**Consensus Ki Khushiyon Se Paar Paana**
+Imagine karein aap che logon ke saath ek tang jagah mein kaam kar rahe hain. Cheezein smoothly chal rahi hain jab tak ek din ek naya employee ek bada boom box lekar nahi aata—ye upar handle ke saath ek storage shed jaisa dikhta hai. Iske apne pahiye hain. Tees seconds baad, "Decibel Death" naam ke ek band ki awaazein aapke area mein bhar jati hain. Aap khush nahi hain. Aapko darr hai ki aapka sar phat jayega. Aap ise kaise handle karenge?
+
+Ya ye challenge kaisa rahega? Aap us kamre ka temperature kaise decide karte hain jo aap share karte hain?
+
+Ya ye wala? Poori family vacation par kahan jati hai?
+
+Ya agar aap ek asli mushkil kaam lena chahte hain—ghar aur kaam par sabse gande kaam kaun karta hai?
+
+Ye aise decisions hain jahan na consultation aur na hi command tools dhang se kaam karte hain. Har koi affect hota hai, har kisi ko parwah hai, aur kayi options hain—jo sabko barabar pasand nahi hain. Is tarah ki crucial conversation consensus maangti hai. Har koi milta hai, imandari aur khule dil se choices discuss karta hai, dher saare ideas ke saath aata hai, aur mil kar ek aisa decision leta hai jise har insaan support karne ke liye raazi ho. Jaisa ki saari crucial conversations ke saath hota hai, ye koi asaan process nahi hai aur aksar ise bure tareeke se handle kiya jata hai. Yahan aam galtiyon se bachne ke liye kuch hints hain.
+
+* **Har cheez par consensus force mat karein.** Jaisa ki Abraham Maslow ne ek baar kaha tha, "Agar aapke paas sirf ek hathoda hai, toh aap har problem ko ek keel (nail) ki tarah dekhte hain." Consensus decision making aajkal ke sabse zyada use hone wale hathodon mein se ek hai. Log ise un situations par apply karte hain jo us waqt aur tawajjo ke layak nahi hain ya jinhe unanimously solve nahi kiya ja sakta.
+
+For example, chalees logon ko ek kaam ki jagah ka color decide karne ke liye ikkattha kiya jata hai. Ye bahut zyada log hain. Consultation use karein. Ek team ye decide karne ke liye milti hai ki kya har team member ko ek khaas tarah ka coffee mug use karna chahiye (hum ye mazaak nahi kar rahe). Logon ko apna chunne dein. Ek couple apne bete se kehta hai ki wo apni saza khud decide kare. Ye hamesha accha idea nahi hota. Kuch decisions command se lene ki zaroorat hoti hai.
+
+* **Ye natak mat karein ki har kisi ko apni pehli choice milti hai.** Kisi ne nahi kaha ki consensus ke saath har kisi ko apni mann-marzi milti hai. Consensus apni baat manwane ke baare mein nahi hai; ye wo karne ke baare mein hai jo family ya team ke liye best ho. Isme "give and take" ki zaroorat hoti hai. Ye compromise aur phir (kuch cases mein) apni second ya third choice ko support karne ka pakka irada maangta hai—kyunki wo group ke liye best hai.
+* **Please, martyr mat baniye.** Healthy teams aur families consensus tak pahunchne mein acche hote hain kyunki wo dialogue mein acche hote hain. Wo apni baat manwane ke liye silence se violence par nahi kudte ya games nahi khelte. Kyunki har kisi ki baat suni jati hai aur wo acche se kahi jati hai, healthy groups mein wahi log baar-baar haar nahi maante aur martyr ka role nahi nibhate. "Kya aap theme park enjoy kar rahe hain? Mere baare mein chinta mat kijiye. Main bas yahan footpath par baithkar ye sochne ki koshish karunga ki Paris jana kaisa hota."
+* **Turns mat lijiye.** Decisions merit par base hone chahiye, ispar nahi ki options kisne diye hain. Apni baat manwane ke liye turns mat lijiye. "Well, Leona, jahan tak mujhe yaad hai pichli baar tumne haar maani thi, toh mujhe lagta hai is baar hamari baari hai jhukne ki." Decision is basis par lijiye ki kaunsa proposal group ki needs ko sabse behtar meet karta hai. Iska matlab ye nahi hai ki log personalities ya iccha ki shiddat (strength of desire) ka dhyan nahi rakhte (misal ke taur par, un logon ki baat maan lena jinhe bahut parwah hai jabki aapko itna farq nahi padta). Iska matlab sirf ye hai ki aapki family ya organization ka future ek sikka uchhaalne (flip of a coin) par nirbhar nahi hona chahiye.
+* **Post-decision lobbying mat karein.** Consensus decisions khule mein aur poore group ke saath liye jane chahiye. Apne reservations ko daba kar rakhna aur phir discussion ke baad akele mein logon ke paas jana inefficient bhi hai aur dhokha bhi. Agar aapko koi issue hai, toh use group ke saamne laiye. Unhealthy alliances, gandi deals, aur secret discussions un logon ke liye chhod dein jo reality game shows mein hote hain. Wo ek dusre ko abuse kar sakte hain, apni jeet le sakte hain aur phir apne raste ja sakte hain. Families aur work groups ke saath, aap us bure behavior ke bahut baad tak saath rehte hain aur aapko lambe waqt tak anjaam bhugatne padte hain.
+* **"Maine kaha tha" (I told you so) mat kahiye.** Kisi ka kisi choice par agree karna (shayad uski second choice) aur phir chillana, "Maine kaha tha!" jab wo kaam na kare, isse zyada annoying kuch nahi hai. Ek baar jab aapne group ke taur par kuch decide kar liya, toh us idea ko support karein—sirf tab nahi jab wo fail ho jaye, balki "khaas kar" jab wo fail ho jaye. Fair-weather family members ya teammates ke liye koi jagah nahi hai. Character dikhaiye. Jab ek idea kaam na kare, toh us failure ke zimmedar saath mein baniye.
+
+**Waqt ki Kami Walon Ke Liye Advice**
+Aise waqt aate hain jab aap jaante hain ki aapko decision mein dusron ko involve karna chahiye, par aapko har haal mein ek tay waqt tak decision lena hota hai. In cases mein, ek fallback decision-making plan chunne par gaur karein.
+
+For example, aap announce kar sakte hain: "Humein ek critical decision lena hai jo hum sabko affect karta hai, aur ye har haal mein theek das baje tak liya jana chahiye. Mera proposal hai ki hum decide karne ke liye consensus use karein. Halanki, agar 9:45 tak hum consensus par nahi pahunche, toh ye ek consult decision ban jayega. Main aapka input use karunga, aur main decide karunga."
+
+Ye strategy aapko optimum decision-making method try karne deti hai, par ye aapke liye ek pichla darwaza chhod deti hai bina aapko kisi tanashah (despot) ki tarah dikhaye jab waqt khatam ho jata hai.
+
+---
+
+### ASSIGNMENTS BANANA—DECISIONS KO ACTION MEIN BADALNA
+
+Ab chaliye aakhri step dekhte hain. Aapne healthy dialogue kiya, meaning ka pool bhara, decide kiya ki aap pool se kaise nikalenge, aur aakhir mein kuch decisions tak pahunche. Ab waqt hai kuch karne ka. Kuch items discussion ke dauran poori tarah resolve ho gaye honge, par kayi cheezon ke liye kisi insaan ya team ko kuch karne ki zaroorat ho sakti hai. Aapko assignments deni hongi.
+
+Jaisa ki aapko shaq hoga, jab do ya do se zyada log involve hote hain, toh confusion ka chance rehta hai. Aam traps se bachne ke liye, ye pakka karein ki aap in chaar elements par gaur kar rahe hain:
+
+* Kaun?
+* Kya karta hai?
+* Kab tak?
+* Follow up kaise karenge?
+
+#### Kaun?
+Ek English kahawat ke mutabiq, "Jo kaam sabka hai, wo kisi ka nahi hai." Agar aap kisi asli insaan ko asli assignment nahi dete, toh is baat ka poora chance hai ki aapne decision lene mein jo itni mehnat ki hai, usse kuch nahi nikalne wala.
+
+Jab assignments baantne ka waqt ho, yaad rakhein, koi "hum" (we) nahi hai. "Hum," jab assignments ki baat aati hai, asal mein iska matlab hota hai, "main nahi." Ye ek code hai. Jab log assignment se bachne ki koshish nahi bhi kar rahe hote, toh "we" term unhe ye yakeen dila sakti hai ki dusre log zimmedari le rahe hain.
+
+Har zimmedari ke saath ek naam jodein. Ye khaas taur par ghar par apply hota hai. Agar aap ghar ke kaam baant rahe hain, toh pakka karein ki har kaam ke saath ek specific insaan ho. Yaani, agar aap ek task ke liye do ya teen logon ko assign karte hain, toh unme se ek ko zimmedari lene wala party (responsible party) appoint karein. Warna, zimmedari ka koi bhi ehsaas baad mein ek-dusre par ungli uthane mein kho jayega.
+
+#### Kya Karta Hai?
+Apne dimaag mein jo exact deliverables hain, unhe dhang se samjhayein. Expectations jitni dhundhli (fuzzy) hongi, disappointment ka utna hi zyada chance hoga. For example, ajeeb-o-gareeb entrepreneur Howard Hughes ne ek baar engineers ki ek team ko duniya ki pehli steam-powered car design aur build karne ka assignment diya. Garam paani se chalne wali gadi ke apne sapne ko share karte waqt, usne unhe koi direction nahi di.
+
+Kayi saalon ki kadi mehnat ke baad engineers ne gadi ki body mein darjanon pipes daal kar pehla prototype successfully taiyaar kiya—is tarah unhone ye problem solve ki ki steam-powered car chalane ke liye zaroori saara paani kahan rakha jaye. Gadi asal mein ek vishaal radiator thi.
+
+Jab Hughes ne engineers se poocha ki agar car ka accident ho jaye toh kya hoga, unhone ghabrate hue samjhaya ki passengers zinda ubal jayenge, jaise ek bartan mein lobsters. Hughes unke kaam se itna pareshan hua ki usne insisted kiya ki ise teen inch se bade tukdon mein na kata jaye. Wo us project ka ant tha.
+
+Hughes se seekhein. Jab aap pehli baar kisi assignment par agree kar rahe hon, toh pehle hi clarify karein ki aapko exact kya chahiye.
+
+Couples is area mein musibat mein pad jate hain jab unme se ek "deliverables" ke baare mein dhang se sochne ka waqt nahi nikalna chahta aur baad mein pareshan ho jata hai kyunki uski bin-kahi icchaayein poori nahi hui. Kya aapne kabhi kisi loved one ke saath koi kamra remodel kiya hai? Phir aap jaante hain hum kis baare mein baat kar rahe hain. Behtar hai ki pehle hi waqt nikal kar clarify kar lein ki aapko exactly kya chahiye bajaye iske ki baad mein resources aur jazbaaton ko thes pahunche.
+
+Deliverables clarify karne ke liye, Contrasting use karein. Agar aapne dekha hai ki log pehle kisi assignment ko galat samjhe hain, toh us aam galti ko ek example ke taur par samjhayein ki aapko kya "nahi" chahiye. Agar possible ho, toh physical examples dikhaiye. Sirf abstract baatein karne ke bajaye, ek prototype ya sample laiye. Humne ye trick tab seekhi jab humne ek set designer ko hire kiya. Mashhoor designer ne bataya ki wo kya deliver karega, aur humein wo bahut accha laga. Pachis hazaar dollar baad usne kuch aisa deliver kiya jo kabhi kaam nahi karta. Humein bilkul shuru se shuru karna pada. Us din se humne seekha hai ki pictures ki taraf ishara karein aur baat karein ki humein kya chahiye aur kya nahi. Deliverable ki picture jitni clear hogi, aapke unpleasantly surprise hone ke chances utne hi kam honge.
+
+#### Kab Tak?
+Ye shocking hai ki log kitni baar assignment mein se is element ko bahar chhod dete hain. Deadline dene ke bajaye, log bas "kabhi" (someday) ke dhalte suraj ki taraf ishara karte hain. Dhundhli ya bin-kahi deadlines ke saath, dusri urgencies saamne aa jati hain, aur assignment pile ke sabse neeche pahunch jati hai, jahan ise jald hi bhula diya jata hai. Bina deadline wali assignments action stimulate karne ke bajaye guilt paida karne mein zyada behtar hoti hain. Bina deadline ke goals goals nahi hote; wo sirf directions hote hain.
+
+#### Follow Up Kaise Karenge?
+Hamesha is baat par agree karein ki aap assignment par kitni baar aur kis tareeke se follow up karenge. Ye project poora hone ki confirmation dene wala ek simple email ho sakta hai. Ye team ya family meeting mein ek poori report ho sakti hai. Aksar, ye raste mein progress checks ki baat hoti hai.
+
+Asal mein assignment mein follow-up methods add karna kaafi asaan hai. For example: "Jab homework khatam ho jaye toh mujhe mere cell phone par call karna. Phir tum doston ke saath khelne ja sakte ho. Okay?"
+
+Ya shayad aap milestones par rely karna pasand karenge: "Jab tumhari library research khatam ho jaye toh mujhe batana. Phir hum baith kar agle steps dekhenge." Milestones, zahir hai, ek drop-dead date se jude hone chahiye. "Jaise hi tum is project ka research component poora kar lo mujhe batana. Tumhare paas November ke aakhri hafte tak ka waqt hai, par agar tum pehle khatam kar lo, toh mujhe call karna."
+
+Yaad rakhein, agar aap chahte hain ki log accountable feel karein, toh aapko unhe hisaab dene (account) ka mauka dena hoga. Har assignment mein follow-up ki expectation build karein.
+
+---
+
+### APNE KAAM KO DOCUMENT KAREIN
+
+Ek baar phir, ek kahawat yaad aati hai. "Ek dull pencil che tez dimaagon ke barabar hoti hai." Apni mehnat ko yaadasht (memory) ke bharose mat chhodiye. Agar aapne ek crucial conversation poori karne ki mehnat ki hai, toh apni memories par bharosa karke us saare meaning ko mat gawayiye jo aapne create kiya hai. Conclusions, decisions aur assignments ke details likh lein. Yaad se record karein ki kaun kya kab tak karega. Khaas waqton par apne notes ko dobara dekhein (aksar agli meeting mein) aur assignments ko review karein.
+
+Jab aap review karte hain ki kya poora hona chahiye tha, toh logon ko accountable thehrayein. Jab koi apna waada poora karne mein fail ho jaye, toh ye dialogue ka waqt hai. Un STATE skills ka use karke issue discuss karein jo humne Chapter 7 mein cover kiye the. Logon ko accountable hold karke, aap na sirf unki motivation aur waade poore karne ki ability badhate hain, balki aap integrity ka ek culture create karte hain.
+
+---
+
+### SUMMARY—MOVE TO ACTION
+
+Apni successful crucial conversations ko acche decisions aur ek-jut action mein badlein expectations tootne aur inaction ke do traps se bach kar.
+
+**Decide How to Decide**
+* **Command:** Decisions dusron ko involve kiye bina liye jate hain.
+* **Consult:** Group se input liya jata hai aur phir ek chhota group decide karta hai.
+* **Vote:** Ek tay kiya gaya percentage decision ko mod deta hai.
+* **Consensus:** Har koi ek agreement par pahunchta hai aur phir final decision ko support karta hai.
+
+**Saaf-Suthra Finish Karein**
+Tay karein ki kaun kya kab tak karega. Deliverables ko bilkul saaf (crystal clear) rakhein. Ek follow-up waqt set karein. Commitments ko record karein aur phir follow up karein. Aakhir mein, logon ko unke waadon ke liye accountable thehrayein.
