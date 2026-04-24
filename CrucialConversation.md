@@ -1596,3 +1596,260 @@ Beshak, dusre is story mein bilkul villains nahi hain. Wo bas behtar nahi jaante
 Wahan se hum koi bhi gandi trick istemal karte hain. Hum authority ka sahara lete hain: "Khair, boss toh yehi sochte hain." Hum insaan par hamla karte hain: "Tum itne nadan toh nahi ho ki sach mein us par yakeen karo?" Hum jaldbaazi mein generalizations nikaalte hain: "Agar ye hamare overseas operation mein hua, toh yahan bhi pakka hoga."
 
 Aur phir se, hum jitni koshish karte hain aur hamari tactics jitni forceful hoti hain, hum utna hi zyada resistance paida karte hain, result utna hi bura hota hai...
+
+---
+## 8 
+
+Dusro ko manane (persuade karne) ka sabse behtareen tareeka hai apne kaano ka istemal karna—yaani unhe sunkar. 
+**- DEAN RUSK** ### Explore Others' Paths 
+
+**Kaise Sunein Jab Dusre Gusse mein Fat Padte Hain ya Chup Ho Jate Hain** Pichle kuch mahino se aapki beti Wendy ne ek aise ladke ko date karna shuru kiya hai jo dekhne mein aisa lagta hai jaise kisi badi musibat (felony arrest) se bas das minute door ho. Sirf kuch hafton ki dating ke baad hi, Wendy ki kapdo ki pasand aapke hisaab se bahut zyada suggestive ho gayi hai, aur wo baat-baat par gaaliyon (expletives) ka istemal karti hai. Jab aap dhyan se usse in badlavon ke baare mein baat karne ki koshish karte hain, toh wo ulta aap par ilzaam lagati hai, insult karti hai aur phir apne kamre mein jaakar ghanto tak muh phula kar (sulks) baith jati hai. 
+
+Ab kya? Kya aapko kuch karna chahiye, ye dekhte hue ki aap wo nahi hain jo chup ho rahe hain ya gussa kar rahe hain? Jab dusre log "clam up" (apne dil ki baat kehne se mana karna) ya "blow up" (badtameezi aur insult ke saath baat karna) karte hain, toh kya aisa kuch hai jo aap unhe dialogue mein wapas lane ke liye kar sakte hain? 
+
+### CRUCIAL CONVERSATIONS 
+
+Iska jawab hai, "Yeh depend karta hai." Agar aap sote hue sher ko nahi jagana chahte (ya is case mein, ek potential train wreck ko ignore karna chahte hain), toh kuch mat kahiye. Wo dusra insaan hai jise kuch kehna hai par wo khulne se mana kar raha hai. Wo dusra insaan hai jisne gusse mein aapa khoya hai. Aap apna bachao kariye. Aap kisi aur ke thoughts aur feelings ki zimmedari nahi le sakte. Sahi hai na? 
+
+Lekin phir se, aap apne differences ko tab tak solve nahi kar payenge jab tak sab log khul kar "pool of meaning" mein apni baat nahi rakhte. Iska matlab hai ki jo log blow up ya clam up ho rahe hain, unhe bhi participate karna hoga. Aur halanki ye sach hai ki aap dusro ko dialogue ke liye majboor nahi kar sakte, par aap aise steps le sakte hain jinse unke liye aisa karna safe ho jaye. Aakhirkaar, isi liye toh unhone silence ya violence ki sharan li hai. Unhe darr hai ki dialogue unhe vulnerable bana dega. Kahin na kahin unhe lagta hai ki agar unhone aapke saath asli baatcheet ki, toh kuch bura hoga. Misal ke taur par, aapki beti ko lagta hai ki agar wo aap se baat karegi, toh use lecture diya jayega, ground kar diya jayega, aur us ladke se alag kar diya jayega jo shayad akela hai jo uski fikar karta hai. Safety ko wapas lana hi aapki sabse badi umeed hai taaki aapka rishta track par wapas aa sake. 
+
+---
+
+### EXPLORE OTHERS' PATHS 
+
+Chapter 5 mein humne recommend kiya tha ki jab bhi aap dekhein ki safety khatre mein hai, toh aapko conversation se bahar nikal kar use wapas restore karna chahiye. Jab aapne apni kisi nadani se dusron ko dukh pahunchaya ho, toh maafi mangein. Ya agar kisi ne aapke maqsad (intent) ko galat samajh liya hai, toh "Contrasting" ka use karein. Samjhayein ki aapka iraada kya hai aur kya nahi hai. Aakhir mein, agar aapke bich sirf matbhed (odds) hain, toh ek "Mutual Purpose" dhundhein. 
+
+Ab hum ek aur skill jodte hain: **Explore Others' Paths**. Chunki humne ek model banaya hai ki dusre insaan ke dimaag ke andar kya chal raha hai (The Path to Action), toh ab hamare paas dusron ko safe feel karane ka ek naya tool hai. Agar hum koi aisa tareeka nikal sakein jisse dusron ko lage ki unke liye apna "Path to Action"—apne facts, aur haan, yahan tak ki apni buri stories aur gandi feelings—share karna theek hai, toh unke khulne ke chances zyada honge. 
+
+Lekin iske liye kya chahiye? 
+
+#### Dil Se Shuru Karein—Sunne ke Liye Taiyar Ho Jayein 
+
+**Sincere rahein.** Dusron ke facts aur stories tak pahunchne ke liye, humein unhe invite karna hoga ki wo apne dimaag ki baat share karein. Hum dekhenge ki ye kaise karna hai bas ek minute mein. Abhi ke liye, is baat par zor dete hain ki jab aap logon ko apne views share karne ke liye invite karte hain, toh aapka matlab wahi hona chahiye. Example ke liye, is hadse par gaur karein. Ek patient ek healthcare facility se bahar nikal rahi hai. Desk attendant dekh kar bata sakta hai ki wo thodi uneasy hai, shayad dissatisfied bhi. 
+
+"Kya procedure ke saath sab sahi raha?" clerk ne pucha. 
+
+"Mostly," patient ne jawab diya. (Agar kabhi koi ishara tha ki kuch galat tha, toh wo "mostly" word hi hai.) 
+
+"Achha hai," clerk ne turant jawab diya aur phir zor se kaha, "Next!" 
+
+Yeh interest dikhane ka ek classic natak hai. Yeh "How are you today?" wali category mein aata hai. Iska matlab hai: "Please kuch kaam ki baat mat kehna. Main toh bas upar-upar se baatcheet (small talk) kar raha hoon." Jab aap logon ko khulne ke liye kehte hain, toh sunne ke liye taiyar rahein. 
+
+**Curious banein.** Jab aap sach mein dusron se sunna chahte hain (aur aapko chahiye bhi kyunki ye pool of meaning ko badhata hai), toh sach tak pahunchne ka sabse achha tareeka ye hai ki unke liye un stories ko express karna safe bana dein jo unhe silence ya violence ki taraf le ja rahi hain. Iska matlab hai ki jis pal zyada tar log gusse mein hote hain, humein curiosity dikhani chahiye. Palatkar waisa hi jawab dene ke bajaye, humein sochna chahiye ki is hungame ke peeche kya hai. 
+
+Lekin kaise? Hum curiosity kaise dikha sakte hain jab dusre ya toh hum par attack kar rahe hon ya chup ho rahe hon? Jo log hamesha ye janne ki koshish karte hain ki dusre unsafe kyun feel kar rahe hain, unhone seekha hai ki darr aur bechaini ki jad (source) tak pahunchna hi dialogue mein wapas aane ka sabse behtareen tareeka hai. Ya toh unhone dusron ko aisa karte dekha hai, ya unhe khud ye formula mil gaya hai. Dono cases mein, unhe samajh aa jata hai ki silence ya violence ka ilaaj waisa hi palat-war karna nahi hai, balki source tak pahunchna hai. Iske liye asli curiosity ki zaroorat hoti hai—aise waqt par jab aap khud frustrated ya gusse mein ho sakte hain. 
+
+
+
+Apni natural tendency (palat-war karne ki) ko asli curiosity mein badalne ke liye, curious hone ke mauke dhundhein. Ek aisi situation se shuru karein jahan aap kisi ko emotional hote hue dekhein par aapka control barkarar ho—jaise ki koi meeting (jahan aap par personally attack nahi ho raha aur aapke involve hone ke chances kam hain). Us insaan ke darr ya gusse ki jad tak pahunchne ki poori koshish karein. Apne adrenaline ko shuru karne ke bajaye apni curiosity ko on karne ke mauke talashein. 
+
+Is curiosity ka asar dekhne ke liye, wapas us nervous patient ke paas chalte hain. 
+
+CLERK: Kya procedure ke saath sab sahi raha? 
+PATIENT: Mostly. 
+CLERK: Aisa lagta hai ki aapko koi problem hui hai. Kya main sahi hoon? 
+PATIENT: Main kahungi. Isme kaafi dard hua. Aur iske alawa, kya doctor, matlab, bahut zyada buddhe nahi hain? 
+
+Is case mein, patient bolne mein hichkich rahi hai. Shayad agar wo apni imandar raye share karegi, toh doctor ki insult hogi, ya shayad loyal staff members bura maan jayenge. Is problem se nipatne ke liye, desk attendant patient ko ehsas dilata hai ki baat karna safe hai (apne tone se bhi aur apne shabdon se bhi), aur wo khul jati hai. 
+
+**Curious bane rahein.** Jab log apni bhadkau (volatile) stories aur feelings share karna shuru karte hain, toh ab hamare paas risk hota hai ki hum apni khud ki Victim, Villain, aur Helpless Stories nikal lein taaki hum khud ko samjha sakein ki wo aisa kyun keh rahe hain. Badkismati se, chunki dusron ki kadvi baatein sunna kabhi mazedaar nahi hota, hum unke stories batane ke peeche galat maqsad (motives) nikalne lagte hain. Example ke liye: 
+
+CLERK: Achha, toh aap itni nashukri hain! Nek doctor ne apni poori zindagi logon ki madad mein laga di aur ab jab wo thode purane ho gaye hain, toh aap unhe nikalna chahti hain! 
+
+Dusron ki stories par overreact karne se bachne ke liye, curious bane rahein. Apne dimaag ko ek problem dein taaki wo focused rahe. Puchein: "Ek samajhdaar, rational aur sharif insaan aisa kyun kahega?" Yeh sawal aapko dusre insaan ke Path to Action ko retrace karne mein madad karta hai jab tak aapko ye na samajh aa jaye ki ye sab kaise juda hua hai. Aur zyada tar cases mein, aap ye dekh paate hain ki un halat mein, us insaan ne kaafi had tak ek logical conclusion nikala tha. 
+
+**Sabr rakhein (Be patient).** Jab dusre silence ya violence ke zariye apni feelings aur opinions dikha rahe hote hain, toh ye pakka hai ki wo adrenaline ke asar ko mehsoos kar rahe hain. Chahe hum dusre insaan ke attack ka safely aur effectively jawab dene ki poori koshish karein, phir bhi humein is sach ka saamna karna hoga ki unhe shaant hone mein thoda waqt lagega. Maan lijiye, ek dost koi kadvi story sunata hai aur aap use respect ke saath treat karte hain aur baatcheet jari rakhte hain. Bhale hi ab aap dono ka view ek jaisa ho, par aisa lag sakta hai ki aapka dost ab bhi bahut zyada push kar raha hai. Halanki ek thought se dusre par jaana natural hai, par strong emotions ko thanda hone mein waqt lagta hai. Ek baar jab wo chemicals release ho jate hain jo emotions ko fuel dete hain, toh wo kuch der tak khoon (bloodstream) mein rehte hain—kuch cases mein, thoughts badalne ke bahut baad tak bhi. 
+
+Isliye dusre kaise sochte aur feel karte hain, ise explore karte waqt sabr rakhein. Unhe apna path share karne ke liye encourage karein aur phir unke emotions ke us safety tak pahunchne ka intezar karein jo aapne create ki hai. 
+
+### Dusron ko Unka Path Retrace Karne ke Liye Encourage Karein 
+
+Ek baar jab aapne curious approach rakhne ka faisla kar liya, toh ab waqt hai dusre insaan ki Path to Action ko retrace karne mein uski madad karne ka. Badkismati se, hum mein se zyada tar log aisa nahi kar paate. Wo isliye kyunki jab dusre silence ya violence games khelna shuru karte hain, toh hum conversation mein unke Path to Action ke **end** par judte hain. Unhone cheezein dekhi aur suni hain, apne aap ko ek-do stories sunayi hain, ek feeling paida ki hai (shayad darr, gusse ya disappointment ka mix), aur ab wo apni story par act kar rahe hain. Wahin hamari entry hoti hai. Ab, bhale hi hum unke pehle shabd sun rahe hon, hum unke path ke anth (end) ke kareeb aa rahe hain. Path to Action model par, hum path ke end par hone wala action dekh rahe hain—jaisa Figure 8-1 mein dikhaya gaya hai. 
+
+Har sentence ki ek history hoti hai. Yeh process kitna complicated aur pareshan karne wala hai, ise mehsoos karne ke liye yaad karein ki pichli baar aapko kaisa laga tha jab aapka favorite mystery show late shuru hua kyunki football game lamba khinch gaya tha. Jaise hi game khatam hota hai, screen announcers se hatkar ek heroine par chali jati hai jo ek murder victim ke paas khadi hai. Screen ke niche bechain karne wale shabd likhe hote hain, "We now join this program already in progress." 
+
+Aap gusse mein remote hilate hain. Aapne poora setup miss kar diya! Baaki program ke liye aap bas zaroori facts ke baare mein andaza hi lagate rehte hain. Aapke judne se pehle kya hua tha? 
+
+Crucial conversations bhi utni hi mysterious aur frustrating ho sakti hain. Jab dusre silence ya violence mein hote hain, toh hum asal mein unke Path to Action mein tab jud rahe hote hain jab wo "already in progress" hota hai. Natijan, humne story ki buniyaad miss kar di hoti hai aur hum confused hote hain. Agar hum dhyan na dein, toh hum defensive ho sakte hain. Aakhirkaar, na sirf hum late jud rahe hain, balki hum aise waqt par jud rahe hain jab dusra insaan offensive act karna shuru kar raha hai. 
+
+**Cycle ko todein.** Aur phir sochiye kya hota hai? Jab hum kisi ke badle, ilzaam aur saste comments (cheap shots) ke nishane par hote hain, toh shayad hi hum kabhi sochte hain: "Wah, usne kitni interesting story sunayi hogi. Aapka kya khayal hai ki kis wajah se aisa hua?" Iske bajaye, hum is unhealthy behavior ka muqabla karte hain. Hamara defense mechanism shuru ho jata hai, aur hum apna khud ka jaldbaazi wala aur bhayanak Path to Action bana lete hain. 
+
+Jo log behtar jaante hain, wo is khatarnaak cycle ko interaction se bahar nikal kar aur dusre insaan ke liye uske Path to Action ke baare mein baat karna safe banakar tod dete hain. Wo ye kaam unhe kadvi feelings aur turant reaction (knee-jerk reactions) se hatkar jad (root cause) ki taraf badhne ke liye encourage karke karte hain. Asal mein, wo ek saath dusre insaan ke Path to Action ko retrace karte hain. Unke encouragement par, dusra insaan apne emotions se hatkar us taraf badhta hai jo usne conclude kiya, aur phir us taraf jo usne observe kiya tha. 
+
+Jab hum dusron ki unke path ko shuruat tak retrace karne mein madad karte hain, toh na sirf hum apne reaction par kabu pate hain, balki hum us jagah wapas laut-te hain jahan feelings resolve ho sakti hain—source par, yaani emotion ke peeche ke facts aur story par. 
+
+---
+
+### POWER UP 
+
+**Kab?** Ab tak humne suggest kiya hai ki jab dusre logon ke paas sunane ke liye koi story aur share karne ke liye facts hon, toh ye hamara kaam hai ki hum unhe aisa karne ke liye invite karein. Hamare ishare simple hain: Dusre silence ya violence ki taraf ja rahe hain. Hum dekh sakte hain ki wo upset, dare hue ya gusse mein hain. Hum dekh sakte hain ki agar hum unki feelings ke source tak nahi pahunche, toh humein un feelings ke asar ko bhugatna padega. Yeh bahari reactions hamare liye ishare hain ki hum wo sab karein jo dusron ko unke Paths to Action ko retrace karne mein madad karein. 
+
+**Kaise?** Humne ye bhi suggest kiya hai ki hum dusre insaan ko khulne aur apna path share karne ke liye jo bhi karein, hamara invitation sincere hona chahiye. Sunne mein jitna mushkil lagta hai, humein dushmani, darr ya yahan tak ki badtameezi ke samne bhi sincere rehna hoga—jo humein agle sawal par le jata hai. 
+
+**Kya?** Humein asal mein karna kya chahiye? Dusron se unka path—stories aur facts dono—share karwane ke liye kya lagta hai? Ek shabd mein kahein toh, iske liye **listening** (sunna) zaroori hai. Taaki log apni feelings par act karne ke bajaye apne conclusions aur observations ke baare mein baat karein, humein is tarah sunna hoga jo dusron ke liye apne dil ki baat share karna safe banaye. Unhe vishwas hona chahiye ki jab wo apne thoughts share karenge, toh wo dusron ko naraaz nahi karenge ya khul kar bolne ke liye unhe saza nahi milegi. 
+
+### AMPP 
+
+Dusron ko apna path share karne ke liye encourage karne ke liye hum chaar **power listening tools** ka use karenge jo dusre logon ke liye khul kar bolna safe banane mein madad kar sakte hain. Hum in chaar skills ko power listening tools isliye kehte hain kyunki unhe acronym **AMPP** se sabse achhi tarah yaad rakha ja sakta hai—**Ask, Mirror, Paraphrase, aur Prime**. Khush-kismati se, ye tools silence aur violence dono games ke liye kaam karte hain. 
+
+#### Ask to Get Things Rolling (Baat Shuru Karne ke Liye Puchein) 
+
+Dusron ko apna Path to Action share karne ke liye encourage karne ka sabse aasaan aur seedha tareeka bas unhe express karne ke liye invite karna hai. Example ke liye, aksar ek deadlock ko todne ke liye bas dusron ke views ko samajhne ki koshish karni hoti hai. Jab hum asli interest dikhate hain, toh log silence ya violence use karne ke liye kam majboor feel karte hain. Misal ke taur par: "Kya tumhe meri nayi dress pasand hai, ya tum modesty police ko bulane wale ho?" Wendy muskura deti hai (smirks). 
+
+"Tumhara kya matlab hai?" aap puchte hain. "Main tumhari concerns sunna chahta hoon." 
+
+Agar aap ladai se bahar nikalne aur bas dusre insaan ko ye batane ke liye taiyar hain ki asal mein kya chal raha hai, toh ye bigadti hui situation (downward spiral) ko todne aur problem ki jad tak pahunchne mein bahut madad kar sakta hai. Common invitations mein shamil hain: 
+
+"Kya chal raha hai?" 
+"Main sach mein is par tumhari raye sunna chahta hoon." 
+"Please mujhe batana agar tum ise kisi alag tareeke se dekhti ho." 
+"Meri feelings hurt hone ki chinta mat karo. Main sach mein tumhare thoughts sunna chahta hoon." 
+
+#### Mirror to Confirm Feelings (Feelings ko Confirm Karne ke Liye Mirror Karein) 
+
+Agar dusron ko unka path share karne ke liye kehne se baat nahi banti, toh mirroring safety badhane mein madad kar sakti hai. Mirroring mein, hum dusre insaan ke Path to Action ka wo hissa lete hain jo hamare samne hai aur unke liye is par discuss karna safe banate hain. Abhi tak hamare paas sirf actions hain aur dusre insaan ke emotions ke kuch ishare hain, toh hum wahin se shuru karte hain. 
+
+Jab hum mirror karte hain, jaisa ki naam se pata chalta hai, hum dusre insaan ke samne ek aaina (mirror) rakhte hain—ye describe karte hue ki wo kaise dikh rahe hain ya act kar rahe hain. Halanki hum dusron ki stories ya facts ko nahi samajh pa rahe honge, par hum unke actions dekh sakte hain aur unki feelings ke baare mein clues le sakte hain. 
+
+Yeh tool tab sabse zyada kaam aata hai jab kisi insaan ki tone, awaaz ya gestures (unke peeche ke emotions ke ishare) unke shabdon se mel nahi khate. Example ke liye: "Chinta mat karo. Main theek hoon." (Lekin wo insaan ye ek aise look ke saath keh raha hai jo suggest karta hai ki wo asal mein kaafi upset hai. Wo muh bana raha hai, idhar-udhar dekh raha hai, aur zameen par thokar maar raha hai.) 
+
+"Sach mein? Jis tarah se tum ye keh rahe ho, usse aisa lag nahi raha ki tum theek ho." 
+
+Hum samjhate hain ki bhale hi wo insaan ek baat keh raha ho, par uski tone ya body posture kuch aur hi suggest kar rahi hai. Aisa karke, hum unke liye respect aur fikar dikhate hain. 
+
+Mirroring ka sabse important element hamari **tone of voice** hai. Yeh sirf emotions ko acknowledge karna nahi hai jo safety create karta hai. Safety tab banti hai jab hamari tone of voice kehti hai ki humein unke waisa feel karne se koi problem nahi hai. Agar hum ye achhe se karte hain, toh wo is natije par pahunch sakte hain ki apne emotions par act karne ke bajaye, wo unke baare mein humse khul kar baat kar sakte hain. 
+
+Toh jab hum describe karte hain ki hum kya dekh rahe hain, humein wo shanti se karna hoga. Agar hum upset dikhte hain ya aisa dikhte hain jaise humein unki baat pasand nahi aayegi, toh hum safety nahi banate. Hum unke shak ko confirm kar dete hain ki unhe chup hi rehna chahiye. 
+
+Mirroring ke examples mein shamil hain: 
+
+"Tum keh rahe ho ki tum theek ho, par tumhari awaaz se lagta hai ki tum upset ho." 
+"Tum mujhse naraaz lag rahe ho." 
+"Tum usse baat karne mein nervous lag rahe ho. Kya tum pakka taiyar ho?" 
+
+#### Paraphrase to Acknowledge the Story (Story ko Acknowledge Karne ke Liye Paraphrase Karein) 
+
+Asking aur Mirroring aapko dusre insaan ki story ka kuch hissa bahar lane mein madad kar sakte hain. Jab aapko koi clue mile ki wo insaan kaisa feel kar raha hai, toh aap unki baat ko paraphrase karke extra safety bana sakte hain. Dhyan rahe ki bas unki baat ko tote ki tarah repeat nahi karna hai. Iske bajaye, message ko apne shabdon mein rakhein—aam taur par thoda chhota karke. 
+
+"Dekhte hain ki kya mujhe ye sahi samajh aaya. Tum isliye upset ho kyunki maine tumhare kuch kapdo ke baare mein apni fikar jahir ki hai. Aur ye tumhe controlling ya purane khayalat ka lagta hai." 
+
+Paraphrasing ki key, mirroring ki tarah hi, shaant aur control mein rehna hai. Hamara maqsad safety banana hai, na ki hairan hokar ye dikhana ki conversation ab bhayanak hone wali hai. Is baat par focused rahein ki kaise ek samajhdaar, rational aur sharif insaan ne ye Path to Action banaya hoga. Yeh aapko gusse mein aane ya defensive hone se bachayega. Bas unki baat ko phir se kahein, aur ise aise tareeke se karein jo ye suggest kare ki ye theek hai, aap samajhne ki koshish kar rahe hain, aur unke liye khul kar baat karna safe hai. 
+
+**Bahut zyada push mat karein.** Dekhte hain hum kahan hain. Hum bata sakte hain ki dusre insaan ke paas share karne ke liye aur bhi bahut kuch hai jo wo abhi nahi bata raha. Wo silence ya violence ki taraf ja raha hai, aur hum jaana chahte hain kyun. Hum wapas source (facts) tak pahunchna chahte hain jahan hum problem solve kar sakein. Encourage karne ke liye, humne teen listening tools try kiye hain. Humne pucha (Ask), mirror kiya aur paraphrase kiya. Wo insaan abhi bhi upset hai, par apni stories ya facts nahi samjha raha. 
+
+Ab kya? Is point par, hum peeche hatna chah sakte hain. Kuch der baad, safety banane ki hamari koshish aisi lag sakti hai jaise hum unhe pareshan kar rahe hain ya unki personal baaton mein ghus rahe hain. Agar hum bahut zyada push karte hain, toh hum Purpose aur Respect dono ka ullaanghan (violate) karte hain. Dusre socha sakte hain ki hamara maqsad sirf unse wo nikalwana hai jo hum chahte hain aur wo conclude karenge ki humein unki koi parwah nahi hai. Toh iske bajaye, hum peeche hat jate hain. Jad tak pahunchne ke bajaye, hum ya toh shanti se exit karte hain ya puchte hain ki wo kya chahte hain. Logon se ye puchna ki wo kya chahte hain, unke dimaag ko problem solving mein lagane mein madad karta hai aur unhe attack ya avoid karne se dur le jata hai. Yeh ye bhi reveal karne mein madad karta hai ki unke hisaab se problem ki wajah kya hai. 
+
+#### Prime When You're Getting Nowhere (Jab Kahin Na Pahunchein Toh Prime Karein) 
+
+Doosri taraf, aise waqt hote hain jab aap conclude karte hain ki dusre khulna toh chahte hain par abhi bhi safe feel nahi kar rahe. Ya shayad wo abhi bhi violence mein hain, adrenaline thanda nahi hua hai, aur wo nahi samjha rahe ki wo gusse mein kyun hain. Jab aisa ho, toh aap **priming** try kar sakte hain. Prime tab karein jab aapko lage ki dusre ke paas abhi bhi share karne ke liye kuch hai aur shayad wo thodi aur koshish se share kar dega. 
+
+Power-listening term "priming" purane "priming the pump" (pump ko chalu karna) se aaya hai. Agar aapne kabhi purana hath-pump chalaya hai, toh aap is metaphor ko samajh jayenge. Pump ke saath, aksar aapko usme thoda pani daalna padta hai use chalu karne ke liye. Phir wo sahi kaam karta hai. Jab power listening ki baat aati hai, toh kabhi-kabhi aapko apni taraf se behtareen andaza (guess) lagana padta hai ki dusra insaan kya soch ya feel kar raha hai. Aapko pool mein thoda meaning daalna padta hai isse pehle ki dusra insaan waisa kare. 
+
+Kuch saal pehle, authors mein se ek ek executive team ke saath kaam kar raha tha jisne company ke ek work area mein afternoon shift jodne ka faisla kiya tha. Machinery ka poora istemal nahi ho raha tha, aur company us area ko bina ek extra crew ke chalu rakhna afford nahi kar sakti thi. Iska matlab tha ki jo log abhi din mein kaam kar rahe hain, unhe ab har do hafte mein afternoons mein rotate karna hoga. Yeh ek mushkil par zaroori faisla tha. 
+
+Jab execs ne meeting ki is unpopular badlav ko announce karne ke liye, toh existing work crew silent ho gayi. Wo saaf taur par nakhush the, par koi kuch nahi keh raha tha. Operations manager ko darr tha ki log company ke is action ko sirf zyada paise kamane ka ek tareeka samjhenge. Sach toh ye tha ki wo area paise gawa raha tha, par faisla employees ko dhyan mein rakh kar liya gaya tha. Bina second shift ke, naukriyan hi nahi bachti. Wo ye bhi jaanta tha ki shifts rotate karne aur afternoons aur evenings mein apno se door rehne ko kehna logon par bada bojh dalega. 
+
+Jab log chup-chap gusse mein baithe the, executive ne unhe bulwane ki poori koshish ki taaki wo un-resolved feelings ke saath na jayein. Usne mirror kiya, "Main dekh sakta hoon ki aap log upset hain—kaun nahi hoga? Kya hum kuch kar sakte hain?" Kuch nahi hua. Aakhir mein, usne prime kiya. Yaani, usne apna best guess lagaya ki wo kya soch rahe honge, use aise kaha jisse dikhe ki is baare mein baat karna theek hai, aur phir aage badha. "Kya aap soch rahe hain ki hamara ye karne ka akela maqsad sirf paise kamana hai? Ki shayad humein aapki personal lives ki parwah nahi hai?" 
+
+Thodi der baad, kisi ne jawab diya: "Well, bilkul aisa hi lag raha hai. Kya aapko andaza bhi hai ki isse kitni pareshani hone wali hai?" Phir kisi aur ne bhi haan mein haan milayi aur baatcheet shuru ho gayi. 
+
+Ab, ye aisi cheez nahi hai jo aap tab tak karenge jab tak baaki sab fail na ho jaye. Aap sach mein dusron se sunna chahte hain, aur aapke paas ek bahut strong idea hai ki wo shayad kya soch rahe hain. Priming ek achhi niyat (good faith) ka kaam hai, risk lena hai, vulnerable banna hai, aur safety banana hai is umeed mein ki dusre apna meaning share karenge. 
+
+#### Par Agar Wo Galat Hon Toh? 
+
+Kabhi-kabhi kisi aise insaan ke views ko imandari se explore karna khatarnaak lagta hai jiska path aapke path se bilkul alag ho. Wo insaan poori tarah galat ho sakta hai, aur hum shaant aur control mein act kar rahe hain. Isse humein nervousness hoti hai. 
+
+Dusron ke paths ko explore karte waqt khud ko nervous hone se bachane ke liye—chahe wo kitne bhi alag ya galat lagein—yaad rakhein ki hum unka point of view samajhne ki koshish kar rahe hain, zaroori nahi ki usse agree karein ya use support karein. Understanding ka matlab agreement nahi hota. Dusre insaan ke Path to Action ko samajhne ka matlab ye nahi hai ki hum use absolute sach maan rahe hain. Baad mein hamare paas apna path share karne ke liye bhi bahut waqt hoga. Abhi ke liye, hum sirf ye janne ki koshish kar rahe hain ki dusre kya sochte hain taaki ye samajh sakein ki wo kaisa feel kar rahe hain aur wo jo kar rahe hain wo kyun kar rahe hain. 
+
+---
+
+### WENDY KE PATH KO EXPLORE KARNA 
+
+Ab chaliye in kai skills ko ek saath ek interaction mein rakhte hain. Hum Wendy ke paas wapas chalte hain. Wo abhi us ladke ke saath date se wapas aayi hai jisne aapko dara rakha hai. Aap darwaza kholte hain, Wendy ko ghar ke andar khinchte hain, aur entrance ko double-bolt kar dete hain. Phir aap baat karte hain, thodi bahut. 
+
+WENDY: Aap mujhe is tarah embarrass kaise kar sakte hain! Mujhe ek ladka pasand karne laga, aur ab wo mujhse kabhi baat nahi karega! I hate you! 
+YOU: Wo ladka nahi tha. Wo ek future inmate (qaidi) tha. Tum isse behtar ho. Tum uske saath apna waqt kyun barbaad kar rahi ho? 
+WENDY: Aap meri life barbaad kar rahe hain. Mujhe akela chhod dijiye! 
+
+Wendy ke bedroom ka darwaza zor se band hone ke baad, aap living room ki ek chair par gir jate hain. Aapke emotions kaabu se bahar hain. Aap dare hue hain ki agar Wendy ne us ladke ko dekhna jari rakha toh kya ho sakta hai. Aapko dukh hai ki usne kaha ki wo aapse nafrat karti hai. Aapko lagta hai ki uske saath aapka rishta haath se nikal raha hai. 
+
+Toh aap apne aap se puchte hain, "Main asal mein kya chahta hoon?" Jab aap is sawal par gaur karte hain, toh aapka maqsad badal jata hai. Wendy ko control karne aur apni self-respect defend karne ke goals list mein neeche chale jate hain. Jo goal ab sabse upar hai wo thoda aur inspiring hai: "Main samajhna chahta hoon ki wo kya feel kar rahi hai. Main Wendy ke saath ek achha rishta chahta hoon. Aur main chahta hoon ki wo aisi choices kare jo use khush rakhein." 
+
+Aap pakka nahi hain ki aaj raat baat karne ka sabse achha waqt hai ya sabse bura, par aap jaante hain ki baat karna hi aage badhne ka akela rasta hai. Toh aap ek koshish karte hain. 
+
+YOU: (Darwaza khatkhatate hue) Wendy? Kya main tumse baat kar sakta hoon please? 
+WENDY: Whatever. 
+
+(Aap uske kamre mein jaate hain aur uske bed par baith jate hain.) 
+
+YOU: I'm really sorry tumhe is tarah embarrass karne ke liye. Wo tareeka galat tha. [Apologize to build safety] 
+WENDY: Baat ye hai ki aap aisa bahut karte hain. Aisa lagta hai jaise aap meri life ki har cheez control karna chahte hain. 
+YOU: Kya hum is baare mein baat kar sakte hain? [Ask] 
+WENDY: (Gusse mein) Koi badi baat nahi hai. Aap parent hain, sahi hai na? 
+YOU: Jis tarah se tum ye keh rahi ho, usse lagta hai ki ye ek badi baat hai. [Mirror] Main sach mein ye sunna chahunga ki tumhe aisa kyun lagta hai ki main tumhari life control karne ki koshish kar raha hoon. [Ask] 
+WENDY: Kya, taaki aap mujhe aur tareeke bata sakein ki main kitni bekar hoon? Mujhe aakhirkaar ek aisa dost mila jo mujhe accept karta hai, aur aap use bhagane ki koshish kar rahe hain! 
+YOU: Toh tumhe lagta hai ki main tumhe approve nahi karta, aur tumhara dost akela insaan hai jo karta hai? [Paraphrase] 
+WENDY: Sirf aap hi nahi hain. Meri saari friends ke paas bahut saare ladke hain jo unhe pasand karte hain. Doug pehla ladka hai jisne mujhe call bhi kiya hai. Mujhe nahi pata—khair chhodiye. 
+YOU: Main samajh sakta hoon ki tumhe bura lagta hoga jab dusron ko ladkon se attention mil rahi hai aur tumhe nahi. Shayad main bhi waisa hi feel karta. [Paraphrase] 
+WENDY: Toh phir aapne mujhe is tarah embarrass kaise kiya?! 
+YOU: Beta, main ek koshish karna chahta hoon. Main soch raha hoon ki shayad tumne alag tarah se taiyar hona aur alag tarah ke doston ke saath ghumna isliye shuru kiya kyunki tumhe abhi ladkon se, apne parents se aur dusron se wo parwah aur value mehsoos nahi ho rahi. Kya ye bhi ek wajah hai? [Prime] 
+WENDY: (Kaafi der tak chup-chap baithi rehti hai) Main itni ugly kyun hoon? Main apne look par sach mein bahut mehnat karti hoon par... 
+
+Yahan se, conversation asli issues par chali jati hai, parent aur daughter discuss karte hain ki asal mein kya chal raha hai, aur dono ek-dusre ko behtar samajh paate hain. 
+
+---
+
+### APNE ABCs YAAD RAKHEIN 
+
+Maan lijiye aapne safety banane ki poori koshish ki. Ask, Mirror, Paraphrase aur aakhir mein Prime karne ke baad, dusre insaan ne khul kar apna path share kiya. Ab aapki bari hai bolne ki. Par agar aap disagree karte hain toh? Dusre insaan ke kuch facts galat hain, aur uski stories poori tarah bigdi hui hain. Kam se kam, wo us story se bahut alag hain jo aap khud ko suna rahe hain. Ab kya? 
+
+#### Agree (Sehmat Hona) 
+
+Jab aap families aur work groups ko garma-garam behas karte dekhte hain, toh aksar ek bada interesting phenomenon dikhta hai. Halanki wo parties jinhe aap dekh rahe hain wo zor-shor se argue kar rahi hain, par sach toh ye hai ki wo "violently agreement" mein hain. Wo asal mein har important point par agree karte hain, par phir bhi lad rahe hain. Unhone chote-mote differences ko ek badi behas mein badalne ka tareeka dhund liya hai. 
+
+Example ke liye, kal raat aapke teenage bete ne phir se curfew toda. Aap aur aapke spouse poori subah is par argue karte rahe hain. Pichli baar jab James late aaya tha, toh aapne use ground karne ka faisla kiya tha, par aaj aap upset hain kyunki lagta hai aapke spouse peeche hat rahe hain ye suggest karke ki James ab bhi is hafte football camp ja sakta hai. Pata chalta hai ki ye bas ek galat-fehmi thi. Aap aur aapke spouse grounding par agree karte hain—jo main issue hai. Aapko laga aapka spouse wade se mukar raha hai jabki sach ye tha ki aapne ye tay hi nahi kiya tha ki grounding kab se shuru hogi. Aapko peeche hatkar wo sunna tha jo aap dono keh rahe the ye realise karne ke liye ki aap disagree nahi kar rahe the, balki violently agree kar rahe the. 
+
+Zyada tar arguments 5 se 10 percent facts aur stories par hoti hain jin par log disagree karte hain. Aur halanki ye sach hai ki logon ko aakhir mein differences par kaam karna hoga, par aapko wahin se shuru nahi karna chahiye. Ek agreement wale area se shuru karein. 
+
+Toh yahan ye seekh hai: Agar aap dusre insaan ke path se poori tarah agree karte hain, toh aisa kahein aur aage badhein. Jab agree karein, toh agree karein. Agreement ko argument mein mat badlein. 
+
+#### Build (Banayein) 
+
+Zahir hai, hum mein se zyada tar log agreements ko debates mein isliye badal dete hain kyunki hum dusre ki kahi hui kisi ek baat se disagree karte hain. Bhale hi wo ek chota sa hissa ho. Agar wo disagreement ka point hai, toh hum us par aise toot padte hain jaise kisi bhagte hue mujrim par. 
+
+Asal mein, humein bachpan se hi choti galtiyan dhundne ki training di jati hai. Misal ke taur par, hum kindergarten mein seekhte hain ki agar aapka jawab sahi hai, toh aap teacher ke pet (favorite) ban jate hain. Sahi hona achha hai. Beshak, agar dusron ka jawab sahi hai toh wo pet ban jayenge. Toh sabse pehle sahi hona aur bhi behtar hai. Aap dusron ke facts, thinking ya logic mein choti se choti galti dhundna seekhte hain. Phir aap un galtiyon ko point out karte hain. Dusron ki keemat par sahi hona sabse achha mana jata hai. 
+
+Jab tak aap apni education khatam karte hain, aapke paas chote-mote matbhed (trivial differences) pakadne aur unhe ek bada mudda banane mein virtual Ph.D. hoti hai. Toh jab koi dusra insaan koi suggestion deta hai (facts aur stories par based), toh aap disagree karne ke liye dekh rahe hote hain. Aur jab aapko ek chota sa difference mil jata hai, toh aap is snack ko meal mein badal dete hain. Healthy dialogue mein rehne ke bajaye, aap violent agreement mein pahunch jate hain. 
+
+Doosri taraf, jab aap un logon ko dekhte hain jo dialogue mein mahir hain, toh ye saaf ho jata hai ki wo ye "Trivial Pursuit" wala game nahi khel rahe—choti galtiyan dhundna aur unhe zor-zor se batana. Asal mein, wo agreement ke points dhund rahe hote hain. Natijan, wo aksar "I agree" shabdon se shuru karte hain. Phir wo us hisse ke baare mein baat karte hain jisse wo agree karte hain. Kam se kam, wo shuruat wahin se karte hain. 
+
+Ab jab dusre insaan ne argument ka koi ek hissa chhod diya hai, toh skilled log agree karenge aur phir "build" karenge. Ye kehne ke bajaye: "Galat. Tum ye batana bhool gaye...", wo kehte hain: "Bilkul. Iske alawa, maine ye bhi notice kiya ki..." 
+
+Agar aap kahi gayi baat se agree karte hain par information adhuri hai, toh build karein. Agreement ke areas point out karein aur phir wo elements jodein jo discussion mein reh gaye the. 
+
+#### Compare (Tulna Karein) 
+
+Aakhir mein, agar aap disagree karte hain, toh apne path ki dusre ke path se tulna (compare) karein. Yaani, ye suggest karne ke bajaye ki wo galat hai, ye suggest karein ki aap alag sochte hain. Wo insaan galat ho sakta hai, par aapko pakka tab tak nahi pata jab tak aap dono taraf ki story nahi sun lete. Abhi ke liye, aap bas ye jaante hain ki aap dono ke vichaar alag hain. Toh "Galat!" kehne ke bajaye ek tentative (kuch had tak) par imandar shuruat karein jaise "Mujhe lagta hai main cheezon ko thoda alag dekh raha hoon. Main batata hoon kaise." 
+
+Phir Chapter 7 ke STATE skills ka use karke apna path share karein. Yaani, apne observations share karke shuru karein. Unhe tentative tareeke se share karein, aur dusron ko apne ideas test karne ke liye invite karein. Apna path share karne ke baad, dusre insaan ko invite karein ki wo use apne experience se compare karne mein aapki madad kare. Differences ko explore aur explain karne ke liye milkar kaam karein. 
+
+Summary mein, in skills ko yaad rakhne ke liye apne ABCs ke baare mein sochein. **Agree** karein jab aap agree karte hain. **Build** karein jab dusre zaroori hisse chhod dein. **Compare** karein jab aapke vichaar alag hon. Differences ko aisi debates mein mat badlein jo unhealthy rishton aur bure results ki taraf le jayein. 
+
+---
+
+### SUMMARY—EXPLORE OTHERS' PATHS 
+
+Meaning ke free flow ko badhava dene aur dusron ko silence ya violence peeche chhodne mein madad karne ke liye, unke Paths to Action ko explore karein. Curiosity aur patience ke attitude se shuru karein. Yeh safety restore karne mein madad karta hai. 
+
+Phir, dusre insaan ke Path to Action ko uski shuruat tak retrace karne ke liye chaar powerful listening skills ka use karein: 
+
+* **Ask:** Bas dusre insaan ke views mein interest dikhakar shuru karein. 
+* **Mirror:** Un emotions ko respect ke saath acknowledge karke safety badhayein jo log feel karte hue dikh rahe hain. 
+* **Paraphrase:** Jaise hi dusre apni story ka kuch hissa share karna shuru karein, aapne jo suna use restate karein ye dikhane ke liye ki na sirf aap samajhte hain, balki unke liye share karna safe bhi hai. 
+* **Prime:** Agar dusre ab bhi peeche hat rahe hain, toh prime karein. Apna best guess lagayein ki wo kya soch aur feel kar rahe honge. 
+
+Jab aap apne views share karna shuru karein, toh yaad rakhein: 
+
+* **Agree:** Jab aap agree karein, toh agree karein. 
+* **Build:** Agar dusre kuch chhod dete hain, toh jahan agree karte hain wahan agree karein, phir build karein. 
+* **Compare:** Jab aapka vichaar kaafi alag ho, toh ye mat kahein ki dusre galat hain. Apne dono views ko compare karein.
