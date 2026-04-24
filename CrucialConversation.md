@@ -337,3 +337,247 @@ Pehle, hum un tools ko explore karenge jo log dialogue ki conditions create karn
 Next, hum saath milkar baat karne, sun-ne aur act karne ke tools ko examine karenge. Zyada tar logon ke dimaag mein yahi hota hai jab wo crucial conversations ke baare mein sochte hain. Main delicate feedback kaise doon? Main asar-daar tareeke se kaise bolun, na ki chidh-chidhakar (abrasively)? Aur sun-ne ke baare mein kya? Ya isse bhi behtar, hum logon se baat karwane ke liye kya kar sakte hain jab wo nervous lag rahe hon? Aur hum soch se action tak kaise pahunche? Jaise-jaise aap aage padhenge, aap saath baat karne, sun-ne aur act karne ki key skills seekhenge.
 
 Aakhir mein, hum saari theories aur skills ko ek model aur ek bade example ke zariye ek saath jodenge. Fir, ye dekhne ke liye ki kya aap sach mein wo kar sakte hain jo zaroori hai, hum satrah (17) aisi situations denge jo hum mein se zyada tar ko pareshan kar dengi—yahan tak ki un logon ko bhi jo dialogue mein gifted hain. Jaise-jaise aap aage padhenge, aap high stakes mein baat karne ke tools master kar lenge.
+
+---
+## 3
+
+Mankind apni history mein ek aise crossroads par khada hai jaisa pehle kabhi nahi dekha gaya. Ek raasta mayusi aur bilkul umeed khatam hone (hopelessness) ki taraf jata hai, aur doosra raasta poori tarah se khatam (extinction) hone ki taraf. Humein dua karni chahiye ki hamare paas sahi chiz chunne ki aqal (wisdom) ho.
+**- WOODY ALLEN**
+
+---
+
+### Start with Heart
+
+**Kaise un chizon par focused rahein jo aap sach mein chahte hain**
+
+Ab waqt hai dialogue ke "how" ki taraf mudne ka. Jab opinions alag hon aur emotions strong hon, toh aap meaning ke flow ko kaise encourage karte hain? Average insaan ke track record ko dekhte hue, ye itna asaan nahi ho sakta. Sach toh ye hai ki, logon ki purani mehengi galtiyon (costly behaviors) ki aadat ko dekhte hue, isme shayad bahut mehnat lagegi. Sach ye hai ki log badal sakte hain. In fact, jin hazaaron logon ke saath humne (authors ne) pichle kuch decades mein kaam kiya hai, unhone pakke sudhaar (lasting improvements) kiye hain. Par isme kaam lagta hai. Aap sirf koi jaadui sharbat (magic potion) peekar naye banker nahi nikal sakte. Iske bajaye, aapko apne aap ko gehraayi se dekhna hoga.
+
+Asal mein, ye dialogue ka pehla principle hai—Start with Heart. Yani, aapka apna dil. Agar aap apne aap ko sahi nahi kar sakte, toh aapko dialogue sahi karne mein bahut mushkil hogi. Jab baatcheet crucial ho jati hai, toh aap unhi communication ke taur-tareeqon par utar aate hain jinke saath aap bade huye hain—behas (debate), khamoshi (silent treatment), manipulation, wagera.
+
+### JAB HUM PEHLE APNE AAP PAR KAAM NAHI KARTE
+
+Chaliye ek sachhi kahani se shuru karte hain. Do chhoti behnein aur unke pita Disneyland mein ek garam dopahar bitaane ke baad apne hotel ke kamre mein daudte hue aate hain. Garmi itni zyada thi ki ladkiyon ne itna soda pee liya tha ki ek chota barrel bhar jaye. Jaise hi wo dono bacche kamre mein enter karte hain, unka sirf ek hi khayal hota hai—bathroom ki taraf bhaagna.
+
+Chunki bathroom ek hi hai, isliye zyada der nahi lagti jab tak ki ladayi shuru na ho jaye. Dono desperate bacche behas karne lagte hain, ek dusre ko dhakka dete hain, aur bura-bhala kehte hue us chhote se bathroom ke chaaron taraf naachte hain. Akhirkar ek apne pita ko madad ke liye pukarti hai.
+
+"Dad, main yahan pehle aayi thi!"
+
+"Mujhe pata hai, par mujhe zyada zor se lagi hai!"
+
+"Tumhe kaise pata? Tum mere shareer mein nahi ho. Main toh aaj subah nikalne se pehle bhi nahi gayi thi!"
+
+"Tum bahut selfish ho."
+
+Dad ek plan propose karte hain. "Girls, main ye tumhare liye solve nahi karne wala. Tum bathroom mein rehkar khud tay karo ki pehle kaun jayega aur doosra kaun. Bas ek rule hai. Maarna nahi hai."
+
+Jab wo dono bechain bacche apni crucial conversation shuru karte hain, Dad apni ghadi check karte hain. Wo sochte hain ki isme kitna waqt lagega. Jaise-jaise minute guzarte hain, unhe sirf beech-beech mein sarcasm (tanz) ki awaazein sunayi deti hain. Akhirkar pachis lambe minutes ke baad, toilet flush hota hai. Ek ladki bahar aati hai. Ek minute baad, doosra flush aur uski behen bahar aati hai. Jab dono ladkiyan kamre mein hoti hain, toh Dad puchte hain, "Kya tumhe pata hai ki jitne waqt mein tumne ye tay kiya, utne waqt mein tum dono kitni baar bathroom ja sakti thi?"
+
+Ye khayal un chhote bachon ke dimaag mein nahi aaya tha, par jaise hi aaya, ye saaf tha ki dono ne turant kya nateeja nikala.
+
+"Bahut baar, agar ye itni bad-tameez (jerk) na hoti toh."
+
+"Ise suno. Ye mujhe bura-bhala keh rahi hai jabki ye intezar kar sakti thi. Ise hamesha apni manmani karni hoti hai!"
+
+### MERI TARAF MAT DEKHO!
+
+Chahe hum is kahani par kitna bhi hasein, ye dono bacche hum baki sab se alag behave nahi karte. Jab koi baatcheet nakam hoti hai, toh hum mein se zyada tar log turant dusron ko blame karte hain. Agar sirf dusre badal jayein, toh hum sab hamesha khushi-khushi rahenge. Agar dusre itne bigde hue na hote, toh humein pehle hi aisi bewakoofana games nahi khelne padte. Unhone shuru kiya. Ye unki galti hai, hamari nahi. Aur aise hi baatein chalti rehti hain.
+
+Halaanki ye sach hai ki kabhi-kabhi hum zindagi ke takraavon (collisions) mein sirf dekhne waale hote hain, par hum shayad hi kabhi poori tarah se masoom hote hain. Aksar hum aisa kuch karte hain jo un problems mein contribute karta hai jinhe hum face kar rahe hain.
+
+Jo log dialogue mein sabse behtar hote hain, wo is simple sach ko samajhte hain aur ise ek principle bana dete hain: "Pehle mujh par kaam karo" (Work on me first). Wo realize karte hain ki na sirf unhe apna approach sudhaarne se fayda hoga, balki wo akele aise insaan hain jin par wo kaam kar bhi sakte hain. Dusron ko chahe jitna badalne ki zaroorat ho, ya hum chahe jitna unhe badalna chahein, sirf wahi insaan jise hum lagataar inspire aur shape kar sakte hain—kisi hadd tak success ke saath—wo aaine (mirror) mein dikhne wala insaan hai.
+
+Is fact mein ek tarah ki irony (vaydambana) chhupi hai. Jo log maante hain ki unhe khud se shuru karne ki zaroorat hai, wo wahi karte hain. Jaise-jaise wo apne aap par kaam karte hain, wo dialogue mein sabse zyada skilled bhi ban jate hain. Toh irony ye hai: Ye sabse talented log hain, na ki kam talented, jo lagataar apni dialogue skills sudhaarne ki koshish kar rahe hain. Jaisa ki aksar hota hai, ameer aur ameer hota jata hai.
+
+### START WITH HEART
+
+Theek hai, maan lete hain ki humein apni personal dialogue skills par kaam karne ki zaroorat hai. Is book ko khareed kar kisi apne ya coworker ko dene ke bajaye ye kehkar: "Tumhe ye bahut pasand aayegi, khaas karke wo parts jo maine tumhare liye underline kiye hain," hum ye samajhne ki koshish karenge ki humein khud kaise fayda ho sakta hai. Par kaise? Hum shuru kahan se karein? Hum unhealthy games se kaise door reh sakte hain?
+
+Halaanki ek crucial conversation jaise flow wali interaction mein events ke specific order ko batana mushkil hai, par humein ek baat pakke taur par pata hai: Skilled log "Start with Heart" karte hain. Yani, wo high-risk discussions ko sahi maqsad (motives) ke saath shuru karte hain, aur chahe jo ho jaye, focused rehte hain.
+
+Wo is focus ko do tarikon se maintain karte hain. Pehla, jab baat ye janne ki aati hai ki wo kya chahte hain, toh wo bilkul clear hote hain. Apne goals se bhatakne ke lagataar bulawon ke bawajood, wo un par tike rehte hain. Doosra, skilled log "Sucker's Choices" (either/or choices) nahi banate. Un logon ke ulat jo apne unhealthy behavior ko ye kehkar justify karte hain ki unke paas ladne ya bhagne (fight or flight) ke alawa koi raasta nahi tha, dialogue-smart log maante hain ki dialogue, chahe halat kaise bhi hon, hamesha ek option hota hai.
+
+Chaliye inme se har ek important heart-based assumption ko ek-ek karke dekhte hain.
+
+### SACH KA EK PAL
+
+Ye dekhne ke liye ki hamare dil ki khwahishein (desires) dialogue mein bane rehne ki hamari kabiliyat ko kaise affect karti hain, chaliye ek real-life example dekhte hain.
+
+Greta, jo ek mid-sized corporation ki CEO hai, apne top leaders ke saath ek kafi tense meeting mein do ghante se baithi hai. Pichle che mahino se wo kharche kam karne (cost cutting) ke liye ek personal campaign chala rahi hai. Ab tak bahut kam kaam hua hai, isliye Greta ne meeting bulayi hai. Yakinan log use batayenge ki unhone cost cutting shuru kyun nahi ki. Akhirkar, usne imandaari aur khulepan (candor) ko badhava dene ke liye bahut mehnat ki hai.
+
+Greta ne abhi meeting ko sawalon ke liye khola hi hai ki ek manager hichkichate hue khada hota hai, thoda ghabrata hai, farsh ki taraf dekhta hai, aur fir nervous hokar puchta hai ki kya wo ek bahut mushkil ("very tough") sawal puch sakta hai. Jis tarah se usne "very" word par zor diya, aisa lag raha tha jaise wo Greta par Lindbergh baby ko kidnap karne ka ilzaam lagane wala hai.
+
+Ghabraya hua manager apni baat jaari rakhta hai.
+
+"Greta, aap che mahine se hum par cost cut karne ke liye zor de rahi hain. Agar main ye kahun ki humne aapko bahut achha response diya hai, toh main jhoot bolunga. Agar aap bura na manein, toh main aapko ek aisi chiz batana chahta hoon jiski wajah se hamare liye cost cuts ke liye push karna mushkil ho raha hai." "Great. Shuru karo," Greta muskurate hue kehti hai.
+
+"Well, jabki aap humse paper ki dono sides use karne aur suvidhaon (improvements) ko chhodne ke liye keh rahi hain, aap apna ek doosra office banwa rahi hain."
+
+Greta wahi ruk jati hai aur uska chehra laal ho jata hai. Har koi dekh raha hai ki aage kya hoga. Manager apni baat jaari rakhta hai.
+
+"Rumor ye hai ki sirf furniture hi $150,000 ka hoga. Kya ye sahi hai?"
+
+Toh ye rahi baat. Conversation abhi "crucial" ho gayi hai. Kisi ne pool of meaning mein ek kafi badsurat sach daal diya hai. Kya Greta imandaar feedback ko encourage karti rahegi, ya wo us aadmi ko chup kara degi?
+
+Hum ise crucial conversation isliye kehte hain kyunki Greta agle kuch palon mein kaise behave karti hai, ye na sirf cost cutting ke prati logon ke attitude ko tay karega, balki iska doosre leaders ki uske baare mein soch par bhi bada asar padega. Kya wo khulepan aur imandaari ki apni hi baat par amal karti hai? Ya wo bhi un seniors ki tarah ek dhongi (hypocrite) hai jo usse pehle aaye the?
+
+**Kya Hum Phans Jayenge (Hooked)?**
+
+Greta is crucial conversation mein kaise behave karti hai, ye kafi hadd ek is baat par depend karta hai ki wo attack ke waqt apne emotions ko kaise handle karti hai. Haan, jab wo speech de rahi hoti hai ya memo likh rahi hoti hai, toh wo candor ke liye poori tarah taiyar hoti hai. Wo candor ki ek asli cheerleader hai. Par ab kya? Kya Greta us aadmi ka shukriya ada karegi itna bada risk lene aur imandaar hone ke liye?
+
+Agar wo hum mein se zyada tar logon ki tarah hai, toh Greta apna bachao (defend) karegi. Jab hum high-stakes conversations ke beech hote hain, toh naye (aur kam healthy) maqsad aksar hamare purane, zyada nek maqsad ki jagah le lete hain. Agar aap ek potentially gusse wali bheed ke samne khade hain, toh ye pakka hai ki aap apna original goal badal kar apni public image bachane ka naya goal bana lenge.
+
+"Excuse me," aap jawab de sakte hain. "Mujhe nahi lagta ki mera naya office is meeting ke liye sahi topic hai."
+
+Bang. Aap khatam. Ek hi baar mein aapne sabka support kho diya, is conversation mein candor ki har umeed khatam kar di, aur sabke is shak ko confirm kar diya ki aap imandaari toh chahte hain—par tab tak jab tak wo aapko achha dikhaye.
+
+### PEHLE, US PAR FOCUS KAREIN JO AAP SACH MEIN CHAHTE HAIN
+
+Asal mein, Greta ne apne bachao karne ki tez khwahish ke aage ghutne nahi teke. Apne hi advice ko follow na karne ka ilzaam lagne ke baad, pehle toh wo hairan, sharminda aur shayad thoda pareshan dikhi. Fir usne ek gehri saans li aur kaha: "You know what? Humein is baare mein baat karni chahiye. Mujhe khushi hai ki aapne ye sawal pucha. Isse humein ye discuss karne ka mauka milega ki asal mein ho kya raha hai."
+
+Aur fir Greta ne khul kar baat ki (talked turkey). Usne samjhaya ki use laga office zaroori hai par admit kiya ki use idea nahi tha ki iski cost kitni hogi. Isliye usne kisi ko numbers check karne bheja. Is beech, usne samjhaya ki office banana marketing ki advice thi takki company ki image aur client ka confidence bade. Aur jabki Greta office use karegi, ye primarily marketing ke liye ek hosting location hoga. Jab usne office ke figures dekhe, toh Greta dang reh gayi aur admit kiya ki use work order sign karne se pehle costs check karni chahiye thi. Toh wahi usne commit kiya ki wo ek naya plan banayegi jo costs ko aadha kar dega ya project ko poori tarah cancel kar degi.
+
+Baad mein us din humne Greta se pucha ki wo attack ke waqt apna composure kaise maintain kar payi. Hum jaanna chahte the ki uske dimaag mein exactly kya chal raha tha. Kis chiz ne use sharmindagi aur gusse se nikal kar shukr-guzaari (gratitude) tak pahunchne mein madad ki?
+
+"Ye asaan tha," Greta ne samjhaya. "Pehle mujhe laga mujh par attack hua hai, aur main palatkar waar karna chahti thi. Sach kahu toh, main us bande ko uski aukaat dikhana chahti thi. Wo mujh par public mein ilzaam laga raha tha aur wo galat tha."
+
+"Aur fir mujhe ek baat samajh aayi," usne jaari rakha. "Is fact ke bawajood ki chaar sau aankhein mujh par tiki thi, ek bahut important sawal mujhse takraya: 'Main yahan sach mein kya chahti hoon?'"
+
+Is sawal ko puchne ka Greta ki soch par bahut gehra asar pada. Jaise hi usne is zyada important sawal par focus kiya, use turant realize hua ki uska goal in do sau managers ko cost-reduction efforts apnane ke liye encourage karna tha—aur is tarah hazaaron dusron ko bhi aisa karne ke liye influence karna tha.
+
+Jab Greta ne is goal par gaur kiya, toh use realize hua ki sabse badi rukawat jo wo face kar rahi thi wo ye aam yakeen tha ki wo ek dhongi (hypocrite) hai. Ek taraf, wo dusron se sacrifice karne ko keh rahi thi. Doosri taraf, wo apne aaraam ke liye company ka paisa kharch karti dikh rahi thi. Usi pal wo sharminda ya gussa nahi thi, balki grateful thi. In leaders ko influence karne ke liye wo isse behtar mauke ki umeed nahi kar sakti thi jo is sawal ne use diya tha. Aur is tarah wo dialogue ki taraf badhi.
+
+**Apne dimaag ko refocus karein.** Ab, ek aisi situation ki taraf badhte hain jo aap face kar sakte hain. Aap kisi aise insaan se baat kar rahe hain jo ek garam mudde (hot issue) par aapse poori tarah disagree karta hai. Ye saari goal wali baatein wahan kaise apply hoti hain? Discussion shuru karte waqt, apne maqsad (motives) ko examine karne se shuru karein. Shuruat mein hi apne aap se puchein ki aap sach mein kya chahte hain.
+
+Saath hi, jaise-jaise conversation aage badhti hai aur aap paate hain ki aap, misal ke taur par, boss ke aage jhuk rahe hain ya apne spouse ko cold shoulder de rahe hain, toh dhyaan dein ki aapke objectives ke saath kya ho raha hai. Kya aap apna goal badal kar apni izzat bachane, sharmindagi se bachne, jeetne, sahi hone, ya dusron ko saza dene ki koshish kar rahe hain? Yahan ek tricky part hai. Hamare maqsad aksar bina kisi conscious soch ke badal jate hain. Jab adrenaline hamare liye sochne lagta hai, toh hamare maqsad chemical ke bahaav ke saath behte hain.
+
+Wapas un maqsad ki taraf mudne ke liye jo dialogue ki ijazat dete hain, aapko us interaction se door hatna hoga aur apne aap ko aise dekhna hoga jaise koi outsider dekh raha ho. Apne aap se puchein: "Main kya kar raha hoon, aur agar mujhe guess karna ho, toh ye mujhe mere chhupaye hue maqsad (underlying motive) ke baare mein kya batata hai?" Jab aap apne maqsad ko janne ki imandaar koshish karenge, toh aap nateeja nikaal sakte hain: "Chalo dekhte hain. Main bahut zor laga raha hoon, apni baat ko sach se zyada bada bana raha hoon, aur jeetne ke liye kuch bhi kar raha hoon. Main vacation ki jagah chunne se hatkar sirf ek behas jeetne ki koshish karne laga hoon."
+
+Ek baar jab aap apne dil ke badalte hue maqsad par sawal uthate hain, toh aap unhe badalne ke conscious choices le sakte hain. "Main sach mein jo chahti hoon wo ye hai ki imandari se ek aisi vacation spot chunu jise hum sab enjoy kar sakein—na ki logon ko apni baaton se jeetna." Seedhi baat ye hai ki, jab aap game ko pehchan lete hain, toh aap use khelna band kar sakte hain.
+
+Par kaise? Aap kaise pehchante hain ki aapke saath kya hua hai, games khelna band karte hain, aur fir apne maqsad ko influence karte hain? Wahi karein jo Greta ne kiya. Rukein aur apne aap se kuch sawal puchein jo aapko dialogue par wapas le aayein. Aap ye sawal tab puch sakte hain jab aap khud ko dialogue se phisalta hua paayein ya fir unhe yaad dilaane ke liye use karein jab aap kisi crucial conversation ki taiyari kar rahe hon. Yahan kuch behtareen sawal hain:
+
+- Main apne liye sach mein kya chahta/chahti hoon?
+- Main dusron ke liye sach mein kya chahta/chahti hoon?
+- Main is rishte (relationship) ke liye sach mein kya chahta/chahti hoon?
+
+Ek baar jab aapne apne aap se puch liya ki aap kya chahte hain, toh ek aur utna hi important sawal jodein:
+
+- Agar main sach mein ye results chahta/chahti, toh main kaise behave karta/karti?
+
+**Apna rasta dhoondein.** In sawalon ko puchne ki do achhi wajah hain. Pehla, hum sach mein kya chahte hain uska jawab humein hamara "North Star" (dhruv tara) dhoondne mein madad karta hai. Is fact ke bawajood ki humein galat raste par le jaane ke liye (1) log ladayi uksane ki koshish kar rahe hain, (2) hazaaron saalon ki genetic coding jo hamare emotions ko turant garam kar deti hai, aur (3) jeetne ki hamari geheri aadat humein lalach deti hai, hamara North Star humein hamare original purpose par wapas le aata hai.
+
+"Main sach mein kya chahta hoon? Oh haan, shayad doosre insaan ko nicha dikhana ya bheed ke samne shaan dikhana nahi hai. Main chahta hoon ki log khul kar baat karein ki cost cut karne ke liye kya zaroorat hogi."
+
+**Apne shareer par control karein.** Hum sach mein kya chahte hain ye puchne ki doosri wajah bhi kam important nahi hai. Jab hum apne aap se puchte hain ki hum sach mein kya chahte hain, toh hum apni poori physiology ko affect karte hain. Jab hum apne dimaag mein complex aur abstract sawal late hain, toh hamare dimaag ka problem-solving part ye samajh jata hai ki hum ab pechida social issues se deal kar rahe hain na ki kisi physical khatre (threat) se. Jab hum apne brain ko ek mushkil sawal dete hain, toh hamara shareer zaruri khoon (blood) dimaag ke un hisson mein bhejta hai jo humein sochne mein madad karte hain, aur un hisson se door le jata hai jo humein bhagne ya ladne (fight or flight) mein madad karte hain.
+
+Hum sach mein kya chahte hain is baare mein sawal puchna do important maqsad poore karta hai. Pehla, ye humein hamare goal ki yaad dilata hai. Doosra, ye hamare brain ko is tarah active karta hai ki hum focused reh sakein.
+
+### AAM BHAWNAYEIN (COMMON DEVIATIONS)
+
+Jaise hi hum kisi crucial conversation ki taraf badhte hain, meaning ke flow ko badhava dene ke poore iraade ke saath, hum mein se bahut se log turant apne original objectives ko kam healthy goals mein badal dete hain. Misal ke taur par, jab Greta par public attack hua, toh uska turant reaction ye tha ki apni izzat (save face) bachane ke liye jo ho sake wo kare. Doosre aam, par itne healthy nahi, objectives mein jeetna chahna, badla lena, aur safe rehne ki umeed karna shamil hai.
+
+**Jeetna chahna.** Ye khaas dialogue killer hum mein se bahut logon ki list mein top par hota hai. Bhagwan hi jaanta hai ki ye jaan-lewa junoon hum mein natural taur par aata hai. Aadhe TV programs jo hum dekhte hain wo un logon ko hero banate hain jo sports ya game shows mein jeet-te hain. Kindergarten ke das minute baad hi hum seekh jate hain ki agar humein teacher ka dhyaan chahiye, toh humein sahi jawab bolna hoga. Iska matlab hai ki humein apne saath ke students ko us game mein harana hoga. Jeetne ki ye khwahish hamare andar tabhi se bas jati hai jab hum ye janne ke liye bade bhi nahi hote ki ho kya raha hai.
+
+Badkismati se, jaise-jaise hum bade hote hain, hum mein se zyada tar log ye realize nahi karte ki jeetne ki ye khwahish humein lagataar healthy dialogue se door le ja rahi hai. Hum shuruat toh ek problem resolve karne ke goal se karte hain, par jaise hi koi galat hone ka ishara karta hai ya hamari sahi baat ko challenge karta hai, hum pal bhar mein apna maqsad badal dete hain.
+
+Pehle hum facts ko sahi karte hain. Hum details par behas karte hain aur doosre insaan ke arguments mein kamiyaan nikaalte hain.
+
+"Tum galat ho! Hum furniture par kahin bhi $150,000 ke aas-paas kharch nahi kar rahe. Ye office ka redesign hai jis par itna kharch ho raha hai, furniture par nahi."
+
+Zahir hai, jaise-jaise dusre log apni baat sabit karne ki koshish karte hain, bahut jaldi hum apna goal galtiyan sudhaarne se hatkar jeetne mein badal dete hain.
+
+Agar aapko is baat par shak hai, toh un do bechain ladkiyon ke baare mein sochein jo us chhote bathroom mein ek dusre ko gusse se dekh rahi thi. Unka original goal kaafi simple tha—relief. Par jaldi hi, apne hi dard-naak game mein phans kar, dono ne tay kar liya ki jeetne ke liye jo bhi lage wo karengi—bhale hi isse unhe kafi personal takleef kyun na ho.
+
+**Badla lena.** Kabhi-kabhi, jaise-jaise hamara gussa badhta hai, hum apni baat manwane se hatkar doosre insaan ko nuksaan pahunchane ki taraf badh jate hain. Bas Greta se puchiye. "Bhaad mein gayi imandaar communication!" wo apne aap mein sochti hai. "Main is gadhe (moron) ko sikhayungi ki mujh par public mein attack na kare." Akhirkar, jaise emotions apne peak par pahunchte hain, hamara goal poori tarah bigad jata hai. Hum pool mein meaning jodne se itna door nikal jate hain ki ab hum sirf dusron ko tadapte dekhna chahte hain.
+
+"Mujhe yakeen nahi ho raha ki tum mujh par ek bilkul sahi office par paisa barbaad karne ka ilzaam laga rahe ho. Ab, agar kisi aur ke paas koi samajhdaari wala sawal nahi hai, toh aage badhte hain!"
+
+Har koi turant chup ho jata hai aur farsh ki taraf dekhta hai. Wo khamoshi bahut bhari hoti hai.
+
+**Safe rehne ki umeed karna.** Of course, hum hamesha galtiyan theek nahi karte, dusron ko aggressively nicha nahi dikhate, ya bedardi se unhe tadpane ki koshish nahi karte. Kabhi-kabhi hum dialogue ke bajaye personal safety ko chunte hain. Pool of meaning mein kuch jodne aur shayad raste mein mushkilein khadi karne ke bajaye, hum khamosh (silence) ho jate hain. Hum turant hone wale conflict se itne uncomfortable hote hain ki hum bure results ko qubool kar lete hain takki uncomfortable conversation se bacha ja sake. Hum (kam se kam apne dimaag mein) conflict ke bajaye shanti ko chunte hain. Agar Greta ke case mein aisa hota, toh koi bhi naye office ke baare mein sawal nahi uthata, Greta ko kabhi asli baat pata nahi chalti, aur log kaam mein deri karte rehte.
+
+### DOOSRA, "SUCKER'S CHOICE" SE INKAAR KAREIN
+
+Ab, ek aur tool jodte hain jo humein us par focus karne mein madad karta hai jo hum sach mein chahte hain. Hum ek kahani se shuru karenge.
+
+Beaumont High School ki faculty ek after-school meeting mein curriculum ke sambhavit badlavon (changes) par behas kar rahi hai jo ghanton se chal rahi hai. Akhirkar science department ki baari aati hai present karne ki.
+
+Royce, ek chemistry teacher jo Beaumont mein 33 saal se hai, apne aap ko school ka bada buzurg (elder statesman) manta hai. Use neutrons aur electrons se zyada jung ki kahaniyan sunana pasand hai, par administration is par dhyaan nahi deti kyunki wo purana aadmi hai.
+
+Principal ke ishare par, Royce apna gala saaf karta hai aur curriculum development aur jung ki taiyariyon ke beech ki similarities ke baare mein bina kisi sir-pair ke baatein (yammer) karne lagta hai. Uska behavior itna sharminda karne wala hai ki audience chup-chaap apne kandhe hila rahi hai jaise wo apni hansi rokne ki nakaam koshish kar rahe hon.
+
+Agli baari Brent ki hai, jo naya banda hai. Kuch hafte pehle, principal ne usse pucha tha ki wo science department ke proposed curriculum changes ki outline taiyar kare. Brent ne apne sathiyon (yahan tak ki Royce) se mulaqat ki, suggestions liye, aur present karne ke liye taiyar hokar aaya.
+
+Jaise hi Brent shuru karta hai, Royce ek yardstick ke saath bayonet offensives (talwar-baazi) dikhana shuru kar deta hai, aur Brent ka sabr toot jata hai. Mez par mutthi maarte hue, wo chillata hai, "Kya sirf main hi hoon jo soch raha hai ki hum is purane aadmi (fossil) ko bolne hi kyun dete hain? Kya isne apni dawai nahi khai ya kuch?"
+
+Hairan chehron se bhara kamra Brent ki taraf mudta hai. Ye realize karte hue ki uske saathi soch rahe honge ki use kya ho gaya hai, Brent wo shabd kehta hai jinse hum sab nafrat karte hain, "Hey, meri taraf aise mat dekho! Main hi akela hoon jisme sach bolne ki himmat hai."
+
+Kya tactic hai. Brent ne public mein Royce ki bezati ki, aur fir maafi maangne ya khamoshi se hatne ke bajaye, wo argue karta hai ki usne jo kiya wo kisi tarah se nek (noble) tha.
+
+**Do bad-surat options.** Ye khatarnaak strategy humein raste se bhatkaane ke liye bahut sahi hai. Ise "Sucker's Choice" kehte hain. Ek khaas bure behavior ko justify karne ke liye, hum ye sujhate hain ki hum do bure options ke beech phanse hain. Ya toh hum imandaar hokar apne spouse par attack kar sakte hain, ya hum nek banker sach ko chhupa sakte hain. Ya toh hum boss se disagree karke behtar choice banwa sakte hain—aur iske liye goli kha sakte hain—ya hum chup rehkar pool ko khaali chhod sakte hain aur apni naukri bacha sakte hain. Apna zehar khud chuniye.
+
+Jo chiz ise Sucker's Choice banati hai wo ye hai ki inhe hamesha sirf do options ki tarah dikhaya jata hai. Ye either/or soch ka sabse bura roop hai. Jo insaan choice bana raha hai wo kabhi ye nahi sujhata ki koi teesra option bhi hai jisme unhealthy behavior ki zaroorat nahi hai. For example, shayad imandaar aur respectful hone ka koi raasta ho. Shayad hum boss ko apni khari rai de sakein aur safe bhi rahein.
+
+Jo log Sucker's Choice offer karte hain, wo ya toh teesre (aur healthy) option ke baare mein nahi sochte—jis case mein ye ek imandaar par dukhad galti hai—ya fir wo is jhooti choice ko apne bure kaamon ko justify karne ke liye khada karte hain. "I'm sorry, par mujhe apni integrity bachane ke liye us bande ki self-image ko khatam karna hi tha. Ye achha nahi tha, par ye sahi chiz thi."
+
+**Apne aap ko badlav ke liye kholein.** Na sirf Sucker's Choices humein nakam actions lene ke liye taiyar karti hain, balki wo badlav ke liye hamare raaste bhi band kar deti hain. Wo hamare dimaag ke samne aisi problems rakhti hain jo kam khoon ke bahaav (blood flow) se asani se solve ho jati hain. Akhirkar, agar hum sirf ladne ya bhagne (fight or flight) ke beech chun rahe hain, toh kise creative soch ki zaroorat hai?
+
+Wo humein hamari attacking ya retreating behaviors ko justify karke nakam strategies mein phansaye rakhti hain. Hum apna behavior kyun badlein jab hum hi akele aise hain jo chup rehne ki samajh rakhte hain? "Apne boss ke samne khade ho? Tum kis duniya mein rehte ho?" "Apne spouse ko bataun ki unka parenting style bahut controlling hai? Kabhi nahi. Mujhe barson tak bhugatna padega." Isi tarah, aap kabhi kyun badlenge jab aapko lagta hai ki aap hi akele hain jisme thodi bhi integrity bachi hai? "Kisi ko toh kadwa sach bolna hi hoga. Yehi ek raasta hai jisse main aaine mein khud ko dekh sakta hoon."
+
+Summary mein, Sucker's Choices wo simple tradeoffs hain jo humein dialogue tak pahunchne ke creative tarikon se door rakhti hain, aur hamare bewakoofana games ko justify karti hain.
+
+Toh hum is bigdi hui logic se kaise baahar niklein jo humein dard-naak behavior mein kaid rakhti hai?
+
+**Us mushkil "AND" (Aur) ko dhoondein.** Dialogue mein jo sabse behtar hote hain wo Sucker's Choices ko naye choices banakar reject karte hain. Wo apne samne mushkil sawal rakhte hain—aise sawal jo either/or choice ko us bahut important aur mushkil se milne wale "AND" ki talaash mein badal dete hain. (Ye ek endangered species hai, aapko pata hai.) Dekhiye ye kaise kaam karta hai.
+
+Pehle, clarify karein ki aap sach mein kya chahte hain. Aapko ek head start mil gaya hai agar aapne pehle hi "Started with Heart" kiya hai. Agar aapko pata hai ki aap apne liye, dusron ke liye, aur rishte ke liye kya chahte hain, toh aap Sucker's Choice se baahar nikalne ki position mein hain.
+
+"Main jo chahti hoon wo ye hai ki mera husband zyada bharosemand (reliable) ho. Main thak gayi hoon jab wo aise commitments karta hai jin par main depend karti hoon aur fir wo unhe poora nahi karta."
+
+Doosra, clarify karein ki aap sach mein kya nahi chahte. Ye "and" sawal banane ki chabi (key) hai. Sochein ki aapko kis baat ka darr hai agar aap jeetne ya safe rehne ki apni current strategy se peeche hat-te hain. Agar aap itna zor lagana band kar dein toh kya bura hoga? Ya agar aap bhagne ki koshish na karein? Kaun sa bhayanak anjaam game-playing ko ek attractive aur samajhdaari wala option banata hai?
+
+"Main jo nahi chahti wo ye hai ki ek be-matlab aur garam behas ho jo bure feelings paida kare aur jisse koi badlav na aaye."
+
+Teesra, apne dimaag ko ek zyada complex problem dein. Akhir mein, dono ko ek "and" sawal mein mila dein jo aapko silence aur violence ke bajaye zyada creative aur productive options dhoondne par majboor kare.
+
+"Main apne husband ke saath zyada bharosemand hone ke baare mein ek khari (candid) baatcheet kaise kar sakti hoon **aur** bure feelings paida karne ya apna waqt barbaad karne se kaise bach sakti hoon?"
+
+Ye dekhna dilchasp hai ki kya hota hai jab logon ko Sucker's Choices mein phanse hone ke baad "and" sawal diye jate hain. Unke chehre sochne wale ho jate hain, unki aankhein badi ho jati hain, aur wo sochne lagte hain. Hairat-angez taur par, jab logon se pucha jata hai: "Kya ye possible hai ki dono chizein hasil karne ka koi raasta ho?" toh wo maante hain ki bilkul ho sakta hai.
+
+- Kya aisa koi raasta hai jisse aap apne saathi ko apni asli chinta batayein **aur** use insult ya offend na karein?
+- Kya aisa koi raasta hai jisse aap apne padosiyon se unke annoying behavior ke baare mein baat karein **aur** khud ko ghamandi ya demanding na dikhayein?
+- Kya aisa koi raasta hai jisse aap apne loved one se paise kharch karne ke baare mein baat karein **aur** behas mein na padein?
+
+**KYA YE SACH MEIN POSSIBLE HAI?**
+
+Kuch logon ko ye poori soch mazaakiya taur par unrealistic lagti hai. Unke point of view se, Sucker's Choices jhooti choices nahi hain; wo sirf ek bad-kismat haqiqat ka reflection hain.
+
+"Aap boss se hamare upcoming move ke baare mein kuch nahi keh sakte. Isse aapki naukri chali jayegi."
+
+In logon se hum kehte hain: Kevin yaad hai? Uske paas, aur lagbhag har us opinion leader ke paas jise humne study kiya hai, wo hai jo bolne aur respect maintain karne ke liye chahiye hota hai. Shayad aapko nahi pata ki Kevin ne kya kiya ya aapko kya karne ki zaroorat hai—par Kevin ya us jaise logon ke hone se inkaar mat kijiye. Wahan options ka ek teesra set hai jo aapko pool mein meaning jodne aur rishte ko behtar banane ki ijazat deta hai.
+
+Jab hum (authors) ek on-site workshop ke beech mein hote hain aur hum sujhate hain ki Sucker's Choices ke alternatives hain, toh koi na koi zaroor kehta hai: "Shayad aap doosre organizations mein imandari se bol sakte hain aur fir bhi sune ja sakte hain, par agar aapne yahan koshish ki, toh aapko zinda kha liya jayega!" Ya doosra side: "Agar aap agle din ke liye bachna chahte hain, toh aapko pata hona chahiye ki kab peeche hatna hai." Fir bahut se log haan mein sar hilate hain.
+
+Pehle, humne socha ki shayad aisi jagah hain jahan dialogue survive nahi kar sakta. Par fir humne puchna seekha: "Kya aap keh rahe hain ki koi bhi aisa insaan nahi hai jise aap jaante hon jo high-risk conversation ko aise handle kar sake jisse problems solve hon aur rishte banein?" Aam taur par koi na koi hota hai.
+
+### SUMMARY—START WITH HEART
+
+Yahan bataya gaya hai ki jo log dialogue mein skilled hote hain, wo apne goals par kaise focused rehte hain—khaas kar tab jab halat mushkil ho jayein.
+
+**Pehle Mujh Par Kaam Karo (Work on Me First)**
+
+- Yaad rakhein ki akela insaan jise aap directly control kar sakte hain, wo aap khud hain.
+
+**Us Par Focus Karein Jo Aap Sach Mein Chahte Hain**
+
+- Jab aap paayein ki aap khamoshi (silence) ya gusse (violence) ki taraf badh rahe hain, toh rukein aur apne maqsad (motives) par dhyaan dein.
+- Apne aap se puchein: "Mera behavior mujhe mere maqsad ke baare mein kya bata raha hai?"
+- Fir, clarify karein ki aap sach mein kya chahte hain. Apne aap se puchein: "Main apne liye kya chahta hoon? Dusron ke liye? Rishte ke liye?"
+- Aur akhir mein puchein: "Agar main sach mein ye chahta hota, toh main kaise behave karta?"
+
+**Sucker's Choice Se Inkaar Karein**
+
+- Jab aap sochein ki aap kya chahte hain, toh dhyaan dein ki kab aap apne aap ko Sucker's Choice mein phansa rahe hain.
+- Dekhein ki kya aap apne aap se keh rahe hain ki aapko shanti aur imandari, ya jeetne aur haarne ke beech chunna hoga.
+- "AND" (aur) ko dhoond kar in Sucker's Choices se aazaad ho jayein.
+- Clarify karein ki aap kya nahi chahte, use usme jodein jo aap chahte hain, aur apne dimaag se kahein ki wo aapko dialogue tak le jaane wale healthy options dhoondna shuru kare.
