@@ -41,7 +41,6 @@ Tum seekhoge ki koi baat **clever** kya karti hai, use **jaldi kaise deliver kar
 *— Patrick King*
 
 ---
-# The Art of Witty Banter 
 ## Chapter 1: HPM, SBR, aur EDR se Miliye!
 
 ---
@@ -211,6 +210,128 @@ In naun mein se kaunse tumhe **easy aur natural** lagte hain aur kaunse mushkil?
 Dhyan se socho — kyunki jaise pehle bataya, kuch frameworks tumhari apni soch aur internal workings ke baare mein hain, aur kuch tumhare saamne wali situation aur doosre insaan ke baare mein। Toh agar tum zyaada ek taraf jhuk gaye, toh ya toh tum ek **conversational narcissist** ban jaate ho — ya phir aisa insaan jo koi value ya substance nahi deta।
 
 **Inhe chain karo** — aur in naun techniques se tum practically kabhi bhi baat karne ke liye topics khatam nahi karoge।
+
+---
+
+*— Patrick King*
+
+---
+## Chapter 2: Kabhi "Absolute" Mein Baat Mat Karo
+
+---
+
+Chapter ka title padh ke irony notice ki tumne?
+
+Maine **"Never"** (kabhi mat) word use kiya — **"never"** word use karne se bachne ki warning dene ke liye! 😄
+
+---
+
+Kisi bhi conversation ko khatam karne ka sabse common tarika — chahe topic kitna bhi interesting kyun na ho — yeh hai jab koi apne sawaalon ko **absolutes** (extreme/definitive answers) tak reduce kar deta hai।
+
+Mujhe yeh personally experience hua hai। Ek baar ek family gathering mein mera cousin mujhse absolute sawaal poochhta raha। Woh us waqt aath saal ka tha — toh maafi toh banti hai — lekin main kabhi nahi bhulunga ki kaisa feel hota hai jab koi hamesha absolutes mein baat kare।
+
+Usne mujhse pucha ki duniya mein meri **sabse favorite ice cream flavor** kaunsi hai। Maine thoda socha aur kaha — **rocky road**। Woh chillane laga ki mera taste horrible hai aur demand karne laga ki main **Neapolitan** ko kaise bhool sakta hoon। Woh conversation bahut painful thi — lambi chuppiyon se bhari, aur mere taste aur opinions par ek ke baad ek judgments।
+
+*Saalon baad usne discover kiya ki usse lactose intolerance hai — toh mazak uski hi zindagi par pada।* 😂
+
+---
+
+Bilkul, daily life mein tumhara aisa aur bhi common absolute sawaalon se pala padta hai। Point yeh hai ki **yeh sawaalon ka jawab turant dena bahut mushkil hota hai**, aur yeh tumhein doosron ki taraf se unnecessary internal debate aur judgment ke liye expose kar deta hai।
+
+Yeh sawaal usually bahut **innocent lagte hain**।
+
+For example — *"Tumhare sabse number one favorite movie kaun si hai ever?"* Yeh sawaal upar se bilkul seedha lagta hai — lekin yeh ek **absolute sawaal** hai। Yeh insaan ko spot par daal deta hai, aur aksar jawab yahi milta hai — *"Oh, pata nahi, mujhe sochne do…"* — aur phir woh kabhi apna thought complete hi nahi karta।
+
+> *"Tumhara favorite band kaunsa hai?"*
+> *"Pata nahi, sochne do mujhe।"*
+> Ya phir — *"Hmm… sure nahi hoon। Tumhara kaun sa hai?"*
+
+---
+
+Problem yeh hai ki tum ek **absolute jawab maang rahe ho**। Jab tum aisa karte ho — tumne doosre insaan ko koi **wiggle room** nahi diya, aur upar se — tumne unhe ek mushkil kaam de diya hai: tumhare sawaal ka ek definitive jawab nikalna।
+
+*Meri favorite movie kaunsi hai?*
+
+Tumhara sawaal fail ho jaayega, conversation stall ho jaayegi, aur tum phir wapas track par aana bhi mushkil paoge।
+
+Zyaadatar log sach bolna chahte hain — aur agar unhe kisi absolute sawaal ka genuinely honest jawab dhundhna pade, toh yeh bahut zyaada effort maangta hai। Sirf 1% log honge jinke paas yeh cheezein tongue-tip par ready hongi — baaki sab nahi jaante kaise respond karein।
+
+---
+
+**Bottom line yeh hai:** Absolute statements, answers, aur sawaal conversation ko logon ke liye mushkil bana dete hain — aur conversation ki **premature death** le aate hain। *(Conversation ki, logon ki nahi।)* 😄
+
+---
+
+Conversation ke liye ek **primary rule** yeh hai — doosre insaan ke liye **easy banao**। Aur isse tumhare liye bhi easy ho jaata hai। Agar tum logon ko aisi cheezein engage karke interesting bana sako jiske baare mein woh aasaani se baat kar sakein — toh tumne apne liye ek great situation bana li।
+
+Iske alawa, yeh bhi obvious hai ki **koi bhi conversation ka boj nahi uthana chahta**। Koi nahi chahta ki wahi saari blanks bhare, saari chuppiyan rok le, aur poori conversation khud hi direct kare।
+
+Agar tumhara questioning style doosre insaan par itna boj daal de jaise koi **job interview** chal rahi ho — toh ya toh woh jaldi disengage ho jaayega, ya phir sab kuch tumhare upar wapas uchaalen ga — *"Tumhare baare mein kya?"* wali response se। Aur phir tumhe apni khud ki banayi gayi mess sambhalni padegi।
+
+Jab tum kisi se poochho — *"Tumhara sabse absolute favorite (blank) kya hai?"* — tum unhe **spot par daal rahe ho**। Tum unhe seriously sochne par, aur usse bhi bura — kisi aisi cheez ke baare mein **commit** karne par majboor kar rahe ho jiske baare mein unke strong feelings bhi nahi ho sakte।
+
+Ek do baar toh theek hai — lekin socho unhe kaisa lagega agar tumhara har sawaal isi tarah ka ho? Woh sochne lagenge jaise **job interview** ya **interrogation** mein hain — na ki kisi pleasant social interaction mein। Unhe lagega jaise conversation ka boj uthane ki responsibility unpar daal di gayi hai — jo woh nahi uthana chahte। Yeh bahut tiring hota hai।
+
+---
+
+## Toh Solution Kya Hai?
+
+Chalte hain dekhte hain ki in absolute sawaalon ko kaise aisi cheezein mein badlein jo jawab dena kaafi aasaan ho aur conversation ko rokne ki jagah aage le jaaye।
+
+**Common absolute sawaal:** *"Tumhari favorite movie kaunsi hai?"*
+
+Is sawaal ke aas-paas **boundaries lagao** — use non-absolute banao — aur log iska jawab kaafi aasaani se de paayenge।
+
+Is sawaal ko in mein transform karo:
+
+> ✅ *"Tumhari top kuch movies kaunsi hain?"*
+>
+> ✅ *"Kuch achi movies kaunsi hain jo tumne recently dekhi hain?"*
+>
+> ✅ *"Koi comedy movie hai jo tum decent samjhte ho aur recommend karoge?"*
+
+Aisa karne se tum kisi ko ek absolute commitment ya absolute statement mein nahi baandh rahe। Yahan **several qualifiers** hain — number ke basis par ya time ke basis par — aur jab log kisi absolute jawab dene ka pressure feel nahi karte, toh woh relax karke practically kuch bhi jawab de sakte hain।
+
+**Har qualifier aur boundary us sawaal ko unke liye aasaan (aur zyaada fun) bana deti hai।**
+
+---
+
+Agar tum kaho — *"Mujhe lagta hai Forrest Gump ever ki greatest movie hai"* — toh tum ek **argument** ya tumhare taste ke baare mein judgment spark kar sakte ho।
+
+Lekin agar tum kahoge — *"Maine recently Forrest Gump dekhi aur woh kaafi achi thi"* — toh mushkil hai ki koi argue karega, jab tak ki woh genuinely Tom Hanks ya feel-good movies se nafrat na kare।
+
+Woh tumhare taste ko debate nahi kar rahe aur judgment ka mauka nahi dhoondh rahe।
+
+Agar woh disagree bhi karein — toh tumhe koi fark nahi padta, kyunki unhone tumhara taste terrible nahi bola। Woh sirf ek aisi movie par disagree kar rahe hain jo tumhare liye *"decent"* hai — jisse koi bhi side offend nahi hogi। Is tarah yeh **dialogue bhi kholta hai** aur logon ko woh kehne deta hai jo woh kehna chahte hain — jaise ki woh tumse disagree karte hain aur kyun! **Aise hi conversations shuru hoti hain।**
+
+---
+
+Ek acche conversationalist ki talent yeh hoti hai ki doosra insaan **comfortable feel kare**। Doosre insaan ki comfort ensure karne ka ek crucial tarika yeh hai ki unke liye jawab dena **conscientiously aasaan banao**।
+
+Yaad rakho — tum sach mein koi right ya wrong jawab nahi dhoondh rahe। Tum bas **conversation ko aage badhana chahte ho**।
+
+Best movie kaunsi hai — koi nahi jaanta। *Best* toh completely subjective hai — jo tumhare liye best ho woh kisi ke liye flat out boring bore ho sakti hai। Conversation ke liye apna **overall objective** yaad rakho — ek **mutual environment of comfort aur enjoyment** banana।
+
+---
+
+## Aakhri Baat — Apne Jawab Khud Bhi Ready Rakho
+
+Is chapter ka last point yeh hai — **jo sawaal tum poochh rahe ho, uska jawab tumhare paas bhi hona chahiye**।
+
+Agar tum ek absolute sawaal poochh rahe ho — toh better hai ki tumhare paas uska ek acha jawab ho।
+
+Bahut log jo mushkil sawaal poochhte hain — woh khud **flat-footed** (bewakoof) pak jaate hain jab wahi mushkil sawaal unpar wapas uchhaal diya jaata hai।
+
+Actually — tumhare paas **do sets of answers** ready hone chahiye:
+
+- **Pehla jawab** — absolute sawaal ka: *"Meri hands-down favorite movie hai…"*
+- **Doosra jawab** — looser version: *"Meri ek favorite movie nahi hai, lekin kuch achi movies jo maine recently dekhi hain woh hain…"*
+
+---
+
+Yaad rakho — absolute sawaalon se bachne ka matlab hai apni **question-asking skills ko sharpen karna**। Isse tum **doosre insaan ke joote mein khadे hokar** sochne par majboor hote ho aur cheezein unke conversational perspective se dekhte ho।
+
+Tumhein consider karna hoga ki conversation unki taraf se kaisi feel hoti hai — aur sirf woh sawaal nahi uchhal dena jo tumhare dimag mein atka hua hai, jo end mein jawab dene ke liye **extremely mushkil** ban jaaye।
 
 ---
 
