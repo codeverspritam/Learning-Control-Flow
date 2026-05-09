@@ -1222,3 +1222,187 @@ Ho sakta hai kuch log phir bhi ghar jaake **donuts khaane** ko prefer karein —
 ---
 
 *— Patrick King*
+
+---
+## Chapter 9: Apni Soch Ki Train Ko Derail Karo
+
+---
+
+Yeh mere **favorite concepts** mein se ek hai — kyunki yeh kuch aisi cheez hai jo log kabhi realize nahi karte ki woh kar rahe hain — jab tak unhe **kam se kam do baar** point out na kiya jaaye।
+
+---
+
+## "Train of Thought Derail" Ka Matlab Kya Hai?
+
+Mostly iska matlab yeh hai ki tumhe **apna mooh band rakhna hoga** — bahut zyaada baar — jitna tum sochte ho उससे bhi zyaada।
+
+Socho do log hain — dono ke paas apna alag conversation topic hai — aur woh **inevitable collision** ki taraf chug chug karke aa rahe hain।
+
+Woh feeling toh pehchante ho — tum **apne boss** se kitna annoyed the woh sunana chahte ho — aur doosre insaan ke paas unके **weekend ki story** ya aisa kuch hai।
+
+**Kya hota hai?**
+
+---
+
+## Teen Scenarios
+
+### ✅ Scenario 1: Dono Acche Conversationalists Hain
+
+Jab dono log **acche conversationalists** hote hain — ek ya dono apni **train of thought derail** karne ke liye tayyar hote hain।
+
+Woh use **"pin"** kar dete hain — aur **sharing mode** se **listening mode** mein completely gear shift kar lete hain।
+
+Aur jab woh subject exhaust ho jaata hai — ya koi pivot appropriate lagti hai — toh woh apne **burning topic** par seamlessly move on kar lete hain।
+
+Is point par — jo insaan bol raha tha woh ab zyaada ek **listener** ban jaata hai — aur dono log eventually apne **verbal space aur sharing** se satisfied hote hain।
+
+---
+
+### ⚠️ Scenario 2: Sirf Ek Accha Conversationalist Hai
+
+Jab **sirf ek insaan** accha conversationalist hota hai — woh apna topic **doosre insaan ke topic ke liye yield** kar deta hai।
+
+Woh sunne mein **nice aur courteous** hote hain — chahe iska result yeh ho ki unka apna topic **permanently derail** ho jaaye — kyunki doosre party mein yeh **awareness nahi hoti** ki unhe baat karne ka mauka diya gaya था।
+
+Woh **accha conversationalist** bahut saare sawaal poochhhta hai aur topic par **engaged** rehta hai — chahe woh topic us waqt unki choice ya interest ka nahi हो।
+
+---
+
+### ❌ Scenario 3: Dono Bure Conversationalists Hain
+
+Jab **dono bure conversationalists** hote hain — woh apni trains of thought derail karne se **refuse** karte hain।
+
+Jo pehle bolna shuru karta hai woh **floor** le leta hai — aur jaise hi woh baat khatam karta hai — doosra insaan seedha apne topic mein **dive** kar jaata hai — jaise doosre insaan ne **kuch kaha hi nahi**।
+
+Doosre insaan ke topics mein koi **curiosity ya interest** nahi hoti — kyunki woh sirf apni **khud ki trains direct** karne mein concerned hote hain। Woh doosre insaan ke topic को **acknowledge** bhi nahi karte।
+
+Ek **casual bystander** ke liye — yeh ek aisi **debate** ki tarah dikhta hai jismein **dono parties haar** rahi hain।
+
+---
+
+## Simple Tarike Se Samjho
+
+Ek conversation mein ek saath **do pitchers** nahi ho sakte।
+
+Ek insaan ko **catcher** banana hoga — aur **roles** frequently switch hone chahiye।
+
+---
+
+Toh yeh sab ek **lambi baat** kehne ka tarika hai ki:
+
+> *Tumhare dimaag mein woh choti si awaaz jo kehti hai ki tumhara topic zyaada funny ya interesting hai doosre insaan ke topic se — woh objectively sahi bhi ho sakti hai — lekin agar tum unhe **listen nahi karte aur acknowledge nahi karte** — toh unhe koi fark nahi padega।*
+
+Tum unhe **repel** kar loge।
+
+---
+
+## Apni Train Derail Karna Kya Karta Hai?
+
+Apni train of thought derail karna un **compulsions** ka khayal rakhta hai — jaise:
+- ❌ Doosron ko **interrupt** karna
+- ❌ Conversation hamesha **khud ki taraf** direct karna
+- ❌ Logon ko yeh feel na hone dena ki woh **sune gaye**
+
+Apne aap ko ek break do — aur sirf **sunne ki allowance** khud ko do।
+
+---
+
+## Log Derail Kyun Resist Karte Hain?
+
+**Log derailing resist karne ke kuch reasons hain:**
+
+### 1️⃣ Lagta Hai Abhi Nahi Bola Toh Baat Hi Chali Jaayegi
+
+Unhe lagta hai ki unhe **abhi us waqt** kuch kehna hai — warna woh baat **hamesha ke liye chali jaayegi**।
+
+Iske liye main kehta hoon — agar woh baat actually itni **important** hai — toh koi tarika nahi ki tum ise bhool jaao aur woh **obscurity mein drift** ho jaaye।
+
+---
+
+### 2️⃣ Lagta Hai Kabhi Spotlight Nahi Milta
+
+Kuch log is against fight karte hain kyunki unhe lagta hai ki conversations mein unhe **kabhi bhi spotlight nahi milta**।
+
+Naturally unhe lagta hai ki jab bhi jagah mile — **seize** kar lo — warna tum ise phir se **khud ki taraf** turn kar loge।
+
+Iss effect ke liye — tumhe yeh question karna chahiye ki **kya tum logon ko "un-derail" nahi hone de rahe** — yaani kya tum unhe is wajah se achha sun nahi paane de rahe kyunki woh itne **distracted** hain — yeh nahi jaante ki agla mauka kab milega jab tum ruko aur unki sharing ki baari aaye?
+
+Yeh bilkul **rarely-used basketball players** jaisa hai — woh game ke flow mein zyaada nahi khelte aur jab bhi ball touch karte hain — **shoot** karte hain — kyunki unhe kabhi nahi pata ki ball unke paas wapas kab aayegi aur unhe dobara chance milega।
+
+**Khud se poochho — kya tum khud ko derail kar rahe ho?**
+
+---
+
+### 3️⃣ Lagta Hai Mere Paas Zyaada Funny Cheez Kehne Ko Hai
+
+Sabse typical reason simply yeh sochna hai:
+
+> *"Mere paas zyaada funny kehne ko hai — aur jo woh keh raha hai woh main bol sakta hoon — lekin better।"*
+
+Yeh shayad sach bhi ho — lekin aise sochne se **kisi ka bhi kuch bhala nahi** hota।
+
+**Conversation koi comparison, competition, debate, ya argument nahi hai** — chahe tumhara ego aur pride tumhe otherwise act karne par **majboor** kyun na kare।
+
+Tumhara ego hamesha **center stage** lena chahta hai — woh bahut **hungry** hota hai aur hamesha validated hona chahta hai। Thodi **mehnat** lagegi — lekin tumhe apne **ego ko curb** mein rakhna hoga।
+
+Yeh tumhare **right hone** ke baare mein nahi hai — ya ek **infinitely zyaada interesting speaker** hone ke baare mein nahi। Yeh sab **mutual comfort** ke baare mein hai।
+
+---
+
+## Tumhara Goal Kya Hai?
+
+Tumhara goal **sahi jawab extract karna** nahi hai।
+
+Yeh koi **police interrogation** nahi hai — tum koi **lawyer** nahi ho jo deposition le raha ho ya court mein cross-examine kar raha ho।
+
+Tum bas kisi ke saath **baat karne ki koshish** kar rahe ho — aur **ek dusre ke baare mein accha feel** karne ki koshish kar rahe ho। Bas uss level par chhodo।
+
+---
+
+## Derailing Ka Matlab Permanence Nahi Hai
+
+Apni trains derail karne ka matlab **permanence ya complacency** nahi है।
+
+Iska bas matlab hai — **conversation ke bhale ke liye ek kadam peechhe hato** — aur **rapport build karo** taaki doosra insaan baad mein tumhari trains ke liye zyaada **receptive** ho।
+
+Socho — kya tum zyaada likely nahi ho logon ko **sunne ke liye** — jab unhone tumhare saath **kaafi der tak bear** kiya ho? Tum bhi is **emotional debt** ko apne advantage ke liye use kar sakte ho।
+
+---
+
+## Talk Show Hosts Se Seekho 🎙️
+
+**Ultimate example** tab hota hai jab tum **talk show hosts** dekhte ho।
+
+Actually — woh iska epitome hain — kyunki woh sab **comedians** hote hain — toh woh literally **sab kuch kar sakte hain** jo unke guest kar rahe hain — **aur better** bhi।
+
+Toh phir **talk show ek giant monologue** mein kyun nahi badal jaata sirf host ka?
+
+Kyunki woh apne **egos** park kar dete hain — aur doosre logon ki trains **run** karne dete hain। Aur woh actively **board hone ki koshish** karte hain aur unके saath **ride** karte hain।
+
+Unhe **minute mein 10 baar** zyaada funny joke ya anecdote se **barge in** karne ki urge resist karni padti hai।
+
+Results khud bolte hain — woh apne guests ko **glowingly clever aur likable** dikhate hain — sirf isliye ki woh apni khud ki trains derail karte hain।
+
+---
+
+## Improv Actors Bhi Yahi Karte Hain 🎭
+
+Kaafi maayon mein — ek conversation kisi **interview ya scene** se alag nahi — yani aise scene se jo doosron ke benefit ke liye **staged** ho — yaani doosre dekh rahe hों।
+
+Bahut zyaada **collaboration aur self-awareness** zaroori hai — warna scene **flat-out fall apart** ho jaayega।
+
+**Improv comedy actors** ko dekho। Unhe **supremely prepared** rehna padta hai — kisi bhi waqt **kisi bhi doosre ki trains mein board** hone ke liye — kyunki woh predict nahi kar sakte ki doosre unki trains mein board karenge — ya woh accept bhi karenge।
+
+---
+
+## Practice Karo Yeh Internal Discipline
+
+Is **internal discipline** ko practice karo — taaki tum ek better conversationalist ban sako।
+
+Yaad rakho — **yeh tumhare baare mein nahi hai** — yeh conversation ke baare mein hai — aur us **mutual sense of comfort** ke baare mein jo tum dono feel karte ho।
+
+Aakhirkar — yeh bas itna hai ki apne dimaag mein jo **burning thoughts** hain — unhe **abhi ke liye ek taraf rakho**। 🎯
+
+---
+
+*— Patrick King*
