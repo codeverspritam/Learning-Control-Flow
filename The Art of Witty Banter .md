@@ -2018,3 +2018,252 @@ Aur jab woh us amount of **impact aur validation** feel karte hain — unka **co
 ---
 
 *— Patrick King*
+
+---
+## Chapter 13: "What Were You Saying?" — Ek Magical Phrase Ko Master Karo
+
+---
+
+Agar tum apni conversation ki **life extend** karna chahte ho — toh yeh phrase bahut **kaam aa sakta hai**।
+
+Yeh ek phrase hi tha jिसकी wajah se main apने ek **pehli naukri** mein — ek choti si **shoe store** mein — apne supervisor ke **favorite employees** mein se ek ban gaya।
+
+Us waqt main **young** tha — toh actually mujhe bilkul idea nahi tha ki **professional setting** mein kaise behave karein। **Comfortable** feel karna mushkil tha — aur zyaadatar waqt mujhe nahi pata tha kya kehna hai।
+
+Toh jab main apne supervisor se baat karta — toh main store ke baare mein aur kal kitna **stock** aane wala hai — iske baare mein sawaal karta।
+
+Woh bahut **overly-enthusiastic** lagte the jab bhi maine phrase use kiya — *"What were you saying?"* — jo main sirf isliye use karta tha kyunki mujhe **kuch pata nahi tha kehne ke liye** — aur yeh tactic wahan se grow karti gayi।
+
+---
+
+Tumhe definitely **is phrase** ko aksar use karne mein look karna chahiye।
+
+Yeh actually **bahut zyaada situations** mein apply hota hai — jितna tum soch sakte ho।
+
+Agar tum ise bilkul use nahi kar rahe — toh iska matlab yeh ho sakta hai ki log shayad tumse utna **enjoy nahi kar rahe baat karte waqt** jitna tum believe karte ho।
+
+Tum shayad soch rahe ho ki tum ek **great conversationalist** ho — lekin agar tum yeh phrase use nahi karte — toh chances bahut high hain ki doosre aisa nahi sochते।
+
+---
+
+Yeh **magical phrase** sirf topics redirect karne se zyaada karta hai — yeh logon ko bataata hai ki tum **sun rahe ho** aur jo woh keh rahe hain usमें actively **care** karte ho।
+
+Ise practically **kisi bhi situation** mein use kiya ja sakta hai jahan topics overlap karne shuru ho jaayein — ya log ek cheez par ek baar focus karne ke liye **bahut excited** ho jaayein।
+
+Lekin yahan kuch specific **conversational hotspots** hain jahan *"What were you saying?"* use karo:
+
+---
+
+## 🔥 Hotspot 1: Jab Tum Kisi Ko Interrupt Karo Aur Woh Tumhe Bolne De
+
+Yeh tab hota hai jab tum kisi ki **statement mein barge in** kar lete ho — aur woh actually tumhe bolte rehne dete hain aur completely **interrupt ho jaate hain**।
+
+Jab tum apni baat khatam kar lo — yeh phrase kehna doosri party ke liye **conversation resume karne ka ek natural injection point** create karta hai।
+
+Yeh doosre insaan ko bataata hai ki jo unhe kehna tha woh **important** hai — aur tum unhe continue karne ke liye bol rahe ho — apni **outburst** ke bawajood।
+
+Yeh doosre insaan ko bhi yaad dilata hai ki woh kuch keh rahe the — aur woh tumhari **line of conversation** par continue karne ke liye **obliged** nahi hain।
+
+Jितna possible ho — doosron ko **interrupt mat karo**। Lekin jab karo — *"What were you saying?"* kehna conversation ke liye **life saver** ban sakta hai।
+
+---
+
+## 🔥 Hotspot 2: Jab Tum Kisi Ke Saath Ek Saath Bolna Shuru Karo
+
+Conversation mein aksar aisa hota hai ki tum kisi doosre ke saath **simultaneously bolna shuru** kar dete ho।
+
+Aisi cases mein kya hota hai? Ek insaan ko **gracefully bow out** karna hota hai aur doosre ko continue karne dena hota hai।
+
+**Hamesha woh insaan banne ki koshish karo** — keh kar:
+
+> ✅ *"Sorry, tum kya keh rahe the?"*
+
+Yeh unhe **raasta de deta** hai — aur unhe feel karta hai ki tum unka **respect** karte ho।
+
+Tum unhe **floor yield** karte ho — itna kehna hai।
+
+Yeh **turant kehna important** hai — bolte rehne par insist mat karo jab woh baat kar rahe hon।
+
+Jis moment tumhe notice ho ki tum **ek saath bol rahe ho** — ruko aur yeh phrase kaho। Yeh unka dhyan is fact par draw karega ki tum unka itna **respect** karte ho ki unhe bolne do।
+
+Yeh conversation mein **respect aur ease ka level reset** kar sakta hai।
+
+Aur bilkul — tumhara topic ya thought **hamesha ke liye lost** nahi hua। Woh bas **next in line** hai — jo sirf do logon wali conversation ke liye bura nahi।
+
+---
+
+## 🔥 Hotspot 3: Jab Tum Ek Extended Statement, Story Ya Rant Mein Chale Gaye
+
+Is situation mein — tumne kisi ko **interrupt nahi** kiya। Tum **ek saath** nahi bole।
+
+Tum **sahi waqt** par bol rahe the aur tumhari **baari** thi।
+
+Problem yeh hai ki tum **bahut zyaada derr tak** chale gaye। Woh **long-winded, drawn out** tha — aur doosre insaan ke liye probably **boring** bhi।
+
+Yeh sirf ek statement par nahi — balki ek **story ya rant** par bhi apply hota hai।
+
+Agar tum khud ko pakad sako ki tum bahut zyaada derr se bol rahe ho — toh phrase slip karo:
+
+> ✅ *"What were you saying?"*
+
+Gravity ko **wapas doosre speaker** par shift karne ke liye — aur apne extended statement ki **self-awareness** dikhane ke liye।
+
+---
+
+## 🔥 Hotspot 4: Jab Tum Doosre Insaan Ko Conversation Mein Zyaada Involved Feel Karana Chahte Ho
+
+Agar tum **ek se zyaada logon** se baat kar rahe ho — toh yeh almost certainty hai ki un mein se kam se kam ek insaan **left out** feel karega।
+
+Yeh completely **natural** hai — kyunki jab tum conversation mein engaged hote ho — ek insaan engaged hota hai jabki doosra **left out** feel karta hai।
+
+Zyaada bura mat maano। Bas doosri party ko is phrase se **reel in** karo। Tumhein nahi chahiye ki woh **left out** feel karein।
+
+Yeh simple phrase unhe yaad dilata hai ki woh **conversation ka hissa** hain।
+
+Isse unhe **wahan se shuru karne** ka mauka milta hai jahan unhone chhhoda tha — aur unka **engagement level revive** ho jaata है।
+
+Iske saath — yeh important hai ki make sure karo ki tum **is point tak nahi pahunchte**।
+
+Conversation ke **flow par close attention** do aur **attention ke flow ko police** karne ki koshish karo। Make sure karo ki conversation का flow **sabhi participants mein evenly distributed** ho।
+
+---
+
+## 🔥 Hotspot 5: Jab Tum Conversation Ka Topic Bhool Jaao
+
+Yeh **completely natural** hai ki conversation mein kho jaao aur **tangent par chale jaao**।
+
+Shayad tum **Topic A** ke baare mein baat kar rahe ho — aur phir jis insaan se tum baat kar rahe ho woh emotional ho jaata hai — aur tum **Topic B** par aa jaate ho।
+
+Kisi tarah tum **Topic C** mein slip ho jaate ho — aur tum completely bhool jaate ho ki **Topic A** kya tha — chahe woh doosre insaan se baat karne ka **primary purpose** kyun na tha।
+
+**Bilkul theek hai।**
+
+Bas phrase use karke — tum conversation ko **original topic par wapas le aate ho** — aur dono parties wahan se pick up kar sakte hain jahan unhonne chhhoda tha।
+
+Agar kuch bhi ho — toh yeh tumhari taraf se **maturity aur intelligence ka level** dikhata hai — kyunki tum notice kar paaye ki conversation **off track** ho gayi।
+
+Khud ko **focused aur goal-oriented** appear karo — chahe tum sirf ek **alcoholic beverage** par baat kar rahe ho।
+
+---
+
+## Yeh Matter Kyun Karta Hai?
+
+Main jaanta hoon ki yeh ek simple phrase ke liye **bahut zyaada fuss** lag raha hai — toh yeh utna matter kyun karta hai jितna main sochता hoon?
+
+Jab tum kehte ho — *"What were you saying?"* — tum **attention aur spotlight** wapas us insaan par laate ho jisse tum baat kar rahe ho।
+
+Hum sab feel karna chahते hain ki hum **matter karte hain** — aur yeh ek level of **respect aur attention** provide karta hai।
+
+Jab tum attention aur spotlight doosre insaan par laate ho — woh **validated** feel karte hain। Unhe lagta hai ki tum unके thoughts aur opinions mein **emotionally invested** ho।
+
+Yeh doosre insaan की nazron mein tumhari **personal faculties** ke lihaz se bhi tumhe **accha** dikhata है।
+
+---
+
+*"What were you saying?"* kehne ki ability yeh highlight karti hai ki tum **conversation par dhyan de rahe ho**।
+
+Tum **self-aware** ho — aur tum itne **humble** ho ki maan sako ki tumne conversation ko kam se kam thodi der के liye **apne liye take over** kar liya था।
+
+Ya iske ulta — doosra insaan kisi degree tak **chup** kar diya gaya hai — aur tumhara internal **conversational balance alarm** beep kar raha hai ki kuch **galat** hai।
+
+Simply — yeh doosre insaan ko bataata hai ki tum **khud se bhare** nahi ho।
+
+Isse tum aur bhi **likeable** bante ho — kyunki unhe lagta hai ki tum unhe **proper attention aur value** de sakte ho।
+
+---
+
+## Logon Ko Powerless Mat Feel Karao
+
+Aksar — hum **unintentionally** logon ko **powerless** feel kara dete hain।
+
+Yeh aksar tab hota hai jab ek insaan **conversation take over** kar leta hai।
+
+Jabki zyaadatar log **sunne ke liye zyaada se zyaada happy** hain — eventually woh ek aisi jagah pahunch jaate hain jahan unhe lagta hai ki conversation mein unका really **koi skin in the game nahi** hai।
+
+Woh sirf **spectator** hain — aur doosra insaan **performer** hai।
+
+**Yeh jaldi old ho jaata hai।**
+
+Chahe tum kitne bhi interesting sochte ho ki tum ho — hamesha yaad rakho ki conversations **two-way streets** hoti hain। Tum dono ko conversation **carry** karni chahiye।
+
+Bahut se cases mein — zyaadatar log aksar apni **conversation skills ka exaggerated opinion** rakhte hain।
+
+---
+
+Toh yeh statement **powerlessness ya disenfranchisement** ki kisi bhi feeling ko **reverse** kar deta hai।
+
+Tum conversation **monopolize** kar chuke ho sakte ho — lekin yeh statement jo bhi **bruised emotions ya damaged egos** involved hon unhe **heal** kar sakta hai।
+
+Agar kuch bhi ho — log **conversation ke hostages** jaisa kam feel karenge। Unhe yaad dilaya jaata hai ki tum abhi bhi conversation ko **two-way street** maante ho — **one-man show** nahi।
+
+---
+
+## Is Phrase Ke Variations 🎭
+
+Kai alag tarike hain jिनसे tum yeh phrase keh sakte ho — aur woh sab practically **same tarike** se kaam karte hain।
+
+Lekin kuch phrases kuch contexts mein **zyaada sense** banate hain।
+
+Main tumpe chhhodunga ki इन phrases ko tweak karo taaki **maximum effect** aa sake। Phir bhi — apne **overall goal** ko dhyan mein rakhna bahut important hai — logon ko **conversational spotlight** mein wapas kheenchna।
+
+---
+
+### 🗣️ "Back to you."
+
+**Simple aur straightforward।** Bilkul ek **news anchor** ki tarah — ya ek commercial ke baad unka part khatam hone par।
+
+---
+
+### 🗣️ "Sorry for interrupting — please go on."
+
+Yeh ek bahut **powerful statement** hai — kyunki isme **humility aur self-scolding** shamil hai।
+
+Koi bhi cheez tumhe doosron ke liye **zyaada human** nahi banati — jब tum apna ego check mein rakhte ho aur subtly indicate karte ho ki tum **sorry** ho — ya seedha **apologize** karte ho।
+
+---
+
+### 🗣️ "Was that what you were going to say?"
+
+Jab tum yeh phrase use karte ho — tum poochh rahe ho ki doosra insaan **same cheez soch raha tha jो tum ne abhi keh di** — aur tumne unse pehle bol diya।
+
+Tum unhe **confirm ya deny** karne ka mauka dete ho — dono mein se koi bhi ek **inevitable clarification** ke saath follow hoga।
+
+Tum essentially keh rahe ho:
+
+> *"Kya hum wahan **same page** par the?"*
+
+---
+
+### 🗣️ "I'll shut up now. What do you think?"
+
+Yeh **aur bhi zyaada self-awareness** dikhata hai।
+
+Yeh logon ko bataata है ki tum realize karte ho ki **conversational balance off** tha — aur tum ise **rectify** karna chahte ho aur unhe sunna chahte ho।
+
+Tum chahte ho ki woh **spotlight** mein hon — aur tum **audience mein baithna** chahte ho।
+
+Jab tum kehte ho — *"I'll shut up now"* — tum unhe better feel karte ho — kyunki tum **verbalize** kar rahe ho jo woh **kehna chahte hain**।
+
+---
+
+## Verbal Boomerang 🪃
+
+Upar ke phrases use karo taaki make sure ho ki conversation **wapas doosre insaan par** jaaye।
+
+Ise ek **verbal boomerang** ki tarah socho।
+
+Kisi na kisi wajah से — conversation **off track** ho gayi — aur kisi point par yeh **uncomfortable** ho gayi।
+
+Is **verbal boomerang** ko use karke — tum ensure karte ho ki conversation **wapas wahan hai jahan honi chahiye**।
+
+---
+
+**Conversation mutual level of comfort aur confidence build** karne ke baare mein hai।
+
+**Conversational balance restore karo** — aur tum sahi raah par ho।
+
+Tum yeh **group conversations** mein bhi use kar sakte ho — doosre logon ko spotlight dene aur **"wealth spread"** karne ke liye। 🎯
+
+---
+
+*— Patrick King*
