@@ -1066,3 +1066,159 @@ Sirf isliye ki tumhare paas ab apni conversations ko color karne ke liye **eleme
 ---
 
 *— Patrick King*
+
+---
+## Chapter 8: Conversation Par Boundaries Lagao
+
+---
+
+Ab tak is book mein — humne un techniques par focus kiya hai jo **directly rapport build** karne ke liye hain — un logon ke saath jo relatively **engaged aur willing** hain।
+
+Yeh techniques **dead conversations ko resurrect** karne mein bhi help karengi — aur struggle kar rahi conversations mein **nayi jaan** bhi dalengi। Lekin woh techniques sirf itni hi door tak kaam karti hain।
+
+Matlab — agar tum kisi aisa insaan se deal kar rahe ho jo **washroom jaane ki jaldi mein** ho — ya bas **ghar jaana chahta** ho — toh tumhara luck shayad kaam na aaye।
+
+Kisi aise insaan se baat karna kaafi aasaan hai jo party mein **abhi abhi aaya** ho — versus kisi aisa insaan se jo **chaar ghante** wahan reh chuka hai aur ab bas ghar jaakar **Downton Abbey** dekhna chahta hai।
+
+Yeh personal nahi hai — aur tumhari **efforts, skills, ya presentation** se koi lena-dena nahi। Woh bas **mood mein nahi** hote baat karne ke liye।
+
+**Yahan yeh chapter aata hai।**
+
+---
+
+## "Boundaries" Ka Matlab Kya Hai Yahaan?
+
+Hum conversations par **boundaries** lagaane ki baat karenge — taaki logon ko **open up** karein aur unhe tumhare liye **zyaada receptive** banao — chahe situation koi bhi ho।
+
+Generally — agar log busy hain — toh conversation shuru karna bhi mushkil hai। Yeh **"boundary" approaches** tumhe kisi ke saath bhi **quickly dialogue** shuru karne mein enable karte hain।
+
+---
+
+**"Boundaries"** word normally zyaadatar logon ke liye **negative** hota hai।
+
+Shayad tum soch rahe ho ki jo boundaries maine sochi hain woh conversation **cut off karna** ya use **kisi profound tarike se limit karna** involve karti hain।
+
+Exactly aisa nahi hai।
+
+Tum conversation **topics** par boundary nahi laga rahe — balki conversation ki **length** par aur doosre insaan ki usme **investment** par।
+
+---
+
+## Kyun Log Guard Par Rehte Hain?
+
+Aksar log conversations mein **guard par** hote hain। Woh tumse **open up nahi karte** kyunki woh busy ya tired feel kar rahe hote hain — ya sochte hain ki tumse baat karna unke liye **bahut zyaada commitment** hogi।
+
+Isliye — ek bahut common aur surprisingly effective **conversation boundary** yeh hai:
+
+> ✅ *"Mujhe 10 minute mein jaana hai, lekin…"*
+> ✅ *"Jaane se pehle bas ek choti si baat poochhhni thi…"*
+
+---
+
+Kya samajh aa raha hai ki yeh kyun kaam karta hai — logon ko zyaada **receptive aur open** banane mein — jab woh otherwise nahi hote?
+
+Log **guarded** isliye hote hain kyunki unhe nahi pata ki woh conversation enjoy karenge — aur agar nahi karenge — ya mood mein nahi hain — toh unhe kaafi **time tak ise endure** karna padega — aur jaana chahte hue bhi **walk away karne ki urge resist** karni padegi। Matlab — log nahi chahte ki woh **extended time tak annoy** hon।
+
+Lekin **thoda waqt** — jaise ek bounded conversation — koi bhi theek feel karta hai। Woh sochenge ki agar yeh conversation annoying ya unenjoyable nikli — toh kam se kam sirf **"10 minute"** ya **"ek choti si baat"** ki hi baat hai।
+
+---
+
+Bilkul — yeh assume karta hai ki cheezein buri taraf jaayengi। Tumhare saath aise nahi hoga — lekin main bas yeh describe kar raha hoon ki **conversations par boundaries lagana logon ko kyun open karta hai**।
+
+---
+
+## Pehle Se Boundary Lagao — "Out" Do Unhe
+
+Ahead of time boundaries set karke — tum doosre insaan ko ek **"out"** dete ho। Shayad woh bahut busy hon। Shayad unke paas time na ho। Shayad unmein **energy level ya motivation** nahi ho tumse kafi der tak baat karne ki।
+
+Jo bhi case ho — jab tum **pehle hi boundary set kar do** — doosra insaan zyaada likely hai yeh kehne ke liye — *"Sure, kyun nahi"* — kyunki unhe pata hai ki conversation ki **limits** hain।
+
+Tum conversation mein **tremendous ease** bhi breathe karte ho।
+
+---
+
+Apna **"boundary statement"** interaction ke **bilkul shuru mein** kaho। Yeh unki **commitment par ek restriction** establish karta hai।
+
+Unhe aate hi pata hota hai ki tumse baat karna **ghanton tak nahi khinchega**।
+
+Kisi bhi reason se — log kabhi kabhi **open nahi** hote kyunki unhe concern hoti hai ki conversation unke liye **kitni burden** hogi।
+
+Jo bhi case ho — **tumhari galti kabhi nahi** agar log boundary hone par better feel karein।
+
+---
+
+## Log Kyun Reluctant Hote Hain?
+
+Shayad woh apni **work setting mein lambi, drawn out conversations** mein phans chuke hon — jo unki productivity ke liye **fatal** thi।
+
+Shayad unki raat pehle apne **in-laws** se jhagda hua ho।
+
+Shayad office ke **braggard (shekhi baaz)** ne unhe **corner** kar liya ho — aur unhe poore **twenty minute nodding aur smiling** karni padi ho — jabki unki **coffee thandi** hoti rahi।
+
+Naturally — woh log se **engage karne mein reluctant** hote hain agar koi clearly ending time ya boundary nahi ho।
+
+---
+
+## Kyun Kuch Jagahein Easy Hoti Hain?
+
+Yahi reason hai ki kuch jagahein aisi hoti hain jahan logon se **randomly engage karna hamesha aasaan** lagta hai — jaise **fast food restaurant** ki line ya **grocery store**।
+
+Log wahan **friendly, open aur chatter ke liye tayyar** hote hain — kyunki ek bahut clearly defined, **unspoken boundary** hoti hai — jab tum cashier tak pahunchte ho aur pay karte ho — conversation khatam — bina aage continue karne ya engage karne ki koi **obligation** ke।
+
+---
+
+Tum yahi phenomenon doosri jagahon par bhi notice kar sakte ho — jahan doosron ke saath bitane wala waqt ek **tightly defined boundary** mein ho:
+
+> 🛗 Lift mein
+> 🚻 Washroom ki line mein
+> 🏃 Kisi aisi jagah kisi ko haathoon haath milna jab tum kisi appointment ke liye ja rahe ho
+
+**In waqtों mein baat karna commit karna aasaan** hota hai — kyunki yeh ek **jaani-pehchani choti commitment** hai। Dono parties ko pata hota hai ki yeh **temporary aur passing** hogi — chahe achi na nikle bhi। Toh khoone ke liye bahut kuch nahi — aur refuse karne ki koi wajah bhi nahi।
+
+---
+
+Compare karo isse kisi **café** mein kisi se engage karne ki koshish se।
+
+Unhe bilkul pata nahi ki tum **kitni der rehne ka plan** kar rahe ho — aur koi clear **escape plan** nahi hai — toh bina kisi perceived time limit ke ek **open-ended interaction** ek **bada pahaad** ban jaata hai।
+
+---
+
+## Conversation Khulne Par Kya Karo?
+
+Conversation ki shuru mein **"boundary statements"** use karke — tum unke liye tumse baat karne ki **commitment** itni zyaada aasaan bana dete ho — kyunki woh imagine kar lete hain ki yeh **brief** hogi।
+
+Ek baar jab unhe realize hota hai ki yeh conversation actually **interesting aur engaging** hone wali hai — woh **open up** karenge aur **continue** karenge।
+
+Lekin yeh sab unke **initial filter se past jaane** aur unhe apna **guard lower** karne dene ke baare mein hai।
+
+Tumhara **paon pehle se door ke andar** hai — aur yeh conversation ko **flow** karne mein enable karta hai। Tumne unke saath **ek level of comfort** establish kar li hai।
+
+Phir tum pehle boli **limiting factor** ko trigger kar sakte ho — for example — *"Mujhe 10 minute mein jaana hai"* — aur add karo — *"Baad mein isko resume karte hain।"*
+
+---
+
+## Aur Kaise Boundaries Set Karein?
+
+Kuch aur common tarike hain conversation par boundaries establish karne ke jo logon ko tumse **open up** karne mein help karenge।
+
+Hamesha ki tarah — jo tumhare liye **sense make karein** — woh best hain:
+
+> 🗣️ *"Hey, main apne doston ko dhundh raha hoon, lekin jaldi se…"*
+
+> 🗣️ *"Sorry, ek second ke liye interrupt kar raha hoon — wapas jaane se pehle…"*
+
+> 🗣️ *"Main bas yoga ke liye jaane wala hoon, lekin…"*
+
+> 🗣️ *"Main ek appointment ke liye late hoon, lekin…"*
+
+> 🗣️ *"Main yakeen nahi kar sakta shaam ke 5 baj gaye, lekin…"*
+
+---
+
+**Bas ensure karo** ki yeh saare boundary statements **plausible (believable) aur casual** lagein।
+
+Ho sakta hai kuch log phir bhi ghar jaake **donuts khaane** ko prefer karein — lekin yeh tactic tumhein logon ki **naturally ignore karne ya avoid karke jaane ki instinct ko bypass** karne ki allow karegi। 🎯
+
+---
+
+*— Patrick King*
