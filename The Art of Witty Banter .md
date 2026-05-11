@@ -579,7 +579,7 @@ Mere liye woh hain:
 
 ---
 
-## Practice Kaise Karein?
+### Practice Kaise Karein?
 
 Bilkul — sabse accha tarika yeh hai ki jab tum actually conversation mein ho tab pehli baar try mat karo। **Ek hafte ke dauran kai baar consciously free association practice karo।** Jitna zyaada karoge — utna zyaada better hote jaoge।
 
@@ -641,7 +641,7 @@ Yeh ek aisi **self-referential comment** hoti hai — jo khud apne baare mein ba
 
 ---
 
-## Conversation Mein Yeh Kaise Apply Hota Hai?
+### Conversation Mein Yeh Kaise Apply Hota Hai?
 
 Socho ki tumhari conversation ek **TV show** hai jismein tum dono characters ho aur apni lines ek script se padh rahe ho।
 
@@ -657,7 +657,7 @@ Tum conversation ki **fourth wall** tod rahe ho — **conversation par hi commen
 
 ---
 
-## Sahi Tarike Se Kaise Karein?
+### Sahi Tarike Se Kaise Karein?
 
 **Fourth wall todna ek aise comment** hai jo conversation par hi hoti hai — aur yeh **observational** hoti hai।
 
@@ -795,7 +795,7 @@ Aur chahe woh agree karein ya na karein — woh **agree karne aur tumhare in-gro
 
 ---
 
-## Inside Joke Bana Lo
+### Inside Joke Bana Lo
 
 Isse ek aur tarike se socho — tumne apna ek **inside joke** create kar liya।
 
@@ -805,7 +805,7 @@ Jab tum truly ek **in-group** ke hissa hote ho jismein sirf do log hain — tumh
 
 ---
 
-## Miss Mat Karo
+### Miss Mat Karo
 
 Jaise tum dekh sakte ho — **"us against the world"** technique use karna **subtle aur easy** ho sakta hai। Lekin iska **mark miss karna** bhi utna hi aasaan hai।
 
@@ -842,7 +842,7 @@ Generally — tum **3 cheezein observe** karna chahte ho:
 
 ---
 
-## Yeh Psychologically Kyon Kaam Karta Hai?
+### Yeh Psychologically Kyon Kaam Karta Hai?
 
 Jab tum **"us vs. the world"** conversation technique use karte ho — yeh tumhe us insaan ke saath jo **similarities** ho sakti hain unhe draw out karne deta hai jisse tum baat kar rahe ho।
 
@@ -927,7 +927,7 @@ Kya tum conversation ya social event ko kuch aisa maante ho jiske liye **activel
 
 ---
 
-## Conversation Ko Interview Ki Tarah Dekho
+### Conversation Ko Interview Ki Tarah Dekho
 
 Conversations ko kuch aise socho jiske liye tum exactly waise hi prepare kar sako jaise ek **job interview** ke liye।
 
@@ -945,7 +945,7 @@ Jab tumhare paas yeh Conversation Resume hoga — tumhare paas apne baare mein *
 
 ---
 
-## Conversation Resume Social Confidence Bhi Badhata Hai
+### Conversation Resume Social Confidence Bhi Badhata Hai
 
 **Thodi si predictability** confidence bahut zyaada badhati hai।
 
@@ -993,7 +993,7 @@ Conversation Resume ke saath conversation mein aake — tum **pick and choose** 
 
 ---
 
-## Conversation Resume Ki Ingredients
+### Conversation Resume Ki Ingredients
 
 Toh exactly kya jaata hai ek Conversation Resume mein?
 
@@ -1183,7 +1183,7 @@ Unhe bilkul pata nahi ki tum **kitni der rehne ka plan** kar rahe ho — aur koi
 
 ---
 
-## Conversation Khulne Par Kya Karo?
+### Conversation Khulne Par Kya Karo?
 
 Conversation ki shuru mein **"boundary statements"** use karke — tum unke liye tumse baat karne ki **commitment** itni zyaada aasaan bana dete ho — kyunki woh imagine kar lete hain ki yeh **brief** hogi।
 
@@ -1892,7 +1892,7 @@ Tumhare saath kuch experiences share ho sakte hain — lekin woh sirf tumhari zi
 
 ---
 
-## Curiosity Se Ek Kadam Aage Jao
+### Curiosity Se Ek Kadam Aage Jao
 
 Curiosity doosron ke towards ek aisa **approach** hai jo tumhe unke liye zyaada **receptive** banata hai।
 
@@ -2263,6 +2263,291 @@ Is **verbal boomerang** ko use karke — tum ensure karte ho ki conversation **w
 **Conversational balance restore karo** — aur tum sahi raah par ho।
 
 Tum yeh **group conversations** mein bhi use kar sakte ho — doosre logon ko spotlight dene aur **"wealth spread"** karne ke liye। 🎯
+
+---
+
+*— Patrick King*
+
+---
+## Chapter 14: Zyaada Effective Compliments Kaise Do
+
+---
+
+**Compliments** tumhari conversations ko lambi chala sakte hain — aur tumhe kisi ki **attention aur affection** ka center bana sakte hain।
+
+Problem yeh hai ki tumhe pata hona chahiye ki inhe **properly kaise use karein**।
+
+---
+
+Mujhe ek baar yaad hai jab main **baccha** tha — ek substitute teacher ne meri **hair aur aankhon** ke baare mein compliment kiya — conversation shuru karne ke liye।
+
+Mujhe woh isliye yaad hai kyunki yeh clearly tha ki substitute **mujhpar good impression** banana chahti thi — toh jab bhi woh mujhe dekhti — **same cheezein** baar baar compliment kiya karti।
+
+Jab bhi main **recess** se room mein aata — jab bhi main **subah class mein** aata — jab bhi main **washroom** se wapas aata — yahan tak ki **bachche** hote hue bhi mujhe pata chal gaya tha ki kuch **ajeeb** hai।
+
+---
+
+Dukhki baat hai — bahut log sochte hain ki compliments **candy** ki tarah hoti hain।
+
+Woh believe karte hain ki jितनी zyaada **candy** denge — utna zyaada doosre log unhe **pasand karenge**।
+
+Yeh tab tak theek lagta hai — jab tak **inevitable sugar rush crash ya cavity** na aa jaaye। **Zyaada hamesha better nahi hota।**
+
+---
+
+Kaagaz par — compliments **great cheezein** hoti hain — lekin agar tum inhe **galat tarike** se use karo — ya **galat context** mein — jo bhi achaai yeh produce kar sakti hain woh **toilet mein flush** ho jaati hai।
+
+Us substitute teacher ne jo bhi **goodwill** mujhse thi — woh turant flush kar di — kyunki itna zyaada compliment kiya jaana **unnatural aur forced** feel hota tha।
+
+---
+
+Compliments ko universally **acchi cheezein** maana jaata hai — lekin kabhi kabhi yeh tumhe **untrustworthy ya flatterer** jaisa dikh sakta hai।
+
+Jaise main is book mein aksar kehta hoon — tumhara **main objective** yeh ensure karna है ki tum dono ek **mutual comfort aur confidence** develop karo। Ek **ham-fisted (buri tarah ki) compliment** woh effect create karne mein help nahi karti।
+
+---
+
+Aakhri baar kab kisine tumhe **compliment** kiya? Compliment sunne par tumne kya feel kiya?
+
+Yeh **accha lagta** hai jab bola jaaye ki tum kuch **sahi kar rahe ho** — ya tumhari koi **redeeming value** hai।
+
+Log **validated aur appreciated** feel karna chahte hain। **Compliments dena** in feelings produce karne mein bahut aage tak kaam kar sakta hai।
+
+Conversations mein — compliments ek **positivity ka atmosphere** create karti hain — jo logon ki tumhare saath overall **comfort level** badha sakta hai।
+
+Ek properly diya gaya compliment doosron ki nazron mein tumhe **accha dikhane** mein bahut aage tak kaam kar sakta hai।
+
+---
+
+## Brain Chemistry — Science Bhi Yahi Kehti Hai 🧠
+
+Yeh sirf tumhare dimaag mein nahi hota।
+
+Tum ek khaas tarike se **breathe** karne lagte ho। Tumhara **blood ek khaas tarike se pump** karne lagta hai।
+
+Tumhari **emotional state aur physical response** ke beech ek **correlation** hai।
+
+**Reverse bhi sach** hai। Jab koi tumse **positive cheez** kehta hai — tumhara brain **neurotransmitters** produce karta hai jo **well-being aur khushi** ke sense ke saath associated hoti hain।
+
+---
+
+Agar — example ke liye — tumhare koi dost hamesha tumhe compliment kare aur tumhe khud ke baare mein **better feel** karaaye — toh tum probably us insaan se milne ke liye **look forward** karne lagte ho।
+
+Shayad tum usse **finger** na kar pao — lekin tum bas us insaan ke **aas paas** rehna chahte ho।
+
+Eventually — yeh **positive conditioning** kuch hад tak **addictive** ban jaati है।
+
+Jab tum aaise logon ke aas paas hote ho jo tumhe hamesha **accha feel** karaate hain — tum unके aas paas **zyaada frequently** rehna chahte ho।
+
+**Doosri taraf bhi sach** hai — agar tum aaise logon se milte ho jo predictably **negative** hain aur tumhe mentally aur emotionally **bure jagah** mein daalne wale hain — tumhari tendency unse **bhaagna** hoti है।
+
+Yeh koi surprise nahi ki log naturally **compliments ki taraf drawn** hote hain। Woh **psychological candy** hoti hain।
+
+---
+
+## Reciprocity — Ek Fundamental Rule 🤝
+
+**Likability aur charisma** ke fundamental rules mein se ek hai — **reciprocity** ka concept।
+
+Simply rakha jaaye — hum un logon ke saath **kind** hote hain jo pehle **hamare saath kind** hote hain।
+
+Rarely tum koi aisa dekhoge jo **bahut negatively react** kare jab koi unhe gift de — ya unke wounds dress kare — ya unhe otherwise help kare।
+
+Yeh almost **universal trait** hai।
+
+Reciprocity kaam mein aa jaati hai — jab tum kisi ko **compliment** karte ho — woh **accha feel** karte hain — aur woh tumhare **positive act** se benefited feel karte hain।
+
+Woh phir apne **positive act** ke badle tumhe **wapas compliment** karne ka mauka dhundhenge।
+
+Yeh ek **pleasant interaction** create karta hai — aur tumhare ek doosre ke saath **comfort level** badhata hai।
+
+---
+
+## Sahi Tarike Se Compliment Kaise Karein ✅
+
+Theek hai — maine tumse compliments ke **exact underpinnings** ke baare mein baat ki hai — ki woh kyun effective hain aur **witty hone** ka hissa hain।
+
+Complimenting ke benefits mein **caught up** ho jaana aasaan hai — aur yeh assume kar lena ki sirf isliye ki tum compliment karte ho — log automatically samjh jaayenge।
+
+Tum end up feel karte ho ki tumhara jo compliment tum dete ho — uska koi **"return" tumhe milna chahiye**।
+
+Aisa nahi hota — jaise meri substitute teacher ne seekha।
+
+---
+
+Tumhe **sahi tarike** se compliment karna hoga — warna tumhare compliments **best case mein flat fall** karenge — aur **worst case mein disingenuous** lagenge।
+
+Logon ko apni guard neeche karne ki jagah — log tumhare **motives ke baare mein suspicious ya skeptical** ho jaayenge।
+
+Tum exactly **ulta effect** produce kar doge jo tumhara intention tha।
+
+---
+
+## Pehli Cheez: Kya Compliment Karein?
+
+**Pehli cheez** jo tumhe focus karni hai — woh yeh hai ki doosre logon ko **kya compliment** karo।
+
+Tumhe aisi cheezein choose karni hain jinhe compliment karne ka **sabse bada impact** hoga।
+
+Doosre words mein — woh koi aisi cheez honi chahiye jिसकी unhe **actually parwah** ho।
+
+Tumhara compliment **genuine se kam** lagega — aur tum yeh impression doge ki tum **fake ya manipulative** ho।
+
+---
+
+Yeh **pehla rule of thumb** hai।
+
+Tum chahte ho ki tumhare compliments का **maximum effect** ho।
+
+Tum chahte ho ki woh logon ko **sahi tarike** se affect karein।
+
+---
+
+## 2 Key Areas Jinhe Compliment Karein
+
+### ✅ Area 1: Woh Cheezein Jinpar Logo Ka Control Hai — Aur Jinke Baare Mein Unhonne Choices Ki Hain
+
+Tumhe logon ko un cheezoon par compliment karna chahiye jisko woh **control** kar sakte hain — jaise unki **clothing, fashion style, hairstyle, aur living space**।
+
+Yeh sirf **superficial, material cheezein** lagti hain — lekin yeh **personal aur impactful** bhi hain।
+
+**Kyun?**
+
+Kyunki yeh cheezein **reflect** karti hain ki woh kaun hain aur unhonne kya kiya hai।
+
+Jabki unhe kisi aisi cheez par compliment dena jिस par unka **koi control nahi** — jaise unki **eye color** — woh aisa nahi karta।
+
+---
+
+Us insaan ka jin cheezoon par maine list kiya — unpar **actual control** hai — aur unhonne ek **choice ki hai**।
+
+Unhonne apna **personal fashion style, haircut**, aur **ghar ya flat decorate karne ka tarika** choose kiya hai।
+
+Yeh cheezein ek insaan ki **tastes aur values** reflect karti hain।
+
+---
+
+Example ke liye — **wardrobe** lo। Log ek khaas tarike se is liye karte hain kyunki unki **definite values** hoti hain। Woh kaise dress karte hain — yeh unki **habits** aur unhe duniya mein **kaise dekha jaana chahte hain** woh bhi reflect karta hai।
+
+**Aisi cheezein choose karo jinpar unhonne clearly kuch socha ho।**
+
+Isme shamil ho sakta hai — ek **bright shirt, ek distinctive handbag, ek unusual piece of art, ya ek vintage car**।
+
+Yeh woh cheezein hain jo **ordinary se bahar, uncommon** hain — aur jo **norm se ek deliberate deviation** reflect karti hain।
+
+---
+
+Yeh compliments effective isliye hain kyunki aisi **personal statements** hi woh cheezein hain jo insaan ko **unique feel** karaati hain।
+
+Example ke liye — agar main **Hawaiian shirts** prefer karta hoon। Main hamesha ek pehen kar aata hoon।
+
+Main clearly **Hawaiian shirts** ko bahut zyaada pasand karta hoon — aur kisi tarah — kisi wajah se — mujhe lagta hai ki yeh mujhe **bheed se alag** dikhate hain।
+
+Agar mujhe mere **Hawaiian shirts** par compliment mila — toh yeh sirf confirmation hai ki doosre bhi meri **soch samajhte hain** — aur mujhe bhi **unique aur interesting** dekhte hain।
+
+---
+
+Doosre words mein — meri bahut saari **persona aur personhood** is fact mein ingrained hai ki main yeh type की shirts wear karna choose karta hoon।
+
+Kisi ko clearly kisi **chosen cheez** par compliment deke — tum **acknowledge aur validate** karte ho woh statement jo unhonne khud ke baare mein choose ki hai।
+
+Tum apnay raaste se bahar jaate ho taaki unhe **special feel** karao।
+
+---
+
+**Kaise distinguish karo** yeh cheezein pehle class se?
+
+Un **time aur effort** par focus karo jo normally in decisions mein involve hota hai।
+
+Kisi ki **political position** aisi cheez nahi jo woh **lightly** le। Woh kuch aisi cheez hai jिसे develop karne mein probably bahut **waqt aur consideration** laga।
+
+Aksar unki political position unki **experience ka product** hoti है।
+
+---
+
+Jab tum aisi cheezoon ko compliment karte ho jo **individual choices** reflect karti hain — tumhara compliment bahut **impact** kर sakta hai।
+
+Doosri cheezein jin par tum logon ko compliment kar sakte ho — unke **manners, kisi ideas ko phrase karne ka tarika, unki opinions, unka worldview, aur unka perspective** hain।
+
+Tum essentially keh rahe ho:
+
+> *"Main un choices se **agree** karta hoon jo tumne ki hain — aur main tumhari **soch samajhta** hoon!"*
+
+---
+
+Iska ulta hoga kisi ko aisi cheez par compliment karna jispar unka **zero control** ho — jaise unki **height**।
+
+Sunne mein accha lagta hai — lekin ultimately yeh kehne jaisa hai:
+
+> *"Hey, genes mein lucky hone ke liye well done!"*
+
+Jo bahut **impact** nahi karta।
+
+---
+
+**Kyun?**
+
+Agar tum kisi ko kisi **physical feature** — jaise unki **aankhon** par compliment karo — woh bas kuch aisa hai jo unhonne **inherit** kiya — woh kuch aisa nahi जो unke control mein tha।
+
+Jab tak tum unki **eyelash extensions ya eyebrows ki shape** ke baare mein compliment na karo — jo bilkul effort se achieve hota hai — woh compliment itna aage tak nahi jaata।
+
+---
+
+Zyaada likely hai ki unhonne pehle bhi kisi ko unki **aankhon** ke liye compliment hote suna ho — toh agar unhe khud unki aankhon ke baare mein compliment mila — woh **particularly special** feel nahi karenge।
+
+Aur — agar unki aankhein sach mein **notable** hain — toh unhonne shayad khud bhi yeh **hazaar baar** suna hoga — toh tumne **kuch alag** offer nahi kiya।
+
+---
+
+Tumhare compliments ko kisi aisi cheez par **zero in** karna chahiye jo **validation ka ek measure** provide kare।
+
+Ek **unusual hairstyle** jo unhe **special aur unique** feel karaaye।
+
+Apna compliment wahan direct karte hue — tum unke **self-perceived sense of how special woh hain** — use highlight karte ho।
+
+---
+
+Jab tum kisi ki **aankhon** ya kisi feature ko compliment karo jo woh **control nahi kar sakte** — jaise unki height — toh yeh **generic** lagta है — kyunki is planet par **bahut saare log** hain jinki bright good-looking aankhein hain।
+
+Yeh **special nahi** — unhonne yeh pehle suna hai — aur tum conceivably yahi compliment **50 logon ko** us din de sakte ho।
+
+Iska koi **ownership** nahi।
+
+---
+
+Isi tarah — bahut saare log **tall** hote hain।
+
+*"Tum itne tall ho — yeh great hai!"* — kehne ka kisi ke liye actually kya matlab hai?
+
+Agar kisi ke **do haath aur do paer** hain — toh woh koi bada compliment nahi।
+
+Usi tarah — agar koi clearly **workout** karta hai aur achanak **tighter t-shirts** pehna shuru kar deta hai — woh unके liye **tremendous source of pride** ho sakta है।
+
+**Kyun?**
+
+Unhone bahut **mehnat** ki। Unhone apna normal physique **beer belly se cut aur well-defined** mein badal diya।
+
+Unhone woh physique achieve karne ke liye ek **proactive, deliberate attempt** ki hai — unhe **parwah** hai।
+
+---
+
+## Dhyan Do Ki Tum Kya Compliment Karte Ho 👀
+
+Agar tum sach mein apne compliment ka **effect aur impact maximize** karna chahte ho — yeh sab **observant hone** se shuru hota hai doosron ke baare mein।
+
+**Dhyan do** ki tum kaise sochte ho ki woh **kaise perceived hona chahte hain** — kyunki yeh tumhe unki **insecurities** mein kuch insight dega — aur tum un areas mein unका **confidence build** karne ke liye apne compliments use kar sakte ho।
+
+---
+
+Agar koi constantly **gym jaata** hai aur fitness ko apni **lifestyle** ka bada hissa banata hai — toh yeh practically certain है ki woh **fit, active, aur health mein invested** perceive hona chahte hain।
+
+**Ek compliment ke saath use call out karo।**
+
+---
+
+Woh cheezoon par compliment dena jisme insaan ne **great effort** dala hai — **huge dividends** dega।
+
+**Yeh formula clockwork ki tarah pay off karta hai।** 🎯
 
 ---
 
