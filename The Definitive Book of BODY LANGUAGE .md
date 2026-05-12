@@ -408,3 +408,388 @@ Body-language signals padhna seekhna na sirf aapko is baare mein zyada aware ban
 Humne ab ek naye tarah ke social scientist ka uday dekha hai—Body Language Watcher. Jaise birdwatcher ko pakshiyon aur unke behavior ko dekhna pasand hai, waise hi Body Language Watcher insaanon ke nonverbal cues aur signals ko dekh kar khush hota hai. Wo unhe social functions par, beaches par, television par, office mein, ya kahin bhi jahan log interact karte hain, dekhta hai. Wo behavior ka ek student hai jo apne साथी insaanon ke actions ke baare mein seekhna chahta hai taaki wo aakhirkaar apne baare mein aur seekh sake aur kaise wo doosron ke saath apne relationships improve kar sakta hai.
 
 **Ek observer aur ek stalker ke beech kya farq hai? Ek clipboard aur ek pen.**
+
+---
+# The Definitive Book of Body Language
+
+## Chapter 2: THE POWER IS IN YOUR HANDS (Taqat Aapke Haathon Mein Hai)
+
+---
+
+### How the Palms and Handshakes Are Used to Control (Hatheliyan aur Handshakes kaise Control ke liye use hote hain)
+
+Purane zamane mein, khuli hatheliyan (open palms) ye dikhane ke liye use ki jati thi ki koi hathiyar chhupaya nahi gaya hai.
+
+
+Adam ka apni nayi PR company mein kaam ka pehla din tha aur wo sab par ek achha impression jamana chahta tha. Jaise-jaise uska introduction ek ke baad ek colleagues se karwaya gaya, usne bade utsah (enthusiasm) ke saath unse haath milaya aur sabko ek badi smile di. Adam ki height cheh foot teen inch thi, wo dikhne mein achha tha, achhe kapde pehne hue tha, aur bilkul ek successful PR mard lag raha tha. Wo hamesha ek mazboot (firm) handshake deta tha, bilkul waise hi jaise uske pita ne use bachpan mein sikhaya tha. Itna mazboot, ki asal mein do female colleagues ki ring fingers se khoon nikal aaya aur kayi doosron ko chot mehsoos hui. Doosre mardon ne Adam ke handshake se compete kiya—mard aisa hi karte hain. Lekin, auraton ne chupchap dard saha aur jaldi hi wo fusfusane lagi, "Us naye ladke Adam se door raho—wo toh bruiser (chot pahunchane wala) hai!" Mardon ne kabhi ye baat nahi uthayi—lekin auraton ne bas Adam ko avoid karna shuru kar diya. Aur us firm ke aadhe bosses auratein thi.
+
+Yahan ek kaam ki baat (handy thought) hai—chahe aap **heavy-handed** hon ya **high-handed**, kisi **sleight of hand** (haath ki safai) mein involve hon taaki **hand-to-mouth** (guzara karna) wali zindagi se bach sakein, aapko kabhi na kabhi **upper hand** paane ke liye apna **hand show** (patte kholna) karna hi padega. Kahin **red-handed** na pakde jayein, ya kisi galti se apne **haath dhone** (wash hands) ki koshish na karein, kyunki agar aap us haath ko kaat-te hain jo aapko khilata hai (**bite the hand that feeds you**), toh cheezein **haath se nikal** (out of hand) sakti hain.
+
+Evolution mein haath sabse zaroori tools rahe hain aur dimaag aur haathon ke beech sharir ke kisi bhi doosre hisse ke muqable zyada connections hote hain. Bahut kam log kabhi is baat par dhyan dete hain ki unke haath kaise behave karte hain ya jab wo kisi se milte hain toh kis tarah haath milate hain. Phir bhi wo pehle paanch se saat pumps ye tai kar dete hain ki dominance (dabda), submission (jhukna), ya power plays honge ya nahi.
+
+Poore itihaas mein, khuli hatheli (open palm) ko sachai, honesty, wafadari aur submission se joda gaya hai. Kayi kasamein (oaths) abhi bhi dil par hatheli rakh kar li jati hain, aur court mein gawahi dete waqt hatheli hawa mein rakhi jati hai; Bible ko left haath mein pakda jata hai aur right hatheli court ke members ke dekhne ke liye upar rakhi jati hai.
+
+Kisi insaan ke open aur honest hone—ya na hone—ka pata lagane ke liye sabse keemti clues mein se ek hai unke palm displays ko dekhna. Jis tarah ek kutta jeetne wale ke samne submission ya surrender dikhane ke liye apna gala (throat) khol deta hai, humans apne haathon ka use ye dikhane ke liye karte hain ki wo nihatthe (unarmed) hain aur isliye koi khatra nahi hain.
+
+Submissive kutte apna gala dikhate hain. Humans apni hatheliyan dikhate hain.
+
+---
+
+### How to Detect Openness (Khulepan ka pata kaise lagayein)
+
+Jab log open ya honest hona chahte hain, toh wo aksar apni ek ya dono hatheliyan doosre insaan ki taraf nikalte hain aur kuch aisa kehte hain, "Maine ye nahi kiya!" ya "Agar maine aapko pareshan kiya toh mujhe dukh hai" ya "Main aapko sach bol raha hoon."
+
+Jab koi khulna shuru karta hai ya sach bolta hai, toh wo apni hatheliyan poori ya thodi si doosre insaan ke samne expose karega. Zyada-tar body language signals ki tarah, ye bhi ek poori tarah se unconscious gesture hai, jo aapko ek "intuitive" feeling ya andesha deta hai ki samne wala sach bol raha hai.
+
+Hatheliyan har jagah deliberately open aur honest approach jatane ke liye use ki jati hain.
+
+Jab bachche jhoot bol rahe hote hain ya kuch chhupa rahe hote hain, toh wo aksar apni hatheliyan apni peeth ke peechhe chhupa lete hain. Usi tarah, ek mard jo doston ke saath raat bitane ke baad apna pata-thikana chhupana chahta hai, wo apni hatheliyan pockets mein chhupa sakta hai, ya haath baandh (arms-crossed) sakta hai, jab wo apni partner ko samjhane ki koshish karta hai ki wo kahan tha. Halanki, chhupi hui hatheliyan use ek intuitive feeling de sakti hain ki wo sach nahi bol raha hai. Ek aurat jo kuch chhupane ki koshish kar rahi hai, wo subject ko avoid karegi ya kayi unrelated topics par baat karegi jabki wo saath mein doosre kaam bhi kar rahi hogi.
+
+**Jab mard jhoot bolte hain, toh unki body language obvious ho sakti hai. Auratein jhoot bolte waqt busy dikhna pasand karti hain.**
+
+Salespeople ko sikhaya jata hai ki wo customer ki exposed palms ko dekhein jab wo reasons ya objections dete hain ki wo product kyun nahi khareed sakte, kyunki jab koi valid reasons de raha hota hai, toh wo mukhya roop se apni hatheliyan dikhate hain. Jab log apne reasons samjhane mein open hote hain, toh wo apne haathon ka use karte hain aur hatheliyan dikhate hain, jabki jo sach nahi bol raha hota, wo verbal responses toh wahi dega par apne haath chhupa lega.
+
+Apne haath pockets mein rakhna un mardon ka manpasand tarika hai jo conversation mein participate nahi karna chahte. Hatheliyan asal mein body language ki vocal cords ki tarah thi kyunki wo sharir ke kisi bhi doosre hisse se zyada "baat" karti thi aur unhe band karna mooh band rakhne jaisa tha.
+
+---
+
+### Intentional Use of the Palms to Deceive (Dhokha dene ke liye hatheliyon ka jaan-boojhkar use)
+
+Kuch log puchte hain, "Agar main jhoot bolun aur apni hatheliyan dikhata rahun, toh kya log mujh par yakeen karenge?" Iska jawab haan bhi hai aur nahi bhi. Agar aap apni hatheliyan dikhate huye saaf jhoot bolte hain, toh bhi aap apne listeners ko insincere lag sakte hain kyunki honesty dikhate waqt jo doosre gestures hone chahiye wo absent hote hain aur jhoot bolte waqt ke negative gestures samne aayenge jo open palms ke saath mel nahi khayenge (**incongruent**).
+
+Con artists aur professional liars wo log hote hain jinhone apne nonverbal signals ko apne verbal jhoot ke saath complement karne ki special art develop kar li hai. Professional con artist jhoot bolte waqt jitni effectively honesty ki body language use kar sakta hai, wo apne kaam mein utna hi achha hota hai.
+
+---
+
+### The Law of Cause and Effect (Karan aur Prabhav ka Niyam)
+
+Halanki, doosron se communicate karte waqt Open-Palm gestures ki practice karke zyada open aur credible dikhna possible hai. Dilchasp baat ye hai ki, jaise-jaise Open-Palm gestures aadat ban jate hain, jhoot bolne ki tendency kam ho jati hai. Zyada-tar logon ko apni hatheliyan expose karke jhoot bolne mein mushkil hoti hai kyunki **law of cause and effect** kaam karta hai. Agar koi insaan open hai, toh wo apni hatheliyan dikhayega, par sirf hatheliyan dikhane se hi us insaan ke liye ek convincing jhoot bolna mushkil ho jata hai.
+
+Iska karan ye hai ki gestures aur emotions ek doosre se directly jude huye hain. Agar aap defensive feel karte hain, toh chances hain ki aap apne seene par haath baandh lenge. Lekin agar aap bas apne haath baandh lete hain, toh aap defensive feelings experience karna shuru kar denge. Aur agar aap apni hatheliyan dikha kar baat kar rahe hain, toh ye doosre insaan par bhi sach bolne ka zyada pressure daalta hai. Doosre shabdon mein, open palms doosron dwara di jane wali galat information ko dabane mein madad kar sakti hain aur unhe aapke saath zyada open hone ke liye encourage karti hain.
+
+---
+
+### Palm Power (Hatheli ki Taqat)
+
+Sabse kam notice kiya jane wala, par sabse powerful body signals mein se ek insaani hatheli dwara diya jata hai jab kisi ko directions ya commands diye jate hain aur handshaking mein. Jab ek khaas tarike se use kiya jata hai, toh Palm Power uske user ko ek silent authority (khamosh adhikar) ki taqat deti hai.
+
+Teen main palm command gestures hain: **Palm-Up** position, **Palm-Down** position, aur **Palm-Closed-Finger-Pointed** position. In teeno positions ke beech ke farq ko is example se samjhte hain: maan lijiye aap kisi se koi cheez uthane aur use doosri jagah le jane ke liye kehte hain. Hum maan lenge ki aap har example mein wahi tone of voice, wahi shabd aur facial expressions use karte hain, aur aap sirf apni hatheli ki position badalte hain.
+
+1.  **Palm-Up (Hatheli Upar):**
+    Upar ki taraf face karti hui hatheli ek submissive, nonthreatening gesture ki tarah use ki jati hai, jo sadak ke bhikhari ke gidgidane wale gesture ki yaad dilati hai aur, evolutionary perspective se, ye dikhati hai ki insaan ke paas koi hathiyar nahi hai. Jis insaan se wo item move karne ko kaha gaya hai, wo use koi pressure mehsoos nahi hoga aur wo aapki request se khatra (threatened) feel nahi karega. Agar aap chahte hain ki koi baat kare, toh aap Palm-Up ko ek "handover" gesture ki tarah use kar sakte hain ye jatane ke liye ki aap unse bolne ki umeed karte hain aur aap sunne ke liye taiyar hain.
+
+        **Palm-Up = nonthreatening**
+
+2.  **Palm-Down (Hatheli Neeche):**
+    Jab hatheli neeche ki taraf face karti hai, toh aap turant authority project karte hain. Doosre insaan ko aisa lagega ki aapne unhe wo item move karne ka order diya hai aur wo aapke prati antagonistic (virodhi) mehsoos kar sakta hai, ye is baat par nirbhar karta hai ki aapka unke saath rishta kaisa hai ya work environment mein aapki position kya hai.
+
+        **Palm-Down = authority**
+
+    Apni hatheli ko upar se neeche ki taraf modne se poori tarah se badal jata hai ki doosre aapko kaise perceive karte hain. Example ke liye, agar doosra insaan equal status ka hai, toh wo Palm-Down request ko resist kar sakta hai aur agar aapne Palm-Up position use ki hoti toh uske manne ke chances zyada hote. Agar wo insaan aapka subordinate hai, toh Palm-Down gesture acceptable mana jata hai kyunki aapke paas use use karne ki authority hai.
+
+    Nazi salute mein hatheli sidhi neeche ki taraf face karti thi aur ye Third Reich ke dauran power aur tyranny (atyachar) ka symbol tha. Agar Adolf Hitler ne apne salute mein Palm-Up position use ki hoti, toh koi use seriously nahi leta—wo hasne lagte.
+
+3.  **Palm-Closed-Finger-Pointed (Band Hatheli-Ungli Pointed):**
+    Ye ek mutthi (fist) hai jahan pointed finger ka use ek symbolic club ki tarah kiya jata hai jisse speaker apne listeners ko submission ke liye maarta hai. Subconsciously, ye doosron mein negative feelings paida karta hai kyunki ye ek right overarm blow se pehle hota hai, jo ek primal move hai jo zyada-tar primates physical attack mein use karte hain.
+
+        **Pointing finger = "Do it or else!"**
+
+    Palm-Closed-Finger-Pointed gesture kisi ke bhi dwara bolte waqt use kiya jane wala sabse annoying gestures mein se ek hai, khaaskar tab jab ye speaker ke shabdon ke saath tal deta hai. Malaysia aur Philippines jaise kuch countries mein, kisi insaan par ungli uthana (finger-pointing) ek insult hai, kyunki ye gesture sirf janwaron ki taraf point karne ke liye use hota hai. Malaysians logon ki taraf ishara karne ya rasta dikhane ke liye apne angoothe (thumb) ka use karte hain.
+
+---
+
+### Our Audience Experiment (Hamara Audience Experiment)
+
+Humne aath lecturers ke saath ek experiment kiya jinse kaha gaya ki wo alag-alag audiences ko di jane wali das-minute ki talks ke dauran in teeno hand gestures ka use karein aur baad mein humne participants ke attitudes ko record kiya.
+
+Humne paya ki jin lecturers ne mukhya roop se **Palm-Up** position use ki thi, unhe participants se **84 percent** positive testimonials mile, jo gir kar **52 percent** ho gaye jab unhone wahi presentation doosri audience ko di mukhya roop se **Palm-Down** position use karke. **Finger-Pointed** position ne sirf **28 percent** positive response record kiya aur kuch participants lecture ke beech mein hi bahar nikal gaye the.
+
+Ungli uthana (finger-pointing) na sirf listeners se sabse kam positive responses laya, balki wo speaker dwara kahi gayi baaton ko kam yaad rakh paye. Agar aap ek aadat se finger-pointer hain, toh Palm-Up aur Palm-Down positions ki practice karein aur aap payenge ki aap ek zyada relaxed mahol create kar sakte hain aur doosron par ek zyada positive effect daal sakte hain.
+
+Alternatively, agar aap apni ungliyon ko angoothe (thumb) ke saath daba kar ek **OK type** ka gesture banate hain aur is position mein baat karte hain, toh aap authoritative lagenge, par aggressive nahi. Humne ye gesture speakers, politicians aur business leaders ke groups ko sikhaya aur audience ke reactions measure kiye. Jin audiences ne Fingertip-Touch gestures use karne wale speakers ko suna, unhone un speakers ko "thoughtful," "goal-oriented" aur "focused" bataya.
+
+Ungli uthane wale speakers ko "aggressive," "belligerent" aur "rude" kaha gaya aur unki audience mein information retention ka level sabse kam raha. Jab speaker ne sidha audience ki taraf ungli uthayi, toh delegates uske content ko sunne ke bajaye speaker ke baare mein personal judgments banane mein lag gaye.
+
+---
+
+### An Analysis of Handshake Styles (Handshake Styles ka Analysis)
+
+Haath milana (shaking hands) hamare purane ateet (ancient past) ki ek nishani hai. Jab bhi primitive tribes friendly halaton mein milte the, wo apne haath bahar nikalte the aur hatheliyan dikhate the ye jatane ke liye ki koi hathiyar nahi pakda gaya ya chhupaya gaya hai. Roman times mein, aasteen (sleeve) mein ek chhupa hua khanjar (dagger) le jana common tha, isliye protection ke liye Romans ne **Lower-Arm-Grasp** ko ek common greeting ke taur par develop kiya.
+
+
+Is purane greeting ritual ka modern form hai hatheliyon ko interlock karna aur hilana, aur ye mukhya roop se nineteenth century mein equal status ke mardon ke beech commercial transactions (vyapaar ke saude) ko pakka karne ke liye use kiya jata tha. Ye pichle sau saalon mein hi itna widespread hua hai aur haal hi tak ye sirf mardon tak hi seemit raha hai. Aaj zyada-tar Western aur European countries mein ye business contexts mein milne aur jane dono waqt kiya jata hai, aur ab parties aur social events mein mard aur auratein dono iska use karte hain.
+
+**Handshake mardon ke liye ek commercial deal cement karne ke tarike ke taur par evolve hua.**
+
+Yahan tak ki Japan jaise jagahon par, jahan jhukna (bowing) traditional greeting hai, aur Thailand mein, jahan wo **Wai** (ek aisa gesture jo prarthana jaisa dikhta hai) use karte hain, wahan bhi ab modern handshake kafi dikhne laga hai. Zyada-tar jagahon par, haath ko paanch se saat baar pump kiya jata hai, par kuch countries mein, jaise Germany, wo do ya teen baar pump karte hain aur saath mein do pumps ke barabar haath pakad kar rakhte hain. French log sabse bade glad-handers hain, wo milne aur jane dono par haath milate hain aur din ka ek bada hissa haath milane mein bitate hain.
+
+---
+
+### Who Should Reach First? (Pehle haath kaun badhaye?)
+
+Bhale hi pehli baar milte waqt haath milana ek general custom hai, par kuch halat aise ho sakte hain jahan handshake initiate karna sahi na ho. Handshake ko bharose aur swagat (welcome) ka sign maante huye, handshake initiate karne se pehle khud se kuch sawal puchna zaroori hai: Kya mera swagat hai? Kya ye insaan mujhse milkar khush hai ya main unhe majboor kar raha hoon?
+
+Salespeople ko sikhaya jata hai ki agar wo kisi customer ke saath handshake initiate karte hain jiske paas wo bina bataye ya bina bulaye gaye hain, toh iska ek negative result nikal sakta hai, kyunki buyer shayad unka swagat na karna chahta ho aur use haath milane ke liye majboor mehsoos ho. In halaton mein, salespeople ko advise kiya jata hai ki wo doosre insaan ke handshake initiate karne ka wait karein aur agar wo aisa nahi karte, toh greeting ke taur par halka sa sir hila dein (**head-nod**). Kuch countries mein, kisi aurat ke saath haath milana abhi bhi ek uncertain practice hai (example ke liye, kayi Muslim countries mein aisa karna rude mana jayega; wahan halka sir hilana acceptable hai), par ab ye paya gaya hai ki jo auratein ek firm handshake initiate karti hain, unhe zyada-tar jagahon par zyada open-minded mana jata hai aur wo behtar first impressions banati hain.
+
+---
+
+### How Dominance and Control Are Communicated (Dominance aur Control kaise Communicate hote hain)
+
+Palm-Up aur Palm-Down gestures ke impact ko dhyan mein rakhte huye, chaliye handshaking mein unki relevance ko explore karte hain. Roman times mein, do leaders milte the aur jo karte the wo modern arm wrestling ka ek standing version hota tha. Agar ek leader doosre se zyada taqatwar hota tha, toh uska haath doosre ke haath ke upar khatam hota tha jise **Upper-Hand** position ke naam se jaana gaya.
+
+Maan lijiye aap abhi kisi se pehli baar mile hain aur aap handshake se ek doosre ko greet karte hain. Teen basic attitudes mein se ek subconscious taur par transmit hota hai:
+
+1.  **Dominance (Dabda):** "Ye mujh par dominate karne ki koshish kar raha hai. Mujhe savdhan (cautious) rehna chahiye."
+2.  **Submission (Jhukna):** "Main is insaan par dominate kar sakta hoon. Ye wahi karega jo main chahta hoon."
+3.  **Equality (Barabari):** "Main is insaan ke saath comfortable mehsoos kar raha hoon."
+
+Ye attitudes hamare aware huye bina bheje aur receive kiye jate hain, par kisi bhi meeting ke natije par unka turant asar ho sakta hai. 1970s mein humne apni business skills classes mein in handshake techniques ke effect ko document kiya aur unhe business strategies ke taur par sikhaya, jo thodi practice aur application ke saath kisi bhi face-to-face meeting ko zabardast tarike se influence kar sakti hain.
+
+Dominance tab transmit hota hai jab aap apna haath aise modte hain ki handshake mein aapki hatheli neeche ki taraf face kare. Aapki hatheli ko bilkul sidha neeche face karne ki zaroorat nahi hai, par ye **Upper Hand** hai aur ye communicate karta hai ki aap us mulaqat ka control lena chahte hain.
+
+**Control Lena**
+
+350 successful senior management executives (jinmein 89 percent mard the) ki hamari study ne zahir kiya ki na sirf lagbhag saare managers ne handshake initiate kiya, balki 88 percent mardon aur 31 percent auraton ne dominant handshake position ka bhi use kiya. Power aur control ke issues mukhya roop se auraton ke liye kam zaroori hote hain, jo shayad ye samjhata hai ki kyun har teen mein se sirf ek aurat ne Upper-Hand ritual ki koshish ki. Humne ye bhi paya ki kuch auratein social contexts mein mardon ko ek soft handshake dengi submissiveness jatane ke liye. Ye apni femininity (stritva) ko highlight karne ya ye jatane ka ek tarika hai ki unpar dominate karna possible ho sakta hai. Business context mein, halanki, ye approach ek aurat ke liye disastrous ho sakta hai kyunki mard unki feminine qualities par dhyan denge aur unhe seriously nahi lenge. Jo auratein business meetings mein high femininity dikhati hain, unhe doosri business auratein ya mard seriously nahi lete, is haqiqat ke bawajood ki aaj ye kehna fashionable hai ki sab barabar hain. Iska matlab ye nahi hai ki business mein ek aurat ko mardana (masculine) tarike se act karne ki zaroorat hai; use bas equal credibility ke liye femaleness ke signals jaise soft handshakes, short skirts aur high heels se bachne ki zaroorat hai.
+
+**Jo auratein serious business meeting mein high feminine signals dikhati hain, wo apni credibility kho deti hain.**
+
+2001 mein, University of Alabama ke William Chaplin ne handshakes par ek study ki aur paya ki extroverted log firm handshakes use karte hain, jabki shy, neurotic personalities nahi karti. Chaplin ne ye bhi paya ki jo auratein naye ideas ke liye open hain wo firm handshakes use karti thi. Mardon ne wahi handshakes use kiye chahe wo naye ideas ke liye open hon ya na hon. Isliye auraton ke liye ye achha business sense banta hai ki wo firmer handshaking ki practice karein, khaaskar mardon ke saath.
+
+---
+
+### The Submissive Handshake (Submissive Handshake)
+
+Dominant handshake ka ulat (opposite) ye hai ki aap apna haath upar ki taraf face karti hui hatheli ke saath offer karein, symbolically doosre insaan ko upper hand dete huye, bilkul waise hi jaise ek kutta bade kutte ke samne apna gala khol deta hai.
+
+**The submissive handshake**
+
+Ye tab effective ho sakta hai jab aap doosre insaan ko control dena chahte hon ya use ye feel karwana chahte hon ki wo situation ka in-charge hai; example ke liye, agar aap maafi (apology) maang rahe hon.
+
+Jabki Palm-Up handshake ek submissive attitude communicate kar sakta hai, kabhi-kabhi doosre halat bhi dhyan mein rakhne hote hain. Jaise humne dekha, jis insaan ke haathon mein arthritis hai, wo apni condition ki wajah se aapko ek dhila (limp) handshake dene par majboor hoga aur isse unka palm submissive position mein mudna aasaan ho jata hai. Wo log jo apne profession mein haathon ka use karte hain, jaise surgeons, artists aur musicians, wo bhi sirf apne haathon ko protect karne ke liye ek limp handshake de sakte hain. Handshake ke baad wo jo gesture clusters use karte hain, wo aapke assessment ke liye aur clues denge—ek submissive insaan zyada submissive gestures use karega aur ek dominant insaan zyada assertive gestures use karega.
+
+---
+
+### How to Create Equality (Barabari kaise banayein)
+
+Jab do dominant log haath milate hain, toh ek symbolic power struggle hota hai kyunki har insaan doosre ki hatheli ko submissive position mein modne ki koshish karta hai. Natija ek viselike (shikanje jaisa) handshake hota hai jisme dono hatheliyan vertical position mein rehti hain aur ye equality aur mutual respect ki feeling create karta hai kyunki koi bhi doosre ke samne jhukne ko taiyar nahi hota.
+
+**Equality communicate karna**
+
+---
+
+### How to Create Rapport (Rapport kaise banayein)
+
+Handshake mein rapport create karne ke liye do main cheezein hain. Pehla, ye pakka karein ki aapki aur doosre insaan ki hatheliyan vertical position mein hon taaki koi bhi dominant ya submissive na ho. Doosra, wahi pressure apply karein jo aapko mil raha hai. Iska matlab hai ki agar 1-10 ki firmness scale par aapka handshake 7 hai par doosre insaan ka sirf 5 hai, toh aapko apni strength mein 20 percent peeche hatna hoga. Agar unki grip 9 hai aur aapki 7, toh aapko apni grip 20 percent badhani hogi. Agar aap das logon ke group se mil rahe hain, toh aapko shayad har kisi ke saath rapport ki feeling create karne aur har insaan ke saath equal footing par rehne ke liye angle aur intensity ke kayi adjustments karne padenge. Ye bhi dhyan mein rakhein ki average male hand average female hand ke muqable lagbhag dugni taqat laga sakta hai, isliye iske liye allowance banana zaroori hai. Evolution ne mardana haathon ko faadne, pakadne, uthane, phenkne aur thonkne (hammering) jaise kaamon ke liye 100 pounds tak ki grip lagane ki permission di hai.
+
+Yaad rakhein ki handshake hello ya goodbye kehne ya kisi agreement ko pakka karne ke liye ek gesture ke taur par evolve hua hai, isliye ise hamesha warm, friendly aur positive hona chahiye.
+
+---
+
+### How to Disarm a Power Player (Power Player ko nishastra kaise karein)
+
+**Palm-Down Thrust** Nazi salute ki yaad dilata hai aur ye sabse aggressive handshake hai kyunki ye receiver ko equal relationship establish karne ka kafi kam mauka deta hai. Ye handshake un overbearing, dominant logon ki pehchan hai jo hamesha ise initiate karte hain, aur unka hatheli neeche ki taraf face karta hua stiff haath receiver ko submissive position mein majboor kar deta hai.
+
+**The Palm-Down Thrust**
+
+Agar aapko lagta hai ki koi jaan-boojhkar aapko Palm-Down Thrust de raha hai, toh ise counter karne ke kayi tarike hain:
+
+1.  **The Step-to-the-Right Technique (Right-ki-taraf-Kadam Technique):**
+    Agar aapko kisi power player se dominant handshake milta hai—aur mukhya roop se mard hi aisa karte hain—toh uski hatheli ko wapas equal position mein modna na sirf mushkil hota hai balki aisa karte waqt ye obvious bhi hota hai.
+
+    Is technique mein handshake ke liye haath badhate waqt pehle apne left pair se aage kadam badhana involve hota hai. Ismein thodi practice lagti hai, kyunki right haath se handshake karte waqt right pair par aage badhna 90 percent logon ke liye natural position hai.
+
+    [Image showing the power player attempting to control]
+    **Power player control karne ki koshish karta hai**
+
+    [Image showing step forward on left foot]
+    **Left pair par aage kadam badhayein**
+
+    Agla, apne right pair se aage kadam badhayein, us insaan ke samne se guzarte huye aur uske personal space mein enter karte huye. Aakhir mein, is maneuver ko poora karne ke liye apne left pair ko apne right pair ke paas layein, aur us insaan ka haath milayein. Ye tactic aapko handshake ko sidha karne ya yahan tak ki use submissive position mein modne ki permission deti hai. Aisa mehsoos hota hai jaise aap uske samne se chalkar ja rahe hain aur ye arm-wrestling bout jeetne ke barabar hai. Ye aapko uske personal space par kabza karke control lene deta hai.
+
+    [Image walking across in front and turning the palm up]
+    **Right pair se aage chalein aur uski hatheli upar modein**
+
+    Haath milane ke apne khud ke approach ko analyze karein aur notice karein ki jab aap handshake ke liye apna haath badhate hain toh aap apne left ya right pair par aage badhte hain. Zyada-tar log right-footed hote hain aur isliye wo disadvantage mein hote hain jab unhe ek dominant handshake milta hai kyunki unke paas move karne ke liye kafi kam jagah hoti hai aur ye doosre insaan ko dominate karne deta hai. Handshake mein apne left pair se kadam badhane ki practice karein aur aap payenge ki un power players se deal karna aasaan hai jo aapko control karne ki koshish karenge.
+
+2.  **The Hand-on-Top Technique (Haath-Upar-Rakhna Technique):**
+    Jab koi power player aapko Palm-Down Thrust deta hai, toh apni hatheli Palm-Up position mein rakhte huye response dein, phir apna left haath uske right haath ke upar rakhein ek **Double-Hander** banane ke liye aur handshake ko sidha (straighten) karein.
+
+        **The Double-Hander**
+
+    Ye power ko usse aapki taraf switch kar deta hai aur situation se deal karne ka ek bahut simpler tarika hai, aur auraton ke liye use karna kafi aasaan hai. Agar aapko lagta hai ki power player jaan-boojhkar darane ki koshish kar raha hai, aur wo aisa regularly karta hai, toh uske haath ko upar se pakad (grasp) lein aur phir use shake karein. Ye ek power player ko shock kar sakta hai isliye aapko ise use karte waqt selective hona chahiye aur ise sirf ek aakhiri raste (**last resort**) ke taur par hi karein.
+
+        **Aakhiri rasta (The last resort)**
+
+---
+
+### The Cold, Clammy Handshake (Thanda, Chiptchipa Handshake)
+
+Kisi ko bhi aisa handshake lena pasand nahi hai jo aisa mehsoos ho jaise aapko chaar thandi breakfast sausages thama di gayi hon. Agar hum ajnabiyon se milte waqt tense ho jate hain, toh khoon haathon ki skin ki outer layer ke neeche wale cells (jise dermis kehte hain) se hat kar arms aur leg ki muscles ki taraf chala jata hai "fight or flight" ki taiyari ke liye. Natija ye hota hai ki hamare haath temperature kho dete hain aur unmein paseena aane lagta hai, jisse wo thande aur chiptchipe mehsoos hote hain aur handshake aisa lagta hai jaise "geeli salmon machhli" (wet salmon) ho.
+
+Ek pocket ya handbag mein rumaal (handkerchief) rakhein taaki aap kisi important insaan se milne se turant pehle apni hatheliyan sukha sakein aur kharab first impression na banayein. Alternatively, nayi meeting se pehle, bas visualize karein ki aapne apni hatheliyan ek khuli aag (open fire) ke samne rakhi hui hain. Ye visualization technique average insaan ki hatheli ka temperature 3-4 degrees tak badhane ke liye proven hai.
+
+---
+
+### Gaining the Left-Side Advantage (Left-Side ka Fayda Paana)
+
+Jab do leaders media photographs ke liye saath khade hote hain, toh wo physical size aur dress code mein barabar dikhne ki koshish karte hain par jo picture ke left mein khada hota hai, use viewers doosre ke muqable dominant perception se dekhte hain. Iska karan ye hai ki haath milate waqt upper hand paana aasaan hota hai, jisse photograph ke left wala insaan control mein dikhta hai. Ye 1960 mein John F. Kennedy aur Richard Nixon ke beech unke television debate se pehle huye handshake mein saaf dikhta hai. Us waqt duniya body language ke baare mein ignorant thi, par analysis karne par, JFK ko iska use karne ki ek intuitive samajh lagti hai. Unhone photograph ke left-hand side par khade hone ki practice banayi thi, aur Upper-Hand position apply karna unki manpasand moves mein se ek thi.
+
+**Upper Hand paana— JFK left-side fayde ka use karke Richard Nixon ko kamzor dikhne wali position mein daal rahe hain**
+
+Unka mahan election debate body language ki taqat ki ek shandaar gawahi (testimony) tha. Polls ne dikhaya ki jin Americans ne debate radio par suni unka manna tha ki Nixon vijeta (victor) the, par jin logo ne ise television par dekha unhe Kennedy saaf winner lage. Ye dikhata hai ki kaise Kennedy ki persuasive body language ne farq paida kiya aur aakhirkaar unhe presidency dila di.
+
+**Shot ke left side khade hona Bill Clinton ko Tony Blair ke upar Upper-Hand fayda deta hai**
+
+**World leaders galat side se approach karte huye—photograph ki right side—aur ek dominant handshake mein jaate huye**
+
+---
+
+### When Men and Women Shake Hands (Jab Mard aur Auratein Haath Milate hain)
+
+Bhale hi auratein pichle kayi dashakon se workforce mein mazbooti se maujood hain, kayi mard aur auratein abhi bhi mard/aurat ki greetings mein thoda ladkhadana (fumbling) aur sharmindagi mehsoos karte hain. Zyada-tar mard batate hain ki unhe bachpan mein apne pita se handshake ki kuch basic training mili thi, par bahut kam auratein waisi training batati hain. Adulthood mein, ye uncomfortable situations create kar sakta hai jab ek mard aurat ka haath milane ke liye pehle badhta hai par wo use nahi dekhti—wo shuruat mein uske chehre ko dekhne mein zyada vyast hoti hai. Haath hawa mein latka dekh kar awkward feel karte huye, mard use peeche kheench leta hai ye umeed karke ki usne notice nahi kiya hoga, par jaise hi wo aisa karta hai, aurat haath badhati hai aur uska haath bhi khali jagah (void) mein latak jata hai. Mard phir se uska haath pakadne ki koshish karta hai aur natija uljhi hui ungliyon ka ek mishmash hota hai jo do "utsuk squid" (eager squid) ke prem-alingan (love embrace) jaisa dikhta aur mehsoos hota hai.
+
+**Mard aur aurat ke beech ki initial meetings kharab handshake technique ki wajah se bigad sakti hain.**
+
+Agar aapke saath kabhi aisa ho, toh jaan-boojhkar doosre insaan ka right haath apne left haath se pakdein, use sahi tarike se apne right haath mein rakhein, aur smile ke saath kahein, "Chalo ise phir se try karte hain!" Ye aapko doosre insaan ke samne ek bada credibility boost de sakta hai, kyunki ye dikhata hai ki aap unse milne ki itni parwah karte hain ki handshake sahi karna chahte hain. Agar aap business mein ek aurat hain, toh ek samajhdaari wali strategy ye hai ki doosron ko handshake karne ke apne irade ka notice dein taaki wo hairan (off guard) na hon. Jitna jaldi ho sake apna haath aage badhayein ye clear karne ke liye ki aap haath milana chahti hain aur isse koi ladkhadahat (fumbling) nahi hogi.
+
+---
+
+### The Double-Hander (Double-Hander)
+
+Duniya bhar mein corporate favorites mein se ek, ye handshake direct eye contact, ek saaf reassuring smile, aur receiver ke pehle naam (first name) ko confident loud repetition ke saath diya jata hai, aur aksar saath mein receiver ki health ke baare mein ek gambhir puch-taach bhi hoti hai.
+
+**The Double-Hander**
+
+Ye handshake initiator dwara diye gaye physical contact ki amount ko badha deta hai aur receiver ke right haath ko restrict karke us par control deta hai. Kabhi-kabhi ise "**politician's handshake**" kaha jata hai, Double-Hander ka initiator ye impression dene ki koshish karta hai ki wo bharosemand (trustworthy) aur honest hai, par jab ise kisi aise insaan par use kiya jata hai jise wo abhi mila hai, toh iska ulta asar ho sakta hai, aur receiver initiator ke iradon par shak (suspicious) karne lagta hai. Double-Hander ek chhote hug (miniature hug) ki tarah hai aur ye sirf un halaton mein acceptable hai jahan hug bhi acceptable hota.
+
+"Aap ek lovable, memorable insaan hain—chahe aap jo bhi hon..."
+
+Ninety percent humans basic self-defense ke liye sharir ke samne right arm phenkne ki kabliyat—jise overarm blow kehte hain—ke saath paida hote hain. Double-Hander is defense capability ko rok deta hai, yahi wajah hai ki ise kabhi bhi aisi greetings mein use nahi karna chahiye jahan doosre insaan ke saath koi personal bond na ho. Ise sirf wahan use kiya jana chahiye jahan emotional bond pehle se maujood ho, jaise purane dost se milte waqt. In halaton mein, self-defense koi issue nahi hota, isliye handshake ko genuine mana jata hai.
+
+**Yassar Arafat Tony Blair par Double-Hander jamate huye, jinka tight-lipped expression dikhata hai ki wo bilkul impressed nahi hain**
+
+---
+
+### Handshakes of Control (Control wale Handshakes)
+
+Kisi bhi two-handed handshake ka irada receiver ke liye sincerity, trust ya feelings ki gehrai dikhane ki koshish karna hota hai. Do important elements notice kiye jane chahiye. Pehla, left haath us feeling ki gehrai communicate karne ke liye use hota hai jo initiator dikhana chahta hai aur ye is baat se juda hai ki initiator ka left haath receiver ke right arm par kitni doori tak rakha gaya hai. Ye gale lagane (embrace) ke irade jaisa hai aur initiator ka left haath **intimacy ke thermometer** ki tarah use hota hai—use receiver ke arm par jitna upar rakha jayega, initiator utni hi zyada intimacy dikhane ki koshish kar raha hai. Initiator receiver ke saath ek intimate connection dikhane ki koshish kar raha hai, jabki saath hi unki movement ko control karne ki bhi koshish kar raha hai.
+
+Example ke liye, **Elbow Grasp** (kohni pakadna) **Wrist Hold** (kalaai pakadna) se zyada intimacy aur control jatata hai, aur **Shoulder Hold** (kandha pakadna) **Upper-Arm Grip** se zyada dikhata hai.
+
+**The Wrist Hold**
+
+**The Elbow Grasp**
+
+**The Upper-Arm Grip**
+
+**The Shoulder Hold**
+
+Doosra, initiator ka left haath receiver ke personal space ka ullanghan (invasion) hai. General taur par, Wrist Hold aur Elbow Grasp tabhi acceptable hain jahan ek insaan doosre ke kareeb mehsoos karta ho aur in cases mein initiator ka left haath receiver ke personal space ke sirf bahari hisse (outer edge) mein enter karta hai. Shoulder Hold aur Upper-Arm Grip gehari intimacy dikhate hain aur iska natija ek hug bhi ho sakta hai ("personal space" ko Chapter 9 mein zyada cover kiya jayega). Jab tak intimate feelings mutual na hon ya initiator ke paas double-handed handshake use karne ka koi achha reason na ho, receiver shayad suspicious hoga aur initiator ke iradon par bharosa nahi karega. Summary mein, agar aapka doosre insaan ke saath kisi tarah ka personal bond nahi hai, toh koi bhi Double-Hander use na karein. Aur agar koi insaan aapko ye deta hai jiska aapke saath koi personal connection nahi hai, toh unke chhupa hua agenda (hidden agenda) dekhein.
+
+**Jab tak aapka aur doosre insaan ka koi personal ya emotional bond na ho, sirf single-handed handshake hi use karein.**
+
+Politicians ko voters ko double-handed handshakes ke saath greet karte dekhna common hai aur businesspeople ko clients ke saath aisa karte dekhna, bina ye realize kiye ki ye political aur business suicide ho sakta hai, jo logon ko door karta hai.
+
+---
+
+### The Blair-Bush Power Game (Blair-Bush Power Game)
+
+2003 mein Iraq conflict ke dauran, George W. Bush aur Tony Blair ne media ko ek powerful alliance ki image present ki jo "united aur equal" tha, par photographs ka close analysis George Bush dwara kiye gaye strong power plays dikhata hai.
+
+**George Bush Tony Blair par Upper Hand jamate huye**
+
+Upar ki picture mein, Bush photograph ke left side se Upper Hand deliver karne ke liye jhukte (lean) hain. Bush ne Armed Forces Commander-in-Chief jaise kapde pehne hain aur Blair ne English schoolboy jaise jo headmaster se mil raha ho. Bush ne apne pair zameen par mazbooti se jamaye huye hain aur Blair ko control karne ke liye **Back Hold** ka use kar rahe hain. Bush regularly left-of-picture position ke liye koshish karte hain, jisse unhe dominant perceive kiya jata hai aur aisa lagta hai jaise wo saare faisle le rahe hain (**calling the shots**).
+
+---
+
+### The Solution (Samadhan)
+
+Agar aap anjane mein right-of-picture position mein khud ko paate hain toh power khone se bachne ke liye, door se approach karte waqt hi apna arm jaldi badha dein, kyunki ye doosre insaan ko haath milane ke liye aapka sidha samna karne par majboor karta hai. Ye aapko handshake ko equal basis par rakhne deta hai. Agar photos ya video liye ja rahe hain, toh hamesha doosre insaan ko aise approach karein ki aap left-of-picture position occupy karein. Sabse kharab halat mein, khud ko equal footing dene ke liye Double-Hander ka use karein.
+
+---
+
+### The World's Eight Worst Handshakes (Duniya ke Aath Sabse Bure Handshakes)
+
+Yahan duniya ke aath sabse annoying aur disliked handshakes aur unke variations diye gaye hain. Inse har waqt bachein:
+
+1.  **The Wet Fish (Geeli Machhli):**
+    **Credibility Rating: 1/10.**
+    Bahut kam greetings Wet Fish jitni un-inviting hoti hain, khaaskar tab jab haath thanda ya chiptchipa ho. Wet Fish ki soft aur dhili (flaccid) feel ise universally unpopular banati hai aur zyada-tar log ise kamzor character se jodte hain, mukhya roop se hatheli ke aasani se mud jane ki wajah se. Receiver ise mulaqat ke prati commitment ki kami ke taur par padhta hai, par iske cultural ya doosre matlab bhi ho sakte hain—kuch Asian aur African cultures mein limp handshake normal hai aur firm handshake offensive mana ja sakta hai. Saath hi, har bees mein se ek insaan **hyperhydrosis** naam ki condition se guzarta hai, jo ek genetic condition hai jo chronic paseena aane ka karan banti hai. Handshaking se pehle saaf-safai ke liye tissues ya rumaal rakhna samajhdaari hai.
+
+        **The Wet Fish**
+
+    Hatheliyon mein sharir ke kisi bhi doosre hisse se zyada sweat glands hote hain, yahi wajah hai ki paseene wali hatheliyan itni obvious ho jati hain. Hairani ki baat hai ki Wet Fish use karne wale kayi logon ko pata hi nahi hota ki wo aisa karte hain, isliye ye samajhdaari hai ki aage ki meetings mein use tai karne se pehle apne doston se apne handshake style par comment maangein.
+
+2.  **The Vise (Shikanja):**
+    **Credibility Rating: 4/10.**
+    Ye chupchap persuasive style business mardon ka favorite hai aur rishte mein dominate karne aur shuruat mein hi control lene ya logon ko unki jagah dikhane ki ichha zahir karta hai. Hatheli neeche ki position mein present ki jati hai jisme ek sharp downward pump hota hai aur uske baad do-teen vigorous return strokes aur ek aisi grip jo haath ka blood flow bhi rok sakti hai. Kabhi-kabhi ise wo insaan use karta hai jo khud ko kamzor mehsoos karta hai aur darta hai ki doosre us par dominate karenge.
+
+        **The Vise**
+
+3.  **The Bone-Crusher (Haddi-Todne-Wala):**
+    **Credibility Rating: 0/10.**
+    Vise ka doosra chachera bhai (second cousin), Bone-Crusher sabse zyada darane wala handshake hai kyunki ye recipient ke dimaag aur ungliyon par ek amit yaadein (indelible memory) chhod jata hai aur initiator ke alawa kisi ko impress nahi karta. Bone-Crusher bahut zyada aggressive personality ka trademark hai jo bina warning ke shuruat mein hi fayda uthata hai aur knuckles ko barik peesne (grinding) ki koshish karke apne opponent ko demoralize karne ki koshish karta hai. Agar aap female hain, toh business mulaqaton mein apne right haath mein rings pehenne se bachein, kyunki Bone-Crusher khoon nikal sakta hai aur aapke business dealings shock mein shuru karwa sakta hai.
+
+        **The Bone-Crusher**
+
+    Durbhagya se, ise counter karne ka koi effective tarika nahi hai. Agar aapko lagta hai ki kisi ne jaan-boojhkar aisa kiya hai, toh aap sabka dhyan is taraf khinch sakte hain ye keh kar, "Ouch! Isse sach mein mere haath mein chot lagi. Aapki grip bahut zyada strong hai." Ye Bone-Crusher karne wale ko warning deta hai ki wo ye behavior repeat na kare.
+
+4.  **The Finger-Tip Grab (Ungli-ki-Noak-Pakadna):**
+    **Credibility Rating: 2/10.**
+    Mard-aurat ki greetings mein ye aksar hota hai, Finger-Tip Grab ek aisa handshake hai jo nishana miss kar deta hai aur user galti se doosre insaan ki ungliyan pakad leta hai. Bhale hi initiator receiver ke prati ek enthusiastic attitude dikhata hua lage, par asal mein usmein confidence ki kami hoti hai. In halaton mein, Finger-Tip Grab ka main maqsad receiver ko ek comfortable distance par rakhna hota hai. Finger-Tip Grab logo ke beech personal space ke farq ki wajah se bhi ho sakta hai. Ye tab ho sakta hai jab ek insaan ka intimate space do foot ho aur doosre ka teen foot; baad wala greeting ke dauran door khada rehta hai isliye haath sahi se connect nahi ho paate.
+
+        **The Finger-Tip Grab**
+
+    Agar aapke saath aisa hota hai, toh doosre insaan ka right haath apne left se pakdein aur use sahi tarike se apne right haath mein rakhein aur smile ke saath kahein, "Chalo ise phir se try karte hain!" aur barabari se haath milayein. Ye aapki credibility banata hai kyunki aap doosre insaan ko bata rahe hain ki aap unhe itna important maante hain ki handshake sahi karna chahte hain.
+
+5.  **The Stiff-Arm Thrust (Akkad-Bhari-Baanh-ka-Waar):**
+    **Credibility Rating: 3/10.**
+    Palm-Down Thrust ki tarah, Stiff-Arm Thrust aggressive types ke logo dwara use kiya jata hai aur iska main maqsad aapko door rakhna aur unke personal space se hataye rakhna hota hai. Ise wo log bhi use karte hain jo rural (gaon) ke ilakon mein pale-badhe hain, jinki personal space ki zarooratein badi hoti hain aur wo apni territory ko protect karna chahte hain.
+
+        **The Stiff-Arm Thrust**
+
+    Ye log Stiff-Arm Thrust dete waqt apni doori banaye rakhne ke liye aage jhukenge ya ek pair par balance bhi karenge.
+
+6.  **The Socket-Wrencher (Kandha-Ukhadne-Wala):**
+    **Credibility Rating: 3/10.**
+    Power players ki manpasand choice aur aankhon mein paani aane ka common karan, aur extreme cases mein torn ligaments ka. Ye **Bent-Arm-Pull-In** ka baap hai, aur ismein receiver ki faili hui hatheli ko zor se pakadna involve hota hai, phir saath hi ek sharp reverse thrust dena, receiver ko initiator ki territory mein khinchne ki koshish karte huye. Iska natija balance khona hota hai aur rishta galat kadam se shuru hota hai.
+
+        **The Socket-Wrencher**
+
+    Receiver ko initiator ki territory mein khinchne ke teen matlab ho sakte hain: pehla, initiator ek insecure type hai jo sirf apne personal space ke andar safe mehsoos karta hai; doosra, initiator us culture se hai jiski space needs kam hain; ya teesra, wo aapko balance se hatakar control karna chahta hai. Chahe jo bhi ho, wo chahta hai ki mulaqat uski terms par ho.
+
+7.  **The Pump Handle (Hand-Pump-ka-Hatha):**
+    **Credibility Rating: 4/10.**
+    Strong rural overtones ke saath, pumper pumpee ka haath pakad leta hai aur rapid vertical strokes ki ek energetic aur rhythmic series shuru kar deta hai. Jabki saat pumps tak acceptable hai, kuch pumpers uncontrollably pump karte rehte hain jaise wo pumpee se paani nikalne ki koshish kar rahe hon.
+
+        **The Pump Handle**
+
+    Kabhi-kabhi, pumper pumping band kar dega par unhe bhagne se rokne ke liye receiver ka haath pakad kar rakhega aur, dilchasp baat ye hai ki bahut kam log apna haath chhudane ki koshish karte hain. Physically connected hone ka act hamare peeche hatne ke pakke irade (resolve) ko kamzor kar deta hai.
+
+8.  **The Dutch Treat (Dutch Treat):**
+    **Credibility Rating: 2/10.**
+    Approach mein thoda vegetarian hone ki wajah se, is handshake ki shuruat Netherlands mein hui hai, jahan kisi par ilzaam lagaya ja sakta hai "Geeft 'n hand als bosje worteljes," yaani "Gaajar ke guchhe (bunch of carrots) jaisa handshake dena." Ye Wet Fish ka ek door ka rishtedar hai, par pakadne mein zyada stiff aur kam chiptchipa hota hai.
+
+        **The Dutch Treat**
+
+    Nayi generations mein iski jagah **De Slappe Vaatdoek**, ya **Sloppy Dishcloth** (Ganda Pocha) ne le li hai. Ise kisi aur explanation ki zaroorat nahi hai.
+
+---
+
+### The Arafat-Rabin Handshake (Arafat-Rabin Handshake)
+
+Neeche di gayi photograph late Israeli Prime Minister Yitzhak Rabin aur Palestinian Chairman Yassar Arafat ko 1993 mein White House mein haath milate huye dikhati hai aur ye kayi interesting attitudes zahir karti hai.
+
+President Clinton asal mein is shot ke key figure hain kyunki unki unobstructed center position, extra height, aur **Arms-Spread-Open-Palms** gesture hai, jo apne logon par nazar rakhne wale bhagwan (god) ki yaad dilata hai. Clinton ki Half-Moon, Lips-Sucking smile us emotional restraint (rok-thok) ko dikhati hai jo unhone ya toh mehsoos ki ya fake ki.
+
+**Yitzhak Rabin (left) aage khinchne se bachne ke liye Stiff-Arm Thrust ka use karke apni jagah banaye huye hain jabki Yassar Arafat Bent-Arm-Pull-In ki koshish kar rahe hain**
+
+Is famous shot mein, dono mard apne pair zameen par mazbooti se jamaye huye hain aur doosre ko uski territory se bahar nikalne ki koshish kar rahe hain. Yitzhak Rabin ne picture ke left side wali power position li aur Arafat ko apne personal space se door rakhne ke liye Stiff-Arm Thrust use kiya aur aage jhuke, jabki Yassar Arafat bilkul sidhe khade rahe aur Bent-Arm-Pull-In se ise counter karne ki koshish ki.
+
+---
+
+### Summary (Saar-ansh)
+
+Bahut kam logon ko ye andaza hota hai ki initial meetings mein wo doosron ke samne kaise aate hain, is haqiqat ke bawajood ki hum mein se zyada-tar log aware hain ki us meeting ke pehle kuch minutes ek rishte ko bana ya bigad sakte hain.
+
+Apne doston aur colleagues ke saath handshake styles ki practice karne ke liye waqt nikalein aur aap jaldi hi har baar ek positive handshake dena seekh sakte hain. Hatheliyan vertical rakhna aur doosre insaan ki grip se match karna mukhya roop se ek **10/10** handshake mana jata hai.
