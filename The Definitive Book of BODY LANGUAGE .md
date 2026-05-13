@@ -942,3 +942,180 @@ Courtship mein auratein zyada hansti hain. Mard jitna zyada aurat ko hansa sakta
 ### Summary (Saar-ansh)
 
 Jab aap muskurate hain, toh samne wala badle mein muskurata hai, jis-se dono mein positive feelings aati hain. Regular muskurana aur hansna relationships behtar banata hai, immune system mazboot karta hai aur zindagi lambi karta hai. Humor sach mein ilaaj karta hai.
+
+---
+
+## Chapter 4: ARM SIGNALS (Haathon ke Ishaare)
+
+---
+
+**Apne crotch area par haath rakhna mardon ko tab zyada secure feel karwata hai jab wo khatra mehsoos kar rahe hon.**
+
+### Arm Barrier Signals (Arm Barrier Signals)
+
+Kisi barrier ke peeche chhupna ek normal response hai jo hum bachpan mein hi apni hifaazat (protection) ke liye seekh lete hain. Jab hum bachche the, hum kisi thos (solid) cheez jaise table, chair, furniture, ya maa ki skirt ke peeche chhup jaate the jab bhi hum khud ko kisi khatarnak situation mein paate the. Jaise-jaise hum bade huye, ye chhupne ka behavior aur bhi sophisticated hota gaya aur lagbhag cheh saal ki umar mein, jab solid cheezon ke peeche chhupna unacceptable mana jaane laga, humne kisi bhi khatarnak situation mein apne haathon ko seene par mazbooti se baandhna (fold arms) seekh liya.
+
+Apne teenage ke dauran, humne Crossed-Arms gesture ko thoda kam obvious banana seekha—haathon ko thoda relax karke aur is gesture ko crossed legs ke saath combine karke. Jaise hum aur bade hote hain, arms-crossing gesture is had tak badal sakta hai ki hum ise doosron ke liye aur bhi kam obvious banane ki koshish karte hain. Apne ek ya dono haathon ko seene par fold karke, ek barrier ban jata hai jo asal mein un cheezon ko rokne ki ek unconscious koshish hoti hai jinhe hum khatra ya na-pasandida (undesirable) halat samajhte hain.
+
+**Haath dil aur phephdon (lungs) ke region ke upar fold hote hain taaki in zaroori organs ki hifaazat ki ja sake.**
+
+---
+
+### Why Crossed Arms Can Be Detrimental (Haath baandhna nuksaan-deh kyun ho sakta hai)
+
+United States mein Crossed-Arms gesture par hui research ne kuch chinta-janak (worrying) results dikhaye hain. Volunteers ke ek group ko lectures ki ek series attend karne ko kaha gaya aur har student ko instruction di gayi ki wo apne pair uncrossed rakhein, haath khule rakhein aur ek casual, relaxed sitting position lein. Lectures ke khatam hone par har student ka retention (yaad rakhne ki kabliyat) aur subject ki knowledge test ki gayi aur lecturer ke prati unka attitude record kiya gaya.
+
+Volunteers ke ek doosre group ko bhi usi process se guzara gaya, lekin in volunteers ko instruction di gayi ki wo poore lecture ke dauran apne haath seene par tightly fold karke rakhein. Results ne dikhaya ki folded arms wale group ne unfolded arms wale group ke muqable **38 percent kam** seekha aur yaad rakha. Doosre group ki lecturer aur lectures ke baare mein opinion bhi zyada critical (ninda karne wali) thi.
+
+Jab aap apne haath baandhte hain, toh aapki credibility (vishwasniyata) bahut zyada gir jaati hai. Humne yehi tests 1989 mein 1,500 delegates ke saath bhi kiye the aur results bilkul waisi hi story bata rahe the.
+
+---
+
+### Yes… but I'm Just “Comfortable” (Haan… par main toh bas "comfortable" hoon)
+
+Kuch log claim karte hain ki wo aksar haath baandh kar baith-te hain kyunki ye comfortable hai. Koi bhi gesture tabhi comfortable lagega jab aapka attitude us-se match karega; matlab, agar aapka attitude negative, defensive ya nervous hai, toh folded arms comfortable lagenge. Agar aap doston ke saath maze kar rahe hain, toh folded arms galat mehsoos honge.
+
+Yaad rakhein ki body language mein message ka matlab sirf bhejne wale (sender) par nahi balki receive karne wale (receiver) par bhi depend karta hai. Ho sakta hai ki aap apne haath baandh kar aur apni peeth aur gardan ko akkad kar "comfortable" mehsoos karein, par studies ne dikhaya hai ki in gestures par doosron ka reaction negative hota hai. Toh lesson saaf hai—kisi bhi haal mein haath baandhne (crossing arms) se bachein jab tak aapka irada doosron ko ye dikhana na ho ki aap sehmat nahi hain ya participate nahi karna chahte. Aapko lag sakta hai ki arm-crossing sirf comfortable hai, par doosre sochenge ki aap approachable (baat karne layak) nahi hain.
+
+---
+
+### Gender Differences (Gender ke beech farq)
+
+Mardon ke arms thoda andar ki taraf rotate hote hain, jabki auraton ke arms thoda bahar ki taraf rotate hote hain. In rotation differences ki wajah se mard zyada accurate aim aur throw kar paate hain, jabki auraton ki splayed elbows unhe bachon ko uthane ke liye ek zyada wide aur stable position deti hain. Ek interesting farq ye hai ki auratein apne arms ko zyada open rakhti hain jab wo aise mardon ke aas-paas hoti hain jinhe wo attractive maanti hain, aur aggressive ya unattractive mardon ke samne wo apne arms ko breasts par fold kar leti hain.
+
+[Image showing male vs female arm rotation]
+**Andar ki taraf mudne wale arms mardon ko sahi nishana lagane mein madad karte hain; auraton ke bahar mudne wale arms bachon ko uthane ke liye behtar hote hain.**
+
+---
+
+### Crossed-Arms-on-Chest (Seene par haath baandhna)
+
+Dono arms ko ek saath seene par fold karna asal mein kisi insaan aur us cheez ya insaan ke beech barrier banane ki koshish hoti hai jise wo pasand nahi karte. Arm-folding ki kayi positions hain aur hum yahan un common positions ke baare mein baat karenge jo aapko aksar dikhengi. Crossed-Arms-on-Chest universal hai aur lagbhag har jagah iska wahi defensive ya negative matlab nikala jata hai. Ye aksar public meetings mein ajnabiyon ke beech, queues mein, cafeteria lines mein, elevators mein, ya kahin bhi jahan log uncertain ya insecure feel karte hon, wahan dekha jata hai.
+
+**Crossed-Arms-on-Chest: Na wo bahar aa raha hai aur na hi aapko andar aane de raha hai.**
+
+Humne apne local council ki ek meeting attend ki thi jahan developers dwara ped (trees) kaatne par debate ho rahi thi. Developers room ke ek taraf baithe the aur unke virodhi, "greenies," doosri taraf. Meeting ki shuruat mein lagbhag aadhe log haath baandh kar baithe the aur jab developers ne audience ko address kiya toh "greenies" mein ye sankhya badhkar 90 percent ho gayi, aur lagbhag 100 percent tab hui jab developers ne unki baat kaatni shuru ki.
+
+Iska matlab ye hai ki body language shabdon se zyada honest hoti hai. Jab tak koi arms-folded position mein rehta hai, tab tak uska negative attitude bana rahega. Aapka objective ye hona chahiye ki aap pata lagayein ki unhone haath kyun baandhe hain aur unhe ek zyada receptive (baat sunne wali) position mein laane ki koshish karein. Attitude gesture ko paida karta hai aur gesture ko maintain karna attitude ko bane rehne par majboor karta hai.
+
+---
+
+### The Solution (Samadhan)
+
+Arms-folded position ko todne ka ek simple par effective tarika ye hai ki listener ko pakadne ke liye kuch dein ya unhe kuch karne ko kahein. Unhe ek pen, kitab, brochure, sample, ya koi written test dena unhe apne haath kholne aur aage jhukne par majboor kar deta hai. Ye unhe ek zyada open position aur isliye ek zyada open attitude mein le jata hai. Kisi ko visual presentation dekhne ke liye aage jhukne ko kehna bhi arms-folded position kholne ka ek effective zariya ho sakta hai.
+
+Aap apni hatheliyan upar karke aage jhuk kar ye bhi keh sakte hain, "Main dekh sakta hoon ki aapke paas ek sawal hai... aap kya jaanna chahenge?" ya "Aapki kya opinion hai?" Phir aap baith jayein ya peeche jhukein ye ishara karne ke liye ki ab unke bolne ki baari hai. Apni hatheliyon (palms) ka use karke, aap unhe nonverbally bata rahe hain ki aap chahte hain ki wo open aur honest hon kyunki aap bhi waisa hi kar rahe hain.
+
+"Main ye saare pens, pencils aur brochures kyun pakad ke baitha hoon?" customer ne pucha, jo kisi saje huye Xmas tree jaisa lag raha tha. "Main us par baad mein aaunga," negotiator ne kaha.
+
+---
+
+### Reinforced Arm-Crossing (Mazboot Arm-Crossing)
+
+Agar kisi insaan ki mutthiyan (fists) band hain aur saath hi arms poori tarah crossed hain, toh ye cluster, jise **Fists-Clenched-Arms-Crossed** kehte hain, hostility (dushmani) ke saath-saath defensiveness dikhata hai. Agar ye tight-lipped smile ya biche huye daant (clenched teeth) aur laal chehre ke saath combine ho, toh verbal ya physical attack bhi ho sakta hai. Agar karan saaf na ho, toh ye janne ke liye ek sulah-safai (conciliatory) wala approach zaroori hai.
+
+**Fists-Clenched-Arms-Crossed dikhata hai ki ek hostile (gusse wala) attitude maujood hai.**
+
+---
+
+### Arm-Gripping (Arms ko pakadna)
+
+**Double-Arm-Grip** ki pehchan ye hai ki insaan ke haath apne hi upper arms ko mazbooti se pakad lete hain taaki wo khud ko reinforce kar sakein aur sharir ke samne wale hisse ko expose hone se bacha sakein. Kabhi-kabhi arms itni zor se pakde ja sakte hain ki ungliyan aur knuckles blood circulation rukne ki wajah se safed pad sakte hain. Ye insaan ka khud ko comfort dene ka ek tarika hai, jo ek tarah ka self-hugging (khud ko gale lagana) hai.
+
+Arm-gripping aksar doctors aur dentists ke waiting rooms mein ya pehli baar hawaai safar karne walon mein dekha jata hai jo flight ke udne ka intezaar kar rahe hon. Ye ek negative, restrained (khud ko roke huye) attitude dikhata hai.
+
+**The Double-Arm-Grip: Insecure feel karna aur aap jo bech rahe hain use na khareedna.**
+
+Courtroom mein, shikayat-karta (claimant) Fists-Clenched-Arms-Crossed pose mein dikh sakta hai jabki defendant ne Double-Arm-Grip position li ho sakti hai.
+
+---
+
+### The Boss vs. The Staff (Boss vs. Staff)
+
+Status arm-folding gestures ko influence kar sakta hai. Ek superior type ka insaan apne haath na baandh kar apni superiority feel karwa sakta hai, asar mein ye kehte huye, "Main darra hua nahi hoon, isliye main apni body ko open aur vulnerable (asurakshit) rakhunga."
+
+Maan lijiye, kisi company ke social function mein, general manager ka introduction kayi naye employees se karwaya jata hai. Unhe Palm-Down handshake se greet karne ke baad, wo unse thoda door khada rehta hai—ek yard ki doori par—apne haath bagal mein rakh kar ya peeth peeche **Prince Philip Palm-in-Palm** position (superiority) mein, ya ek ya dono haath pocket mein (non-involvement). Wo shayad hi kabhi apne seene par haath baandhta hai taaki ghabrahat (nervousness) ka zara sa bhi hint na dikhe.
+
+Iske ulat, boss se haath milane ke baad, naye employees company ke top person ki presence mein hone ki wajah se poori ya partial arms-crossing positions le sakte hain. General manager aur naye employees dono hi apne apne gesture clusters ke saath comfortable feel karte hain kyunki har koi apna status signal kar raha hota hai. Arm-fold gesture ye dikhane ka ek tarika hai ki hamara attitude self-confident hai aur folded arms phir bhi protection ki feeling dete hain.
+
+Koi jo defensive feel kar raha hai par saath hi submissive (jhuka hua) bhi hai, wo ek symmetrical (bilkul barabar) position mein baithega, jiska matlab hai uske sharir ka ek side doosre side ka perfect mirror hai. Wo tense muscle tone dikhate hain aur aise lagte hain jaise unhe attack hone ka darr ho, jabki ek insaan jo defensive aur dominant feel kar raha hai wo ek asymmetrical (tedha) pose lega, yaani sharir ka ek side doosre jaisa nahi dikhta.
+
+---
+
+### Getting the Thumbs-Up (Thumbs-Up milna)
+
+Jab aap kisi ke samne apna case present kar rahe hon aur presentation ke end mein **Thumbs-Up-Arms-Crossed** dikhe aur ye doosre positive gestures ke saath ho, toh ye signal hai ki aap comfortably unse commitment maang sakte hain. Doosri taraf, agar presentation ke close par doosra insaan Fists-Clenched-Arms-Crossed position leta hai aur uska chehra poker face (bina expression wala) hai, toh "haan" ki umeed karna musibat ko nyota dena ho sakta hai. Behtar hoga ki aap sawal puchein taaki us insaan ke objections (aitraaz) ka pata chal sake.
+
+**Haath baandh kar angoothe upar rakhna—khud ko band rakhna par phir bhi superior feel karna.**
+
+Jab koi proposal ke liye "no" kehta hai, toh bina aggressive dikhe unka man badalna mushkil ho sakta hai. Body language padhne ki kabliyat aapko ek negative decision ko bolne se pehle hi "dekhne" ki permission deti hai aur aapko alternative rasta lene ka waqt deti hai. Jab aap "no" kahe jaane se pehle hi use dekh sakte hain, toh aap ek alag approach try kar sakte hain.
+
+Hathiyar le jaane wale ya kavach (armor) pehenne wale log shayad hi kabhi arm-cross gestures use karte hain kyunki unka hathiyar ya armor kaafi hifaazat deta hai.
+
+---
+
+### Hugging Yourself (Khud ko gale lagana)
+
+Jab hum bachche the toh hamare parents ya caregivers ne humein tab gale lagaya (hug kiya) jab hum pareshan ya tense halat mein hote the. Adults ke taur par, hum aksar waisi hi comforting feelings re-create karne ki koshish karte hain jab hum pareshan hote hain.
+
+---
+
+### How the Rich and Famous Reveal Their Insecurity (Kaise ameer aur mashhoor log apni insecurity zahir karte hain)
+
+Jo log lagatar doosron ke samne hote hain, jaise royalty, politicians, television personalities aur movie stars, wo mukhya roop se nahi chahte ki unki audience ko pata chale ki wo nervous hain ya unmein confidence ki kami hai. Wo display par hone par ek cool, calm aur controlled attitude project karna pasand karte hain, par unki anxiety (ghabrahat) arm-crossing ke disguised (chhupaye huye) forms mein nikal jati hai.
+
+Jaise sabhi arm cross gestures mein hota hai, ek arm body ke samne doosre arm ki taraf jhoolta hai, par arms cross hone ke bajaye, ek haath kisi handbag, bracelet, watch, shirt cuff, ya doosre arm par ya uske paas kisi cheez ko chhuta hai ya pakadta hai. Ek baar phir barrier ban jata hai aur secure feeling mil jati hai.
+
+**Famous log bhi public mein utne hi nervous hote hain jitne ki hum baaki log.**
+
+Cuff links pehenne wale mard aksar room ya dance floor cross karte waqt unhe adjust karte huye dekhe jate hain jahan wo sabki nazar mein hon. **Cuff-Link-Adjust** Prince Charles ka trademark hai, jise wo khud ko secure feel karwane ke liye use karte hain.
+
+**Prince Charles ka Cuff-Link-Adjust: unki insecurities ko zahir karta hua.**
+
+Aapko lagega ki aadhi sadi se zyada public mein rehne aur badi bheed ka samna karne ke baad, Prince Charles jaise royals nervous feelings ke prati resistant ho gaye honge, par unke chhote arm-crossing behaviors zahir karte hain ki wo bhi utne hi insecure feel karte hain jitna aap ya main unhi halaton mein feel karenge.
+
+Ek anxious ya self-conscious mard apni ghadi (watch) ka band adjust karte huye, wallet ke contents check karte huye, apne haathon ko aapas mein ragadte (rub) huye, cuff ke button se khelte huye, ya kisi bhi aise gesture ka use karte huye dikhega jisme uske arms body ke samne cross ho rahe hon. Insecure businessmen ka manpasand tarika ek briefcase ya folder ko sharir ke samne pakad kar business meeting mein enter karna hai. Trained observer ke liye ye gestures giveaway hain kyunki inka nervousness chhupane ke alawa aur koi asli maqsad nahi hota.
+
+In gestures ko observe karne ki ek achhi jagah wo hai jahan log onlooker (dekhne walon) ke group ke paas se guzarte hain.
+
+**Handbag barrier banane ke liye use kiya gaya.**
+
+Subtle barrier banane ka sabse common version ek glass ya cup ko dono haathon se pakadna hai. Aapko glass pakadne ke liye sirf ek haath chahiye, par do haath insecure insaan ko ek lagbhag na-notice hone wala arm barrier banane dete hain. Is tarah ke gestures lagbhag har koi use karta hai aur hum mein se bahut kam logon ko pata hota hai ki hum aisa kar rahe hain.
+
+**Cheezon ko pakadna (Flower-grasping) self-consciousness dikhata hai.**
+
+---
+
+### The Coffee Cup Barrier (Coffee Cup Barrier)
+
+Negotiation ke dauran refreshment offer karna ye naapne (gauge) ki ek shandaar strategy hai ki doosra insaan aapke offer ko kaise receive kar raha hai. Insaan drink peene ke turant baad apna cup kahan rakhta hai, ye is baat ka strong indicator hai ki wo convinced aur open hai ya nahi.
+
+Koi jo suni gayi baat par hesitant (hichkicha raha), unsure ya negative feel kar raha hai, wo apna cup sharir ke doosri taraf rakhega taaki ek single-arm barrier ban sake. Jab wo suni gayi baat ko accept kar rahe hote hain, toh wo cup ko sharir ki usi side rakhte hain, jo ek open ya accepting attitude dikhata hai.
+
+**Arm barrier "no" kehta hai.**
+
+**Wo ab aapke ideas ke liye open hai.**
+
+Chair ke armrest par kohniyan (elbows) rakh kar baithna power ki position hai aur ek mazboot, upright image convey karti hai. Humble (vinamra) aur haare huye (defeated) log arms ko chair ke arms ke andar girne dete hain, toh isse har waqt bachein jab tak aapka maqsad haara hua dikhna na ho.
+
+---
+
+### The Power of Touch (Chhune ki Taqat)
+
+Jab aap right haath se haath mila rahe hon, tab left haath se us insaan ko chhuna ek powerful result create kar sakta hai. University of Minnesota ke researchers ne ek experiment kiya jisme...
+
+---
+
+### Touch Their Hand, Too (Unka haath bhi chuyein)
+
+Ek aur study mein librarians (pustakalay adhyaksh) involve thi jo kitab dete waqt borrower ke haath ko halka sa brush (touch) karti thi. Library ke bahar, borrowers ka survey kiya gaya aur library ki service ke baare mein sawal puche gaye. Jinhe touch kiya gaya tha unhone saare sawalon ka zyada favorable (achha) jawab diya aur unhe librarian ka naam yaad rehne ke chances bhi zyada the.
+
+British supermarkets mein ki gayi studies jahan change (paise wapas) dete waqt customers ke haath par halka sa touch kiya gaya, wahan bhi aise hi positive customer reactions dikhe. Yeh experiment U.S.A. mein waitresses ke saath bhi kiya gaya jinhe mukhya roop se tips se income milti hai. Kohni (elbow) aur haath touch karne wali waitresses ne non-touching waitresses ke muqable male diners se **36 percent** zyada tips kamayi, aur male waiters ne apni earnings mein **22 percent** ka izafa kiya chahe unhone kisi bhi sex ko touch kiya ho.
+
+Jab aap agli baar kisi naye insaan se milein aur haath milayein, toh apna left arm badhayein aur unki kohni ya haath par ek halka sa touch dein.
+
+---
+
+### Summary (Saar-ansh)
+
+Isse koi farq nahi padta ki aap ise kaise dekhte hain, sharir ke samne arms cross karna hamesha negative mana jata hai aur iska message bhejti bhejnewale ke dimaag mein utna hi hota hai jitna receive karnewale ke. Bhale hi aapne haath isliye baandhe hon kyunki aapki peeth mein dard (backache) hai, ek observer anjane mein aapko apne ideas ke liye "closed" hi samjhega. Abhi faisla karein ki aap haath na baandhne ki practice karenge aur aane wale chapters mein hum aapko dikhayenge ki ek zyada positive aur confident image project karne ke liye kya karna chahiye.
