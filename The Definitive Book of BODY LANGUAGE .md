@@ -1246,3 +1246,195 @@ Americans aksar anjane mein doosron ko offend karte hain. George W. Bush ne Texa
 ### Summary (Saar-ansh)
 
 Log un logon ke saath business karte hain jo unhe comfortable feel karwate hain. Jab kisi foreign country mein jayein, toh apni body language ko thoda samet kar rakhein jab tak aap locals ko observe na kar lein. Sincerity aur achhe manners sabse zaroori hain. Agar aap sure nahi hain, toh locals se politely puchein ki wahan cheezein kaise ki jaati hain. Cultural galat-fehmiyan sharmindagi paida kar sakti hain, isliye background ko hamesha dhyan mein rakhein.
+
+---
+
+## Chapter 6: HAND AND THUMB GESTURES (Haath aur Angoothe ke Ishaare)
+
+---
+
+**“Napoleon in His Study” by Jacques-Louis David, 1812, mein French leader ko unke famous pose mein dikhaya gaya hai—kya unhe sach mein peptic ulcer tha ya wo bas achha waqt bita rahe the?**
+
+Insaan ke ek haath mein sattaais (**27**) chhoti haddiyan hoti hain, jisme kalaai (wrist) ki aath kankar-numa (pebble-shaped) haddiyan shamil hain jo ligaments ke network aur darjanon chhoti muscles se judi hoti hain taaki joints move kar sakein.
+
+Scientists ne notice kiya hai ki dimaag aur haathon ke beech sharir ke kisi bhi doosre hisse ke muqable zyada nerve connections hote hain, isliye hum apne haathon se jo gestures aur positions banate hain, wo hamari emotional state ke baare mein powerful insights dete hain. Kyunki hamare haath mukhya roop se hamari body ke samne rehte hain, ye signals dekhna aasaan hota hai aur hum mein se zyada-tar logon ki kuch trademark hand positions hoti hain jinhe hum lagatar use karte hain.
+
+Example ke liye, Napoleon ka naam lijiye aur har koi ek aise mard ko describe karega jiska haath waistcoat ke andar chhupa ho aur uska angootha (**thumb**) upar ki taraf point kar raha ho, aur shayad wo koi theory batayein ya mazaak karein ki unhone aisa kyun kiya. Kuch log sochte hain ki unhe ulcer tha, ya wo ghadi (watch) chala rahe the, ya unhe koi skin bimari thi, ya phir painters ko haath paint karna pasand nahi tha.
+
+Asli kahani ye hai ki 1738 mein, Napoleon ke paida hone se kaafi pehle, **François Nivelon** ne *A Book of Genteel Behavior* publish ki thi jisme is posture ko describe kiya gaya tha: “...haath ko andar rakhna achhe parivaar aur mardana bahaduri (manly boldness) ka ek common stance tha, jisme thodi namrata (modesty) bhi hoti thi.” Jab Napoleon ne painting dekhi toh unhone artist se kaha, “Tumne mujhe samajh liya hai, mere pyaare David.” Toh ye status jatane ka ek gesture tha.
+
+History ki kitabein dikhati hain ki Napoleon ke regular repertoire mein ye gesture nahi tha—asal mein, wo us famous painting ke liye baithe bhi nahi the—artist ne unhe yaaddasht (memory) se paint kiya aur gesture khud jod diya. Lekin is hand gesture ki mashhoori ye highlight karti hai ki kaise artist, **Jacques-Louis David**, ne us authority ko samajh liya tha jo haath aur angoothe ki ye position project karegi. Napoleon sirf paanch foot char inch ke the, lekin jo log painting dekhte hain wo unhe cheh foot se zyada ka samajhte hain.
+
+---
+
+### How the Hands Talk (Haath kaise baat karte hain)
+
+Hazaron saalon tak, ek society mein insaan ka status ye tai karta tha ki wo baat karte waqt kitni der tak "floor hold" kar sakta hai (yaani kitni der tak log use bina toke sunenge). Aapke paas jitni zyada power ya authority hoti thi, doosre utna hi zyada khamosh rehne par majboor hote the jab aap bolte the. Example ke liye, Roman history dikhati hai ki **Julius Caesar** ko beech mein tokne par ek low-status insaan ko maut ki saza bhi mil sakti thi.
+
+Aaj, zyada-tar log aisi societies mein rehte hain jahan freedom of speech hai aur mukhya roop se koi bhi apni opinion rakh sakta hai. Britain, Australia aur U.S.A. mein toh President ya Prime Minister ko apni opinion ke saath tokna ya unhe taane maarne wala "slow handclap" dena bhi allowable hai, jaisa 2003 mein Prime Minister **Tony Blair** ke saath ek television discussion ke dauran hua tha.
+
+Kayi countries mein, haathon ne baatchit mein turn lene ko regulate karne ke liye "punctuation marks" ka role le liya hai. **Hands Raised** (haath uthane wala) gesture Italians aur French logon se udhaar liya gaya hai, jo "hand-talking" ke sabse bade users hain.
+
+---
+
+### On the One Hand... (Ek taraf...)
+
+Kisi insaan ko kisi discussion ko summarize karte huye dekhna, jisme wo dono points of view de raha ho, ye zahir kar sakta hai ki uska jhukaav (bias) kis taraf hai. Wo mukhya roop se ek haath ki hatheli upar (**palm up**) karke har point bolte hain aur phir doosre haath par opposing points dete hain. Right-handed log apna manpasand point of view apne right haath ke liye rakhte hain aur left-handers apne left ke liye.
+
+---
+
+### On the Other Hand, Gestures Improve Recall (Doosri taraf, Gestures yaaddasht sudhaarte hain)
+
+Hand gestures ka use dhyan khinchta hai, communication ka impact badhata hai, aur logon ko suni hui information zyada der tak yaad rakhne mein madad karta hai. University of Manchester mein, **Geoffrey Beattie** aur **Nina McLoughlin** ne ek study ki jahan volunteers ne Roger Rabbit aur Tweetie Pie jaise cartoon characters ki kahaniyan suni.
+
+Kuch listeners ke liye, narrator ne hand gestures jode jaise daudne ke liye haathon ko tezi se upar-neeche hilana, hair dryer dikhane ke liye waving movement, aur ek moti opera singer dikhane ke liye arms ko door tak phelana. Jab listeners ko das minute baad test kiya gaya, toh jin logon ne hand gestures dekhe the, unka stories ki details yaad rakhne ka response **ek-tihaai (one third)** zyada tha. Ye recall ability par hand gestures ke zabardast asar ko dikhata hai.
+
+Is chapter mein, hum pandrah (**15**) aise common hand gestures ko examine karenge jo aap rozana dekhte hain aur unka kya karna hai, ye discuss karenge.
+
+---
+
+### Rubbing the Palms Together (Hatheliyan aapas mein ragadna)
+
+Haal hi mein ek friend hamare ghar aayi hamari skiing holiday discuss karne ke liye. Baatchit ke dauran wo apni chair par peechhe jhuki, khul kar muskurayi, apni hatheliyan tezi se ragdi, aur boli, “Main aur intezaar nahi kar sakti!” Apne **Raised-Palms-Rub** se usne humein nonverbally bata diya tha ki wo is trip ke bahut successful hone ki umeed kar rahi hai.
+
+**Positive expectancy (umeed) dikhana**
+
+Hatheliyan ragadna ek aisa tarika hai jisse log **positive expectation** communicate karte hain. Dice phenkne wala jeetne ki umeed mein dice ko apni hatheliyon ke beech ragadta hai, stage ka host (MC) hatheliyan ragadte huye kehta hai, “Hum apne agle speaker ko sunne ke liye bahut utsuk hain,” aur ek excited salesperson manager ke office mein jaakar kehta hai, “Humein ek bahut bada order mila hai!”
+
+Lekin, wo waiter jo shaam ke khatam hone par aapki table par hatheliyan ragadte huye aata hai aur puchta hai, “Kuch aur chahiye, sir?”, wo nonverbally aapko bata raha hai ki wo ek **tip** ki umeed kar raha hai.
+
+**Hand rub ki raftaar (speed) batati hai ki gesture karne wale ko lagta hai ki fayda kise hoga.**
+
+Salespeople ko sikhaya jata hai ki wo products describe karte waqt Palm-Rub gesture ka use karein, aur tezi se haath chalayein taaki buyer defensive na ho jaye. Jab ek buyer apni hatheliyan tezi se ragadta hai aur kehta hai, “Chalo dekhte hain aapke paas kya hai!”, toh iska matlab hai ki wo kuch achha dekhne ki umeed kar raha hai aur khareed sakta hai.
+
+Hamesha context yaad rakhein: ek insaan jo thand ke din bus stand par khada tezi se hatheliyan ragad raha hai, wo zaroori nahi ki bus ka intezaar kar raha ho. Wo aisa isliye kar raha hai kyunki uske haath thande hain.
+
+---
+
+### Thumb and Finger Rub (Angoothe aur Ungli ko ragadna)
+
+Angoothe ko index finger ya fingertips par ragadna mukhya roop se **paise ki umeed** (money-expectancy) ka gesture hai. Iska symbolism ek sikke (coin) ko angoothe aur ungliyon ke beech ragadne jaisa hai. Ye aksar wo street vendor use karta hai jo kehta hai, “Main aapke 40 percent bacha sakta hoon,” ya wo dost jo kehta hai, “Kya tum mujhe pachaas dollar udhaar de sakte ho?”
+
+**“Hum is-se paise kama sakte hain!”**
+
+Ye gesture kisi bhi professional insaan ko apne clients ke saath deal karte waqt avoid karna chahiye, kyunki ye paise ko lekar negative associations paida karta hai.
+
+---
+
+### Hands Clenched Together (Haathon ko aapas mein bhinch-na)
+
+Pehli nazar mein, ye gesture confidence ka signal lag sakta hai, kyunki ise use karne wale log aksar muskurate bhi hain. Ek baar humne ek negotiator ko dekha jo us deal ke baare mein bata raha tha jo wo haar gaya tha. Jaise-jaise wo apni kahani mein gehra gaya, usne na sirf **Hands-Clenched** position le li, balki uski ungliyan safed padne lagi thi aur aisa lag raha tha jaise wo aapas mein weld (jud) gayi hon.
+
+Hands-Clenched gesture ek **restrained** (ruka hua), anxious ya negative attitude dikhata hai. Ye Queen Elizabeth ka bhi manpasand gesture hai jab wo royal visits ya public appearances par hoti hain aur ye mukhya roop se unki god (lap) mein hota hai.
+
+**Raised position mein hands clench karna frustration zahir karta hai, bhale hi insaan muskura raha ho.**
+
+Negotiation experts **Nierenberg** aur **Calero** ki research ne dikhaya ki ye ek frustration gesture bhi hai, jo ye signal deta hai ki insaan ek negative ya anxious attitude ko daba raha hai. Ye wo position hai jo ek aisa insaan leta hai jise lagta hai ki wo samne wale ko convince nahi kar pa raha.
+
+**Hands clenched in center position**
+
+**Hands clenched in lower position**
+
+Humne haathon ki height aur frustration ke degree ke beech ek connection (correlation) discover kiya: yaani, jab haath upar (center position) pakde jate hain, toh us insaan se deal karna zyada mushkil hota hai muqable lower position ke. Saare negative gestures ki tarah, aapko unki ungliyan "unlock" karne ke liye action lena hoga, jaise unhe drink offer karna ya kuch pakadne ko kehna, warna unka negative attitude waisa hi bana rahega.
+
+---
+
+### The Steeple (Gumbad-numa gesture)
+
+Ab tak humne zor diya hai ki gestures clusters mein aate hain aur unhe context mein dekhna chahiye. **Steepling** iska ek exception ho sakta hai, kyunki ye aksar akele (isolation) hota hai. Ek haath ki ungliyan doosre haath ki ungliyon ko halka sa dabati hain ek church steeple (gumbad) banane ke liye aur kabhi-kabhi wo aage-pichhe rock karti hain jaise koi spider sheeshe par push-ups kar raha ho.
+
+Humne paya ki Steeple aksar superior-subordinate interaction mein use hota hai aur ye ek **confident** ya self-assured attitude dikhata hai. Superiors aksar ye position tab lete hain jab wo subordinates ko instructions ya advice dete hain aur ye accountants, lawyers aur managers mein kaafi common hai.
+
+**Use poora bharosa hai ki uske paas sahi jawab hain.**
+
+Jo log ise use karte hain wo kabhi-kabhi Steeple ko ek prarthana (praying) gesture mein badal dete hain "God-like" dikhne ki koshish mein. President **Chirac** aur **Gerry Adams** kabhi-kabhi God-like dikhte hain. Agar aap aisa dikhna chahte hain ki aap confident hain aur aapke paas saare sahi jawab hain, toh Steeple position aapke liye kaam karegi.
+
+---
+
+### Using Steepling to Win at Chess (Chess jeetne ke liye Steepling ka use)
+
+Is scene ko imagine kijiye—aap chess khel rahe hain aur aapki baari hai. Aap apna haath chessboard par le jate hain aur apni ungli ek chess piece par rakhte hain, ye ishara karte huye ki aap use move karne wale hain. Tabhi aap notice karte hain ki aapka opponent peechhe jhukta hai aur Steeple gesture banata hai. Aapke opponent ne nonverbally aapko bata diya hai ki wo aapke move ko lekar confident hai (yaani uske paas counter-move hai), toh aapki best strategy ye hai ki wo move na karein.
+
+Agli baar aap kisi doosre piece ko chhuaiye aur dekhiye ki kya opponent Hands-Clenched ya Arms-Crossed position leta hai, jo ye signal deta hai ki use aapka potential move pasand nahi aaya—toh ab aapko wahi move karna chahiye.
+
+Steeple ke do main versions hain: **Raised Steeple**, jo tab liya jata hai jab Steepler apni opinion de raha ho ya baat kar raha ho; aur **Lowered Steeple**, jo mukhya roop se tab use hota hai jab Steepler bolne ke bajaye sun raha ho.
+
+**The Lowered Steeple**
+
+Auratein Raised Steeple ke muqable Lowered Steeple position zyada use karti hain. Jab sir ko peechhe jhuka kar Raised Steeple liya jaye, toh insaan mein arrogance ya smugness (ghaman) ki feeling aa jati hai.
+
+Bhale hi Steeple ek positive confidence signal hai, ye negative context mein bhi ho sakta hai. Example ke liye, agar koi Steeple karta hai jab wo aapke ideas sun raha hai, toh ye achha sign hai. Par agar Steeple se pehle negative gestures ki series hui ho (jaise arm folding, leg crossing, looking away), toh wo confident ho sakta hai ki wo "haan" nahi kahega ya wo aapse peechha chhudana chahta hai. Steeple se pehle ke gestures hi final result ki chabi (key) hain.
+
+---
+
+### The Face Platter (Chehre ki thali)
+
+**The Face Platter—apna chehra ek mard ke admire karne ke liye present karna.**
+
+Ye koi negative gesture nahi hai—ye courtship (pyar-mohabbat) mein use hone wala ek positive gesture hai. Ise mukhya roop se auratein aur gay mard use karte hain jo kisi mard ka dhyan khinchna chahte hain. Ek aurat apne ek haath ko doosre ke upar rakhti hai aur apna chehra mard ke samne aise present karti hai jaise wo kisi platter (thali) par ho taaki wo use admire kar sake. Agar aap flattery (tareef) use karne wale hain—chahe asli ho ya nakli—toh ye gesture uske liye "green light" deta hai.
+
+---
+
+### Holding Hands Behind the Back (Haath peeth peechhe baandhna)
+
+Duke of Edinburgh (Prince Philip) aur British Royal Family ke kayi mard sadasya sir upar, thoddi (chin) bahar, aur ek haath se doosre haath ko peeth peechhe pakad kar chalne ki aadat ke liye jaane jate hain. Ye gesture leaders aur royalty mein common hai aur ise beat par patrol karne wale policemen, school ke ground mein ghumte headmaster, senior military personnel, aur authority wali position ke log use karte hain.
+
+**Superiority-confidence gesture ka back aur front view.**
+
+Is gesture se jude emotions hain **superiority**, **confidence**, aur **power**. Insaan apne vulnerable stomach, heart, crotch, aur throat ko expose kar deta hai, jo nidarrta (fearlessness) ka ek subconscious act hai. Hamara experience dikhata hai ki agar aap high-stress situations mein ye position lete hain (jaise interview ka intezaar karte waqt), toh aap "cause and effect" ki wajah se confident aur authoritative feel karne lagenge.
+
+Lekin, haath peeth peechhe rakhne ka ek doosra version bhi hai jo **self-control** dikhata hai. Ismein ek haath doosre wrist (kalaai) ya arm ko peeth peechhe mazbooti se pakadta hai, jaise ek arm doosre arm ko hamla karne se rok raha ho.
+
+**The Hand-Gripping-Wrist gesture**
+
+Ek haath jitna upar doosre arm ko pakdega, insaan utna hi frustrated ya gusse mein hone ke chances hain. Neeche ki illustration mein, insaan pichli photo ke muqable zyada self-control dikhane ki koshish kar raha hai kyunki haath upper arm ko pakad raha hai, sirf wrist ko nahi. Isi gesture se ye expression aaya hai, “Get a good grip on yourself” (khud par kabu rakho).
+
+**The Upper-Arm Grip**
+
+Wrist-and-arm-gripping aksar court ke bahar, salespeople ke reception area mein khade hone par, ya doctor ka wait kar rahe patients mein dekha ja sakta hai. Ye nervousness ya self-restraint ko chhupane ki koshish hai. Agar aap khud ko aisa karte pakdein, toh ise **Palm-in-Palm** (hatheli mein hatheli) behind the back mein badal dein, aur aap zyada confident feel karne lagenge.
+
+---
+
+### Thumb Displays (Angoothe ka pardarshan)
+
+Jaise pehle bataya gaya, angoothe (**thumbs**) superiority dikhate hain. Palmistry (hast-rekha vigyan) mein, angoothe character ki strength aur ego ko represent karte hain, aur body language mein bhi ye self-important attitudes dikhate hain. Thumbs ka use dominance, assertiveness, ya kabhi-kabhi aggressive attitudes dikhane ke liye hota hai; ye mukhya roop se secondary gestures hote hain jo kisi cluster ka hissa hote hain.
+
+Thumb displays positive signals hain, jo aksar "cool" dikhne wale logon ke typical pose mein dikhte hain jo superiority dikhane ke liye inka use karte hain. Ek mard un auraton ke aas-paas **Protruding Thumbs** (bahar nikle angoothe) use karega jinse wo attract hota hai. High-status ya keemti kapde pehenne wale log bhi apne thumbs display karte hain. Aap shayad hi kisi low-status insaan ko aisa karte dekhenge.
+
+**The Waistcoat Thruster**
+
+Thumb display karne wale log aksar apne panjon (balls of feet) par rock karte hain taaki wo thode aur lambe dikhein.
+
+---
+
+### Thumbs-Protruding-from-Coat-Pocket (Pocket se bahar nikle angoothe)
+
+Ye gesture un mardon aur auraton mein common hai jinhe lagta hai ki wo doosron se superior position mein hain. Ye Prince Charles ke regular gestures mein se ek hai aur us "in-control" attitude ko zahir karta hai jo wo us waqt feel karte hain. Work environment mein, boss isi position mein office mein ghumega, aur boss ki absence mein wo insaan aisa karega jo next-in-charge ho. Lekin kisi subordinate ki himmat nahi hogi ki wo boss ke samne ise use kare.
+
+**Prince Charles apne Thumb-Protruding-from-Coat-Pocket gesture ka use karte huye.**
+
+Thumb displays tab aur bhi obvious ho jate hain jab insaan koi contradictory verbal message de raha ho. Example ke liye, wo lawyer jo jury ki taraf mudta hai aur dheemi awaaz mein kehta hai, “Meri niman (humble) opinion mein, ladies and gentlemen...” jabki wo apne thumbs display kar raha hai aur apna sir peechhe jhuka kar unhe “apni naak ke neeche se” (look down his nose) dekh raha hai.
+
+**Ek lawyer humble (vinamra) hone ka natak karte huye.**
+
+Ye jury ko feel karwa sakta hai ki lawyer insincere ya pompous (ghamandi) hai. Agar lawyer humble dikhna chahta, toh use apna coat khol kar, open palms ke saath aage jhuk kar jury ke paas jana chahiye tha taaki wo thoda chhota dikhe.
+
+Thumbs kabhi-kabhi peechhe ki pockets (**back pockets**) se bhi bahar nikalte hain jaise insaan apna dominant attitude chhupane ki koshish kar raha ho. Auraton ko thumb displays use karte huye 1960s se pehle kam dekha jata tha, jab unhone trousers pehenna aur society mein authoritative roles lena shuru kiya.
+
+**Thumb displays confident aur authoritative attitudes zahir karte huye.**
+
+**Arms-Folded-with-Thumbs-Pointing-Upward** ek aur common thumb cluster hai. Ye ek double signal hai, jo defensive ya negative attitude (folded arms) ke saath-saath thumbs ke zariye superiority zahir karta hai. Is cluster ko use karne wala insaan baat karte waqt angoothon se ishara karta hai aur panjon par rock karta hai.
+
+**Khud ko band (close) kar raha hai par phir bhi superior feel kar raha hai.**
+
+Angoothe ka use ridicule (mazaak udane) ya disrespect ke signal ke taur par bhi kiya ja sakta hai jab ise kisi doosre insaan ki taraf point karne ke liye use kiya jaye. Example ke liye, wo pati jo apne dost ki taraf jhukta hai, apni patni ki taraf angoothe se ishara karta hai aur kehta hai, “Ye hamesha nag (pareshan) karti hai,” wo uske saath jhagde ko dawat de raha hai. Is case mein, hilta hua angootha use neecha dikhane ke liye pointer ki tarah use ho raha hai. Is wajah se, thumb-pointing zyada-tar auraton ke liye irritating hota hai, khaaskar jab koi mard aisa kare.
+
+**“Ye hamesha mujhe nag karti hai!”**
+
+Thumb-shaking gesture auraton mein common nahi hai, halanki wo kabhi-kabhi un logon ki taraf point karne ke liye ise use karti hain jinhe wo pasand nahi karti.
+
+---
+
+### Summary (Saar-ansh)
+
+Angoothe (thumbs) hazaron saalon se power aur authority ke sign rahe hain. Roman times mein, gladiator ke liye angootha upar ya neeche hone ka matlab zindagi ya maut hota tha. Bina kisi training ke bhi, doosre log instinctively thumb signals ko decode kar lete hain aur unka matlab samajh jate hain. Ab aap is position mein hain ki na sirf thumb signs decode kar sakein, balki khud ko unhe use karne ke liye train bhi kar sakein.
