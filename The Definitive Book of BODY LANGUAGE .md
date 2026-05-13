@@ -1119,3 +1119,130 @@ Jab aap agli baar kisi naye insaan se milein aur haath milayein, toh apna left a
 ### Summary (Saar-ansh)
 
 Isse koi farq nahi padta ki aap ise kaise dekhte hain, sharir ke samne arms cross karna hamesha negative mana jata hai aur iska message bhejti bhejnewale ke dimaag mein utna hi hota hai jitna receive karnewale ke. Bhale hi aapne haath isliye baandhe hon kyunki aapki peeth mein dard (backache) hai, ek observer anjane mein aapko apne ideas ke liye "closed" hi samjhega. Abhi faisla karein ki aap haath na baandhne ki practice karenge aur aane wale chapters mein hum aapko dikhayenge ki ek zyada positive aur confident image project karne ke liye kya karna chahiye.
+
+---
+
+## Chapter 5: CULTURAL DIFFERENCES (Sanskritik Antar)
+
+---
+
+Ek Brit, ek German, ya ek American is gesture ko kaise interpret karega? Imagine kijiye ye scene—aap ek ghar inspect kar rahe hain use khareedne ke liye aur aap bathroom ka darwaza kholte hain aur wahan ek aurat ko bathtub mein nanga baitha dekhte hain. Aap kya expect karenge ki wo hairan aurat kaise react karegi? Ek British ya American aurat ek haath se apni breasts cover karegi aur doosre se genitals, jabki ek Swedish aurat sirf apne genitals cover karegi. Ek Muslim aurat apna chehra (**face**) cover karegi; ek Sumatran aurat apne ghutne (**knees**) cover karegi; aur ek Samoan, sirf apni nabhi (**navel**).
+
+### We Were Having Pizza at the Time (Hum us waqt pizza kha rahe the)
+
+Jab hum ye chapter likh rahe hain, hum Venice, Italy mein hain, aur cultural differences par ek conference mein bol rahe hain. Agar humne kabhi Italy travel nahi kiya hota, toh hum wahan jo experience kiya usse shock ho jaate. Saari cultures pavement (pedal chalne ka rasta) par usi side chalti hain jis side wo road par drive karte hain. Iska matlab hai ki agar aap British, Australian, South African, ya New Zealander hain, toh aap left side drive aur walk karte hain. Iska natija ye hota hai ki aap payenge ki Italians aapse lagatar takra rahe hain jab aap pavement par chalte hain kyunki, jab wo kareeb aate hain aur aap apne left ki taraf mudte hain, wo apne right ki taraf mudte hain. 
+
+Wearing sunglasses in foreign countries cultures ke beech pavement takkar ka sabse bada karan hai kyunki koi bhi doosre insaan ki nazar (**gaze**) nahi dekh sakta ye janne ke liye ki wo kis taraf kadam badhane wala hai. Par ye naye aur interesting foreigners se milne ka ek naya tarika hai. Aap tab bhi hairan reh jayenge jab aap kisi Italian ko goodbye kehne ke liye haath milane badhenge par uske bajaye, wo aapke dono gaalon (**cheeks**) par kiss kar dega.
+
+“Jab main nikalne laga, toh us Italian aadmi ne mere dono gaalon par kiss kiya,” traveler ne kaha. “Main hairan tha, par phir maine socha, ‘When in Rome...’” (Jaisa desh, waisa bhesh).
+
+---
+
+### Take the Cultural Test (Cultural Test dijiye)
+
+Aap body language mein cultural differences ko lekar kitne aware hain? Ye exercise try kijiye—apna main haath uthaiye aur number 'paanch' (five) dikhaiye—abhi kijiye. Ab ise number 'do' (two) mein badaliye. Agar aap Anglo-Saxon hain, toh 96 percent chance hai ki aapne apni middle aur index fingers uthayi hongi. Agar aap European hain, toh 94 percent chance hai ki aapne apna angootha (**thumb**) aur index finger uthayi hogi. 
+
+
+Europeans angoothe par number ek se counting shuru karte hain, index finger par do, middle finger par teen, aur isi tarah. Anglo-Saxons index finger par number ek ginte hain, middle finger par do aur angoothe par paanch par khatam karte hain. Ab neeche diye gaye hand signals ko dekhiye aur dekhiye ki aap har ek ko kitne alag matlab de sakte hain. Har sahi jawab ke liye, ek point lijiye aur har galat jawab ke liye ek point kam kijiye.
+
+* **A. Europe aur North America:** OK; **Mediterranean region, Russia, Brazil, Turkey:** Ek chhed (orifice) ya insult; **Tunisia, France, Belgium:** Zero (bekaar); **Japan:** Paisa (coins).
+* **B. Western countries:** Ek; Excuse me!; Bhagwan mera gawah hai; **Nahi!** (bachon ke liye).
+* **C. Britain, Australia, New Zealand, Malta:** Up yours! (gaali); **U.S.A.:** Do; **Germany:** Victory (jeet); **France:** Peace (shanti); **Purana Rome:** Julius Caesar paanch beer order kar raha hai.
+* **D. Europe:** Teen; **Catholic countries:** Ek ashirwad (blessing).
+* **E. Europe:** Do; **Britain, Australia, New Zealand:** Ek; **U.S.A.:** Waiter!; **Japan:** Ek insult.
+* **F. Western countries:** Chaar; **Japan:** Ek insult.
+* **G. Western countries:** Paanch; **Har jagah:** Ruko! (Stop); **Greece aur Turkey:** Bhaad mein jao! (Go to hell).
+* **H. Mediterranean:** Chhota penis; **Bali:** Bura; **Japan:** Aurat; **South America:** Patla; **France:** Tum mujhe bewakoof nahi bana sakte!
+* **I. Mediterranean:** Tumhari patni bewafa hai; **Malta aur Italy:** Buri nazar (Evil Eye) se bachav; **South America:** Bad luck se bachav; **U.S.A.:** Texas University Logo.
+* **J. Greece:** Bhaad mein jao!; **West:** Do.
+* **K. Purana Rome:** Up yours!; **U.S.A.:** Sit on this! Screw you!
+* **L. Europe:** Ek; **Australia:** Sit on this! (upar ki taraf jhatka); **Kaafi jagah:** Hitch (lift mangna); **Kaafi jagah:** Main sach bol raha hoon.
+
+**Aapka score kya raha?** * **30 se upar:** Aap ek well-traveled aur broad-thinking insaan hain jo har kisi ke saath ghul-mil jate hain. 
+* **15-30 points:** Aapko thodi awareness hai par aur samajhne ki zaroorat hai. 
+* **15 se kam:** Aap sochte hain ki sab aapki tarah hi sochte hain. Aap shayad ek American hain.
+
+---
+
+### Why We're All Becoming American (Hum sab American kyun bante ja rahe hain)
+
+American television aur movies ke bade distribution ki wajah se, har culture ki nayi generation ek generic North American body language develop kar rahi hai. For example, 60s ki umar wale Australians British Two-Fingers-Up gesture ko ek insult ke taur par pehchanenge, jabki ek Australian teenager ke ise number 'do' ke roop mein padhne ke zyada chances hain aur wo American Middle-Finger-Raised ko insult ka main form manega. 
+
+Zyada-tar countries ab Ring gesture ko "**OK**" ke matlab mein pehchanti hain, bhale hi wo local taur par use na hota ho. Har us country mein jahan television hai, chhote bachche ab baseball caps ulti pehente hain aur “Hasta la vista, baby” chillate hain, bhale hi unhe Spanish samajh na aati ho. American television hi mukhya karan hai ki cultural body-language differences khatam ho rahe hain.
+
+---
+
+### Cultural Basics Are the Same Almost Everywhere (Cultural Basics lagbhag har jagah ek jaise hain)
+
+Facial expressions aur smiles lagbhag har jagah logon ke liye ek hi matlab rakhte hain. Paul Ekman ne 21 alag-alag cultures ke logon ko photographs dikhayi aur paya ki har case mein majority sehmat thi ki kaunsi pictures khushi, dukh, aur ghin (disgust) dikhati hain. Surprise expressions ke liye 21 mein se 20 countries sehmat thi. Ekmaatra bada cultural difference Japanese logon ke saath tha, jinhone darr (fear) wali photograph ko hairani (**surprise**) bataya.
+
+Agar ek Saudi mard public mein kisi doosre mard ka haath pakadta hai toh ye mutual respect ka sign hai. Par aisa Australia, Texas, ya Liverpool, England mein mat kijiye.
+
+---
+
+### Greeting Differences (Greetings mein antar)
+
+Haath milana (handshaking) ke differences kuch sharmindagi bhare aur mazaakiya cultural encounters paida kar sakte hain. British, Australian, German, aur American colleagues milne aur jane par haath milayenge. European cultures din mein kayi baar haath milati hain, aur French log toh din mein 30 minutes tak haath milate hain. **Indian, Asian, aur Arabic** cultures haath milane ke khatam hone ke baad bhi aapka haath pakad kar rakh sakti hain. 
+
+Germans aur French ek ya do firm pumps dete hain, jabki Brits teen se paanch aur Americans paanch se saat pumps. Americans ko Germans distant lagte hain, aur Germans ko Americans aise lagte hain jaise wo airbed mein hawa bhar rahe hon.
+
+---
+
+### When One Culture Encounters Another (Jab ek culture doosre se milta hai)
+
+Jab Italians baat karte hain toh wo apne haathon ko upar rakhte hain baatchit mein apni jagah banaye rakhne (**holding the floor**) ke liye. Ek Italian conversation ke dauran jo affectionate arm-touching lagta hai, wo listener ko apne haath uthane aur bolne se rokne ka ek tarika hai. Ek Italian ko beech mein rokne ke liye, aapko hawa mein uske haath pakadne honge aur unhe neeche dabana hoga. 
+
+Comparison mein, Germans aur British baat karte waqt aise lagte hain jaise unhe lakwa (paralyzed) maar gaya ho. French apne forearms aur haathon ka use karte hain, Italians poore arms aur body ka, jabki Brits aur Germans 'attention' ki position mein khade rehte hain. International business mein, ek chhote aur masoom se gesture ki wajah se poori deal doob sakti hai.
+
+---
+
+### The English Stiff-Upper-Lip (English logon ka Stiff-Upper-Lip)
+
+Ye gesture honton ko sikodne (**pursing**) se juda hai taaki chehre ko control kiya ja sake aur as-little-as-possible emotion dikhe. Is tarah English log poore emotional control mein hone ka impression dete hain. Henry VIII is expression ke liye mashhoor tha. Uska mooh chhota tha aur jab usne portrait ke liye upar ke hont ko stiff kiya toh wo aur bhi chhota laga, jiske natije mein solvi sadi mein chhota mooh superiority ka signal ban gaya.
+
+---
+
+### The Japanese (Japanese log)
+
+Japan mein bodily contact ko ashabhya (**impolite**) mana jata hai. Japanese log pehli mulaqat par jhukte (**bow**) hain, jahan status ke hisaab se jhukna hota hai—zyada status wala kam jhukta hai. Japan mein, pakka kijiye ki aapke joote (**shoes**) bilkul saaf hon kyunki har baar jhukte waqt ek Japanese unhe inspect karta hai. 
+
+
+Japanese logon ka sunne ka tarika muskurahaton aur 'polite noises' ka collection hai, jise Westerners 'agreement' samajh lete hain, par wo sirf politeness hai. **Head-Nod** Japan mein politeness hai, par Bulgaria mein iska matlab 'nahi' hota hai.
+
+---
+
+### “You Dirty, Disgusting Pig!”—Nose-Blowing (“Gande, ghinone suar!”—Naak saaf karna)
+
+Europeans aur Westerners apni naak rumaal ya tissue mein saaf karte hain jabki Asians aur Japanese thookte (**spit**) hain. Dono ko ek doosre ka behavior 'disgusting' lagta hai. Ye difference tuberculosis (TB) mahamari ki wajah se hai. Europe mein logon ko rumaal mein naak saaf karne ko kaha gaya taaki bimari na faile. Isliye, Japanese hairan hote hain jab koi ganda rumaal apni pocket mein wapas rakh leta hai.
+
+---
+
+### The Three Most Common Cross-Cultural Gestures (Teen sabse common cross-cultural gestures)
+
+#### 1. The Ring (Ghera)
+Ring gesture OK represent karta hai aur English bolne walon mein common hai. France mein iska matlab **zero** hai. Japan mein iska matlab **money** hai. Mediterranean countries mein ye ishara hai ki mard gay hai. Turkey mein iska matlab ek insult (arsehole) hai. Richard Nixon ko Latin America mein is gesture ki wajah se boo kiya gaya tha.
+
+#### 2. The Thumb-Up (Angootha upar)
+Iska matlab "achha", "ek", ya "up yours" ho sakta hai. Ye power ka sign hai aur superiority signals mein use hota hai. Logon ko "apne angoothe ke neeche" (**under their thumb**) rakhna isi physical power se aaya hai.
+
+#### 3. The V-Sign (V-ishara)
+Great Britain aur Australia mein iska matlab "**up yours**" (gaali) hota hai agar hatheli bolne wale ki taraf ho. Winston Churchill ne ise hatheli bahar karke "victory" ke liye popular kiya tha. Europe mein ye number 'do' bhi ho sakta hai. Ek English archer ki wajah se iski shuruat hui thi.
+
+---
+
+### To Touch or Not to Touch? (Chhuna ya na chhuna?)
+
+Touch karne ki frequency culture par depend karti hai. French aur Italians lagatar touch karte hain, jabki British bilkul nahi, siwaye sports field ke. Dr. Ken Cooper ne touch frequencies record ki: Puerto Rico mein 180 baar per hour, Paris mein 110, Florida mein 2, aur London mein **zero**.
+
+---
+
+### How to Offend Other Cultures (Doosre cultures ko kaise offend karein)
+
+Americans aksar anjane mein doosron ko offend karte hain. George W. Bush ne Texas Longhorn team ka gesture (index aur little finger uthakar) dikhaya, jo bulls ke horns represent karta hai. Par Italy mein ise "**cuckold**" kehte hain, jiska matlab hai ki mard ki patni bewafa hai. Rome mein paanch Americans ko is gesture ki wajah se arrest kiya gaya tha.
+
+
+---
+
+### Summary (Saar-ansh)
+
+Log un logon ke saath business karte hain jo unhe comfortable feel karwate hain. Jab kisi foreign country mein jayein, toh apni body language ko thoda samet kar rakhein jab tak aap locals ko observe na kar lein. Sincerity aur achhe manners sabse zaroori hain. Agar aap sure nahi hain, toh locals se politely puchein ki wahan cheezein kaise ki jaati hain. Cultural galat-fehmiyan sharmindagi paida kar sakti hain, isliye background ko hamesha dhyan mein rakhein.
