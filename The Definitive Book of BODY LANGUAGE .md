@@ -1438,3 +1438,138 @@ Thumb-shaking gesture auraton mein common nahi hai, halanki wo kabhi-kabhi un lo
 ### Summary (Saar-ansh)
 
 Angoothe (thumbs) hazaron saalon se power aur authority ke sign rahe hain. Roman times mein, gladiator ke liye angootha upar ya neeche hone ka matlab zindagi ya maut hota tha. Bina kisi training ke bhi, doosre log instinctively thumb signals ko decode kar lete hain aur unka matlab samajh jate hain. Ab aap is position mein hain ki na sirf thumb signs decode kar sakein, balki khud ko unhe use karne ke liye train bhi kar sakein.
+
+---
+
+## Chapter 7: EVALUATION AND DECEIT SIGNALS (Mulyankan aur Dhokhedhadi ke Ishaare)
+
+---
+
+### Decoding Hand-to-Face Gestures (Hand-to-Face Gestures ko Decode Karna)
+
+Bill Clinton grand jury ke samne—aapko kya lagta hai wo kya soch rahe hain?
+
+Agar aap har us insaan se bilkul sach kahein jisse aap interact karte hain, toh uska kya natija hoga? Agar aap wahi shabd kahein jo aapke dimaag mein us waqt chal rahe hon, toh isse kaise naye problems khade honge?
+
+Example ke liye:
+Apne boss se: "Good morning, boss—aap ek talentless slob (kaam-chor) hain."
+Ek mard ek female customer se: "Aapke business ke liye shukriya, Susan, aur kya main keh sakta hoon ki aapki breasts bahut shandaar hain."
+Ek aurat ek male padosi se: "Groceries (saaman) mein madad ke liye shukriya. Aapka butt (pichwada) kaafi achha hai, par pata nahi kaun aapke baal kaat-ta hai?"
+Apni saas (mother-in-law) se: "Aapse milkar khushi hui—aap ek dakhal-andazi karne wali, negative budhiya hain."
+
+Jab ek aurat puchti hai, "Kya is dress mein main moti lag rahi hoon?" toh aapka jawab kya hota hai? Agar aap ek mard hain aur jaante hain ki aapke liye kya sahi hai, toh aap kahenge ki wo achhi lag rahi hai. Lekin aap shayad soch rahe honge, "Dress tumhe moti nahi dikha rahi—wo saare cakes aur ice-cream jo tum khati ho, wo tumhe moti bana rahe hain."
+
+---
+
+### Lying Research (Jhoot par Research)
+
+Jhoot bolne ke sabse kam bharosemand (dependable) ishaare wo hote hain jin par insaan ka sabse zyada control hota hai, jaise ki shabd, kyunki koi bhi apne jhoot ki practice kar sakta hai. Jhoot ke sabse bharosemand clues wo gestures hote hain jo insaan automatically karta hai, kyunki un par uska bahut kam ya bilkul control nahi hota. Ye responses jhoot ke dauran hone ke zyada chances hote hain kyunki wo jhoote (liar) ke liye emotionally sabse zaroori cheezein hoti hain.
+
+Robert Feldman ne University of Massachusetts mein 121 couples ko study kiya jab wo kisi teesre insaan se baatchit kar rahe the. Ek-tihaai logon ko kaha gaya ki wo "pyaare" (likeable) dikhein, doosre ek-tihaai ko kaha gaya ki wo "kaabil" (competent) dikhein, aur baakiyon ko kaha gaya ki wo bas normal rahein. Saare participants ko baad mein khud ka video dekhne aur apne bole huye jhoot pehchanne ko kaha gaya, chahe wo kitne bhi chhote hon. Kuch jhoot "white lies" (safed jhoot) the, jaise ye kehna ki wo kisi ko pasand karte hain jabki wo nahi karte the, jabki kuch jhoot bahut bade the.
+
+---
+
+### The Three Wise Monkeys (Teen Samajhdaar Bandar)
+
+Ye bandar un logon ka symbol hain jo bura nahi sunte, bura nahi dekhte aur bura nahi bolte. Unke simple hand-to-face gestures insaani dhokhedhadi (deceit) ke gestures ka basis banate hain. Dusre shabdon mein, jab hum jhoot bolte hain, dhokha dete hain ya kuch chhupate hain, hum aksar apne mooh, aankhon ya kaanon ko apne haathon se dhakne ki koshish karte hain.
+
+Humne pehle bhi dekha hai ki bachche in gestures ko bahut hi obvious tarike se karte hain. Agar ek chhota bachcha jhoot bolta hai, wo apne mooh ko ek ya dono haathon se dhak leta hai. Agar wo apne parents ki daant nahi sunna chahta, wo apne kaan band kar leta hai. Aur agar wo kuch aisa dekhta hai jo wo nahi dekhna chahta, wo apni aankhein dhak leta hai. Jaise-jaise insaan bada hota hai, ye gestures aur bhi tezi se aur subtle (halke) hote jate hain, par wo hote zaroori hain jab koi jhoot bol raha ho ya dhokha sun raha ho.
+
+---
+
+### How the Face Reveals the Truth (Chehra kaise sach zahir karta hai)
+
+Chehra sharir ka wo hissa hai jise hum sabse zyada control karne ki koshish karte hain taaki hum apni asli feelings chhupa sakein. Hum muskurate hain, sir hilaate hain aur aise expressions banate hain jinhe hum consciously control kar sakte hain. Lekin, hamara sharir hamare emotions ko micro-expressions ke zariye bahar nikal hi deta hai. Ye micro-gestures second ke ek chhote se hisse ke liye aate hain aur inpar hamara control nahi hota. Agar aap kisi ke bole huye shabdon aur unke chehre ke halke badlavon ko match karein, toh aap sachai jaan sakte hain.
+
+---
+
+### Women Lie the Best and That's the Truth (Auratein sabse achha jhoot bolti hain aur ye sach hai)
+
+Research dikhati hai ki auratein mardon ke muqable zyada achha jhoot bol sakti hain aur doosron ka jhoot behtar pakad sakti hain. Iska karan unka "multi-tracking" dimaag hai jo facial expressions, voice tone aur shabdon ko ek saath analyze kar sakta hai. Mardaana dimaag aksar sirf shabdon par focus karta hai aur baaki non-verbal signals miss kar deta hai. Yahi wajah hai ki ek patni aksar apne pati ka jhoot turant pakad leti hai, par pati ke liye ye mushkil hota hai.
+
+---
+
+### Why It's Hard to Lie (Jhoot bolna mushkil kyun hai)
+
+Jhoot bolna dimaag ke liye ek mushkil task hai kyunki use do kahaniyan ek saath chalani padti hain—ek jo asli hai aur ek jo wo bana raha hai. Is stress ki wajah se sharir mein aise reactions hote hain jinhe control karna namumkin hai. Subconscious mind nervous energy bhejta hai jo un gestures ke roop mein dikhti hai jo bole gaye shabdon ke ulat hote hain. Professional liars (jaise politicians ya actors) ne in signals ko kam karna ya fake karna seekh liya hai, par aam aadmi aksar pakda jata hai.
+
+---
+
+### Eight of the Most Common Lying Gestures (Aath sabse common jhoot bolne wale gestures)
+
+#### 1. The Mouth Cover (Mooh Dhakna)
+Haath mooh ko dhak leta hai kyunki dimaag anjane mein instruction deta hai ki jhoot wale shabdon ko dabaya jaye. Kabhi-kabhi ye sirf hont (lips) par kuch ungliyan rakhne ya band mutthi jaisa bhi ho sakta hai. Kuch log is gesture ko fake khaasi (cough) ke saath chhupane ki koshish karte hain.
+
+#### 2. The Nose Touch (Naak Chhuna)
+Ise "Pinocchio Effect" kehte hain. Jhoot bolne se blood pressure badhta hai, jis-se naak ki tissues suuj jati hain (par ye nangi aankh se nahi dikhta). Is-se naak mein halke tingling (jhunjhunahat) hoti hai aur insaan naak ragadta hai. Bill Clinton ne Monica Lewinsky case mein jhoot bolte waqt total 26 baar naak chhuyi thi.
+
+#### 3. The Eye Rub (Aankh Ragadna)
+Ye "See no evil" ka adult version hai. Dimaag jhoot ya dhokha dekhne se bachna chahta hai, isliye insaan apni aankh ragadta hai ya door dekhta hai. Mard ise zyada zor se karte hain jabki auratein halke se karti hain taaki makeup na bigde.
+
+#### 4. The Ear Grab (Kaan Pakadna)
+Ye listener ka ishara hai jab wo jhoot sun raha ho. Wo kaan ke lobe ko khenchta hai ya kaan ke pichhe ragadta hai jaise wo us baat ko sunna nahi chahta. Ye anxiety (ghabrahat) ka bhi sign hai.
+
+#### 5. The Neck Scratch (Gardan Khujlana)
+Ismein index finger gardan ke side mein lagbhag paanch baar khujlati hai. Ye uncertainty (shak) ka signal hai. Insaan keh raha hota hai, "Mujhe nahi pata main sehmat hoon ya nahi."
+
+#### 6. The Collar Pull (Collar Khenchna)
+Jhoot bolne se gardan par paseena aa sakta hai, isliye insaan collar ko dhila karne ke liye use bahar khenchta hai. Ye tab bhi hota hai jab koi gussa ya frustrated feel kar raha ho.
+
+#### 7. Fingers-in-the-Mouth (Ungliyan Mooh Mein)
+Ye insaan ki security aur reassurance ki zaroorat dikhata hai. Wo stress mein wapas bachpan ki angootha chusne wali aadat par chala jata hai. In logon ko guarantees dena faydemand hota hai.
+
+---
+
+### Evaluation and Procrastination Gestures (Mulyankan aur Taal-matol ke gestures)
+
+Ek achha speaker wo hai jo jaanta hai ki uski audience kab bore ho rahi hai ya kab unka interest badh raha hai. Hand-to-cheek gestures ek thermometer ki tarah kaam karte hain.
+
+### Boredom (Uktahat)
+
+Jab listener apna haath sir ko support dene ke liye use karne lage, toh samajhiye boredom shuru ho gayi hai. Jitna zyada wazan haath par hoga, insaan utna hi zyada bore ho raha hai. Table par ungliyan bajana (finger drumming) impatience (besabri) dikhata hai, boredom nahi.
+
+---
+
+### Evaluation Gestures (Evaluation Gestures)
+
+Mulyankan band mutthi ko gaal par rakh kar dikhayi jati hai, jisme index finger upar ki taraf hoti hai. Agar insaan interested hai par thodi boredom bhi ho rahi hai, toh hatheli sir ko support dene lagegi.
+
+Asli interest tab dikhta hai jab haath gaal par halka sa ho aur sir ka wazan na utha raha ho. Lekin jab index finger upar ho aur angootha thoddi ko niche se support kar raha ho, toh listener ke dimaag mein negative ya critical thoughts chal rahe hain.
+
+---
+
+### The Lying Interviewee (Jhoot bolne wala interviewee)
+
+Humne ek mard ka interview liya jisne apne purane kaam ke baare mein kayi jhoot bole. Bhale hi wo confident lag raha tha, par wo baar-baar apni aankhein ragadta tha aur door dekhta tha. Humne use hire nahi kiya aur baad mein check karne par pata chala ki uski saari di hui jaankari galat thi.
+
+---
+
+### Chin Stroking (Thoddi Sehlana)
+
+Jab koi thoddi sehlata hai, toh wo faisla lene (decision-making) ki process mein hota hai. Agar aapne apna proposal khatam kiya hai aur listener thoddi sehla raha hai, toh chup ho jayein. Unka agla gesture batayega ki jawab "haan" hai ya "nahi". Agar wo thoddi sehlane ke baad aage jhukte hain, toh jawab mukhya roop se "positive" hoga.
+
+---
+
+### Stalling Clusters (Time kharab karne wale clusters)
+
+Log aksar faisla lene se bachne ke liye waqt mangte hain. Chashma saaf karna, use mooh mein dalna, ya cigarette ka kash lena stalling tactics hain. Ye sab insaan ko bina kisi urgency ke response dene mein madad karte hain.
+
+---
+
+### Head Rubbing and Slapping Gestures (Sir ragadne aur thappad maarne wale gestures)
+
+Jab koi kehta hai "aapne meri naak mein dum kar diya" ya "pain in the neck," toh ye ek purana reaction hai.
+
+Agar koi galti karne par apne maathe (forehead) par thappad maarta hai, toh wo mukhya roop se galti maan raha hai par wo open aur easygoing hai. Lekin agar wo apni gardan ke peechhe thappad maarta hai ya ragadta hai, toh wo mukhya roop se ek critical aur negative insaan ho sakta hai.
+
+---
+
+### Why Bob Always Lost at Chess (Bob hamesha chess kyun haar jata tha)
+
+Humara ek dost Bob chess khelte waqt apne signals control nahi kar pata tha. Jab wo unsure hota, wo apna kaan ragadta ya naak chhuta tha. Jab wo confident hota, wo Steeple gesture karta tha. Uske opponents bas uski body language dekh kar samajh jate the ki uske dimaag mein kya chal raha hai. Bob ko is kitab ki copy nahi di gayi hai.
+
+---
+
+### The Double Meaning (Dohera Matlab)
+
+Kayi gestures ke doher matlab ho sakte hain. Isliye hamesha gestures ko clusters mein padhein aur context ka dhyan rakhein. Hand-to-face gestures aksar dimaag mein chal rahi kisi negative baat (shak, jhoot, uncertainty) ki nishani hote hain. Asli skill context ko analyze karne mein hai.
