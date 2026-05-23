@@ -3775,3 +3775,114 @@ Us **tension ki feeling** ki aadat daalo — jo eye contact se aati hai — aur 
 ---
 
 *— Patrick King*
+
+---
+## Tip 2: Get Your Game Face — Tayyar Ho Jao!
+
+---
+
+**Temperature-wise** nahi — jaise microwave mein hot dog — balki jaise ek **muscle** Zumba class se pehle warm up hoti hai।
+
+---
+
+Yeh wahi concept hai jo main apni **training video** mein cover karta hoon।
+
+Tum seedha ek **lamba nap** leke uthne ke baad **bade party** mein ghus nahi sakte।
+
+**Kya hota hai jab tum aisa karte ho?**
+
+> Tum **stutter** karoge।
+> Tumhara **dimaag blank** ho jaayega।
+> Tumhe baar baar **throat clear** karna padega — kyunki tumhari **vocal cords abhi bhi so rahi hongi**।
+
+---
+
+Tumhe **warm up** karna hoga — **zone mein aana** hoga — aur **socialize karne ke liye tayyar** hona hoga।
+
+**Social skills muscles hain** — jo vigorous use se pehle **stretch** karna zaroori hai।
+
+Agar tum ise ignore karo — toh tum apna **full potential utilize** nahi kar paoge।
+
+Agar tum warm up nahi karte — toh tumhari **pehli 3 conversations** sirf warm up mein nikal jaayengi — aur tum utne **quick-witted ya charming** nahi honge jितना tum chahte ho।
+
+---
+
+### Warm Up Kyun Karte Hain?
+
+**Isliye hi kuch log pushups karte hain** — ya **stage par jaane se pehle chillate hain** — jab woh crowd se baat karne wale hote hain।
+
+Woh khud ko **mentally aur physically prepare** kar rahe hote hain — taaki unka **A GAME** bahar aaye।
+
+---
+
+Kuch log **external stimuli** use karte hain — jaise **loud music** aur **motivational videos** *(jaise President ki speech movie "Independence Day" mein — pilots ke alien army pe jaane se pehle)* —
+
+Lekin mera **sabse favorite tarika** thoda zyaada **direct** hai।
+
+---
+
+### 🔊 Sabse Best Warm Up Technique — ZOR SE PADHO!
+
+**READ OUT LOUD — Zor se padho!**
+
+---
+
+**Yeh karna hai:**
+
+Koi ek **passage dhundho** — preferably kisi **children's book** se — ya kuch aisa jिसमें **dialogue** ho jिसमें:
+
+> ✅ **(1) Alag alag characters hon**
+> ✅ **(2) Emotions ki variety ho**
+
+**Pretend karo ki tum ek third grade teacher** ho jo apne classroom ko padh ke suna rahe ho।
+
+> 🎭 **Saari awaazein karo**
+> 🎭 **Saari emotions exaggerate karo**
+> 🎭 **Jितna possible ho utna hyperbolic bano**
+> 🎭 **Loud bolo, chillao, aur crazy gestures karo**
+
+---
+
+### 📖 Practice Ke Liye — Yeh Teen Baar Padho
+
+Yeh passage teen baar padho।
+
+Har reading mein **pehle se zyaada ridiculous aur outlandish** karne ki koshish karo।
+
+**Emotions ko exaggerate karo!**
+
+---
+
+> 😢 **Sad/Emotional Donkey (Udaas Gadha):**
+> *"Yaar, kitna dukh ki baat hai ki bheḍ ka bachcha jaldi jaana padega। Mujhe sach mein usके saath waqt bitana bahut accha lagta tha — aur main bas usse bahut miss karunga!"*
+
+---
+
+> 😏 **Scheming/Mischievous Cat (Sazish Karne Wali Billi):**
+> *"Oh, mujhe samajh nahi aata ki bheḍ ke bachche ko abhi kyun jaana pad raha hai। Mujhe sach mein nahi pata kya hua hoga। Main bhi tumhari tarah udaas hoon। Kyun nahi honga?"*
+
+---
+
+> 😜 **Dopey Dog (Bewakoof Kutta):**
+> *"Yaar dosto, hum baad mein kahaan jaayenge? Kya hum park ja sakte hain? Mujhe park mein jaana aur wahan bhaagna bahut pasand hai। Kya tumhe pata tha wahan ab ek peene ka fountain bhi aagaya hai?"*
+
+---
+
+> 🥺 **Shy Lamb (Sharma Jaane Wala Bheḍ Ka Bachcha):**
+> *"Arre... main bas — Oh, mujhe nahi pata। Main nahi kar sakta। Park sunta toh achha hai lekin... main nahi jaanta। Andar quietly movie ke saath rehne ka kya?"*
+
+---
+
+Sirf us **chhote se waqt** mein — pehli aur teesri reading ke beech ka **fark notice karo?**
+
+**Yahi hai warm aur alert aur ready hona।**
+
+---
+
+Yeh tumhari **emotions show karne aur express karne ki ability** bhi badhata hai — toh yeh ek **added benefit** bhi hai।
+
+> **Warm up — sirf tumhari hamstrings ke liye nahi!** 💪
+
+---
+
+*— Patrick King*
