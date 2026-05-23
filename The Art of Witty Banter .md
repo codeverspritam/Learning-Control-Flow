@@ -3692,3 +3692,86 @@ Ab tum **18 powerful tools** ke saath equipped ho — jo tumhari conversations k
 ---
 
 *— Patrick King*
+
+---
+---
+# Conversation Tactics, Exercises & Worksheets 
+## Tip 1: Strong Eye Contact — Aaankhon Ka Dum
+
+---
+
+**Eye contact** ek aisa concept lagta hai jo bahut obvious hai, hai na?
+
+Theek hai — bhale hi tum jaante ho ki yeh important hai — lekin iska matlab yeh nahi ki tum usme **acche ho** — ya tum jaante ho ki **usme acche kaise bano**।
+
+---
+
+Achhi khabar yeh hai ki eye contact ke mamle mein — **bar kaafi low** hai।
+
+Bas tumhe usme **BURA** nahi hona chahiye — warna log assume kar lenge ki tum ya toh **seedha jhooth bol rahe ho** — ya **supremely uncomfortable** ho।
+
+Chahe sach ho ya na ho — yeh kisi par **negative impression** daalna hai।
+
+**Eye contact aaj kal ek prerequisite (zaroorat) ban chuki hai।**
+
+Strong eye contact maintain karna ek **plus** hai — lekin utna hi important yeh bhi hai ki simply usme **terrible mat bano**।
+
+---
+
+### 3 Key Aspects — Eye Contact Mein Adequate Se Zyaada Bano
+
+### 👁️ Pehli Cheez: Gaze Aur Stare Mein Fark Samjho
+
+**Stare** woh hoti hai jo ek **television news anchor** karta hai jab woh teleprompter padh raha hota hai।
+
+Stare woh hai jise main pyaar se **"dead zombie eyes"** kehta hoon —
+
+Jabki **gaze** woh hoti hai jaise tumhari aankhein lagti hain jab tum **teen puppies ko ek stuffed cow ke liye ladते** dekhte ho। 🐶
+
+---
+
+### 👁️ Doosri Cheez: Apni Aankhon Ka Kya Karein?
+
+Discomfort kam karne ke liye aankhein **room mein idhar udhar ghoomane** ki urge bahut **strong** ho sakti hai — lekin yahan mera **ek rule** hai eye contact ke liye:
+
+> **Wahi karo — lekin us insaan ki aankhon aur chehere par karo।**
+
+Apni aankhon ko unki **aankhon aur chehere ke upar wale hisse** par travel karao — aur woh **awkwardness** dur karo jo tumhe kisi ki aankhon mein gehraai se dekhne se hoti hai —
+
+**Lekin saath mein yeh dikhao ki tumhari eye contact achi hai।**
+
+---
+
+### 👁️ Teesri Cheez: Eye Contact Improve Karne Ki Quick Exercise 🕶️
+
+Yahan ek **quick exercise** hai eye contact improve karne ke liye — aur usme comfortable banne ke liye।
+
+**Kya karna hai:**
+
+> 🕶️ Bahar jao aur **sunglasses** pahno।
+>
+> Kisi **busy sidewalk** ke paas baaitho — jahaan bahut zyaada **foot traffic** ho।
+>
+> **Aane wale logon ki taraf** muh karke baaitho।
+>
+> *(Agar winter ho, raat ho, ya sunglasses pehnna appropriate na lage — toh tum yeh **brightly lit malls** wagera mein bhi kar sakte ho।)*
+
+---
+
+Ab — jo log tumhare paas se guzar rahe hain — unse **eye contact karo**।
+
+Woh tumhari aankhein nahi dekh sakte — toh unhe bilkul **idea nahi** ki tum unhe dekh rahe ho।
+
+Tum **100% safe** ho।
+
+---
+
+Us **tension ki feeling** ki aadat daalo — jo eye contact se aati hai — aur usके against **immunity** develop karo।
+
+---
+
+**Yahi hai Tip 1 ka khaas!** — Eye contact ek **low-bar skill** hai — bas buri mat karo — aur tum pehle se kahin better position mein ho! 🎯
+
+---
+
+*— Patrick King*
