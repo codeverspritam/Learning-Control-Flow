@@ -9,165 +9,149 @@ aur
 Dorie Simmonds, jinke encouragement aur excitement ne humein ye book likhne ke liye motivate kiya. 
 
 ---
-# The Definitive Book of Body Language
+# *The Definitive Book of Body Language — Barbara & Allan Pease*
 
-## Introduction (Parichay)
+## Introduction
+---
+
+> *"Ek aadmi ke nakhunon se, uski coat ki sleeve se, uske joote se,
+> uski pant ke ghutne se, uski index finger aur anguthe ke ghatte (calluses) se,
+> uske chehere ke bhav se, uski shirt ki cuffs se, uski chaal-dhal se —
+> in sab cheezon se ek aadmi ka kaam-dhandha saaf zahir hota hai.
+> Yeh sab milke bhi kisi kabil jaanch karne wale ko kisi bhi case mein na bata paaye —
+> yeh toh almost soch bhi nahi sakte."*
+>
+> — **SHERLOCK HOLMES, 1892**
 
 ---
 
-"Ek insaan ke fingernails se, uski coat-sleeve se, uske boots se, uske trouser-knees se, uske index finger aur thumb ke gatton (calluses) se, uske expression se, uske shirt-cuffs se, uske movements se—in har ek cheez se ek aadmi ka kaam (calling) saaf taur par pata chalta hai. Ye sab milkar bhi kisi samajhdaar jaanch karne waale (enquirer) ko na samjha paayein, aisa hona lagbhag namumkin (inconceivable) hai."
-— **SHERLOCK HOLMES, 1892**
+Jab main chota baccha tha, mujhe hamesha yeh feel hota tha ki log jo kehte hain woh hamesha unka asli matlab ya feeling nahi hoti — aur yeh bhi ki agar main unki sachchi feelings samajh lun aur unki zaroorat ke hisaab se jawab dun, toh main unhe woh karwa sakta hoon jo main chahta hoon.
 
-Jab main ek chhota ladka tha, main hamesha is baat se aware rehta tha ki log jo kehte hain, uska matlab hamesha wo nahi hota jo wo feel kar rahe hote hain. Maine ye bhi seekha ki agar main unki asli feelings ko padh loon aur unki zarooraton ke hisaab se sahi response doon, toh main unse wo karwa sakta hoon jo main chahta hoon.
+Gyaarah saal ki umra mein maine apna sales career shuru kiya — school ke baad ghar-ghar jaake rubber sponges bechta tha taaki thodi pocket money mile — aur bahut jaldi mujhe samajh aa gaya ki kaise pehchaanun ki koi mujhse khareedega ya nahi.
 
-Gyaarah saal ki umar mein, maine school ke baad pocket money kamane ke liye ghar-ghar jaakar rubber sponges bechna shuru kiya aur jaldi hi ye samajh liya ki kaise pata lagayein ki koi mujhse saaman khareedega ya nahi.
+Jab main kisi ka darwaza khatkhatata, agar koi mujhe door bhagaata lekin uske haath khule hote aur woh apni hatheli dikhata — toh main jaanta ki safe hai, apni baat jaari rakho. Kyunki chahe unki awaaz mein door bhagane wala (dismissive) lahjaa ho, woh aggressive nahi the.
 
-Jab main kisi ka darwaza khatkhatata tha, agar koi mujhse kehta tha ki "chale jao" lekin unke haath khule hote the aur unki hatheliyan (**palms**) dikh rahi hoti thi, toh main samajh jata tha ki apni baat jaari rakhna safe hai kyunki, bhale hi wo mujhe bhaga rahe hon, lekin unka body language aggressive nahi tha.
+Lekin agar koi mujhe jaane ko kehta dheemi awaaz mein, magar saath mein ungli point karta ya haath band rakhta — toh main samajh jaata ki ab yahan se niklo. Mujhe salesperson hona bahut pasand tha, aur main isme sach mein accha bhi tha.
 
-Lekin agar koi bahut dheere se bhi kehta tha "chale jao" lekin apni ungli se ishara karta ya haath band rakhta, toh main samajh jata tha ki ab nikalne ka waqt ho gaya hai.
+Teenager hone par main raat ko pots-and-pans yaani bartan bechne laga. Logon ko padhne ki yeh kaabiliyat ne mujhe itne paise dilaye ki maine apni pehli property khareed li. Selling ne mujhe logon se milne aur unhe karib se study karne ka mauka diya — sirf unki body language dekh ke judge karta ki woh khareedenge ya nahi. Yeh kaabiliyat disco mein ladkiyon se milne mein bhi kaam aayi — main lagbhag hamesha pehle hi andaaza laga leta tha ki kaun dance ke liye haan bolegi aur kaun nahi.
 
-Mujhe ek salesperson banna bahut pasand tha aur main is kaam mein mahir tha.
+Bees saal ki umra mein main life insurance business mein aaya, aur jis firm ke liye kaam kiya uske kaafi saare sales records tod diye — apne pehle hi saal mein ek million dollar se zyada ka business karne wala sabse yuva insaan bana. Is kamiyabi ne mujhe USA ki maan-wali (prestigious) **Million Dollar Round Table** ke liye qualify karaya.
 
-Teenager bante-bante, main raat ke waqt bartan (**pots-and-pans**) bechne laga, aur logon ko padhne ki meri is kabliyat ne mujhe itne paise dila diye ki maine apni pehli property khareed li.
-
-Bechne ke kaam ne mujhe logon se milne aur unhe kareeb se dekhne (study karne) ka mauka diya aur ye evaluate karne ka bhi ki wo khareedenge ya nahi, sirf unka body language dekh kar.
-
-Ye skill discos mein ladkiyon se milne mein bhi bahut kaam aayi. Main lagbhag hamesha predict kar sakta tha ki kaun mere saath dance ke liye "haan" kahega aur kaun "nahi."
-
-Bees saal ki umar mein maine life insurance ka business join kiya aur apni company ke liye kayi sales records tode, aur apne pehle saal mein hi ek million dollars se zyada ka business karne wala sabse young insaan bana.
-
-Is achievement ki wajah se main U.S.A. ke prestigious "Million Dollar Round Table" ke liye qualify ho gaya.
-
-Ek naujawan ke taur par main lucky tha ki jo body language techniques maine bachpan mein bartan bechte waqt seekhi thi, unhe main is naye field mein bhi use kar saka, aur ye sidha mere success se juda tha kisi bhi aise kaam mein jahan log involve hon.
+Ek yuva insaan ke taur par yeh meri khush-naseebi thi ki bartan bechte waqt jo body language padhne ki techniques seekhi thi, woh is nayi field mein bhi seedha kaam aayi — aur logo ke saath kisi bhi kaam mein jo safalta mil sakti thi, usse directly judi thi.
 
 ---
 
-### All Things Are Not What They Seem (Har cheez waisi nahi hoti jaisi dikhti hai)
+## All Things Are Not What They Seem
+*(Cheezein hamesha waise nahi hoti jaise dikhti hain)*
 
-Kisi insaan ke saath asal mein kya ho raha hai, ye samajhne ki kabliyat simple hai—easy nahi, par **simple**.
-
-Ye is baare mein hai ki aap jo dekh aur sun rahe hain, use us mahol (environment) se match karein jisme ye sab ho raha hai, aur phir sahi natije (conclusions) par pahunchein.
-
-Lekin zyada-tar log wahi dekhte hain jo wo sochte hain ki wo dekh rahe hain. Is baat ko samjhane ke liye ek kahani suniye:
-
-Do aadmi jungle se ja rahe the jab unhe ek bahut bada aur gehra gadda dikha.
-
-"Wow... ye toh bahut gehra lag raha hai," ek ne kaha. "Chalo kuch kankar (pebbles) daal kar dekhte hain ki ye kitna gehra hai."
-
-Unhone kuch kankar phenke aur intezaar kiya, lekin koi awaaz nahi aayi.
-
-"Yaar ye toh sach mein bahut gehra gadda hai. Chalo ek bada patthar phenkte hain. Shayad awaaz aaye."
-
-Unhone do bade football jitne patthar uthaye aur gadde mein phenk diye aur intezaar kiya, par phir bhi kuch sunayi nahi diya.
-
-"Yahan jhaadiyon mein ek railway sleeper (badi lakdi) padi hai," ek ne kaha. "Agar hum ise phenkenge toh pakka awaaz aayegi." Unhone us bhari sleeper ko gadde tak kheencha aur andar dhakel diya, par phir bhi koi awaaz nahi aayi.
-
-Achanak, paas ke jungle se ek bakri nikli aur hawa ki raftaar se daudti hui aayi. Wo un dono aadmiyon ke beech se nikli aur gadde mein kood gayi. Wo dono aadmi hairan reh gaye ki abhi unhone kya dekha.
-
-Tabhi jungle se ek farmer nikla aur bola, "Hey! Kya tum logon ne meri bakri dekhi?"
-
-"Bilkul dekhi! Wo sabse crazy cheez thi jo humne kabhi dekhi! Wo jungle se daudti hui aayi aur is gadde mein kood gayi!"
-
-"Nahi," farmer ne kaha. "Wo meri bakri nahi ho sakti. Meri bakri toh ek railway sleeper se bandhi hui thi!"
+Kisi ke saath asal mein kya ho raha hai — yeh samajhna simple hai — easy nahi, lekin simple zaroor. Yeh sab uss maahol mein jo kuch tum dekhte aur sunte ho, usse milate hue aur theek nateeje nikalne ke baare mein hai. Lekin zyaadatar log sirf wahi dekhte hain jo unhe lagta hai ki woh dekh rahe hain. Is baat ko samjhaane ke liye ek kahaani:
 
 ---
 
-### How Well Do You Know the Back of Your Hand? (Aap apne haath ke pichle hisse ko kitna achha jaante hain?)
+Do aadmi jungle mein chal rahe the jab unhe ek bada gehra gaddha mila.
 
-Kabhi-kabhi hum kehte hain ki hum kisi cheez ko "apne haath ki pichle hisse ki tarah jaante hain" (**like the back of our hand**), lekin experiments se pata chala hai ki 5 percent se bhi kam log ek photo dekh kar apne hi haath ko pehchan paate hain.
+*"Waah… yeh toh kaafi gehra lagta hai,"* ek ne kaha. *"Chalo kuch kankar daalo andar, dekho kitna gehra hai."*
 
-Humne ek TV program ke liye ek simple experiment kiya jisne dikhaya ki zyada-tar log body-language signals padhne mein bhi achhe nahi hain.
+Unhone kuch kankar daale aur intezaar kiya — lekin koi awaaz nahi aayi.
 
-Humne ek hotel ke lobby mein ek bada sheesha lagaya jisse aisa lagta tha ki wahan ek lamba corridor hai.
+*"Yaar — yeh sach mein bahut gehra gaddha hai. Chalo koi bada patthar daalo. Isse toh awaaz aayegi."*
 
-Humne chhat se bade paudhe latkaye taaki jab koi lobby mein enter kare, toh use aisa lage ki koi doosra insaan samne se aa raha hai.
+Unhone do football size ke pathar uthaye aur gaddhe mein daale, phir intezaar kiya — phir bhi kuch nahi suna.
 
-Us "doosre insaan" ka chehra paudhon ki wajah se saaf nahi dikhta tha, par body aur movement saaf dikhti thi.
+*"Wahan paas mein ek railway sleeper padi hai,"* ek ne kaha. *"Agar hum ise daalein, toh pakka koi awaaz aayegi."*
 
-Har guest ne us "doosre guest" ko paanch se che seconds tak dekha reception desk par jaane se pehle.
+Unhone woh bhaari sleeper ghaseet ke gaddhe ke paas laaye aur andar pheka — lekin gaddhe se koi awaaz nahi aayi.
 
-Jab unse pucha gaya ki kya unhone us doosre guest ko pehchana, toh 85 percent mardon ne kaha "nahi."
+Tabhi, paas ke jungle se ek bakra aaya — hawaon ki tarah bhaagta hua. Woh seedha dono aadmiyon ki taraf aaya, unke beech se guzra, poori taqat se dauda, phir ek uchhal liya aur gaddhe mein samaа gaya. Dono aadmi hairan-pareshan (astonished) khadey reh gaye.
 
-Zyada-tar mard sheeshe mein khud ko hi nahi pehchan paaye, ek ne toh ye tak keh diya, "Kya aap us mote aur badsurat aadmi ki baat kar rahe hain?"
+Jungle se ek kisan nikla — *"Hey! Kya tumne mera bakra dekha?"*
 
-Hairani ki baat nahi ki 58 percent auraton ne pehchan liya ki wo sheesha tha aur 30 percent ko wo "doosra guest" jaana-pechana laga.
+*"Haan pakka! Yeh sabse ajeeb cheez thi jo humne kabhi dekhi! Woh jungle se hawaon ki tarah bhaagta aaya aur us gaddhe mein kood gaya!"*
 
-**Zyada-tar mard aur lagbhag aadhi auratein ye nahi jaante ki wo gardan se neeche kaise dikhte hain.**
-
----
-
-### How Well Can You Spot Body-Language Contradictions? (Body language ke virodhabhas ko aap kitna achha pakadte hain?)
-
-Duniya bhar mein log politicians ke body language se fascinate hote hain kyunki sab jaante hain ki neta kabhi-kabhi aisi cheezon ka dikhawa karte hain jinpar wo yakeen nahi karte, ya ye jatate hain ki wo wo hain jo wo asal mein nahi hain.
-
-Politicians apna zyada-tar waqt emotions aur feelings chhupane, jhoot bolne, dhokha dene aur bheed mein imaginary doston ko haath hilane mein bitate hain.
-
-Lekin humein instinctively pata hota hai ki wo kabhi na kabhi apne galat body-language signals se pakde jayenge, isliye hum unhe dhyaan se dekhna pasand karte hain ye soch kar ki wo kab pakde jayenge.
-
-Kaunsa signal batata hai ki ek neta jhoot bol raha hai? **Jab uske hont (lips) hil rahe hote hain.**
-
-Ek aur TV show ke liye humne ek tourist bureau ke saath milkar experiment kiya. Tourists bureau mein sightseeing aur attractions ki jaankari lene aate the.
-
-Unhone counter par ek officer se baat ki jiske blonde baal, moochein thi aur usne white shirt aur tie pehni thi.
-
-Baat karte waqt wo aadmi brochures lene ke liye counter ke neeche jhuka.
-
-Tabhi counter ke neeche se ek doosra aadmi nikla jiska chehra clean-shaven tha, baal kaale the aur usne blue shirt pehni thi. Usne baat wahi se shuru ki jahan pehle wale ne chhodi thi.
-
-Hairani ki baat ye hai ki lagbhag aadhe tourists ne badlaav notice hi nahi kiya aur mardon ke ise miss karne ke chances auraton se double the—unhone na sirf body language balki poore insaan ka badalna hi nahi dekha!
-
-Jab tak aapne seekha na ho, chances hain ki aap bhi bahut kuch miss kar rahe hain. Ye kitab aapko wahi sikhayegi jo aap ab tak miss kar rahe the.
+*"Nahi,"* kisan ne kaha. *"Woh mera bakra nahi ho sakta. Mera bakra toh ek railway sleeper se bandha hua tha!"*
 
 ---
 
-### How We Wrote This Book (Humne ye kitab kaise likhi)
+## How Well Do You Know the Back of Your Hand?
+*(Apni haath ki peeth ko tum kitna jaante ho?)*
 
-Barbara aur maine **The Definitive Book of Body Language** ko meri purani kitab, *Body Language*, ke base par likha hai.
+Hum kabhi kabhi kehte hain ki hum kisi cheez ko "apni haath ki peeth ki tarah" jaante hain — lekin experiments prove karte hain ki 5 percent se bhi kam log apni haath ki peeth ko ek photo mein pehchaan sakte hain.
 
-Humne ise na sirf expand kiya hai, balki ismein evolutionary biology aur evolutionary psychology jaisi nayi scientific disciplines ki research bhi dali hai, saath hi Magnetic Resonance Imaging (MRI) jaisi technologies bhi jo dikhati hai ki dimaag mein kya hota hai.
+Ek simple experiment ke results — jo humne ek television program ke liye kiye — dikhate hain ki zyaadatar log generally body language signals padhne mein bhi acche nahi hote.
 
-Humne ise aise style mein likha hai ki aap ise kisi bhi page se random padhna shuru kar sakte hain.
+Humne ek lambe hotel lobby ke aakhir mein ek bada aaina lagaya — jisse yeh dhoka (illusion) milta tha ki hotel mein enter karte waqt ek lamba corridor hotel ke aar-paar jaata hai. Humne chhat se bade-bade paudhe lakaaye — zameen se paanch feet ki unchaai tak — taaki jab bhi koi lobby mein enter kare, lagta ki doosri taraf se bhi koi aur guest enter kar raha hai.
 
-Humne content ko mukhya roop se body movements, expressions aur gestures tak hi rakha hai kyunki face-to-face baatchit mein ye sabse zaroori hain.
+Woh "doosra guest" aasaani se pehchaana nahi ja sakta tha kyunki paudhe uska chehra chupa lete the, lekin body aur chaal-dhal saaf dikhai deti thi. Har guest ne us doosre "guest" ko 5 se 6 second dekha, phir reception desk ki taraf mud gaya.
 
-**The Definitive Book of Body Language** aapko aapke apne nonverbal signals ke baare mein aware karegi aur sikhayegi ki kaise effectively communicate karke wo reactions paayein jo aap chahte hain.
+Jab poocha gaya ki kya unhone us doosre "guest" ko pehchana — **85 percent mardaron ne kaha: nahi.** Zyaadatar mardon ne khud ko aaine mein nahi pehchana. Ek ne toh kaha: *"Matlab woh mota, bekar dikhne wala banda?"*
 
-Ye kitab body language aur gestures ke har ek component ko alag karke simple terms mein samjhati hai taaki aap ise aasani se samajh sakein.
+Iske ulat, **58 percent aurton ne kaha ki yeh ek aaina tha** aur **30 percent ne kaha ki woh doosra "guest" jaana-pehchaana (familiar) laga.**
 
-Lekin humne cheezon ko zaroorat se zyada simple banane se bhi bachne ki koshish ki hai.
-
-Hamesha aise log honge jo gusse mein kahenge ki body language ki study logon ko dominate karne ya unke secrets padhne ka ek zariya hai.
-
-Lekin humein lagta hai ki ye kitab aapko doosre insaanon ke saath behtar communicate karne ki samajh degi, jisse aap doosron ko aur khud ko behtar samajh paayenge.
-
-Kisi cheez ko samajhna uske saath rehna aasaan banata hai, jabki ignorance aur samajh ki kami darr aur andhvishwas ko badhava deti hai aur humein doosron ke prati zyada critical banati hai.
-
-Ek bird-watcher birds ko isliye study nahi karta taaki wo unhe maar sake aur trophy ki tarah rakh sake.
-
-Usi tarah, body language ki knowledge aur skills har ek insaan se milne ke anubhav ko ek exciting experience banati hain.
-
-Simplicity ke liye, jab tak kuch aur na kaha jaye, "he" ya "him" ka use dono genders ke liye barabar apply hoga.
+> **Zyaadatar mard aur lagbhag aadhi auraten nahi jaantein ki woh gardan ke neeche se kaisi dikhti hain.**
 
 ---
 
-### Your Body-Language Dictionary (Aapka Body-Language Shabd-kosh)
+## How Well Can You Spot Body-Language Contradictions?
+*(Body Language ki ulti-seedhi baaton ko tum kitna pakad sakte ho?)*
 
-Original kitab salespeople, managers aur executives ke liye ek manual ki tarah thi, par ise aap zindagi ke har mod par use kar sakte hain—chahe ghar ho, date ho ya kaam.
+Har jagah logon mein politicians ki body language ke baare mein ek gehri dilchaspi paida ho gayi hai — kyunki sabko pata hai ki politicians kabhi kabhi kisi aisi cheez mein believe karne ka natak karte hain jis par unhe aslan yakeen nahi hota, ya yeh zahir karne ki koshish karte hain ki woh koi aur hain.
 
-**The Definitive Book of Body Language** hamari tees saal ki cumulative knowledge aur mehnat ka natija hai aur hum aapko wo basic vocabulary dete hain jo attitudes aur emotions padhne ke liye zaroori hai.
+Politicians apna zyaadatar waqt bachte hue, talte hue, ignore karte hue, natak karte hue, jhooth bolte hue, apne jazbaat aur feelings chhupate hue, aur dhoka dene wali chaalein (smoke screens) use karte hue bitaate hain — aur crowd mein khayal-o-khawabon ke doston ko haath hilaate hue.
 
-Ye kitab aapko un sabse puzzled sawaalon ke jawab degi jo aapne hamesha soche honge ki log aisa vyavhar (behavior) kyun karte hain, aur ye hamesha ke liye aapke apne behavior ko bhi badal degi.
+Lekin hum andar se jaante hain ki woh aakhirkaar apni ek-doosre se ulti (contradictory) body language signals ki wajah se pakde jaayenge — isliye hum unhe gaur se dekhna pasand karte hain, is intezaar mein ki unhe "pakad lein."
 
-Aisa lagega jaise aap hamesha ek andhere kamre mein the jahan aap furniture aur deewaron ko feel toh kar sakte the par dekh nahi sakte the.
+> **Kaise pata chalega ki ek politician jhooth bol raha hai?**
+> **Uske hont hilte hain.**
 
-Ye kitab light on karne jaisi hogi jisse aapko sab kuch saaf dikhne lagega jo hamesha se wahan tha.
+Ek aur television show ke liye, humne ek local tourist bureau ki madad se ek experiment kiya. Tourists bureau mein local sightseeing aur doosri tourist jagahon ki jaankari lene aate. Unhe ek counter par bheja jaata jahan woh ek tourism officer se baat karte — ek aadmi jiske sone jaisi (blond) baalon wala, moochhon wala, white shirt aur tie mein tha.
 
-Lekin ab aapko pata hoga ki cheezein kya hain, kahan hain, aur unke baare mein kya karna hai.
+Kuch minute yatra ke plans discuss karne ke baad, woh aadmi kuch brochures lene ke liye counter ke neeche ghum gaya. Phir counter ke neeche se ek bilkul alag aadmi nikla — saaf chehre wala, kaale baalon wala, neeli shirt pahne — haath mein brochures liye. Usne wahi baat jaari rakhi jahan se pehle aadmi ne chodi thi.
+
+Taajjub ki baat — **lagbhag aadhe tourists ko koi badlaav hi nazar nahi aaya!** Aur mardon ne aurton se do guna zyada dhokha khaaya — unhone na sirf body language ka badlaav miss kiya, balki ek bilkul naye insaan ka aana bhi notice nahi kiya!
+
+Jab tak tumhare andar yeh kaabiliyat janmjaat (innate) na ho ya tumne body language padhna seekha na ho — chances hain ki tum iska zyaadatar hissa miss kar rahe ho.
+
+> **Yeh book tumhe dikhayegi ki tum kya miss karte aa rahe ho.**
+
+---
+
+## How We Wrote This Book
+*(Humne Yeh Book Kaise Likhi)*
+
+Barbara aur maine **The Definitive Book of Body Language** likhne ke liye mere asli book *Body Language* ko apna base banaya. Humne na sirf us book ko kaafi expand kiya, balki nayi scientific fields jaise evolutionary biology aur evolutionary psychology ki research bhi shamil ki — saath hi **MRI (Magnetic Resonance Imaging)** jaisi technology ka bhi istemal kiya jo dikhati hai ki brain mein kya hota hai.
+
+Humne ise iss tarah likha hai ki ise kisi bhi page se kholkar padha ja sake. Content mainly body ke movements, expressions, aur gestures tak rakha hai — kyunki yeh wahi cheezein hain jo tumhe seekhni chahiye taaki har aamnay-samnay ki mulaqat ka poora faayda utha sako.
+
+**The Definitive Book of Body Language** tumhe apne khud ke nonverbal signals ke baare mein zyada aware karega, aur dikhayega ki unhe effectively kaise use karein aur woh reactions kaise hasil karein jo tum chahte ho.
+
+Yeh book body language aur gestures ke har hisse ko alag karke simple shabdon mein jaanchti hai taaki yeh tumhare liye aasaan ho. Waise, koi bhi gesture akele nahi hota — woh doosron ke saath milkar hota hai — isliye humne ek saath yeh bhi koshish ki hai ki cheezein zyada seedhi-saadhi (oversimplified) na lag jaayein.
+
+Hamesha kuch log hote hain jo haath uthaakar kehte hain ki body language ka study sirf ek aur tarika hai jisse doosron ko dabaane (exploit) ya apne kaaboo mein karne ke liye unke raaz ya soch padhi jaaye. Lekin hum yeh maante hain ki yeh book tumhe apne saathiyon ke saath zyada gehri samajh deti hai — taaki tum doosron ko gehraai se samajh sako, aur isliye khud ko bhi.
+
+Jab hum kisi cheez ke kaam karne ka tarika samajhte hain, toh uske saath jeena aasaan ho jaata hai. Lekin anjaan pan aur samajh ki kami darr aur andha-vishwaas ko janm deti hai, aur humein doosron ke baare mein zyada aalochanatmak (critical) banati hai.
+
+Ek bird-watcher pakshiyon ka adhyayan isliye nahi karta ki unhe maar ke trophy ki tarah rakh sake. Usi tarah, body language ki knowledge aur skills ka maqsad yeh hai ki doosre insaan ke saath har mulaqat ek exciting anubhav ban jaaye.
+
+> Saralata ke liye, aur jab tak alag se na bataya jaaye — "he" ya "him" ka use dono genders ke liye hoga.
+
+---
+
+## Your Body-Language Dictionary
+*(Tumhari Body-Language Dictionary)*
+
+Asli book sirf salespeople, managers, negotiators, aur executives ke liye ek kaam ki kitaab thi — lekin yeh book tumhari zindagi ke kisi bhi pahlu ke liye use ki ja sakti hai: ghar par, date par, ya kaam par.
+
+**The Definitive Book of Body Language** is field mein humare milaye hue (cumulative) 30 saal se zyada ke gyan aur kaam ka natija hai. Hum tumhe woh basic vocabulary dete hain jo tumhe attitudes aur emotions padhne ke liye chahiye.
+
+Yeh book tumhe un sabse uljhane wale (puzzling) sawaalon ke jawab degi jo tumhare mann mein hamesha se the — ki aakhir log kuch khaas tarike se kyun pesh aate hain — aur yeh hamesha ke liye tumhara apna pesh aana bhi badal degi.
+
+Yeh aisa lagega jaise tum hamesha se ek andheri kamre mein the — wahan furniture, deewar par latki cheezein, aur darwaza hamesha feel kar sakte the — lekin tumne kabhi actually dekha nahi ki woh kaisi dikhti hain.
+
+**Yeh book waisi hai jaise kamre ki light jalana — taaki dekh sako woh sab jo hamesha wahan tha. Ab tum exactly jaanoge ki cheezein kya hain, kahan hain, aur unke baare mein kya karna hai.**
 
 — **Allan Pease**
 
 ---
-# The Definitive Book of Body Language
 
 ## Chapter 1: UNDERSTANDING THE BASICS (Basics ko Samajhna)
 
