@@ -585,3 +585,439 @@ Woh ek behaviour ka shagird (student) hai jo apne insaani saathiyon ke baare mei
 > *"Ek clipboard aur pen."* 😄
 
 ---
+# Chapter 2 — The Power Is In Your Hands
+### *(Taaqat Tumhare Haathon Mein Hai)*
+
+---
+
+> *"Puraane zamaane mein, khuli hatheli yeh dikhane ke liye use ki jaati thi ki koi hathiyaar nahi chhupaaya gaya hai"*
+
+---
+
+Adam ki nayi PR company mein pehla din tha aur woh sabpar achha impression daalna chahta tha. Jab jab use colleagues se milwaaya gaya, usne unse pur-jazba (enthusiastically) haath milaaya aur sabko ek badi muskurahat di.
+
+Adam chhe foot teen inch lamba tha — achha dikhne wala, achhe kapde pahne, aur ek kamyaab PR mard ki tarah lagta tha. Woh hamesha ek mazboot haath milaata tha — bilkul usi tarah jaise uske baap ne use bachpan mein sikhaya tha. Itna mazboot, ki usne do mahila colleagues ki ungli ke rings pe khoon nikaala aur kई doosron ko dard diya.
+
+Baaki mard Adam ke handshake se compete karte — yahi toh mard karte hain. Lekin auraten chup rahi aur jaldi hi dheerey se keh rahi thin, *"Us naye Adam se door raho — woh ek taqatwar (bruiser) hai!"* Mardon ne kuch nahi kaha — lekin auraten Adam se bachne lagi. Aur aadhi firm ki bosses auraten thin.
+
+---
+
+Haath insaani vikaas (evolution) mein sabse important tools rahe hain — aur brain aur haathon ke beech kisi bhi doosre body parts se zyaada connections hain. Zyaadatar log kabhi sochte hi nahi ki unke haath kaise behave karte hain — ya jab kisi se milte hain toh haath kaise milaate hain. Phir bhi woh pehle paanch se saat pumps tay kar lete hain ki aagey dabbdba (dominance), dabe rehna (submission), ya ek dusre par kabza (power play) hoga ya nahi.
+
+Poori history mein, khuli hatheli sacchaayi (truth), imaandaari (honesty), wafaadaari (allegiance), aur samarpan (submission) se judi rahi hai. Kaafi kasme (oaths) aaj bhi haath seene par rakh ke li jaati hain — aur court of law mein saboot dene ke waqt hatheli hawaaa mein rakhi jaati hai; Bible baayein haath mein hoti hai aur daayeen hatheli court ke logon ke liye upar rakhi jaati hai.
+
+Yeh pata lagaane ke liye ki koi khula aur imaandaar hai ya nahi — sabse valuable surag (clue) hatheli dikhane ka hai. Jaise ek kutta apne gale ko zahir karta hai vijeta (victor) ke saamne samarpan (submission) dikhane ke liye — usi tarah insaan apni hatheli dikhate hain yeh batane ke liye ki woh nihatthey hain aur koi khatraa nahi hain.
+
+> **Samarpan (submissive) kutta apna gala zahir karta hai. Insaan apni hatheli dikhate hain.**
+
+---
+
+## How to Detect Openness
+*(Khulaapanapan Kaise Pakdein)*
+
+Jab log khule ya imaandaar hona chahte hain, woh aksar ek ya dono hatheli doosre insaan ki taraf karke kuch aisa kehte hain — *"Mainne yeh nahi kiya!"* ya *"Maafi chahta hoon agar main ne tumhe takleef di"* ya *"Main tumhe sach bol raha hoon."*
+
+Jab koi khulne ya sachcha hone lagta hai — woh apni hatheli ka kuch ya poora hissa doosre insaan ko dikhata hai. Zyaadatar body-language signals ki tarah, yeh bilkul ek anjaan (unconscious) gesture hai — jo tumhe ek andar se feel (intuitive hunch) deta hai ki doosra insaan sach bol raha hai.
+
+Jab bacche jhooth bolta hain ya kuch chhupaate hain — woh aksar apni hatheli peethe ke peeche chhupaate hain. Isi tarah, ek mard jo ladkon ke saath raat bahar ke baad apni jagah chhupaana chahta ho — woh apni hatheli apni jeb mein ya baazoo cross karke chhupaata hai jab apne partner ko jagah batata hai. Lekin chhupaayi hui hatheli use ek andar se feel de sakti hai ki woh sach nahi bol raha.
+
+Ek aurat jo kuch chhupaana chahti ho — woh topic se bachegi ya kai unrelated topics par baat karegi jabki ek saath kaafi doosre kaam bhi karti rahegi.
+
+> **Jab mard jhooth bolte hain, unki body language spaasht (obvious) ho sakti hai.**
+> **Auraten jhooth bolte waqt busy dikhna pasand karti hain.**
+
+Salespeople ko sikhaya jaata hai ki kisi product ko na khareedne ki wajah batate waqt customer ki khuli hatheli dekhein — kyunki jab koi sahi wajahein bata raha hota hai, woh usually apni hatheli dikhata hai. Jab log apni wajahein khule taur par bata rahe hote hain, woh haath use karte hain aur hatheli dikhate hain — jabki koi jhooth bolne wala same verbal responses dega lekin haath chhupaayega.
+
+Haath jeb mein rakhna un mardoon ki pasandeeda chaal (ploy) hai jo conversation mein hissa nahi lena chahte. Hatheli asliyan body language ki bolne wali bhaasha ki tarah thin kyunki yeh kisi bhi body part se zyaada "baatein" karti thi — aur inhe chhupaana bilkul muh band karne jaisa tha.
+
+---
+
+## Intentional Use of the Palms to Deceive
+*(Dhokha Dene Ke Liye Hatheli Ka Jaankaar Istemal)*
+
+Kuch log poochte hain: *"Agar main jhooth bolun aur hatheli dikhata rahun, toh kya log mujhpe zyaada yakeen karenge?"*
+
+Jawaab hai — haan — aur nahi bhi. Agar tum seedha jhooth khuli hatheli ke saath bolo — tum phir bhi insincere (jhoothe) lag sakte ho — kyunki kaafi doosre gestures jo imaandaari mein honechahiye woh nahi hote, aur jhooth bolte waqt ke negative gestures khuli hatheli se mel nahi khaate (incongruent).
+
+Dhokhebaaz (con artists) aur professional jhoothey woh hote hain jinhone apne nonverbal signals ko verbal jhoothon se match karne ki khasiyat (special art) develop ki hai. Ek professional dhokhebaaz (con artist) jitni achhi tarah se imaandaari ki body language jhooth bolte waqt use kar sakta hai — woh apne kaam mein utna hi acha maana jaata hai.
+
+---
+
+## The Law of Cause and Effect
+*(Kaarana aur Parinaam ka Niyam)*
+
+Phir bhi, doosron se communicate karte waqt khuli hatheli gestures ki practice karke zyaada khule aur vishwasniy (credible) dikhna mumkin hai. Dilchasp baat yeh hai ki jaise khuli hatheli gestures aadat (habitual) banti jaati hain — jhooth bolne ka rujhaan (tendency) kam hone lagta hai.
+
+Zyaadatar logon ko khuli hatheli ke saath jhooth bolna mushkil lagta hai — kaarana aur parinaam ke niyam ki wajah se. Agar koi khula hai, toh woh hatheli dikhayega — lekin sirf hatheli dikhane se bhi ek convincing (dil se) jhooth bolna mushkil ho jaata hai.
+
+Aisa isliye hai kyunki gestures aur emotions seedha ek doosre se jude hue hain. Agar tum defensive feel karo — toh tum apne baazoo seene par cross kar lete ho. Lekin agar tum sirf apne baazoo cross karo — toh tum defensive feelings anubhav karne lagte ho. Aur agar tum khuli hatheli ke saath baat karo — toh doosre insaan par bhi sach bolne ka zyaada dabaav (pressure) aata hai.
+
+Matlab — khuli hatheli doosron ke kuch jhoothe information ko dabaane (suppress) mein madad kar sakti hai aur unhe tumhare saath zyaada khula hone ke liye prerna (encourage) de sakti hai.
+
+---
+
+## Palm Power
+*(Hatheli Ki Taaqat)*
+
+Kisi ko directions ya commands dete waqt aur haath milaate waqt, insaan jo sabse kam notice ki jaati magar sabse powerful body signal deta hai woh hatheli hai. Sahi tarah se use kiye jaane par, hatheli ki taaqat (Palm Power) use karne waale ko khamosh adhikaar (silent authority) ki taqat deta hai.
+
+Teen main palm command gestures hain:
+
+---
+
+### 1. Palm-Up (Hatheli Upar)
+
+Hatheli upar ki taraf hona ek samarpan (submissive), nonthreatening gesture hai — ek sadak ke bhikhaari (street beggar) ki minnat karne wale gesture ki yaad dilaata hai — aur vikaasi (evolutionary) nazariye se yeh dikhata hai ki haath mein koi hathiyaar nahi hai.
+
+Jis insaan se kuch karne ko kaha ja raha hai, woh pressure feel nahi karega aur tumhari baat se khatara (threatened) feel karne ki sambhaavna kam hai. Agar tum chahte ho ki koi bolna shuru kare, tum Palm-Up ko "handover" gesture ki tarah use kar sakte ho — unhe batane ke liye ki tum unse bolne ki ummeed karte ho aur sunne ke liye taiyaar ho.
+
+Palm-Up gesture saalon mein badalta gaya aur Single-Palm-Raised-in-the-Air, Palm-Over-the-Heart, aur kaafi doosre variations develop hue.
+
+---
+
+### 2. Palm-Down (Hatheli Neeche)
+
+Jab hatheli neeche ki taraf hoti hai — tum fauran adhikaar (authority) zahir karte ho. Doosra insaan feel karega ki tumne unhe kuch karne ka hukum diya hai aur woh tumhare saath antagonistic (virodhi) hone lage ga — yeh tumhare saath unke rishte ya kaam ke maahol mein tumhari position par depend karta hai.
+
+> **Hatheli ko upar se neeche ki taraf karna doosron ki tumhare baare mein sooch ko bilkul badal deta hai.**
+
+Misal ke taur par, agar doosra insaan tumhare barabar ka ho, woh Palm-Down request ka virodh (resist) kar sakta hai — aur Palm-Up position se zyaada maanne ki sambhaavna hai. Agar woh insaan tumhara mulaazim (subordinate) hai, toh Palm-Down gesture acceptable hai kyunki tumhare paas ise use karne ka adhikaar (authority) hai.
+
+Naazi (Nazi) salute mein hatheli seedhi neeche thi — aur yeh Third Reich ke daur mein taqat aur zaalimana hakmraani (tyranny) ka pratik tha. Agar Hitler ne apna salute Palm-Up position mein kiya hota — toh koi usse seriously nahi leta — woh has dete.
+
+Jab couples haath mein haath daal ke chalte hain, dominant partner — aksar mard — thoda aage chalte hue haath peeche ki taraf rakhta hai, hatheli peechhe ki taraf — jabki aurat ki hatheli aage ki taraf hoti hai. Yeh chota sa position fauran ek dekhne waale (observer) ko bata deta hai ki ghar mein kaun bos hai.
+
+---
+
+### 3. Palm-Closed-Finger-Pointed (Hatheli Band, Ungli Nikali Hui)
+
+Yeh ek mutthi hai jahan nikali hui ungli ek pratik (symbolic) daande ki tarah use hoti hai jisse bolne wala sunne waalon ko dabaane (submission) ki koshish karta hai — maano maar raha ho. Anjaane mein, yeh doosron mein negative feelings jagaati hai kyunki yeh ek daayein baazoo ka upar waala waar (right overarm blow) se pehle aata hai — ek aadim (primal) move jise zyaadatar primates physical hamle mein use karte hain.
+
+> **Nikali ungli = "Karo warna…!"**
+
+Yeh gesture bolte waqt use karna duniya ke sabse irritating (chidhaane waale) gestures mein se ek hai — khaaskar jab yeh bolne waale ke words ke saath taali (beat) kare. Malaysia aur Philippines jaise kuch deshon mein, kisi insaan par ungli point karna ek insult (beizzati) hai — kyunki yeh gesture sirf janwaaron ko point karne ke liye use hota hai. Malaysians log direction dene ya logon ko point karne ke liye angutha use karte hain.
+
+---
+
+## Our Audience Experiment
+*(Humaara Audience Par Kiya Gaya Prayog)*
+
+Humne aath lecturers ke saath ek prayog (experiment) kiya. Unhe kayi audiences ke saamne dus-das minute ki talks mein teeno palm gestures use karne ko kaha gaya.
+
+Results:
+- **Palm-Up position** — 84% positive responses
+- **Palm-Down position** — sirf 52% positive responses (same presentation ke saath)
+- **Finger-Pointed position** — sirf 28% positive response — kuch participants toh lecture ke beech mein hi chale gaye!
+
+Ungli point karne ne na sirf sabse kam positive responses register ki — sunne waalon ko bolne waale ne jo kaha woh bhi kam yaad raha.
+
+Agar tum aadat (habitual) se ungli point karne wale ho — Palm-Up aur Palm-Down positions ki practice karo. Tum paoge ki tum ek zyaada relaxed maahol bana sakte ho. Warna, apni ungliyon ko anguthe ke saath dabaakar ek OK-type gesture banao aur is position mein baat karo — tum adhikaar-sampann (authoritative) lagoge, lekin aggressive nahi.
+
+Humne yeh gesture speakers, politicians, aur business leaders ke groups ko sikhaya. Audience ne **Fingertip-Touch gestures** use karne wale speakers ko *"sochne wala (thoughtful)," "lakshya-kendra (goal-oriented)," aur "focused"* bataya. Ungli point karne waalon ko *"aggressive," "ladaaku (belligerent)," aur "badtameez (rude)"* bataya gaya — aur unki audience ko content kum yaad raha.
+
+---
+
+## An Analysis of Handshake Styles
+*(Haath Milaane Ke Tareeqon Ka Vishleshana)*
+
+Haath milaana (handshaking) humaare puraane past ki ek nishani (relic) hai. Jab aadim qabeele (primitive tribes) dosti ke maahol mein milte the — woh apni baahein khuli hatheli ke saath bahar nikalte the yeh dikhane ke liye ki koi hathiyaar nahi pakda ya chhupaaya gaya hai.
+
+Roman zamaane mein, sleeve mein chhupaaya hua khanjar (concealed dagger) rakhna aam tha — toh suraksha ke liye Romans ne Lower-Arm-Grasp develop kiya.
+
+Is puraane greeting ritual ka modern roop haathon ko mila ke hilana hai — jo originally 19th century mein barabar darje (equal status) ke mardoon ke beech vyaaparik samjhauton (commercial transactions) ko pakka karne ke liye use hota tha. Pichhle 100 saalon mein hi yeh widely popular hua hai — aur pehle sirf mardona daayra mein tha. Aaj zyaadatar Western aur European deshon mein yeh business contexts mein milte aur chhodte waqt dono ke liye use hota hai — auraton aur mardoon dono mein.
+
+> **Handshake is tarah develop hua ki mard ek doosre ke saath vyaaparik deal pakki kar sakein.**
+
+Japan jaise jagahon mein jahan jhukna (bowing) paramparagat (traditional) greeting hai, aur Thailand mein jahan Wai — namaaz jaisi gesture — use hoti hai — modern handshake ab bhi widely dekhi jaati hai. Zyaadatar jagahon mein haath paanch se saat baar hilaaye jaate hain. Germany mein do ya teen baar, France mein milte aur chhodte dono waqt.
+
+---
+
+## Who Should Reach First?
+*(Pehle Kaun Badhaye Haath?)*
+
+Haath milaana ek welcome aur vishwaas ka nishaan hai — toh kuch sawaal karo apne aap se pehle:
+- Kya main yahan welcome hoon?
+- Kya yeh insaan mujhse milkar khush hai ya main unhe majboor kar raha hoon?
+
+Salespeople ko sikhaya jaata hai ki agar woh bina bataye ya bulaye gaye customer ke paas jaayein aur haath milaana shuru karein — toh negative result ho sakta hai. Aise mein behtar hai ki doosre insaan ke haath milane ka intezaar karo — aur agar woh aisa na kare toh sirf halka sa sar hilaao.
+
+Kuch deshon mein aurat se haath milaana abhi bhi ek anischhit (uncertain) practice hai — misal ke taur par, kaafi Muslim deshon mein yeh beadabi (rude) maana jaata hai — wahan sirf ek chota sar jhukana (small head-nod) kaafi hai. Lekin yeh bhi paaya gaya hai ki jo auraten mazboot handshake shuru karti hain — woh zyaadatar jagahon par zyaada khule dimaag wali (open-minded) maani jaati hain aur behtar pehla impression karti hain.
+
+---
+
+## How Dominance and Control Are Communicated
+*(Dabbdba aur Kaaboo Kaise Zahir Hota Hai)*
+
+Roman zamaane mein, do neta khade khade modern arm wrestling jaisi greeting karte the. Agar ek doosre se zyaada taqatwar hota — uska haath doosre ke haath ke upar reh jaata — jo **Upper-Hand position** ban jaata.
+
+Maano tum kisi se pehli baar mile aur haath milaaya. Teen basic attitudes mein se ek anjaane mein bheji aur paayi jaati hai:
+
+1. **Dabbdba (Dominance):** *"Yeh mujhpar haawee hone ki koshish kar raha hai. Mujhe saavdhaan rehna chahiye."*
+2. **Daab mein rehna (Submission):** *"Main is insaan par haawee ho sakta hoon. Yeh woh karega jo main chahta hoon."*
+3. **Baraabari (Equality):** *"Main is insaan ke saath comfortable feel karta hoon."*
+
+Yeh attitudes bheji aur paayi jaati hain bina hamare jaane — lekin kisi bhi mulaqat ke nateeje par fauran asar kar sakti hain.
+
+**Dabbdba (Dominance)** apna haath is tarah morna se zahir hota hai ki tumhari hatheli neeche ki taraf ho handshake mein. Hatheli ko seedha neeche face karna zaruri nahi — lekin yeh **Upper Hand** hai aur yeh communicate karta hai ki tum encounter ka kaaboo (control) lena chahte ho.
+
+350 kamyaab senior management executives (89% mard) ke humaare adhyayan ne paaya ki lagbhag sab managers ne haath milaana shuru kiya — aur 88% mard aur 31% auraton ne bhi dominant handshake position use ki. Taqat aur kaaboo ke mudde aam tor par auraton ke liye kam zaroori hote hain — shayad isliye sirf ek tihaayi auraten Upper-Hand ritual try karin.
+
+Humne paaya ki kuch auraten kuch social contexts mein mardoon ko naram handshake deti hain — apni naarinata (femininity) ya dabaaye jaane ki sambhaavna (possibility of being dominated) ka hint dene ke liye. Lekin business context mein, yeh approach ek aurat ke liye catastrophic (azeematnaak) ho sakta hai — kyunki mard unki naarinata par dhyaan denge, unhe seriously nahi lenge.
+
+> **Jo auraten serious business meeting mein zyaada naarinatmak (feminine) signals dikhaayen — woh vishvasniyata (credibility) khoti hain.**
+
+2001 mein, University of Alabama ke William Chaplin ne handshakes ka adhyayan kiya aur paaya ki bahirmukhi (extroverted) types mazboot handshakes use karte hain, jabki sharmeele aur aastha-heen (neurotic) personalities nahi karte. Chaplin ne yeh bhi paaya ki nayi ideas ke liye khuli auraten mazboot handshakes use karti hain — jabki mard chahe nayi ideas ke liye khule ho ya na ho, same handshakes use karte hain. Toh auraten ke liye — khaaskar mardoon ke saath — mazboot handshake practice karna achha business sense hai.
+
+---
+
+## The Submissive Handshake
+*(Daabi Hui Haath Milaana)*
+
+Dominant handshake ka ulta hai apna haath hatheli upar karke dena — symbolically doosre insaan ko Upper Hand dena — jaise kutta apne se bade kutta ke saamne apna gala zahir karta hai.
+
+Yeh effective ho sakta hai agar tum doosre insaan ko kaaboo dena chahte ho ya use yeh feel karaana chahte ho ki woh situation mein charge hai — misal ke taur par, agar tum maafi maang rahe ho.
+
+Jab ki Palm-Up handshake ek daabi hui (submissive) attitude communicate kar sakta hai, kabhi kabhi doosre haalaat bhi consider karne hote hain. Jaise ki, gathiya (arthritis) wala insaan dheela handshake karne par majboor hoga — aur yeh unki hatheli ko daabi (submissive) position mein karne ko aasaan bana deta hai. Jinke haath unke profession mein use hote hain — jaise surgeons, artists, aur musicians — bhi dheela handshake de sakte hain sirf apne haath bachane ke liye.
+
+---
+
+## How to Create Equality
+*(Baraabari Kaise Banayein)*
+
+Jab do dominant log haath milaate hain — ek symbolic taqat ki ladaai (power struggle) hoti hai — har ek doosre ki hatheli ko daabi (submissive) position mein karne ki koshish karta hai. Nateeja ek kasse (viselike) handshake hai jisme dono haathein vertical position mein rehti hain — aur yeh baraabari (equality) aur aapsi izzat (mutual respect) ka feeling create karta hai kyunki koi bhi doosre ke aage jhukne ke liye taiyaar nahi.
+
+---
+
+## How to Create Rapport
+*(Dosti Ka Ehsaas Kaise Banayein)*
+
+Rapport (dosti ka ehsaas) create karne ke liye handshake mein do key baatein:
+
+1. **Apni aur doosre ki hatheli vertical position mein rakho** — taaki koi bhi dominant ya submissive na ho.
+2. **Utni hi taqat lagaao jo milti hai.** Agar tum 7/10 pe ho lekin doosra 5/10 pe hai — 20% kam karo. Agar unka grip 9 aur tumhara 7 hai — 20% badhao.
+
+Dhyaan rakho ki ek average mard ka haath ek average aurat ke haath ki takreeban do guni taqat laga sakta hai — toh yeh allowances banaao. Vikaas (evolution) ne mardana haathon ko taakhaan (tearing), pakadne (gripping), uthane (carrying), phenknay (throwing), aur thokne (hammering) jaise kaamon ke liye 100 pounds tak ka grip dene ki ijazat di hai.
+
+Yaad rakho — handshake ek greeting ya farewell ya samjhauta pakka karne ka gesture hai — toh yeh hamesha warm, friendly, aur positive hona chahiye.
+
+---
+
+## How to Disarm a Power Player
+*(Taqat-Pasand Insaan Ko Kaise Neutralize Karein)*
+
+**Palm-Down Thrust** Nazi salute ki yaad dilaata hai aur yeh sab handshakes mein sabse aggressive hai — kyunki isne paane waale ko barabar ka rishta banane ka mauka hi nahi deta. Yeh ek hukum-pasand (overbearing), dominant insaan ka handshake hai — unki sakht baazoo aur neeche ki hatheli paane waale ko daabi (submissive) position mein dhakel deti hai.
+
+Agar koi tumhe Palm-Down Thrust de raha ho, yahan kuch counter (javaab) hain:
+
+---
+
+### 1. Step-to-the-Right Technique
+
+Agar tum kisi power player se dominant handshake paate ho — doosre ki hatheli ko vaapas upar karna na sirf mushkil hai, balki karte waqt spaasht (obvious) bhi lagta hai.
+
+Is technique mein — haath milaane ke liye aage badhte waqt pehle **baayein (left) pair ke saath aage badhna** shamil hai. Thodi practice chahiye kyunki 90% logon ke liye daayein haath se haath milaane par daayein (right) pair ke saath aage badhna natural position hai.
+
+Phir apne daayein (right) pair ke saath aage badho — us insaan ke saamne se aage nikal ke uske personal space mein ghuso. Aakhir mein, baayein (left) pair ko daayein (right) ke paas le aao. Yeh tactic tumhe handshake seedha karne ya use daabi (submissive) position mein karne deta hai — aur doosre ke personal space mein ghus ke kaaboo lene deta hai.
+
+Apne approach ka khud jaayeza (analyze) lo — kya tum baayein ya daayein pair ke saath aage badhte ho haath milaate waqt? Zyaadatar log daayein pair waale hote hain aur isliye dominant handshake milaane par nuksan mein hote hain. **Baayein pair ke saath haath milaane ki practice karo** — aur tum paoge ki taqat-pasand logon se deal karna aasaan ho gaya.
+
+---
+
+### 2. Hand-on-Top Technique
+
+Jab koi power player tumhe Palm-Down Thrust de — apna haath Palm-Up position mein pesh karo, phir apna baaya (left) haath uske daayein (right) ke upar rakh ke **Double-Hander** banao aur handshake seedha karo.
+
+Yeh taqat usase tumhari taraf transfer karta hai. Agar power player jaanboojhkar daraane (intimidate) ki koshish karta hai aur yeh baar baar karta hai — uske haath ko upar se pakad ke hilaao. Yeh ek power player ko hila sakta hai — toh selective raho aur ise sirf aakhiri chara (last resort) ki tarah use karo.
+
+---
+
+## The Cold, Clammy Handshake
+*(Thanda, Chipchipa Haath Milaana)*
+
+Koi nahi chahta ki use ek aisa handshake mile jo chaar thande sabage (breakfast sausages) ki tarah feel ho. Jab hum anjaane logon se milte hue tense (tanaav mein) ho jaate hain — khoon haath ki baahri twacha ke neeche ki cells se dur ho jaata hai aur ladne ya bhaagne (fight or flight) ki tayyaari mein baazoo aur pair ki muscles ki taraf jaata hai.
+
+Nateeja — haath tha thanda ho jaata hai aur paseena aane lagta hai — jis se ek handshake ek geele machhi (wet salmon) jaisi feel hoti hai. Kisi important insaan se milne se pehle apni hatheli sukhane ke liye ek rumal (handkerchief) rakho. Warna, nai mulaqat se pehle sirf yeh socho ki tum apni hatheli khuli aag ke saamne rakh rahe ho. Yeh visualization technique saabit hua hai ki ek average insaan ki hatheli ka temperature 3-4 degree bada deta hai.
+
+---
+
+## Gaining the Left-Side Advantage
+*(Baayein Taraf Ka Fayda Uthana)*
+
+Jab do neta media photos ke liye saath mein khade hote hain — jo photo mein baayein (left) taraf khada hota hai woh doosre par haawee (dominant) lagta hai. Aisa isliye hai kyunki Upper Hand milana aasaan hota hai jabki baayein taraf se haath milaaya jaaye.
+
+Yeh 1960 mein John F. Kennedy aur Richard Nixon ke beech television debate se pehle handshake mein saaf dikh ta hai. Duniya tab body language se anjaan thi — lekin analysis par, JFK ko ise intuitive roop se samajhne wala lagta hai. Woh aadat se photo mein baayeen taraf khadey rehte the — aur Upper-Hand position use karna unki pasandeeda chaal thi.
+
+Unki famous election debate body language ki taqat ka ek shahaadat (testimony) thi. Polls ne dikhaya ki radio par debate sunne wale zyaadatar Americans ne Nixon ko vijayi (victor) maana — lekin TV par dekhne waalon ne Kennedy ko saaf vijayi (clear winner) maana. Isse pata chalta hai ki Kennedy ki pecharti (persuasive) body language ne antar (difference) banaya — aur aakhirkaar use Presidency dilaayi.
+
+---
+
+## When Men and Women Shake Hands
+*(Jab Mard Aur Auraten Haath Milaate Hain)*
+
+Halanki auraton ki workforce mein kaafi saalon se majboot maujoodgi hai — phir bhi kaafi mard aur auraten male/female greetings mein awkwardness (baykhari) aur sharmindagi (embarrassment) anubhav karte hain.
+
+Zyaadatar mardoon ne kaha ki unhone bachpan mein apne baap se kuch basic handshaking training paayi — lekin kaafi auraten aise training ki baat nahi karte. Adults ke roop mein, yeh awkward situations create kar sakta hai — ek mard pehle haath milaane ke liye aage badhta hai lekin aurat nahi dekhti — woh pehle uska chehra dekhne mein zyaada interested hai. Haath hawaaa mein adka hua feel karke, mard ise vaapas khich leta hai — lekin jab woh aisa karta hai, aurat iske liye badhti hai aur uska haath bhi hawaaa mein adak jaata hai. Phir woh uska haath dobara pakadne ki koshish karta hai — aur nateeja ek ulajhi hui ungliyaan (mishmash of tangled fingers) banti hai jo do utsaahi squid ki prem embrace (love embrace) jaisi lagti hai.
+
+> **Mard aur auraton ke beech pehli mulaqaat kharaab handshake technique ki wajah se bigad sakti hai.**
+
+Agar aisa kabhi ho — dusre insaan ka daayaan haath apne baayein haath se pakdo, ise apne daayein haath mein sahi jagah rakh do, aur muskuraate hue kaho: *"Dobara try karte hain!"* Yeh tumhari vishvasniyata (credibility) mein bahut izaafa (boost) kar sakta hai — kyunki yeh dikhata hai ki tum unse milne ki itni parwah karte ho ki handshake sahi karo.
+
+Agar tum business mein ek aurat ho — ek samajhdaari ki strategy yeh hai ki doosron ko pehle se batao ki tum haath milaana chahti ho. Apna haath jitna jaldi ho sake aage karo — taaki kisi ko hairan na karo.
+
+---
+
+## The Double-Hander
+*(Dono Haathon Waala Handshake)*
+
+Corporate duniya mein har jagah popular, yeh seedhi aankhon se contact, khulley reassuring (dheersanatan) muskurahat, aur paane waale ke pehle naam ki confident loud repetition ke saath deliver kiya jaata hai — aksar paane waale ki sehat ke baare mein sachche sawaal ke saath.
+
+Yeh handshake shuru karne waale ki taraf se physical contact ki miqdar (amount) badhata hai aur paane waale ke daayein haath ko rok ke uske upar kaaboo deta hai. Ise kabhi kabhi "politician's handshake" bhi kehte hain — shuru karne waala vishvaaspatrata (trustworthiness) aur imaandaari ka impression dene ki koshish karta hai. Lekin jis insaan se woh abhi mila ho — uske liye ise use karna ulta asar kar sakta hai — paane waala shuru karne waale ki niyaton (intentions) ke baare mein shak (suspicious) feel kar sakta hai.
+
+Double-Hander ek chhoti hug ki tarah hai — aur sirf wahan acceptable hai jahan hug bhi acceptable ho.
+
+Insaanon mein se 90% daayaa (right) baazoo shareer ke saamne phenknay — jo overarm blow kehlata hai — ki kabiliyat ke saath paida hote hain — basic self-defense ke liye. Double-Hander is raksha (defense) ki kabiliyat ko rokta hai — isliye ise kabhi bhi aise greeting mein use nahi karna chahiye jahan doosre insaan ke saath koi personal bond nahi hai. Ise sirf wahan use karo jahan ek emotional bond pehle se maujood ho — jaise kisi purane dost se milte waqt.
+
+---
+
+## Handshakes of Control
+*(Kaaboo Karne Wale Haath Milaane Ke Tareeqe)*
+
+Kisi bhi do-haath wale handshake ka maqsad sincerity (sachcha hona), vishwaas (trust), ya paane waale ke liye gehri feeling dikhane ki koshish karna hai.
+
+Do important cheezein note karo:
+
+**Pehli** — baaya (left) haath us gehraai (depth) ki feeling communicate karta hai jo shuru karne waala zaahir karna chahta hai — aur yeh paane waale ke daayein (right) baazoo par baaya haath rakhne ki doori se pata chalta hai. Jitna upar — utni zyaada gehraai dikhane ki koshish:
+
+- **Kalaayi pakad (Wrist Hold)** — thodi gehraai
+- **Kohni pakad (Elbow Grasp)** — zyaada gehraai
+- **Kaandha pakad (Shoulder Hold)** — bahut gehraai
+- **Upar-ka-baaaza pakad (Upper-Arm Grip)** — bahut zyaada gehraai
+
+**Doosri** — shuru karne waala baaya (left) haath paane waale ke personal space mein ek dakhalnedaazi (invasion) hai. Kalaayi aur Kohni pakad sirf wahan acceptable hain jahan ek insaan doosre ke karib feel karta ho. Kaandha aur Upar-ka-baaaza pakad karib ki gehraai dikhate hain — aur hug bhi ho sakti hai.
+
+Jab tak doosre insaan ke saath tumhara koi personal ya emotional bond na ho — koi Double-Hander mat use karo. Aur agar jo tumhe Double-Hander de raha hai uska tumse koi personal connection nahi hai — toh uski chhupaayi hui agenda (hidden agenda) talash karo.
+
+> **Jab tak tumhara aur doosre insaan ka personal ya emotional bond na ho — sirf single-handed handshake use karo.**
+
+Politicians ko voters ke saath aur businesspeople ko clients ke saath Double-Hander use karte dekha jaata hai — bina yeh jaane ki yeh political aur business suicide ban sakta hai aur logon ko door kar sakta hai.
+
+---
+
+## The Blair-Bush Power Game
+*(Blair-Bush Ki Taqat Ki Khel)*
+
+2003 mein Iraq conflict ke dauran, George W. Bush aur Tony Blair ne media ke saamne ek taqatwar ittehad (alliance) ki image pesh ki jo "united aur equal" thi — lekin tasveeran ke close analysis mein George Bush ki tarf se mazboot power plays zahir hoti hain.
+
+Bush photo mein baayein (left) taraf se Upper Hand deliver karne ke liye aage jhukta hai. Bush Armed Forces Commander-in-Chief ki tarah dress tha aur Blair ek English schoolboy ki tarah jo headmaster se mil raha ho. Bush ke pair mazbooti se zameen par the aur woh Blair ko kaaboo karne ke liye Back Hold use kar raha tha.
+
+---
+
+### The Solution (Haal)
+
+Agar tum ghaltee se khud ko photo ke daayein (right) taraf pao — toh door se hi aage badhte waqt jaldi apna baazoo aage badhaao. Yeh doosre insaan ko tumhare seedhe saamne face karne par majboor karta hai — aur handshake barabar rakhta hai. Agar photos ya video ho rahi ho — hamesha is tarah approach karo ki tum photo ke baayein (left) taraf ho. Kam se kam, ek Double-Hander use karo apne aap ko barabar rakhne ke liye.
+
+---
+
+## The World's Eight Worst Handshakes
+*(Duniya Ke Aath Worst Handshakes)*
+
+Yeh aath sabse irritating (chidhaane wale) aur napasand handshakes hain — inhe hamesha avoid karo:
+
+---
+
+### 1. The Wet Fish (Geeli Machli)
+**Vishvasniyata (Credibility) Rating: 1/10**
+
+Koi greeting Wet Fish jitni anaakarshak (uninviting) nahi — khaaskar jab haath thanda ya chipchipa (clammy) ho. Wet Fish ki naram, dheeli (flaccid) feel ise universally napasand banati hai aur zyaadatar log ise kamzor character se jodta hain — mainly kyunki hatheli ko kisi bhi taraf karna bahut aasaan hota hai.
+
+Paane waala ise encounter ke liye commitment (pratibaddhhata) ki kami ke roop mein padhta hai — lekin cultural ya doosre kaaran bhi ho sakte hain. Kuch Asian aur African cultures mein ek dheela handshake norm hai aur ek mazboot handshake offensive (aapattijanak) lag sakta hai. 20 mein se ek insaan **hyperhydrosis** — ek genetic condition jo chronic (laagaataar) paseene ka kaarana banata hai — se suffers karta hai. Haath milaane se pehle tissues ya rumal (handkerchief) saath rakho.
+
+Hatheli mein sharir ke kisi bhi doosre hisse se zyaada paseene ki glands hain — isliye paseene wali hatheli itni spaasht (obvious) ho jaati hai. Bahut saare Wet Fish use karne waale loge anjaane mein yeh karte hain — toh apne doston se apne handshake style ke baare mein comment maango.
+
+---
+
+### 2. The Vise (Kaskaari)
+**Vishvasniyata (Credibility) Rating: 4/10**
+
+Business mein mardana pasandeeda — yeh dabaane ki khawaahish aur rishte ka jaldi kaaboo lene ki khawaahish zahir karta hai. Hatheli neeche ki position mein pesh ki jaati hai — ek teez neeche wale pump ke baad do ya teen joshile vaapas strokes aur ek grip jo khoon ka bahav bhi rok sake. Kabhi kabhi yeh koi aise insaan use karta hai jo khud ko kamzor feel karta ho aur darta ho ki doosre use dabaayenge.
+
+---
+
+### 3. The Bone-Crusher (Haddi Todne Waala)
+**Vishvasniyata (Credibility) Rating: 0/10**
+
+Vise ka doosra cousin — Bone-Crusher sab handshakes mein sabse daraawana hai — paane waale ke dimaag aur ungliyon par ek mita na sakne wali yaad (indelible memory) chhodta hai — aur shuru karne waale ke siwa kisi ko impress nahi karta.
+
+Bone-Crusher zyaada aggressive personality ki pehchaan hai jo bina kisi warning ke jaldi fayda utha leta hai aur apne pratiduandvi (opponent) ke ghutanon ko paste mein pees ke use nirjeevan (demoralize) karne ki koshish karta hai. Agar tum aurat ho — business encounters mein daayein haath par rings mat pehno — Bone-Crusher khoon nikaaal sakta hai.
+
+Durbhagya se, iske khilaf koi effective counter nahi hai. Agar tumhe lage ki kisine yeh jaanboojhkar kiya — sabke saamne kaho: *"Aah! Mera haath bahut dard kar raha hai. Tumhari grip bahut mazboot hai."*
+
+---
+
+### 4. The Finger-Tip Grab (Ungliyon Ki Nok Ko Pakad Lena)
+**Vishvasniyata (Credibility) Rating: 2/10**
+
+Mard-aurat greetings mein aam — Finger-Tip Grab ek aisa handshake hai jo nishaan se chuuk jaata hai aur shuru karne waala galti se doosre ki ungliyan pakad leta hai. Iska main maqsad paane waale ko ek comfortable doori par rakhna hai. Yeh personal space ki differences ki wajah se bhi ho sakta hai — agar ek ka intimate space do feet aur doosre ka teen feet ho.
+
+Agar yeh tumhare saath ho — doosre ka daayaan haath apne baayein se pakdo, ise apne daayein haath mein sahi rakh do aur muskuraate hue kaho: *"Dobara try karte hain!"* Yeh tumhari vishvasniyata badhata hai.
+
+---
+
+### 5. The Stiff-Arm Thrust (Sakht Baazoo Ka Dhakelna)
+**Vishvasniyata (Credibility) Rating: 3/10**
+
+Palm-Down Thrust ki tarah — Stiff-Arm Thrust aksar aggressive types use karte hain aur iska main maqsad tumhe doori par rakhna aur unke personal space se dur rakhna hai. Yeh un logon mein bhi use hota hai jo rural areas mein pale hain — jinhe zyaada personal space chahiye aur woh apna ilaka protect karna chahte hain. Yeh log Stiff-Arm Thrust deliver karte waqt aage jhuk sakte hain ya ek pair par balance kar sakte hain.
+
+---
+
+### 6. The Socket-Wrencher (Jodon Ko Uchaadne Waala)
+**Vishvasniyata (Credibility) Rating: 3/10**
+
+Power players ki popular choice — aur aankhon mein paani laane ka aam kaarana — extreme cases mein torn ligaments (kate hue rassi waale naadiyan) bhi. Yeh Bent-Arm-Pull-In ka baap hai — paane waale ki haath ko zordar grip karke ek teez reverse thrust apply karta hai — paane waale ko shuru karne waale ke territory mein kheench laane ki koshish karta hai. Nateeja — balance kho baithna aur rishta galat paer par shuru hona.
+
+Paane waale ko shuru karne waale ki territory mein kheenchna teen mein se ek maayne rakh sakta hai:
+1. Shuru karne waala ek ashurakshit (insecure) type hai jo sirf apne personal space mein safe feel karta hai.
+2. Shuru karne waala ek aisi culture se hai jahan space ki zaroorat kam hai.
+3. Woh tumhe balance se girakr kaaboo karna chahta hai.
+
+Kisi bhi taraf — woh encounter apni shartain par chahta hai.
+
+---
+
+### 7. The Pump Handle (Haath Ka Pump)
+**Vishvasniyata (Credibility) Rating: 4/10**
+
+Rural (gramin) overtones ke saath — pumper, pumpee ka haath pakad ke ek joshile aur rhythmic upward-downward strokes ki series shuru karta hai. Saat tak pumps acceptable hain — lekin kuch pumpers uncontrollably pumping jaari rakhte hain jaise woh pumpee se paani nikaal rahe hon.
+
+Kabhi kabhi pumper pumping band karta hai lekin paane waale ka haath pakde rakhta hai takki woh jaane na paye — aur dilchasp baat yeh hai ki zyaadatar log apna haath nahi khichte. Physically connected hone ka ehsaas waapaas jaane ki hamari khawaahish (resolve) ko kamzor kar deta hai.
+
+---
+
+### 8. The Dutch Treat (Dutch Ilaaj)
+**Vishvasniyata (Credibility) Rating: 2/10**
+
+Netherlands mein iska mool — jahan ek insaan par *"Geeft 'n hand als bosje worteljes"* — yaani *"Gaajaron ke guchhe jaisa handshake dena"* — ka ilzaam lagaya ja sakta hai. Yeh Wet Fish ka door ka rishtedar hai — lekin sakht aur kam chipchipa (clammy).
+
+Younger generations mein ise **De Slappe Vaatdoek** — ya **Sloppy Dishcloth (machhlis kapda)** — ne replace kar diya hai. Iske liye aur koi explanation ki zaroorat nahi.
+
+---
+
+## The Arafat-Rabin Handshake
+*(Arafat-Rabin Ka Haath Milaana)*
+
+1993 mein White House mein Israeli Prime Minister Yitzhak Rabin aur Palestinian Chairman Yassar Arafat ke beech handshake ki tasveer kaafi dilchasp rawaiye (attitudes) zahir karti hai.
+
+President Clinton actually tasveer ka key figure hai — kyunki uski unobstructed center position, extra height, aur Arms-Spread-Open-Palms gesture use karta hai — kisi devta (god) ki yaad dilaata hai jo apne logon ki dekh-rekh kar raha ho. Clinton ki Half-Moon, Lips-Sucking muskurahat woh emotional restraint (rokaawat) zahir karti hai jo usne ya toh feel kiya ya fake kiya.
+
+Is famous shot mein, dono mard apne pair mazbooti se zameen par rakhe hain aur doosre ko uske territory se bahar dhakelnay ki koshish karte hain. Yitzhak Rabin ne tasveer mein baayeen (left) taraf ki power position li aur ek Stiff-Arm Thrust use kiya — Arafat ko apne personal space se bahar rakhne ke liye — jabki Yassar Arafat bilkul seedha khada tha aur ek Bent-Arm-Pull-In se counter karne ki koshish kar raha tha.
+
+---
+
+## Summary
+*(Khulaasa)*
+
+Zyaadatar logon ko andaaza nahi hota ki woh pehli mulaqaat mein doosron par kya impression karti hain — bawajood is baat ke ki hum zyaadatar jaante hain ki us mulaqat ke pehle kuch minute rishta bana ya bigad sakte hain.
+
+Apne doston aur colleagues ke saath handshake styles ki practice karne ka time nikalo — aur tum jaldi seekh sakte ho ki har baar ek positive handshake kaise dein. **Haathon ko vertical rakho aur doosre insaan ki grip se match karo** — yeh aam tor par **10/10 handshake** maana jaata hai.
+
+---
