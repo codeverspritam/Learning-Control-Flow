@@ -2953,3 +2953,623 @@ Yaad rakho:
 > **Yeh skills practice karо aur tum zyaada logon ki asli feelings padhne mein mahir (proficient) ho jaoge — jo tumhe life mein kaafi fayda dega.**
 
 ---
+
+# Chapter 8 — Eye Signals
+### *(Aankhon Ke Ishaare)*
+
+---
+
+> *"Kuch mard solid surfaces ke paar dekh sakte hain"*
+
+---
+
+Poori history mein hum aankhon aur unke insaani behaviour par asar se muhtasir (preoccupied) rahe hain. Eye contact conversation regulate karta hai — dabbde (dominance) ke ishaare deta hai — *"Usne mujhe naak ke neeche se dekha"* — ya jhoothey par shak ki buniyaad banta hai — *"Yeh kehte waqt meri aankhon mein dekho!"*
+
+Hum apna zyaadatar face-to-face waqt doosre insaan ke chehere ki taraf dekhte hue bitaate hain — isliye eye signals kisi ke rawaiye aur khayal padhne ki kabiliyat ka ek vital (zaroori) hissa hain.
+
+Hum jab pehli baar milte hain — toh zyaadatar jo dekhte hain uske aadhar par ek doosre ke baare mein jaldi se judgments lete hain.
+
+Hum phrases use karte hain:
+- *"Usne use khanjar jaisi nazar se dekha"*
+- *"Uski aankhon mein chamak thi"*
+- *"Uski badi baby aankhein hain"*
+- *"Uski aankhein chalaak hain"*
+- *"Usne ek ghaayal nazar di"*
+- *"Usne aankhon se hi maar daala"*
+- *"Usne barf jaisi nazar di"*
+- *"Usne mujhe buri nazar se dekha"*
+
+Hum yeh bhi kehte hain ki kisi ki Bette Davis eyes, bedroom eyes, sard, gusse wali, udaas, khush, befikar, piercing (ched karne wali) aankhein hain.
+
+Jab yeh phrases use karte hain — hum anjaane mein insaan ki pupils (aankhon ki putaliyaan) ki size aur unke gaze behavior ka zikr karte hain. Aankhein sabse revealing (zahir karne wali) aur accurate insaani communication signals ho sakti hain — kyunki yeh sharir par ek focal point hain aur putaliaan jaankaar kaaboo (conscious control) se alag kaam karti hain.
+
+---
+
+## The Dilating Pupils
+*(Putaliyaan Failna)*
+
+Diye gaaye roshni ke haalaaton mein — tumhari putaliyaan failengi (dilate) ya sikodhenge (contract) jaise tumhara rawaiya aur mood positive se negative ki taraf ya ulta badlega.
+
+Jab koi excited ho jaata hai — putaliyaan **chaar guna** tak apni original size se fail sakti hain.
+
+Ulte — gusse wala, naksaaratmak (negative) mood putaliyaan sikodhta hai — jise aam taur par **"beady little eyes"** ya **"snake eyes" (saanp ki aankhein)** kehte hain.
+
+Halki aankhein zyaada attractive lag sakti hain — kyunki failav (dilation) hote dekhna zyaada aasaan hota hai.
+
+University of Chicago ke Psychology Department ke pehle head aur **pupillometry** (putaliyon ka adhyayan) ke parishkar (pioneer) **Eckhard Hess** ne paaya ki pupil size kisi ki general arousal (jaaghat) ki state par affected hoti hai. Aam taur par, pupil size tab badhti hai jab log kuch aisa dekhte hain jo unhe stimulate (jagaata) kare.
+
+Hess ne paaya ki heterosexual mard aur auraton dono ki putaliyaan opposite sex ki pinups dekhne par failti hain aur same-sex pinups dekhne par sikodhti hain.
+
+Isi tarah ke nateeje tab bhi mile jab logon se pleasant (khush) ya unpleasant (napaasand) tasveerein dekhne ko kaha gaya — khane, political figures, ek divyang (disabled) bachcha, jang ke scenes — ya music sunnon par. Hess ne yeh bhi paaya ki pupil size mein izaafa (increase) problem solving se judi mental activity se seedha ta'alluq rakhta hai — jab insaan hal tak pahuchta hai toh maximum failav hota hai.
+
+Humne yeh research business world mein apply ki — aur dikhaya ki log photographs mein models ko zyaada attractive rate karte hain agar photo alter ki gayi ho taaki pupil area bada lage.
+
+Humne **Revlon lipsticks** ki direct catalog sales mein **45% izaafa** karne mein madad ki — sirf models ki photographs mein pupil size bada karke.
+
+---
+
+### Mohabbat Mein Aankhein
+*(Eyes in Romance)*
+
+Aankhein mohabbat (courtship) mein ek key signal hain — aur eye makeup ka maqsad eye display emphasize karna hai.
+
+Agar aurat kisi mard se attract ho — woh apni putaliyaan uski taraf failaayegi — aur woh is signal ko bina jaane sahi decode karne ki sambhaavna rakhta hai.
+
+Isliye romantic encounters (mohabbat bhari mulaqaatein) dhundhle (dimly lit) jagahon par sabse successful hoti hain — kyunki sab ki putaliyaan failti hain aur yeh impression deti hain ki couples ek doosre mein interested hain.
+
+> **Jab ek mard aurat se excited ho — uske sharir ka kaunsa hissa teen guna tak bada ho sakta hai?**
+> *Aankhon ki putaliyaan — kya socha tha tumne?* 😄
+
+Jab pyaar karne waale ek doosre ki aankhon mein gehre ghoor ke dekhte hain — woh anjaane mein pupil-dilation signals dhundh rahe hote hain aur har ek doosre ki putaliyaan failte dekh excited hota hai.
+
+Zyaadatar auraton ki putaliyaan **maa aur bachche ki tasveerein** dekhne par sabse zyaada failti hain.
+
+Chhote babies aur bacchon ki putaliyaan adults se badi hoti hain — aur babies ki putaliyaan hamesha adults ki maujoodgi mein failti rehti hain — jitna ho sake appealing (dil kheenchne wala) dikhne ke liye aur hamesha dhyaan paane ke liye.
+
+Isliye best-selling children's toys (khilaune) mein lagbhag hamesha badi putaliyaan hoti hain.
+
+Research yeh bhi dikhati hai ki pupil dilation ka ek doosre par reciprocal (mutabaadil) asar hota hai — yani dilated putaliyaan dekhne wale ki apni putaliyaan bhi failti hain.
+
+---
+
+## Take the Pupil Test
+*(Putali Test Lo)*
+
+Pupil dilation decode karne ki kabiliyat brain mein hardwired (janmjaat prograammed) hai aur bilkul automatically hoti hai.
+
+Ek diagram A ki "putaliyaan" par kisi se ghoor ke dekhne ko kaho — phir diagram B par switch karo. Tum dekhoge ki unki putaliyaan diagram se match karne ke liye failengi — kyunki unka brain sochta hai ki woh aisi aankhein dekh raha hai jo usse attractive paati hain.
+
+Auraton ki putaliyaan mardoon se tez failti hain — rapport banane ke liye — kya unka brain doosre insaan ki aankhein samjhta hai.
+
+**Hess ne paanch tasveerein dikhaayin:**
+- Nanga mard
+- Nangi aurat
+- Bachcha
+- Maa aur bachcha
+- Landscape
+
+Nateeje:
+- **Mard** — nangi aurat par sabse zyaada failav
+- **Gay mard** — nange mard par sabse zyaada failav
+- **Auraten** — maa aur bachche par sabse zyaada failav — nanga mard doosre number par
+
+**Expert card players ke saath tests** dikhate hain ki experts ne kam games jeete jab unke opponents ne dark glasses pehne. Misal ke taur par — agar opponent ko poker mein chaar aces mili — uska tezi se pupil dilation expert anjaane mein pakad sakta tha — aur "feel" karta ki agla hand bet na kare.
+
+Dark glasses ne pupil signals khatam kar diye — aur experts ne usual se kam haath jeete.
+
+**Puraane Chinese gem traders** apne kharidaron ki putaliyaan prices par vaarta (negotiate) karte waqt dekhte the.
+
+Saikdon saal pehle, **kasbi auraten (prostitutes)** apni aankhon mein **belladonna** — atropine wali dawaa — ki boondein daaalti thi putaliyaan failane ke liye — taaki zyaada desirous (chaahi jaane waali) lagein.
+
+> **David Bowie ki alag rang ki aankhein hain — ek blue, ek hazel — aur ek hamesha ke liye fail gayi hai. Yeh condition heterochromia kehlati hai aur 1% population ko hoti hai. Bowie ki aankhon mein yeh farq baara saal ki umra mein apni girlfriend ke liye ek mutthi baazi (fistfight) ka nateeja hai.**
+
+Ek puraana cliché kehta hai: *"Baat karte waqt kisi ki aankhon mein dekho"* — lekin behtar hai *"unki putali mein dekho"* ki practice karo — kyunki putaliyaan unki asli feelings batayengi.
+
+---
+
+## Women Are Better at It, as Usual
+*(Auraten Is Mein Bhi Behtar Hain — Hamesha Ki Tarah)*
+
+**Cambridge University ke Dr. Simon Baron-Cohen** ne kuch tests kiye jahan subjects ko photographs dikhayi gayin jisme sirf chehere ki ek paatli patti (narrow strip) dono aankhon ke paar dikhti thi.
+
+Subjects se photographs mein zahir mental states — jaise "friendly (dosti bhari)," "relaxed (sukoon mein)," "hostile (virodhi)," "worried (pareshan)" — aur rawaiye — jaise "tumhare liye khwaahish" aur "kisi aur ke liye khwaahish" — ke beech chunne ko kaha gaya.
+
+Statistically (aankdon ke hisaab se), sirf andaze se aadhe jawaab sahi hote — lekin:
+- **Mardoon ka average score:** 25 mein se 19
+- **Auraton ka average score:** 25 mein se 22
+
+Yeh test dikhata hai ki dono sexes mein eye signals decode karne ki body signals se zyaada kabiliyat hai — aur auraten mardoon se behtar hain.
+
+Scientists abhi nahi jaante ki yeh eye information kaise bheji ya decode ki jaati hai — woh bas jaante hain ki hum yeh kar sakte hain.
+
+**Autistic (aatmakendra-grasit) log** — jo lagbhag sab mard hain — sabse kam score kiye. Autistic brains mein logon ki body language padhne ki kabiliyat ki kami hoti hai — isliye autistic logon ko social relationships banane mein mushkil hoti hai — halanki kaafi ka IQ bahut zyaada hota hai.
+
+---
+
+## Giving Them the Eye
+*(Unhe Nazar Dena)*
+
+Insaan woh akele primates hain jinki aankhon mein whites hain — jise **sclera** kehte hain. Apes ki aankhein bilkul dark hoti hain.
+
+Aankhon ki safediyaan ek communication aid ke roop mein evolve hui hain — taaki insaan dekh sakein ki doosre log kahan dekh rahe hain — kyunki direction emotional states se judi hai.
+
+Auraton ke brains mein mardoon se zyaada hardwiring (janmjaat programming) hoti hai emotions padhne ke liye — aur iska ek nateeja yeh hai ki **auraton ki aankhon mein mardoon se zyaada safediyaan hoti hain.**
+
+Apes ki aankhon mein safediyaan nahi hoti — matlab unka shikaar (prey) nahi jaanta ki ape kahan dekh raha hai ya unhe dekha gaya hai ya nahi — ape ko shikar mein zyaada kamyaabi milti hai.
+
+> **Insaan akele primates hain jinkی aankhon mein saaf safediyaan hain.**
+
+---
+
+## The Eyebrow Flash
+*(Bhaun Ki Ek Pal Ki Uchhaai)*
+
+Yeh gesture ek door se "hello" greeting signal hai — jo puraane zamanon se har jagah use hota raha hai. Eyebrow Flash universal hai — aur bandar aur apes bhi ise ek social greeting signal ke roop mein use karte hain — yeh confirm karta hai ki yeh ek janmjaat (inborn) gesture hai.
+
+Bhaun ek split second ke liye tezi se uthti hain aur phir gir jaati hain — aur iska maqsad chehere ki taraf dhyaan kheenchna hai taaki saaf signals exchange ho sakein.
+
+Sirf ek culture yeh use nahi karti — **Japan** — jahan ise inappropriate ya beadabi (impolite) maana jaata hai — aur isme saaf jismaani maane hain.
+
+Yeh ek anjaana (unconscious) signal hai jo doosre insaan ki maujoodgi ki tasdeeq (acknowledgment) karta hai — aur shayad daraane (surprise) wali fear reaction se juda hai — jaise keh raha ho: *"Main surprised aur dara hua hoon"* — jo translate hota hai: *"Main tumhe pehchaan ta hoon aur khatarnaak nahi hoon."*
+
+Hum un anjaanon ko Eyebrow Flash nahi dete jinke paas se hum street par guzaarte hain — ya un logon ko jinhein hum pasand nahi karte. Jo logon ko pehli greeting mein Eyebrow Flash nahi dete — unhe potentially aggressive (aggressively khatarnaak) perceive kiya jaata hai.
+
+> **Ek simple test:** Hotel lobby mein baitho aur har guzarne waale ko Eyebrow Flash do. Tum dekhoge ki na sirf doosre Flash vaapas dete hain aur muskurate hain — kaafi tum se baat karne bhi aa jaate hain.
+
+**Golden rule:** Hamesha un logon ko Eyebrow Flash karo jinhein tum pasand karte ho — ya jinhe tum chahte ho ki woh tumhein pasand karein.
+
+---
+
+## Eye Widening
+*(Aankhein Badi Karna)*
+
+**Bhaun neeche karna** insaanon ka doosron ke saath dabbdba (dominance) ya agressiveness zahir karne ka tarika hai — jabki **bhaun uthana** samarpan (submission) zahir karta hai.
+
+Keating & Keating ne paaya ki apes aur bandaroon ki kaafi prajatiyon (species) mein bilkul wahi gestures wahi maqsad ke liye hote hain. Unhone yeh bhi paaya ki jo log jaankaar bhaun uthate hain — unhe insaanon aur apes dono ke zariye daaba hua (submissive) perceive kiya jaata hai — aur jo neeche karte hain unhe aggressive perceive kiya jaata hai.
+
+***"Why Men Lie and Women Cry"*** mein humne dikhaya ki auraten **"baby face" (bachche jaisi shakal)** create karne ke liye bhaun aur palkein uthake aankhein badi karti hain.
+
+Yeh mardoon par ek powerful asar karti hai — brain mein hormones release karke — jo auraton ki hifazat aur bachaawe ki khawaahish stimulate karte hain.
+
+Auraten apni bhaun ko maathay par upar pluck aur redraw (dubara kheenchti) karti hain — zyaada daabi (submissive) dikhne ke liye — kyunki anjaane mein (subconsciously) woh jaanti hain ki mardoon ko yeh appeal karta hai.
+
+Agar mard apni bhaun trim (kaatna) karein — woh ise upar se neeche ki taraf karte hain — aankhein zyaada patle aur authoritative dikhane ke liye.
+
+> **Marilyn Monroe ki uchi rakhi bhaun ne use daabi (submissive) look diya — jabki James Cagney ki neechi bhaun ne use aggressive look diya — aur JFK ki andar ki taraf mudi bhaun ne use authoritative aur concerned dono dikhaya.**
+
+**John F. Kennedy** ki woh bhaun thi jo **"medially down-turned"** kehlati hai — jisne uske chehere ko hamesha concerned look diya — jo voters ko appeal karta tha. Agar uski James Cagney ki tarah badi bhaun hoti — voters par utna powerful asar nahi hota.
+
+---
+
+## The "Looking Up" Cluster
+*("Upar Dekhne" Ka Cluster)*
+
+Sar neeche jhukake upar dekhna ek aur daabi (submissive) gesture hai jo mardoon ko appeal karta hai — kyunki isse aankhein badi lagti hain aur aurat zyaada bachche jaisi lagti hai.
+
+Yeh isliye hai kyunki bacche adults se itne chhote hote hain aur apna zyaadatar dekhne ka waqt upar dekhte hue bitaate hain — jo dono mard aur auraton mein parwarish wali (parental) reaction create karta hai.
+
+**Princess Diana** ne apni thodi neeche rakhke upar dekhne aur apni vulnerable gardan zahir karne ki art perfect ki thi. Is bachche jaisi gesture cluster ne laakhon logon mein unke liye maatri aur pitri (maternal and paternal) reactions jagaaye — khaaskar jab British Royal Family se daba hua (under attack) lag raha tha.
+
+Jo log yeh daabi (submissive) clusters use karte hain — aam tor par unhe jaankaar taur par practice nahi karte — lekin jaante hain ki jab use karte hain toh nateeja milta hai.
+
+---
+
+## How Men's Fires Get Lit
+*(Mard Kaise Ignite Hote Hain)*
+
+**Marilyn Monroe** female pre-orgasmic expressions aur body language use karne mein maahir (master) thi — aur anjaane mein (subconsciously) samajhti thi ki yeh zyaadatar mardoon ke ghutne kamzor kar sakta hai.
+
+Palkein neeche karte hue ek saath bhaun uthana, upar dekhna, aur honton ko thoda kholna — ek aisa cluster hai jo auraton ne sadiyon se jismaani samarpan (sexual submissiveness) zahir karne ke liye use kiya hai.
+
+Yeh Marilyn Monroe, Deborah Harry, aur Sharon Stone jaise sex sirens (mohini) ki trademark gestures mein se ek hai.
+
+Na sirf yeh gesture palkon aur bhaun ke beech doori maximize karta hai — yeh insaan ko ek rahaasyadar (mysterious), chhupa-chhupaya look bhi deta hai — aur nayi research dikhati hai ki yeh woh expression hai jo kaafi auraten apne chehere par **orgasm se pehle** rakhti hain.
+
+---
+
+## Gaze Behavior — Where Do You Look?
+*(Nigaah Ka Behaviour — Tum Kahan Dekhte Ho?)*
+
+Sirf jab tum kisi insaan ke saath **"eye-to-eye"** (aankhon mein aankhein) dekho — tabhi communication ki asli buniyaad ban sakti hai.
+
+Jabki kuch log hamein comfortable feel karaate hain baat karte waqt — doosre uncomfortable feel karaate hain — aur kuch naabharosaemand (untrustworthy) lagte hain.
+
+Pehle — yeh is baat se juda hai ki woh kitni der tak hamaari taraf dekhte hain — ya kitni der tak hamaari nazar thamte (hold) hain baat karte waqt.
+
+**Michael Argyle** — Britain mein social psychology aur nonverbal communication skills ke parishkar (pioneer) — ne paaya ki jab Westerners aur Europeans baat karte hain — unka average gaze time 61% hota hai:
+- **Bolte waqt:** 41% gaze time
+- **Sunte waqt:** 75% gaze time
+- **Aapsi dekhna (mutual gazing):** 31%
+
+Usne average gaze length **2.95 seconds** aur mutual gaze length **1.18 seconds** record ki.
+
+Humne paaya ki ek typical conversation mein eye contact **25% se 100%** tak hota hai — kaun bol raha hai aur kis culture se hai par depend karta hua.
+
+Baat karte waqt hum **40-60% eye contact** maintain karte hain — sunte waqt **80%** average.
+
+Notable apvaad (exception) **Japan aur kuch Asian aur South American cultures** hain — jahan extended eye contact aggressive ya beadabi (disrespectful) maana jaata hai. Japanese throat ki taraf ya door dekhte hain — jo culturally anjaan (inexperienced) Westerners ko pareshaan (disconcerting) kar sakta hai.
+
+Argyle ne paaya ki jab person A person B ko pasand kare — woh use bahut dekhega. Yeh B ko feel karaata hai ki A use pasand karta hai — toh B bhi A ko pasand karne lagta hai.
+
+Doosre lafzon mein — zyaadatar cultures mein — doosre insaan ke saath achha rapport banane ke liye — tumhara gaze unka **60-70% waqt** milna chahiye. Yeh unhe tumhein pasand karane mein bhi madad karta hai.
+
+Toh woh ghabraaya hua, halka darra hua insaan jo ek tihaayi se kam gaze deta hai — shayad hi kabhi bharosa kiya jaata hai.
+
+Isliye negotiations (vaartaon) mein dark glasses avoid karo — kyunki yeh doosron ko feel karaata hai ki tum ya toh unhe ghoor rahe ho ya avoid kar rahe ho.
+
+> **Usne usse uski looks ke liye shaadi ki — lekin woh looks nahi jo woh use lately de rahi hai.**
+
+---
+
+### Kaun Pehle Nazar Hatata Hai?
+*(Who Looks Away First?)*
+
+Jab do log milte hain aur pehli baar eye contact karte hain — aam tor par woh insaan pehle nazar hatata hai jo daaba hua (subordinate) ho.
+
+Matlab — nazar na hatana ek baareek (subtle) tarika hai challenge dene ya rai (opinion) se na-ittifaaqi (disagreement) zahir karne ka.
+
+Jahan doosre ki status zyaada ho — misal ke taur par tumhara boss — tum kuch seconds zyaada uski nazar thamke (hold) ek saaf na-ittifaaqi ka message bhej sakte ho.
+
+Lekin agar job barakarar rakhni ho — ise regularly boss ke saath mat karo.
+
+---
+
+## How to Keep Eye Contact in a Nudist Colony
+*(Nudist Colony Mein Eye Contact Kaise Rakho)*
+
+Humne ek group of non-nudists ko ek nudist colony bheja aur film kiya ki jab woh naye logon se milte hain toh kahan dekhte hain.
+
+Tamam non-nudist mardoon ne bataya ki unhe neeche dekhne ki urge (kheench) rokne mein mushkil hui — aur video replay ne dikhaya ki jab woh neeche dekhte the toh kitna obvious (spaasht) tha.
+
+Auraton ne kaha ki unhein yeh problems nahi hui — aur shayad hi koi aurat "nether regions (nichle ilaqe)" ki taraf deliberately ghuurte hue film ki gayi.
+
+Yeh isliye hai kyunki mard ek qism ki tunnel vision (seedhi drishti) se equipped hain jo unhe seedha saamne aur lambi dooriyaan dekhne mein auraton se kahin behtar banata hai.
+
+Zyaadatar mardoon ki close-range aur peripheral vision (aas-paas ki nazar) auraton se kahin zyaada kharaab hai — isliye mard refrigerators, almariyon, aur drawers mein cheezein dhundne mein pareshaan hote hain.
+
+Auraton ki peripheral vision har taraf **45 degree** tak failti hai — upar aur neeche bhi — matlab woh kisi ke chehere ki taraf dekhti hua appear ho sakti hain jabki ek saath unke "goods and chattels (saamaana)" inspect kar rahi hoti hain.
+
+> **Auraton ki zyaada peripheral vision unhe ek direction mein dekhte hua appear karne deti hai jab woh asliyat mein doosri taraf dekh rahi hoti hain.**
+
+---
+
+## How to Grab a Man's Attention
+*(Mard Ka Dhyaan Kaise Kheencho)*
+
+Jab ek aurat kisi room mein ek mard ka dhyaan kheenchna chahti hai — woh uski nazar se milati hai — **2-3 second tak thamti** hai — phir door aur neeche nazar karti hai.
+
+Yeh gaze itni lambi hoti hai ki woh use interest aur potential samarpan (submission) ka message bhejti hai.
+
+**Monika Moore, PhD (Websters University)** ke ek prayog (experiment) ne dikhaya ki zyaadatar mard ek aurat ka pehla gaze signal padhne ke liye hardwired (janmjaat prograammed) nahi hain — isliye woh aam tor par ise **teen baar doharana** padta hai aur average mard pick up kare.
+
+- **Sust mardoon ke liye:** Chaar baar
+- **Khaas taur par motay (thick) ke liye:** Paanch baar ya zyaada
+
+Jab woh aakhirkaar uska dhyaan paati hai — woh aksar Eyebrow Flash ka ek chhota version use karti hai — ek chhhoti, baareek aankhein badi karne ki gesture — jo batati hai ki signal uske liye tha.
+
+Kabhi kabhi ek simple face-to-face verbal approach — *"Hey, mujhe tumse achha lagta hai!"* — un mardoon par zyaada effective hoti hai jo bahut slow (sust) hain.
+
+---
+
+## Most Liars Look You in the Eye
+*(Zyaadatar Jhoothey Tumhari Aankhon Mein Dekhte Hain)*
+
+Jaise pehle kaha — kaafi log jhooth ko nazar hataane se jodte hain.
+
+Humne ek series of experiments kiye jahan participants ko recorded interviews mein doosron se jhooth bolne ko kaha. Recordings humaare communication seminars mein use ki gayin — jahan viewers se poochha gaya ki kaun jhooth bol raha hai.
+
+**Nateeja ek popular belief ke bilkul ulta tha:**
+
+- **30% jhoothon ne** hamesha jhooth bolte waqt nazar hataayi — aur viewers ne yeh jhooth **80% waqt** pakad liye
+- **70% jhoothon ne** apne shikar (victim) ke saath mazboot eye contact banaayi rakha — yeh mante hue ki agar woh ulta karein toh pakde jaane ki sambhaavna kam hai
+
+Woh sahi the. Jhooth pakadna **25% average** tak gir gaya — mardoon ne sirf **15%** success rate — auraton ne **35%**.
+
+Auraton ke zyaada intuitive (andar se samajhne wale) brains awaaz mein badlaavon, pupil dilation, aur doosre cues pakadne mein mardoon se behtar the.
+
+Yeh dikhata hai ki gaze akela jhooth ka bharosemand signal nahi hai — tumhein doosre gestures bhi observe karne chahiye.
+
+**Jab kisi ki nazar tumse do tihaayi waqt se zyaada mile — yeh do cheezein mean kar sakta hai:**
+
+1. Woh tumhein interesting ya attractive paata hai — putaliyaan failti hongi
+2. Woh tumse naaraaz (hostile) hai aur challenge issue kar raha hai — putaliyaan sikodhti hongi
+
+Auraten pupil signals decode karne mein achhi hain aur interest ko aggression se alag kar sakti hain — lekin mard is mein kaafi kharaab hain.
+
+> **Isliye average mard nahi bata sakta ki aurat usse chuma dene wali hai ya thapaad (slap) marne wali.**
+
+---
+
+## How to Avoid Being Attacked or Abused
+*(Hamle Ya Takleef Se Kaise Bachein)*
+
+Zyaadatar primates samarpan (submission) dikhane ke liye nazar hatate hain. Agar ek ape aggression dikhane ya hamla karne wala ho — woh apne shikar ki aankhon mein nazar ghusaayega.
+
+Hamle se bachne ke liye — shikar nazar hatayega aur khud ko chhota dikhane ki koshish karega. Scientific evidence dikhata hai ki samarpan (submission) behaviour primates ke brains mein survival ke liye hardwired (janmjaat prograammed) lagta hai.
+
+**Hamle ke dauraan hum khud ko chhota dikhate hain:**
+- Kaandhe jhuka ke
+- Baazoo sharir ke karib kheench ke
+- Ghutne ek saath dabaa ke aur pair kursi ke neeche lock karke
+- Thodi chhaati tak gira ke gardan bachaaney ke liye
+- Nazar hataakar door dekhke
+
+Yeh gestures aagressor (hamla karne waale) ke brain mein ek **"off switch"** activate karte hain — aur hamla rok sakta hai.
+
+Yeh position ideal hai agar koi superior tumhein daant raha ho — aur tum daant deserve bhi karte ho. Lekin random street attack ke khilaf yeh nuqsaandeh (detrimental) hoga — darr zahir karke jo hamla bhada (incite) kar sakta hai.
+
+Agar tum ek group of possible assailants (hamlawaaron) ke paas se guzro — seedhe khade raho, zyaada bade movements karo, baazoo aur pair hilaao, aur apna saamne wala hissa khula rakho. Yeh project karega ki tum zarurat padne par apni hifazat kar sakte ho — aur hamle ki sambhaavna kam hogi.
+
+---
+
+## The Sideways Glance
+*(Tedhi Nazar)*
+
+Sideways Glance interest, aashhuddhi (uncertainty), ya dushmani (hostility) communicate karne ke liye use hoti hai.
+
+- **Thodi uchi bhaun ya muskurahat ke saath** — interest communicate karta hai — aur aksar mohabbat (courtship) signal ki tarah use hota hai — zyaadatar auraton mein
+- **Neeche ki taraf mudi bhaun, jhurri wali bhaun, ya muh ke corners neeche** — shaki (suspicious), dushmani (hostile), ya alochanatmak (critical) rawaiya signal karta hai
+
+---
+
+## Extended Blinking
+*(Lambi Aankhein Jhapakna)*
+
+Normal, relaxed jhapakne ki dar **6-8 blinks per minute** hai — aur aankhein sirf ek second ke **ek daswen hisse** ke liye band hoti hain.
+
+Pressure mein log — jaise jhooth bolte waqt — jhapakne ki dar dramatically badhane ki sambhaavna rakhte hain.
+
+Extended Blinking insaan ke brain ki anjaani (unconscious) koshish hai tumhein nazar se block karne ki — kyunki woh bore ya disinterested (befikar) ho gaye hain — ya feel karte hain ki woh tumse superior (bade) hain.
+
+Aise laga ki unka brain tumse deal karna baar bardaasht nahi kar sakta — isliye aankhein **2-3 seconds ya zyaada** band ho jaati hain — aur band rahti hain jab woh momentarily (ek pal ke liye) tumhein apne zehan se haata deta hai.
+
+Superior types sar peeche jhuka ke tumhein ek **"long look"** bhi de sakte hain — aam taur par **"naak ke neeche se dekhna"** — yeh us insaan ki bhi specialty hai jise lag raha ho ki unki ehmiyat notice nahi ki ja rahi.
+
+Yeh mainly ek Western cultural gesture hai — aur khaaskar upper class feel karne waale English logon ki specialty.
+
+Agar tum yeh conversation ke dauran dekho — signal hai ki kaam nahi chal raha aur nayi approach chahiye.
+
+**Ek fun trick:** Jab unhone teesri ya chaauthi baar aankhein band ki — tezi se apne baayein ya daayein ek qadam lo. Jab unki palkein uthein — yeh illusion deta hai ki tum gaayab hokar doosri jagah appear ho gaye — aur yeh unhe sach mein hila sakta hai!
+
+---
+
+## Darting Eyes
+*(Bhagti Aankhein)*
+
+Jab aankhein ek taraf se doosri taraf darti (dart) hain — aise laga ki insaan room mein activity check kar raha hai — lekin asliyat mein brain escape routes (bhaagne ke raaste) dhundh raha hai — bilkul bandar aur apes ki tarah — jo insaan ki ashuraksha (insecurity) zahir karta hai.
+
+Jab tum kisi khaas boring insaan ke saath ho — tumhari natural urge hoti hai door dekhne ki bhaagne ke raaste ke liye. Lekin kyunki zyaadatar hum jaante hain ki door dekhna doosre mein dilchaspi ki kami dikhata hai — hum boring insaan ki taraf zyaada dekhte hain aur Tight-Lipped Smile use karte hain interest ka natak (feign) karne ke liye.
+
+Yeh wahi behaviour hai jo jhoothey karte hain jab woh eye contact badhate hain convincing dikhne ke liye.
+
+---
+
+## The Geography of the Face
+*(Chehere Ki Jughraafiya — Geography)*
+
+Kisi insaan ke chehere aur sharir ke jis ilaqe (geographic area) par tum ghoor (gaze) karo — woh face-to-face encounter ke nateeje par bhi naataakiy (dramatically) asardaar (affect) ho sakta hai.
+
+**Teen basic types of gazing hain:**
+
+---
+
+### 1. The Social Gaze
+*(Samaajiк Nazar)*
+
+Social encounters mein gazer ki aankhein doosre insaan ke chehere par aankhon aur muh ke beech triangular area par **90% gaze time** dekhti hain.
+
+Yeh chehere ka woh area hai jis par hum ek non-threatening (gair-khatarnaak) maahol mein dekhte hain. Doosra insaan tumhein non-aggressive (ghair-jangju) perceive karega.
+
+---
+
+### 2. The Intimate Gaze
+*(Mohabbat Bhari Nazar)*
+
+Jab log door se ek doosre ke paas aate hain — woh pehle doosre insaan ki sex establish karne ke liye face aur lower body ke beech tezi se dekhte hain — phir doosri baar interest ka level judge karne ke liye.
+
+Yeh gaze aankhon se chin ke neeche sharir ke lower parts tak hai. Karib (close) encounters mein — aankhon se chhaati tak. Door ghoorte waqt — aankhon se neeche.
+
+Mard aur auraten dono yeh gaze ek doosre mein interest zahir karne ke liye use karte hain — aur jo interested hon woh gaze vaapas karenge.
+
+Hum aam tor par **do tezi se nazar** daaalte hain — phir unke chehere par — aur zyaadatar logon ke zabardaszt inkaar ke bawajood — chhupe camera studies reveal karte hain ki **sab karte hain — nuns (rahibaat) bhi.**
+
+Jaise pehle kaha — aurat ki zyaada peripheral vision use ek mard ke sharir ka sar se paon tak jaayeza lene deti hai bina pakde.
+
+Mard ki tunnel vision wajah hai ki woh ek aurat ke sharir ko ek bahut obvious tarike se upar neeche ghoorta hai. Isliye mard par hamesha auraton ke sharir ko close range par "ghoorne (ogling)" ka ilzaam lagta hai — jabki auraten rarely aise ilzaam mein aati hain — halanki research dikhati hai ki **auraten mardoon se zyaada karte hain.**
+
+Mard zyaada ogler (ghoorte) nahi hain — mard ki tunnel vision matlab hai woh hamesha pakde jaate hain.
+
+> **Mard aankhon se muh kyun nahi mila paate?**
+> *Chhaatiyon ki aankhein nahi hoti.* 😄
+
+---
+
+### 3. The Power Gaze
+*(Taqatwar Nazar)*
+
+Socho ki insaan ke maathay ke beech ek teesri aankhchoha hai — aur us **"teen" aankhon ke beech triangular area** mein dekho.
+
+Is gaze ka doosre insaan par asar experience kiye bina believe karna mushkil hai. Na sirf yeh atmosphere ko bahut serious badal deta hai — yeh kisi bore karne waale insaan ko apni tracks mein rok sakta hai.
+
+Apni nazar ko is area mein rakh ke — tumhara pressure unpar bana rehta hai. Jab tak tumhari nazar unki aankhon ke level se neeche na jaye — pressure bana rahega.
+
+**Kabhi bhi friendly ya romantic encounters mein yeh use mat karo.** Lekin yeh us insaan par kaam aata hai jise tum intimidate karna chahte ho — ya jo chup hi nahi hota.
+
+---
+
+### 4. The Power Stare
+*(Taqatwar Ghoor)*
+
+Agar tumhari aankhein soft, kamzor, ya wimpy (bekar) lagin — Power Stare practice karo khud ko zyaada authority dene ke liye.
+
+Jab koi tumhpar hamla kare — eye contact maintain karte waqt blink mat karo. Hamlawaare ko dekhte waqt palkein siko aur closely focus karo.
+
+Yeh wahi hai jo shikaar se pehle predatory animals (shikaari jaanwar) karte hain. Jab tum apni aankhein ek insaan se doosre par bina blinke le jaate ho — yeh har dekhne waale par ek unsettling (pareshaan karne wala) asar karta hai.
+
+Iske liye — pehle apni aankhein hilaao phir sar ko follow karo — lekin kaandhe still rahen.
+
+**Power Stare** Arnold Schwarzenegger ne The Terminator mein use kiya — aur potential intimidators (daraane waalon) ke dilon mein darr daal sakta hai.
+
+Behtar hoga — sirf pleasant (khush-mizaaj) logon se deal karne ki policy rakho — toh kabhi Power Stare nikalना na pade.
+
+---
+
+## The Politician's Story
+*(Politician Ki Kahani)*
+
+Jab koi side to side dekhta ho ya baat karte waqt hamaari aankhon mein na dekhe — unki vishvasniyata (credibility) pe humara yakeen dramatically khatam ho jaata hai — halanki woh sharmeelapan (shyness) ki wajah se kar rahe hon.
+
+Humaare paas ek politician client tha jo television par interviewed hone mein nausikhiya (novice) tha — aur woh interview ke dauran apni aankhein reporters aur cameras ke beech hamesha idhar-udhar kaata rehta tha. Isse screen par woh chalaak-aankhon (shifty-eyed) wala lagta tha — aur har baar television par aata, uski popularity ghatti.
+
+Sirf use train kiya ki **sirf reporter ko dekho aur cameras ko ignore karo** — uski vishvasniyata (credibility) badh gayi.
+
+Humne ek doosre politician ko train kiya ki ek televised political debate mein apne jawaab mainly **television camera ke lens ki taraf** dein. Jabki 150 studio audience guests aliened (alienated — door) ho gaye — millions TV viewers impressed hue — jinhein lagga ki politician seedha unse baat kar raha hai.
+
+---
+
+## Look Deep into My Eyes, Baby
+*(Meri Aankhon Mein Gehre Dekho, Baby)*
+
+Ek television show ke liye humne ek dating agency ke saath ek prayog kiya.
+
+Chuninda mardoon ko bataya gaya ki unki agle date unke liye achhi tarah match ki gayi hai aur woh ek successful, fun waqt expect kar sakte hain.
+
+Humne har mard ko explain kiya ki uski date ko bachpan mein ek aankhon ki chot (eye injury) lag gayi thi aur woh is baare mein bahut sensitive hai kyunki woh aankhon sahi se track nahi karta. Hum ne kaha ki hum sure nahi kis aankhon mein hai — lekin agar woh gaur se dekhe toh pick kar sakta hai.
+
+Har aurat ko bhi wahi kahani bataayi gayi.
+
+Date par — couples poori shaam ek doosre ki aankhon mein ghoor te rahe — "problem eye" dhundne ki naakaam koshish mein.
+
+**Nateeja:** Har couple ne apni date par gehri intimacy (karib) aur romance (mohabbat) report ki — aur ek doosre se dobara milne ki sambhaavna agency average se **200% zyaada** thi.
+
+> **Extended gazing (lambi nazar) intimate feelings create kar sakti hai.**
+
+Tum couples ko alag bhi kar sakte ho — unhe bataakar ki unki date ko hearing problem hai aur unhe **10% louder** baat karni hogi. Nateeja — couples shaam mein zyaada se zyaada zyaada bolne lagte hain — yahan tak ki woh ek doosre par chilla rahe hote hain.
+
+---
+
+## The First Twenty Seconds of an Interview
+*(Interview Ke Pehle Bees Second)*
+
+Kaafi logon ko sikhaya jaata hai ki sales ya job interview mein mazboot eye contact rakho aur seat tak rakho.
+
+Lekin yeh dono interviewer aur interviewee ke liye problems create karta hai — kyunki yeh us process ke khilaf hai jo hum kisi naye insaan se milte waqt karna pasand karte hain.
+
+Ek mard ek aurat ke baal, pair, sharir, aur overall presentation check karna chahta hai. Agar woh eye contact rakhe — yeh process restrict hota hai — isliye woh interview ke dauran chhupe nazer daalne ki koshish karta hai aur distracted (bhatkaa hua) ho jaata hai.
+
+Kuch auraten disappointed hoti hain ki supposedly equal business world mein mard abhi bhi yahi karte hain — lekin chhupe cameras dikhate hain ki yeh business life ki haqeeqat hai — chahe humein pasand ho ya na ho.
+
+> **Pasand ho ya na ho — jab ek aurat room se nikalti hai — sab uske peeche dekhte hain — chahe unhe uska front view pasand na ho.**
+
+Video cameras yeh bhi reveal karte hain ki auraten interviewers bhi male aur female dono interviewees ke saath wahi evaluation process kharti hain — lekin auraton ki zyaada peripheral vision matlab hai woh rarely pakdi jaati hain.
+
+Auraten male candidate ke baalon ki lambaayi, kapdon ka design aur coordination, patloon ki creases, aur joote ki chamak bhi dekhti hain. Zyaadatar mard bilkul anjaan (unaware) hote hain ki auraten unke jaate waqt joote ke peeche ki condition dekhti hain!
+
+---
+
+### The Solution (Haal)
+
+Jab interview ke liye jaao — haath milao — phir interviewer ko **2-3 second** ka uninterrupted time do khud ko "look over" complete karne ke liye.
+
+Briefcase ya folder kholne ke liye neeche dekho — ya papers arrange karo — coat taango — ya kursi zyaada andar karo — phir upar dekho.
+
+Filming sales interviews mein humne paaya ki na sirf yeh salespeople ke liye behtar feel karaata hai — yeh sales results mein better outcome bhi deta hai.
+
+---
+
+## What Channel Are You Tuned To?
+*(Tum Kaun Se Channel Par Ho?)*
+
+Insaan ki eye movements bata sakti hain ki unka dimaag kya soch raha hai — kya woh kuch dekha hua, suna hua, soongha hua, chakha hua, ya chhua hua yaad kar rahe hain.
+
+Yeh technique American psychologists **Grinder aur Bandler** ki development hai — aur **Neurolinguistic Programming (NLP)** kehlaati hai.
+
+Seedha bol doon:
+
+| Aankhein | Matlab |
+|----------|--------|
+| **Upar** | Koi dekhi hui cheez yaad kar rahe hain |
+| **Side mein tilt karke** | Koi suni hui cheez yaad kar rahe hain |
+| **Neeche aur daayein** | Koi feeling ya emotion yaad kar rahe hain |
+| **Neeche aur baayein** | Andar se khud se baat kar rahe hain |
+
+Mushkil yeh hai ki yeh eye movements ek second ke kaafi chhote hisse mein ho sakti hain aur clusters mein aati hain — isliye "live" padhna mushkil hai. Lekin videotape replay ek insaan ke bolne aur asli sochne ke beech virodh (discrepancies) dikha sakta hai.
+
+**35%** log visual information channel prefer karte hain — aur phrases use karte hain jaise: *"Main samajh gaya,"* *"Kya tum ispe nazar daalone ge?"* *"Yeh bilkul clear hai."*
+
+**25%** auditory (sunai) channel prefer karte hain — *"Yeh suni-suni lagti hai,"* *"Main sun raha hoon,"* *"Yeh sahi nahi lagta."*
+
+**Baaki 40%** feelings channel prefer karte hain — *"Chalte hain is idea ko kick karein,"* *"Mujhe theek se nahi pakad pa raha ki tum kya keh rahe ho."*
+
+> **NLP ek remarkable discovery aur ek powerful communications tool hai — hum suggest karte hain ki alag se padho.**
+
+---
+
+## How to Hold Eye Contact with an Audience
+*(Audience Ke Saath Eye Contact Kaise Rakho)*
+
+Professional conference speakers ke roop mein — humne audience ka dhyaan rakhne aur unhe involved feel karaane ki ek technique develop ki.
+
+**50 tak ke groups mein** — har individual ki nazar se milna possible hai.
+
+**Bade groups mein** — tum usually door khade hote ho — toh alag approach chahiye:
+
+Group ke har kone par ek real ya khayal (imaginary) point ya insaan "peg" karo — aur ek center mein. Jab tum front row se 10 yards ki door se khade ho — **50 ke group mein lagbhag 20 log** feel karenge ki tum seedha unhe dekh ke bol rahe ho — isliye zyaadatar audience ke saath ek intimate bond ban sakta hai.
+
+---
+
+## How to Present Visual Information
+*(Visual Jaankari Kaise Present Karein)*
+
+Jab tum books, charts, graphs, ya laptop se visual presentation de rahe ho — yeh jaanna zaroori hai ki doosra insaan kahan dekh raha hai uska kaaboo kaise karo.
+
+Research dikhati hai ki visual presentations mein brain tak relay ki gayi jaankari mein se:
+- **83%** aankhon se aati hai
+- **11%** kaanon se
+- **6%** doosre senses se
+
+**Wharton study** ne paaya ki sirf verbal presentations ki retention (yaad rakhna) sirf **10%** hai — matlab key points ko effective karne ke liye baar baar doharana zaroori hai.
+
+Is ke muqaable mein — combined verbal aur visual presentations ki retention rate **50%** hai — matlab visual aids ke use se **400% efficiency izaafa**.
+
+Adhyayan ne yeh bhi paaya ki visual aids average business meeting time ko **25.7 minutes se 18.6 minutes** tak kaat deti hain — **28% time saving**.
+
+---
+
+### The Power Lift
+*(Taqatwar Uthaan)*
+
+Dekhne ke kaaboo mein rehne ke liye — ek pen use karo presentation point karne ke liye — aur ek saath jo woh dekhta hai use verbalize karo.
+
+Phir **pen ko presentation se uthao** aur uski aankhon aur tumhari aankhon ke beech rakho. Iska magnetic asar yeh hota hai ki uska sar uthata hai — aur ab woh tumhe dekh raha hai aur jo tum keh rahe ho dekh aur sun raha hai — tumhare message ki maximum absorption (jazbiyat) achieve karte hue.
+
+Baat karte waqt doosra haath khula (open palm) rakho.
+
+Humne yeh bhi paaya ki auraten presentations ke dauran mardoon se zyaada direct eye contact rakhti hain — khaaskar jab baat nahi kar rahi hon. Lekin jab auraten bol rahi hoon — woh mardoon se zyaada nazar hataaati hain.
+
+Mard auraton ko mardoon se zyaada ghoorte hain — aur mard doosre mardoon ko sunnote waqt auraton ko sunnote se kam direct eye contact dete hain.
+
+---
+
+## Summary
+*(Khulaasa)*
+
+Jahan tum apni nazar ghoorte ho — face-to-face encounter ke nateeje par ek powerful asar hota hai.
+
+Agar tum ek manager ho jo ek naafarmaain (errant) subordinate ko daant raha ho — ya ek maa-baap jo bachche ko daant raha ho — kaun si gaze use karoge?
+
+- **Social Gazing use karo** — tumhare alfaazon ki sting (daank) nikal jaayegi — chahe kitna bhi loud ya threatening bolne ki koshish karo
+- **Intimate Gazing** unhe intimidate ya sharminda kar sakti hai
+- **Power Gazing** ka receiver par powerful asar hota hai — aur batata hai ki tum serious ho
+
+> **Sahi gaze use karna vishvasniyata (credibility) deta hai.**
+
+Mard jo **"come-on" look** describe karte hain jo auraten use karti hain — woh ek sideways glance, dilated putaliyaan, aur Intimate Gazing se juda hai.
+
+Agar ek aurat "hard to get" dikhana chahti hai — Intimate Gaze avoid karo aur Social Gazing use karo. Lekin zyaadatar mard zyaadatar miss kar dete hain.
+
+Power Gaze mohabbat (courtship) mein use karna — insaan ya aurat ko sard ya unfriendly label karega.
+
+Lekin jab tum kisi potential partner par Intimate Gaze use karo — tum game away kar dete ho. Auraten yeh gaze bhejne aur receive karne mein expert hain — lekin durbhagya (unfortunately) zyaadatar mard nahi hain. Jab mard Intimate Gaze use karte hain — yeh aam tor par auraton ke liye bilkul obvious (spaasht) hota hai — aur mard aam tor par jaante hi nahi ki kisi aurat ne unhe Intimate Gaze diya — iss baat se aurat bahut frustrated (jhunhlaa) ho jaati hai.
+
+---
