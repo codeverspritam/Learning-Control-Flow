@@ -2471,3 +2471,485 @@ Bina kisi training ke bhi — doosre intuitively (andar se) angootha signals dec
 Tum ab na sirf angootha signs decode karne ki position mein ho — balki inhe use karne ke liye khud ko train kar sakte ho.
 
 ---
+
+# Chapter 7 — Evaluation and Deceit Signals
+### *(Jaanchne Aur Dhokhe Ke Ishaare)*
+
+---
+
+> *"Bill Clinton grand jury ke saamne — tumhare hisaab se woh kya soch raha hai?"*
+
+---
+
+## Decoding Hand-to-Face Gestures
+*(Haath-Se-Chehra Gestures Ko Samajhna)*
+
+Agar tum apne milne wale har insaan se bilkul sachchi baat karo — toh kya hoga? Agar jo khayal tumhare mann mein aate hain woh seedha bol do — toh kya nateeja hoga? Misal ke taur par:
+
+- **Boss se:** *"Subh bakhair, boss — tum ek bekar (talentless slob) ho."*
+- **Mard, female customer se:** *"Thanks Susan, aur mujhe keh ne do ki tumhari... bahut achhi hai."*
+- **Aurat, male neighbour se:** *"Groceries mein madad ke liye shukriya. Tumhara... achha hai — lekin baalon ko kaun kaat ta hai?"*
+- **Saas se:** *"Tumhe dekhke achha laga — tum dikhlawa karne wali (interfering), naksaaratmak (negative) budhiya."*
+
+Jab aurat poochhe: *"Kya is dress mein moti lagnti hoon?"* — agar mard smajhdar ho toh kahega ki woh achhi lagti hai. Lekin mann mein hoga: *"Dress tumhe moti nahi dikhati — cake aur ice cream dikhati hai."*
+
+Agar sab se poori sacchaayi hamesha bolte — tum na sirf akele reh jaate — balki hospital ya jail mein bhi ho sakte. **Jhooth woh tel hai jo hamare relationships ko smooth banata hai** — doosron ko comfortable feel karaata hai sachchi, kadvi baat ki jagah.
+
+Inhe **"white lies" (safed jhooth)** kehte hain — inका maqsad doosron ko comfortable feel karaana hota hai.
+
+**Malicious lies (khabees jhooth)** woh hain jahan ek insaan dusre ko deliberately (jaanboojhkar) apne fayde ke liye dhokha deta hai.
+
+---
+
+## Lying Research
+*(Jhooth Bolne Ki Research)*
+
+Jhooth pakadne ke sabse kam bharosemand nishaan woh hain jinpar insaan ka sabse zyaada kaaboo ho — jaise words — kyunki jhooth ko rehearse (practice) kiya ja sakta hai.
+
+Jhooth pakadne ke sabse bharosemand surag (clues) woh gestures hain jo insaan automatically karta hai — kyunki unpar koi ya bahut kam kaaboo hota hai. Yeh responses jhooth ke dauran sabse zyaada hone ki sambhaavna (likelihood) hoti hain kyunki yeh jhoothey ke liye emotionally sabse important hoti hain.
+
+**University of Massachusetts, Amherst** mein **Robert Feldman** ne 121 couples ka adhyayan kiya jab woh kisi teesre insaan se baat kar rahe the. Ek tihaayi ko likeable (pasand kiye jaane waale) dikhne ko kaha gaya — doosre tihaayi ko competent (kabilkar) dikhne ko — aur baaki ko sirf khud rehne ko.
+
+Phir sab ne apni video dekhi aur jo bhi jhooth bola tha — chahe chhhota ya bada — identify kiya.
+
+Kuch jhooth safe jhooth the — jaise kisise keh dena ki woh unhe pasand hain jabki nahi the — doosre zyaada extreme — jaise rok band ka star hone ka jhooth daawa (claim) karna.
+
+**Nateeja:** Feldman ne paaya ki **62% participants ne average 2-3 jhooth har 10 minute mein** bolay.
+
+**James Patterson** — *"The Day America Told the Truth"* ke author — ne 2,000 se zyaada Americans ka interview kiya aur paaya ki **91% ghar aur kaam dono jagah regularly jhooth bolte hain.**
+
+> *"Sachchi baat bolna hamesha best policy hai — jab tak tum ek exceptionally (khaas taur par) achhe jhoothey na ho."*
+> — **J.K. Jerome**
+
+Toh kaise pata chalega ki koi jhooth bol raha hai, waqt guzaar raha hai, ya sirf soch raha hai? Dhokhe (deceit), waqt zaaya karna (procrastination), bore hona, aur jaanchne (evaluation) ke gestures pehchaanna — yeh kuch important observation skills hain jo tum seekh sakte ho.
+
+---
+
+## The Three Wise Monkeys
+*(Teen Samjhdar Bandar)*
+
+Yeh bandar unhe symbolize karte hain jo na buri cheez sunein, na dekhein, na bolein — **"Hear no evil, See no evil, Speak no evil."**
+
+Unke simple haath-se-chehra gestures insaani dhokhe ke gestures ki buniyaad hain. Seedhi baat — jab hum jhooth ya dhokha dekhte, bolte, ya sunte hain — hum anjaane mein apna muh, aankhein, ya kaanaan haathon se dhakne ki koshish karte hain.
+
+Jo log buri khabar sunte hain ya kisi kharab hadse (horrific accident) ke gawah (witness) bante hain — woh aksar apna poora chehra haathon se dhak lete hain — symbolically khud ko woh buri khabar dekhne aur sunne se rokne ke liye.
+
+**September 11, 2001 ko** jab Twin Towers mein planes ghuse — yahi gesture duniya bhar mein sabse zyaada dekha gaya.
+
+Jaise pehle discuss kiya — bacche aksar jhooth bolte waqt openly haath-se-chehra gestures use karte hain:
+- Jhooth bolte waqt ek ya dono haathon se muh dhakna — jaise jhoothe alfaaz rokne ki koshish
+- Maata-pita ki daant sunna na chahein — kaanon par haath
+- Kuch dekhan na chahein — aankhein haathon ya baazuon se dhakna
+
+Bade hone par yeh gestures tez aur kam spaasht (obvious) ho jaate hain — lekin jhooth bolte, chhupate, ya dhokha dekhte waqt hote zaroor hain.
+
+Yeh gestures shak (doubt), aashhuddhi (uncertainty), ya mubaalaghey (exaggeration) se bhi jude hain.
+
+**Desmond Morris** ne research ki jisme nurses ko role-play situation mein patients se jhooth bolne ko kaha gaya. Jhooth bolne wali nurses mein haath-se-chehra gestures sach bolne wali nurses se zyaada the.
+
+Mard aur auraten dono jhooth bolte waqt zyaada baar laab nighalna (gulping) karte hain — lekin yeh aam tor par sirf mardono mein nazar aata hai — unka adam's apple (gaddan ki haddi) bada hone ki wajah se.
+
+> *"Maine us aurat se koi jismaani sambandh (sexual relations) nahi rakha,"*
+> *politician ne kaha — nigalte aur naak ragdate hue.*
+
+Ek important baat — haath-se-chehra gesture akele use hone ki wajah se jhooth ka matlab nahi hota. Yeh signal karta hai ki insaan koi malumat (information) rok raha hoga — aur doosre gesture clusters dekhke is shak ki tasdeeq (confirmation) ya inkaar ho sakta hai.
+
+**Koi ek guaranteed movement, facial expression, ya twitch (pharak) nahi hai jo pakka kare ki koi jhooth bol raha hai — lekin kuch clusters hain jo chances naataakiy (dramatically) badhaate hain.**
+
+---
+
+## How the Face Reveals the Truth
+*(Chehra Sachchi Baat Kaise Zahir Karta Hai)*
+
+Chehra body ke kisi bhi hisse se zyaada jhooth chhupane ke liye use hota hai. Hum muskurahat, sar hilaana, aur aankhein maarna use karte hain chhupane ki koshish mein — lekin body signals sachchi baat bol dete hain jab body gestures aur facial signals mein mel (congruence) nahi hota.
+
+Hamaare rawaiye aur emotions hamesha hamaarey chehre par dikhtey rehte hain — aur hume aksar pata nahi hota.
+
+> **Chehere par pal bhar ke virodh (fleeting incongruencies) emotions ke takraav (conflicts) zahir karte hain.**
+
+Jab hum jhooth chhupane ki koshish karte hain — ya koi khayal ek pal ke liye mann mein aata hai — woh split second ke liye chehere par dikh jaata hai. Hum aam tor par kisi ki tezi se naak chhoone ko khujli samajh lete hain — ya haath chehere par rakhne ko gehri dilchaspi — kabhi yeh shak nahi karte ki woh bore ho raha hai.
+
+Misal ke taur par — humne ek mard ko film kiya jo bata raha tha ki woh apni saas ke saath kitna achha raha. Har baar saas ka naam lene par — uske chehere ke baayein taraf ek pal bhar ka naak-bhaun chadhaana (momentary sneer) aata — jo sirf split second ke liye tha — lekin humein bahut kuch bol gaya.
+
+---
+
+## Women Lie the Best and That's the Truth
+*(Auraten Sabse Achha Jhooth Bolti Hain — Aur Yeh Sach Hai)*
+
+***"Why Men Lie and Women Cry"*** mein humne dikhaya ki auraten emotions padhne mein behtar hain — aur isliye doosron ko sahi jhooth se manipulate (haathkaana) karne mein bhi behtar hain.
+
+Yeh trait (khasiyat) baby girls mein bhi dikhti hai — jo doosre babies ke saath hamdardi (sympathy) mein roti hain — aur khwaahish se rona shuru karke doosre babies ko bhi rula sakti hain.
+
+**Sanjida O'Connell, PhD**, *"Mindreading"* ki author, ne paanch mahine ka adhyayan kiya ki hum jhooth kaise bolte hain — aur yahi nateeja nikala ki auraten mardoon se kahin behtar jhoothay hain. Unhone paaya ki auraten mardoon se zyaada pecheeda (complicated) jhooth bolti hain — jabki mard simple jhooth bolte hain jaise:
+- *"Main bus miss kar gaya"*
+- *"Phone ki battery dead thi — isliye call nahi ki"*
+
+Unhone yeh bhi paaya ki attractive log less attractive logon se zyaada believe kiye jaate hain — yahi explain karta hai ki John F. Kennedy aur Bill Clinton jaisi leaders itna kuch kar ke kaise bach gaye.
+
+---
+
+## Why It's Hard to Lie
+*(Jhooth Bolna Mushkil Kyun Hai)*
+
+Jaise Chapter 3 mein kaha — zyaadatar log maante hain ki jhooth bolte waqt muskurahat zyaada aati hai — lekin research ulta dikhati hai — woh kam muskurate hain.
+
+Jhooth bolne ki mushkil yeh hai ki anjaana (subconscious) mann automatically aur verbal jhooth se alag kaam karta hai — toh body language hamein pakad deti hai. Isliye jo log kam jhooth bolte hain woh aasaani se pakde jaate hain — chahe woh kitne bhi convincing (yakin dilaane wale) kyun na lagte hon.
+
+Jis pal woh jhooth bolna shuru karte hain — sharir contradictory (virodhabhaasi) signals bhejna shuru kar deta hai — aur humein feel hota hai ki kuch sahi nahi.
+
+**Professional jhoothey** — jaise politicians, lawyers, actors, aur TV announcers — apne body gestures itne refined (saaf) kar lete hain ki jhooth "dekhna" mushkil ho jaata hai — aur log poori tarah dhoke mein aa jaate hain.
+
+Woh do tarikон mein aise karte hain:
+1. Woh practice karte hain ki jhooth bolte waqt "sahi" gestures kaun se hain — lekin yeh sirf tab kaam karta hai jab lambe waqt mein bahut saare jhooth practice kiye gaye hon
+2. Woh gesture karna bilkul kam kar dete hain — taaki jhooth bolte waqt koi positive ya negative gesture na use karein — lekin yeh bhi mushkil hai
+
+> **Practice se jhoothey convincing ho sakte hain — bilkul actors ki tarah.**
+
+Ek simple test karo — kisi se face-to-face jaanboojhkar (deliberately) jhooth bolo aur consciously sab body gestures rokne ki koshish karo. Chahe major body gestures consciously rok liye jaayein — kaafi chhoti microgestures phir bhi transmit hongi. Inme shamil hain:
+- Chehere ki muscles ka twitching (pharak)
+- Pupils (aankhon ki putali) ka failna aur sikodhna
+- Paseena
+- Gaale laalna (flushed cheeks)
+- Aankhein jhapakne ki dar 10 per minute se 50 per minute tak
+
+Research slow-motion cameras se dikhati hai ki yeh microgestures split second mein ho sakti hain — aur sirf professional interviewers, salespeople, aur bahut teez nazar wale log inhe padhh sakte hain.
+
+Toh clearly — successfully jhooth bolne ke liye tumhara sharir chhupa ya nazar se door hona chahiye. Interrogation (puchhtaach) mein insaan ko khule chair par ya lights ke neeche rakha jaata hai — aur jhooth zyaada aasaani se nazar aate hain. Jhooth bolna zyaada aasaan hai:
+- Desk ke peeche jab sharir aadha chhupa ho
+- Fence ke upar se jhankke
+- Band darwaze ke peeche se
+
+> **Jhooth bolne ka sabse achha tarika — phone par ya email mein hai.**
+
+---
+
+## Eight of the Most Common Lying Gestures
+*(Jhooth Bolne Ke Aath Sabse Aam Gestures)*
+
+---
+
+### 1. The Mouth Cover (Muh Dhakna)
+
+Haath muh dhakta hai jab brain anjaane mein use jhoothe alfaaz rokne ki koshish karne ka hukum deta hai. Kabhi kabhi yeh sirf kuch ungliyaan muh ke upar hoti hain ya band mutthi — lekin matlab waahi rehta hai.
+
+Kuch log **nakli khaansi (fake cough)** karke Mouth Cover gesture chhupane ki koshish karte hain. Jab actors gangsters ya criminals ka kirdaar karte hain — woh aksar yeh gesture use karte hain criminal activities discuss karte waqt ya police ki puchhtaach mein — taaki audience ko pata chale ki woh chhupaa rahe hain ya beimaan hain.
+
+- **Bolne wala Mouth Cover use kare** — signal hai ki woh jhooth bol raha hoga
+- **Sunne wala Mouth Cover use kare jab tum bol rahe ho** — dikha sakta hai ki unhe lag raha hai tum kuch chhupa rahe ho
+
+Ek conference speaker ke liye sabse unsettling (pareshaan karne wala) nazar hoti hai jab audience yeh gesture use kare jab woh bol raha ho. Speaker ko rukna chahiye aur poochna chahiye: *"Kya koi sawaal poochna chahega?"* ya *"Main dekh raha hoon kuch log disagree karte hain — chalte hain sawaalon par."*
+
+Mouth Cover kabhi kabhi utna hi simple lag sakta hai jitna "Shhh" gesture — jahan ek ungli honton par vertically rakhi ho. Yeh bachpan mein maa-baap ya parwarish karne waale use karte the. Bade hone par insaan ise khud se kuch rokne ki koshish mein use karta hai — ki kuch jo woh feel kar raha hai woh na nikle.
+
+> **Agar tumhare maa-baap ya parwarish karne waale ne yeh gesture use kiya tha — iske adult repertoire (bhandar) mein hone ki achhi sambhaavna hai.**
+
+---
+
+### 2. The Nose Touch (Naak Chhoona)
+
+Kabhi kabhi Nose Touch naak ke neeche kuch tezi se ragadna ho sakta hai ya ek tezi, lagbhag na-nazar-aane-wala naak chhoona. Auraten yeh gesture chhhoti strokes ke saath karti hain — shayad makeup na bigadne ke liye.
+
+Yaad rakhna zaroori hai ki yeh clusters aur context mein padha jaaye — insaan ko hay fever ya zukaam bhi ho sakta hai.
+
+**Chicago ke Smell and Taste Treatment and Research Foundation** ke scientists ne paaya ki jhooth bolte waqt **catecholamines** naami chemicals release hote hain — jo naak ke tissue ko phulaa (swell) dete hain. Special imaging cameras ne dikhaya ki jaanboojhkar jhooth bolne se blood pressure bhi badhata hai. Yeh technology dikhati hai ki insaani naak jhooth bolte waqt khoon se actually phool jaati hai — aur ise **"Pinocchio Effect"** kaha jaata hai.
+
+Badhaa hua blood pressure naak phula deta hai — aur naak ki nerve endings mein jhanjhanahat (tingling) hoti hai — jis se haath tezi se naak ragdaata hai us "khujli (itch)" ko satisfy karne ke liye.
+
+Tum naked eye se yeh sujaav nahi dekh sakte — lekin yahi Nose Touch gesture ka kaarana lagta hai. Yahi phenomenon tab bhi hota hai jab insaan pareshan, anxious, ya gusse mein ho.
+
+**American neurologist Alan Hirsch aur psychiatrist Charles Wolf** ne Bill Clinton ki Monica Lewinsky affair par grand jury testimony ka gehraai se adhyayan kiya. Unhone paaya:
+- Jab Clinton ne sach bola — naak shayad hi kabhi chhuyi
+- Jab jhooth bola — jawaab se pehle split-second bhaunkh di aur **har chaar minute mein ek baar naak chhuyi** — kul **26 baar naak touch**
+
+> *"Maine us aurat se koi jismaani sambandh nahi rakha!"*
+
+Studies ne yeh bhi reveal kiya ki jhooth bolte waqt mard ka... bhi khoon se phulta hai. Shayad grand jury ko Bill ki trousers neeche kheechni chahiye thi.
+
+> **Grand Jury prosecutor:** *"Mr. Clinton — chicken ne sadak kyun cross ki?"*
+> **Bill Clinton:** *"Chicken se tumhara kya matlab hai? Kya tum 'chicken' define kar sakte ho? Aur maine us chicken ke saath sadak cross nahi ki."*
+
+---
+
+### 3. What About an Itchy Nose?
+*(Agar Naak Mein Sachchi Khujli Ho?)*
+
+Sachchi khujli (itch) aam tor par ek deliberate (jaanboojhkar) ragadne ya khujlane (scratching) se satisfy hoti hai — Nose Touch gesture ki halki strokes ke muqaable mein.
+
+Mouth Cover ki tarah — Nose Touch dono use kar sakta hai:
+- **Bolne wala** — apna khud ka dhokha chhupane ke liye
+- **Sunne wala** — jo speaker ke words par shak karta ho
+
+Khujli aam tor par ek akela (isolated) repetitive gesture hoti hai — aur insaan ki overall conversation se mel nahi khaati (incongruent).
+
+---
+
+### 4. The Eye Rub (Aankhein Ragadna)
+
+*"Buri cheez mat dekho,"* ek samjhdar bandar ne kaha. Jab ek bachcha kuch nahi dekhna chahta — woh ek ya dono haathon se aankhein dhak leta hai.
+
+Jab ek adult kuch napasand dekhna nahi chahta — Eye Rub hone ki sambhaavna hai. Eye Rub brain ki koshish hai dhokhe, shak, ya napasand cheez ko block karne ki — ya jhooth bol rahe insaan ka chehra dekhne se bachne ki.
+
+**Mard** aam tor par aankhein zor se ragadte hain — aur agar jhooth bada ho — woh aksar door dekhte hain.
+
+**Auraten** Eye Rub karne ki sambhaavna kam hai — woh aankhon ke neeche chhoti, halki touching motions use karti hain — ya toh is wajah se ki bachpan mein strong gestures na karne ki conditioning (adat-dhaali) ki gayi — ya makeup na bigadne ke liye. Woh bhi door dekhne se listener ki nazar se bachti hain.
+
+**"Daanton se jhooth bolna" (Lying through your teeth)** ek commonly used phrase hai. Yeh banda (clenched) daantaon aur nakli muskurahat ke gesture cluster ko refer karta hai — Eye Rub ke saath milakar. Yeh gesture movie actors use karte hain insincerity (beimaan rawaiya) portray karne ke liye — aur "polite" cultures jaise English bhi — jo tum se seedha nahin bolna prefer karte ki woh kya soch rahe hain.
+
+---
+
+### 5. The Ear Grab (Kaanaan Pakadna)
+
+Socho tum kisi ko kehte ho: *"Sirf 300 dollar lagte hain"* — aur woh apna kaanaan pakad leta hai, ek taraf nazar ghuma leta hai, aur kehta hai: *"Yeh achha deal lagta hai."*
+
+Yeh sunne waale ki symbolically *"buri cheez na sunne"* ki koshish hai — woh jo sun raha hai usse block karne ke liye haath kaanaan ke ird-gird ya upar rakh ke ya kaanaan ki lau (earlobe) kheench ke.
+
+Yeh uss bachche wale Hands-Over-Both-Ears gesture ka adult version hai jo maa-baap ki daant block karna chahta tha.
+
+**Doosre variations:**
+- Kaanaan ke peeche ragadna
+- Finger Drill — ungli ki nok kaanaan ke andar aage-peeche ghusaana
+- Kaanaan ki lau kheenchna
+- Poora kaanaan aage mod ke kaanaan ka chhed dhakna
+
+Ear Grab yeh bhi signal ho sakta hai ki insaan kaafi sun chuka hai ya bolna chahta hai.
+
+Nose Touch ki tarah — Ear Grab bhi anxiety (chhatapha) feel karne wale insaan use karta hai. **Prince Charles** aksar dono Ear Grab aur Nose Touch use karta hai jab woh logon se bhari room mein daakhil hota hai ya badi bheed ke paas se guzarta hai. Uski anxiety (chhatapha) zahir hoti hai — aur humne kabhi koi photo ya film nahi dekhi jisme woh yeh gestures use kare jab woh apni gaadi ki relative safety mein ho.
+
+> **Italy mein Ear Grab ka matlab hai ki koi effeminate (aurat jaisa) ya gay hai.**
+
+---
+
+### 6. The Neck Scratch (Gardan Khujlana)
+
+Tarjani (index finger) — aam tor par likhne wale haath ki — kaanaan ki lau ke neeche gardan ki side khujlati hai.
+
+Humaari observations mein yeh gesture use karne wala insaan **average paanch baar** khujlaata hai. Paanch se kam ya zyaada shayad hi kabhi hota hai.
+
+Yeh gesture **shak (doubt) ya aashhuddhi (uncertainty)** ka signal hai — aur us insaan ki pehchaan hai jo kehta hai: *"Mujhe nahi pata main agree karta hoon ya nahi."*
+
+Yeh khaaskar tab spaasht (noticeable) hota hai jab verbal language iske virodh (contradicts) mein ho — misal ke taur par jab insaan kuch aisa kahe: *"Main samajh sakta hoon tum kaise feel karte ho"* — lekin Neck Scratch batata hai ki woh nahi samjhta.
+
+---
+
+### 7. The Collar Pull (Collar Kheenchna)
+
+**Desmond Morris** pehle logon mein se tha jisne discover kiya ki jhooth delicate chehere aur gardan ke tissues mein jhanjhanahat (tingling sensation) paida karta hai — aur ise satisfy karne ke liye ek ragadna ya khujlana zaroori hota hai.
+
+Yeh na sirf explain karta hai ki aashhuddha (uncertain) log kyun gardan khujlaate hain — balki ek achha explanation bhi hai ki kuch log Collar Pull kyun use karte hain jab woh jhooth bolte hain aur samajhte hain ki pakde jaayenge.
+
+Dhokhe se badhaa hua blood pressure gardan par paseena paida karta hai jab dhokebaaz feel kare ki tum shak kar rahe ho ki woh sach nahi bol raha.
+
+Yeh tab bhi hota hai jab insaan gusse ya frustrated (frustrated) ho — aur collar ko gardan se door kheenchna chahta ho taaki thandi hawa aaye.
+
+Jab tum yeh gesture dekhte ho — poochho: *"Kya tum yeh dobara keh sakte ho?"* ya *"Kya tum yeh point clear kar sakte ho?"* — yeh sambhavit jhoothey ko game away karne par majboor kar sakta hai.
+
+---
+
+### 8. Fingers-in-the-Mouth (Muh Mein Ungliyaan)
+
+Yeh anjaane mein (unconsciously) insaan ki koshish hai wapas us suraksha ki taraf jaane ki jo bachche ko maa ki chhaati se milti hai — aur tab hota hai jab insaan pressure mein ho.
+
+Chhota bachcha apna angootha ya blanket maa ki chhaati ki jagah substitute karta hai — aur adult muh mein ungliyaan daalta hai, cigarettes, pipes, pens, aur glasses chus ta hai, aur gum chabaata hai.
+
+Zyaadatar haath-se-muh gestures jhooth ya dhokhe se jode ja sakte hain — lekin Fingers-in-Mouth gesture ek baahri nishaan hai andar ki zaroorat ki — tasalli (reassurance) ki.
+
+> **Toh insan ko guarantees aur assurances dena ek positive kadam hai.**
+
+---
+
+## Evaluation and Procrastination Gestures
+*(Jaanchne Aur Waqt Zaaya Karne Ke Gestures)*
+
+Ek achha speaker woh hai jo "andar se" jaanta hai ki uski audience interested hai ya kab kaafi ho gayi. Ek achha salesperson feel karta hai ki woh kab apne client ke "hot buttons" hit kar raha hai aur kharidaar ki dilchaspi kahan hai.
+
+Har presenter woh khaali feeling jaanta hai jo tab aati hai jab kisi ko presentation dete ho jo bahut kam bolta hai aur sirf wahin baitha dekhta rehta hai.
+
+Khushqismati se — kuch **Hand-to-Cheek aur Hand-to-Chin gestures** hain jo thermometer (paaraa) ki tarah use kiye ja sakte hain — yeh test karne ke liye ki doosre insaan ka rawaiya kitna garm ya thanda hai.
+
+---
+
+## Boredom (Bore Hona)
+
+Jab sunne wala apna sar haath se support karna shuru kare — yeh signal hai ki bore ho gaya — aur supporting haath ek koshish hai sar upar rakhne ki taaki neend na aaye.
+
+Bore hone ki degree is se judi hai ki kitna baazoo aur haath sar support kar rahe hain:
+- Pehle **angootha thodi support karta hai**
+- Phir interest khatam hone par **mutthi**
+- **Extreme bore hona** — sar poori tarah haath se support hona
+- **Ultimate bore hona** — poora sar haath se support aur kharratay (snoring) ki awaazein
+
+**Mez par ungliyaan thopna (Drumming fingers) aur pair baar baar zameen par thaapna** — professional speakers aksar inhe bore hone ke signals samjhte hain — lekin yeh asliyat mein **bezaari (impatience)** ke signals hain.
+
+Agar tum kisi group se baat kar rahe ho aur yeh signals dikhe — ungli thopaane wale ya pair thapaane waale ko conversation mein involve karna ek strategic (sochee samajhee) kadam hai — taaki unka doosron par naksaaratmak asar na ho.
+
+Jo audience bore hone aur bezaari (impatience) ke signals ek saath dikhaye — woh speaker ko bata rahi hai ki waqt khatam karo.
+
+> *"Kya tum neend mein baat karte ho?" speaker se poocha gaya.*
+> *"Nahi," jawab aaya. "Toh phir please meri neend mein baat mat karo."*
+
+Ungli ya pair thaapne ki speed insaan ki bezaari (impatience) ki degree se judi hai — jitna tez thaapna — utna zyaada bezaar (impatient) sunne wala.
+
+---
+
+## Evaluation Gestures
+*(Jaanchne Ke Gestures)*
+
+**Jaanchna (Evaluation)** ek band haath se dikhaayi deti hai jo thodi ya gaale par tiki ho — aksar tarjani (index finger) upar ki taraf point karte hue.
+
+Jab insaan interest khone lagta hai lekin shisht (courteous) dikhne ke liye interested laagna chahta hai — hatheli ki heel sar support karne lagti hai jaise bore hona barhta hai.
+
+Middle managers aksar yeh gesture use karte hain company president ki boring speech ke dauran interested dikhne ke liye. Lekin jaise hi haath kisi bhi tarah sar support karne lagta hai — game over — president ko lag jaata hai ki kuch managers beimaan (insincere) hain ya jhootha khushaaamad (false flattery) kar rahe hain.
+
+**Asli interest** tab dikhata hai jab haath gaale par halka sa tika ho — sar support ke bina.
+
+Jab tarjani (index finger) gaale ki taraf vertically upar point kare aur angootha thodi support kare — sunne wala speaker ya topic ke baare mein **naksaaratmak (negative) ya alochanatmak (critical) soch raha hai.** Kabhi kabhi tarjani aankhein ragad sakti ya kheench sakti hai jaise naksaaratmak khayal jaari rahein.
+
+Yeh gesture aksar interest ka signal samjha jaata hai — lekin thodi ke neeche angootha sach batata hai. Gesture cluster zyaada der tak pakad ke rakhna rawaiye ko banaaye rakhta hai — isliye turant action zaroori hai.
+
+Ek simple kadam — sunne waale ko kuch pakad dena — pose badal sakta hai aur rawaiye mein badlaav la sakta hai.
+
+> **Rodin ki "The Thinker" ek sochne wala, evaluating (jaanchne wala) rawaiya dikhata hai — lekin body posture aur sar ko haath se support karna ek nirash (dejected) insaan bhi zahir karta hai.**
+
+---
+
+## The Lying Interviewee
+*(Jhooth Bolne Wala Interview Dene Waala)*
+
+Humne ek mard ka interview kiya jo videsh se aakar company mein position ke liye apply kar raha tha. Poore interview mein usne:
+- Baazoo aur pair cross rakhe
+- Critical evaluation clusters use kiye
+- Hatheli ka bahut kam use kiya
+- Baar baar nazar door ki
+
+Kuch clearly use pareshaan kar raha tha — lekin interview ke shuruaati dauran hamare paas uske naksaaratmak gestures ka sahi jaayeza (assessment) karne ki kaafi jaankari nahi thi.
+
+Hum ne usse uske pichle employers ke baare mein poochha. Uske jawaabon mein aankhein ragadne aur naak chhoone ki series thi — aur woh nazar door karta raha.
+
+**Humne use hire na karne ka faisla kiya — jo humne dekha tha uske aadhar par — na ki jo usne kaha tha uske aadhar par.**
+
+Jab humne uske overseas references check kiye — paaya ki usne apne past ke baare mein galat jaankari di thi. Usne assume kiya tha ki doosre desh mein ek potential employer overseas references shayad hi check karega — aur agar humne body-language cues aur signals ki jagrookta nahi hoti — toh hum usse hire karne ki galti kar sakte the.
+
+---
+
+## Chin Stroking
+*(Thodi Sehlaana)*
+
+Agla mauka jab kisi group ke saamne koi idea present karo — unhe dhyan se dekho aur yeh observe karo ki zyaadatar ek haath chehere ke paas laayenge aur evaluation gesture use karenge.
+
+Jab presentation khatam karke opinions maango — evaluation gestures aam tor par ruk jaate hain aur **Chin Stroking gesture** shuru hoti hai. Yeh signal hai ki sunne waala **faisla karne ki process (decision-making process)** mein hai.
+
+> **Jab Chin Stroke shuru ho — tum ne sunne waale ko faisla karne ke process mein dhakel diya hai.**
+
+Jab tumne faisla maanga ho aur woh Chin Stroke karne lagein — unke agle gestures batayenge ki faisla naksaaratmak hai ya saakaratmak.
+
+**Tumhari best strategy hai chup rehna aur agle gestures dekhna:**
+
+- **Chin Stroke ke baad baazoo aur pair cross karke kursi mein peeche jhuke** — fair bet hai ki jawaab "naa" hoga
+  - Yeh tumhe early opportunity deta hai ki "naa" verbally kehne se pehle benefits dobara becho — jaana ki wajah se "naa" par aana mushkil ho jaata hai
+- **Chin Stroke ke baad aage jhuke khule baazuon ke saath ya proposal/sample uthaye** — chances hain ki tumhara "haan" hai aur aage badh sakte ho
+
+---
+
+## Stalling Clusters
+*(Waqt Zaaya Karne Ke Clusters)*
+
+Kuch log — jo chashma (glasses) pehnte hain — evaluation cluster ke baad chashma utaarke Chin Stroke ki jagah frame ki ek arm muh mein dal lete hain faisla karte waqt. Cigarette peene waala ek puff lega.
+
+Jab koi faisla maangne ke baad pen ya ungli muh mein daale — yeh signal hai ki woh sure nahi aur tasalli (reassurance) chahiye. Muh mein rakhna ise stall (waqt zaaya) karne deta hai — fauran jawaab dene ki koi zarurat nahi.
+
+Kabhi kabhi bore hona, evaluation, aur faisla karne ke gestures combined (milaaye hue) aate hain — har ek insaan ke rawaiye ke alag pahlu dikhata hua.
+
+**Evaluation-decision-making cluster** mein gesture thodi ki taraf move karta hai — aur haath thodi bhi sehla sakta hai. Yeh insaan ek hi waqt proposition (prastaav) evaluate aur nateeje nikaal raha hai.
+
+---
+
+## Head Rubbing and Slapping Gestures
+*(Sar Ragadne Aur Thaapne Ke Gestures)*
+
+Jab tum kahte ho ki koi tumhe **"pain in the neck" (gardan mein dard)** hai — tum gardan ki chhoti **erector pillae muscles** ki puraani reaction ka zikr kar rahe ho — jinhein aksar goose bumps (romanchit hona) kehte hain — jo tumhari non-existent (na-maujood) fur coat ko khadi karne ki koshish karti hain — taaki tum zyaada intimidating (daraawana) lagо. Yeh wahi reaction hai jo ek gusse waale kutte mein hoti hai jab kisi doosre potentially hostile kutte se saamna ho.
+
+Yeh reaction gardan ke peechhe woh jhanjhanahat (tingling feeling) create karta hai jab tum frustrated ya daraa hua feel karte ho.
+
+Misal ke taur par — maan lo tumne kisi se ek chhota sa kaam maanga jo woh bhool gaya. Jab tum nateeja maango — woh maathaa (forehead) ya gardan ka peechhla hissa thaape — jaise woh symbolically khud ko maar rahe hon.
+
+- **Agar maathaa thaapen** — signal hai ki woh tumhaari baat se dara nahi
+- **Agar gardan ka peechha thaapen** — woh tumhe literally **"pain in the neck" (gardan mein dard)** bata rahe hain ki tumne yeh mention kiya
+
+**Gerard Nierenberg** ne paaya ki:
+- Jo regularly gardan ka peechha ragadte hain — woh naksaaratmak (negative) ya alochanatmak (critical) rehte hain
+- Jo regularly maatha ragadte hain galti non-verbally bataane ke liye — woh zyaada khule (open) aur easygoing hote hain
+
+Haath-se-chehra gestures ko kisi situation mein sahi tarah interpret karna seekhna waqt aur observation leta hai.
+
+Jab koi in chapter mein discuss gestures mein se koi use kare — yeh maan na waazib (reasonable) hai ki ek naksaaratmak khayal uske mann mein aaya hai. Sawaal yeh hai ki **woh naksaaratmak khayal kya hai?**
+
+Yeh ho sakta hai:
+- Shak (doubt)
+- Dhokha (deceit)
+- Aashhuddhi (uncertainty)
+- Mubaalaghaa (exaggeration)
+- Apprehension (darra hua hona)
+- Ya seedha jhooth
+
+Asli skill yeh identify karna hai ki in mein se sahi kaun sa hai. Yeh gesture se pehle ke gestures ka analysis karke aur context mein interpret karke best ho sakta hai.
+
+---
+
+## Why Bob Always Lost at Chess
+*(Bob Hamesha Chess Kyun Haara)*
+
+Hamaara ek colleague Bob chess khelna pasand karta tha. Humne use ek competition mein challenge kiya — jo humne secretly videotape ki baad mein uski body language ka analysis karne ke liye.
+
+Video ne reveal kiya ki Bob aksar game ke dauran kaanaan ragaata ya naak chhuuta — lekin sirf tab jab woh apne agle move ke baare mein sure nahi hota.
+
+Humne discover kiya ki jab humne ek chess piece chhuoke move karne ka irada darshaaya — Bob ki body language bata deti ki woh proposed move ke baare mein kya sochta hai:
+
+- **Jab confident hota** ki woh move beat kar sakta — Steeple gesture karta
+- **Jab uncertain (ashhuddha) ya unhappy hota** — Mouth Cover, Ear Grab, ya Neck Scratch use karta
+
+Yeh itni predictability (anumaan) ke saath hota tha ki jab humne secretly Bob ke cues chess group ke doosre members ko samjhaye — jald hi zyaadatar baar bechare Bob ko beat kar lete — uski body language se uske khayal anticipate (pehle jaanke) karke.
+
+> **Bob ko yeh book offer nahi ki gayi.**
+
+---
+
+## The Double Meaning
+*(Dohare Matlab)*
+
+Ek videotaped role-play interview ke dauran — humaare interviewee ne achanak muh dhaka aur naak ragadi — interviewer ka sawaal sunne ke baad. Usne Mouth Cover kai seconds ke liye use kiya — phir khuli position mein vaapas aaya.
+
+Us point tak role-play mein — interviewee ne khuli posture rakhi thi:
+- Coat unbuttoned
+- Hatheli zahir
+- Sar hilaana
+- Jawaab dete waqt aage jhukna
+
+Toh humne socha gesture akele ya context se baahir ho sakta hai.
+
+Video review par — humne gesture ke baare mein poochha. Usne bataya ki sawaal sunne par usne socha ki woh do tarikон se jawaab de sakta tha — ek naksaaratmak (negative), ek saakaratmak (positive).
+
+Jab usne naksaaratmak jawaab aur interviewer ki possible reaction ke baare mein socha — muh dhak liya. Jab saakaratmak jawaab ke baare mein socha — haath muh se hat gaya aur woh khuli posture mein vaapas aaya.
+
+Interviewer ki possible reaction ke baare mein uski aashhuddhi (uncertainty) ne achanak Mouth Cover paida ki thi.
+
+> **Yeh dikhata hai ki haath-se-chehra gesture ko misinterpret (galat samajhna) kitna aasaan ho sakta hai — aur galat nateejon par pahunchna kitna aasaan.**
+
+---
+
+## Summary
+*(Khulaasa)*
+
+Haath-se-chehra gestures insaani chehere aur haathon ke beech ek fascinating (haairan karne wala) sambandh darshate hain. Inhe cluster mein aur context mein padhna zaroori hai — lekin jab inhe sahi tarah use kiya jaaye — yeh tumhe bahut powerful information de sakte hain ki doosra insaan asliyat mein kya soch raha hai.
+
+Yaad rakho:
+- **Muh dhakna** — kuch chhupaya ja raha hai
+- **Naak chhoona** — Pinocchio Effect — jhooth bol raha hoga
+- **Aankhein ragadna** — kuch dekhna nahi chahta
+- **Kaanaan pakadna** — kuch sunna nahi chahta
+- **Gardan khujlana** — shak ya aashhuddhi
+- **Collar kheenchna** — jhooth pakad gaya — ghabrahaat
+- **Muh mein ungliyaan** — tasalli chahiye
+
+> **Yeh skills practice karо aur tum zyaada logon ki asli feelings padhne mein mahir (proficient) ho jaoge — jo tumhe life mein kaafi fayda dega.**
+
+---
