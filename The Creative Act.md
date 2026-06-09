@@ -1803,3 +1803,270 @@ Agar aap khule (open) hain aur bina kisi faisle ya pehle se bani soch (judgment)
 Sacha listening tab shuru hota hai
 jab aapka apna shor
 poori tarah se shaant ho jata hai.
+
+---
+# Chapter 24 Patience
+
+
+Koi shortcuts nahi hain.
+
+Lottery jeetne wala aadmi apni kismat ke is achanak badlav ke baad aakhirkar (ultimately) khush nahi hota. Jaldbaazi mein banaya gaya ghar shaayad hi kabhi pehle toofan mein bach pata hai. Kisi book ya news event ki ek-sentence ki summary, poori kahani ka koi vikalp (substitute) nahi hai.
+
+Hum aksar bina jaane hi shortcuts le lete hain. Sunte waqt (When listening), hamari aadat hoti hai ki hum aage badh jaate hain (skip forward) aur bolne wale ke overall message ko aam roop de dete hain (generalize kar dete hain). Hum baat ki gehraai ya baarikiyon (subtleties) ko miss kar dete hain, agar poore aadhar (premise) ko nahi toh. Is assumption ke alawa ki hum apna samay bacha rahe hain, yeh shortcut hamari pehle se chali aa rahi kahaniyon (prevailing stories) ko chunauti dene ki bechaini (discomfort) se bhi bachata hai. Aur hamara duniya ko dekhne ka nazariya (worldview) lagatar sikudta (shrink) rehta hai.
+
+Artist hamesha active hokar life ko dheere se experience karne ke liye kaam karta hai, aur phir usi same cheez ko naye sire se (anew) dobara experience karta hai. Dheere-dheere padhne ke liye, aur baar-baar padhne ke liye. Main shaayad koi aisa paragraph padhoon jo kisi thought ko inspire kare, aur jabki meri aankhein padhne ke physical act mein page par aage badhti rehti hain, mera mind abhi bhi pichle idea mein hi khoya ho sakta hai. Main ab aur information andar nahi le raha hota hoon. Jab mujhe yeh realize hota hai, toh main pichle us paragraph par wapas jaata hoon jo mujhe yaad (recall) ho aur wahan se dobara padhna shuru karta hoon. Kabhi-kabhi yeh teen ya chaar pages peeche hota hai. Ek achhe se samjhe hue paragraph ya page ko dobara padhna (re-reading) bhi naya rasta dikhane wala (revelatory) ho sakta hai. Naye meanings, gehri samajh (deeper understandings), inspirations, aur baarikiyan (nuances) ubharte hain aur focus mein aate hain.
+
+Reading ko, listening, eating, aur zyadatar physical activities ke saath-saath, driving ki tarah experience kiya ja sakta hai: hum ya toh autopilot par participate kar sakte hain ya phir ek focused irade (focused intention) ke saath. Hum aksar apni lives mein neend mein chalte hue (sleepwalk karte hue) guzar jaate hain. Sochiye ki duniya ka aapka experience kitna alag ho sakta hai agar aap har ek activity mein utne attention ke saath shamil (engage) hon jitna attention aap kisi plane ko land karate waqt dete hain.
+
+Aise log hain jo har din ke mauqon (opportunities) ko ek to-do list se items ko kaatne (crossing off) ki tarah dekhte hain, bajaye iske ki woh poori tarah se engage hon aur apne poore wajood ke saath participate karein.
+
+Efficiency (kushalata) ke liye hamari lagatar khoj humein bahut gehraai se dekhne se rokti (discourages) hai. Deliver karne ka pressure humein saari sambhavnaon (possibilities) par vichar karne ka samay nahi deta. Phir bhi, yeh jaan-bujhkar kiye gaye action (deliberate action) aur dohraav (repetition) ke zariya hi hai jahan se hum gehra gyaan (deeper insight) haasil karte hain.
+
+Patience zaroori hai aapke craft ke baareek aur naye vikas (nuanced development) ke liye.
+
+Patience zaroori hai information ko sabse sachaai bhare tareeqe (most faithful way possible) se andar lene ke liye.
+
+Patience zaroori hai ek aisa kaam tayaar karne (crafting a work) ke liye jo resonate kare aur jismein woh sab kuch shamil ho jo hamare paas dene ke liye hai.
+
+Ek artist ke kaam aur life ke har phase ko is haasil karne layak aadat (achievable habit) ko apnane (cultivating) se fayda hota hai.
+
+Patience bilkul awareness ki tarah hi develop hoti hai. Jo jaisa hai use swikar karne ke zariya (Through an acceptance of what is). Impatience darasal reality ke saath ek bahas (argument) hai. Kisi aisi cheez ki chah jo usse alag ho jo hum abhi aur is pal (here and now) mein experience kar rahe hain. Samay ke tez hone ki khwaahish, kal ka jaldi aana, beete hue kal ko dobara jeena, ya apni aankhein band karke phir unhe kholna aur khud ko kisi doosri jagah par paana.
+
+Time ek aisi cheez hai jis par hamara koi control nahi hai. Isliye patience ki shuruat natural rhythms (prakritik bahaav) ke swikar (acceptance) ke saath hoti hai. Impatience ka chhupa hua fayda (implied benefit) speed badhakar aur un rhythms se aage nikal kar (skipping ahead) samay bachana hota hai. Virodhbhas (Paradoxically) yeh hai ki yeh aakhirkar aur zyada samay leta hai aur zyada energy use karta hai. Yeh ek barbad ki gayi koshish (wasted effort) hai.
+
+Jab creative process ki baat aati hai, toh patience is baat ko swikar karna hai ki hamare dwara kiye jaane wale zyadatar kaam hamare control se baahar hain. Hum mahanata (greatness) ko zabardasti nahi la sakte. Hum sirf use andar aane ka nyota (invite) de sakte hain aur active hokar uska intezar kar sakte hain. Chinta ke saath nahi (Not anxiously), kyunki yeh use dara kar bhaga sakta hai. Bas lagatar welcome karne ki ek state (continual welcoming) mein.
+
+Agar hum kisi kaam ke vikas (development) ke equation se samay (time) ko hata dein, toh hamare paas jo bachta hai woh hai patience. Na sirf kaam ke development ke liye, balki poore ke poore artist ke development ke liye. Yahan tak ki woh masterpieces jo tight timelines par produce kiye gaye hain, woh bhi doosre kaamon par sabar ke saath mehnat (patiently laboring) karne mein bitaaye gaye dashakon (decades) ka jod (sum) hain.
+
+Agar creativity ka koi aisa rule hai jo doosron ke mukable kam tootne layak (less breakable) hai, toh woh yeh hai ki patience ki zaroorat hamesha maujood (ever-present) rehti hai. 
+
+---
+
+# Chapter 25: Beginner’s Mind 
+
+Kuch teen hazaar saal pehle China mein, strategic board game "Go" ko develop kiya gaya tha. Kuch logon ka manna hai ki warlords aur generals ne ise un stones (pattharon) par aadharit kiya tha jinhe woh apne battle plans tay karne ke liye maps par rakhte the. Insaan ke itihaas mein lagatar khele jaane wale sabse purane board game hone ke alawa, yeh sabse zyada complex (jatil) games mein se ek bhi hai.
+
+Modern times mein, is game ko harana artificial intelligence community mein "holy grail" (sabse mahan aur mushkil maqsad) ke roop mein jaana jaane laga. Kyunki board par possible configurations (rang-dhang ya sthitiyon) ki sankhya universe mein maujood atoms ki sankhya se bhi badi hai, isliye yeh maana jaata tha ki computers ke paas ek kushal insani player ko harane ke liye zaroori processing power nahi hai.
+
+Is chunauti ka saamna karte hue (Rising to the challenge), scientists ne "AlphaGo" naam ka ek artificial intelligence program banaya. Is program ne khud ko sikhakar (teaching itself) khelna seekha, aur 100,000 se zyada purane games ko study kiya. Phir isne baar-baar khud ke hi khilaf tab tak khela jab tak ki yeh game ke maujuda reigning grandmaster ko challenge karne ke liye taiyar nahi ho gaya.
+
+Doosre match ki 37th move par, machine ke samne ek aisa decision aaya jo yeh tay karne wala tha ki baaki ka game kaise khela jayega. Wahan saaf taur par do choices thin. Choice A ek aisi move thi jo yeh ishara karti (signal karti) ki computer offense (aakramak) game khel raha hai. Choice B yeh signal karti ki yeh ek defensive (rakshatmak) game khel raha hai.
+
+Iske bajaye, computer ne ek teesri move chalne ka faisla kiya, ek aisi move jo game mein poori tarah doobe hue (steeped) kisi bhi insaan ne hazaron saalon ke khel mein kabhi nahi chali thi. "Ek bhi insani player move 37 ko nahi chunta," ek commentator ne kaha. Zyadatar logon ne socha ki yeh ek galti thi ya mahaj ek kharab move thi.
+
+Machine ke khilaf khel raha grandmaster is qadar hairaan (taken aback) reh gaya ki woh khada hua aur kamre se baahar chala gaya. Woh aakhirkar wapas lauta, apne hamesha wale confident composure (sanyam) ke sath nahi balki is experience se poori tarah hila hua (visibly shaken) aur frustrated dikh raha tha. Aakhir mein, AlphaGo ne game jeet liya. Aur experts ne kaha ki wahi pehle kabhi na dekhi gayi move (never-been-seen-before move) thi jisne game ka rukh AI ke paksh (favor) mein mod diya.
+
+Aakhir mein, computer ne paanch mein se chaar matches jeet liye, aur grandmaster ne hamesha ke liye competition se sanyas (permanently retired) le liya.
+
+Jab maine pehli baar is kahani ko suna, toh meri aankhon mein aansu aa gaye, aur main emotions ke is achanak bahaav (swell) se confuse ho gaya. Aur zyada vichar karne ke baad (After further reflection), mujhe realize hua ki yeh kahani creative act mein pavitrata ki taqat (power of purity) ke baare mein baat karti hai.
+
+Aisi kya cheez thi jisne ek machine ko ek aisi move nikalne (devise karne) ki permission di jo game mein poori tarah doobe hue kisi bhi insaan ne hazaron saalon ke khel mein kabhi nahi chali thi?
+
+Yeh zaroori nahi ki uski intelligence ki wajah se ho. Yeh is haqeeqat ki wajah se tha ki machine ne game ko bilkul shuruat se (from scratch) seekha, bina kisi coach, bina kisi insani dakhal (no human intervention), aur bina kisi expert ke past experience par aadharit lessons ke. AI ne tay niyamon (fixed rules) ko follow kiya, na ki unse judi hazaron saalon se swikar ki gayi sanskritik manyataon (accepted cultural norms) ko. Isne Go ki teen-hazaar-saal purani traditions (paramparaon) aur conventions ka koi dhyan nahi rakha (didn’t take into account). Isne is narrative (kahani) ko swikar nahi kiya ki is game ko sahi tareeqe se kaise khela jata hai. Yeh limited soch (limiting beliefs) ke zariya peeche nahi ruka tha.
+
+Aur isliye yeh sirf AI ke vikas (development) mein ek landmark event nahi tha. Yeh pehli baar tha jab Go ko maujooda sambhavnaon ke poore daayre (full spectrum of possibilities) ke saath khela gaya tha. Ek bilkul saaf patti (clean slate) ke sath, AlphaGo nayaapan lane (innovate karne), kuch bilkul naya nikalne (devise karne), aur game ko hamesha ke liye badalne (transform karne) mein kaabil raha. Agar ise insaanon dwara khelna sikhaya gaya hota, toh zyadatar sambhavna thi ki yeh tournament nahi jeet pata.
+
+Go ke ek expert ne comment kiya, "Insaaniyat dwara apni tactics ko behtar banane mein hazaron saal bitane ke baad, computers humein batate hain ki insaan poori tarah galat hain... Main toh yahan tak kahoonga ki ek bhi insaan ne Go ki sachai ke kinare (edge of the truth) ko bhi nahi chhua hai."
+
+Kuch aisa dekhne ke liye jo kisi insaan ne pehle nahi dekha ho, kuch aisa jaan-ne ke liye jo kisi insaan ne pehle na jaana ho, kuch aisa create karne ke liye jaisa kisi insaan ne pehle create na kiya ho, yeh zaroori ho sakta hai ki hum un aankhon se dekhein jinhone kabhi nahi dekha, us dimaag se jaanein jisne kabhi nahi socha, un haathon se create karein jo kabhi trained nahi rahe hon.
+
+Yahi beginner’s mind hai—ek artist ke liye rehne ke liye sabse mushkil sthitiyon (states of being) mein se ek, theek isliye kyunki isme un cheezon ko chhodna (letting go) shamil hai jo hamare experiences ne humein sikhayi hain.
+
+Beginner’s mind na jaan-ne ki ek pavitra bachkani jagah (pure childlike place of not knowing) se shuru karna hai. Jitna ho sake kam fixed beliefs ke saath is pal mein jeena (Living in the moment). Cheezon ko waise hi dekhna jaisa woh samne pesh (presented) hain. Is baat par tune in karna ki is pal mein kaun si cheez hum mein jaan phoonkti hai (enlivens us), bajaye iske ki hum kya sochte hain ki kya kaam karega. Aur uske mutabik apne decisions lena.
+
+Pehle se bani hui koi bhi soch (preconceived ideas) aur swikar kiye gaye riwaaj (accepted conventions) us cheez ko limit kar dete hain jo possible hai.
+
+Hamari aadat hota hai yeh believe karne ki ki hum jitna zyada jaante hain, utna hi saaf taur par hum maujooda sambhavnaon ko dekh sakte hain. Yeh sach nahi hai. Asambhav (The impossible) sirf tabhi accessible (paane layak) banta hai jab experience ne humein seemayein (limits) na sikhayi hon. Kya computer isliye jeeta kyunki woh grandmaster se zyada jaanta tha ya isliye kyunki woh kam jaanta tha?
+
+Na jaan-ne mein ek bahut badi taqat hai. Jab hamare samne koi challenging task hota hai, toh hum khud se keh sakte hain ki yeh bahut mushkil hai, yeh mehnat ke layak nahi hai, is tarah se kaam nahi kiya jata, iske kaam karne ki umeed nahi hai, ya hamare liye iske kaam karne ki sambhavna nahi hai.
+
+Agar hum kisi kaam ko agyanata (ignorance) ke sath approach karte hain, toh yeh gyaan ki us deewar (barricade of knowledge) ko hata sakta hai jo progress ko rok rahi hai. Ajeeb baat hai ki (Curiously), kisi chunauti ke prati aware na hona hi shaayad wahi cheez ho sakti hai jiski humein us chunauti se upar uthne (rise to it) ke liye zaroorat hai.
+
+Innocence nayaapan (innovation) lekar aati hai. Gyaan ki kami naya rasta kholne (break new ground) ke liye aur zyada raaste (openings) create kar sakti hai. "The Ramones" ne socha tha ki woh mainstream bubblegum pop bana rahe hain. Baaki zyadatar logon ke liye, sirf unka lyrical content hi—jo lobotomies, glue soonghne (sniffing glue), aur pinheads ke baare mein tha—is assumption ko challenge karne ke liye kaafi tha.
+
+Jabki band khud ko agle "Bay City Rollers" ke roop mein dekhta tha, unhone anjaane mein (unwittingly) punk rock ka avishkar kar diya aur ek countercultural revolution (prati-sanskritik kranti) shuru kar di. Jabki Bay City Rollers ke music ko apne samay mein badi kamyabi mili, rock and roll par Ramones ke is anokhe andaaz (singular take) ko zyada popularity aur influence mila. Ramones ke baare mein di gayi saari explanations mein se, sabse sateek (most apt) yeh ho sakti hai: agyanata ke zariya nayaapan (innovation through ignorance).
+
+Experience humein aisi samajh (wisdom) deta hai jahan se hum cheezein nikal sakein, lekin yeh bholepan (naivete) ki taqat ko dheema kar deta hai. Past ek teacher ho sakta hai, jo aazmaye hue aur sachay tareeqe (tried and true methods), craft ke standards ke sath jaankari, potential risks ke prati awareness, aur kuch mamlon mein mahaarat (virtuosity) pradaan karta hai. Yeh humein ek aise pattern mein phansa deta hai (lures us) jo humse samne maujood kaam ke saath masoomiyatt se judne (engage innocently) ka mauqa chheen leta hai (absolves us).
+
+Aapka apnaya hua tareeqa (adopted approach) jitna zyada gehra baith chuka hoga (ingrained), uske pare dekhna utna hi mushkil hota hai. Halanki experience innovation ko poori tarah bahaar nahi karta (doesn't rule out), lekin yeh is tak pahonchna aur mushkil bana sakta hai.
+
+Animals ko, bachhon ki tarah, koi decision lene mein mushkil nahi hoti. Woh seekhe hue behavior se nahi, balki apni andaruni prerna (innate instinct) se kaam karte hain. Yeh prachin taqat (primitive force) apne andar ek aisa purana gyaan (ancient wisdom) samete hue hai jahan tak science ka pahonchna abhi baaki hai.
+
+In bachkani superpowers mein shamil hain is pal mein rehna (being in the moment), kisi bhi aur cheez se badhkar khel ko value dena, parinaamon (consequences) ki koi parwah na karna, bina kisi hichkichahat ke poori tarah sach bolna (radically honest), aur kisi purani kahani ko pakde bina aazaadi se ek emotion se doosre emotion par chale jaana. Bachhon ke liye, samay ka har ek pal hi sab kuch hai. Koi future nahi, koi past nahi. Mujhe yeh abhi chahiye, main bhooka hoon, main thaka hoon. Sab poori tarah sacha (pure authenticity).
+
+Itihaas ke mahan artists wahi hain jo is bachkanay utsaah (childlike enthusiasm) aur josh (exuberance) ko natural roop se banaye rakhne mein kaabil hote hain. Jaise ek chhota bachha (infant) matlabi (selfish) hota hai, woh apni art ko lekar is tarah protective hote hain jo hamesha sahyog karne wala (cooperative) nahi hota. Ek creator ke roop mein unki zarooratein pehle aati hain. Aksar unki personal lives aur rishton ki keemat par (at the expense of).
+
+Ab tak ke sabse zyada pasand kiye jaane wale singer-songwriters mein se ek ke liye, agar koi inspiration aati hai, toh woh baaki saari zimmedariyon (obligations) se upar aati hai (takes precedence). Unke doston aur family ko pata hai ki khane ke beech mein, conversation ke beech mein, ya kisi event ke beech mein, agar koi song bulata hai, toh woh wahan se nikal jayenge aur uspar kaam karenge, bina kisi explanation ke.
+
+Apni art aur apni lives mein is bachkani rooh (childlike spirit) tak pahonchna ek aisi cheez hai jise paane ki chah (aspiring to) rakhni chahiye. Agar aapne bahut zyada fixed aadatton aur thoughts ko ik इकट्ठा (accumulate) nahi kiya hai, toh aisa karna simple hai. Agar aapne kiya hai, toh yeh bahut mushkil hai. Lagbhag asambhav (Nearly impossible).
+
+Ek bachhe ke paas aise niyamon ya assumptions ka koi set nahi hota jis par woh duniya ko samajhne ke liye nirbhar (relies on) kare. Yeh aapke liye bhi faydemand ho sakta hai ki aap waisa hi karein. Create karne baithne se pehle aap jo bhi label apne upar lagate hain, chahe woh sculptor, rapper, author, ya entrepreneur jaisa buniyaadi (foundational) hi kyun na ho, fayde se zyada nuksan kar sakta hai. Un labels ko poori tarah hata do (Strip away). Ab aap duniya ko kaise dekhte hain?
+
+Har ek cheez ko aise experience karne ki koshish karo jaise pehli baar ho. Agar aap kisi aise town mein bade hue hain jo chaaron taraf zameen se ghira ho (landlocked) jise aapne kabhi na chhoda ho, toh pehli baar javascript aap travel karenge aur ocean ko dekhenge toh woh shaayad ek behadd dramatic aur hairat se bhara (awe-inspiring) experience hoga. Agar aapne apni poori life ocean ke paas hi bitayi hai, toh aapka iska experience lagbhag tay roop se kam dramatic hoga.
+
+Jab aap apne aas-paas maujood cheezon ko aise dekhte hain jaise pehli baar dekh rahe hon, toh aapko realize hona shuru hota hai ki yeh sab kitna aashcharyajanak (astonishing) hai.
+
+Artists ke roop mein, hamara maqsad ek aise tareeqe se jeena hota hai jismein hum saaf taur par mamooli dikhne wali cheezon (seemingly mundane) mein chhupe ashadharan (extraordinary) ko dekh sakein. Phir khud ko is tarah share karne ki chunauti dein jo doosron ko bhi is anokhi khoobsurati (remarkable beauty) ki ek jhalak (glimpse) dikha sake.
+
+Talent ek aisi ability hai jisse ideas aapke zariya khud ko prakat (manifest) kar sakein.
+
+---
+
+# Chapter 26: Inspiration 
+
+Yeh ek hi pal mein prakat (appears) hoti hai.
+
+Ek nishkalank dharana (An immaculate conception).
+
+Prakash ki ek divya chamak (A divine flash of light). Ek aisa idea jise khulne (unfold hone) ke liye aamtaur par mehnat (labor) ki zaroorat hoti, woh achanak ek hi saans andar lene (single inhalation) mein khil uthta (blooms) hai.
+
+Inspiration ko jo cheez define karti hai, woh hai download ki quality aur quantity. Ek aisi instantaneous (palk jhapakte hi hone wali) speed par, jise process karna impossible lagta hai. Inspiration hamare kaam ko urja dene wala rocket fuel hai. Yeh ek aisi universal conversation hai jiska hissa banne ke liye hum taraste (yearn) hain.
+
+Yeh shabd Latin se aaya hai—*inspirare*, jiska matlab hai saans andar lena ya andar phoonkna (to breathe in or blow into).
+
+Lungs ko hawa andar kheenchne ke liye, unhe pehle khali hona padta hai. Mind ko inspiration andar lene ke liye, naye ka swagat karne ke liye space (jagah) chahiye hoti hai. Universe balance dhoondhta hai. Is kami ya khali-pan (absence) ke zariya, aap energy ko andar invite kar rahe hote hain.
+
+Yahi same principle life ki har cheez par laagu hota hai. Agar hum kisi naye relationship ki khoj kar rahe hain jabki hum pehle se hi ek mein hain, toh hum full hain. Naye ke enter karne ke liye koi jagah nahi hai. Aur hum us relationship ka swagat karne mein asamarth (unable) hain jise hum chahte hain.
+
+Inspiration ke liye space create karne ke liye, hum mind ko shaant karne ke abhyas (practices) par vichar kar sakte hain: meditation, awareness, silence (khamoshi), contemplation (chintan), prayer (dua), koi bhi aisi rasm ya ritual jo bhatkao (distraction) aur papancha se ladne mein hamari madad kare.
+
+Saans (Breath) khud hamare thoughts ko calm karne, space create karne, aur tune in karne ka ek taqatvar zariya (potent vehicle) hai. Yeh is baat ki guarantee nahi de sakti ki inspiration aayegi hi, halanki yeh khali-pan muse (kala ki devi) ko khelne ke liye andar kheench sakta hai.
+
+Agar ise thoda aur adhyatmik (spiritually) roop se liya jaye, toh inspiration ka matlab hai jaan phoonkna (to breathe life into). Ek prachin vyakhya (ancient interpretation) ise divya shakti ke turant asar (immediate influence of the divine) ke roop mein define karti hai. Artist ke liye, inspiration ek aisi creative force ki saans hai jo hamare is chhote wajood (small selves) ke baahar se turant andar kheenchi jaati hai. Hum pakke taur par nahi keh sakte ki samajh ki yeh chamak (spark of insight) kahan se paida hoti hai. Yeh jaan-na helpful hai ki isme sirf hum akele nahi hain.
+
+Jab inspiration aati hai, toh yeh hamesha energizing (urja se bhar dene wali) hoti hai. Lekin yeh koi aisi cheez nahi hai jis par nirbhar (rely) kiya jaye. Ek artistic life sirf intezar karne ke aas-paas nahi banayi ja sakti. Inspiration hamare control se baahar hai aur ise dhoondhna mushkil sabit ho sakta hai. Mehnat (Effort) zaroori hai aur invitations diye jaane hain. Iski gair-maujoodgi (absence) mein, hum is cosmic transmission se aazad hokar project ke doosre areas par kaam kar sakte hain.
+
+Epiphanies (asli gyaan ke kshan) sabse aam moments mein chhipe hote hain: kisi parchhai ka padna (casting of a shadow), kisi maachis ke jalne ki smell (smell of a match igniting), koi ajeeb phrase jo suni gayi ho ya galat sun li gayi ho (overheard or misheard). Regular basis par pesh hone (showing up) ke abhyas ke prati samarpit hona (dedication) hi iski main requirement hai.
+
+Apni inspiration ko badalna (vary) ho, toh apne inputs ko badalne par vichar karein. Kisi film ko dekhne ke liye sound band kar dein, ek hi song ko repeat par sunein, kisi short story mein har sentence ka sirf pehla word padhein, pattharon ko unke size ya color ke mutabik arrange karein, lucid dream (hosh mein sapna dekhna) seekhein.
+
+Aadatton ko todo (Break habits).
+
+Badlavon ko dhoondho (Look for differences).
+
+Connections ko notice karo.
+
+Inspiration ka ek sanket (indicator) hai awe (hairani ya samman). Hamari aadat hoti hai bahut saari cheezon ko aasan samajh lena (take for granted). Hum apne is disconnection aur desensitization (be-hissi) se pare kaise badh sakte hain jo hamare aas-paas nature aur human engineering ke is aashcharyajanak ajoobon (incredible wonders) ke roop mein maujood hai?
+
+Duniya mein hum jo kuch bhi dekhte hain, usme se zyadatar mein hairat (astonishment) ko inspire karne ka potential hota hai, agar use ek kam thake hue nazariye (less jaded perspective) se dekha jaye. Khud ko saaf taur par dikhne wali cheezon ke peeche chhipe awe ko dekhne ke liye train karein. Duniya ko is nazariye (vantage point) se jitna ho sake utna dekhiye. Khud ko isme dooba dijiye (Submerge yourself).
+
+Hamare aas-paas ki khoobsurati hamari lives ko kai tarikon se samridh (enriches) banati hai. Yeh apne aap mein ek ant (an end in itself) hai. Aur yeh hamare khud ke kaam ke liye ek example set karti hai. Hum samroopta (harmony) aur balance ke liye ek aankh develop karne ka maqsad rakh sakte hain, bilkul aise jaise hamari creations hamesha se yahin thin, jaise mountains ya pankh (feathers).
+
+Wave par tab tak ride karein jab tak is par ride kiya ja sake. Agar aap itne khushkismat hain ki aapne inspiration ke jhatke (strike) ko experience kiya hai, toh is pahonch (access) ka poora fayda uthayein. Is durlabh pal (rarefied moment) ki energy mein tab tak bane rahein jackpot tak yeh tikta hai. Jab bahaav (flowing) chal raha ho, toh chalte rahein (keep going).
+
+Agar aap ek writer hain aur sone se pehle aapke paas ideas ka ek bahaav (stream of ideas) aata hai, toh aap subah tak iske sath bane rehna chah sakte hain. Agar aap ek musician hain aur aapne ek song ya das songs banane ka apna goal haasil kar liya hai, phir bhi music abhi bhi aa raha hai, toh jitna ho sake capture kar lijiye.
+
+Jo kaam nikal kar aayega (work yielded) shaayad use maujuda project mein use na kiya jaye, lekin woh kisi aur samay kaam aa sakta hai. Ya shaayad na bhi aaye. Artist ka kaam sirf transmission ko pehchanna aur shukraguzari (gratitude) ke sath iske sath bane rehna hai, jab tak ki yeh poori tarah se khatam (runs its course) na ho jaye.
+
+Priority ke maamle mein, inspiration pehle aati hai. Aap baad mein aate hain. Audience sabse aakhir mein aati hai.
+
+Yeh khaas moments hain aur unhe poore samarpann (utmost devotion) ke sath treat kiya jaana chahiye. Jab roshni ke yeh pal (fleeting moments of illumination) aate hain, toh hamare schedules ko ek taraf rakh diya jata hai. Apni taqat ko batoro (Summon your strength) aur is bhent (offering) ki taraf se khud ko samarpit (commit) kar do, chahe yeh kisi galat samay (inopportune time) par hi kyun na paida ho. Yeh ek gambhir artist ka kartavya (serious artist’s obligation) hai.
+
+John Lennon ne ek baar salah di thi ki agar aap koi song shuru karte hain, toh use usi ek baithak (sitting) mein aakhir tak poora likhein. Shuruati inspiration mein ek aisi jaan (vitality) hoti hai jo aapko poore piece ke zariya aage le ja sakti hai. Is baat ki chinta mat karein ki kuch parts abhi tak utne achhe nahi hain jitne woh ho sakte hain. Ek rough draft poora karein. Ek poora, a-purna version (imperfect version) aamtaur par ek saaf taur par perfect lagne wale tukde (fragment) se kahin zyada helpful hota hai.
+
+Jab koi idea banta hai, ya koi hook likha jata hai, toh humein lag sakta hai ki humne code ko crack kar liya hai aur baaki ka kaam khud-ba-khud ho jayega. Agar hum door hat jaate hain aur us shuruati chamak (initial spark) ko dheema hone dete hain, toh hum shaayad wapas lautkar paayein ki ise dobara jagana (rekindle karna) itna aasan nahi hai. Inspiration ko ek aisi force ke roop mein socho jo entropy ke niyamon se azaad (not immune) nahi hai.
+
+---
+
+# Chapter 27: Habits
+
+Training ke hamare pehle din main players ko jo sabse pehli cheez dikhata tha, woh yeh thi ki apne shoes aur socks ko sahi tareeqe se pehenne mein thoda extra samay kaise lagayein.
+
+Aapke equipment ka sabse important hissa aapke shoes aur socks hain. Aap ek hard floor par khelte hain. Isliye aapke paas aise shoes hone chahiye jo sahi tarike se fit hon. Aur aapko apne socks mein chhoti ungli (little toe) ke aas-paas wrinkles (salvatein) bilkul nahi aane deni chahiye—jahan aamtaur par chhale (blisters) padte hain—ya heels ke aas-paas.
+
+Maine apne players ko dikhaya ki main unse ise kaise karwana chahta hoon. Sock ko upar pakdo, use little toe area aur heel area ke aas-paas is tarah adjust karo ki wahan koi wrinkles na rahein. Ise achhe se smooth kar lo. Phir sock ko upar pakde rakho jab aap shoe pehente hain. Aur shoe poori tarah khula hona chahiye—sirf upar ki laces se khincha hua nahi.
+
+Aap ise har ek eyelet (lace ke chhed) se aaram se tight karte hain. Phir aap ise baandhte hain. Aur phir aap ise double-tie (do baar) baandhte hain taaki yeh khule nahi—kyunki main nahi chahta ki practice ke dauran ya game ke dauran shoes khul jayein. Main nahi chahta ki aisa ho.
+
+Yeh bas ek chhoti si detail hai jiska coaches ko fayda uthana chahiye, kyunki yeh chhoti details hi hain jo badi cheezon ko sach kar dikhati hain.
+
+Upar diye gaye vichar John Wooden ke hain, jo college basketball ke itihaas ke sabse safal coach hain. Unki teams ne itihaas mein kisi bhi aur ke mukable sabse zyada lagatar games aur championships jeeti hain.
+
+In elite athletes ke liye yeh behadd niraashajanak (frustrating) raha hoga, jo court par utarkar yeh dikhana chahte the ki woh kya kar sakte hain, jab woh is legendary coach ke sath pehli baar practice par aaye aur unhe sirf yeh sunne ko mila, "Aaj hum apne shoes baandhna seekhenge."
+
+Wooden jo point samjha rahe the woh yeh tha ki asardar aadatton (effective habits) ko banana, sabse chhoti detail tak, wahi games jeetne aur haarne ke beech ka farq paida karta hai. Har ek habit shaayad chhoti lagslakti hai, lekin jab unhe aapas mein joda jata hai, toh performance par unka ek guna-kar asar (exponential effect) hota hai. Kisi bhi field ke top par, sirf ek habit hi competition par ek badhat (edge) dene ke liye kaafi ho sakta hai.
+
+Wooden ne game ke har ek aspect par vichar kiya jahan koi problem khadi ho sakti thi, aur apne players ko unmein se har ek ke liye train kiya. Baar-baar. Jab tak ki woh unki aadatting (habits) nahi ban gayin.
+
+Maqsad ek nishkalank performance (immaculate performance) tha. Wooden aksar kehte the ki aap jis akele insaan se hamesha compete kar rahe hain, woh aap khud hain. Baaki sab aapke control se baahar hai.
+
+Sochne ka yeh tareeqa creative life par bhi utna hi laagu hota hai. Artist aur athlete dono ke liye hi, details matter karti hain, chahe players unki importance ko pehchanein ya nahi.
+
+Achhi aadatting achhi art create karti hain. Jis tareeqe se hum koi bhi cheez karte hain, usi tareeqe se hum sab kuch karte hain. Apne har ek choice ko, apne har ek action ko, apne har ek word ko jo aap bolte hain, behadd kushal dekhbhal (skillful care) ke sath treat karein. Maqsad apni life ko art ki seva mein jeena hai.
+
+Apne creative process ke aas-paas ek sthir dhancha (consistent framework) sthapit karne par vichar karein. Aksar aisa hota hai ki aap apne personal regimen (niyamit dincharya) mein jitne zyada set hote hain, us structure ke andar khud ko express karne ki aapke paas utni hi zyada aazadi hoti hai.
+
+Discipline aur freedom ek doosre ke ulte (opposites) lagte hain. Reality mein, woh sathi hain. Discipline freedom ki kami nahi hai, yeh samay ke sath ek surila rishta (harmonious relationship) hai. Apne schedule aur daily habits ko achhe se manage karna ek zaroori hissa (necessary component) hai taaki mahan art banane ke liye practical aur creative capacity ko aazad kiya ja sake.
+
+Yahan tak ki yeh bhi kaha ja sakta hai ki kaam ke mukable life mein ek focused efficiency (kushalata) zyada important hai. Apne din ke practical aspects ko military precision (fauji sateekta) ke sath approach karna artistic khidkiyon ko ek bachkani aazadi (childlike freedom) mein khulne ki permission deta hai.
+
+Creativity ko support karne wali habits har din aapke uthne ke moment se hi shuru ho sakti hain. Inmein screenlight se pehle sunlight ko dekhna, meditate karna (agar possible ho toh outdoors), exercise karna, aur ek sahi space mein creative time shuru karne se pehle thande paani se nhana (showering in cold water) shamil ho sakta hai.
+
+Yeh habits har kisi ke liye alag dikhti hain, aur shayad ek hi artist ke liye din-ba-din alag ho sakti hain. Aap forest mein baith sakte hain, apne thoughts par dhyan de sakte hain, aur notes bana sakte hain. Ya dimaag mein bina kisi destination ke ek ghante tak car chala sakte hain, classical music sunte hue aur yeh dekhte hue ki kya koi spark (chamak ya idea) paida hota hai.
+
+Ek schedule kiya hua office hours set karna helpful hota hai, ya bina kisi bhatkao ke (uninterrupted) khushi se bhare khel ke periods set karna jo aapki imagination ko udne ki permission dein. Ek insaan ke liye, samay ka woh window teen ghante ho sakta hai, kisi doosre ke liye tees minute. Kuch log shaam se lekar subah tak (dusk 'til dawn) kaam karna pasand karte hain, jabki doosre bees-minute ke sessions mein create karte hain, jiske beech paanch-minute ka break hota hai.
+
+Aise tikau rit-riwaaj ya tarike (sustainable rituals) dhoondhein jo aapke kaam ko sabse achhe se support karein. Agar aap ek aisa routine set karte hain jo oppressive (bojh lagne wala) ho, toh aap shaayad pesh na hone (not to show up) ke bahaane dhoondh lenge. Yeh aapki art ke hit mein hai ki aap shuruat karne ke liye ek aasaani se haasil hone layak schedule (easily achievable schedule) banayein.
+
+Agar aap din mein aadhe ghante kaam karne ka commit karte hain, toh kuch achha ho sakta hai jo ek raftar (momentum) paida kare. Aap phir clock ko dekh sakte hain aur realize kar sakte hain ki aap do ghante se kaam kar rahe hain. Ek baar habit ban jaane ke baad aapke creative hours ko badhane ka option hamesha khula rehta hai.
+
+Experiment karne ke liye free feel karein. Maqsad ek aise structure ke prati commit karna hai jo apni khud ki ek life le sake, bajaye iske ki aap sirf tabhi create karein jab aapka mood kare. Ya har din ki shuruat is sawaal ke sath karein ki aap apni art par kaise aur kab kaam karne ja rahe hain.
+
+Decision-making ko kaam ke andar rakho, ismein nahi ki kab kaam karna hai. Aap apni daily life-maintenance tasks (zindagi chalane ke kaamon) ko jitna kam karenge, creative decisions ke liye utni hi badi bandwidth available hogi. Albert Einstein har din ek hi cheez pehente the: ek gray suit. Erik Satie ke paas saat ek jaise outfits the, hafte ke har ek din ke liye ek. Apni creative imagination ko aazad karne ke liye apne practical choices ko limit karein.
+
+Hum sab nayi healthy aur productive habits sthapit karne ke liye taraste hain, jaise exercise karna, zyada local aur natural foods khana, ya apne craft ki zyada regular practice karna. Lekin hum kitni baar un aadatton ko check karne aur hatane par vichar karte hain jo filhaal hamare dinon ko chalati hain? Hum kitni baar un behaviors ko mahaj aadatton ke roop mein dekhte hain jinhe yeh kehkar swikar kar liya jata hai ki "log aise hi hote hain" ya "hum aise hi hain"?
+
+Hum mein se har ek ke paas automatic habits hoti hain. Hamari movement (chalne-phirne) mein habits hoti hain. Bolne (speech), sochne (thought), aur dekhne (perception) mein habits hoti hain. Khud ke wajood mein hone (being ourselves) mein habits hoti hain. Unmein se kuch ki practice har din tab se ki ja rahi hai jab se hum bachhe the. Brain mein ek raasta ban jata hai (pathway gets carved) aur use badalna mushkil ho jata hai. Inmein se zyadatar habits hamare decisions se pare hokar humein control karti hain, is hadd tak ki woh swatantra roop se (autonomously) aur automatically kaam karti hain, bilkul hamari body temperature ke regulation ki tarah.
+
+Maine haal hi mein swimming karne ka ek alag tareeqa seekha. Yeh bada ajeeb (awkward) aur counterintuitive laga, kyunki maine swimming tab seekhi thi jab main bahut chhota tha. Mera pichla tareeqa itna gehra baith chuka tha (ingrained) ki mujhe iske baare mein kabhi sochna hi nahi padta tha. Main bina kisi mehnat ke (effortlessly) jaanta tha ki ise kaise karna hai. Usne mujhe pool ke ek taraf se doosri taraf le jaane ke liye kaafi achha kaam kiya tha, bhale hi aise doosre tareeqe the jo mujhe aur zyada aasaani se kahin door aur tez le ja sakte the.
+
+Apne artistic pursuits (kala ke safar) mein, hum ek point se doosre point tak jaane ke liye aadatton par bhi nirbhar karte hain. Unmein se kuch kaam ki seva nahi karti ya uski progress ko nuksan pahonchati (undermines) hain. Jab hum khule rehte hain aur gehra dhyan dete hain, toh in kam madadgar aadatton ko pehchanna aur unke jaadu (spell) ko kamzor karna possible hota hai. Aur naye abhyas (new practices) explore karna shuru karna. Aise abhyas jo hamari creative lives mein temporary collaborators (astayi sathiyon) ki tarah aate-jaate hain, jab tak woh kaam ki seva karte hain tab tak tikte hain aur jab woh faydemand nahi rehte toh chale jaate hain.
+
+### Aise thoughts aur habits jo kaam ke hit mein nahi hain (not conducive to the work):
+
+* Believing you’re not good enough.
+👉 Yeh believe karna (vishwas karna) ki aap utne achhe nahi hain.
+* Feeling you don’t have the energy it takes.
+👉 Yeh feel karna ki aapke paas utni energy nahi hai jitni is kaam ke liye chahiye.
+* Mistaking adopted rules for absolute truths.
+👉 Apnaye gaye rules (adopted rules) ko purna satya (absolute truths) samajhne ki galti karna.
+* Not wanting to do the work (laziness).
+👉 Kaam karne ka mann na hona (aalsi-pan ya laziness).
+* Not taking the work to its highest expression (settling).
+👉 Kaam ko uski sabse uchi abhivyakti (highest expression) tak na le jana (samjhauta kar lena ya settling).
+* Having goals so ambitious that you can’t begin.
+👉 Aise bade aur ambitious goals rakhna ki aap shuruat hi na kar sakein.
+* Thinking you can only do your best work in certain conditions.
+👉 Yeh sochna ki aap apna sabse behtareen kaam sirf kuch khaas conditions (sthitiyon) mein hi kar sakte hain.
+* Requiring specific tools or equipment to do the work.
+👉 Kaam karne ke liye specific tools ya equipment ki zaroorat ka hona.
+* Abandoning a project as soon as it gets difficult.
+👉 Jaise hi koi project mushkil hota hai, use adhoora chhod dena (abandon kar dena).
+* Feeling like you need permission to start or move forward.
+👉 Aisa feel karna ki aapko shuru karne ya aage badhne ke liye kisi ki permission (manzoori) chahiye.
+* Letting a perceived need for funding, equipment, or support get in the way.
+👉 Funding, equipment, ya support ki lagne wali zaroorat (perceived need) ko apne raaste mein aane dena.
+* Having too many ideas and not knowing where to start.
+👉 Bahut zyada ideas ka hona aur yeh na samajh paana ki shuruat kahan se karein.
+* Never finishing projects.
+👉 Projects ko kabhi complete (poora) na karna.
+* Blaming circumstances or other people for interfering with your process.
+👉 Apne process mein bhatkao ya dakhal (interfering) ke liye haalaat (circumstances) ya doosre logon ko dosh dena (blame karna).
+* Romanticizing negative behaviors or addictions.
+👉 Negative behaviors ya aadatton (addictions) ko mahan ya romanticize karna.
+* Believing a certain mood or state is necessary to do your best work.
+👉 Yeh believe karna ki apna best kaam karne ke liye ek khaas mood ya state ka hona zaroori hai.
+* Prioritizing other activities and responsibilities over your commitment to making art.
+👉 Art banane ke apne commitment (sankalp) ke upar doosri activities aur zimmedariyon (responsibilities) ko priority dena.
+* Distractibility and procrastination.
+👉 Aasaani se dhyan bhatakna (distractibility) aur aalsi-deri karna (procrastination).
+* Impatience.
+👉 Be-sabri ya utawlapann (impatience).
+* Thinking anything that’s out of your control is in your way.
+👉 Yeh sochna ki koi bhi cheez jo aapke control se baahar hai, woh aapke raaste ki rukawat hai.
+
+---
+
+Create an environment where you’re free to express what you’re afraid to express.
+
+👉 Ek aisa environment (mahaul) create karein jahan aap us cheez ko express karne ke liye aazad hon jise express karne se aap darte hain.
