@@ -1750,42 +1750,6 @@ utna hi sach ho sakta hai.
 
 ---
 
-```python
-# The file was not found in the root directory because the current environment state might have reset or path is different. Let's find files in the current workspace.
-import os
-print(os.listdir('.'))
-
-
-```
-
-```text
-Traceback (most recent call last):
-  File "<xbox-string>", line 3, in <module>
-    reader = pypdf.PdfReader("_OceanofPDF.com_The_Creative_Act_A_Way_of_Being_-_Rick_Rubin.pdf")
-  File "_reader.py", line 136, in __init__
-    self._initialize_stream(stream)
-  File "_reader.py", line 155, in _initialize_stream
-    with open(stream, "rb") as fh:
-FileNotFoundError: [Errno 2] No such file or directory: '_OceanofPDF.com_The_Creative_Act_A_Way_of_Being_-_Rick_Rubin.pdf'
-
-
-```
-
-```python
-import os
-# Let's check what PDF files are in the current working directory to read the actual book pages.
-pdf_files = [f for f in os.listdir('.') if f.endswith('.pdf')]
-print(pdf_files)
-
-
-```
-
-```text
-[]
-
-
-```
-
 # Chapter 23: Listening (Pages 75-77)  
 
 Humein lagta hai ki hum apni surroundings ko is tarah listen karte hain ki kya humein fayda pahoncha sakta hai ya kya humein khatra de sakta hai. Hum aisi cheezon ko listen karne ke liye wired hain jo humein khush karti hain ya humein dukh pahonchati hain. Lekin ek artist ke liye, listening ka ek bilkul alag aayam (dimension) hota hai.
