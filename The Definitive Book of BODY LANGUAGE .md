@@ -3924,3 +3924,389 @@ Kaafi cheezein zaati jagah ki doori par asardaar (affect) kar sakti hain — toh
 > **Agar tum logon ko apne ird-gird comfortable feel karaana chahte ho — golden rule hai: Doori rakho — jab tak rishta khud door khatam na kar de.**
 
 ---
+
+# Chapter 10 — How the Legs Reveal What the Mind Wants to Do
+### *(Pair Kaise Batate Hain Ki Mann Kahan Jaana Chahta Hai)*
+
+---
+
+> *"Mark wahan baith ke apni tie sehla raha tha aur salt shaker ragad raha tha. Usne notice nahi kiya tha ki pichle bees minute se uske pair usse door aur sab se karib exit ki taraf cross the."*
+
+---
+
+Sharir ka jo hissa brain se jitna door hoga — hum utna hi kam jagrook (aware) hote hain ki woh kya kar raha hai.
+
+Misal ke taur par — zyaadatar log apne chehere aur uski expressions ke baare mein jagrook hain — aur hum kuch expressions practice bhi kar sakte hain jaise "brave face dikhana," "napaasandgi (disapproval) wali nazar dena," "daant peesna (grin and bear it)," ya "khush dikhna" jab Naani phir ek baar ugly underwear birthday gift de.
+
+Chehere ke baad hum arms aur hands ke baare mein kam jagrook hain — phir chest aur stomach — aur sabse kam jagrook hain apne pair ke baare mein — aur paon ke baare mein toh lagbhag bilkul anjaan (oblivious) hote hain.
+
+Iska matlab yeh hai ki pair aur paon kisi ke rawaiye ke baare mein malumat ka ek ahem (important) zariya hain — kyunki zyaadatar log anjaan hote hain ki woh unka kya kar rahe hain — aur apne chehere ki tarah unhe fake karne ke baare mein kabhi nahi sochte.
+
+Ek insaan shaant aur kaaboo mein dikh sakta hai jabki uska paon baar baar thaap raha ho ya hawaaa mein chhote chhote jhatke maar raha ho — jo uski khijh (frustration) zahir kar raha ho ki woh wahan se nikal nahi sakta.
+
+> **Pair hilana (jiggling) aise hai jaise brain bhaagne ki koshish kar raha ho — jo experience ho raha hai usse.**
+
+---
+
+## Everybody's Talking About a New Way of Walking
+*(Naye Andaz Mein Chalne Ki Baat Hai)*
+
+Log chalne par apne baazoo kaise hilaate hain — yeh unki shakhsiyat (personality) ke baare mein jaankari deta hai — ya woh kya dikhana chahte hain.
+
+Jab naujawaan, healthy, zindadil log chalte hain — woh bade logon se tezi chalte hain — jis ki wajah se unke baazoo aage aur peeche zyaada unchay hilte hain — aur yeh aise lagta hai jaise woh march kar rahe hon. Yeh aanshin unki extra speed aur zyaada muscle flexibility (maanspeeshiyon ki lachk) ka nateeja hai.
+
+Isi ka nateeja hai ki army march ek mubaalaghaana (exaggerated) chaal ke roop mein develop hua — yeh zahir karne ke liye ki marching karne waale jawaan aur zindadil hain.
+
+Yahi chaal kaafi politicians aur public figures ne apnayi hai jo apni taqat (vitality) ka paigam dena chahte hain. Isliye kaafi politicians ki **striding (tez qadam bharni)** ek pasandeeda chaal (gait) hai.
+
+Auraton ke baazoo aur bhi zyaada peeche hilte hain — kyunki unke baazoo kohni (elbow) se baahir aur zyaada modte hain — taaki bachche zyaada effectively uthaa sakein.
+
+---
+
+## How Feet Tell the Truth
+*(Paon Kaise Sachchi Baat Bataate Hain)*
+
+Humne managers ke saath ek series of tests kiye — jinhein staged interviews mein convincingly (yakeen dilane wale tarike se) jhooth bolne ko kaha gaya. Humne paaya ki managers — chahe mard ho ya aurat — jhooth bolte waqt anjaane mein paon ki movements naataakiy (dramatically) badha dete the.
+
+Zyaadatar managers nakli facial expressions use karte the aur haath kaaboo mein rakhne ki koshish karte the jhooth bolte waqt — lekin lagbhag sab anjaan the ki unke pair aur paon kya kar rahe hain.
+
+Yeh nateeje psychologist **Paul Ekman** ne bhi sabit kiye — jinhone discover kiya ki na sirf log jhooth bolte waqt apni lower body movements badhate hain — balki observers bhi kisi ke jhooth pakadne mein zyaada kamyaab hote hain jab woh liar ka poora sharir dekh sakein.
+
+Yeh explain karta hai ki kyun kaafi business executives sirf usi waqt comfortable feel karte hain jab ek solid front wali desk ke peeche baith ke unka lower body chhupaaya hua ho.
+
+> **Agar tum sure naho ki tum se jhooth bol rahe hain ya nahi — unki desk ke neeche dekho.**
+
+Sheeshe ki top wali tables (glass-topped tables) hume solid tables se zyaada tanaav (stress) deti hain — kyunki hamaaray pair poori tarah nazar aa rahe hote hain aur hum poori tarah kaaboo mein feel nahi karte.
+
+---
+
+## The Purpose of the Legs
+*(Pairon Ka Maqsad)*
+
+Paon insaanon mein evolve hue do maqsad ke liye:
+1. **Aage badhna** — khaana haasil karne ke liye
+2. **Bhaagna** — khatre se bachne ke liye
+
+Kyunki insaani brain in dono maqsadon ke liye hardwired (janmjaat prograammed) hai — jo chahiye usski taraf jaana aur jo nahi chahiye usse door jaana — ek insaan ke pair aur paon ka tarika yeh zahir karta hai ki woh kahan jaana chahte hain.
+
+Doosre lafzon mein — woh yeh dikhate hain ki insaan kisi conversation mein rehne ya nikalne ke liye kitna committed hai.
+
+- **Khule ya uncrossed pair positions** — khulaa ya dabbdaba (dominant) rawaiya dikhate hain
+- **Cross ki hui positions** — band (closed) rawaiye ya aashhuddhi (uncertainty) zahir karti hain
+
+Ek aurat jo kisi mard mein interested nahi — apni baahein seene par fold karegi aur pair usse door cross karegi — use "no-go" body language deti hui — jabki interested aurat khud ko uski taraf kholegi.
+
+---
+
+## The Four Main Standing Positions
+*(Khadey Rehne Ki Chaar Mukhya Sthitiyan)*
+
+---
+
+### 1. At Attention — Khadak Sthiti
+
+Yeh ek formal position hai jo ek neutral rawaiya zahir karta hai — rehne ya jaane ki koi commitment nahi.
+
+Male-female encounters mein — yeh mardoon se zyaada auraten use karti hain — kyunki yeh pair ko "No Comment" signal ki tarah saath rakhta hai.
+
+- Schoolchildren teachers se baat karte waqt yeh use karte hain
+- Junior officers senior officers se baat karte waqt
+- Royalty se milne waale log
+- Employees boss se baat karte waqt
+
+---
+
+### 2. Legs Apart — Pair Door Door
+
+Jaise pehle zikr kiya — yeh mostly ek mardaana gesture hai aur khadey khadey **Crotch Display (mardangi ka zahiraawa)** jaisa hai.
+
+Crotch Displayer dono pair mazbooti se zameen par gaad ke ek saaf paigaam deta hai ki woh jaane ka irada nahi rakhta. Yeh mardoon mein dabbdba (dominance) signal ke roop mein use hota hai — kyunki yeh sharmgaah (genitals) ko highlight karta hai — Crotch Displayer ko ek macho-waala rawaiya deta hai.
+
+Sports matches mein male participants ko aksar ek doosre ke saath is position mein khade dekha ja sakta hai halftime mein — aur apni sharmgaah ko baar baar adjust karte hue. Yeh adjustments khujli (itch) ki wajah se nahi hoti — yeh mardoon ko apni mardangi highlight karne aur team ke saath solidarity (hamkhayal) dikhane deti hai — ek hi kaam karke.
+
+> **Crotch Display macho mardoon aur tough guys ki specialty hai.**
+
+---
+
+### 3. The Foot-Forward — Aage Paon
+
+Sharir ka bojh ek hip par shift ho jaata hai — jis se agla paon aage ki taraf point karta hai.
+
+Middle Ages ki paintings mein aksar high status mard is position mein dikhaaye jaate hain — taaki apne fine kapde (hosiery), joote (shoes), aur breeches (breeches) dikhaa sakein.
+
+Yeh ek qeemti (valuable) surag hai kisi ke faureen (immediate) iraade ka — kyunki hum apna agla paon us direction mein point karte hain jahan hamaara mann jaana chahta hai — aur yeh stance aise lagta hai jaise insaan chalna shuru karne wala ho.
+
+Group situation mein — hum apna agla paon sabse interesting ya attractive insaan ki taraf point karte hain — lekin jab nikaalna chahte hain — paon sab se karib exit ki taraf point karte hain.
+
+---
+
+### 4. Leg-Cross — Pair Cross Karna
+
+Agli baar jab tum kisi meeting mein jaao mardoon aur auraton ke saath — notice karo ki kuch groups of people khade hain pair aur baazoo cross karke.
+
+Gaur se dekho aur tumhein nazar aayega ki woh aam samaajiк doori se bhi zyaada ek doosre se door khade hain.
+
+Agar woh coats ya jackets pehne hain — woh aam tor par button band hogi. Yeh woh tarika hai jisme zyaadatar log khade hote hain jab woh aise logon ke beech hon jinhe woh achhe se nahi jaante.
+
+Agar tum unse interact karo — tumhein pata chalega ki ek ya sab group ke doosre logon se naawaaqif (unfamiliar) hain.
+
+**Khule pair** khulaapanapan (openness) ya dabbdba (dominance) dikhaa sakte hain — lekin **cross kiye pair** ek band (closed), daabi (submissive), ya bachaawe ki sthiti (defensive) wala rawaiya zahir karte hain — kyunki woh symbolically sharmgaah tak pahunch se inkar karte hain.
+
+- **Aurat ke liye** — Scissors aur Standing-Leg-Cross jaise positions do messages bhejti hain: ek — woh rehne wali hai, jaane wali nahi; do — access denied hai
+- **Mard ke liye** — woh bhi rehega — lekin chahta hai ki tum sure raho ki tum use "wahan se nahi maaro"
+
+Khule pair male confidence dikhate hain — band pair male sharmindagi (reticence) dikhate hain.
+
+Adhyayan dikhate hain ki jin logon mein aaatmavishwaas (confidence) ki kami hai — woh bhi Leg-Cross positions lete hain.
+
+---
+
+#### Ek Simple Test:
+
+Kisi group mein jaao jahan tum kisi ko nahi jaante — apne baazoo aur pair tightly cross karke khade ho jaao aur serious expression rakho. Ek ek karke doosre group members apne baazoo aur pair cross karne lagte hain — aur us position mein tab tak rehte hain jab tak tum — the stranger — wahan se nahi chale jaate. Chale jaao aur dekho — ek ek karke group members apni original open poses mein waapas aate hain.
+
+> **Pair cross karna na sirf naksaaratmak (negative) ya bachaawe wali (defensive) emotions zahir karta hai — balki insaan ko ashurakshit (insecure) bhi dikhata hai aur doosron ko bhi waise hi react karne par majboor karta hai.**
+
+---
+
+## Defensive, Cold, or "Just Comfortable"?
+*(Bachaawe Wala, Thanda, Ya "Sirf Aaramdeh"?)*
+
+Kuch log claim karte hain ki woh defensive ya ashurakshit nahi feel karte jab baazoo ya pair cross karte hain — balki isliye karte hain ki thand lag rahi hai.
+
+Jab koi apne haath garma karna chahta ho — woh unhe apni baghlon (underarms) ke neeche ghus aayega — na ki kohni (elbow) ke neeche — jaisa ek defensive arm-cross mein hota hai.
+
+Iske alawa — jab koi thand feel kare — woh body hug use kar sakta hai — aur pair aam tor par seedhe (straight), sakhte (stiff), aur ek doosre se mazbooti se sate hue hote hain — defensive stance ki zyaada relaxed leg posture ke muqaable.
+
+Jo log aadat se baazoo ya pair cross karte hain — woh kehna prefer karte hain ki unhe thand lag rahi hai — yeh maanane ki jagah ki woh nervous, anxious, ya defensive ho sakte hain. Kuch bas yeh kehte hain ki woh "comfortable" hain.
+
+Yeh shayad sach bhi ho — jab koi defensive ya ashurakshit feel kare — toh cross kiye baazoo aur pair comfortable lagte hain — kyunki yeh unki emotional state se match karta hai.
+
+---
+
+## How We Move from Closed to Open
+*(Band Se Khule Rawaiye Ki Taraf Kaise Aate Hain)*
+
+Jaise log kisi group mein zyaada comfortable hote jaate hain aur doosron ko jaanne lagte hain — woh ek series of movements se guzarte hain — defensive crossed-arms-and-legs position se relaxed open position ki taraf.
+
+Yeh khadey rehne ka **"opening-up" sequence** har jagah same hota hai:
+
+1. **Shuruaat** — baazoo aur pair cross (band position)
+2. **Jaise rapport (dosti ka ehsaas) banta hai** — pehle pair uncross hote hain aur Attention Position mein saath aa jaate hain
+3. **Phir** — upar wala haath arm-cross mein baahir aata hai — aur baat karte waqt kabhi kabhi hatheli flash hoti hai — lekin phir bhi Single-Arm-Barrier ki tarah doosre baazoo ko pakde rahti hai
+4. **Phir** — dono baazoo unfold hote hain — ek baazoo gesture karne lagta hai ya hip par ya jeb mein chala jaata hai
+5. **Aakhir mein** — ek insaan Foot-Forward Position leta hai — doosre insaan ko accept karne ka signal deta hua
+
+---
+
+## The European Leg Cross
+*(European Pair Cross)*
+
+Ek pair doosre par saaf cross hota hai — **70%** logon mein baayen paon ko daayein par cross karte hue. Yeh European, Asian, aur British cultures mein normal crossed-leg position hai.
+
+Jab ek insaan dono pair aur baazoo cross kare — woh conversation se emotionally withdraw (andar chhup jaata) kar chuka hai — aur us waqt unhe convince karne ki koshish bekar (futile) ho sakti hai.
+
+Business contexts mein humne paaya ki is position mein baithne waale log:
+- **Chhote sentences mein bolte hain**
+- **Zyaada proposals reject karte hain**
+- **Kum jaankari yaad rakhte hain** jo discuss hui — unke muqaable jo khule position mein baithe hon
+
+---
+
+## The American Figure Four
+*(American Figure Chaar)*
+
+Yeh position ek baitha hua Crotch Display hai — kyunki yeh sharmgaah (genitals) ko highlight karta hai — aur American mardoon ya un cultures mein use hota hai jo **"Americanized"** hoti ja rahi hain — jaise Singapore, Japan, aur Philippines ke naujawaan.
+
+Yeh ek jhagdaaloo (argumentative) ya muqaablabaaz (competitive) rawaiya zahir karta hai.
+
+Bandar aur chimps bhi genital displays use karte hain jab woh aggressive hote hain — kyunki ek achha display physical ladaai se hone wale nuqsaan se bach sakta hai. Tamam primates mein — jo mard sabse impressive display kare — ussi ko doosre winner samjhte hain.
+
+Australia aur New Zealand mein dono — European leg crossing aur Figure Four use hoti hain. World War II mein — **Nazis** ne Figure Four walon par nazar rakhi — kyunki is position ka istemal saaf zahir karta tha ki woh ya toh German nahi tha ya USA mein waqt guzaar chuka tha.
+
+Figure Four Britain aur Europe mein bade logon mein abhi bhi kam hai — lekin ab alag alag cultures mein — jaise Russia, Japan, Sardinia, aur Malta ke naujawaan peedhion mein dikh rahi hai — jo American films aur TV ke addicted hain aur jo dekhte hain woh mirror karte hain.
+
+Is position mein baithne waale mard:
+- Zyaada dabbdbe (dominant) wale nahi baalki relaxed aur jawaan (youthful) bhi lagte hain
+
+Lekin **Middle East aur Asia ke kuch hisson mein** — Figure Four ek insult hai — kyunki yeh joote ki tali (sole) dikhata hai — jo gandagiyaan chalne wala hissa hai.
+
+Jo auraten trousers ya jeans pehenti hain — woh kabhi kabhi Figure Four position mein baith jaati hain — lekin zyaadatar yeh sirf doosri auraton ke saath karte waqt — mardoon ke saath nahi — kyunki woh zyaada masculine nahi dikhna chahtin ya jismaani dastiyabi (sexual availability) signal nahi karna chahtin.
+
+Adhyayan dikhate hain ki zyaadatar log apne final decisions tab karte hain jab dono paon zameen par hon — toh Figure Four kisi ko faisla karne ke liye kehne mein sahaayi (conducive) nahi.
+
+---
+
+## When the Body Closes, so Does the Mind
+*(Jab Sharir Band Ho Jaata Hai — Dimaag Bhi Band Ho Jaata Hai)*
+
+Humne ek conference mein shirkat (attend) ki jahan audience mein lagbhag 50-50 mard aur auraten thin — lagbhag 100 managers aur 500 salespeople.
+
+Ek controversial (vivaadit) mudda zair-e-bahis (under discussion) tha — corporations dwara salespeople ka treatment.
+
+Ek mashhoor speaker — jo salespersons' association ka head tha — group ko khitaab (address) karne ko kaha gaya.
+
+Jaise woh stage par aaya — lagbhag **sab male managers aur auraton ke 25% female managers** ne defensive Arms-and-Legs-Crossed position le li — zahir karta hua ki woh jo sochte the woh sune jaane par kitna threat (khatraa) feel kiya.
+
+Unke darr ke wajoohat (reasons) poori tarah theek nikle. Usne ghatiया (poor quality) management ki ek sar aur management ko industry ki staffing problems ka ek ahem (major) contributing factor bataya.
+
+Poore speech ke dauraan — zyaadatar salespeople audience mein ya toh aage jhuk ke interest dikh rahe the ya evaluation gestures use kar rahe the — lekin managers apni defensive position par qaayam rahe.
+
+> **Jab dimaag band ho jaata hai — sharir bhi saath ho jaata hai.**
+
+Phir salesperson ne discuss kiya ki uske khayal mein manager ka kirdaar (role) salespeople ke muqable kya hona chahiye. Lagbhag aise jaise woh ek orchestra ke players hon jinhe conductor ne command di ho — zyaadatar male managers Figure Four position par shift ho gaye.
+
+Woh ab mentally salesperson ke point of view ko debate (debate) kar rahe the — aur kaafion ne baad mein confirm kiya ki aisa hi tha.
+
+Humne notice kiya ki kuch managers ne apna posture nahi badla. Haalaanki inme se zyaadatar ne bhi speaker ke views se agree nahi kiya — kuch Figure Four nahi le sake physical ya medical conditions ki wajah se jaise mota hona, pair ki problems, ya gathiya (arthritis).
+
+**Agar tum kisi ko convince karne ki koshish kar rahe ho jo in positions mein baitha ho** — unhe pehle uncross karne ki koshish karo.
+
+- Agar tumhare paas kuch dikhana ho — unhe paas bithne ki dawat do (invite)
+- Unhe kuch pakad ne do ya kuch karne ko kaho — taaki woh notes likhne ya brochures aur samples pakad ne ke liye aage jhukein
+- **Chai ya coffee offer karna** bhi kaam karta hai — kyunki in cheezon ko pakad ke baazoo aur pair cross karna bina jalte mushkil ho jaata hai
+
+---
+
+## Figure Four Leg Clamp
+*(Figure Four Ka Leg Clamp)*
+
+Na sirf is insaan ka muqaablabaaz (competitive) rawaiya hai — woh Figure Four ko ek ya dono haathon se **clamp** karke permanent position mein lock kar leta hai.
+
+Yeh ek **sakht-dimaag (tough-minded), haTHhiलا (stubborn) insaan** ki nishaan hai — jo apne alawa kisi ki bhi raai reject karta hai.
+
+---
+
+## The Ankle Lock
+*(Takhnay Baandhna)*
+
+Ankle Lock ka mardaana version aksar band mutthiyon ke saath ghutanon par takiya ya kursi ke baazuon ko tightly pakad ke aur baitha hua Crotch Display ke saath milke aata hai.
+
+Aurat ka version thoda alag hota hai:
+- Ghutne saath rakhe
+- Paon ek taraf ho sakte hain
+- Haath godi ke upar ek doosre ke upar ya saath rakhe
+
+Teen dashkon (decades) se zyaada interviewing aur selling ke experience mein humne note kiya ki jab koi interview dene waala apne takhnay lock karta hai — woh mentally **"lip kaata (biting his lip)"** hai.
+
+Yeh gesture ek naksaaratmak emotion, aashhuddhi (uncertainty), ya darr (fear) ko rokne ka signal dikhata hai. Paon aam tor par kursi ke neeche peechhe ho jaate hain — jo yeh bhi dikhata hai ki insaan ka rawaiya withdrawn (andar ko simat hua) hai.
+
+**Humari lawyers ke saath research ne dikhaya** ki courtroom ke baahir sunwaayi (hearing) se pehle baithe defendants — muddaion (plaintiffs) se teen guna zyaada takhnay tightly kursi ke neeche locked kiye baithe the.
+
+**319 dental patients ka adhyayan** dikhaya ki:
+- **88%** patients ne dental chair mein baithe hi takhnay lock kar liye
+- Sirf checkup ke liye aane wale — **68%** takhnay lock kiye
+- Jab dentist ne injection diya — **98%** takhnay lock ho gaye
+
+> **Taxman ke paas zyaada log takhnay lock karte hain — dentist se bhi zyaada.**
+
+**Law enforcement aur government bodies ke saath humari research** — jaise police, customs, aur tax office — dikhati hai ki zyaadatar log interview ke shuruaat mein takhnay lock karte hain — lekin yeh darr ki wajah se utni hi sambhaavna tha jitni guilt (gunah) ki wajah se.
+
+**Human resources profession mein** — zyaadatar interviewees interview ke dauran kisi na kisi point par takhnay lock karte hain — yeh zahir karte hue ki woh koi emotion ya rawaiya rok rahe hain.
+
+**Nierenberg aur Calero** ne paaya ki jab vaarta (negotiation) mein ek party ne takhnay lock kiye — toh aksar iska matlab tha ki woh ek valuable concession (riayat) rok rahi hai. Unhone paaya ki sawaal puchh ke often unhe takhnay khol ke concession reveal karne par encourage kiya ja sakta tha.
+
+> **Unke feelings ke baare mein positive sawaal poochna aksar doosron ko takhnay unlock karne par madad karta hai.**
+
+Desk ko barrier ki tarah hataa ke — interviewer ki side par jaake uske paas baith jaane se — interviewee often relax ho jaata tha aur conversation zyaada khuli aur personal tone leti thi.
+
+**Ek dilchasp example:**
+
+Humne ek mard ko kaam karte dekha jiska naagawaara (unenviable) kaam customer debt collection tha. Jab woh customers se baat karta — uske takhnay kursi ke neeche continually locked rehte — lekin jab humse baat karta — aisa nahi karta.
+
+Poochha: *"Tumhein yeh kaam kaisa lagta hai?"*
+
+Jawab: *"Theek hai! Bahut maza aata hai."*
+
+Verbal statement incongruent (mel nahi khata) tha uske nonverbal signals se. Phir dubara poocha: *"Sachchi mein?"*
+
+Woh ek pal ke liye ruka — takhnay unlock kiye — khuli hatheli ke saath bola: *"Sachchi poochhte ho? Yeh mujhe paagal kar deta hai!"*
+
+Usne bataya ki roz kai customers ke aggressive ya rude calls aate hain — aur woh apni feelings control karne ki practice karta hai taaki customers tak na pahunchen. Humne yeh bhi note kiya ki jo salespeople phone use karna enjoy nahi karte — woh aam tor par Ankle Lock position mein baithe hote hain.
+
+---
+
+## The Short Skirt Syndrome
+*(Chhoti Skirt Ka Syndrome)*
+
+Jo auraten miniskirts pehenti hain — woh obvious zaruraton ki wajah se pair aur takhnay cross karti hain. Saalon ki aadat ki wajah se — kaafi badi auraten abhi bhi is position mein baithti hain — jo na sirf unhe restrained (roke hue) feel kara sakta hai — balki doosre bhi anjaane mein (unconsciously) ise naksaaratmak padhenge aur caution (savdhaani) se react karenge.
+
+> **Miniskirts ek aurat ko approachable (milansaar) nahi dikhne ka impression de sakti hain.**
+
+Kuch log abhi bhi claim karenge ki woh Ankle Lock position mein isliye baithte hain — ya kisi bhi naksaaratmak baazoo aur pair position mein — kyunki woh "comfortable" feel karte hain.
+
+Agar tum is category mein ho — yaad rakho ki koi bhi baazoo ya pair position comfortable lagti hai jab tum defensive (bachaawe wala), naksaaratmak, ya reserved rawaiya rakho.
+
+Ek naksaaratmak gesture ek naksaaratmak rawaiya badha ya lambe kar sakta hai — aur doosre tumhein apprehensive (darra hua), defensive (bachaawe wala), ya non-participant (hissa na lene wala) padhenge.
+
+**Positive aur khuli gestures practice karo** — yeh tumhara aaatmavishwaas (self-confidence) sudhaarega aur doosre tumhein zyaada positive najar se dekhenge.
+
+---
+
+## The Leg Twine
+*(Pair Ka Lapetna)*
+
+Yeh gesture lagbhag sirf auraten use karti hain — aur sharmeelay (shy) aur sankochi (timid) auraton ki trademark hai.
+
+Ek paon doosre pair ke ird-gird upar lock ho jaata hai — ek ashurakshit (insecure) rawaiye ko reinforce karne ke liye — aur dikhata hai ki woh apne khol mein kachhuwe ki tarah simat gayi hai — haalaanki uska upar ka sharir kitna bhi relaxed dikhta ho.
+
+> **Ise kholne ki koshish karo ek garam (warm), dosti bhari, low-key approach se.**
+
+---
+
+## Parallel Legs
+*(Sidhe Samaantar Pair)*
+
+Auraton ke pair aur hips ki haddi ki banawat ki wajah se — zyaadatar mard is tarah nahi baith sakte — toh yeh naarinatva (femininity) ka ek powerful signal ban jaata hai.
+
+Hairan nahi — **86% se zyaada** male participants ne humaare leg-rating surveys mein is position ko baithne wali auraton ki sabse attractive female sitting position vote kiya.
+
+Ek pair doosre ke against dabta hai aur paon ko zyaada healthy aur naujawan dikhata hai — jo mardoon ko reproductive naazar se appeal karta hai.
+
+Yeh woh position hai jo deportment (chaal-dhaal) aur modeling classes mein auraton ko sikhaayi jaati hai.
+
+Yeh position us aurat se confuse mat karna — jo apne pair baar baar cross aur uncross karti hai jab woh kisi pasand waale mard ke paas ho — yeh uske pairon ki taraf dhyaan kheenchne ke liye kiya jaata hai.
+
+---
+
+## Put Your Right Foot In, Put Your Right Foot Out
+*(Ek Paon Andar, Ek Paon Baahir)*
+
+Jab hum kisi conversation ya insaan mein interested hote hain — ek paon aage karte hain us insaan ke paas doori kam karne ke liye.
+
+Agar hum hesitant (jhijhak wale) hon ya interested nahi — hum apne paon peeche le jaate hain — aam tor par kursi ke neeche agar baithey hon.
+
+**Ek scene:**
+
+Mard aurat mein interest dikhane ki koshish mein typical male courtship body language use kar raha hai:
+- Paon aage
+- Pair door door
+- Crotch Display
+- Arms-Splayed (baazoo door door) — apna overall maana hua size badhane ki koshish mein aur zyaada jagah lene ke liye
+
+Jabki aurat typical female no-go body language use kar rahi hai:
+- Pair saath
+- Sharir door ki taraf
+- Baazoo fold kiye
+- Apni occupied jagah minimize karti hui
+
+> **Woh mard shayad apna waqt zaaya kar raha hai.**
+
+---
+
+## Summary
+*(Khulaasa)*
+
+Hamaare paon doosron ko batate hain ki hum kahan jaana chahte hain aur hum kise pasand karte hain ya nahi.
+
+**Auraton ke liye:**
+Businessmen ke saath baithe waqt pair cross karne se bachein — jab tak A-line dress ya kam se kam ghutne se neeche wali dress na pehni ho. Aurat ki janghan (thighs) ka nazar aana lagbhag sab mardoon ka dhyaan bhatkaata hai aur uske message se focus hat jaata hai. Woh yaad rakhenge ki woh kaun thi — lekin zyadatar woh nahi yaad rahega jo usne kaha.
+
+Kaafi auraten business mein chhoti dresses pehenti hain kyunki media yahi baar baar unke saamne rakhta hai — **90% se zyaada female television hosts** chhoti dresses aur nange pair ke saath present hoti hain. Yeh isliye hai kyunki adhyayan prove karte hain ki male viewers program zyaada der tak dekhenge — lekin yahi adhyayan yeh bhi dikhate hain ki aurat jitna zyaada paon dikhaati hai — mard utna kam yaad rakhte hain ki usne kya kaha.
+
+> **Rule saada hai — social contexts mein exposed crossed legs theek hain — lekin business mein aisa mat karo.**
+
+**Mardoon ke liye:**
+Auraton ke saath business mein — yahi rule laagu hota hai — ghutne saath rakho.
+
+---
