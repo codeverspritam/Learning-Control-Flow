@@ -1986,7 +1986,7 @@ Maine haal hi mein swimming karne ka ek alag tareeqa seekha. Yeh bada ajeeb (awk
 
 Apne artistic pursuits (kala ke safar) mein, hum ek point se doosre point tak jaane ke liye aadatton par bhi nirbhar karte hain. Unmein se kuch kaam ki seva nahi karti ya uski progress ko nuksan pahonchati (undermines) hain. Jab hum khule rehte hain aur gehra dhyan dete hain, toh in kam madadgar aadatton ko pehchanna aur unke jaadu (spell) ko kamzor karna possible hota hai. Aur naye abhyas (new practices) explore karna shuru karna. Aise abhyas jo hamari creative lives mein temporary collaborators (astayi sathiyon) ki tarah aate-jaate hain, jab tak woh kaam ki seva karte hain tab tak tikte hain aur jab woh faydemand nahi rehte toh chale jaate hain.
 
-### Aise thoughts aur habits jo kaam ke hit mein nahi hain (not conducive to the work):
+## Aise thoughts aur habits jo kaam ke hit mein nahi hain (not conducive to the work):
 
 * Believing you’re not good enough.
 👉 Yeh believe karna (vishwas karna) ki aap utne achhe nahi hain.
@@ -2034,3 +2034,141 @@ Apne artistic pursuits (kala ke safar) mein, hum ek point se doosre point tak ja
 Create an environment where you’re free to express what you’re afraid to express.
 
 👉 Ek aisa environment (mahaul) create karein jahan aap us cheez ko express karne ke liye aazad hon jise express karne se aap darte hain.
+
+---
+
+# Chapter 28 Seeds 
+
+Creative process ke pehle phase mein, humein poori tarah se open rehna hai, aur jo kuch bhi humein dilchasp (of interest) lage use collect karna hai.
+
+Hum ise Seed phase keh sakte hain. Hum aise potential starting points (shuruati bindu) ki khoj kar rahe hain jo, pyar aur care ke sath, kisi khoobsurat cheez mein grow kar sakein. Is stage par, hum sabse behtareen seed dhoondhne ke liye unka comparison nahi kar rahe hain. Hum bas unhe gather ( इकट्ठा) kar rahe hain.
+
+Ek song ke liye ek seed koi phrase, ek melody, ek bass line, ya ek rhythmic feel ho sakta hai.
+
+Kisi written piece ke liye, yeh ek sentence, ek character sketch, ek setting, ek thesis, ya ek plot point ho sakta hai.
+
+Kisi structure ke liye, ek shape, koi material choice, ek function, ya kisi location ki natural properties ho sakti hain.
+
+Aur kisi business ke liye, yeh koi aam pareshani (common inconvenience), ek societal need (samajik zaroorat), ek technical advancement, ya koi personal interest ho sakta hai.
+
+Seeds collect karne mein aamtaur par (typically) bahut zyada mehnat (tremendous amount of effort) nahi lagti. Yeh ek transmission ko receive karne jaisa zyada hai. Ek notice karna (A noticing).
+
+Bilkul machhli pakadne (catching fish) ki tarah, hum paani ke paas jaate hain, kaante par chara lagate hain (bait the hook), dori phenkte hain (cast the line), aur sabar ke sath wait karte hain. Hum machhli ko control nahi kar sakte, sirf apni dori ki maujoodgi (presence of our line) ko control kar sakte hain.
+
+Artist universe ki taraf ek dori phenkta hai. Hum yeh chun nahi sakte ki kab koi noticing ya inspiration aayegi. Hum sirf use receive karne ke liye wahan maujood reh sakte hain. Meditation ki tarah hi, is process mein hamara shamil hona (engagement) hi parinaam (result) ko possible banata hai.
+
+Seeds collect karne ko active awareness aur anant jigyasa (boundless curiosity) ke sath approach karna sabse behtar hota hai. Ispar zabardasti nahi ki ja sakti (cannot be muscled), halanki shayad iski chah ki ja sakti hai (can be willed). Jaise-jaise seeds aate hain, unki value ya kismat (fate) ke baare mein conclusions banana unke natural potential ke raaste mein bhatkao ban sakta hai. Is phase mein, artist ka kaam seeds collect karna, unhe plant karna, unhe attention ke paani se seenchna (water them), aur dekhna hai ki kya woh jadd pakadte (take root) hain.
+
+Ek specific vision rakhna ki ek seed aage chalkar kya banega, baad ke phases mein ek helpful guide ke roop mein kaam kar sakta hai. Is shuruati stage (initial stage) mein, yeh aur zyada dilchasp sambhavnaon (interesting possibilities) ko rok (cut off kar) sakta hai.
+
+Ek aisa idea jo shuru mein kam jaandar (less vitality) lagta ho, woh ek khoobsurat kaam mein grow kar sakta hai. Doosri taraf, sabse exciting seed shaayad aakhirkar koi phal na de (not ultimately yield fruit). Yeh batana abhi bahut jaldi hai. Jab tak hum process mein aur aage nahi badhte aur idea develop nahi ho jata, tab tak kisi idea ke in shuruati anshon (germs of an idea) ko sateek roop se assess (mulyankan) karna impossible hai. Sahi seed (The appropriate seed) waqt ke sath khud ko zahir (reveal) kar dega.
+
+Kisi seed par bahut zyada zor (emphasis) dena ya use samay se pehle kharij (dismissing it prematurely) kar dena uski natural growth mein rukawat daal sakta hai. Is pehle phase mein khud ko bahut zyada ghusane ka lalach (temptation) poore kaam (entire enterprise) ko nuksan pahoncha sakta hai. Shortcuts lene ya apni list se items ko bahut tezi se kaatne (crossing off) se savdhan rahein.
+
+Jis seed ko paani nahi diya jata, woh phal dene ki apni ability ko zahir nahi kar sakta.
+
+Bahut saare seeds collect karein aur phir, waqt ke sath, peeche mudkar dekhein ki kaun se resonate karte hain. Kabhi-kabhi hum unke itne paas hote hain ki unka asli potential nahi pehchan paate, aur doosri taraf woh magical moment jisne ek seed ko wajood mein aane ke liye inspire kiya tha, woh khud us seed se bada hota hai.
+
+Aamtaur par yeh behtar hota hai (generally preferable) ki kai hafton ya mahino ke barabar ke ideas ko ik इकट्ठा (accumulate) kiya jaye aur phir chuna jaye ki unmein se kis par focus karna hai, bajaye iske ki hum kisi lalsa (urge) ya majboori (obligation) ke peeche chalkar finish line tak pahonchne ki jaldbaazi karein us cheez ke sath jo aaj hamare samne hai.
+
+Aapne jitne zyada seeds accumulate kiye honge, is baat ko judge karna utna hi aasan hoga. Agar aapne ek sau seeds collect kiye hain, toh aap paayenge ki seed number fifty-four aapse ek aise tareeqe se baat karta hai jo baaki koi nahi karta. Agar number fifty-four hi aapka akela choice hai, bina doosre seeds ke context ke, toh yeh batana aur zyada mushkil ho jata hai.
+
+Jab hum pehle se assumptions (manautiyan) bana lete hain ki kaun se seeds kaam nahi karenge ya kaun se hamari us artistic identity ke sath fit nahi baithte jise hum sach maante hain, toh yeh humein creators ke roop mein grow karne se rok sakta hai. Kabhi-kabhi ek seed ka maqsad humein ek bilkul nayi direction mein aage badhana (propel karna) hota hai. Raaste mein, yeh badalkar (morph hokar) ek aisi cheez ban sakta hai jo mushkil se apne original roop jaisi lage aur hamara ab tak ka sabse behtareen kaam (finest work) ban jaye.
+
+Samay ke is mod par, kaam ko khud se bada samajhna helpful hota hai. Jo possible hai uspar hairani aur samman (awe and wonder) ka ek sense develop (cultivate) karna, aur yeh pehchanna ki yeh productivity sirf hamare haath se hi paida nahi hui hai.
+
+Kaam jaise-jaise aap aage badhte hain, khud ko zahir (reveals itself) karta jata hai.
+
+---
+
+Yahan aapke diye gaye **Experimentation** chapter ke poore text ka ek-ek line ka aur exact paragraph-wise Hinglish translation hai, bina kisi line ya shabd ko chhode:
+
+---
+
+# Chapter 29 Experimentation 
+
+Humne mutthi bhar seeds collect kar liye hain—shuruati points (starting points) aur sambhavnaon (potentialities) ke.
+
+Ab hum doosri stage mein enter karte hain, jo hai Experimentation phase.
+
+Kisi starting point ko khojne ki shuruati excitement se urja lekar (Fueled by the initial hit of excitement), hum alag-alag combinations aur possibilities ke sath khelte hain yeh dekhne ke liye ki kya unmein se koi yeh zahir karta hai ki seed kaise develop hona chahta hai. Ise zindagi ki ek khoj (search for life) ki tarah socho. Hum yeh dekh rahe hain ki kya hum seeds ko jadd pakadne (take root) aur ek tana nikalne (sprout a stem) ke kaabil bana sakte hain.
+
+Experiment karne ka koi ek sahi tareeqa nahi hai. Aamtaur par kahein toh (Generally speaking), hum seeds ke sath interact karna shuru karna chahte hain, apne starting point ko alag-alag directions mein develop karte hue. Hum har ek seed ko seench rahe hain (cultivating), bilkul waise hi jaise ek mali (gardener) growth ko badhava dene (foster growth) ke liye sabse behtareen conditions (optimal conditions) create karta hai.
+
+Yeh kisi project ke sabse mazedar hisson (fun parts) mein se ek hai, kyunki yahan kuch bhi daanv par (at stake) nahi laga hai. Aapko alag-alag roopon (forms) ke sath khelne ka mauqa milta hai aur aap dekhte hain ki kya shakal banti hai (what takes shape). Yahan koi rules nahi hain. Cultivation har ek artist aur har ek seed ke liye alag dikhegi.
+
+Agar seed kisi novel ka koi character hai, toh shaayad hum us duniya ko aur bada karte hain jismein woh rehta hai, koi backstory develop karte hain, ya khud woh character bankar uske point of view se likhna shuru kar dete hain.
+
+Agar seed kisi film ki story hai, toh hum alag-alag settings ko explore karna chah sakte hain. Yeh alag-alag countries, communities, time periods, ya realities ho sakti hain. Shakespeare ke plays ko, for example, aisi movies mein dhala gaya hai (adapted) jo New York ke street gangs se lekar samurais tak, aur Santa Monica se lekar outer space tak har cheez ke aas-paas centered hain.
+
+Explore karne ke liye anant directions (countless directions) hain, aur jab tak hum test nahi karte, hum kabhi nahi jaan sakte ki kaun sa raasta humein ek band gali (dead end) tak le jayega aur kaun sa humein naye daayron (new realms) mein le jayega. Kisi song ke maamle mein, ek vocalist kisi musical track par bahut tezi se respond kar sakta hai aur melody turant khud ko zahir (reveal) kar degi. Doosri taraf, bhale hi singer ko woh musical track compelling (akashit karne wala) lage, woh use hazaar baar sunenge par usse kuch bhi nikal kar nahi aayega.
+
+Is phase mein, hum yeh nahi dekh rahe hain ki kaun sa roop (iteration) sabse tezi se ya sabse aage badhta hai, balki yeh dekhte hain ki kismein sabse zyada umeed (most promise) hai. Hum khilne (flourishing) par focus karte hain aur kaat-prajat karne (prune karne) ke liye intezar karte hain. Hum sambhavnaon (possibilities) ko khatam karne (eliminating) ke bajaye unhe paida (generate) karte hain. Samay se pehle editing karna (Editing prematurely) un raaston ko band kar sakta hai jo pehle kabhi na dekhe gaye khoobsurat nazaron (beautiful vistas) tak le ja sakte hain.
+
+Experimentation phase mein, nishkarsh (conclusions) achanak samne aa jaate hain (stumbled upon). Woh hamari expectations ko poora karne ke bajaye aksar humein hairan (surprise) ya chunauti (challenge) dete hain. Amarata (immortality) ki khoj kar rahe prachin Chinese alchemists ne saltpeter, sulfur, aur charcoal ko milaya. Unhone kisi aur hi cheez ki khoj kar li: gunpowder (barood). Aise hi anant doosre avishkar (Countless other inventions)—penicillin, plastic, pacemakers, Post-it notes—achanak ya hadse se (by accident) dhoondhe gaye the. Is baat par vichar karein ki naye badlav (innovations) jo duniya ko badal sakte the, sirf isliye kho gaye (lost) kyunki koi apne goal par itna zyada focus tha ki usne bilkul apne samne maujood us gyaan ya khulase (revelation) ko miss kar diya.
+
+Experiment ka dil darasal rahasya (mystery) hai. Hum pehle se andaza nahi laga sakte (cannot predict) ki ek seed kahan le jayega ya kya yeh jadd pakad payega. Naye aur anjaan (unknown) ke prati hamesha khule (open) rahein. Ek question mark ke sath shuruat karein aur khoj ke ek safar (journey of discovery) par nikal padein.
+
+Seed ke andar hi chhipi hui energy (energy inherent in the seed) ka poora fayda uthayein, aur use disturb na karne ke liye jo kuch possible ho woh karein. Aapka mann kar sakta hai (tempted) ki aap beech mein dakhal dein (intervene karein) aur uske vikas (development) ko kisi specific goal ya pehle se bani soch (preconceived idea) ki taraf modein (steer karein). Process ke is stage par, yeh uski sabse productive sambhavnaon (possibilities) tak nahi le jayega.
+
+Seed ko sun ki taraf apna khud ka raasta follow karne ki permission dein. Bhedbhav karne ya chunne (discriminate karne) ka samay baad mein aayega. Abhi ke liye, jadoo ke enter karne ke liye space (jagah) dein.
+
+Har ek seed ka grow hona zaroori nahi hai. Lekin ho sakta hai ki har ek ke liye ek sahi waqt ho. Agar koi seed develop hota hua ya respond karta hua nahi lag raha hai, toh use phenkne (discarding) ke bajaye store karne par vichar karein.
+
+Nature mein, kuch seeds us mausam ke intezar (anticipation) mein supt ya shant (lie dormant) rehte hain jo unki growth ke liye sabse zyada hit mein (conducive) ho. Yeh baat art ke liye bhi sach hai. Aise ideas hote hain jinka waqt abhi tak nahi aaya hai. Ya shayad unka waqt aa gaya hai, lekin aap abhi unke sath engage hone ke liye taiyar nahi hain. Doosri baar, kisi alag seed ko develop karna kisi shant pade (dormant) seed par roshni daal (shed light) sakta hai.
+
+Kuch seeds turant ankuran (germinate) hone ke liye taiyar hote hain. Aap experiment karna shuru kar sakte hain aur khud ko kaam ko poora karte hue aur parinaam (result) se khush pa sakte hain. Ya aap project ke aadhe raaste tak pahonch sakte hain, aur phir unsure feel kar sakte hain ki yeh kahan jaana chahta hai.
+
+Jaise-jaise hum utsaah (enthusiasm) khote hain, hum aksar ek seed par mehnat (labor) karna jaari rakhte hain, yeh believe karte hue ki kaam ko behtar nikalna hi hoga kyunki humne isme bahut saara samay invest kiya hai. Agar energy lagatar girti rehti hai, toh iska matlab yeh bilkul nahi hai (does not necessarily mean) ki seed kharaab hai. Ho sakta hai ki humne iske liye abhi tak sahi experiment na dhoondha ho. Shayad humein kuch samay ke liye door hatne (step away) aur apna nazariya badalna (shift perspective) chahiye. Hum iske sath dobara shuruat karne ka chunav kar sakte hain, ya ise kuch samay ke liye ek taraf rakh kar baaki doosre seeds ko chhan (sift through) sakte hain.
+
+Parinaam (outcome) hamare haath mein nahi hai. Har ek seed ko thoda attention dein, is baat ki parwah kiye bina ki aapko kya lagta hai iska potential kya hoga, aur ek khoobsurat response ki khoj karein.
+
+Agar aapke paas sirf ek hi seed hai—ek bahut hi specific vision jise aap poora karna chahte hain—toh woh fine hai. Koi ek sahi tareeqa nahi hai. Halanki, aap is possibility par vichar kar sakte hain ki yeh aakhirkar ek seema (limitation) ban sakta hai, kyunki aap ab us sabka fayda nahi utha rahe hain jo aapke andar maujood hai. Possibility ke prati khula rehna aapko ek aisi jagah le jata hai jahan aap jaana chahte hain par shaayad aapko pehle pata na ho ki aap wahan pahonchna chahte the.
+
+Agar aap jaante hain ki aap kya karna chahte hain aur aap use kar dete hain, toh woh ek karigar (craftsman) ka kaam hai. Agar aap ek sawaal ke sath shuru karte hain aur khoj ke ek sahasi safar (adventure of discovery) ko guide karne ke liye iska use karte hain, toh woh ek artist ka kaam hai. Raaste mein milne wale surprises aapke kaam ko aur yahan tak ki khud us art form ko bhi bada (expand) kar sakte hain.
+
+Jab koi pauda khil raha hota hai (flourishing), toh hum uski har ek tehni (stalk), patte (leaf), aur flower se zindagi ko phoot-te hue (life spring forth) dekh sakte hain. Hum kaise jaantes hain ki koi idea kab khil (flourishing) raha hai? Aksar sabse sateek sanket (accurate signposts) emotional hote hain, na ki intellectual (dimaagi). Kaun se seeds par focus karna hai use select karne ke liye excitement sabse behtareen mapi (barometer) hota hai. Jab koi dilchasp cheez ek sath aane lagti hai, toh yeh khushi aur anand (delight) ko jagati hai. Yeh aur zyada paane ki chah ka ek urjavaan feeling (energizing feeling) hai. Aage ki taraf jhukne (leaning forward) ki ek feeling. Us energy ko follow karein.
+
+Experimentation phase ke dauran, hum body mein hone wale is mantra-mugdhata ke natural reaction (natural reaction of enthrallment) par dhyan de rahe hote hain. Vishleshan (analysis) ke dimaagi kaam ke liye ek samay hota hai, par abhi nahi. Yahan, hum dil ko follow karte hain. Kisi mod par, hum shaayad peeche mudkar dekh sakein aur samajh sakein ki yeh feeling kyun paida hui thi. Doosri baar hum nahi samajh payenge, aur woh bhi fine hai. Abhi ke liye, yeh chinta ki koi baat nahi hai.
+
+Agar do ideas vajan mein thode barabar (equal in weight) lagte hain, aur ek mein kisi khoobsurat cheez mein badalne ka saaf potential hai aur doosra kam potential dikhata hai par zyada interesting lagta hai, toh apne interest ko follow karne ke liye free feel karein. Apne decisions ko andaruni roop se dravit ya prabhavit hone (internal feeling of being moved) par aadharit karein aur notice karein ki kaun si cheez aapke interest ko pakde rakhti hai. Yeh hamesha kaam ki sabse badi seva mein hoga.
+
+---
+
+# Chapter 30: Try Everything 
+
+Blue aur yellow ko mix karne se green banta hai. Two plus two add karne se four banta hai.
+
+Jab life ke ordinary course (rozmarra ki zindagi) mein buniyaadi elements (basic elements) ko combine kiya jata hai, toh bahut kuch pehle se tay ya predictable hota hai.
+
+Art create karne mein, hisson ka kul jod (sum total of the parts) aksar ummeedon ke ulat hota hai (defies expectation).
+
+Theory aur practice hamesha ek line mein nahi aate (don't always line up). Jo formula kal kaam kiya tha, ho sakta hai woh kal kaam na kare. Saabit hue upaay (proven solutions) kabhi-kabhi sabse kam madadgar hote hain.
+
+Imagination (kalpana) aur reality (waastavikta) ke beech ek gap hota hai. Koi idea hamare dimaag mein brilliant lag sakta hai. Lekin ek baar use karne par (once employed), ho sakta hai woh bilkul bhi kaam na kare. Koi doosre idea shuruat mein thaka hua ya bejaan (dreary) lag sakta hai. Phir, execution (amal mein laane) par, ho sakta hai woh bilkul wahi ho jiski zaroorat (exactly what's called for) thi.
+
+Kisi idea ko sirf isliye kharij kar dena (dismiss kar dena) kyunki woh aapke dimaag mein kaam nahi kar raha, art ke sath na-insaafi (disservice) karna hai. Kisi bhi idea ke kaam karne ko sach mein jaan-ne ka akela tareeqa use test karna hai. Aur agar aap sabse behtareen idea dhoondh rahe hain, toh sab kuch test karein (test everything).
+
+Khud se jitne ho sake utne "what if" (kya ho agar) sawaal poochho. Kya ho agar yeh pehli painting ho jise kisi ne apni life mein dekha ho? Kya ho agar main har ek adverb ko hata doon? Kya ho agar main saare loud parts ko quiet (dheema) kar doon? Alag-alag polarities (viparrit chhoron) ko dhoondho aur dekho ki woh piece ko kaise affect karti hain.
+
+Shayad is astayi niyam (temporary rule) ko apna lo ki koi bhi bad ideas nahi hote. Un sabhi ko test karein, yahan tak ki unhe bhi jo kamzor (underwhelming) lagte hain ya jinke kaam karne ki umeed nahi hai (unlikely to work).
+
+Yeh method khaas taur par group efforts (samoohik koshishon) mein useful ho jata hai. Aksar jab doosron ke sath kaam karte hain, toh alag-alag ideas samne rakhe jaate hain aur aakhir mein unke beech ek competition shuru ho jata hai. Experience ke basis par, hum yeh believe kar sakte hain ki hum dekh sakte hain ki har ek insaan kya imagine kar raha hai aur parinaam (result) kya hoga.
+
+Halanki, yeh bilkul asambhav (impossible) hai exact jaan-na ki koi doosra kya soch raha hai. Aur agar hum pehle se andaza nahi laga sakte (cannot predict) ki hamare apne ideas kaise kaam karenge—aur hum nahi laga sakte!—toh hum kisi aur ki kalpana (imagination) ke baare mein nishkarsh (conclusions) kaise nikal sakte hain?
+
+Yeh pata karne ke liye ki kaun sa sabse behtar hai, alag-alag solutions par sirf baatein karne ke bajaye, ise shabdon ke daayre se baahar nikalo (take it out of the realm of the verbal). Choices ko sach mein tolne (weigh karne) ke liye, unhe physical world (waastavik duniya) mein lana zaroori hai. Unhe act out karwayiye, play out karwayiye, ya unka ek model banwayiye. Sirf baatein ya vivarann (descriptions) ideas ke sath insaaf nahi karte.
+
+Hum ek aisa environment set up karna chahte hain jahan decision making persuasion (manane ya behkaane) ki bhatkaane wali taqat se mukt (free) hokar ho. Persuasion aamtaur par aam-darje (mediocrity) ki taraf le jata hai. Mulyankan (evaluate) kiye jaane ke liye, ideas ko dekha, suna, chakha ya chhua jaana chahiye.
+
+Yeh sabse behtar hota hai agar jis insaan ke paas idea hai, ya toh woh khud ise karke dikhaye (demonstrate kare) ya execution ko tab tak supervise kare jab tak ki woh bilkul waisa na ban jaye jaisa woh suggest kar raha hai. Yeh galatfehmiyon (misunderstandings) se bachne mein madad karega.
+
+Ek baar jab idea ko uski poori abhivyakti (full expression) mein dekha jata hai (witnessed), toh ho sakta hai woh aapki kalpana se kahin zyada behtar nikal kar aaye. Yeh yahan tak ki ek perfect fit bhi ho sakta hai. Ya yeh bilkul waisa ho sakta hai jaisi aapne umeed ki thi. Parinaam (result) jo bhi ho, is process ke zariya kuch na kuch haasil zaroor hoga. Khud ko galat hone ki permission dein aur hairan hone ki khushi (joy of being surprised) ko experience karein.
+
+Jab kisi puzzle ko solve karne ke tarikon par kaam kar rahe hon, toh koi galti nahi hoti. Har ek akaamyab upaay (unsuccessful solution) aapko us upaay ke aur paas le jata hai jo kaam karta hai. Problem ki baarikiyon ya cheezon se bahut zyada attach hone se bachein. Apne dekhne ke daayre ko aur bada karein (Widen your field of view). Agar idea project ko kisi aisi jagah le jata hai jahan ek strong energetic charge hai, toh us nayi direction ko follow karein. Kisi art ke kaam ko control karne ki zidd karna bilkul utna hi moorkhta-purna (foolish) hoga jitna yeh zidd karna ki ek oak tree aapki marzi ke mutabik grow kare.
+
+Kaam ko us direction mein grow karne ki permission dein jise woh dhoondh raha hai, uski natural state ke mutabik use evolve hone dein, aur uski apni ek life hone dein. Kaam ke asli roop (true form) ko zahir karne ke liye saare badlavon aur badal-badal kar dekhne ke is safar (journey of cycling through all permutations) ka anand lein.
+
+---
+
+Ek galat mod (wrong turn) lena aapko un nazaron aur landscapes ko dekhne ka mauqa deta hai jinhe aap kisi aur tareeqe se kabhi nahi dekh paate.
