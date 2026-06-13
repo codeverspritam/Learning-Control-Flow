@@ -2265,6 +2265,71 @@ In moments mein, niraash feel karna (discouraged hona) aasan hai. Hum apne dimaa
 
 Bade visions se thoda peeche reh jana (Falling short) asal mein kaam ko bilkul wahi rakh sakta hai jahan use hona chahiye. Apni kalpana ke scale (daayre) ko apne project ke ek zyada practical version ko execute karne ke raaste mein mat aane edin. Hum shaayad yeh realize karne lagein ki yeh version shuruati, asambhav lagne wale vision se kahin behtar hai.
 
+---
+
+# Chapter 33: Point of View
+
+Art ka goal perfection haasil karna nahi hai. Goal yeh share karna hai ki hum kaun hain. Aur hum duniya ko kaise dekhte hain.
+
+Artists humein woh dekhne ki permission dete hain jise hum dekhne mein asamarth (unable) hain, par kisi na kisi tarah pehle se jaante hain. Yeh duniya ka ek aisa nazariya ho sakta hai jo hamare apne nazariye se anokha aur bilkul alag (singularly different) ho. Ya phir ek aisa jo itna kareeb ho, ki woh ek chamatkar (miraculous) lage, jaise ki artist hamari hi aankhon se dekh raha ho. Dono hi mamlon mein, artist ki perception (samajh) humein yaad dilati hai ki hum kaun hain aur hum kya ban sakte hain.
+
+Art ke resonate karne ki ek wajah yeh hai kyunki insaan aapas mein bahut similar hote hain. Hum kaam ke andar maujood ek saajha experience (shared experience) ki taraf attract hote hain. Jismein uski imperfection bhi shamil hai. Hum apne hi kisi hisse ko pehchante hain aur feel karte hain ki humein samjha gaya hai. Aur hum connected feel karte hain.
+
+Carl Rogers ne kaha tha, “The personal is the universal” (jo vyaktigat hai wohi sarvavyapi hai). Vyaktigat (personal) cheez hi art ko important banati hai. Hamara point of view, na ki hamari drawing skills ya musical virtuosity (sangeet ki maharat) ya koi kahani sunane ki ability.
+
+Art aur zyadatar doosre kaamon (trades) ke beech ke farq par vichar karein. Arts mein, hamara filter hi kaam ka sabse bada tay karne wala factor (defining factor) hota hai. Science ya technology mein, maqsad (aims) alag hote hain. Hamare art create karne ki wajah yeh nahi hoti ki hum kisi aur ke liye koi useful cheez banane ke intention se kaam kar rahe hain. Hum create karte hain yeh express karne ke liye ki hum kaun hain. Hum kaun hain aur hum apni journey mein kahan hain.
+
+Hamara point of view coherent (poori tarah sateek ya melta-julta) ho, yeh zaroori nahi hai. Aur yeh shaayad hi kabhi simple hota hai. Hamare paas alag-alag, aur kabhi-kabhi ek doosre ke viparit (contradictory) points of view ho sakte hain kai tarah ke topics par. In sabhi ko samet kar ek elegant expression (sundar abhivyakti) mein badalna gair-waastavik (unrealistic) aur limit karne wala hai.
+
+Hamara perspective jo bhi ho, jab tak hum ise bina badle aur bina koi chhedchhad kiye (unaltered and undoctored) share karte hain, hum art ke buniyaadi maqsad (fundamental purpose) mein kamyab hote hain.
+
+Art banate waqt, hum ek aisa mirror create karte hain jismein koi apni hi chhupi hui reflection (parchhai) dekh sakta hai.
+
+Ek point of view hona, koi point rakhne (having a point) se alag hota hai.
+
+Ek "point" ek aisa idea hai jise jaan-bujhkar express (intentionally expressed) kiya jata hai. Ek "point of view" woh perspective (nazariya) hai—conscious aur unconscious—jiske zariya kaam baahar nikal kar aata (emerge hota) hai.
+
+Jo cheez humein kisi art ke piece ko notice karne par majboor karti hai, woh shaayad hi kabhi samne rakha ja raha point (point being made) hoti hai. Hum is baat se attract hote hain ki kaise ek artist ka filter ideas ko refract (modta) karta hai, na ki khud un ideas se.
+
+Apne point of view ko jaan-ne ka koi fayda nahi hai. Yeh pehle se hi wahan hai, background mein kaam kar raha hai, aur lagatar evolve ho raha hai. Jaan-bujhkar point of view ko portray karne (dikhane) ki koshishon se aksar ek jhootha roop (false representation) samne aata hai. Hum apne perspective ke baare mein aisi kahaniyon ko pakad kar baith jaate hain jo gair-sateek (inaccurate) aur limit karne wali hoti hain.
+
+Wayne Dyer ne kaha tha ki jab aap ek orange (santra) ko nichodte (squeeze karte) hain, toh jo baahar aata hai woh orange juice hota hai. Jab aapko squeeze kiya jata hai, toh jo kuch bhi baahar aata hai woh wahi hota hai jo aapke andar hai. Aur us nichod (extract) ka ek hissa woh point of view hota hai jiske baare mein aapko khud bhi nahi pata ki aapke paas hai. Yeh aapke dwara banayi jaane wali art aur aapke share kiye jaane wale opinions mein pehle se hi baked (ghula-mila) hota hai.
+
+Kisi kaam ke complete hone ke bahut samay baad, hum shaayad peeche mudkar dekh sakte hain aur usmein apne sachay point of view ko samajh sakte hain.
+
+Humein koi point rakhne ke liye jaan-bujhkar koi koshish karne ki zaroorat nahi hai. Yeh tabhi samne aayega jab ise aana hoga. Sacha point toh pehle se hi perception aur creation ke us masoom act (innocent act) mein ban jata hai. Yeh jaan-na aazaad karne wala (liberating) hai. Yeh thoda pressure hata deta hai. Hum is baat ki chinta kam kar sakte hain ki yeh kyun kaam kar raha hai, ya kya doosre log samajh paayenge ki hum kahan se aa rahe hain. Hum present rehne aur material ko apne zariya baahar aane dene ke liye free hain, aur jab yeh baahar aata hai toh iske raaste se door rehne ke liye free hain.
+
+Art ki zyadatar mahanata gut level (andaruni ahasas) par feel ki jaati hai. Aapka self-expression audience ko apna khud ka self-expression rakhne ki permission deta hai. Agar aapka kaam unse baat karta hai (speaks to them), toh is baat ka koi asar ya mahatva nahi hai (it is of no consequence) ki aapko suna gaya ya samjha gaya.
+
+Is tarah ki chintaon ko ek taraf rakh edin ki kya aapka kaam samjha (comprehend) jayega ya nahi. Yeh thoughts sirf bhatkao ya dakhal (interference) paida kar sakte hain, art aur audience dono ke liye. Zyadatar log isme interest nahi rakhte ki unhe bataya jaye ki unhe kya sochna hai ya kya feel karna hai.
+
+Mahan art self-expression ki aazadi se create hoti hai aur har ek insaan ki apni individual interpretation (apni samajh) ki aazadi ke sath receive ki jaati hai.
+
+Mahan art kisi baatchit (conversation) ko band karne ke bajaye use kholti hai. Aur aksar yeh conversation achanak ya hadse se (by accident) shuru hoti hai.
+
+Zyadatar insaano ko fit hona (fit in karna) pasand hota hai.
+
+Hum na keval apne andar se aane wale material ke is badalte bahaav (evolving flow) ke mutabik dhalte hain, balki apne aas-paas ke culture ki boundaries aur templates ke mutabik bhi dhalte hain.
+
+Kya mahan art conformity (lakh-lakeer par chalne ya sab jaisa banne) se aa sakti hai? Aur ek artist hone ka maqsad hi kya hai agar hum apne unique personal point of view ko hi mana kar edin (deny kar edin)?
+
+Hum mein se jo log ek artist ki tarah jeene ka chunav karte hain, woh apne filter ko ek gift ki tarah apnate (embrace karte) hain. Ise kharij (reject) karna dukhdayi (tragic) hoga. Jo paravartit roshni (refracted light) yeh project karta hai, woh artistic possibility ka hamara apna ekmatra anokha landscape hai. Koi art ka piece kabhi sach mein ek "guilty pleasure" kaise ho sakta hai?
+
+The Beatles American rock and roll se inspired the, Chuck Berry aur The Shirelles jaise artists se. Lekin jab unhone play kiya, toh woh alag bhaag tha. Woh isliye alag nahi tha kyunki woh aisa chahte the. Woh isliye alag tha kyunki woh khud alag the. Aur duniya ne ispar respond kiya.
+
+Aise anant examples hain jahan nakal (imitation) ek asli naye badlav (legitimate innovation) mein badal gayi. Kisi artist, genre, ya tradition ka ek romanticized vision rakhna aapko kuch naya create karne ki permission de sakta hai, kyunki aap use un logon ke mukable ek alag perspective se dekhte hain jo iske zyada kareeb hain. Sergio Leone ki Spaghetti Westerns ek abstract psychedelic mythology thin agar unka comparison 1940s aur 50s ki American Westerns se kiya jaye jinki woh parchhai (mirror) banna chahte the.
+
+Kisi doosre artist ka point of view ki nakal karna (imitate karna) impossible hai. Hum sirf unhi same paaniyon mein tair sakte hain. Isliye apni khud ki aawaz (voice) ko dhoondhne ke raaste par jo kaam aapko inspire karte hain, unhe copy karne ke liye free feel karein. Yeh ek samay ki parakh par khari utri tradition (time-tested tradition) hai.
+
+Culture mein, beete hue kal (past), aaj (present), aur aane wale kal (future) ke beech hamesha ek dialogue (baatchit) chalti rehti hai, bhale hi yeh saaf na ho ki asar (influence) kis cheez ka hai. Creators aur enthusiasts ke roop mein, hum points of view ko share aur receive karte hain taaki is exchange (len-den) mein participate kar sakein aur ise aage badha sakein.
+
+Jab hum kuch naya sunte hain, toh yeh is baat ka gehra gyaan (insight) deta hai ki hum kahan rahe hain aur hum aur kahan ja sakte hain. Hum shaayad sochte honge ki hum sirf aage badh sakte hain. Lekin jab koi left mudta hai, toh yeh dikhata hai ki hum right bhi ja sakte hain. Aur phir hamara right mod shaayad kisi aur ko ek bilkul nayi direction explore karne ke liye inspire kare.
+
+Yeh ek symbiotic loop (ek doosre par nirbhar chakra) hai. Culture batata hai ki aap kaun hain. Aur aap kaun hain yeh aapke kaam ko roop deta hai (informs your work). Aapka kaam phir wapas lautkar culture ko paalata-poshta (feeds back) hai.
+
+Anjaan ke is lagatar safar (constant march into the unknown) ka koi wajood nahi hota agar ek hi samay par lakhon alag-alag points of view (divergent points of view) share na kiye ja rahe hote.
+
+Khud ko duniya mein express karna aur creativity dono ek hi hain. Yeh shaayad possible hi na ho jaan-na ki aap kaun hain, jab tak aap use kisi na kisi tarah express na karein.
 Jab aap Craft phase mein ek bahaav ya raftar mein hon (on a roll hon), toh ek poore first draft ki taraf kaam karein. Us momentum (raftar) ko banaye rakhein. Agar aap kaam ke kisi aise section par pahonchte hain jo aapko pareshani deta hai, toh is blockage ko khud ko rokne edin ke bajaye, iske aas-paas se nikal kar kaam karein (work around it). Halanki aapki andaruni prerna (instinct) ek ke baad ek krambaddh (sequentially) create karne ki ho sakti hai, lekin us section ko bypass kar edin jahan aap atke hain, doosre parts ko complete karein, aur phir ispar wapas aayein.
 
 Kabhi-kabhi in mushkil hisson ke solutions khud-ba-khud tab zahir ho jayenge jab poora context (overall context) samne aa jayega. Ek bridge (pul) banana tab zyada aasan hota hai jab yeh saaf ho ki uske dono taraf kya hai.
