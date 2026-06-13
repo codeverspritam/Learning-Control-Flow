@@ -2172,3 +2172,115 @@ Kaam ko us direction mein grow karne ki permission dein jise woh dhoondh raha ha
 ---
 
 Ek galat mod (wrong turn) lena aapko un nazaron aur landscapes ko dekhne ka mauqa deta hai jinhe aap kisi aur tareeqe se kabhi nahi dekh paate.
+
+---
+
+# Chapter 31: Crafting 
+
+Ek baar jab seed ka code crack ho jata hai, aur uske asli roop (true form) ko decipher kar liya jata hai, toh process badal jata hai. Hum ab khoj ke us naye aur aazaad daayre (unbounded mode of discovery) mein nahi hote. Ek saaf direction ka sense paida ho chuka hota hai.
+
+Aksar hamare jaane bina (unbeknownst to us), hum khud ko Craft phase mein paate hain. Ab shuru hoti hai banane ki mehnat (labor of building).
+
+Hum ek aasi buniyaad (foundation) mein cheezein add karne ke liye kaam karte hain jo hamare experimentation ke zariya khud samne aayi hai. Lines khenchi ja chuki hain. Ab hum unmein colors bhar rahe hain.
+
+Jahan pehle ke phases zyada free aur open-ended the, ab jo inspirations aur ideas samne aate hain woh seedhe taur par haath mein maujood muddo (issues at hand) se jude hote hain. Hum ek aisi shape dhoondh rahe hain jo ek khaas chhed (specific hole) mein fit baith sake, jabki pehle hum bas shapes dhoondh rahe the.
+
+Kuch tarikon se, Craft phase artist ke kaam ka sabse kam glamorous hisson mein se ek hai. Ismein creativity shamil hoti hai, lekin ismein aksar exploration ka woh jadoo kam aur eint-bichane (brick-laying) ki mehnat zyada hoti hai.
+
+Safar ka yeh woh mod hai jahan kuch logon ke liye aage badhna ek sangharsh (struggle to carry on) ban jata hai. Abhi ke liye, humein us khule maidan se apni nazar hatani hogi aur ek sau manjil unchi ghumavdar sidi (winding staircase a hundred stories tall) ki taraf mudna hoga. Ek lambi, khatarnak aur asthir chadhai (precarious climb) aage khadi hai.
+
+Hamara mann kar sakta hai ki hum peeche mud jayein aur apne sir ke upar us light bulb ke jalne-bujhne (flicker on) ke romanch (thrill) ka peecha karein. Lekin pehle do phases ka apne aap mein bahut kam maqsad ya matlab hota hai. Art sirf tabhi exist kar sakti hai, aur artist sirf tabhi evolve ho sakta hai, jab kaam ko poora kiya jaye (completing the work).
+
+Hum kaise decide karte hain ki kis experiment ko craft karna hai?
+
+Hum excitement ke isharon (hints of excitement) ko follow karna jaari rakhte hain. Hum mein se har ek ko apna khud ka raasta dhoondhna hoga. Agar kai directions dilchasp (captivating) lagti hain, toh ek samay mein ek se zyada experiment ko craft karne par vichar karein. Kai kaamon par ek sath kaam karna aksar alag hone ka ek healthy sense (healthy sense of detachment) lekar aata hai.
+
+Jan poori tarah se sirf ek par focus kiya jata hai, toh tunnel vision (sankuchit nazariya) aana aasan hota hai. Jabki aisa lag sakta hai ki koi project sahi direction mein aage badh raha hai, hum iske sath itne gehre jude hote hain (too closely entwined) ki sahi roop se jaan nahi paate.
+
+Door hatna aur naye siray se naye nazariye (fresh eyes) ke sath wapas lautna agle steps ke baare mein zyada saaf samajh (clearer insight) lekar aata hai. Doosre projects par switch karne se alag-alag muscles aur sochne ke patterns engage honge. Yeh un raaston par roshni daal sakte hain jo kisi aur tareeqe se nahi dikhte. Aur yeh dinon, hafton, mahino ya saalon ke dauran ho sakta hai.
+
+Yahan tak ki ek single work session mein bhi, multiple projects ke beech aate-jaate rehna helpful ho sakta hai.
+
+Aise samay bhi aate hain jab ek akele seed mein itni zyada power hoti hai ki aap poori tarah se sirf usi par focus karne ka chunav karte hain, aur yeh aapka apna decision (choice to make) hai.
+
+Experimentation phase mein, humne seed ko boya (planted), use paani diya, aur usse nikalne wale paude ko sun mein grow hone ka samay diya. Humne nature ko apna rasta lene diya. Ab, is teesre phase mein, hum khud ko project mein lekar aa rahe hain yeh dekhne ke liye ki hum kya offer kar sakte hain.
+
+Yahi ek wajah hai ki Experimentation aur Craft phases ke beech ki boundary koi ek seedhi lakeer (linear progression) nahi hai. Hum aksar dono ke beech aate-jaate rehte hain, kyunki kabhi-kabhi jo hum add karte hain woh utna achha nahi hota jitna nature lekar aa rahi hai. Jab humein yeh realize hota hai, toh hum ruk jaate hain aur wahan wapas chale jaate hain jahan nature ne chhoda tha.
+
+Jabki Experimentation phase is baare mein hai ki seed ke paas kya offer karne ke liye hai, ab hum apna filter apply kar rahe hain. Duniya mein apne poore experience (totality of our experience) ko review karna aur connections ki khoj karna: Yeh humein kis cheez ki yaad dilata hai, hum ise kis cheez ke khilaf naap sakte hain, yeh hamari life ke dauran notice ki gayi kis cheez se relate karta hai?
+
+Is phase mein, hum ek aise project ke sath shuruat karte hain jo natural roop se develop hua hai. Hum usme potential ko pehchante hain. Aur hum dekhte hain ki ise mazeed develop karne ke liye hum kya add kar sakte hain, kya hata sakte hain, ya combine kar sakte hain.
+
+Craft phase sirf ek building up (banana) nahi hai. Yeh ek breaking down (todna) bhi hai. Kaam ko develop karne ka maqsad chhote-chhote cuts ki ek katayi-chatayi ki process (pruning process of small cuts) ke zariya haasil kiya ja sakta hai. Hum decide karte hain ki kaun se details aur directions ko hataya ja sakta hai, taaki core elements ko seenche ke liye aur zyada energy aur focus ka use kiya ja sake.
+
+Jabki Craft phase mushkil ho sakta hai, har baar aisa nahi hota. Kuch aise artists hain jinka focus kisi idea ko execute karne se zyada use ek formal roop dene (formalizing an idea) par hota hai. Aur kuch projects ke maamle mein, Craft phase ko outsourcing karna (doosron se karwana) hi wahi cheez hoti hai jiski zaroorat hoti hai.
+
+Andy Warhol ki kai paintings doosre artists aur machines dwara ki gayi thin, jabki unhone ideas diye aur authorship (lekhakatva) apne paas rakha. 60s ke California ke kuch famous rock bands ne apne khud ke albums par play nahi kiya. Aur kuch prolific (bahut zyada likhne wale) authors sirf characters aur story lines invent karte hain, aur prose (gadyansh) ko poora karne ka kaam doosre writers par chhod dete hain.
+
+Jab is process ke in mehnat-bhare aspects (labor-intensive aspects) ko khud karne ki baat aati hai, toh yeh sahi ya galat ka sawaal nahi hai. Yeh project par depend karta hai. Art ko utna behtareen banane ke liye jo kuch bhi lage use karne ke liye hamesha khule (open) rahein, chahe iska matlab khud ko process ke details mein zyada ghusana ho ya unse aur zyada peeche hatna ho.
+
+Kuch projects ke liye, ek artist ko feel ho sakta hai ki saare kaam mein khud shamil hona zaroori hai. Crafting ka physical act unhe art ki ek behtar samajh aur details par zyada direct control de sakta hai. Doosre projects ko zyada fayda tab pahonch sakta hai agar artist is phase mein ek maestro ya designer ki tarah kaam kare, jo doosron ke kaam ko conduct (sanchalit) karta hai.
+
+Crafting dravana ya bhari (daunting) lag sakta hai. Ise khelne ke ek aur mauqe (opportunity for play) ke roop mein sochna helpful hai. Kuch artists ke liye, crafting unke process ka sabse pasandida hissa hota hai. Kisi physical aur khoobsurat cheez ko create karne ke liye instructions ke ek set ko follow karne mein ek natural joy aur kamyabi ka sense (sense of accomplishment) hota hai. Is phase mein jo pyar aur care woh daalte hain, use final work mein saaf taur par pehchana ja sakta hai.
+
+---
+
+# Chapter 32: Momentum 
+
+Jab ise pehle ke phases ki tarah treat kiya jata hai, bina kisi boundaries ya time constraints (samay ki seemaon) ke, toh Craft phase zaroorat se zyada lamba khinch sakta hai.
+
+Ek baar jab kaafi data collect ho jata hai, aur vision saaf ho jata hai, toh poora karne (completion) ke liye deadlines set karna helpful ho sakta hai. Ab options unlimited nahi reh jaate; process kam open-ended hota hai. Ho sakta hai samne koi saaf finish line na dikh rahi ho, lekin core elements (buniyaadi tatva) wahan maujood hote hain.
+
+Imagine karein ki aapke paas ek script hai jise storyboard mein badal (translate kar) diya gaya hai. Storyboard se finished film tak jaana ek hadd tak mechanical process hota hai. Ismein art aur inspiration shamil hote hain, aur hazaaron choices lene hote hain, lekin aage ka raasta saaf hota hai. Hamare creative task ke parameters ab zyada sankuchit (narrower) hote hain.
+
+Agar hum blueprint se khush hain, toh ise kai alag-alag tareeqon se construct (banaaya) kiya ja sakta hai. Jab tak hum peeche mudkar check karte rehte hain taaki yeh yakeen ho sake ki develop kiya gaya project original plan jitna hi achha hai, tab tak kai alag-alag versions ho sakte hain jo sabhi sahi (ring true) lagenge. Asli taqat iske andaruni dhanche (underlying structure) mein hoti hai.
+
+Agar project ek building hota, toh hum yeh chun rahe hote ki ise kis material se dhakna (clad) hai aur kis tarah ki windows install karni hain. Aapki koi preference ho sakti hai, lekin building apni akhandata (integrity) banaye rakhegi. Details matter karti hain, lekin unse poora kaam (enterprise) doobne ki sambhavna nahi hoti.
+
+Craft phase mein, deadlines patthar ki lakeer (set in stone) hone ke bajaye sirf sujhai gayi completion dates (poora karne ki tareekhein) hoti hain. Hamare execution ke dauran abhi bhi surprise aur exploration ka ek element bacha rehta hai, aur yeh possible hai ki hum kisi bhi moment par khud ko wapas Experimentation phase mein paayein.
+
+Crafting karte waqt, ek artist apne project ke liye ek fixed release date set karne ke baahari pressure ke aage jhuk (succumb kar) sakta hai. Taiyarian ki jaati hain. Baahar ke logon ko notify kar diya jata hai. Phir kabhi-kabhi, jab hum final stage ki taraf lagan se kaam kar rahe hote hain, toh ek bilkul nayi aur behtar direction (preferable direction) samne aa sakti hai. Lekin artist ke paas uska peecha karne (pursue karne) ke liye samay nahi bachta. Aur yeh ek samjhauta-purna parinaam (compromised result) ki taraf le jata hai.
+
+Artist ka goal sirf produce karna nahi hai, balki aisa sabse behtareen kaam (finest work) banana hai jiske woh kaabil hain. Business hamesha quarterly earnings (timahi kamai) aur production schedules ke baare mein sochta hai. Artist hamesha samay se pare ki mahanata (timeless excellence) ke baare mein sochta hai. Crafting karte waqt, deadlines apni khud ki motivation ke liye banayein, zaroori nahi ki unhe doosron ke sath share kiya jaye, jab tak ki yeh accountability (zimmedari) mein madad na kare.
+
+Ek baar jab Craft phase khatam hone ke kareeb (nearing an end) ho, tab hum fixed deadlines ke roop mein sochna shuru kar sakte hain.
+
+Crafting apne andar ek virodhbhas (paradox) samete hue hai. Apna best kaam create karne ke liye, hum patient (sabar rakhne wale) hote hain aur process mein jaldbaazi karne se bachte hain, jabki theek usi samay hum bina kisi deri ke tezi se kaam karte hain.
+
+Is phase mein bahut zyada lamba tikne se, kai saari mushkilein ya gart (pitfalls) khade ho sakte hain. Ek hai disconnection (rishta toot jana). Agar ek artist ek khoobsurat kaam create kar raha hai, aur zaroorat se pare bina ruke endlessly use craft karta rehta hai, toh kabhi-kabhi woh achanak sab kuch bilkul shuru se dobara shuru karna chahta hai. Yeh isliye ho sakta hai kyunki woh khud badal chuke hain ya phir samay badal gaya hai.
+
+Art creation ke us dauran (period) artist ki andaruni aur baahari duniya ka ek reflection (parchhai) hoti hai. Us samay (period) ko badhana artist ki wajood ki sthiti (state of being) ko capture karne ki ability ko mushkil (complicate) bana deta hai. Parinaam yeh ho sakta hai ki waqt ke sath kaam ke prati connection aur utsaah (enthusiasm) khone lagta hai.
+
+Ek aur chunauti ko hum "demo-itis" keh sakte hain. Demo-itis tab hota hai jab artist apne pehle draft (first draft) se bahut zyada tightly, aur bahut lambe samay tak chipka (clung) rehta hai.
+
+Adhoore project (unfinished project) ke sath bahut lambe samay tak rehne ka khatra (danger) yeh hai ki ek artist jitni baar kisi kaam ke ek khaas draft ke samne aata hai, woh roop (form) unke dimaag mein utna hi zyada final banta jata hai. Ek musician kisi song ka demo bahut jaldi record kar sakta hai. Woh use hazaron baar sun sakte hain aur use uski poori sambhavnaon tak develop karne ki kalpana kar sakte hain. Phir bhi jab sach mein song ka sabse behtareen version banane ka samay aata hai, toh woh demo unke dimaag mein is qadar baith chuka (ingrained) hota hai ki usme koi bhi badlav karna paap ya eesh-ninda (blasphemous) jaisa lagta hai. Jab hum kaam ke kisi samay se pehle ke version (premature version) se bahut zyada attached ho jaate hain, toh hum project ke potential ke sath na-insaafi (disservice) karte hain.
+
+Demo-itis se bachne ke liye, ek simple technique hai. Jab tak aap actively kisi cheez ko behtar banane ke liye kaam na kar rahe hon, tab tak use sunne, use padhne, use play karne, use dekhne, ya doston ko dikhane se bachein. Crafting karte waqt jitna ho sake aage tak kaam karein aur phir door hat jayein, us adhoore kaam ko baar-baar consume (use dekhna/sunna) kiye bina. Chal rahe kaam (work-in-progress) ko standard version ke roop mein swikar na karke, hum growth, change aur development ke jaari rehne ke liye jagah chhodte hain.
+
+Yeh baat dhyan mein rakhein ki koi mahan cheez bahut tezi se banna bhi possible hai. Ek artist kisi project ke idea ko sketch karne mein paanch minute bita sakta hai, aur uske baare mein bahut kam soch sakta hai. Woh kisi mahan cheez ke seed ko mahsoos kar sakte hain, aur phir use kuch aur bada banane ke liye ghanton ya saalon tak develop karne ki koshish mein bita sakte hain. Lekin yeh possible hai ki woh shuruati sketch ya demo, jo mahaj paanch minute mein paida hua tha, asal mein sabse behtareen version tha, us seed ki sabse shuddh abhivyakti (purest expression). Hum shaayad tab tak yeh realize na karein jagah tak hum ise aur saja na dein (embellish na karein) ya kuch samay ke liye isse door na hat jayein.
+
+Ek aur rukawat (impediment) jiska samna kuch log karte hain woh yeh hai ki kaam ke liye unka vision use prakat karne (manifest karne) ki unki ability se bada hota hai. Woh drumline ko sun sakte hain, lekin rhythm unke play karne ki ability se zyada complex (jatil) hoti hai. Woh dance ko picture (tasveer) kar sakte hain, lekin unki body un moves ko kaafi khoobsurati ya grace ke sath perform nahi kar paati. Aisa lag sakta hai jaise agla step ek asambhav chalaang (impossible leap) hai.
+
+In moments mein, niraash feel karna (discouraged hona) aasan hai. Hum apne dimaag mein chal rahe kaam ke us kaalpnik version (fantasy version) ko galat samajh baithte hain ki asli kaam ke kya banne ki possibility hai. Aise samay sach mein ho sakte hain jab kisi piece ki hamari mansik dharana (mental conception) lagbhag seedhe taur par physical realm (waastavik duniya) mein badal jaati hai. Doosri baar, yeh ek gair-waastavik aur aadarshwadi version (unrealistic idealized version) hota hai. Aur kabhi-kabhi, kaam ke liye hamara vision ek aisa goal hota hai jiski taraf kaam karna hota hai, aur is process mein hum yeh seekhte hain ki hum ek nayi aur anjaan manzil (unexpected destination) par pahonch jayenge.
+
+Bade visions se thoda peeche reh jana (Falling short) asal mein kaam ko bilkul wahi rakh sakta hai jahan use hona chahiye. Apni kalpana ke scale (daayre) ko apne project ke ek zyada practical version ko execute karne ke raaste mein mat aane edin. Hum shaayad yeh realize karne lagein ki yeh version shuruati, asambhav lagne wale vision se kahin behtar hai.
+
+Jab aap Craft phase mein ek bahaav ya raftar mein hon (on a roll hon), toh ek poore first draft ki taraf kaam karein. Us momentum (raftar) ko banaye rakhein. Agar aap kaam ke kisi aise section par pahonchte hain jo aapko pareshani deta hai, toh is blockage ko khud ko rokne edin ke bajaye, iske aas-paas se nikal kar kaam karein (work around it). Halanki aapki andaruni prerna (instinct) ek ke baad ek krambaddh (sequentially) create karne ki ho sakti hai, lekin us section ko bypass kar edin jahan aap atke hain, doosre parts ko complete karein, aur phir ispar wapas aayein.
+
+Kabhi-kabhi in mushkil hisson ke solutions khud-ba-khud tab zahir ho jayenge jab poora context (overall context) samne aa jayega. Ek bridge (pul) banana tab zyada aasan hota hai jab yeh saaf ho ki uske dono taraf kya hai.
+
+Ek aur fayda yeh hai ki agar aap beech ke kisi section mein atke hain, toh yeh jaanna bojh lag sakta hai (overwhelming feel ho sakta hai) ki aap kaam ke abhi aadhe raaste par hi hain. Agar aap baaki ka draft complete kar lete hain aur us portion par wapas aate hain jise aapne skip kiya tha, toh jab project ka sirf 5 ya 10 percent hi complete hona bacha hota hai, toh yeh zyada aasaani se haasil karne layak (easily achievable) lagta hai. Saamne anth (end) dikhte hue, khatam karne ke liye motivated feel karna zyada aasan hota hai.
+
+Agar aap apne haath mein puzzle ka ek beech ka piece pakde hain aur ek khali tabletop (mez) ko ghoor rahe hain, toh yeh tay karna mushkil hota hai ki use kahan rakhna hai. Agar us ek piece ko chhodkar poora puzzle complete hai, toh aap exact jaante hain ki woh kahan jayega. Aisa hi aamtaur par art ke sath bhi sach hota hai. Aap kaam ko jitna zyada dekh sakte hain, final details ko khoobsurati se aur saaf taur par wahi rakhna utna hi aasan ho jata hai jahan unka sthaan hai.
+
+Art kisi kaam ko kushalata ke sath (skillfully) karne ka chunav hai,
+
+details ki parwah karna hai,
+
+apne poore wajood ko lagana hai
+
+taaki aap aisa sabse behtareen kaam bana sakein jo aap kar sakte hain.
+
+Yeh ego (ahamkar), ghamand (vanity), khud ki tareef (self-glorification),
+
+aur manzoori ki zaroorat (need for approval) se pare hai.
