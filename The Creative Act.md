@@ -2330,3 +2330,69 @@ Yeh ek symbiotic loop (sahajivi chakra) hai. Culture batata hai ki aap kaun hain
 Anjaan (unknown) ki taraf yeh lagatar badhna kabhi exist nahi karta agar ek hi samay par lakhon alag-alag (divergent) points of view ka aapas mein adaan-pradaan (sharing) na chal raha hota.
 
 Duniya mein khud ko express karna aur creativity dono ek hi hain. Kisi na kisi tarah express kiye bina shaayad yeh jaan-na possible hi nahi hai ki aap kaun hain.
+
+---
+
+# Chapter 34: Breaking the Sameness
+
+Craft phase ke dauran aise samay aate hain jab aap ek deewar se takra jaate hain (hit a wall) aur kaam usse behtar nahi ho raha hota hai. Us piece se door hatne se pehle, ek aisa tareeqa dhoondhna qeemti hai jisse is ek-jaisepann (sameness) ko toda ja sake aur kaam mein aapki excitement ko phir se naya kiya ja sake, jaise ki aap iske sath pehli baar jud (engage kar) rahe hon.
+
+Recording studio mein, main kabhi-kabhi is maqsad ko dhyan mein rakhkar artists ko exercises suggest karta hoon. Hum bina kisi parinaam (outcome) ke expectation ke unhe attempt karte hain. Intention (irada) sirf excitement ko phir se jagana (rekindle karna) aur performance ke naye tareeqon tak pahonchne (access karne) ki permission dena hai.
+
+Inmein se kai exercises aage di gayi hain. Chahe aap khud ko kisi blockage (impasse) par paayein ya nahi, shayad yeh aapke chune hue field mein isi tarah ke experiments ko inspire kar sakti hain.
+
+### Small Steps (Chhote Kadam)
+
+Ek blocked musician ke liye bahaav ya movement create karne ke liye, humne use ek chhota task diya: har din sirf ek line likhna. Is baat se koi farq nahi padta tha ki use us line ke baare mein kitna achha ya kharab feel ho raha hai, jab tak ki woh use likhne ke prati committed tha. Agar usse zyada nikal kar aata, toh woh fine tha par zaroori nahi tha. Jo cheez asambhav (insurmountable) lagti thi use single lines mein todkar, woh creative channel ko dobara kholne mein kaabil raha aur aakhirkar usne phir se poore songs compose karna shuru kar diya. Yeh umeed se kahin zyada tezi se hua.
+
+### Change the Environment (Mahaul ko Badlein)
+
+Agar hum ek alag nature ki performance dhoondh rahe hain, toh environment ke kisi ek element ko badalna madad kar sakta hai. Lights band kar dena aur andhere mein play karna consciousness (chetna) mein ek badlav (shift) create kar sakta hai aur ek performance se doosri performance ke beech chalne wali sameness (ek-jaisepann) ki chain ko tod sakta hai. Doosre shifts jinke sath humne experiment kiya hai, unmein shamil hai ek singer ka microphone ko apne haath mein pakadna bajaye iske ki woh uske samne khada ho, aur raat ke bajaye subah jaldi record karna. Zyada badlav (variation) haasil karne ke liye, ek vocalist ne gaate waqt ulta latakne (hang upside down) ka chunav kiya.
+
+### Change the Stakes (Daao ko Badlein)
+
+Baahari environment ko badalna ke alawa, aap andaruni mahaul ko bhi badal sakte hain. Agar koi band yeh imagine karta hai ki yeh aakhri baar hai jab woh kisi particular song ko play karenge, toh zyadatar umeed hai ki woh ise uske mukable alag tareeqe se perform karenge jab yeh sirf ek aur take hota hai. Doosri baar kam daao (lower stakes), jaise ki recording se pehle ek rehearsal karna, sabse behtareen performance baahar la sakta hai.
+
+### Invite an Audience (Audience ko Invite Karein)
+
+Jab koi artist bheed (crowd) ke samne hone par phalta-phoolta (thrive karta) hai, toh hum ek session dekhne ke liye kai logon ko andar la sakte hain. Kisi ke dwara dekhe jaane par (Being observed) artist ke karne ka tareeqa badal jata hai. Bhale hi audience mein sirf ek hi insaan shamil ho jo project ka hissa nahi hai, woh bhi kaafi ho sakta hai. Jabki kuch artists audience ke liye performance ko zaroorat se zyada kar sakte hain (overdo kar sakte hain) aur doosre khud ko rok sakte hain, zyadatar log kisi aur ki maujoodgi mein zyada focused hote hain. Bhale hi aapki art non-performative ho, jaise ki writing ya cooking, phir bhi ek observer ki maujoodgi mein iske badalne ki poori sambhavna hai. Maqsad har ek maamle mein un specific parameters ko dhoondhna hai jo aapka best baahar la sakein.
+
+### Change the Context (Sandarbh ko Badlein)
+
+Aise samay aate hain jab ek singer kisi song ke sath connect nahi kar pata, bilkul ek actor ki tarah jiske line bolne ka tareeqa flat reh jata hai. Kisi song ke lyrics ke liye ek naya meaning ya ek additional backstory create karna helpful ho sakta hai. Ek love song alag sound kar sakta hai agar use kisi bahut pehle khoye hue soulmate (long-lost soulmate), tees saal ke aise partner jiske sath aapki banti nahi hai, kisi aise insaan jise aapne street par dekha par kabhi baat nahi ki, ya apni mother ke liye gaya jaye.
+
+Ek artist ke sath, maine ek woman ke liye likhe gaye love song ko iske bajaye God ke prati ek bhakti-bhaav (devotional) ke roop mein gaane ka suggestion diya. Hum ek hi song ko gaate waqt, lyrics mein bina koi badlav kiye, kai alag-alag badlavon (permutations) ko try kar sakte hain, yeh dekhne ke liye ki kaun sa version sabse behtareen performance baahar lata hai.
+
+### Alter the Perspective (Nazariye ko Badlein)
+
+Ek technique jiska use hum kabhi-kabhi studio mein karte hain, woh hai headphones par volume ko behadd tez (extremely loud) kar dena. Jab har ek sound aapke kaano mein dhamaka karti hai, toh balance ko wapas laane ke liye natural roop se bahut dheeme play karne ki aadat (tendency) hoti hai. Yeh ek zabardasti laya gaya perspective change (forced perspective change) hai, aur yeh ek behadd naazuk aur baareek (delicate) performance baahar la sakta hai. Yahan tak ki vocals ko phusphusakar (whisper karke) gaya jayega, kyunki usse zyada kuch bhi overwhelming (bojh) hoga. Iske ulat, kisi ko aur tez aur zyada energy ke sath gaane ke liye raazi karne (coax karne) ke liye, main unse unke headphones mein vocal volume ko kam karne ke liye keh sakta hoon taaki unki aawaz music ke shor mein doob (drowned out ho) jaye. Situation jo bhi ho, agar kisi task ko poora karna challenging hai, toh aksar aas-paas ke mahaaul ko is tarah design karne ka ek tareeqa hota hai jo natural roop se us performance ko badhava de jiske liye aap koshish kar rahe hain.
+
+Ek concert mein, lighting ko is tarah set up karna ki performer ya toh crowd aur usmein maujood faces ko dekh sake ya kisi ko bhi na dekh sake, performance ko badal dega. Agar koi performer in-ear monitors ka use karta hai aur unhe sirf wahi music sunai deta hai jo woh play kar rahe hain na ki audience ka response, toh yeh uske mukable bahut alag hoga jismein crowd ki chillaahat ko sath mein mix kiya gaya ho. Alag-alag scenarios ke sath experiment karna qeemti hai yeh observe karne ke liye ki woh kya baahar laate hain aur us performance ko dhoondhne ke liye jo aap chahte hain.
+
+### Write for Someone Else (Kisi Aur Ke Liye Likhein)
+
+Ek aise musician ke maamle mein jo aamtaur par apna khud ka material likhta hai, main suggest kahoonga, "Imagine karein ki aapke kisi favorite artist ne aapse unke agle album ke liye ek song likhne ke liye kaha hai. What would that song sound like (Woh song kaisa sound karega)?"
+
+Kuch aisa create karke jise aap apne favorite artist dwara perform karte hue sunne ke liye excited hon, yeh process ko vyaktigat hone se rokta hai (depersonalize karta hai) aur writer ko khud se aazad hone (break free of themself) ki permission de sakta hai. Female empowerment ka ek utkrisht (quintessential) song, “(You Make Me Feel Like) A Natural Woman” Carole King aur Gerry Goffin dwara likha gaya tha. King ne—aur phir, bilkul, Aretha Franklin ne—ise gaya. Main yeh jaan kar hairaan tha ki Goffin ne lyrics likhe the aur King ne music.
+
+Kabhi-kabhi, main musician se ek aise artist ko select karne ke liye kahoonga jiske lyrics aur point of view unke apne se bahut alag hon, taaki us sameness se bacha ja sake jise waqt ke sath ek career mein dekha ja sakta hai. Agar koi artist aamtaur par shekhi ya ghamand (braggadocio) se bhara hota hai, toh hum ek zyada vulnerable (naazuk), soft-spoken lyricist ko chun sakte hain. Agar aap style x mein likhne ki aadat rakhte hain, toh ek aise artist ko chun-na interesting ho sakta hai jo x ka bilkul viparrit (polar opposite) ho. Iska matlab yeh nahi hai ki song achha hi hoga. Yeh dekhna bas interesting hai ki yeh kahan le jata hai. Aur kabhi-kabhi yeh aapko bilkul wahi le jata hai jahan aap ja rahe hain.
+
+Baaki doosri exercises ki tarah, ise kisi bhi craft par laagu kiya ja sakta hai. Agar aap ek painter hain, toh apne favorite artist ke roop mein ek original naya kaam create karna ek channel khol sakta hai aur interesting results ki taraf le ja sakta hai. Kai artists ke paas ek aasi dharana (perceived idea) hoti hai ki unke kshetr ya daayre (wheelhouse) mein kya hai, aur yeh aakhirkar ek seema (limitation) hai. Isliye khud se baahar nikal kar kisi aur ke wheelhouse mein qadam rakhna helpful hota hai.
+
+### Add Imagery (Chhaviyon ya Drishyon ko Jodein)
+
+Main ek album par kaam kar raha tha aur band keyboard solo ke sath struggle kar raha tha. Mood sahi nahi tha. Hum kuch zyada grand (bhavya) chahte the. Isliye ek musical reference ke bajaye, humne ek scene create kiya. Hum ek battle ke baad ke asar (aftermath of a battle) ka ek description lekar aaye: "Imagine karein ki ek khoobsurat hara-bhara pahad (green hill) hai jo trees aur flora se dhaka hua hai, bilkul breathtaking, aur ek battle abhi-abhi khatam hui hai. Pahad se dhuan uth raha hai aur un ghayal sainikon (wounded soldiers) ko zahir kar raha hai jo ispar yahan-wahan bikhre hain, aur madad ke pahonchne ka wait kar rahe hain." Humne scene ko bahut saaf aur jeevant (vividly) paint kiya, phir kaha, "Solo ko is tarah play karo," aur record daba diya. Keyboardist ne behadd khoobsurati se play karna shuru kar diya.
+
+Tabse, yeh ek aisi technique rahi hai jiska use humne jaari rakha hai. Aksar, hum yeh bhi nahi jaante ki image aur us cheez ke beech kya connections hain jise hum sunna chahte hain. Kisi specific image ya story ke baare mein sochna, ya yeh imagine karna ki aap kisi film ke liye score tayaar kar rahe hain aur phir play karna shuru karna, aksar ek bhatakti hui dhun (meandering tune) ko ek mazboot direction de deta hai.
+
+### Limit the Information (Information ko Limit Karein)
+
+Jab koi songwriter studio mein record karne ke liye kisi band ko track ka ek demo bhejta hai, toh main nahi chahta ki musicians kisi bhi tareeqe se un musical choices se prabhavit (inform) hon jo demo ke liye li gayi thin. Isliye main aamtaur par ek musician ko, zyadatar ek guitar player ko, ise sunne aur chords seekhne ke liye kehta hoon, unhe lyric sheet par note karne ke liye kehta hoon, aur use band ko de deta hoon.
+
+Guitar player aur singer phir ise perform kar sakte hain, bina kisi rhythm ke suggestion ke sivaye us speed ke jo unke play karne ke tareeqe se zahir (implied) hoti hai.
+
+Jab aap mahan musicians ke sath kaam kar rahe hote hain, toh yeh unhe khud ka aur zyada hissa andar lane ke liye free chhod deta hai. Demo ka ek achha version record karne ke bajaye, woh song ko kisi nayi aur aksar anjaan (unexpected) jagah le jaane ke liye apni creativity aur decision-making abilities ke poore daayre (full range) ka use karenge. Agar alag-alag approaches try karne ke baad results achhe nahi hote, toh woh hamesha us point par demo ko sun sakte hain, halanki aisa shaayad hi kabhi hota hai.
+
+Aam niyam (general principle) surakshit (protective) rehna hai aur jin logon ke sath aap kaam kra rahe hain unhe aisi cheezon ko experience karne se rokna (limit karna) hai jo unke creative process mein bhatkao (interfere) paida kar sakti hain. Information ko sabse buniyaadi aur kam se kam sketches (barest of sketches) tak limit karein. Agar aap chahte hain ki creators kisi cheez mein apna poora wajood lekar aayein, toh unhe create karne ki sabse zyada aazadi (freedom) dein. Agar aap kisi screenwriter ko ek book, ek outline, ya ek sentence de rahe hain script mein badalnes ke liye, toh har ek ek bahut hi alag screenplay ki taraf le jayega.
+
+Yeh exercises patthar ki lakeer (set in stone) nahi hain. Intention (irada) alag perspectives ya conditions sthapit karna hai, aur dekhna hai ki aap ya aapke collaborators kahan pahonchte hain. In experiments ke apne khud ke versions create karne par vichar karein. Ya agar in specific waalon ka use kar rahe hain, toh kaam karte waqt parameters ko badalnes ke liye free feel karein ya sahi samay aane par unhe poori tarah hata dein. Asli exercises ka bahut kam mahatva (little importance) hai. Maqsad ek aisa structure set up karna hai jisse aap apne aam tareeqe (usual method) se pare ja sakein aur a आगे badhne ke naye raaste dhoondh sakein.
