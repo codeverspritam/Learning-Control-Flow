@@ -2488,3 +2488,35 @@ Yeh final phase seeds ki ek nayi fasal (crop of seeds) bone ke liye ek upjau sam
 Kya agle project ke liye samay isliye aaya hai kyunki clock ya calendar kehta hai ki samay ho gaya hai,
 
 ya isliye kyunki khud kaam kehta hai ki samay ho gaya hai?
+
+---
+
+# Chapter 36: The Abundant Mindset
+
+Material ki ek nadi (river) hamare zariya behti hai. Jab hum apne kaamon aur apne ideas ko share karte hain, toh woh phir se bhar jaate hain (replenish ho jaate hain). Agar hum un sabko apne andar pakad kar rakhne ke zariya is bahaav (flow) ko rokte hain, toh nadi beh nahi sakti aur naye ideas bahut dheeme samne aate hain.
+
+Abundant mindset (samridh ya bharpoor dimaag) mein, nadi kabhi sookhti nahi hai. Ideas hamesha baahar aate rehte hain. Aur ek artist is vishwas (faith) ke sath unhe release karne ke liye aazad hota hai ki aur naye ideas aa jayenge.
+
+Agar hum kami ke nazariye (mindset of scarcity) mein jeete hain, toh hum mahan ideas ko chhipakar ik इकट्ठा (hoard) karne lagte hain. Ek comedian ke samne apne likhe hue kisi pasandida naye joke ko sunane ka ek perfect mauqa aa sakta hai, lekin iske bajaye woh use kisi zyada high-profile occasion ke intezar mein rok kar (hold back karke) rakhega. Jab hum apne material ka use karte hain, toh naya content baahar nikal kar aata hai. Aur hum jitna zyada share karte hain, hamari skills utni hi zyada improve hoti hain.
+
+Scarcity (kami) mein jeene ka chunav stagnation (thehraav ya jamm jaane) ki taraf le jata hai. Agar hum hamesha ke liye sirf ek hi project par kaam karte rahenge, toh hum kabhi doosra nahi bana paayenge. Sookhe ka darr (fear of drought) aur perfectionism ka lalach humein aage badhne se rokta hai aur nadi ke bahaav (river's flow) ko block kar deta hai.
+
+Har ek mindset ek universal rule (saarvabhaumik niyam) ko jagata hai: hum jis cheez par bhi concentrate karte hain, humein wahi milti hai.
+
+Agar mind ek aasi duniya create karta hai jo limited (seemit) hai, jahan hum sochte hain ki hamare paas kaafi keemti (worthwhile) ideas ya material nahi hain, toh hum us inspiration ko nahi dekh paayenge jo universe humein provide kar raha hai.
+
+Aur nadi dheemi ho jaati hai.
+
+Abundant world (bharpoor duniya) mein, hamare paas apne kaam ko complete aur release karne ki ek badi capacity hoti hai. Jab itne saare ideas available hon aur banane ke liye itni mahan art ho, toh hum engage karne, use jaane dene (let go karne), aur aage badhne par majboor ho jaate hain.
+
+Agar karne ke liye sirf ek hi kaam ho, aur hamara irada (intent) uske poora hone par retire hone ka ho, toh use khatam karne ki koi prerna (impetus) nahi hoti. Agar har ek piece ko hamari life ke sabse bade kaam (life's defining work) ke roop mein approach kiya jaye, toh hum unrealistic ideal of perfection (perfection ke gair-waastavik aadarsh) ka maqsad rakh kar endlessly (bina ruke) use revise aur overwrite karte rehte hain.
+
+Ek musician is darr se album ko release karne mein deri (delay) kar sakta hai ki woh songs ko utna aage nahi le gaya jitna woh ja sakte hain. Phir bhi ek album samay ke ek pal (moment of time) ki mahaj ek diary entry hai, is baat ka ek snapshot reflection (jhalak) ki us period (dauran) mein artist kaun hai. Aur koi bhi ek akeli diary entry hamari life story nahi hoti.
+
+Hamari zindagi ka kaam (life's work) kisi bhi individual container (akeli cheez ya bartan) se kahin bada hai. Hum jo kaam karte hain woh zyada se zyada chapters hain. Hamesha ek naya chapter aayega, aur uske baad ek aur. Bhale hi kuch chapters doosron se behtar hon, woh hamari chinta nahi hai. Hamara objective (maqsad) ek chapter ko band karne aur agle par badhne ke liye free rehna hai, aur us process ko tab tak jaari rakhna hai jab tak yeh humein khush rakhta hai.
+
+Aapka purana kaam aapke naye kaam se behtar nahi hai. Aur aapka naya kaam purane se behtar nahi hai. Ek artist ki life mein hamesha utaar-chadhava (highs and lows) aayenge. Yeh maan lena ki ek sunhera daur (golden period) tha aur aap usse aage nikal chuke hain, sirf tabhi sach hai jab aap us aadhar (premise) ko swikar karte hain. Har ek pal mein, har ek chapter mein, apni sabse behtareen koshish (best effort) daalna hi woh sab kuch hai jise paane ki hum umeed kar sakte hain.
+
+Hamesha kuch aisa hota hai jise hum improve kar sakte hain ya ek aur version banaya ja sakta hai. Hum kisi cheez par aur do saal kaam kar sakte hain, aur woh alag (different) hoga. Lekin yeh jaan-ne ka koi tareeqa nahi hai ki woh behtar hoga ya kharab—bas alag hoga. Bilkul waise hi jaise aap honge. Aur aap shaayad us kaam se aage evolve ho chuke hon jiske upar aapne saalon tak mehnat (labor) ki thi. Aapka direct reflection (seedhi parchhai) ab dundhli pad chuki hai. Kaam ek mirror image (aaine ki tasveer) ke bajaye ek purani photo ki tarah dikhne lagta hai. Ek aase kaam ko complete karna aur share karna dil todne wala (dispiriting) hota hai jiske sath aap apna connection kho chuke hain.
+
+Abundance (bharpoorata) ki yeh pehchan humein is umeed se bhar deti hai ki hamare sabse chamakdar ideas (brightest ideas) abhi bhi hamara intezar kar rahe hain aur hamara sabse mahan kaam (greatest work) abhi aana baaki hai. Hum creative momentum (shrijnatmak raftar) ki ek urjavaan sthiti (energized state) mein jeene ke kaabil hote hain, cheezon ko banane, unhe jaane dene (let them go karne), agli cheez banane, aur use jaane dene ke liye poori tarah free hote hain. Har ek chapter jo hum banate hain, uske sath hum experience haasil karte hain, apne craft mein improve hote hain, aur khud ke aur paas (inch closer to who we are) pahonchte jaate hain.
