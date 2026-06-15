@@ -2520,3 +2520,23 @@ Aapka purana kaam aapke naye kaam se behtar nahi hai. Aur aapka naya kaam purane
 Hamesha kuch aisa hota hai jise hum improve kar sakte hain ya ek aur version banaya ja sakta hai. Hum kisi cheez par aur do saal kaam kar sakte hain, aur woh alag (different) hoga. Lekin yeh jaan-ne ka koi tareeqa nahi hai ki woh behtar hoga ya kharab—bas alag hoga. Bilkul waise hi jaise aap honge. Aur aap shaayad us kaam se aage evolve ho chuke hon jiske upar aapne saalon tak mehnat (labor) ki thi. Aapka direct reflection (seedhi parchhai) ab dundhli pad chuki hai. Kaam ek mirror image (aaine ki tasveer) ke bajaye ek purani photo ki tarah dikhne lagta hai. Ek aase kaam ko complete karna aur share karna dil todne wala (dispiriting) hota hai jiske sath aap apna connection kho chuke hain.
 
 Abundance (bharpoorata) ki yeh pehchan humein is umeed se bhar deti hai ki hamare sabse chamakdar ideas (brightest ideas) abhi bhi hamara intezar kar rahe hain aur hamara sabse mahan kaam (greatest work) abhi aana baaki hai. Hum creative momentum (shrijnatmak raftar) ki ek urjavaan sthiti (energized state) mein jeene ke kaabil hote hain, cheezon ko banane, unhe jaane dene (let them go karne), agli cheez banane, aur use jaane dene ke liye poori tarah free hote hain. Har ek chapter jo hum banate hain, uske sath hum experience haasil karte hain, apne craft mein improve hote hain, aur khud ke aur paas (inch closer to who we are) pahonchte jaate hain.
+
+---
+
+# Chapter 37: The Experimenter and the Finisher 
+
+Apni nature (prakriti) mein, kai artists do categories mein se kisi ek ki taraf jhukte hain: Experimenters ya Finishers.
+
+Experimenters sapne dekhne (dreaming) aur khelne (play) ki taraf zyada jhukte hain, aur unhe apne kaam ko complete aur release karna zyada mushkil lagta hai.
+
+Finishers iska bilkul mirror image (aaina) hain, ek ulta reflection (backward reflection). Woh turant saaf samajh (immediate clarity) ke sath tezi se anth bindu (end point) ki taraf badhte hain. Woh un sambhavnaon (possibilities) aur vikalpon (alternatives) ko explore karne mein kam interest rakh te hain jo Experimentation aur Craft phases suggest kar sakte hain.
+
+Dono ke liye hi ek doosre se kuch udhaar lena (seekhna) helpful ho sakta hai.
+
+Finishers ko shuruati phases (early phases) mein zyada samay lene se fayda ho sakta hai. Minimum requirement (kam se kam zaroorat) se pare likhna, doosre materials, vicharon (considerations), aur perspectives (nazariyon) ke sath experiment karna. Process mein bina taiyari ke badlav (improvisation) aur surprise ke liye khud ko space dena.
+
+Experimenters ko kaam ke kisi ek aspect (pahloo) ko completion (poornata) tak le jaane se fayda ho sakta hai. Yeh koi drawing, ek song, ya kisi book ka chapter ho sakta hai. Yahan tak ki ek buniyaadi faisla (foundational decision) lena bhi madad kar sakta hai jahan se aage nirmaan (build) kiya ja sake.
+
+Ek album ka example lein. Agar aap ek musician hain jo das (ten) songs ke sath struggle kar rahe hain, toh apna focus chhota karke sirf do (two) par le aayein. Jab hum task ko zyada manageable aur focused banate hain, toh ek badlav  aata hai. Aur ek chhota hissa (segment) bhi complete karna confidence ko badhata (build karta) hai.
+
+Do se teen  par jaana zero se do par jaane se zyada aasan hai. Aur agar aap achanak teen par atak jaate hain, toh use skip kar dein aur chaar (four) aur paanch (five) ko poora kar lein. Bina atke (without getting hung up) project ke jitne ho sake utne elements complete karein. Ek baar jab workload kam ho jata hai, toh wapas mudkar aana (circle back karna) bahut aasan hota hai. Aksar doosre pieces ko khatam karne se jo gyaan (knowledge) hum haasil karte hain, woh pehle ki rukawatton (obstacles) ko paar karne ki chaabi (key) ban jata hai.
