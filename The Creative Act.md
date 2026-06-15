@@ -2396,3 +2396,95 @@ Jab aap mahan musicians ke sath kaam kar rahe hote hain, toh yeh unhe khud ka au
 Aam niyam (general principle) surakshit (protective) rehna hai aur jin logon ke sath aap kaam kra rahe hain unhe aisi cheezon ko experience karne se rokna (limit karna) hai jo unke creative process mein bhatkao (interfere) paida kar sakti hain. Information ko sabse buniyaadi aur kam se kam sketches (barest of sketches) tak limit karein. Agar aap chahte hain ki creators kisi cheez mein apna poora wajood lekar aayein, toh unhe create karne ki sabse zyada aazadi (freedom) dein. Agar aap kisi screenwriter ko ek book, ek outline, ya ek sentence de rahe hain script mein badalnes ke liye, toh har ek ek bahut hi alag screenplay ki taraf le jayega.
 
 Yeh exercises patthar ki lakeer (set in stone) nahi hain. Intention (irada) alag perspectives ya conditions sthapit karna hai, aur dekhna hai ki aap ya aapke collaborators kahan pahonchte hain. In experiments ke apne khud ke versions create karne par vichar karein. Ya agar in specific waalon ka use kar rahe hain, toh kaam karte waqt parameters ko badalnes ke liye free feel karein ya sahi samay aane par unhe poori tarah hata dein. Asli exercises ka bahut kam mahatva (little importance) hai. Maqsad ek aisa structure set up karna hai jisse aap apne aam tareeqe (usual method) se pare ja sakein aur a आगे badhne ke naye raaste dhoondh sakein.
+
+---
+
+# Chapter 35: Completion 
+
+Jaise-jaise Craft phase ke zariya kaam behtar hota jata hai, aap ek aise point par pahonch jayenge jahan aapke paas maujood saare options ko kaafi hadd tak (sufficiently) explore kiya ja chuka hoga.
+
+Seed ne apni poori abhivyakti (full expression) haasil kar li hai aur aapne apni santushti (satisfaction) ke mutabik iski katayi-chatayi (pruned) kar di hai. Ab add karne ya hataane (take away) ke liye kuch nahi bacha hai. Kaam ka asli tatva (work's essence) poori tarah saaf-saaf gunjta (rings clear) hai. In moments mein poornata ya santushti ka ek ahasas (sense of fulfillment) hota hai.
+
+Yahan se, hum creative process ke aakhri movement mein aage badhte hain.
+
+Completion phase mein, hum khoj (discovery) aur nirmaan (building) ko peeche chhod dete hain. Apne samne tayaar kiye gaye material ke ek khoobsurat hisse (volume) ke sath, final roop (final form) ko duniya mein release kiye jaane ke liye nikhara (refined) jata hai.
+
+Aakhri badlav (finishing touches) aur fine-tuning har ek project ke liye alag hote hain.
+
+Woh utne hi simple ho sakte hain jitna kisi painting par frame lagana, kisi film ka color correction karna, kisi song ke final mix ko thoda badalna (tweak karna), ya kisi manuscript ko dobara padhna yeh yakeen karne ke liye ki phrasing bilkul sahi hai.
+
+Creative act ke baaki doosre stages ki tarah hi, Completion phase koi aasi saaf lakeer nahi hai jise aap aage badhne ke safar mein paar karte hain. Apne kaam ko share karne ke liye tayaar karne ke process mein, aapko realize ho sakta hai ki abhi aur kaam kiya jana bacha hai. Kisi badlav (revision), kuch jodne (addition), kuch hatane (deletion), ya kisi aur change ki zaroorat pad sakti hai. Isliye aap wapas Craft ya Experiment par qadam peeche badhate hain, aur ek baar phir apna raasta aage banate hain.
+
+Hum Completion phase ko ek assembly line ke aakhri stop ke roop mein soch sakte hain. Finished piece ko check (examine) kiya jata hai taaki yeh pakka ho sake ki yeh aapke highest standards ko poora karta hai. Agar yeh unhe poora nahi karta, toh aap ise behtar banane ke liye wapas bhej dete hain. Ek baar jab yeh poora kar leta hai, aap ispar sign off karte hain, ise jaane dete hain, aur apni life ke kaam ka agla chapter shuru karte hain—chahe woh jo bhi ho.
+
+Ek baar jab aapko feel ho ki koi project completion ke kareeb hai, toh kaam ko doosre nazariyon (perspectives) ke liye kholna helpful ho sakta hai.
+
+Main maqsad (primary aim) koi notes ya opinions lena nahi hai. Yeh aapka kaam hai, aapka expression hai. Aap hi akele aasi audience hain jo matter karti hai. Intention yeh hai ki aap khud us kaam ko naye sire se (anew) experience karein.
+
+Jab kisi aur ke liye music play kiya jata hai, toh hum use alag tareeqe se sunte hain uske mukable jab hum use khud sunte hain. Yeh bilkul aisa hai jaise kisi ke kaano ka ek doosra joda (second set of ears) udhaar lena. Hum zaroori roop se kisi baahari perspective ki khoj nahi kar rahe hote hain. Hum apne khud ke nazariye ko aur bada karne (widening) mein zyada interest rakhte hain.
+
+Agar hum koi essay likhte hain aur use kisi friend ko dete hain, toh unka perspective sunne se pehle hi, kaam ke sath hamara rishta badal jata hai. Ise kisi mentor ko dein aur hamara perspective ek alag tareeqe se shift hota hai. Jab hum apna kaam doosron ke samne pesh karte hain, toh hum khud se sawaal-jawab (interrogate) karte hain. Hum wo sawaal poochhte hain jo humne kaam banate waqt khud se nahi poochhe the. Ise is limited capacity mein share karna hamare chhupe hue shakk aur sandehon (underlying doubts) ko roshni mein lekar aata hai.
+
+Agar koi feedback share karne ka chunav karta hai, toh us insaan ko samajhne ke liye listen karein, na ki kaam ko samajhne ke liye. Feedback dete waqt log art ke mukable apne baare mein aapko zyada batayenge. Hum mein se har koi ek anokhi duniya (unique world) dekhta hai.
+
+Kabhi-kabhi, koi comment dil ko chhoo jata hai (strike home karta hai). Yeh kisi aasi cheez ke sath resonate karega jo hum feel karte hain, chahe hamari awareness mein ho ya uske theek peeche, aur hum shaayad behtari ke liye thoda space (room for improvement) dhoondh sakein. Doosri baar, koi faisla ya judgment kisi dukhri rag par haath rakh dega (hit a nerve karega), aur hum khud ko kaam ka bachav karte hue ya vishwas khote hue paate hain.
+
+In moments mein, door hatna, reset karna, aur ek neutral mind (nishpaksh dimaag) ke sath wapas lautna helpful ho sakta hai. Aalochna (Criticism) humein apne kaam ke sath ek naye tareeqe se judne (engage karne) ki permission deti hai. Hum ya toh sehmat ho sakte hain ya phir apne original instincts par aur zyada mazbooti se tik sakte hain (double down kar sakte hain).
+
+Kabhi-kabhi koi chunauti humein kaam ke kisi aspect par focus karne aur yeh realize karne ki permission deti hai ki yeh pehle ke mukable kahin zyada important hai. Is process mein, hum kaam aur khud ke andar samajh ke zyada gehre kuvein (deeper wells of understanding) tak pahonchte hain.
+
+Jaise-jaise aap feedback collect karte hain, jo solutions offer kiye jaate hain ho sakta hai woh hamesha helpful na lagen. Unhe kharij (discard) karne se pehle, ek pal ke liye dekhein ki kya woh kisi aasi chhipi hui problem (underlying problem) ki taraf ishara kar rahe hain jise aapne notice nahi kiya tha.
+
+For example, agar kisi song ke bridge ko hatane ka koi suggestion hai, toh aap iska matlab yeh nikal sakte hain ki "bridge ko dobara dekhna qeemti hai." Aur phir poore piece ke context mein use dekhne mein lag sakte hain.
+
+Agar aapne sach mein ek innovative kaam create kiya hai, toh iski poori umeed hai ki yeh utne hi logon ko door karega (alienate karega) jitno ko yeh attract karta hai. Sabse behtareen art audience ko baant-ti (divide karti) hai. Agar har koi ise pasand karta hai, toh shaayad aap abhi tak kaafi door nahi gaye hain.
+
+Aakhir mein, aap akele hi hain jise isse pyar hona chahiye. Yeh kaam aapke liye hai.
+
+Kaam kab poora hota hai?
+
+Is answer ko dhoondhne ka koi formula ya method nahi hai. Yeh ek intuition (andaruni ahasas) hai: Kaam tab poora hota hai jab aapko feel ho ki yeh poora ho gaya hai.
+
+Halanki hum process ke shuruat mein deadlines se bachte hain, lekin Completion phase mein, ek due date samay ko focus mein lane aur kaam ko poora karne mein aapko support kar sakti hai.
+
+Art ghadi dekhkar (on the clock) nahi banayi jaati. Lekin yeh ghadi dekhkar khatam zaroor ki ja kanna hai.
+
+Kuch logon ko yeh phase process ka sabse mushkil hissa lagta hai. Woh ek ziddi bahaaduri (stubborn ferocity) ke sath ise jaane dene ka virodh (resist) karte hain. Is point tak, mitti (clay) abhi bhi naram hai. Sab kuch badal sakta hai. Ek baar fixed hone par, hum control kho dete hain. Sthayitva ka yeh darr (fear of permanence) art se pare bhi aam hai. Ise commitment phobia ke roop mein jaana jata hai.
+
+Jab aakhri chapter khatam hone wala hota hai, toh hum kaam ke completion ko talne (put off karne) ke liye bahaane banna shuru kar sakte hain.
+
+Yeh project mein achanak vishwas khone (loss of faith) jaisa ho sakta hai. Yeh tai karna ki yeh ab utna achha nahi raha. Hum aasi khaamiyan (flaws) dhoondhte hain jo sach mein exist hi nahi karti. Hum aasi changes karte hain jinka koi matlab nahi hota (inconsequential changes). Hum kisi behtar creative option ke door ke mrig-trishna (distant mirage) ko mahsoos karte hain jo abhi tak dhoondha hi nahi gaya hai. Aur agar hum bas kaam karte rahein, toh shayad yeh kisi din samne aa jayega.
+
+Jab aap believe karte hain ki aapke samne maujood kaam hi woh akela piece hai jo aapko hamesha ke liye define karega, toh ise jaane dena mushkil hota hai. Perfection ke liye hone wali lalsa overwhelming (bojh jaisi) hoti hai. Yeh bahut zyada hai. Hum freeze ho jaate hain, aur kabhi-kabhi khud ko yeh samjhane lagte hain ki poore kaam ko kharij kar dena (discard kar dena) hi aage badhne ka akela tareeqa hai.
+
+Duniya sirf unhi creators ki art ka anand le paati hai jinhone in rukawatton (hurdles) ko paar kiya hai aur apne kaam ko release kiya hai. Shayad un logon se bhi mahan artists exist karte hon jinhe hum jaante hain, lekin woh kabhi is chalaang (leap) ko lagane mein kaabil nahi rahe.
+
+Kisi kaam ko duniya mein release karna tab aasan ho jata hai jaise hum yeh yaad rakhte hain ki har ek piece kabhi bhi hamara poora reflection nahi ho sakta, balki sirf is baat ka reflection hota hai ki hum is pal (moment) mein kaun hain. Agar hum wait karte hain, toh yeh ab aaj ka reflection nahi rehta. Ek saal mein, humein ek aisa piece create karne ki prerna mil sakti hai jo iske jaisa bilkul na dikhta ho. Kaam ka apna ek sahi samay (timeliness) hota hai. Mausamon ka guzarna us value ko khatam (dissipate) kar sakta hai jo kaam hamare liye rakhta hai.
+
+Apne kaam ko pakde rakhna (Hanging on) bilkul aisa hai jaise ek hi diary mein saalon tak ek hi entry likhte rehna. Moments aur opportunities kho jaate hain. Agle kaamon se unhe zinda karne (brought to life) ka mauqa chheen liya jata hai (robbed ho jaate hain).
+
+Kitne saare pages khali chhoot jayenge kyunki aapka process shakk (doubt) aur zyada soch-vichaar (deliberation) ki wajah se dheema (dampened) pad gaya tha? Is sawaal ko apne dimaag ke bilkul samne rakhein. Yeh aapko aur zyada aazaadi se aage badhne ki permission de sakta hai.
+
+Ek aase environment mein jahan kuch bhi permanent nahi hai, hum sthir kalakritiyan (static artifacts) produce karte hain. Rooh ke yaadgar chihn (Mementos of spirit). Hum umeed karte hain ki woh hamesha zinda rahenge, har guzarne wale dashak (decade) ke sath apni goonj (resonance) banaye rakhenge. Kuch shaayad tikenge, bahut se nahi tikenge. Yeh jaan-na impossible hai. Hum sirf lagatar banate reh sakte hain.
+
+Jab aap aur kaam ek-sath line mein (in sync) hote hain, toh ek samay aata hai ise baahar nikalne ka aur aage badhne ka.
+
+Har ek naya project ek aur mauqa (opportunity) hai us cheez ko communicate karne ka jo aapke zariya baahar aa rahi hai. Yeh batting karne ka ek aur mauqa (chance at bat) hai. Connect karne ka ek aur mauqa hai. Aapki andaruni zindagi (inner life) ki diary mein bhara gaya ek aur page hai.
+
+Kisi kaam ko duniya mein release karne ke baare mein chintayein (concerns) zyada gehre darr aur bechaini (deeper anxieties) mein ho sakti hain. Yeh judge kiye jaane ka, galat samjhe jaane ka (misunderstood), ignore kiye jaane ka, ya na-pasand kiye jaane ka darr ho sakta hai. Kya aur ideas aayenge? Kya woh kabhi dobara itne achhe honge? Kya kisi ko parwah bhi hogi?
+
+Jaane dene (letting go) ke process ka ek hissa yeh hai ki aap is tarah ke saare thoughts ko aazad kar dein ki aapko ya aapke piece ko kaise receive kiya jayega. Art banate waqt, audience sabse aakhir mein aati hai. Jab tak kaam khatam na ho jaye aur hume isse pyar na ho jaye, tab tak humein is baat par vichar nahi karna chahiye ki ek piece ko kaise receive kiya jayega ya hamari release strategy kya hogi.
+
+Yeh kisi kaam ke perfect hone se alag hai. We can engage with any of the works we’ve been a part of and recognize things wrong with them. Maybe we didn’t in the moment we finished them, but when looking back we often do. Hamesha ke liye kiye jaane wale badlav bache rehte hain. Koi ek sahi version nahi hota. Art ka har ek piece mahaj ek badlav ya dharra (iteration) hai.
+
+Art banane ke sabse bade inaamon (rewards) mein se ek hai ise share karne ki hamari ability. Bhale hi ise receive karne ke liye koi audience na ho, hum kuch banane aur use duniya mein baahar nikalne ki muscle build karte hain. Apne kaam ko khatam karna develop karne ke liye ek achhi habit hai. Yeh confidence ko boost karta hai. Hamari insecurities ke baavjood, hum jitni zyada baar apne kaam ko release karne ke liye khud ko tayaar kar sakte hain, insecurity ka vajan utna hi kam hota jata hai.
+
+Overthinking se bachein. Jab aap kaam se khush hote hain aur aapka mann ise kisi friend ke sath share karne ka hota hai (you're moved), toh ho sakta hai ki ise duniya ke sath bhi share karne ka samay aa gaya ho.
+
+Yeh final phase seeds ki ek nayi fasal (crop of seeds) bone ke liye ek upjau samay (fertile time) hai. Agle aane wale kaam ki excitement us zaroori energy (vital energy) ko paida kar sakti hai jo maujuda kaam ko uske anth (close) tak lane ke liye chahiye. Jab naye ideas aapki taraf aane lagte hain, toh aapko samne maujood project (project at hand) par khud ko focused rakhne mein ek sangharsh (struggle) feel ho sakta hai. Yeh ek achhi problem hai. Aane wale project ki life force par savaar hona (Riding the life force) aksar humein maujuda piece ke sammohan (trance) se baahar nikalta hai. Hum khatam karne ka intezar nahi kar sakte, kyunki ek aur idea bulara raha hai jo humein andar se roshan kar deta hai (lights us up).
+
+---
+
+Kya agle project ke liye samay isliye aaya hai kyunki clock ya calendar kehta hai ki samay ho gaya hai,
+
+ya isliye kyunki khud kaam kehta hai ki samay ho gaya hai?
