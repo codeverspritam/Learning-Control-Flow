@@ -2733,3 +2733,85 @@ Hum hamesha ke liye un adbhut logon ke karzdar rahenge jinhone humein apni aaste
 Hum umeed karte hain ki in pyaare doston aur colleagues se seekhe gaye theories, skills, aur models ko share karke, hum aapko apni khud ki crucial conversations mein aage badhne (stepping up karne) mein zyada comfortable feel karne mein madad karenge. Aap available meaning ke pool mein add karne, behtar decisions lene, aur ek aase tareeqe se kaam karne mein kaabil honge jo kaam ko poora bhi karta hai aur aapke relationships ko badhata bhi hai.
 
 Isliye hum aapko encourage karte hain ki ek relationship chunein. Ek conversation chunein. Doosron ko batayein ki aap behtar karne ki koshish rahe hain, phir ise ek shot (try) dein. Jab aap ise kharab karein (blow it), toh ise admit karein. Perfection ki umeed mat karein; progress ka maqsad rakhein. Aur jab aap succeed hon, apni success ko celebrate karein. Hum umeed karte hain ki aap yeh jaan-ne mein anand lenge ki aap improve ho rahe hain aur aapke relationships bhi. Finally, jab mauqa mile, doosron ko bhi aisa karne mein madad karein. Friends, loved ones, aur coworkers ko unke khud ke high-stakes discussions ko master karna sikhane mein madad karein. Organizations ko mazboot banane, families ko solid karne, communities ko heal karne, aur nations ko shore up (sambhala dene) mein madad karein ek person—ek crucial conversation—ek samay par.
+
+---
+
+## Endnotes
+
+### CHAPTER 1
+
+1. Hermann Simon, *Hidden Champions: Lessons from 500 of the World's Best Unknown Companies* (Boston: Harvard Business School Press, 1996), 195.
+👉 Hermann Simon, *Hidden Champions: Lessons from 500 of the World's Best Unknown Companies* (Boston: Harvard Business School Press, 1996), 195.
+2. Clifford Notarius and Howard Markman, *We Can Work It Out: Making Sense of Marital Conflict* (New York: G.P. Putnam's Sons, 1993), 20-22, 37-38.
+👉 Clifford Notarius aur Howard Markman, *We Can Work It Out: Making Sense of Marital Conflict* (New York: G.P. Putnam's Sons, 1993), 20-22, 37-38.
+3. Allen Beck et al., *Survey of State Prison Inmates, 1991* (Washington, DC: U.S. Department of Justice, 1993), 3-5, 6, 11, 13, 16.
+👉 Allen Beck aur anya, *Survey of State Prison Inmates, 1991* (Washington, DC: U.S. Department of Justice, 1993), 3-5, 6, 11, 13, 16.
+4. Dean Ornish, *Love and Survival: The Healing Power of Intimacy* (New York: HarperCollins Publishers, 1998), 63.
+👉 Dean Ornish, *Love and Survival: The Healing Power of Intimacy* (New York: HarperCollins Publishers, 1998), 63.
+5. Ornish, *Love and Survival: The Healing Power of Intimacy*, 54-56.
+👉 Ornish, *Love and Survival: The Healing Power of Intimacy*, 54-56.
+
+### CHAPTER 2:
+
+1. Olivia Barker, "4 Studies Aim to Reduce, Resolve Medical Mistakes," *USA Today*, Dec. 8, 1999.
+👉 Olivia Barker, "4 Studies Aim to Reduce, Resolve Medical Mistakes," *USA Today*, Dec. 8, 1999.
+
+### CHAPTER 6
+
+1. The Arbinger Institute, *Leadership and Self-Deception: Getting out of the Box* (San Francisco: Berrett-Koehler, June 2000), 72-74.
+👉 The Arbinger Institute, *Leadership and Self-Deception: Getting out of the Box* (San Francisco: Berrett-Koehler, June 2000), 72-74.
+
+### CHAPTER 12
+
+1. Sydnor B. Penick, R. Filion, S. Ross Fox, Albert Stunkard, "Behavior Modification in the treatment of Obesity," *Psychosomatic Medicine* 33 (1971): 49-55.
+👉 Sydnor B. Penick, R. Filion, S. Ross Fox, Albert Stunkard, "Behavior Modification in the treatment of Obesity," *Psychosomatic Medicine* 33 (1971): 49-55.
+2. Elliot Aronson, *The Social Animal* (New York: W.H. Freeman & Co., 1984), 25.
+👉 Elliot Aronson, *The Social Animal* (New York: W.H. Freeman & Co., 1984), 25.
+3. Yuichi Shoda, Walter Mischel, and Philip K. Peake, "Predicting adolescent cognitive and self-regulatory competencies from preschool delay of gratification," *Developmental Psychology* 26 (1990): 978-86.
+👉 Yuichi Shoda, Walter Mischel, aur Philip K. Peake, "Predicting adolescent cognitive and self-regulatory competencies from preschool delay of gratification," *Developmental Psychology* 26 (1990): 978-86.
+
+---
+
+# About the Authors 
+
+**Kerry Patterson (kp@vitalsmarts.com)** ne Stanford University mein apne doctoral work (PhD ke kaam) ke dauran healthy organizations ko develop karne aur unhe maintain karne ki chunautiyon mein apni research shuru ki thi. Unhone Brigham Young University ke Graduate School of Management mein padhaya hai, aur do dashakon se zyada samay tak bade culture-change projects par ek consultant ke roop mein kaam kiya hai. Unke award-winning, video-based training programs ka use saon Fortune 500 companies dwara kamyabi ke sath kiya gaya hai. Unke kai clients mein Ford Motor Company, Allstate, aur Intermountain Health Care shamil hain.
+
+**Joseph Grenny (jg@vitalsmarts.com)** ne California Computer Corporation ko cofounded (sath milkar sthapit) kiya tha. Unhone Unitus ko bhi cofounded kiya, jo ek nonprofit organization hai jo third-world ke gareebon ko aarthik aatm-nirbharata (**economic self-reliance**) haasil karne mein madad karti hai. Unhone duniya bhar ke hazaaron corporate aur government leaders ko padhaya aur coach kiya hai. Pichle satrah (seventeen) saalon mein unhone IBM, AT&T, Lockheed Martin, California state, aur Columbia HealthCare samet numerous (kai) clients ke liye bade badlav ke initiatives (**change initiatives**) design aur implement kiye hain.
+
+**Ron McMillan (rm@vitalsmarts.com)** sociology aur organizational behavior mein advanced degrees rakhte hain. Unhone Covey Leadership Center ko cofounded kiya tha aur saat saal tak research aur development ke vice president the. Woh American Family Institute ke board of directors mein apni seva dete hain. Pachees (twenty-five) saalon se zyada samay tak, unhone kai tarah ke groups ke sath kaam kiya hai, jinmein unions aur first-level managers se lekar CEOs aur corporate executives shamil hain, team development, personal vitality (vyaktigat urja), aur leadership jaise topics par. Unke clients mein GM ki Saturn Division, Procter & Gamble, Disney, Aetna, Nike, aur Lennox shamil hain.
+
+**Al Switzler (as@vitalsmarts.com)** University of Michigan ke Executive Development Center ki faculty mein hain. Isse pehle, unhone Auburn University, University of Kentucky, aur Brigham Young University ke Graduate School of Management mein padhaya hai. Unhone do consulting firms ke president ke roop mein, ek information firm ke marketing vice president ke roop mein, aur ek health-care company ke liye training aur management development ke director ke roop mein kaam kiya hai. Unhone saon clients ke sath kaam kiya hai, jinmein Key Bank, Philips Electronics, U.S. Department of Energy, aur aGE Energy Corp. shamil hain.
+
+In authors ne VitalSmarts (1990) ko sthapit kiya, *The Balancing Act: Mastering the Competing Demands of Leadership* (1996) ko coauthored (sath milkar likha) kiya, aur kai tarah ke training programs ko sath milkar develop (codeveloped) kiya hai.
+
+---
+
+Yahan aapke diye gaye **About VitalSmarts** ke poore text ka ek-ek line ka aur exact paragraph-wise Hinglish translation hai, bina kisi line ya shabd ko chhode:
+
+---
+
+# About VitalSmarts — Full Line-by-Line Translation
+
+Pachees (twenty-five) saalon se, authors ne individuals, teams, aur organizations ki unke crucial conversations ko approach karne ke tareeqe ko improve karne mein madad ki hai. Unhone sau-on organizations mein union, corporate, aur government leaders ke sath-sath front-line employees ke sath bhi kaam kiya hai—jinmein Fortune 500 companies ki teen sau se zyada companies shamil hain. In experiences ne lagatar parinaamon (results) mein mahan, tez, aur maapne layak (measurable) improvement dikhaya hai.
+
+In experiences ke zariya authors ne kai tarah ke aazmaye hue resources (**proven resources**) develop kiye hain jo aapko aapke crucial conversations ko master karne mein madad kar sakte hain. Unmein shamil hain:
+
+* Skills ke video illustrations
+* Personal, team, aur organizational crucial conversation skills ka assessment (mulyankan)
+* Multimedia newsletter jo best practices, applications, aur mazedar tips ko describe (varna) karta hai
+* Audio Mastery Course
+* Teams, couples, aur chhote businesses ke liye self-study course
+* Reminders aur cues (isharayein)
+* Authors ke sath live web trainings
+* Public training courses aur special events
+* In-house training aur certification
+* Retreats aur keynotes
+* e-training
+
+In sabhi aur doosre resources aur solutions ke baare mein poochhtachh (inquire) karne ke liye, humse contact karein:
+
+[www.crucialconversations.com](https://www.crucialconversations.com)
+
+1-800-449-5989
+
+Hum aapke crucial conversations ko behtar banane ki koshishon (attempts) ke baare mein sunna chahenge. Humein [www.crucialconversations.com](https://www.crucialconversations.com) par visit karein aur share karein jo aapne kiya hai. Aapka example doosron ki madad kar sakta hai aur aane wali kisi publication mein shamil kiya ja sakta hai.
