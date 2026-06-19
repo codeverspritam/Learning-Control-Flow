@@ -1,4 +1,4 @@
-## 1
+## Chapter 1
 
 ### The Void
 
@@ -211,7 +211,7 @@ Jaise-jaise hum crucial conversations ka saamna karna aur unhe achhe se handle k
 Ye all-important skill-set kya hai? Jo log crucial conversations se asani se nikal jate hain, wo asal mein karte kya hain? Sabse zaroori, kya hum bhi aisa kar sakte hain?
 
 ---
-## 2
+## Chapter 2
 
 ### Ek bada Lever (Leverage)
 "Mujhe ek itna bada lever do ki main duniya ko hila sakun." 
@@ -339,7 +339,7 @@ Next, hum saath milkar baat karne, sun-ne aur act karne ke tools ko examine kare
 Aakhir mein, hum saari theories aur skills ko ek model aur ek bade example ke zariye ek saath jodenge. Fir, ye dekhne ke liye ki kya aap sach mein wo kar sakte hain jo zaroori hai, hum satrah (17) aisi situations denge jo hum mein se zyada tar ko pareshan kar dengi—yahan tak ki un logon ko bhi jo dialogue mein gifted hain. Jaise-jaise aap aage padhenge, aap high stakes mein baat karne ke tools master kar lenge.
 
 ---
-## 3
+## Chapter 3
 
 Mankind apni history mein ek aise crossroads par khada hai jaisa pehle kabhi nahi dekha gaya. Ek raasta mayusi aur bilkul umeed khatam hone (hopelessness) ki taraf jata hai, aur doosra raasta poori tarah se khatam (extinction) hone ki taraf. Humein dua karni chahiye ki hamare paas sahi chiz chunne ki aqal (wisdom) ho.
 **- WOODY ALLEN**
@@ -583,7 +583,7 @@ Yahan bataya gaya hai ki jo log dialogue mein skilled hote hain, wo apne goals p
 - Clarify karein ki aap kya nahi chahte, use usme jodein jo aap chahte hain, aur apne dimaag se kahein ki wo aapko dialogue tak le jaane wale healthy options dhoondna shuru kare.
 
 ---
-## 4
+## Chapter 4
 
 Maine hazaron badmaashon (scamps) ko dekha hai, lekin kabhi aise kisi se nahi mila jo khud ko aisa maanta ho.
 Self-knowledge itni common nahi hai.
@@ -795,7 +795,7 @@ Is chakravyuh (insidious cycle) se nikalne ke liye, Learn to Look.
 * Apne Style Under Stress ke outbreaks par nazar rakhein.
 
 ---
-## 5 
+## Chapter 5 
 
 Wo itne saalon tak saath rahe the ki unhone apni behas (arguments) ko hi baatcheet (conversation) samajhne ki galti kar li thi. 
 **- MARJORIE KELLOGG**
@@ -1051,7 +1051,7 @@ Jaise zyada-tar dialogue skills ke saath hota hai, agar aap dialogue par wapas a
 Ye mushkil ho sakta hai. Behas band karne ke liye, humein ye yakeen thoda side mein rakhna hoga ki hamari choice hi sabse behtareen aur wahid choice hai, aur hum tab tak khush nahi honge jab tak humein wahi nahi mil jata jo hum abhi chahte hain. Humein apna dimaag is baat ke liye kholna hoga ki shayad, shayad koi alag choice ho sakti hai...
 
 ---
-## 6
+## Chapter 6
 
 ### It's not how you play the game, it's how the game plays you.
 
@@ -1306,7 +1306,7 @@ Aise chhote sellouts bhi humein clever stories sunana shuru karwa dete hain. Jab
 Is sad fact ko dhyan mein rakhte huye—
 
 ---
-## 7
+## Chapter 7
 
 ### STATE My Path
 
@@ -1598,7 +1598,7 @@ Wahan se hum koi bhi gandi trick istemal karte hain. Hum authority ka sahara let
 Aur phir se, hum jitni koshish karte hain aur hamari tactics jitni forceful hoti hain, hum utna hi zyada resistance paida karte hain, result utna hi bura hota hai...
 
 ---
-## 8 
+## Chapter 8 
 
 Dusro ko manane (persuade karne) ka sabse behtareen tareeka hai apne kaano ka istemal karna—yaani unhe sunkar. 
 **- DEAN RUSK** ### Explore Others' Paths 
@@ -1855,7 +1855,7 @@ Jab aap apne views share karna shuru karein, toh yaad rakhein:
 * **Compare:** Jab aapka vichaar kaafi alag ho, toh ye mat kahein ki dusre galat hain. Apne dono views ko compare karein.
 
 ---
-## 9
+## chapter 9
 
 ### Kuch Nahi Karna Har Insaan Ke Bas Mein Hai
 **- SAMUEL JOHNSON**
@@ -2078,7 +2078,7 @@ Tay karein ki kaun kya kab tak karega. Deliverables ko bilkul saaf (crystal clea
 
 ---
 
-## 10
+## Chapter 10
 
 ### Communication
 unke liye kaam karti hai jo is par mehnat karte hain.
@@ -2251,7 +2251,7 @@ In tools aur reminders ka use karke hum un skills ko master karna shuru kar deng
 
 ---
 
-## 1 1 
+## Chapter 11 
 
 Ek insaan jo surprise ho jaye, wo aadha haar chuka hota hai.
 **- THOMAS FULLER**
@@ -2579,3 +2579,157 @@ Un areas ko dekhein jo aapko sabse zyada chot pahunchate hain aur jinpar baat ka
 "Mujhe bahut achha lagta hai jab hum ek dusre ke saath friendly hote hain. Main chahta hoon ki hamare beech wo feeling aur zyada baar ho. Kuch cheezein hain jin par main baat karna chahta hoon aur mujhe poora yakeen hai ki unse humein madad milegi. Kya hum baat kar sakte hain?"
 
 Issue ko STATE karein, aur phir sirf us ek issue par kaam karein. Nag mat karein; har cheez se ek saath mat ladiye. Ek waqt mein sirf ek element se deal karein, har din thoda-thoda.
+
+---
+
+## Chapter 12: Apni Zindagi Badlein
+
+**To improve is to change; to be perfect is to change often. — WINSTON CHURCHILL**
+### Change Your Life: How to Turn Ideas into Habits (Apni Zindagi Badlein: Ideas ko Habits mein Kaise Badlein)
+
+Ek din aap khud ko kisi professional wrestling match ke baare mein bahut utsaah (enthusiastically) ke sath baatein karte hue "sunte" hain. Aap itne josh (gusto) ke sath bol rahe hote hain ki aap khud hairan reh jaate hain (give yourself the willies). Aap apne mann mein sochte hain: "Tum jaante ho kya? Ab samay aa gaya hai ki main apne cultural horizons (sanskritik daayre) ko bada karoon." Isliye aap aur zyada gehrai se padhne ka faisla karte hain aur reality TV ke har ek episode ke badle science channel par teen programs dekhne ki kasam khate hain.
+
+Jab aap is kaam mein lage hi hain, toh aap thoda apna wajood (wajan) kam karne ka bhi sankalp lete hain. Ek sahi diet aur thoda bahut exercise program nuksan nahi pahonchayega. Is sabke upar, aap notice karte hain ki aap lagbhag apne kaam mein hi poori tarah doobe hue hain, isliye aap apne family ke sath zyada samay bitane ki kasam khate hain.
+
+Zyada culture, behtar health, ek mazboot family—yakeen khair par aap aasi keemti khwaahishon (worthy desires) ko tezi se daily habits mein badal lenge.
+
+Shaayad hi kabhi. Is tarah ke badlav kabhi aasan nahi hote. Jab baat hamari in dhundhli ummeedon (wispy hopes) ko thos haqeeqat (concrete realities) mein badalnes ki aati hai, toh hamari kamyabi ki dar (success rate) zyada se zyada mili-juli (mixed) hoti hai. Aisa hone par, hamare kisi aasi cheez ko behtar banane ke kya chances hain jo hamari psyche (soch) mein itni gehrai se baithi hai jaise hamare communicate karne ka tareeqa? Asal mein, yeh nirbhar karta hai. Bahut saare variables hain jo hamare chances ko affect karte hain. In factors par vichar karein.
+
+### SURPRISE (Achanak ya Hairani)
+
+Aapse aapki pehli meeting conduct karne ke liye kaha gaya hai. Khud ko sharminda karne se bachne ke liye, aap ek book padhte hain jahan aap agendas, pacing, aur isi tarah ki baaki saari cheezon ke baare mein seekhte hain. Jab aapki pehli meeting lead karne ka samay aata hai, toh aap jaldi pahonchte hain, chairs ko adjust karte hain, markers ko bilkul sahi jagah par rakhte hain, aur har ek participant ke liye ek agenda taiyar karte hain. Jaise-jaise participants aate hain, aap unka cordially (prem-purna) swagat karte hain. Phir aap ek josh bhare icebreaker ke sath meeting shuru karte hain aur aapka kaam chal nikalta hai.
+
+Meeting ki skills ko laagu karna utna hi aasan hai jitna kisi lakdi se girna (as easy as falling off a log). Aisa isliye hai kyunki meetings saaf dikhti (evident) hain. Aap jaante hain jab aap kisi meeting mein hote hain. Aap ek table ke aas-paas baaki saare logon ke sath baithe hote hain. Aisa kaise ho sakta hai ki aapko pata na ho ki aap ek meeting mein hain? Woh predictable (jinka andaza lagaya ja sake) bhi hoti hain. Aap unke liye plan kar sakte hain. Aapke paas book ke underlined portions ko dobara dekhne ka samay bhi hota hai.
+
+Iske ulat, crucial conversations kahin kam saaf dikhne wali (less evident) hoti hain. Aap kisi crucial conversations room mein nahi baithte. Aap apne Path to Action (kadam uthane ke raaste) ki koi photo aapas mein nahi baant-te. Iske bajaye aapko ek aasi garmaba-garmi wali discussion (heated discussion) mein dhakel diya jata hai jahan aap shayad hi kabhi sochte hain, "Oh haan, main ek crucial conversation ke beech mein hoon. Iska matlab hai mujhe us sab ke baare mein sochna chahiye jo maine pichle hafte padha tha."
+
+Discussions kam predictable bhi hoti hain. Koi aapko yeh likh kar invitation nahi bhejta: "Kya aap agle hafte team meeting ke baad mere sath ek crucial conversation mein shamil honge jahan aap ek aasi policy banane ja rahe hain jo mujhe gussa (miff) kar degi?" High-risk discussions bina kisi notice aur reminders ke aati hain. Zyadatar baar, woh ek na-pasand aane wale surprises (unwelcome surprises) ke roop mein samne aati hain.
+
+### EMOTION (Bhavnaon ka Asar)
+
+Emotions bhi bahut zyada madad nahi karte. Aur, bilkul, crucial conversations apni emotional characteristics (bhavnatmak khoobiyon) se hi define hoti hain. Kisi discussion ke content (baat) se khud ko baahar nikalne aur process par focus karne ki aapki ability aapke emotion ke level ke ulte-anupat (inversely proportional) mein hoti hai. Aap jo ho raha hai uski jitni zyada parwah karte hain, utni hi kam sambhavna hoti hai ki aap is baare mein sochein ki aap khud ko kaise conduct kar rahe hain (kaise pesh aa rahe hain).
+
+Yeh lagbahg na-insaafi hai. Baat jitni badi hogi, utni hi kam sambhavna hogi ki aap apni nayi seekhi hui skill-set ko conversation mein lekar aayein. Aap ise pasand karein ya na karein, agar aapka adrenaline bahaav mein hai, toh yeh lagbhag pakka hai ki aap apne Style Under Stress (stress ke dauran aapka aam tareeqa) par chale jayenge.
+
+Surprise aur emotion ke beech, yeh jaan-na mushkil hai ki badlav (change) ka sabse bada dushman kaun hai. Dono hi naye tareeqon se act karna yaad rakhna mushkil bana dete hain.
+
+### SCRIPTS (Pehle se Taiyar Baatein)
+
+Ab chaliye badlav ke ek aur dushman ko dekhte hain—scripts. Scripts pehle se tayaar phrases (shabd-guchhe) hote hain jinhe hum aam conversations mein use karte hain; woh social habits (samajik aadatton) ki buniyaad banate hain aur aksar badlav ko lagbhag asambhav bana dete hain. Is baat par vichar karein.
+
+Jab hum bolna seekhte hain, toh pehle words aate hain, phir phrases, aur phir scripts. Hum shabdon ke jitne bade bundle apne sath lekar chalte hain, unhe samajhdari bhari expressions mein combine karne ki chinta humein utni hi kam karni padti hai. Saath hi humein syntax ya grammar ke baare mein pareshan hone ki zaroorat nahi hoti—woh kaam hamare liye pehle hi kiya ja chuka hota hai.
+
+Unfortunately (badkismati se), pehle se tay expressions humein ek tarah ke mental autopilot (mansik autopilot) par daal dete hain. Vichar karein ki kya hota hai jab aap kisi fast-food restaurant mein chal kar jaate hain. Kya aap un shabdon ke baare mein sochte hain jinhe aap chunenge? Shayad nahi. Aisa isliye hai kyunki jab aap jani-pechani circumstances (sthitiyon) mein enter karte hain, toh aap apne dimaag mein sirf words aur phrases nahi, balki ek poori script lekar chal rahe hote hain.
+
+Ek script ke sath, aap conversation ke dono sides jaante hain. Aap jaante hain ki counter par khada insaan aapka order poochhne wala hai. Aapko pakka pata hota hai ki paper hat pehne woh josh se bhari ladki aapse poochhne wali hai ki kya aapko fries chahiye. Bhale hi aap apni shuruati request mein fries shamil kar dein, phir bhi woh poochhegi, "Do you want fries with that? (Kya aapko iske sath fries chahiye?)" Aur agar aap haan kehte hain, toh aap apni jaan ki baazi laga sakte hain ki woh poochhegi, "Do you want to super-size that? (Kya aap ise bada karwana chahte hain?)"
+
+Scripts sath lekar chalne ki achhi baat yeh hai ki aapko conversation par bahut zyada dhyan nahi dena padta. Kharab baat yeh hai ki koi interaction jitni zyada scripted hoti hai, us routine se khud ko baahar nikalna aur kuch naya try karna utna hi mushkil ho jata hai. For example, jaise hi aap fast-food counter ki taraf badhte hain, aapka spouse aapko extra ketchup maangne ki yaad dilata hai.
+
+Aap counter par qadam badhate hain aur kehte hain: "Mujhe do house specials chahiye, teen kiddy delights..." aur phir aap autopilot mein phisal jaate hain. Jo words aapke mooh se baahar nikalte hain unka aapke thoughts se koi lena-dena nahi hota. Aapka brain poori tarah se kahin aur hota hai. Aap ek aase menu par vichar kar rahe hote hain jo ek aase sandwich ko dikhata hai jo "ribs" (pasliyon) se bana hai jismein koi haddi hi nahi hai. Aap apne mann mein soch rahe hote hain, "Kis bechare animal ke paas bina haddi ki ribs hoti hain?"
+
+Aur andaza lagaiye kya hota hai? Jaise hi aap robot ki tarah apna order bolte hain, ek ke baad ek shabd mooh se nikalta jata hai, aap extra ketchup maangna bhool jaate hain. Aap ek aase insaan se kya umeed kar sakte hain jo is interaction ko koi asli brain time (dimaagi samay) de hi nahi raha hai? Asal mein, aapke spouse ki request aapke radar screen par kabhi aati hi nahi—jo ki filhaal Salvador Dali dwara paint kiye gaye background par Jell-O jaise, bina haddi wale creatures ke mooing karne aur sirakne ki images se bhari hui hai.
+
+Scripts humein ek smooth aur jani-pechani track par daal deti hain. Woh humein jaane-pechane territory (ilaaqe) se ek aaramdayi speed par lekar jaati hain—hamare brains ko naye kaamon ke liye free chhodte hue. Lekin phir se, jab hum rails (patriyon) par hote hain, toh hum tay raaste par itni kushalata aur aasaani se chalte hain ki koi bina plan kiya hua mod (unscheduled turn) lena lagbhag asambhav hota hai.
+
+### WHAT ARE OUR CHANCES? (Hamare Chances Kya Hain?)
+
+Toh chaliye dekhte hain ki jab hum apne Style Under Stress ko badalnes ki koshish karte hain toh hum kis cheez ka samna kar rahe hain. Mushkil conversations hamare samne kahin se bhi aa jaati hain, humein adrenaline se bhar deti hain, aur aaramdayi (lekin zaroori nahi ki achhi) routines ko jaga deti hain. Woh spontaneous (achanak), emotional hoti hain, aur saalon ke abhyas (practice) ka unhe support hota hai.
+
+Parinaamswarup, jab aap logon ko crucial conversations se guzarte hue dekhte hain, toh woh choices lene wale human beings ke bajaye gate se baahar nikalne ke liye bhaag rahe racehorses ki tarah zyada dikhte hain. Conversationalists surprise ke jhatke se motion mein aate hain, high stakes aur strong emotions ke zariya speed pakadte hain, aur un scripts ke zariya ek poori tarah se predictable raaste par aage badhte hain jo unhe na ke barabar options deti hain.
+
+### TRANSFER TIPS (Badlav ke Tareeqe)
+
+Routine scripts ko badalnes ki chunautiyon ko dekhte hue, kya log sach mein badal sakte hain? Apni research ke shuruat mein, humne (authors ne) ek baar forty-eight front-line supervisors ko examine kiya jo crucial conversations karna seekh rahe the. Jab humne trainees ko wapas kaam par dekha, toh yeh hamare samne saaf ho gaya ki unmein se sirf kuch logon ne hi jo classroom mein seekha tha use apne kaam ki jagah par transfer (laagu) kiya. Kharab baat yeh hai ki unmein se zyadatar thoda sa bhi nahi badle. Achhi baat yeh hai ki unmein se kuch badle. Asal mein, unhone naye skills ka use bilkul waise hi kiya jaisa nirdesh diya gaya tha.
+
+Jin supervisors ne naye skills ko apply karne ka tareeqa dhoondha, unhone humein ideas ko action mein badalnes ke aage diye gaye chaar principles sikhaye:
+
+* **First, master the content (Pehle content par mahaarat haasil karein):** Iska matlab hai na sirf aapko yeh recognize karne ke kaabil hona chahiye ki kya kaam karta hai aur kyun, balki aapko apne khud naye scripts generate karne honge.
+* **Second, master the skills (Doosra, skills par mahaarat haasil karein):** Aapko in naye scripts ko ek aase tareeqe se laagu karne ke kaabil hona chahiye jo supporting principles ke sath match kare. Jaisa ki samne aata hai, mahaj ek concept ko samajhna kaafi nahi hai. Jabki yeh helpful hai, yahan tak ki chalne ke baare mein baat karna (talk the talk) zaroori hai, aapko sach mein chalkar dikhana (walk the talk) hoga. Aapko sahi tone aur nonverbal actions ke sath sahi words bolne ke kaabil hona hoga. Jab baat social skills ki hoti hai, toh jaan-na aur karna do alag alag animals (cheezein) hain.
+* **Third, enhance your motive (Teesra, apne motive ko badhayein):** Aapke andar badalnes ki chah honi chahiye. Iska matlab hai ki aapko apni crucial conversation skills ko behtar banane ki itni parwah honi chahiye ki aap sach mein kuch karein. Aapko ek passive sense (ki badalna ek achha idea hoga) se aage badhkar, mauqon ki khoj karne ki ek active desire (teevra chah) tak jaana hoga. Motive ke bina ability dormant (soyi hui) aur un-tapped rehti hai.
+* **Fourth, watch for cues (Chautha, isharon par nazar rakhein):** Surprise, emotion, aur scripts par kabza paane ke liye, aapko action ki pukaar (call to action) ko recognize karna hoga. Yeh aamtaur par logon ke badlav mein sabse bada obstacle (rukawat) hota hai. Purane stimuli purane responses paida karte hain. Agar koi problem aapki nayi skills ko cue (ishara) nahi deti, toh aap bina realize kiye hi apni purani aadatton par wapas chale jayenge ki aapne kuch naya try karne ka mauqa kho diya.
+
+#### Master the Content (Content par Mahaarat Haasil Karein)
+
+Is book mein itna zyada material hai jise ek hi baithak mein master karne ki koshish nahi ki ja sakti. Is haqeeqat ke baavjood ki aapne is book ko kaafi tezi se padha hoga, ek tez nigaah (rapid once-over) shayad hi kabhi behavior mein bada badlav paida karti hai. Aapko content ka ek feel ho sakta hai, lekin shaayad itna nahi jo aapko badalnes ke liye aage badhaye.
+
+Yahan kuch aur steps diye gaye hain jinhe aap content ko master karne mein madad ke liye uta sakte hain.
+
+* **Do something (Kuch karein):** Saalon pehle, Dale Carnegie ne recommend kiya تھا ki aap unki ab classic ban chuki *How to Win Friends and Influence People* ko ek baar mein ek chapter padhein. Phir, ek baar jab aap chapter khatam kar lein, unhone suggest kiya ki aap baahar jayein aur jo aapne usse seekha hai uski practice karein. Hum sehmat hain. Ek aisa chapter chunein jise aapne relevant paaya (shaayad ek aisa jismein aapke Style Under Stress test mein low score aaya ho) aur use dobara padhein. Is baar, jo aapne seekha hai use teen se paanch din ke period mein implement karein. Mauqon ki khoj karein. Har ek mauqe par jhapat padein. Plate par aage badhein aur skills ko ek try dein. Phir ek aur chapter chunein aur process ko dohrayein.
+* **Discuss the material (Material par discuss karein):** Jab aap pehli baar koi cheez seekhte hain, toh aapka gyaan "preverbal" (shabdon se pehle ka) hota hai. Yaani, agar aap concepts ko dekhte hain toh aap unhe recognize kar sakte hain, lekin aap unpar aasaani se discuss karne ke kaabil nahi hote. Aapne unke baare mein itni baat nahi ki hoti ki unhe apni functional vocabulary (kaam aane wale shabdon) ka hissa bana sakein. Aapne words ko phrases mein aur phrases ko scripts mein nahi badla hota. Apne gyaan ko agle level par le jaane ke liye, ek chapter padhein aur phir uspar kisi friend ya loved one ke sath discuss karein. Material ke baare mein tab tak baat karein jab tak ki concepts natural roop se samne na aane lagen.
+* **Teach the material (Material ko padhayein):** Agar aap sach mein kisi concept ko master karna chahte hain, toh use kisi aur ko padhayein. Iske sath tab tak tike rahein jab tak ki doosra insaan concept ko itni achhi tarah na samajh jaye ki woh use kisi aur ko pass on kar sake.
+
+#### Master the Skills (Skills par Mahaarat Haasil Karein)
+
+Self-help talk circuit par ek kahani chal rahi hai ek Vietnam War prisoner ke baare mein jisne apni sanity (mansik santulan) banaye rakhne ke liye apne dimaag mein golf khela tha. Woh mentally apne favorite golf course ke har ek hole par aage badhta aur ek poora round "play" karta. Release hone ke baad, aakhirkar usne course tak apna raasta dhoondha, jahan usne turant apna ab tak ka sabse behtareen score banaya, ek under par. Jab uske doston ne uski is nayi khoji hui talent par hairani dikhai, toh usne samjhaya, "Mujhe under par score kyun nahi banana chahiye tha? Jab main prison mein tha toh maine ek baar bhi over par shot nahi khela."
+
+Yeh kahani routinely mental preparation ki taqat sikhane ke liye use ki jaati hai. Gurus mental game ki taqat ke baare mein jitna kahein kam hai. Jabki hum sehmat hain ki sochna process ka ek zaroori hissa hai, hum karne ki zyada importance par zor dena chahenge. Evidence suggest karta hai ki mental preparation execution mein kuch farq la sakti hai, lekin sirf sochna kaafi nahi hai. Agar aap sach mein apni ability ko improve karna chahte hain, toh practice karein. Problems par aage badhein aur material ko ek try dein.
+
+* **Rehearse with a friend (Kisi friend ke sath rehearse karein):** Kisi friend ke sath rehearse karke shuruat karein. Apne kisi colleague ya coworker se apne sath partner banne ke liye kahein. Samjhayein ki aap un skills ki practice karna chahte hain jinhe aap seekh rahe hain. Us skill ke baare mein brief mein discuss karein jise aap attempt karne ja rahe hain. Kisi real problem ke details provide karein jiska aap samna rahe hain. (Names shamil mat karein ya kisi aur tareeqe se privacy ke muddo ka ullanghan na karein.) Agle step mein, apne friend se doosre insaan ka role play karne ke liye kahein aur crucial conversation ki practice karein.
+* **Ask your partner for honest feedback (Apne partner se honest feedback maangatein):** Apne partner se kahein ki woh aapko sachay feedback dein. Warna aap galat delivery ki practice kar rahe ho sakte hain. Yaad rakhein, practice perfect nahi banati; perfect practice perfect banati hai. Is baat par zor dein ki aapka practice partner aapko ek uche standard par rakhe. Yeh yakeen karein ki aap lagatar improve ho rahe hain.
+* **Practice on the fly (Chalte-phirte practice karein):** Aap ghar par aur kaam par crucial conversations karne ja rahe hain, warna aapne yeh book pehli jagah par kharidi hi nahi hoti. Isliye un skills ki practice karein jinhe aap padh rahe hain, padha rahe hain, aur rehearse kar rahe hain. Agar aapke bachhe hain, toh shaayad hi koi din aisa guzrega jab aapko practice karne ka mauqa nahi milega.
+* **Start immediately (Turant shuru karein):** Agar aap kisi cheez ko try karne se pehle usmein perfect hone ka wait karte hain, toh aap ek lambe samay tak wait kar rahe ho sakte hain. Ise safe banane ke liye, sirf medium risk ki koi conversation chunein. Kisi nayi cheez ko try karna waise hi mushkil hota hai bina use kisi monumental (bade) problem par apply kiye.
+* **Practice in a training session (Training session mein practice karein):** Aap mein se jo log book aur doosre static materials se nikalne wale se zyada material aur practice ke mauqe chahte hain, woh hamare live training seminars mein se ek mein shamil hon. Humein ek call karein aur dekhein ki kya aap ya toh apne paas ki kisi location par ek session schedule kar sakte hain ya training ko apni company mein la sakte hain. Hamari training materials library leader-guided workshops se lekar off-site intensive courses tak kai tarah ke delivery tools se equipped hai.
+
+#### Enhance Your Motive (Apne Motive ko Badhayein)
+
+Hum sabke paas doosron ko motivate karne ke baare mein ideas hote hain, lekin aap khud ko kaise motivate karte hain? Jabki aap abhi is moment par apni crucial conversations ko behtar banane ke liye 100 percent committed feel kar sakte hain, aap tab kya kar sakte hain jab aap kisi gusse mein bhare coworker ko ghoor rahe hon aur improvement ke prati aapka commitment gir kar, maan lein, 10 percent par aa jaye?
+
+Sach toh yeh hai ki humein aksar apne sabse well-founded wishes (woh jo shanti ke moments ke dauran banaye gaye the jahan hum future par ek sachi nigaah daal rahe hain) ko turbulent (uthal-puthal bhare), kam forward-looking circumstances se bachane ke liye kadam uthane ki zaroorat hoti hai.
+
+* **Apply incentives (Incentives laagu karein):** Saaf dikhne wale ke sath shuruat karein. Incentives ka use karein. For example, self-help courses se guzarne wale logon ko aksar encourage kiya jata hai ki woh apne money ko wahan rakhein jahan unka mooh hai (put their money where their mouth is). Har baar jab woh koi assignment fulfills karte hain, unhe unki tuition ka ek hissa wapas de diya jata hai. Doosri taraf, agar woh aage nahi badhte, toh unhe iski keemat chukani padti hai. Jab incentives jode jaate hain, toh results kaafi dramatic roop se improve hote hain. Isliye har baar jab aap chaturai se koi crucial conversation karte hain, toh apni victory ko celebrate karein. Khud ko kisi aasi cheez se treat karein jiska aap kisi aur tareeqe se anand nahi lete. Aur perfection ka wait mat karein. Improvement ko celebrate karein. Agar aap har baar kisi certain problem ko uthate waqt ek heated argument mein phans jaate the, aur ab interaction mahaj tense hai, toh victory ka anand lein. Self-improvement un logon dwara haasil kiya jata hai jo perfection ki demand karne walon ke mukable direction ko zyada appreciate karte hain.
+* **Apply disincentives (Disincentives laagu karein):** Aap disincentives par bhi vichar kar sakte hain. Ek nigaah daalein jo kuch saal pehle Stanford mein hua tha. Jo subjects weight lose karne ki koshish kar rahe the unse ek aasi organization ko donation check likhne ke liye kaha gaya jisse woh nafrat karte the. In checks ko ek taraf rakh diya gaya, unhe kabhi mail nahi kiya jana tha jab tak ki subjects apne goals ko poora karne mein fail na ho jayein—jis point par paanch sau dollars "Americans for Nuclear Proliferation" ya subject ke liye barabar roop se na-pasandida kisi jagah bhej diye jaate. Jaisa ki predict kiya gaya tha, subjects ne tab behtar kiya jab unhone disincentives ka use kiya.
+* **Go public (Duniya ke samne batayein):** Doosron ko batayein ki aap routinely crucial conversations karne ki koshish rahe hain. Samjhayein ki aap kya kar rahe hain aur kyun. Aadhe dashak se pehle, social psychology ke pita, Dr. Kurt Lewin ne seekha tha ki jab subjects ne kisi cheez ko karne ka ek public commitment kiya, toh unke raaste par tike rehne ki sambhavna unke mukable zyada thi jo apni khwaahishon ko apne tak hi seemit rakhte the. Logon ko batayein ki aapke goals kya hain. Social pressure ko apne paksh (favor) mein kaam karne dein.
+* **Talk with your boss (Apne boss se baat karein):** Agar aap ise ek step aur aage le jana chahte hain, toh apne boss ke sath baithein aur apne goals samjhayein. Unka support maangatein. Agar aap apne goal mein kuch asli daant (real teeth) lagana chahte hain, toh apne plan ko apne performance review mein build karein. Ek leader ke roop mein, aapse lagbahg hamesha apne performance review forms par listed kisi ek "soft area" ko chun-na aur uspar kaam karne ke liye kaha jata hai. Dialogue ko select karein. Aap apne plans for improvement ko formal reward system ke sath baandh sakte hain. Apne personal, family, aur organizational goals ko ek single goal—apne dialogue skills ko behtar banane—ke sath align karein.
+* **Remember the costs; focus on the reward (Keemat ko yaad rakhein; reward par focus karein):** Shayad ab tak ka sabse zyada predictive piece of social science research jo kabhi conduct kiya gaya tha, woh chhote bachhon aur marshmallows ke sath complete kiya gaya tha. Ek bachhe ko ek kamre mein rakha gaya aur phir bataya gaya ki uske paas ya toh abhi ek marshmallow lene ka option hai ya do lene ka agar woh tab tak wait karne ke liye taiyar ho jab tak adult kuch minutes mein wapas na laut aaye. Adult phir bachhe ke samne ek marshmallow rakhta aur baahar nikal jata. Kuch bachhon ne gratification (sukh) ko delay kiya. Doosron ne marshmallow turant kha liya. Researchers ne in bachhon ko study karna jaari rakha.
+
+Guzarane wale agle kai dashakon mein, jin bachhon ne gratification ko delay kiya tha unhone aakhirkar life mein un logon ke mukable kahin behtar kiya jinhone aisa nahi kiya tha. Unki marriages zyada mazboot thin, unhone zyada paise banaye, aur woh zyada healthy the. Baad mein haasil karne ke liye abhi uske bina karne ki yeh willingness (razaamandi) success ke liye ek all-purpose tool saabit hoti hai.
+
+Jo bachhe gratification ko delay karne mein kaabil rahe unhone apne short-term wishes se kaise ladai ki? Pehle, unhone apne samne baithe us swadist (scrumptious) marshmallow se apni nazar hata li. Apne aap ko us cheez ke vision se torture karne ka koi fayda nahi tha jise woh nahi paa sakte the. Doosra, woh khud se kehte rahe ki agar unhone wait kiya, toh unhe do milenge, ek nahi. Isse simple kya ho sakta hai?
+
+Jaise hi aap kisi crucial conversation par aage badhte hain aur sochte hain ki kya sach mein kisi nayi aur un-tested cheez ko try karna worth hai, khud ko yaad dilayein ki aap pehli jagah par naye skills kyun try rahe hain. Improved results par focus karein. Yaad rakhein kya hota hai jab aap apne purane methods par wapas chale jaate hain.
+
+* **Think "things" ("Cheezon" ke baare mein sochein):** Cheezein aapko motivate karne mein kaise madad kar sakti hain? Asal mein, is particular concept ko samajhna aasan nahi hai. Ek example madad kar sakta hai. Aap weight lose karne ki koshish mein akaamyab rahe hain. Yeh samne aata hai ki aapka subah jaldi ka lohe jaisa sankalp (iron will) dopahar tak aate-aate rubber mein badal jata hai jaise hi aapka stomach growl (gurgulana) karne lagta hai aur aap us restaurant ki hawa ko soonghte hain jahan aap lunch ke liye aksar jaate hain. Aap tracks par bane rehne mein madad ke liye cheezon ke sath kya kar sakte hain?
+
+Subah sabse pehle ek samajhdari bhara lunch pack karein jab aapka sankalp mazboot ho. Apne sath koi paisa mat lekar jayein. Us tareeqe se dopahar ke apne kamzor wishes ke aage jhukna aasan nahi hoga. Apne self-control cycles ke aas-paas structure banakar, aap apne weaker moments ke jhatke ko kam karte hue apne stronger motives ki taqat ko badhate hain.
+
+Crucial conversations tab schedule karein jab aap confident feel kar rahe hon. Pehle se practice karein. Notes lein. Apne office ko us tareeqe se set up karein jaisa aap chahte hain. Smart timing aur material support ke sath armed hokar, aap un tough problems par asardar tareeqe se aage badhne ke kaabil honge.
+
+#### Build in Cues (Isharayein Banayein)
+
+Naye skills use karne ke liye khud ko yaad dilane ke liye, helpful cues create karein.
+
+* **Mark hot spots (Hot spots ko mark karein):** Jo log stress-reduction training se guzarte hain woh un physical items ko mark karna seekhte hain jo unki tension ke sources se gehrai se jude hote hain. Jo log traffic mein freak out (pareshan) ho jaate hain woh apne steering wheel par ek chhota red circle laga dete hain. Jo vyakti hamesha jaldbaazi mein hote hain woh apne watch par ek laga dete hain.
+
+Jab baat aapke samne aane wali tough conversations ki aati hai, toh aap chhote visual cues ka use bhi karna chah sakte hain. Ek ko computer par lagayein jo aase results baahar nikalta hai jo aapko nuts (gussa) kar dete hain. Kisi bhi meeting ke agenda ki apni copy mein ek cue build karein jo aamtaur par tough problems pesh karti hai.
+
+* **Set aside a time (Ek samay alalag rakh dein):** Apne naye skills use karne ke liye khud ko yaad dilane ka sabse behtar tareeqa shaayad har din ek samay alalag rakhna hai successes aur problems dono ki khoj mein chalne ke liye. Jab aap koi success dekhte hain, celebrate karein. Jab aap kisi problem ka saamna karte hain, apne best dialogue tools ko khel mein lekar aayein.
+* **Read reactions (Reactions ko padhein):** Agar aap crucial conversations karne ka ek achha kaam nahi rahe hain, toh results bilkul aapke samne hone wale hain. Agar aap dekhte hain ki aap track se utar rahe hain, back up karein aur dobara shuruat karein. Real-life cues ka use karein (e.g., doosre insaan ka jabda tense hota hai, woh shaant ho jata hai, etc.) khud ko yaad dilane ke liye ki shayad yeh ek nayi tactic try karne ka samay hai. Agar zaroori ho, toh maafi maangatein. Discussion mein kisi pehle ke sthaan par chale jayein aur process ko follow karein.
+* **Build in permanent reminders (Permanent reminders banayein):** Model ka ek poster order karein, use deewar par lagayein, aur har subah din shuru karte waqt use dekhein.
+* **Carry a reminder (Ek reminder sath lekar chalein):** Poster ke sath hi, cue cards ka ek set order karein jise aap apne purse ya shirt pocket mein tuck (rakh) sakein.
+
+### A DIGITAL ASSIST (Ek Digital Madad)
+
+Humne is book mein woh sab kuch shamil karne ki koshish ki hai jiski aapko crucial conversations conduct karne ke liye zaroorat hogi. Hamara goal personal change ke liye ek complete, stand-alone tool provide karna tha. Phir bhi, jab baat social interactions ko behtar banane ki aati hai, toh digital domain ke paas bhi offer karne ke liye bahut kuch hai. Audio, video, aur doosre digital tools aapke learning experience ko badha sakte hain.
+
+Ek additional resource ke roop mein, hum aapko apni website par invite karte hain. Wahan aapko printed word ko daily actions mein transform karne mein aapki madad ke liye kai tarah ke tools milenge. Digital tools mein conceptual, behavioral, aur cuing tools shamil hain.
+
+#### Conceptual Tools (Vaicharik Tools)
+
+* **Watch (Dekhein):** Jin skills ko hum cover karte hain unke live-action views dene ke liye, humne apni website par video examples jode hain. Humein [www.crucialconversations.com](https://www.crucialconversations.com) par visit karein aur specific skills ke liye video clips check karein.
+* **Listen (Sunein):** Kai log har din kaam par aate-jaate waqt audiotapes ya CDs sunna pasand karte hain. Humne ek audio mastery course ek sath taiyar kiya hai jo na sirf chapter-by-chapter material ko review karta hai, balki audio examples bhi provide karta hai ki jab skills ko action mein dala jata hai toh woh kaisi sound karti hain. Apne gyaan ko abstract (amurt) se concrete (thos) ki taraf le jayein jaise hi aap sunte hain ki theories kaise words mein translate hoti hain aur words kaise usable scripts banate hain.
+
+#### Behavioral Tools (Vyavaharik Tools)
+
+Agar aap kisi role-play tool ki madad se specific skills ki practice karna chahte hain, toh hamari website par jayein aur role-play rehearsals download karne ke liye Free Resources check karein. Role plays ko print baahar nikalein aur phir ek partner ke sath tab tak kaam karein jab tak ki aapne skill ko master na kar liya ho.
+
+#### Cuing Tools (Ishara dene wale Tools)
+
+Regular tips, reminders, aur doosre resources ke liye sign up karne ke liye [www.crucialconversations.com](https://www.crucialconversations.com) par visit karein taaki aap apni crucial conversations skills ka use karne ke mauqon par nazar rakh sakein.
+
+### A PARTING THOUGHT (Ek Aakhri Vichar)
+
+Hum hamesha ke liye un adbhut logon ke karzdar rahenge jinhone humein apni aasteen chadhane (roll up our sleeves), unke sath kandhe se kandha milakar kaam karne, aur unke best practices ko study karne ki permission di. Hum khaas taur par un logon ke shukraguzar hain jinhone humein unhe tab dekhne ki permission di jab woh crucial conversations se guzarte hue struggle rahe the. Facts, stories, aur feelings ko suljhana waise hi kaafi mushkil hota hai bina ek microscope ke tehat scrutinize (jaanch) kiye ja rahe hon jab aap ise rahe hon.
+
+Hum umeed karte hain ki in pyaare doston aur colleagues se seekhe gaye theories, skills, aur models ko share karke, hum aapko apni khud ki crucial conversations mein aage badhne (stepping up karne) mein zyada comfortable feel karne mein madad karenge. Aap available meaning ke pool mein add karne, behtar decisions lene, aur ek aase tareeqe se kaam karne mein kaabil honge jo kaam ko poora bhi karta hai aur aapke relationships ko badhata bhi hai.
+
+Isliye hum aapko encourage karte hain ki ek relationship chunein. Ek conversation chunein. Doosron ko batayein ki aap behtar karne ki koshish rahe hain, phir ise ek shot (try) dein. Jab aap ise kharab karein (blow it), toh ise admit karein. Perfection ki umeed mat karein; progress ka maqsad rakhein. Aur jab aap succeed hon, apni success ko celebrate karein. Hum umeed karte hain ki aap yeh jaan-ne mein anand lenge ki aap improve ho rahe hain aur aapke relationships bhi. Finally, jab mauqa mile, doosron ko bhi aisa karne mein madad karein. Friends, loved ones, aur coworkers ko unke khud ke high-stakes discussions ko master karna sikhane mein madad karein. Organizations ko mazboot banane, families ko solid karne, communities ko heal karne, aur nations ko shore up (sambhala dene) mein madad karein ek person—ek crucial conversation—ek samay par.
