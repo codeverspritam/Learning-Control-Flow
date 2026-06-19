@@ -2784,3 +2784,49 @@ Hamari ability aur taste evolve ho sakte hain, jisse waqt ke sath alag-alag work
 Har ek naye project ke sath, hum khud ko challenge kar rahe hain taaki samay ke us khaas window mein hamare andar jo kuch jee raha hai use sabse khoobsurati se reflect kar sakein.
 
 Self-competition ke is bhaav (spirit) mein, khud ko aur aage jaane aur anjaan ya unexpected (**the unexpected**) mein qadam dhasalne ka task dein. Mahanata (**greatness**) par bhi mat rukein. Usse bhi pare nikal jayein (**Venture beyond**).
+
+---
+
+# Chapter 45: Essence 
+
+Hum jo bhi kaam karte hain, chahe woh kitna bhi jatil (**intricate**) kyun na ho, apne andar ek chhipi hui buniyaad ya saar (**underlying essence**) samete hota hai. Ek core identity (mukhya pehchan) ya buniyaadi dhancha (**fundamental structure**), bilkul ek skeleton (kankal) ki tarah jo maans (**flesh**) ko sahara deta hai. Kuch log ise ek “**is-ness**” (jaisa-hai-vaisa-hona) keh sakte hain.
+
+Agar ek bachha kisi ghar (house) ki picture draw karta hai, toh usmein ek window, ek roof (chhat), aur ek door (darwaza) ho sakta hai. Agar aap window ko hata dete hain aur picture ko dekhte hain, toh yeh abhi bhi ek ghar hai. Agar aap door ko hata dete hain, toh yeh abhi bhi ek ghar hai. Agar aap roof aur baahari deewaron (**outer walls**) ko hata dete hain, aur sirf window aur door ko chhod dete hain, toh yeh ab saaf nahi reh jata ki kya yeh abhi bhi ek ghar hai.
+
+Usi tareeqe se, art ke har ek piece mein ek anokhi, jaan phoonkne wali khoobi (**unique, life-giving feature**) hoti hai jo use woh banati hai jo woh hai. Yeh koi theme, koi organizing principle (ayojan ka niyam), artist ka point of view (nazariya), performance ki quality, materials, convey kiya gaya mood, ya elements ka ek combination ho sakta hai. Inmein se koi bhi cheez essence ko banane mein ek role play kar sakti hai.
+
+Agar ek sculptor (moortikar) patthar (**stone**) se ya mitti (**clay**) se koi kaam banata hai, toh us kaam ka experience bahut alag hota hai. Phir bhi patthar ke ek kaam aur mitti ke ek kaam ka essence same ho sakta hai.
+
+Essence hamesha wahin hota hai, aur Craft phase mein hamara kaam ise dundhla ya chhipana (**obscure**) nahi hai. Kisi kaam ka essence badal bhi sakta hai, us samay se jab aap shuru karte hain us samay tak jab aap finish karte hain. Jaise-jaise aap kaam ko nikharte (**refine**) hain, elements add karte hain, aur pieces ko yahan-wahan move karte hain, ek naya, alag essence nikal kar samne aa sakta hai.
+
+Kabhi-kabhi jab aap kaam mein shamil (engaged) hote hain, toh ho sakta hai aapko essence ke baare mein pata na ho. Aap mahaj experiment aur play kar rahe hote hain. Jab aap kisi aasi cheez par rukte hain jise aap pasand karte hain, toh aapko realize ho sakta hai ki asli essence kya hai.
+
+Kisi kaam ko nichodna (**distilling**) taaki use uske essence ke jitna ho sake utna paas laya ja sake, ek useful aur informative abhyas (practice) hai. Notice karein ki aap jo kaam bana rahe hain, uske khatam hone (ceases to be) se pehle aap uske kitne pieces ko hata sakte hain.
+
+Ise us point tak refine karein jahan yeh poori tarah se nagn (**stripped bare**) ho jaye, apne sabse kam sajaavati roop (**least decorative form**) mein ho phir bhi poori tarah surakshit (**intact**) rahe. Bina kisi extra cheez ke. Kabhi-kabhi sajaavat (**ornamentation**) kaam aa sakti hai, aksar nahi. Kam hona aamtaur par zyada hona (**Less is generally more**) hota hai.
+
+Agar aapke paas do units hain jinhe aap ek sath rakhna chahte hain, chahe woh do sentences hon ya kisi song ke do parts hon, toh bina kisi transition (jod) ke aisa karne mein ek bahut badi power ho sakti hai. Kam se kam information ke sath, kisi point ko samne rakhne ka sabse simple aur elegant tareeqa dhoondhne ki koshish karein.
+
+Agar is baat par koi bhi sawaal ho ki kya koi element piece ki seva (serve) karta hai, toh use jaane dena (**let it go** karna) shaayad ek achha idea hai. Kuch artists kaam ke aspects ko hatane ke baare mein superstitious (vehami) ho jaate hain, jaise ki aisa karne se project unki aankhon ke samne gayab (**evaporate**) ho jayega. Isliye yeh yaad rakhna qeemti hai ki jo bhi cheez hatayi gayi hai, use zaroorat padne par baad mein hamesha wapas rakha ja sakta hai.
+
+Perfection aakhirkar tab haasil nahi hoti jab ab add karne ke liye kuch na bacha ho, balki tab haasil hoti hai jab ab nikalne ya hatane (**take away**) ke liye kuch na bacha ho.
+
+—*Antoine de Saint-Exupéry, Wind, Sand and Stars*
+
+Aakhir mein,
+
+hamare alalag-alag kaamon ke
+
+essence ka kul jod (**sum total**)
+
+ek reflection (parchhai) ke roop mein seva kar sakta hai.
+
+Hum jitna zyada paas pahonchte hain
+
+har ek kaam ke sachay essence ke,
+
+utni hi jaldi woh kisi na kisi tarah,
+
+waqt ke kisi mod par,
+
+hamare apne wajood ke baare mein sanket (**clues**) provide karenge.
