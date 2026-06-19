@@ -2748,3 +2748,39 @@ Jab koi pasandida artist hamari expectations (ummeedon) ko thokar marta hai (**t
 Bilkul yahi same phenomenon (prakriya ya ghatna) apna khud ka kaam banate waqt bhi ho sakti hai. Agar aap kisi problem ke solutions dhoondh rahe hain, ya shuru karne ke liye koi naya project dekh rahe hain, toh aap samne aane wale kisi option par behadd negative tareeqe se react kar sakte hain. Aisa tab ho sakta hai jab idea itna naya ho ki aapke paas iska koi context hi na ho. Jab hamare paas context nahi hota, toh naye ideas anjaan (**foreign**) ya ajeeb (**awkward**) lagte hain. Kabhi-kabhi jo ideas hamari expectations se sabse kam match karte hain, wahi sabse zyada innovative hote hain. Definition ke mutabik, krantikari ideas (**revolutionary ideas**) ka koi context nahi hota. Woh apna context khud invent (avishkar) karte hain.
 
 Jab hum shuruat mein kisi bilkul hi nayi cheez (**radically new**) ko experience karte hain, toh hamari pehli andaruni prerna (**first instinct**) ise door dhasalne (push away karne) ki ho sakti hai aur yeh sochne ki, "yeh mere liye nahi hai." Aur kabhi-kabhi yeh shaayad na bhi ho. Doosri baar, yeh hamari sabse tikau (**enduring**) aur important work ki taraf le ja sakta hai. Aise strong responses (tikitikriyaon) ke prati hamesha aware rahein. Agar aap kisi experience se turant durr hat jaate hain (**turned off** ho jaate hain), toh yeh check karna qeemti hai ki aisa kyun hai. Taqatvar reactions (powerful reactions) aksar meaning ke zyada gehre kuon (**deeper wells of meaning**) ki taraf ishara karte hain. Aur shayad unhe explore karke, aap apne creative raaste par agle step ki taraf badh jayenge.
+
+---
+
+# Chapter 44: Non-Competition 
+
+Art banane wale (**maker**) ke baare mein hai.
+
+Iska maqsad: hum kaun hain uski ek abhivyakti (**expression**) banna.
+
+Yeh baat competition ko be-tukka aur moorkhta-purna (**absurd**) bana deti hai. Har ek artist ka playing field unke liye specific (anokha) hota hai. Aap woh kaam create kar rahe hain jo aapko sabse behtar tareeqe se represent karta hai. Ek doosra artist woh kaam bana raha hai jo use sabse behtar represent karta hai. In dono ko ek doosre ke khilaf naapa nahi ja sakta. Art use banane wale artist se relate karti hai, aur us anokhi bhent (**unique contribution**) se jo woh culture mein lekar aa rahe hain.
+
+Kuch log shaayad daleel (**argue**) dein ki competition mahanata (**greatness**) ko inspire karta hai. Doosron ne jo haasil kiya hai usse aage nikalne ki chunauti hamari creative limits ko aur aage dhasalne ke liye ek incentive (prerna) ke roop mein kaam kar sakti hai. Halanki, zyadatar mamlon mein, competition ki yeh energy ek nichli vibration par dravit (**oscillates**) hoti hai.
+
+Kisi doosre artist se behtar perform karne ki chah rakhna ya unke kaam se behtar kaam banana shaayad hi kabhi sachi mahanata (**true greatness**) nikal pata hai. Aur na hi yeh ek aasi soch (mindset) hai jo hamari baaki life par ek healthy asar daalti ho. Jaisa ki Theodore Roosevelt ne ishara kiya tha, comparison (tulna) khushi ka chor (**thief of joy**) hai. Iske alawa, hum bhala kisi aur ko chhota dikhane (**diminishing**) ke maqsad se create kyun karna chahenge?
+
+Lekin, jab koi doosra mahan kaam humein apne khud ke kaam ko aur ucha uthane ke liye inspire karta hai, toh energy alag hoti hai. Apne field mein paimana ya bar ko ucha uthte dekhna humein aur ucha uthne ke liye encourage kar sakta hai. Saamna karne ke liye upar uthne (**rising-to-meet**) ki yeh energy, kisi ko jeetne ya haraane (**conquering**) ki energy se poori tarah alag hai.
+
+Jab Brian Wilson ne pehli baar Beatles ka *Rubber Soul* suna, toh unka dimaag sunn ho gaya (**mind was blown**). "Agar main apni life mein kabhi kuch karoon, toh main is tarah ka ek achha album banaunga," unhone us samay socha tha. Unhone aage bataya, "Main ise sunkar itna khush (**happy**) hua ki maine jaakar 'God Only Knows' likhna shuru kar diya."
+
+Kisi aur ke sabse behtareen kaam se khush hona, aur phir use us mauqe par khade uthne ke liye khud ko inspire karne dena competition nahi hai. Yeh collaboration (sahyog) hai.
+
+Jab Paul McCartney ne iske parinaamswarup bana Beach Boys ka album *Pet Sounds* suna, toh woh bhi dang reh gaye (**blown away**) aur unki aankhon mein aansu aa gaye, unhone ghoshna ki ki unke kaano ke liye "God Only Knows" ab tak ka sabse behtareen likha gaya song tha. Is experience se utsaahit (**buoyed**) hokar, Beatles ne ek aur masterpiece, *Sgt. Pepper’s Lonely Hearts Club Band* create karte waqt *Pet Sounds* ko baar-baar play kiya. "Pet Sounds ke bina, Sgt. Pepper kabhi nahi hota," Beatles ke producer George Martin ne kaha tha. "Pepper darasal Pet Sounds ki barabari karne ki ek koshish thi."
+
+Yeh creative aadaan-pradaan (**creative back-and-forth**) kisi commercial competition par aadharit nahi tha, yeh aapas ke pyar (**mutual love**) par aadharit تھا. Aur hum sab mahanata ki taraf is upar uthte ghumavdar chakravyuh (**upward spiral toward magnificence**) ke labharthi (beneficiaries) hain.
+
+Aisa koi system exist nahi karta jo yeh rank kar sake ki kaun sa kaam banane wale (maker) ko sabse zyada reflect karta hai. Great art ek invitation (nyota) hai, jo har jagah ke creators ko aur zyada uche aur gehre levels ke liye mehnat karne ke liye pukartaa hai.
+
+Ek aur tarah ki competitiveness (pratiyogita) hai jise ek anant fayda (**infinite gain**) ke roop mein dekha ja sakta hai: ek aasi kahani jo ek artist ki life ke dauran lagatar khulti reh sakti hai. Yeh khud ke sath competition (**competition with the self**) hai.
+
+Self-competition ko vikas aur badlav (**quest for evolution**) ki ek khoj ke roop mein socho. Maqsad apne doosre kaam ko harana nahi hai. Maqsad cheezon ko aage badhana aur vikas ka ek ahasas (**sense of progression**) create karna hai. Superiority (doosron se behtar hone) ke upar growth (apni badhat).
+
+Hamari ability aur taste evolve ho sakte hain, jisse waqt ke sath alag-alag works nikal kar aate hain, lekin unmein se kisi ka bhi mulyankan kisi doosre se kam ya zyada ke roop mein nahi kiya ja sakta. Woh is baat ke alalag snapshots hain ki hum kaun hain, aur hum kaun the. Woh sabhi us moment mein hamara sabse behtareen kaam (**best work**) the jab unhe create kiya gaya tha.
+
+Har ek naye project ke sath, hum khud ko challenge kar rahe hain taaki samay ke us khaas window mein hamare andar jo kuch jee raha hai use sabse khoobsurati se reflect kar sakein.
+
+Self-competition ke is bhaav (spirit) mein, khud ko aur aage jaane aur anjaan ya unexpected (**the unexpected**) mein qadam dhasalne ka task dein. Mahanata (**greatness**) par bhi mat rukein. Usse bhi pare nikal jayein (**Venture beyond**).
