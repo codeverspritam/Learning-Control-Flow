@@ -2868,3 +2868,37 @@ Hum kabhi bhi kisi kaam ka asli matlab nahi jaan paayenge. Yeh yaad rakhna helpf
 Hum ek jaadui daayre (**magic realm**) mein kaam kar rahe hain.
 
 Koi nahi jaanta ki yeh kyun ya kaise kaam karta hai.
+
+---
+
+# Chapter 47: Tuning Out (Undermining Voices) 
+
+Hum apna pehla project create karne ke liye saal, ya yahan tak ki dashak (**decades**) bhi le sakte hain. Yeh aamtaur par ek shunya (**vacuum**) mein, ek saadhaaran tareeqe se, zyadatar khud ke sath ki gayi baatchit mein develop hota hai.
+
+Ise share karne ke baad, baahari asar (**outside influences**) samne aa sakte hain. Ek audience prakat hoti hai, chahe usmein friends shamil hon ya ajnabiyon ke bade groups. Vyapaarik interests (business interests) wale log aur companies sath jud sakte hain. Aur jaise hi hum apne agle project par kaam shuru karte hain, sidelines se tez baahari aawazein hamari taraf bol sakti hain, jo humein alag-alag creative directions mein influence karti hain. Quality ki parwah kiye bina, kaam ki abhi demand karti hain.
+
+Jaise hi yeh aawazein ek artist ke dimaag mein enter karti hain—deadlines, deals, sales, media attention, public image, staff, overhead, audience ko badhane, aur pehle se maujood fan base ko banaye rakhne ki chinta—woh hamare focus ko kamzor (**undermine**) kar sakti hain. Hamari art ka intention self-expression (khud ki abhivyakti) se badalkar self-sustainment (khud ko banaye rakhne) par shift ho sakta hai. Creative choices se badalkar business decisions par.
+
+Ek artistic journey ke is phase ko navigate karne (raasta nikalne) ki chaabi dhyan hatana (**tune out** karna) seekhna hai. Baahari pressures ko apne andaruni process mein enter karne aur shuddh creative state (**pure creative state**) mein bhatkao paida karne se rokna.
+
+Yeh us saaf mindset (**clear mindset**) ko yaad karne mein madad karta hai jisne pehle kaam ko produce kiya tha aur jisne shuruat mein success ko possible hone diya tha.
+
+Na sirf business ki chintaon ko, balki in baahari aawazon ki zarooraton aur thoughts ko bhi ek taraf rakh dein. Apne sabse behtareen kaam ki khoj ke dauran unhe apni consciousness (chetna) se baahar rakhein.
+
+Jab aap poori tarah se creativity par focus karne aur ek pavitra jagah (**sacred space**) mein kaam karne ke kaabil hote hain, toh isse har kisi ka fayda hota hai. Aur baaki saari priorities (parthamiktaon) ki seva ho jaati hai.
+
+Kariyar ke kisi bhi stage par, aapke dimaag mein baitha critic apni aawaz suna sakta hai. Baar-baar yeh dohrate hue ki aap utne talented nahi hain. Aapka idea utna achha nahi hai. Art aapke samay ka koi keemti investment (**worthwhile investment**) nahi hai. Result ko achhi tarah receive nahi kiya jayega. Aap ek failure hain.
+
+Ya phir ek aasi viparrit aawaz (**contrary voice**) ho santi hai jo aapko batati hai ki aap jo kuch bhi karte hain woh perfect hai aur aap is duniya ke ab tak ke sabse bade phenomenon (ashadharan vyakti) banenge.
+
+Zyadatar baar, yeh woh baahari aawazein hoti hain jo life ke shuruat mein andar sokh (**absorbed**) li gayi thin. Shayad koi aalochak (critical) ya behadd laad-pyaar karne wale (doting) parent, teacher, ya mentor. Yeh aawazein hamari apni nahi hain. Humne kisi aur ke judgment ko apne andar utar (**internalized**) liya hai. Isliye iska samna bhi usi udaseenta (**indifference**) ke sath kiya ja sakta hai jaise baaki kisi bhi random chatter (faltu ki baaton) ka kiya jata hai.
+
+Kaam ke aas-paas aap jo bhi pressure mahsoos karte hain—andar se ya baahar se—woh self-examination (aatma-parikshan) ke liye ek ishara (**signal**) hai. Artist ka goal khud ko shuddh aur unattached (alag) rakhna hai. Stress, responsibility, darr, aur kisi khaas parinaam (outcome) par dependence ko dhyan bhatkaane se rokna. Aur agar aisa hota hai, toh reset karne mein kabhi bahut deri nahi hoti.
+
+Saaf karne (clearing) ka pehla step acceptance (**acknowledgement**) hai. Khud ko self-criticism (apni aalochna) ke vajan ya expectations par khara utarne ke pressure ko mahsoos karte hue notice karein. Aur yaad rakhein ki commercial success poori tarah aapke control se baahar hai. Jo akeli cheez matter karti hai woh yeh hai ki aap kisi aasi cheez ko bana rahe hain jisse aap pyar karte hain, apni poori ability ke sath, yahin aur abhi (**here and now**).
+
+Apne aap ko andaruni aawazon se aazad karne ke liye kaam karna ek tarah ka meditation (dhyan) hai. Kuch samay ke liye saari chintaon ko ek taraf rakh dein aur kahein, main sirf is ek practice par focus karne ja raha hoon: mahan kaam banana (**making great work**).
+
+Agar us period ke dauran koi bhi distractions samne aati hain, toh unhe ignore mat karein ya unpar focus mat karein. Unhe bilkul bhi koi energy mat dein. Unhe guzar jaane dein, bilkul kisi pahad ke aas-paas se bhatte hue baadlon (**clouds parting around a mountain**) ki tarah.
+
+Regular roop se is practice mein shamil hona focused intention (keshriya irade) ki muscle ko build karta hai, jiska use aap jo kuch bhi karte hain usmein kar sakte hain. Aakhirkar, kamzor karne wali aawazon (undermining voices) se dhyan hatana aur kaam mein khud ko kho dena kisi ichha-shakti ka zor (**effort of will**) nahi hoga, balki ek kamayi hui ability (**earned ability**) hogi.
