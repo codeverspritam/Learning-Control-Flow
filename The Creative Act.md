@@ -2932,3 +2932,35 @@ Ise is tarah kaam karna helpful hota hai
 jaise ki aap jis project mein shamil hain
 
 woh aapke wajood se kahin bada hai.
+
+---
+
+# Chapter 49: Right Before Our Eyes
+
+Artists kabhi-kabhi stagnation (thehraav ya jamm jaane) ka ek ahasas experience karte hain. Ek block. Aisa isliye nahi hai kyunki creativity ka bahaav (flow) ruk gaya hai. Yeh ruk nahi sakta. Yeh paada karne wali urja (**generative energy**) nirantar aur bina ruke chalne wali (**ceaseless**) hai. Yeh bas isliye ho sakta hai kyunki hum iske sath engage (shamil) na hone ka chunav kar rahe hain.
+
+Kisi artistic blockage (impasse) ko ek doosre tarah ki creation (banaawat) ke roop mein socho. Ek block jo aapka apna banaya hua hai. Ek faisla, chahe hosh mein (conscious) ho ya behoshi mein (unconscious), us utpadak urja ki dhara (**stream of productive energy**) mein participate na karne ka jo har samay hamare liye available rehti hai.
+
+Jab hum khud ko sikuda hua (**constricted**) mahsoos karte hain, toh hum surrender (samarpan) ke zariya ek raasta ya khulasa (**opening**) create karna shuru kar sakte hain. Agar hum apne analysis karne wale thoughts (**analytical thoughts**) ko jaane dein, toh bahaav hamare zariya kahin zyada aasaani se ek raasta dhoondhne mein kaabil ho sakta hai. Hum sochna aur koshish karna (**think and try**) chhod kar, bas ban sakte hain aur kar sakte hain (**be and do**). Future ka andaza lagane (**anticipating the future**) ke bajaye, present (maujuda pal) mein create karein.
+
+Har baar jab hum surrender karte hain, toh hum yeh paa sakte hain ki jo answer hum dhoondh rahe hain woh bilkul hamari aankhon ke samne (**right before our eyes**) hai. Ek naya idea paida hota hai. Kamre mein rakhi koi cheez inspire karti hai. Body mein feelings aur badh (**amplify** ho) jaati hain.
+
+Mushkil moments mein is baat par vichar karna qeemti hai jab hum atke hue (**stuck**) dikhte hain, apna raasta kho chuke hote hain, ya hamare paas dene ke liye kuch nahi bacha hota.
+
+Kya ho agar yeh sab mahaj ek kahani ho?
+
+Is baat ka dhyan rakhein ki kisi project ko samay se pehle (**prematurely**) na chhodein kyunki aapne sab-ya-kuch-nahi wali soch (**all-or-nothing thinking**) ke aage ghutne tek diye hain. Maine kai artists ko isi wajah se projects shuru karte aur unhe phenkte hue dekha hai. Kisi piece ko create karna, usmein ek kami (**flaw**) ko recognize karna, aur poore kaam ko kharij karne ki chah rakhna aasan hai. Yeh reflex (andharuni reaction) life ke saare areas mein hota hai.
+
+Jab aap kaam ko dekhte hain, toh bina kisi negativity bias (nakaratmak pakshpat) ke, wahan jo maujood hai use sach mein dekhne ki practice karein. Sirf kami par focus karne aur use taqat par haavi hone dene ke bajaye, taqat aur kamzori (**strength and weakness**) dono ko dekhne ke liye khule rahein. Aapko realize ho sakta hai ki 80 percent kaam kaafi achha hai, aur agar baaki ka 20 percent bilkul sahi tareeqe se fit baith jata hai, toh kaam shaandar (**magnificent**) ban jata hai. Yeh poore kaam ko kachre mein phenkne (**trashing the work**) se kahin behtar hai sirf isliye kyunki ek chhota sa hissa perfect fit nahi baith raha hai. Jab aap kisi kamzori ko swikar karte hain, toh poore piece ko kharij karne se pehle hamesha is baat par vichar karein ki use kaise hataya ya behtar banaya ja sakta hai.
+
+Kya ho agar creativity ka source hamesha wahin ho, hamari chetna ke darwazon (**doors of our perception**) par sabr ke sath dastak de raha ho, hamare taale kholne ka intezar karte hue?
+
+---
+
+Agar aap khule hain
+
+aur jo ho raha hai
+
+uspar dhyan lagaye rakhte hain,
+
+toh saare answers samne aa jayenge.
