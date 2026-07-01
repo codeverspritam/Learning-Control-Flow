@@ -2902,3 +2902,33 @@ Apne aap ko andaruni aawazon se aazad karne ke liye kaam karna ek tarah ka medit
 Agar us period ke dauran koi bhi distractions samne aati hain, toh unhe ignore mat karein ya unpar focus mat karein. Unhe bilkul bhi koi energy mat dein. Unhe guzar jaane dein, bilkul kisi pahad ke aas-paas se bhatte hue baadlon (**clouds parting around a mountain**) ki tarah.
 
 Regular roop se is practice mein shamil hona focused intention (keshriya irade) ki muscle ko build karta hai, jiska use aap jo kuch bhi karte hain usmein kar sakte hain. Aakhirkar, kamzor karne wali aawazon (undermining voices) se dhyan hatana aur kaam mein khud ko kho dena kisi ichha-shakti ka zor (**effort of will**) nahi hoga, balki ek kamayi hui ability (**earned ability**) hogi.
+
+---
+
+# Chapter 46: Self-Awareness 
+
+Bachhon ke roop mein, hummein se bahut kam logon ko apni feelings ko samajhna aur unhe priority (parthamikta) dena sikhaya jata hai. Zyadatar hisse ke liye, educational system humse hamari sensitivity (samvedansheelta) tak pahonchne ke liye nahi kehta, balki obedient (gyakaari) banne ke liye kehta hai. Woh karne ke liye jiski umeed ki jaati hai. Hamari natural aazad rooh (**natural independent spirit**) ko paaltu ya kaabu (tamed) kar liya jata hai. Free thought (aazad soch) ko rok (constrain kar) diya jata hai. Hamare upar rules aur expectations ka ek naya set thop diya jata hai jo is baare mein nahi hota ki hum kaun hain ya hum kya karne ke kaabil hain, uski khoj ki jaye.
+
+Yeh system hamare fayde ke liye yahan nahi hai. Yeh apne khud ke lagatar wajood (**continued existence**) ko support karne ke liye humein vyaktigat roop se peeche dhakelta hai. Yeh independent thinking (aazad soch) aur free expression (mukt abhivyakti) ke liye khaas taur par kamzor karne wala (**undermining**) hai. Artists ke roop mein, hamara mission fit hona ya popular soch ke mutabik dhalna (**conform to popular thinking**) nahi hai. Hamara maqsad khud ki aur hamare aas-paas ki duniya ki hamari samajh ki qeemat karna aur use develop karna hai.
+
+Self-aware hone ka matlab ek aasi ability hona hai jisse hum bina kisi bhatkao ya rukawat (**interference**) ke yeh jaan sakein ki hum kya sochte hain, hum kaisa feel karte hain, aur hum use kitna feel karte hain. Yeh notice karna ki hum baahari duniya ko kaise notice karte hain.
+
+Apni self-awareness ko badhane aur use nikharna (**expand and refine**) ki ek achhi tarah se tuned ability hi ashadharan kaamon (**revelatory works**) ko banane ki chaabi hai. Kabhi-kabhi kaafi achhe (**pretty good**) ke kai saare versions hote hain. Humein kaise pata chalta hai jab hum mahanata (**greatness**) par pahonchte hain?
+
+Self-awareness humein body mein jo chal raha hai use sunne ki permission deti hai, aur un energetic badlavo (changes) ko notice karne deti hai jo ya toh humein aage khinchte hain ya humein door dhakelte hain. Kabhi-kabhi woh bahaut baareek (subtle) hote hain, doosri baar behadd intense (teevra) hote hain.
+
+Artists ke roop mein hamari self-awareness ki definition directly us tareeqe se relate karti hai jis se hum apne andaruni experience (**inner experience**) par dhyan dete hain, na ki us tareeqe se jismein hum baahar se dekhe jaate hain (**externally perceived** hote hain). Hum khud ko doosron ki aankhon se dekhne wale apne wajood ke sath jitna zyada jodte (identify karte) hain, hum utne hi zyada disconnected hote jaate hain aur hamare paas nikalne ke liye utni hi kam energy bachti hai.
+
+Hum ek uchi chetna (**higher consciousness**) ke liye apna haath aage badhate hain. Apne maane gaye wajood (perceived self) aur limitations (seemon) ke sath lgaav ya attachment ko chhodte hue. Hum khud ko define karne ki koshish nahi kar rahe hain, balki khud ko bada karne (**expand** karne), apni aseemit nature (**limitlessness nature**) aur jo kuch bhi hai uske sath apne connection par dhyan dene ki koshish kar rahe hain.
+
+Self-awareness ek parmata ya pare jaana (**transcendence**) hai. Ego (ahankaar) ka tyaag (**abandonment of ego**) hai. Ek jaane dena (**letting go**) hai.
+
+Yeh dharana (**notion**) shaayad bhatkaane wali ya pakad mein na aane wali (**elusive**) lag sakti hai, kyunki ek hi saans mein, ismein self par dhyan dena (tuning in to the self) aur self ko samarpit karna (**surrendering the self**) dono shamil hain. Phir bhi yeh utne viparrit (contradictory) nahi hain jitna yeh lag sakte hain. Artists ke roop mein, hum khud ke paas jaakar universe ke aur paas jaane ki ek lagatar khoj (**continual quest**) par hain. Us point ke aur zyada kareeb badhte hue jahan hum ab yeh nahi bata sakte ki kahan ek shuru hota hai aur kahan doosra khatam hota hai. Hum yahin (here) se abhi (now) tak ke ek door ke adhyatmik safar (**metaphysical journey**) par hain.
+
+---
+
+Ise is tarah kaam karna helpful hota hai
+
+jaise ki aap jis project mein shamil hain
+
+woh aapke wajood se kahin bada hai.
