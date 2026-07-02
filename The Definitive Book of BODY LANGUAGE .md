@@ -4310,3 +4310,264 @@ Kaafi auraten business mein chhoti dresses pehenti hain kyunki media yahi baar b
 Auraton ke saath business mein — yahi rule laagu hota hai — ghutne saath rakho.
 
 ---
+
+# Chapter 11 — The Thirteen Most Common Gestures You'll See Daily
+
+### *(Tera Sabse Common Gestures Jo Aap Roz Dekhte Hain)*
+
+---
+
+> *The number-one gesture cluster women can't tolerate men doing at work*
+> *(Kaam ki jagah par mardoon ka woh sabse bada gesture cluster jise auraten bilkul bardaasht nahi kar saktin)*
+
+---
+
+Log shayad hi kabhi anjaane mein un lagbhag simple dikhne wali nonverbal cheezon ke asar ke baare mein jaankaar taur par sochte hain jo woh karte hain. Misal ke taur par, jab ek insaan kisi doosre ko gale lagaata (hugs) hai, toh zyaadatar dekhne wale chupchaap yeh maan lete hain ki gale milne ke aakhiri waqt mein jo peeth thapathapaana (back patting) hota hai, woh sneh ya mohabbat (affection) ka ek gesture hai, aur jo air kisses kiye jaate hain—yaani kisi ke gaal ke paas se nikalne wali awaaz—woh bhi affection hai. Asliyat yeh hai ki us thapathapaane (pat) ka use theek usi tarah kiya jaata hai jaise professional wrestlers karte hain—doosre insaan ko gale milna khatam karne aur pakad (clinch (pakar)) ko todne ke liye kehna. Agar aap sach mein kisi ko gale lagaane ke liye zyaada utsuk ya shaukeen (keen (shaukeen)) nahi hain, lekin majbooran aisa karna pad raha hai kyunki aapke aage wale logon ne aisa kiya, toh aap shayad gale milna shuru hone se pehle hi haawa mein peeth thapathapaana shuru kar denge. Air kiss—apni saath aane wali awaaz ke saath—ek asli kiss ki jagah lene (displacement (asli cheez ki jagah lena)) ke roop mein di jaati hai, jise hum sach mein dena nahi chahte.
+
+Zyaadatar log clinch ko todne ke liye Shoulder Tap ka use karte hain—sachche gale milne wale majbooti se pakde rehte hain. Jab woh use mazbooti se thame hue thi, tab woh tezi se tap-tap kar raha tha.
+
+Yeh chapter kuch sabse common head gestures aur body-language clusters ko cover karta hai jinhe aap doosron ke saath apne rozmarra ke len-den mein dekh sakte hain.
+
+## The Head Nod
+
+*(Sir Hilana — Haan Mein)*
+
+Zyaadatar cultures mein Head Nod ka use "Haan" ya sahamati dikhane ke liye kiya jaata hai. Yeh jhukne (bowing) ka ek ruka hua ya chhota roop (stunted (buna/ruka hua)) hai—insaan prateekatmak (symbolically) taur par jhukne jaata hai lekin beech mein hi ruk jaata hai, jiske nateejay mein sir hilna hota hai. Jhukna ek dabbu ya samarpan karne wala (submissive (dabbu ya samarpan karne wala)) gesture hai, isliye Head Nod dikhata hai ki hum doosre insaan ke point of view ke saath chal rahe hain. Jo log behre, gonge aur andhe paida hue the, un par ki gayi research dikhati hai ki woh bhi "Haan" kehne ke liye is gesture ka use karte hain, isliye yeh samarpan ka ek janmjaat gesture lagta hai.
+
+India mein, sir ko ek taraf se doosri taraf dolaya jaata hai, jise Head Wobble kehte hain, "Haan" ka signal dene ke liye. Yeh Westerners aur Europeans ke liye confusing hota hai, jo is gesture ka use "Shayad haan—shayad naa" communicate karne ke liye karte hain. Jaisa ki hum pehle hi keh chuke hain, Japan mein sir hilane ka matlab zaroori nahi ki "Haan, main sahmat hoon" ho—iska aam taur par matlab hota hai "Haan, main aapko sun raha hoon."
+
+Sir hilane ka mool (origin) chhota ya matahat dikhne ke liye jhukne mein hai.
+
+Arab deshoon mein, woh sir ki ek upar ki taraf single harqat karte hain, jiska matlab 'no' hota hai, jabki Bulgarians 'no' ke common gesture ka use 'yes' ke matlab ke liye karte hain.
+
+## Why You Should Learn to Nod
+
+*(Aapko Sir Hilana Kyun Seekhna Chahiye)*
+
+Zyaadatar logon ne kabhi persuasion (manane/manvaane) ke tool ke roop mein sir hilane ki taqat par vichar nahi kiya hai. Research dikhati hai ki log aam se teen se chaar guna zyaada baat karenge jab sunne wala niyamit intervals (antaraal) par teen-teen baar sir hilane ke groups ka use karke apna sir hilaata hai. Sir hilane ki speed sunne wale ke sabr—ya sabr ki kami—ka signal deti hai. Dheere-dheere sir hilana communicate karta hai ki sunne wala is baat mein interested hai jo bolne wala keh raha hai, isliye jab doosra insaan koi point rakh raha ho toh dheere, soche-samjhe teen head nods ke clusters dein. Tezi se sir hilana bolne wale ko batata hai ki aapne kaafi sun liya hai ya aap chahte hain ki woh khatam karein ya aapko bolne ki baari (turn) dein.
+
+## How to Encourage Agreement
+
+*(Sahamati Ko Kaise Badhava Dein)*
+
+Head Nod ke do powerful uses hain. Body language andaruni feelings ka ek anjaane mein baahri reflection hai, isliye agar aap positive ya affirmative feel karte hain, toh bolte waqt aapka sir hilna shuru ho jayega. Iske ulat, agar aap sirf jaan-boojhkar apna sir hilana shuru kar dete hain, toh aap positive feelings mehsoos karna shuru kar denge. Doosre lafzon mein, positive feelings ki wajah se sir hilta hai—aur iska ulta bhi sach hai: sir hilane se positive feelings paida hoti hain. Yeh phir se kaaran aur asar (cause and effect) hai.
+
+Sir hilana chhoot ki tarah phailne wala (contagious (chhoot ki tarah phailne wala)) bhi hota hai. Agar koi aap par apna sir hilaata hai, toh aap bhi aam taur par sir hilayenge—bhale hi aap zaroori nahi ki us baat se sahmat hon jo woh keh rahe hain. Ghandishth taal-mel (rapport (ghanishth taal-mel)) banane, sahamati aur sahyog paane ke liye Head nodding ek excellent tool hai. Har sentence ko ek verbal affirmation ke saath khatam karke, jaise "Hai na?" "Kya aap nahi karenge?" "Kya yeh sach nahi hai?" ya "Theek hai na?" aur bolne wale aur sunne wale dono ke apne sir hilane ke saath, sunne wala positive feelings mehsoos karta hai jo unhe aapki baat se sahmat karwane ki zyaada sambhavna paida karti hain.
+
+Sir hilana sahyog aur sahamati ko badhava deta hai.
+
+Aapke sawaal poochne ke baad aur sunne wale ke apna javab dene ke dauran, uske javab ke beech apna sir hilayein. Jab woh bolna khatam kar le, toh lagbhag ek nod per second ki raftaar se mazeed paanch baar apna sir hilana jaari rakhein. Aam taur par, jab tak aap chaar tak ginte hain, sunne wala phir se bolna shuru kar dega aur aapko zyaada jankari dega. Aur jab tak aap sir hilaate hain aur evaluation (moolyankan) ki position mein thodi (chin) par haath rakh kar chup rehte hain, tab tak aap par bolne ka koi pressure nahi hota aur aap kisi sawaal-javaab karne wale (interrogator (sawaal-javaab karne wala)) ki tarah nahi dikhenge. Jab aap sunte hain, toh apne haath ko thodi par rakhein aur ise halke se stroke (sehlana) dein kyunki, jaisa ki pehle bataya gaya hai, research dikhati hai ki yeh doosron ke baat jaari rakhne ko badhava deta hai.
+
+## The Head Shake
+
+*(Sir Hilana — Naa Mein)*
+
+Research yeh bhi ishaara karti hai ki Head Shake, jiska aam taur par matlab "No" hota hai, ek janmjaat action ho sakta hai aur evolutionary biologists ka manna hai ki yeh pehla gesture hai jo insaan seekhte hain. Yeh theory kehti hai ki jab newborn baby kaafi milk pee chuka hota hai, toh woh apni maa ke breast ko reject karne ke liye apne sir ko ek taraf se doosri taraf hilaata hai. Isi tarah, ek baccha jo kaafi kha chuka hota hai, use chammach se khilane (spoon-feed) ki koshishon ko reject karne ke liye Head Shake ka use karta hai.
+
+Sir ko na mein hilane ka mool breastfeeding (doodh pilane) se juda hai.
+
+Jab koi aapko convince karne ki koshish kar raha ho, toh dhayan dein ki kya woh haan kehte waqt Head Shake gesture ka use kar raha hai. Woh insaan jo kehta hai, "Main aapka point of view samajh sakta hoon" ya "Yeh achha lagta hai" ya "Hum definitely business karenge" jabki woh apne sir ko ek taraf se doosri taraf hila raha ho, toh woh sunne mein convincing lag sakta hai, lekin Head Shake gesture ek negative attitude ka signal deta hai aur aapko iske baare mein shakk-mizaj (skeptical (shakk-mizaj)) rehne ki achhi salah di jayegi.
+
+Koi bhi aurat aise mard par bharosa nahi karti jo sir na mein hilaate hue kahe "I love you".
+
+Jab Bill Clinton ne Monica Lewinsky ki jaanch (inquest) ke dauran apna famous phrase bola tha, "Mera us aurat ke saath sex nahi tha," toh unhone Head Shake ka use nahi kiya bloor.
+
+## The Basic Head Positions
+
+*(Sir Ki Buniyadi Positions)*
+
+### 1. Head Up
+
+*(Sir Upar — Neutral Position)*
+
+Sir ki teen basic positions hoti hain. Pehli position Head Up ke saath hai aur yeh us insaan dwara li jaati hai jiska boli jaane wali baat ke baare mein ek bina kisi paksh ke (neutral (bina kisi paksh ke/neutral)) attitude hota hai. Sir sthir (still) rehta hai aur conversation ke beech-beech mein kabhi-kabhi chote nods aa sakte hain. Hand-to-Cheek evaluation gestures ka use aksar is position ke saath kiya jaata hai.
+
+Margaret Thatcher apne akadh-bhare/baaghi (defiant (akadh-bhara/baaghi)) Chin Thrust ka use karte hue.
+
+Jab sir ko chin ko aage nikaal kar ooncha uthaya jaata hai, toh yeh superiority (shresthata), darr-heenata, ya ghamand ka signal deta hai. Insaan jaan-boojhkar apne gale ko khol deta hai aur unhe extra height milti hai, jo unhe aap par "apni naak ke neeche se dekhne" (look down their nose) ki izazat deti hai. Badi chhin high testosterone levels ka nateeja hoti hain, yahi wajah hai ki chin-jutting (thodi aage nikaalna) ko taqat aur aggression (gusse/akadh) se joda jaata hai.
+
+### 2. The Head Tilt
+
+*(Sir Ka Ek Taraf Jhukna)*
+
+Sir ko ek taraf jhukana (tilting) ek samarpan ka signal hai kyunki yeh gale aur gardan (neck) ko khol deta hai aur insaan ko chhota aur kam khatarnak dikhata hai. Iska sambhavit mool bacche ke apne parent ke kandhe ya chaati par sir rakhne mein hai, aur jo submissive, nonthreatening matlab yeh convey karta hai, woh lagbhag zyaadatar logon dwara, khaaskar auraton dwara, anjaane mein samjha jata hai.
+
+Head Tilt asurakshit/naazuk (vulnerable (asurakshit/naazuk)) gardan ko dikhata hai aur insaan ke appearance ko chhota aur zyaada submissive banata hai.
+
+Charles Darwin pehle logon mein se ek the jinhone note kiya ki insaan, saath hi jaanwar bhi—khaaskar kutte—apne sir ko ek taraf jhuka dete hain jab woh kisi cheez mein interested hote hain. Auraten is gesture ka use un mardoon mein interest dikhane ke liye karengi jinhe woh pasand karti (fancy (pasand karna)) hain kyunki ek aurat jo nonthreatening hai aur submission dikhati hai, woh zyaadatar mardoon ke liye attractive hoti hai.
+
+Vulnerable gardan ko zahir karne ke liye sir ko jhukana lagbhag zyaadatar logon dwara bina soche, andaruni samajh se (intuitively (bina soche, andaruni samajh se)) samjha jata lagta hai.
+
+Pichle do hazar saalon ki paintings ke studies dikhate hain ki auraton ko mardoon ke mukable teen guna zyaada baar Head Tilt ka use karte hue dikhaya gaya hai aur advertisements mein auraton ko mardoon ke mukable teen guna zyaada baar apne sir jhukaate hue dikhaya gaya hai. Yeh dikhata hai ki kaise zyaadatar log, ek intuitive level par, samajhte hain ki gardan ka pradarshan samarpan dikhata hai. Halanki, mardoon ke saath business negotiations mein, ek aurat ko har waqt apna sir upar rakhna chahiye.
+
+Agar aap koi presentation de rahe hain ya speech de rahi hain, toh apni audience ke beech is gesture ko dekhne ka ek point banayein. Jab aap kisi audience ko apne sir jhukaate aur Hand-to-Chin evaluation gestures ka use karte hue aage jhukte hue dekhte hain, toh aapka point un tak pahunch raha hai. Jab aap doosron ko sunte hain, toh Head Tilt aur Head Nods ka use karein aur sunne wala aapke prati bharosemand feel karna shuru kar dega kyunki aap nonthreatening lagte hain.
+
+### 3. Head Down
+
+*(Sir Neeche)*
+
+Jab chin neeche hoti hai, toh yeh signal deta hai ki ek negative, judgmental, ya aggressive attitude majood hai. Critical evaluation clusters aam tor par sir neeche karke banaye jaate hain aur jab tak insaan ka sir uthta ya jhukta nahi hai, aapko ek problem ho sakti hai. Professional presenters aur trainers ka samna aksar aisi audience se hota hai jo apne sir neeche kiye aur baazoon ko apni chaati par cross karke baithi hoti hai.
+
+Experienced conference speakers aur presenters apni presentation shuru karne se pehle apni audience ko involve karne aur participation paane ke liye action lenge. Iska maqsad audience ke sir ko upar uthana aur involvement paana hota hai. Agar speaker ki tactic safal rehti hai, toh audience ki agli head position Head Tilt hogi.
+
+Head Down na-pasandi ya niraasha/udaasi (dejection (niraasha/udaasi)) dikhata hai.
+
+English logon ka ek ajeeb/anokha (peculiar (ajeeb/anokha)) greeting gesture hota hai jise Head Twist kehte hain, jisme sir ko neeche karte hue saath-saath sir ko ek taraf twist karna shamil hai. Yeh medieval times se aaya hai jab mard greeting ke ek roop mein apni topi utarte (doff (topi utarna ya jhukana)) the; yeh evolve hokar sirf sir ko dubona aur topi ko chhoona ban gaya, jo modern times mein ab Head Twist, salute, ya kisi se milte waqt sirf maathee ko tap karna hai.
+
+## The Head Duck
+
+*(Sir Ko Neeche Sikoorna)*
+
+Kandhoon ko uthana aur sir ko unke beech neeche kheenchna ek insaan ko vulnerable neck aur gale ko chot se bachane deta hai. Yeh woh cluster hai jo tab use hota hai jab koi insaan apne peeche ek tez dhamaka sunta hai ya agar unhe lagta hai ki koi cheez un par gir jayegi. Jab iska use personal ya business context mein kiya jaata hai toh yeh ek submissive maafi ka sanket deta hai, jo kisi bhi aisi mulaqat ke asar ko kam karta (detracts (ehmiyat ya asar kam karna)) hai jahan aap confident dikhne ki koshish kar rahe hon.
+
+Jab koi un logon ke paas se guzarta hai jo baat kar rahe hain, view ko admire kar rahe hain, ya kisi speaker ko sun rahe hain, toh woh apna sir neeche khinchte hain, apne kandhoon ko andar ghumate hain, aur chhota aur kam important dikhne ki koshish karte hain. Ise Head Duck ke roop mein jaana jaata hai. Yeh matahat/neeche kaam karne wale (subordinates (matahat/neeche kaam karne wale)) dwara superiors ke paas aane ke liye bhi use kiya jaata hai, aur individuals ke beech status aur power play ko zahir karta hai.
+
+Head Duck—doosron ko thes na pahunchane ke liye chhota dikhne ki koshish karna.
+
+## Picking Imaginary Lint
+
+*(Kaalpnik Lint Ko Chunna)*
+
+Jab koi insaan doosron ke opinions ya attitudes ko na-pasand karta hai lekin kuch kehna nahi chahta, toh displacement gestures hone ki sambhavna hoti hai, yaani, aisi lagbhag innocent dikhne wali body-language gestures jo ek chhupakar rakhi hui (withheld (chhupakar rakhi hui)) raai ko zahir karti hain. Apne khud ke kapdo se lint (rooen) ke kaalpnik pieces ko chunna aisa hi ek gesture hai. Lint-picker aam taur par is lagbhag chhoti, bematlab/gair-zaruri (irrelevant (bematlab/gair-zaruri)) action ko karte waqt neeche aur doosron se door dekhta hai. Yeh na-pasandi ka ek common signal hai aur ek achha sign hai ki use woh pasand nahi aa raha hai jo kaha ja raha hai, bhale hi woh sunne mein aisa lage jaise woh sab kuch se sahmat hai.
+
+Lint-picker ki ek secret raai hoti hai aur woh ise bayan na karna pasand karta hai.
+
+Apni hatheliyan kholein aur kahein, "Aap kya sochte hain?" ya "Main dekh sakta hoon ki is par aapke kuch vichaar hain. Kya aap mujhe batayenge ki woh kya hain?" Peeche baithein, baazoon ko door rakhein, hatheliyan visible hon, aur javab ka intezar karein. Agar insaan kehta hai ki woh aapke saath sahamati mein hai lekin kaalpnik lint chunna jaari rakhta hai, toh aapko uske chhupaye hue objections ko discover karne ke liye ek mazeed direct approach lene ki zarurat ho sakti hai.
+
+## How We Show We're Ready for Action
+
+*(Hum Kaise Dikhate Hain Ki Hum Action Ke Liye Taiyar Hain)*
+
+Ladne ya courting (lubhane) ke rituals ke liye bada dikhne ke liye, birds apne pankh phulaati hain, fish pani ko andar khinch kar apna body size expand kar sakti hain, aur cats ya dogs apne fur ko khada kar lete hain. Halanki, baal-heen insaan ke paas ab darr ya gusse ke waqt apne aap ko mazeed imposing (shandaar/bada) dikhane ke liye expand karne ke liye ek moti twacha (pelt) nahi hai. Jab hum kisi scary movie ko describe karte hain toh hum aksar kehte hain, "Isne mere baal khade kar diye;" agar hum kisi par gussa ho jaate hain, "Usne meri gardan ke hackles (gardan ke baal) utha diye;" aur jab hum kisi ke pyaar mein paagal hote hain, toh woh hame "goose bumps" (rongte) de sakte hain. Yeh sab sharir ke mechanical reactions hain aisi sthitiyon ke liye jisme hum apne aap ko bada dikhane ki koshish karte hain aur twacha par erector pillae muscles ki wajah se hote hain, jo humare non-existent pelt ko khada karne ki koshish karti hain. Modern humans ne, halanki, ek bada physical presence haasil karne mein madad karne ke liye ek gesture ka ijaad kiya hai—Hands-on-Hips gesture.
+
+Kandhe upar aur pointed hona dominate karne ki taiyari dikhata hai; kandhe andar aur sir jhuka hona submission dikhata hai.
+
+Hands-on-Hips ka use apne parent se behes karne wale bacche, apne event ke shuru hone ka intezar karne wale athlete, bout (muqable) ke shuru hone ka intezar karne wale boxer, aur un mardoon dwara kiya jaata hai jo un doosre mardoon ko ek nonverbal challenge dena chahte hain jo unke territory mein enter karte hain. Har instance mein, insaan Hands-on-Hips pose leta hai aur yeh ek universal gesture hai jo communicate karne liye use hota hai ki ek insaan apni baat dum-kham se kehna/dabang (assertive (apni baat dum-kham se kehna/dabang)) action ke liye taiyar hai. Yeh insaan ko zyaada space lene deta hai aur isme pointed kandhoon ka threat value hota hai jo weapons ki tarah kaam karte hain, doosron ko paas aane ya guzarne se rokte hain. Baazoon ka aadha utha hona attack ke liye taiyari dikhata hai aur yeh gunfight mein cowboys dwara li jaane wali position hai. Hip par sirf ek haath bhi intended message bhej dega, khaaskar tab jab yeh intended victim ki taraf point kiya gaya ho. Yeh har jagah use hota hai, aur Philippines aur Malaysia mein yeh gusse ya aakrosh ka isse bhi zyaada strong message carry karta hai.
+
+Ise "readiness" gesture ke roop mein bhi jaana jaata hai, yaani, insaan assertive action ke liye taiyar hai, iska basic matlab har jagah ek halke se aggressive attitude ko carry karta hai. Ise "achiever" stance bhi kaha gaya hai, jo goal-directed insaan se related hai jo apne objectives se nipatne ke liye taiyar hai ya kisi cheez par action lene ke liye taiyar hai. Mard aksar auraton ke aas-paas ek assertive male attitude ko display karne ke liye is gesture ka use karte hain.
+
+Hands-on-Hips aapko bada aur zyaada noticeable banata hai kyunki aap zyaada space lete hain.
+
+Insaan ke attitude ka ek accurate moolyankan karne ke liye context aur Hands-on-Hips pose se theek pehle ki doosri body language par vichar karna zaruri hai. Misal ke taur par, kya coat khula hai aur hips par peeche dhakaela gaya hai, ya jab aggressive pose liya jaata hai toh yeh buttoned (band) hota hai? Closed-Coat-Readiness frustration dikhata hai, jabki coat khula aur peeche dhakeled diya jaana directly aggressive hai kyunki insaan darr-heenata ke pradarshan mein apne front ko openly expose kar raha hota hai. Is position ko zameen par pairon ko barabar door rakh kar ya gesture cluster mein clenched fists (bheenzi hui mutthiyan) add karke mazeed reinforce kiya jaata hai.
+
+Hands-on-Hips—kapdo ko zyaada appealing banane ke liye models dwara use kiya jaata hai.
+
+Yeh aggressive-readiness clusters professional models dwara yeh impression dene ke liye use kiye jaate hain ki unke kapde modern, assertive, forward-thinking aurat ke liye hain. Kabhi-kabhi gesture hip par sirf ek haath ke saath kiya ja sakta hai aur doosra doosra gesture display kar raha hota hai. Yeh aam taur par un auraton dwara use kiya jaata hai jo pelvic tilt ke saath is cluster ka use karke apne hips-to-waist ratio ko emphasize karke apni taraf attention draw karna chahti hain, jo bache paida karne ki kshamta (fertility (bache paida karne ki kshamta)) ko indicate karta hai. Hands-on-Hips ka use court-ship (lubhane) mein mardoon aur auraton dono dwara niyamit roop se apni taraf attention draw karne ke liye kiya jaata hai.
+
+## The Cowboy Stance
+
+*(Cowboy Ka Andaaz)*
+
+Belt mein ya pockets ke tops mein tucked thumbs, genital area ko frame karte hain aur yeh ek aisa display hai jo mukhya roop se mardoon dwara ek sexually aggressive attitude dikhane ke liye use kiya jaata hai. Yeh television Westerns mein viewers ko unke favorite gunslinger ki mardanagi/paurush (virility (mardanagi/paurush)) dikhane liye use kiya jaane wala sabse common gesture hai.
+
+Mazaak mein ise Man-of-the-Long-Thumbs gesture bhi kaha jata hai, baazoo readiness position lete hain aur haath central indicators ke roop mein kaam karte hain, crotch (donno tango ke beech ka hissa) ko highlight karte hue. Mard is gesture ka use apna territory stake karne ke liye ya doosre mardoon ko yeh dikhane ke liye karte hain ki woh nidarr hain. Apes isi gesture ka use karte hain, lekin bina kisi belt ya trousers ke.
+
+Cowboy stance—uski ungliyan us taraf point karti hain jise woh chahta hai ki aap notice karein.
+
+Yeh gesture doosron ko batata hai, "Main virile hoon—main dominate kar sakta hoon," yahi wajah hai ki yeh talaash mein ghoomna (prowl (talaash mein ghoomna)) wale mardoon ke liye ek regular hai. Kisi aurat se baat karne wala koi bhi mard jab is tarah khada ho—phaili hui (dilated (phaili hui)) aankhon ki putaliyon ke saath aur ek pair uski taraf point karte hue—toh zyaadatar auraton dwara aasaani se padha ja sakta hai. Yeh un gestures mein se ek hai jo zyaadatar mardoon ke game ko khol deta hai, kyunki woh bina jaane/anjaane mein (unwittingly (bina jaane/anjaane mein)) uske saamne declare kar dete hain ki unke dimaag mein kya chal raha hai.
+
+Sexually assertive female (mahila).
+
+Yeh gesture mukhyatah mardoon dwara use kiya jaata hai, lekin jeans aur trousers pehne auraton ko bhi kabhi-kabhi aisa karte hue dekha ja sakta hai. Dresses ya skirts pehte waqt, sexually assertive female ek ya dono thumbs ko belt ya pocket mein tuck karke display karti hai.
+
+## Sizing Up the Competition
+
+*(Muqablebaaz Ko Jaanchna)*
+
+Agla illustration do mardoon ko ek doosre ko size up (jaanchte) karte hue dikhata hai, characteristic Hands-on-Hips aur Thumbs-in-Belt gestures ka use karte hue. Yeh dekhte hui ki woh dono ek doosre se ek angle par ghoome hue hain aur unke bodies ke lower halves relaxed dikhte hain, yeh maanana reasonable hai ki woh anjaane mein ek doosre ko evaluate kar rahe hain aur confrontation (takraav) ki sambhavna kam hai.
+
+Competition ko size up karna.
+
+Unki conversation casual ya friendly sunne mein lag sakti hai, lekin ek relaxed maahol tab tak majood nahi hoga jab tak unke Hands-on-Hips gestures ko drop nahi kiya jaata aur open gestures ya head tilting ka use nahi kiya jaata.
+
+Agar yeh do mard zameen par apne feet planted firmly karke aur legs apart karke directly ek doosre ka samna kar rahe hote, toh ek fight ki sambhavna ho sakti thi.
+
+Gesture clusters aggressive attitudes dikhate hain.
+
+Bhale hi Adolf Hitler ne publicity photographs ke liye roabdaat (authoritative (roabdaat)) dikhne ki koshish karne ke liye Hands-on-Hips gesture ka use kiya, phir bhi woh apne left hand ko apni body cross karne aur apne akela/tanha (solitary (akela/tanha)) testicle ko cover karne ki koshish karne se nahi rok saka.
+
+Contradictory signals: uska right arm pointed aggression dikhata hai, jabki uska left hand uske front ko protect karne ki koshish karta hai.
+
+## The Legs-Spread
+
+*(Tangein Phaila Kar Baithna/Khade Rehna)*
+
+Yeh lagbhag poori tarah se ek male gesture hai aur yeh un apes ke beech bhi dekha jaata hai jo doosre apes par authority establish karne ki koshish kar rahe hote hain. Ladne mein chot lagne ka risk lene ke bajaye, woh apni tangein phailaate hain aur jiska sabse bada display hota hai use sabse dominant ke roop mein dekha jaata hai. Aur aisa hi male humans ke saath bhi hai; bhale hi yeh aam taur par anjaane mein kiya jaata hai, yeh ek powerful message bhejta hai. Agar ek mard Legs-Spread karta hai toh doosre aam taur par status maintain karne ke liye mirror (nakal) karte hain, lekin iske bahut negative effects hote hain jab ek mard iska use auraton ke saamne karta hai, khaaskar ek business context mein, kyunki woh iski nakal nahi kar sakti.
+
+Ek aurat mard dwara business situations mein Legs-Spread ka use karne par sahma hua/dara hua (intimidated (sahma hua/dara hua)) feel karegi.
+
+Hamaari videotaped meetings zahir karti hain ki kai auraten apni legs aur arms ko cross karke respond karti hain, jo unhe immediately defensive position mein dal deta hai. Mardoon ke liye yahan salah saaf hai—business meetings mein apni legs ko ek saath rakhein. Agar aap ek aurat hain jiska samna lagaataar ek crotch-displaying male se hota hai, toh jab woh aisa kare toh react mat karein. Yeh aapke khilaf tabhi kaam kar sakta hai agar aap defensively respond karein. Iske bajaye, uske crotch se baat karne ki koshish karein—responses jaise "Aapka wahan ek achha point hai, Bob" aur "Main dekh sakti hoon ki aap kahan se aa rahe hain" ek valuable lesson sikha sakte hain saath hi sahi waqt par use kiye jaane par riotous laughter (bhaari hansi) ka kaaran ban sakte hain.
+
+## Leg-Over-the-Arm-of-Chair
+
+*(Chair Ke Arm Par Leg Rakhna)*
+
+Yeh mukhya roop se mardoon dwara kiya jaata hai kyunki yeh Legs-Spread ka bhi use karta hai. Yeh na sirf chair par mard ke ownership ka sanket deta hai, balki yeh signal bhi deta hai ki uska ek informal, aggressive attitude hai.
+
+Informality, beparwahi, aur fikr ki kami.
+
+Is tarah baithkar do male doston ko ek doosre ke saath hanste aur mazaak karte hue dekhna common hai, lekin aaiye alag circumstances mein iske impact par vichar karein. Maan lijiye ek employee ki personal problem hai aur woh apne boss se salah maangne jaata hai. Jaise-jaise employee explain karta hai, woh chair mein aage jhukta hai, uske haath uske ghutno par hote hain, uska sir neeche hota hai, ek niraash/udaas (dejected (niraash/udaas)) expression aur lowered voice ke saath. Boss bina hile-dule sunta hai, phir apni chair mein peeche jhukta hai aur ek leg ko arm ke upar rakh deta hai. Boss ka attitude ab beparwahi/udaseenta (indifference (beparwahi/udaseenta)) ya fikr ki kami mein badal gaya hai. Doosre lafzon mein, use employee ya uski problem ki koi parwah nahi hai aur woh yeh bhi feel kar sakta hai ki uska waqt "vahi purani kahani" ke saath barbaad kiya ja raha hai. Toh boss kis cheez ke baare mein indifferent tha? Usne employee ki problem par vichar kiya hoga, faisla kiya hoga ki yeh waise bhi koi badi problem nahi hai, aur disinterested ho gaya. Woh apne employee ko chinta na karne aur problem ke aise hi chale jaane ke liye bhi keh sakta hai. Jab tak boss ki leg chair ke arm par rehti hai, uska indifferent attitude lagaataar bane rehna (persist (lagaataar bane rehna)) jaari rahega. Jab employee office chhodta hai, toh boss chain ki saans leta hai aur apne aap se kehta hai, "Shukr hai woh chala gaya!" aur apni leg ko chair ke arm se hata leta hai.
+
+Leg-Over-the-Arm-of-Chair negotiation ke dauran hone par annoying ho sakta hai, aur us insaan ko position badalwane par majboor karna vital hai kyunki woh jitna lamba isme rahega, utna hi lamba uska ek indifferent ya aggressive attitude rahega. Aisa karne ka ek easy tarika yeh hai ki usse aage jhukne aur kisi cheez ko dekhne ke liye kahein, ya, agar aapke paas ek sharaarati sense of humor hai, toh use batayein ki uske trousers mein ek split (phatna) hai.
+
+## Straddling a Chair
+
+*(Kursi Par Ulta Baithna)*
+
+Sadiyon pehle, mard dushman ke spears aur clubs se apne aap ko bachane ke liye shields ka use karte the, aur aaj, civilized man us sab cheez ka use karta hai jo uske disposal (paas) mein ho is same protective behavior ko symbolize karne ke liye jab woh physical ya verbal attack ke tehat hota hai. Isme ek gate, doorway, fence, desk, ya uski motor vehicle ke khule door ke peeche khada hona aur chair par ulta baithna (straddling) shamil hai.
+
+Straddler dominate ya control karna chahta hai jabki, saath hi, apne front ko protect karta hai.
+
+Chair ki back body ko protect karne ke liye ek shield ke roop mein kaam karti hai aur ek insaan ko ek aggressive, dominant personality mein badal sakti hai. Mardoon ki legs bhi ek wide Crotch Display mein phaili hoti hain, jo position mein male assertion ko add karti hai. Zyaadatar Straddlers dominant types hote hain jo doosron par control lene ki koshish karenge jab woh conversation se bored ho jaate hain, aur chair ki back group ke doosre members dwara kisi bhi "attack" se achhi protection ka kaam karti hai. Straddler aksar discreet (hushiyar) hota hai aur lagbhag bina notice kiye straddle position mein slip kar sakta hai.
+
+Straddler ko disarm karne ka sabse easy tarika khade hona ya uske peeche baithna hai, jisse woh attack ke prati vulnerable feel kare aur use apni position badalne par majboor karein. Yeh ek group situation mein achha kaam kar sakta hai kyunki Straddler ki back expose ho jayegi aur yeh use doosri position mein badalne ke liye compel (majboor) karta hai.
+
+Toh aap ek ghumne wali kursi (swivel chair) par baithe Straddler ke saath kya karenge? Ek merry-go-round par crotch-displaying mard ke saath tark karne ka koi matlab nahi hai, isliye sabse best defense nonverbal hai. Apni conversation khade hokar aur Straddler par neeche dekhte hue karein, aur uske Personal Space mein move karein. Yeh uske liye unnerving (pareshan karne wala) hota hai aur woh door jaane ki koshish mein apni chair se peeche bhi gir sakta hai.
+
+Agli baar jab aapke paas koi Straddler visit karne aa raha ho, toh sure karein ki use ek fixed chair par bithayein jisme arms hon taaki use apni favorite position lene se roka ja sake. Jab woh straddle nahi kar sakta, toh uska aam taur par agla move Catapult ka use karna hota hai.
+
+## The Catapult
+
+*(Gulel Mudra)*
+
+Yeh Hands-on-Hips pose ka ek baitha hua version hai sivaye iske ki haath sir ke peeche hote hain jisme elbows dhamki-bhare andaaz mein (menacingly (dhamki-bhare andaaz mein)) baahar ki taraf pointed hoti hain. Phir se, yeh lagbhag poori tarah se ek male gesture hai jo doosron ko intimidate karne ke liye use kiya jaata hai ya yeh aapko ek jhoothi tasalli dekar shant karne (lull (jhoothi tasalli dekar shant karna)) ke liye ek relaxed attitude ka sanket deta hai theek isse pehle ki woh aap par ghaat lagakar hamla karein (ambushes (ghaat lagakar hamla karna)).
+
+Catapult: cool, confident, sab jaanta hai, aur sochta hai ki uske paas kisi bhi doosre se zyaada bananas (kele/taqat) hain.
+
+Yeh gesture professionals jaise accountants, lawyers, sales managers, ya un logon ka typical hai jo kisi cheez ke baare mein superior, dominant, ya confident feel kar rahe hote hain. Agar hum is insaan ka dimaag padh sakein, toh woh aisi baatein keh raha hoga jaise, "Mere paas sabhi javab hain," ya "Sab kuch control mein hai," ya yahan tak ki "Shayad ek din aap bhi mere jitne smart honge." Management personnel niyamit roop se iska use karte hain aur naye appointed male managers sudden iska use karna shuru kar dete hain, is haqeeqat ke bavajood ki unhone apni promotion se pehle shayad hi kabhi iska use kiya tha. Yeh "Know-It-All" (sab-jaanne-waale) individuals dwara bhi use kiya jaata hai aur yeh zyaadatar logon ko intimidate karta hai. Yeh un mardoon ka trademark gesture hai jo chahte hain ki aap realize karein ki woh kitne knowledgeable hain. Iska use ek territorial sign ke roop mein bhi kiya ja sakta hai yeh dikhane liye ki insaan ne us particular area par ek claim stake kiya hai.
+
+Yeh aam taur par ek Figure Four leg position ya Crotch Display ke saath clustered hota hai, jo dikhata hai ki woh na sirf superior feel karta hai, balki uske argue karne ya dominate karne ki koshish karne ki bhi sambhavna hai. Aise kai tarike hain jinse aap is gesture se nipat sakte hain, halaat ke aadhar par. Aap hatheliyan upar karke a आगे jhuk sakte hain aur keh sakte hain, "Main dekh sakta hoon ki aap is baare mein jaante hain. Kya aap comment karna chahenge?" phir peeche baithein aur javab ka intezar karein.
+
+Business meetings mein Catapult ka use karne wale mardoon ke prati auraten jaldi hi ek na-pasandi develop kar leti hain.
+
+Aap koi cheez uski reach se theek baahar rakh sakte hain aur pooch sakte hain, "Kya aapne yeh dekha hai?" use aage jhukne par majboor karte hue. Agar aap ek mard hain, toh gesture ko copy karna Catapulter ko handle karne ka ek simple tarika ho sakta hai kyunki mirroring equality paida karti hai. Halanki, yeh ek aurat ke liye kaam nahi karta hai kyunki yeh uske breasts ko display par dal deta hai, jisse woh ek disadvantage par chhod deti hai. Yahan tak ki flat-chested auraten jo Catapult ka attempt karti hain, unhe mardoon aur auraton dono dwara "aggressive" describe kiya jata hai.
+
+Catapult auraton ke liye kaam nahi karta, yahan tak ki flat-chested vaaliyon ke liye bhi nahi.
+
+Agar aap ek aurat hain aur ek mard aisa karta hai, toh conversation ko khade hokar jaari rakhein. Yeh Catapulter ko position badalne par majboor karta hai taaki woh conversation jaari rakh sake. Jab woh Catapult rok de, toh phir se baith jayein. Agar woh phir se catapult karta hai, toh khade ho jayein. Yeh doosron ko aapko intimidate na karne ki training dene ka ek non-aggressive tarika hai. Doosri taraf, agar Catapult ka use karne wala insaan aapka superior hai aur aapko fatkaar lagana (reprimanding (fatkaar lagana)) raha hai, toh aap is gesture ko copy karke use intimidate karenge. Misal ke taur par, do equals ek doosre ki presence mein equality aur agreement dikhane liye Catapult ka use karenge, lekin agar koi sharaarati schoolboy aisa karega, toh yeh school principal ko gussa dilana/bhadkaana (infuriate (gussa dilana/bhadkaana)) dega.
+
+Ek insurance company mein, humne paaya ki tees mein se sattas male sales managers apne salespeople ya subordinates ke aas-paas niyamit roop se Catapult ka use karte the lekin apne superiors ki presence mein shayad hi kabhi. Halanki, jab woh apne superiors ke saath the, toh wahi managers submissive aur subordinate gesture clusters ka use karne ke zyaada kabil the.
+
+## Gestures That Show When a Person Is Ready
+
+*(Gestures Jo Dikhate Hain Ki Insaan Kab Taiyar Hai)*
+
+Ek negotiator ke liye recognize karna seekhne ke liye sabse valuable gestures mein se ek seated readiness (baithe hue taiyari) hai. Jab aap koi proposal present kar rahe hain, misal ke taur par, agar doosra insaan presentation ke aakhiri mein is gesture ko leta hai, aur interview us point tak achha raha tha, toh aap agreement ke liye pooch sakte hain aur iske paane ki zyaada sambhavna hogi.
+
+Action ke liye taiyari dikhane wali classic position.
+
+Potential buyers ka interview lene wale salespeople ke hamaare video replays ne zahir kiya ki, jab bhi Seated Readiness gesture ke baad ek Chin-Stroke (decision-making) hota tha, toh client ne proposal ko aadhe se zyaada baar haan kaha. Iske ulat, agar sale ke close ke dauran client ne Chin-Stroke ke immediately baad Arms-Crossed position le li, toh sale aam taur par nahi hoti thi. Seated Readiness gesture us gusse wale insaan dwara bhi liya ja sakta hai jo kisi aur cheez ke liye taiyar hai—aapko baahar phekne ke liye. Preceding (pehle ke) gesture clusters insaan ke asli irado ko indicate karte hain.
+
+## The Starter's Position
+
+*(Suruaat Karne Wale Ki Position)*
+
+Readiness gestures jo ek meeting ko conclude (khatam) karne ki iccha ka signal dete hain, usme dono haath dono ghutno par rakh kar aage jhukna, ya dono haath chair ko grip karte hue aage jhukna shamil hai jaise ki woh kisi race ki shuruat mein hon. Agar inme se koi bhi conversation ke dauran hota hai, toh aapke liye lead lena aur resell karna, direction badalna, ya conversation ko terminate (khatam) karna samajhdari hogi.
+
+Apne marks par, get set: starting blocks mein—ek mulaqat ya conversation ko khatam karne ki taiyari.
+
+## Summary
+
+*(Sankshep)*
+
+Is chapter mein cover kiye gaye body-language signals ko observe karna kaafi easy hai kyunki zyaadatar mein bade gestures shamil hain. Na sirf in signals ki ehmiyat ko samajhna important hai, balki achhi communication ke liye yeh vital hai ki aap apne khud ke bhav-bhangimaon ka sangrah (repertoire (bhav-bhangimaon ka sangrah)) se kisi bhi negative gestures ko eliminate karein aur un cheezon ka use karne ki practice karein jo aapko positive results dengi.
