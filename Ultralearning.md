@@ -2549,507 +2549,592 @@ _(Chapter XIV: Ek Gair-Paramparagat Shiksha)_
 
 ---
 
-Index
-The pagination of this digital edition does not match the print edition from which the index was
-created. To locate a specific entry, please use your ebook reader's search tools.
-Adams, Scott, 211
-American Revolution, 107
-analytics, 10–11
-Anki, 165–66
-arousal, task complexity and, 83–85
-artistic skills, intensive practice of, x–xi, xii, 19–20
-Atomic Habits (Clear), xiii
-Autobiography (Franklin), 107–8, 118
-Autor, David, 28
-Barone, Eric, 12–15, 21, 23, 33, 91, 93, 117, 118, 139, 142
-benchmarks, benchmarking, 64–65, 218
-Bishop, Errett, 177
-Bjork, R. A., 125
-Blunt, Janell, 122–23, 132
-Bohr, Niels, 178
-Brookhart, Susan M., 144
-careers, ultralearning and:
-acceleration of, 32
-changing of, 32, 45–46
-and cultivation of hidden advantages, 32, 33
-Carr, George Shoobridge, 121, 123, 133
-challenges, self-generated, 132
-chess:
-pattern recognition in, 182–83
-Polgár sisters and, 233–49
-sexism in, 234, 237–38
-Chi, Michelene, 95
-children:
-and pressure to achieve, 241–42
-ultralearning and, 241–49
-Cirillo, Francesco, 76n
-cognitive components, in drills, 115
-cognitive load, drill and, 110–11, 116
-cognitive science, 23, 49
-college degrees:
-cost vs. practical value of, 5, 29–30, 59; see also education, traditional
-Comedy Cellar, 136
-competition, self-confidence and, 244, 251–53
-concept mapping, 122–23, 124, 132–33
-concepts, in metalearning, 62
-copying, in drills, 115–16
-corrective feedback, 141, 144–45
-Cowen, Tyler, 27–28
-Craig, Roger, 9–12, 21, 23, 33, 91, 93, 99–100, 137, 163, 164, 165, 229, 251
-Csíkszentmihályi, Mihály, 78
-cycling, 156–57
-Dalí, Salvador, 197–98
-Davy, Humphrey, 107
-Declaration of Independence, 107
-Deep Blue chess computer, 234
-deliberate practice, 78, 109, 137–38
-de Montebello, Tristan, 40–47, 104, 137, 142, 143, 144–45, 146, 151, 251, 252
-DeNisi, Angelo, 138–39
-difficulty, desirable, 215–16
-directness (ultralearning principle), xi, xiii, 48, 87–105, 222, 246
-contextual emphasis of, 90, 91, 97–99
-difficulty of, 101
-drill and, 111–13
-feedback and, 144
-immersive approach in, 102–3
-indirect learning vs., 91, 105
-overkill approach to, 104–5, 171
-project-based learning and, 101–2
-retrieval and, 128–29
-simulation in, 103
-skill sets and, 88–90
-transfer and, 97–101
-direct practice, xi, 157, 218
-Direct-Then-Drill Approach, 112–13, 114
-distractions, 77
-and choice of learning tools, 81–82
-environment and, 80–81
-mental, 82–83
-drill (ultralearning principle), xiii, 48, 106–18, 223, 246–47
-cognitive components in, 115
-cognitive load and, 110–11, 116
-copying in, 115–16
-directness and, 111–13
-effective, difficulty of designing, 113–14
-Magnifying Glass Method in, 116
-prerequisite chaining in, 116–17
-rate-determining steps and, 110–11
-time slicing in, 114–15
-in ultralearning vs. traditional learning, 117–18
-Dunning-Kruger effect, 190
-Duolingo, 91–92, 165
-Durant, Colby, 32
-Dweck, Carol, 207
-Ebbinghaus, Hermann, 159–60
-“Edict by the King of Russia, An” (Franklin), 107
-Edison, Thomas, 197
-education, traditional:
-failure of transfer in, 94–97
-indirect learning in, 97
-practical skills downplayed in, 87–88, 90, 91, 93–94
-value of, 231–32; see also college degrees
-effectiveness, prioritizing of, 17, 26, 29, 36, 37–39, 48, 49
-efficiency, maximizing of, 10, 11, 32, 38, 39, 49, 127–28
-Einstein, Albert, 72, 186–87
-emotions, as source of distraction, 82–83
-Emphasize/Exclude Method, 65–66
-entrepreneurs, entrepreneurship, xii–xiii
-Erdős, Paul, 72
-Ericsson, K. Anders, 36, 78, 137, 147, 183n
-Euler, Leonhard, 70
-“Eureka!” moments, 84
-Everett, Dan, 51–55, 101
-experimentation (ultralearning principle), 49, 197–215, 223, 248–49
-combining skills in, 211
-comparing methods in, 209–10
-copying in, 208–9
-extremes and, 211–12
-introducing new constraints in, 210–11
-learning resources and, 204–5
-mastery and, 203–4
-mindset and, 207–8, 213–14
-with style, 206
-tactics for, 208–12
-with techniques, 205–6
-uncertainty and, 213–15
-facts, in metalearning, 62
-Farkas, Endre, 240
-Fédération Internationale des Échecs (FIDE) (World Chess Federation), 233
-feedback (ultralearning principle), xiii, 48, 135–52, 223, 247
-corrective, 141, 144–45
-difficulty of task and, 149
-fear of, 140, 151
-filtering and, 148–49
-high-intensity, 150–51, 152
-immediate vs. delayed, 146–47
-informational, 141, 143–44
-meta-, 150
-outcome, 141–43
-positive vs. negative impact of, 138–40
-retrieval and, 147
-self-provided, 143–44
-self-testing and, 123
-signal vs. noise in, 148–49, 152
-underuse of, 140
-Fehsenfeld, Diana, 33
-Felt, Bob, 155
-Feynman, Richard, 177–81, 193–94, 195–96
-Feynman Technique, 191–95
-filtering, feedback and, 148–49
-Fischer, Bobby, 233, 235
-five-minute rule, 75–76, 77
-flash cards, 130, 166
-flow, 78–79
-focus (ultralearning principle), xiii, 48, 70–86, 222, 246
-arousal vs. task complexity in, 83–85
-failing to sustain, 77–83; see also distractions
-optimal length of, 79–80
-procrastinating and, see procrastinating
-schedules and, 76–77
-Foer, Joshua, 174
-fooling oneself, understanding and, 187–88, 190–91, 192
-forgetting, 159–63, 175–76
-see also retention
-formal discipline theory, 95–96
-forward-testing effect, 126–27
-Fowler, Trent, 22
-Franklin, Benjamin, 106–9, 111, 114, 115, 118
-free (active) recall, 121–23, 125, 131, 157, 166, 176
-games (video), 12–15
-Gauguin, Paul, 201, 206
-Gendler, Michael, 42–45, 144–45
-general theory of relativity, 72
-genes, intelligence and, 36
-genius, 34–35, 177, 179
-genetics and, 240
-L. Polgár's theory of, 236, 239–40
-Gleick, James, 179
-globalization, 28
-Graham, Paul, xiv
-habits, low-intensity, learning and, 229–31
-Hardy, G. H., 119–20, 121
-Harvest Moon (video game), 12
-Haskell, Robert, 94, 96–97, 100
-Herschel, Caroline, 71
-humility, learning and, 256
-Hungarian Chess Federation, 237
-hyperpolyglots, 9
-illusion of explanatory depth, 187–88, 192
-income inequality, 28
-“Influence of Improvement in One Mental Function upon the Efficiency of Other Functions,
-The” (Thorndike and Woodworth), 95–96
-informational feedback, 141, 143–44
-instrumental learning projects, 58
-intelligence, genes and, 36
-interference, retention and, 161–62
-intrinsic learning projects, 58–59
-intuition (ultralearning principle), 49, 177–96, 223, 248
-demystifying of, 195–96
-Feynman Technique for developing, 191–95
-problem solving and, see problem solving
-italki, 166
-Jaiswal, Vatsal, 87–90, 93
-James, William, 119
-Jaunzeikare, Diana, 21–22
-Jefferson, Thomas, 107
-Jeopardy! (TV show), 9–12, 33, 91, 93, 99–100, 137, 163, 165, 229, 251
-Johnston, Philip, 106
-judgments of learning (JOLs), 124
-Kac, Mark, 177
-Karpicke, Jeffrey, 122–23, 124, 132
-Kasparov, Garry:
-initial sexism of, 234
-J. Polgár's first match with, 234–35
-J. Polgár's rematch with, 238–39
-keyword mnemonic method, 173–74
-Kluger, Avraham, 138–39
-knowledge, unlimited expansion of, 256–57
-Kulik, Chen-Lin C., 146–47
-Kulik, James A., 146–47
-language learning, 5–9, 209–10
-immersive, ix, x, 51–53, 56, 91, 92, 102
-metalearning and, 53–54, 55–56
-procedural memory in, 169
-Laplace, Pierre-Simon, 71, 72
-Latin, study of, 96
-Law of Diminishing Returns, 68
-Lawson, Rebecca, 187–88
-learning:
-asking questions and, 190–91
-coercive, 244
-concept mapping and, 122–23, 124, 132–33
-creating inspiring goals in, 250–51
-by doing, xi, 92–93, 99; see also directness
-free (active) recall and, 121–23, 131
-humility and, 256
-immersive, 17–19, 102–3; see also language learning, immersive
-indirect approaches to, 91–92, 97, 101, 105
-lifelong, 232
-low-intensity habits for, 229–31
-passive review and, 121–22, 124, 130
-prioritizing of, 253–54
-project-based, 101–2
-rate-determining steps in, 109–11, 112, 113
-research on, 254–57
-retrieval and, see retrieval
-role play in, 243–44
-self-confidence and, xiv, 256
-technology and, 5, 29–32
-transfer and, see transfer
-see also ultralearning, ultralearners
-Lee, T. D., 186, 187
-Leonardo da Vinci, 87, 197
-levels-of-processing effect, 189–90
-Lewis, Benny, 5–9, 17, 21, 33–34, 40, 91, 92, 104–5, 117, 125–26, 137, 151, 163, 229
-lifelong learning, 232
-Littlewood, John, 120
-McKeachie, Wilbert, 96
-Magnifying Glass Method, 116
-Maini, Vishal, 32, 100
-Mair, Victor, 66
-Manhattan Project, 178
-Massachusetts Institute of Technology (MIT), online course of, 1–5
-mastery:
-experimentation and, 203–4
-ultralearners and, 100–101
-mathematics, 1–2, 22, 63, 109
-Feynman and, 177–78, 179, 180, 181
-Ramanujan and, 119–21, 123
-Somerville and, 71–73
-Tao and, 34–36
-Mauve, Anton, 201
-Mednis, Edmar, 234
-Meena, Rajveer, 173
-memory, see retention
-Memrise, 165
-metafeedback, 150
-metalearning (ultralearning principle), xiii, 48, 51–69, 203, 217, 222, 245–46
-definition of, 53
-expert interviews in, 59–60
-“How?” questions in, 58, 64–65
-long-term effects of, 57, 68–69
-as mapmaking, 54–56
-planning time in, 66–68
-short-term strategies for, 56–69
-“What?” questions in, 58, 61–64
-“Why?” questions in, 57–61
-metalinguistic awareness, 55
-mindset:
-experimentation and, 207–8
-fixed vs. growth, 207, 213–14
-MIT Challenge, x, 2–5, 15–16, 67, 92, 93, 144, 167, 169, 171, 250, 261–63
-mnemonics, 172–75, 209–10, 214
-monolingual fieldwork, 54
-Moonwalking with Einstein: The Art and Science of Remembering Everything (Foer), 174
-multitasking, 81
-Naifeh, Steven, 199
-Nemitrmansuk, Pakorn, 156
-Newton, Isaac, 51
-noise, signal vs., 148–49, 152
-outcome feedback, 141–43
-overlearning, 104–5, 170–72
-pattern recognition, 182–83, 184
-Pavlina, Steve, 21
-photography, x–xi, xii
-physics, 178, 180, 181, 182
-Picasso, Pablo, 197
-Pike, Kenneth, 54
-Pimsleur, 165
-pixel art, 13–14, 117
-planning, allotting time for, 66–68
-play, in learning, 243–44
-Polgár, Judit, 233–49
-chess as obsession of, 238
-chess education of, 235–38
-Kasparov's first match with, 234–35
-Kasparov's rematch with, 238–39
-Polgár, Klára, 236, 237
-Polgár, László, 237, 242
-coercive learning opposed by, 244
-daughters' chess education as focus of, 236–37, 243
-daughters' general education and, 237
-educational strategy of, 242–49
-genius as viewed by, 236, 239–40
-play emphasized by, 243–44
-positive reinforcement practiced by, 244
-sexism opposed by, 237–38
-ultralearning principles used by, 245–49
-Polgár, Zsófia, 236, 238
-chess education of, 237
-Polgár, Zsuzsa, 236, 237, 238
-chess education of, 237
-Pomodoro Technique, 76, 77
-Poor Richard’s Almanack (Franklin), 106, 108–9
-Portrait Drawing Challenge, 265
-positive reinforcement, 244
-praise, negative impact of, 138–39
-prerequisite chaining, 116–17
-problem solving:
-concrete examples in, 189–90
-not giving up on, 185–86
-pattern recognition in, 182–83, 184
-principles-first approach to, 182, 183–84
-proving and, 186–87
-proceduralizations, 167–70
-procedures, in metalearning, 62–63
-processing, levels of, 189–90
-procrastinating, 73–77
-causes of, 74
-self-recognition of, 74–75
-tactics for combating, 75–77
-proving, developing understanding through, 186–88
-public speaking, ultralearning and, 41–46
-Putnam Mathematics Competition, 178
-Pythagorean Theorem, 187
-questions, importance of asking, 190–91
-Raise a Genius! (Polgár), 240, 242
-Ramanujan, Srinivasa, 119–21, 123, 133
-Rappard, Anthon van, 201, 206
-rate-determining steps, 109–11, 112, 113
-drill and, 110–11
-recall, free (active), 121–23, 125, 131, 157, 166, 176
-Reddit, 16
-reference groups, ultralearning and, 252–53
-regionalization, 28–29
-remembering, see retention; retrieval
-research:
-allotting time for, 66–68
-for ultralearning projects, 217–19
-resources, choosing, 218
-retention (ultralearning principle), 48, 153–76, 223, 248
-decay over time of, 160–61
-difficulty of, 159–63
-false memories and, 163
-interference and, 161–62
-lost cues and, 162–63
-mechanisms for, 163–75
-mnemonics and, 172–75
-overlearning and, 170–72
-proceduralization in, 167–70
-spacing and, 164–65
-retrieval (ultralearning principle), 48, 119–34, 223, 247–48
-closed-book tactic in, 132–33
-desirable difficulty in, 125–26
-directness and, 128–29
-feedback and, 147
-flash cards and, 130
-forward-testing effect in, 126–27
-free (active) recall and, 121–22, 131, 157, 166, 176
-maximizing efficiency in, 127–28
-question-book technique in, 131–32
-self-generated challenges in, 132
-Revit, 89
-Richards, Nigel, 153–59, 164, 166, 176
-Rock, Chris, 135–36, 140, 143
-Royal Astronomical Society, 71
-Ruiz-Primo, Maria Araceli, 144
-schedules, 76–77
-Scrabble:
-French-language version of, 153–54
-rules and strategies of, 154–56
-self-confidence:
-competition and, 244, 251–53
-learning and, xiv, 256
-self-education:
-directness and, 90
-intense, see ultralearning, ultralearners
-of van Gogh, 200–203, 204–5, 206
-self-testing, 121–23
-feedback and, 123
-see also retrieval
-Shelley, Mary, 216
-Short, Nigel, 234
-signal, noise vs., 148–49, 152
-skill polarization, 28
-skill sets, acquiring and upgrading of, 88–90
-Smalley, Susan, 83
-Smith, Gregory White, 199
-Socratic method, 108
-Somerville, Mary, 70–73, 77, 85, 86
-spaced-repetition systems (SRS), 11, 165–66, 175
-spacing, retention and, 164–65
-Spectator, 107–8
-Stardew Valley (video game), 15
-subject matter, mastery of, 100–101
-Sujjayakorn, Panupol, 156
-Synopsis of Elementary Results in Pure and Applied Mathematics, A (Carr), 121, 123
-Tal, Mikhail, 234
-talent, ultralearning and, 34–37
-Tamu (username), 22
-Tao, Terence, 34–35
-task complexity, arousal and, 83–85
-technology:
-learning and, 5, 29–32
-work and, 28–29
-10 Percent Rule, 66–67, 68
-Tersteeg, H. G., 198
-Thorndike, Edward, 95–96
-time slicing, 114–15
-Toastmasters International, 42–45
-topics, choosing of, 217–18
-Toulouse-Lautrec, Henri de, 198
-Traité de mécanique céleste (Laplace), 71, 72
-transfer, 94–99
-directness and, 97–101
-failure of traditional education to achieve, 94–97
-Tyson, Mike, 135
-ultralearning, ultralearners, 9, 21
-alternatives to, 228–32
-careers and, see careers, ultralearning and
-children and, 241–49
-definition of, 25–26
-ethos of, 49–50, 158
-everyday application of, 23–24
-fostering of, 249–54
-instrumental vs. intrinsic projects in, 58–59
-as life changing, 45–46
-L. Polgár's strategy for, 242–49
-mastery and, 100–101
-obsessive intensity of, 26, 39, 133–34, 157, 158, 176, 202, 241
-personal stories of, 2–24, 40–47, 51–55, 70–73, 87–89, 106–9, 119–21, 153–59, 177–81, 183–
-86, 193–94, 195–96, 197–98, 233–49, 255
-principles of, xiii, 47–50, 245–49; see also specific principles
-process of, 40–50
-public speaking and, 41–46
-reference groups and, 252–53
-as self-directed, x, xiv, 25, 39, 49–50, 145, 231, 241
-sense of self as expanded by, xiv–xv, 33–34
-shared traits of, 22–23, 26, 33–34
-as strategy, 25, 228
-tactics of, 12, 21, 38, 47, 49
-talent and, 34–37
-time commitment and, 37–38
-value of, 26–27, 39
-ultralearning projects, 216–32
-applying principles and measuring progress in, 221–24
-effort required by, 216–17
-instrumental vs. intrinsic, 58–59
-maintaining knowledge gained through, 225–26
-mastery of skills gained through, 227–28
-relearning knowledge gained through, 227
-research for, 217–19
-reviewing results of, 224–25
-scheduling time for, 219–21
-work ethic of, x, 46
-UltraSpeaking, 45
-uncertainty, experimentation and, 213–15
-understanding:
-illusion of, 187–88, 190–91, 192
-proving as path to, 186–88
-Unschooled Mind, The (Gardner), 95
-van Gogh, Vincent, 197–98, 200–203, 204–5, 206
-video games, 12–15
-Vitruvian Studio, 171
-Watson, John, 233
-Willingham, Daniel, 153
-Winston, Diana, 83
-Woodworth, Robert, 95–96
-work, technology and, 28–29
-work ethic, 46
-World Championship of Public Speaking, 43–45, 104
-World Chess Championship, 233–34
-World Scrabble Championships, 153, 156
-Woźniak, Piotr, 11
-Yang, C. N., 186, 187
-“Year Without English, The,” ix, 18–19, 263–65
-Zenger, John H., 95
+# Index — Ultralearning
+
+### *(Anukramanika / Index)*
+
+---
+
+> *The pagination of this digital edition does not match the print edition from which the index was created. To locate a specific entry, please use your ebook reader's search tools.*
+> *(Is digital edition ka page-number us print edition se mel nahi khata jisse yeh index banaya gya tha. Kisi vishisht entry ko dhoondhne ke liye, kripya apne ebook reader ke search tools ka upyog karein.)*
+
+---
+
+* **Adams, Scott**, 211
+* **American Revolution**, 107
+* **Analytics** *(Vidhwan/Vishleshan)*, 10–11
+* **Anki**, 165–66
+* **Arousal** *(Satarkata)*, task complexity aur, 83–85
+* **Artistic skills** *(Kalaatmak hunar)*, intensive practice of, x–xi, xii, 19–20
+* ***Atomic Habits* (Clear)**, xiii
+* ***Autobiography* (Franklin)**, 107–8, 118
+* **Autor, David**, 28
+* **Barone, Eric**, 12–15, 21, 23, 33, 91, 93, 117, 118, 139, 142
+* **Benchmarks, benchmarking** *(Manak-nirdharan)*, 64–65, 218
+* **Bishop, Errett**, 177
+* **Bjork, R. A.**, 125
+* **Blunt, Janell**, 122–23, 132
+* **Bohr, Niels**, 178
+* **Brookhart, Susan M.**, 144
+* **Careers, ultralearning aur:**
+* acceleration of, 32
+* changing of, 32, 45–46
+* and cultivation of hidden advantages *(Chhupaye hue fayde)*, 32, 33
+
+
+* **Carr, George Shoobridge**, 121, 123, 133
+* **Challenges**, self-generated *(Khhud se banaye gaye)*, 132
+* **Chess:**
+* pattern recognition *(Dhaanche ki pehchan)* in, 182–83
+* Polgár sisters aur, 233–49
+* sexism *(Ling-bhed)* in, 234, 237–38
+
+
+* **Chi, Michelene**, 95
+* **Children:**
+* aur paane ka pressure (pressure to achieve), 241–42
+* ultralearning aur, 241–49
+
+
+* **Cirillo, Francesco**, 76n
+* **Cognitive components** *(Dimaagi ghaatak)*, drills mein, 115
+* **Cognitive load** *(Dimaagi bojh)*, drill aur, 110–11, 116
+* **Cognitive science**, 23, 49
+* **College degrees:**
+* cost vs. practical value of, 5, 29–30, 59; see also education, traditional
+
+
+* **Comedy Cellar**, 136
+* **Competition**, self-confidence aur, 244, 251–53
+* **Concept mapping** *(Avadharnaon ka naksha)*, 122–23, 124, 132–33
+* **Concepts**, metalearning mein, 62
+* **Copying**, drills mein, 115–16
+* **Corrective feedback**, 141, 144–45
+* **Cowen, Tyler**, 27–28
+* **Craig, Roger**, 9–12, 21, 23, 33, 91, 93, 99–100, 137, 163, 164, 165, 229, 251
+* **Csíkszentmihályi, Mihály**, 78
+* **Cycling**, 156–57
+* **Dalí, Salvador**, 197–98
+* **Davy, Humphrey**, 107
+* **Declaration of Independence**, 107
+* **Deep Blue chess computer**, 234
+* **Deliberate practice** *(Sachet abhyas)*, 78, 109, 137–38
+* **de Montebello, Tristan**, 40–47, 104, 137, 142, 143, 144–45, 146, 151, 251, 252
+* **DeNisi, Angelo**, 138–39
+* **Difficulty**, desirable *(Vanchhaneeya mushkil)*, 215–16
+* **Directness** *(Pratyakshata — ultralearning principle)*, xi, xiii, 48, 87–105, 222, 246
+* contextual emphasis of, 90, 91, 97–99
+* difficulty of, 101
+* drill aur, 111–13
+* feedback aur, 144
+* immersive approach in, 102–3
+* indirect learning vs., 91, 105
+* overkill approach to, 104–5, 171
+* project-based learning aur, 101–2
+* retrieval aur, 128–29
+* simulation in, 103
+* skill sets aur, 88–90
+* transfer aur, 97–101
+
+
+* **Direct practice**, xi, 157, 218
+* **Direct-Then-Drill Approach**, 112–13, 114
+* **Distractions** *(Bhatkaav)*, 77
+* aur learning tools ka chunaav, 81–82
+* environment aur, 80–81
+* mental *(Mansik)*, 82–83
+
+
+* **Drill** *(Abhyas/Shrankhla — ultralearning principle)*, xiii, 48, 106–18, 223, 246–47
+* cognitive components in, 115
+* cognitive load aur, 110–11, 116
+* copying in, 115–16
+* directness aur, 111–13
+* effective, design karne ki difficulty, 113–14
+* Magnifying Glass Method in, 116
+* prerequisite chaining in, 116–17
+* rate-determining steps aur, 110–11
+* time slicing in, 114–15
+* ultralearning vs. traditional learning mein, 117–18
+
+
+* **Dunning-Kruger effect**, 190
+* **Duolingo**, 91–92, 165
+* **Durant, Colby**, 32
+* **Dweck, Carol**, 207
+* **Ebbinghaus, Hermann**, 159–60
+* **“Edict by the King of Russia, An” (Franklin)**, 107
+* **Edison, Thomas**, 197
+* **Education, traditional:**
+* failure of transfer in, 94–97
+* indirect learning in, 97
+* practical skills ausat se kam darshaye gaye (downplayed) in, 87–88, 90, 91, 93–94
+* value of, 231–32; see also college degrees
+
+
+* **Effectiveness** *(Kushalata)*, prioritizing of, 17, 26, 29, 36, 37–39, 48, 49
+* **Efficiency** *(Kshamta)*, maximizing of, 10, 11, 32, 38, 39, 49, 127–28
+* **Einstein, Albert**, 72, 186–87
+* **Emotions** *(Bhavnayein)*, bhatkaav ke srot ke roop mein, 82–83
+* **Emphasize/Exclude Method**, 65–66
+* **Entrepreneurs, entrepreneurship**, xii–xiii
+* **Erdős, Paul**, 72
+* **Ericsson, K. Anders**, 36, 78, 137, 147, 183n
+* **Euler, Leonhard**, 70
+* **“Eureka!” moments**, 84
+* **Everett, Dan**, 51–55, 101
+* **Experimentation** *(Prayog — ultralearning principle)*, 49, 197–215, 223, 248–49
+* combining skills in, 211
+* comparing methods in, 209–10
+* copying in, 208–9
+* extremes aur, 211–12
+* introducing new constraints *(Naye pratibandh)* in, 210–11
+* learning resources aur, 204–5
+* mastery aur, 203–4
+* mindset aur, 207–8, 213–14
+* with style, 206
+* tactics for, 208–12
+* with techniques, 205–6
+* uncertainty *(Anischitta)* aur, 213–15
+
+
+* **Facts**, metalearning mein, 62
+* **Farkas, Endre**, 240
+* **Fédération Internationale des Échecs (FIDE) (World Chess Federation)**, 233
+* **Feedback** *(Pratikriya — ultralearning principle)*, xiii, 48, 135–52, 223, 247
+* corrective, 141, 144–45
+* difficulty of task aur, 149
+* fear of, 140, 151
+* filtering aur, 148–49
+* high-intensity, 150–51, 152
+* immediate vs. delayed, 146–47
+* informational, 141, 143–44
+* meta-, 150
+* outcome, 141–43
+* positive vs. negative impact of, 138–40
+* retrieval aur, 147
+* self-provided, 143–44
+* self-testing aur, 123
+* signal vs. noise in, 148–49, 152
+* underuse of, 140
+
+
+* **Fehsenfeld, Diana**, 33
+* **Felt, Bob**, 155
+* **Feynman, Richard**, 177–81, 193–94, 195–96
+* **Feynman Technique**, 191–95
+* **Filtering**, feedback aur, 148–49
+* **Fischer, Bobby**, 233, 235
+* **Five-minute rule**, 75–76, 77
+* **Flash cards**, 130, 166
+* **Flow**, 78–79
+* **Focus** *(Focus — ultralearning principle)*, xiii, 48, 70–86, 222, 246
+* arousal vs. task complexity in, 83–85
+* failing to sustain, 77–83; see also distractions
+* optimal length of, 79–80
+* procrastinating aur, see procrastinating
+* schedules aur, 76–77
+
+
+* **Foer, Joshua**, 174
+* **Fooling oneself** *(Apne aap ko dhoke mein rakhna)*, understanding aur, 187–88, 190–91, 192
+* **Forgetting** *(Bhoolna)*, 159–63, 175–76
+* see also retention
+
+
+* **Formal discipline theory**, 95–96
+* **Forward-testing effect**, 126–27
+* **Fowler, Trent**, 22
+* **Franklin, Benjamin**, 106–9, 111, 114, 115, 118
+* **Free (active) recall** *(Mukti-smaran)*, 121–23, 125, 131, 157, 166, 176
+* **Games (video)**, 12–15
+* **Gauguin, Paul**, 201, 206
+* **Gendler, Michael**, 42–45, 144–45
+* **General theory of relativity**, 72
+* **Genes**, intelligence aur, 36
+* **Genius**, 34–35, 177, 179
+* genetics aur, 240
+* L. Polgár's theory of, 236, 239–40
+
+
+* **Gleick, James**, 179
+* **Globalization**, 28
+* **Graham, Paul**, xiv
+* **Habits**, low-intensity *(Kam tivrata wali aadat)*, learning aur, 229–31
+* **Hardy, G. H.**, 119–20, 121
+* ***Harvest Moon* (video game)**, 12
+* **Haskell, Robert**, 94, 96–97, 100
+* **Herschel, Caroline**, 71
+* **Humility** *(Namrata)*, learning aur, 256
+* **Hungarian Chess Federation**, 237
+* **Hyperpolyglots**, 9
+* **Illusion of explanatory depth** *(Spashtikaran ki gehrai ka bhram)*, 187–88, 192
+* **Income inequality**, 28
+* **“Influence of Improvement in One Mental Function upon the Efficiency of Other Functions, The” (Thorndike and Woodworth)**, 95–96
+* **Informational feedback**, 141, 143–44
+* **Instrumental learning projects**, 58
+* **Intelligence**, genes aur, 36
+* **Interference** *(Hastakshep)*, retention aur, 161–62
+* **Intrinsic learning projects**, 58–59
+* **Intuition** *(Antardrishti/Intuition — ultralearning principle)*, 49, 177–96, 223, 248
+* demystifying of, 195–96
+* Feynman Technique for developing, 191–95
+* problem solving aur, see problem solving
+
+
+* **italki**, 166
+* **Jaiswal, Vatsal**, 87–90, 93
+* **James, William**, 119
+* **Jaunzeikare, Diana**, 21–22
+* **Jefferson, Thomas**, 107
+* **Jeopardy! (TV show)**, 9–12, 33, 91, 93, 99–100, 137, 163, 165, 229, 251
+* **Johnston, Philip**, 106
+* **Judgments of learning (JOLs)**, 124
+* **Kac, Mark**, 177
+* **Karpicke, Jeffrey**, 122–23, 124, 132
+* **Kasparov, Garry:**
+* initial sexism of, 234
+* J. Polgár's first match with, 234–35
+* J. Polgár's rematch with, 238–39
+
+
+* **Keyword mnemonic method**, 173–44
+* **Kluger, Avraham**, 138–39
+* **Knowledge** *(Gyan)*, unlimited expansion of, 256–57
+* **Kulik, Chen-Lin C.**, 146–47
+* **Kulik, James A.**, 146–47
+* **Language learning**, 5–9, 209–10
+* immersive, ix, x, 51–53, 56, 91, 92, 102
+* metalearning aur, 53–54, 55–56
+* procedural memory in, 169
+
+
+* **Laplace, Pierre-Simon**, 71, 72
+* **Latin**, study of, 96
+* **Law of Diminishing Returns** *(Ghatt-te Pratiphal Ka Niyam)*, 68
+* **Lawson, Rebecca**, 187–88
+* **Learning:**
+* asking questions aur, 190–91
+* coercive *(Majboor karne wali)*, 244
+* concept mapping aur, 122–23, 124, 132–33
+* creating inspiring goals in, 250–51
+* by doing *(Karke seekhna)*, xi, 92–93, 99; see also directness
+* free (active) recall aur, 121–23, 131
+* humility aur, 256
+* immersive, 17–19, 102–3; see also language learning, immersive
+* indirect approaches to, 91–92, 97, 101, 105
+* lifelong *(Ajeevan)*, 232
+* low-intensity habits for, 229–31
+* passive review aur, 121–22, 124, 130
+* prioritizing of, 253–54
+* project-based, 101–2
+* rate-determining steps in, 109–11, 112, 113
+* research on, 254–57
+* retrieval aur, see retrieval
+* role play in, 243–44
+* self-confidence aur, xiv, 256
+* technology aur, 5, 29–32
+* transfer aur, see transfer
+* see also ultralearning, ultralearners
+
+
+* **Lee, T. D.**, 186, 187
+* **Leonardo da Vinci**, 87, 197
+* **Levels-of-processing effect**, 189–90
+* **Lewis, Benny**, 5–9, 17, 21, 33–34, 40, 91, 92, 104–05, 117, 125–26, 137, 151, 163, 229
+* **Lifelong learning** *(Ajeevan shiksha)*, 232
+* **Littlewood, John**, 120
+* **McKeachie, Wilbert**, 96
+* **Magnifying Glass Method**, 116
+* **Maini, Vishal**, 32, 100
+* **Mair, Victor**, 66
+* **Manhattan Project**, 178
+* **Massachusetts Institute of Technology (MIT)**, online course of, 1–5
+* **Mastery:**
+* experimentation aur, 203–4
+* ultralearners aur, 100–101
+
+
+* **Mathematics**, 1–2, 22, 63, 109
+* Feynman aur, 177–78, 179, 180, 181
+* Ramanujan aur, 119–21, 123
+* Somerville aur, 71–73
+* Tao aur, 34–36
+
+
+* **Mauve, Anton**, 201
+* **Mednis, Edmar**, 234
+* **Meena, Rajveer**, 173
+* **Memory**, see retention
+* **Memrise**, 165
+* **Metafeedback**, 150
+* **Metalearning** *(Metalearning — ultralearning principle)*, xiii, 48, 51–69, 203, 217, 222, 245–46
+* definition of, 53
+* expert interviews in, 59–60
+* “How?” questions in, 58, 64–65
+* long-term effects of, 57, 68–69
+* as mapmaking, 54–56
+* planning time in, 66–68
+* short-term strategies for, 56–69
+* “What?” questions in, 58, 61–64
+* “Why?” questions in, 57–61
+
+
+* **Metalinguistic awareness** *(Bhashatmak jagrukta)*, 55
+* **Mindset:**
+* experimentation aur, 207–8
+* fixed vs. growth, 207, 213–14
+
+
+* **MIT Challenge**, x, 2–5, 15–16, 67, 92, 93, 144, 167, 169, 171, 250, 261–63
+* **Mnemonics** *(Smaran-sahayak nishaniyan)*, 172–75, 209–10, 214
+* **Monolingual fieldwork**, 54
+* ***Moonwalking with Einstein: The Art and Science of Remembering Everything* (Foer)**, 174
+* **Multitasking**, 81
+* **Naifeh, Steven**, 199
+* **Nemitrmansuk, Pakorn**, 156
+* **Newton, Isaac**, 51
+* **Noise**, signal vs., 148–49, 152
+* **Outcome feedback**, 141–43
+* **Overlearning** *(Perfect se pare abhyas)*, 104–05, 170–72
+* **Pattern recognition**, 182–83, 184
+* **Pavlina, Steve**, 21
+* **Photography**, x–xi, xii
+* **Physics**, 178, 180, 181, 182
+* **Picasso, Pablo**, 197
+* **Pike, Kenneth**, 54
+* **Pimsleur**, 165
+* **Pixel art**, 13–14, 117
+* **Planning**, allotting time for, 66–68
+* **Play**, in learning, 243–44
+* **Polgár, Judit**, 233–49
+* chess as obsession of, 238
+* chess education of, 235–38
+* Kasparov's first match with, 234–35
+* Kasparov's rematch with, 238–39
+
+
+* **Polgár, Klára**, 236, 237
+* **Polgár, László**, 237, 242
+* coercive learning opposed by, 244
+* daughters' chess education as focus of, 236–37, 243
+* daughters' general education and, 237
+* educational strategy of, 242–49
+* genius as viewed by, 236, 239–40
+* play emphasized by, 243–44
+* positive reinforcement practiced by, 244
+* sexism opposed by, 237–38
+* ultralearning principles used by, 245–49
+
+
+* **Polgár, Zsófia**, 236, 238
+* chess education of, 237
+
+
+* **Polgár, Zsuzsa**, 236, 237, 238
+* chess education of, 237
+
+
+* **Pomodoro Technique**, 76, 77
+* ***Poor Richard’s Almanack* (Franklin)**, 106, 108–9
+* **Portrait Drawing Challenge**, 265
+* **Positive reinforcement**, 244
+* **Praise** *(Tareef)*, negative impact of, 138–39
+* **Prerequisite chaining**, 116–17
+* **Problem solving:**
+* concrete examples in, 189–90
+* not giving up on, 185–86
+* pattern recognition in, 182–83, 184
+* principles-first approach to, 182, 183–84
+* proving and, 186–87
+
+
+* **Proceduralizations**, 167–70
+* **Procedures**, in metalearning, 62–63
+* **Processing**, levels of, 189–90
+* **Procrastinating** *(Kaam talna)*, 73–77
+* causes of, 74
+* self-recognition of, 74–75
+* tactics for combating, 75–77
+
+
+* **Proving**, developing understanding through, 186–88
+* **Public speaking**, ultralearning and, 41–46
+* **Putnam Mathematics Competition**, 178
+* **Pythagorean Theorem**, 187
+* **Questions**, importance of asking, 190–91
+* ***Raise a Genius!* (Polgár)**, 240, 242
+* **Ramanujan, Srinivasa**, 119–21, 123, 133
+* **Rappard, Anthon van**, 201, 206
+* **Rate-determining steps** *(Begh-nirdharit karne wale kadam)*, 109–11, 112, 113
+* drill aur, 110–11
+
+
+* **Recall, free (active)**, 121–23, 125, 131, 157, 166, 176
+* **Reddit**, 16
+* **Reference groups**, ultralearning aur, 252–53
+* **Regionalization**, 28–29
+* **Remembering**, see retention; retrieval
+* **Research:**
+* allotting time for, 66–68
+* for ultralearning projects, 217–19
+
+
+* **Resources**, choosing, 218
+* **Retention** *(Retention/Tikana — ultralearning principle)*, 48, 153–76, 223, 248
+* decay over time of, 160–61
+* difficulty of, 159–63
+* false memories and, 163
+* interference and, 161–62
+* lost cues and, 162–63
+* mechanisms for, 163–75
+* mnemonics and, 172–75
+* overlearning and, 170–72
+* proceduralization in, 167–70
+* spacing and, 164–65
+
+
+* **Retrieval** *(Retrieval/Yaad karna — ultralearning principle)*, 48, 119–34, 223, 247–48
+* closed-book tactic in, 132–33
+* desirable difficulty in, 125–26
+* directness and, 128–29
+* feedback and, 147
+* flash cards and, 130
+* forward-testing effect in, 126–27
+* free (active) recall aur, 121–22, 131, 157, 166, 176
+* maximizing efficiency in, 127–28
+* question-book technique in, 131–32
+* self-generated challenges in, 132
+
+
+* **Revit**, 89
+* **Richards, Nigel**, 153–59, 164, 166, 176
+* **Rock, Chris**, 135–36, 140, 143
+* **Royal Astronomical Society**, 71
+* **Ruiz-Primo, Maria Araceli**, 144
+* **Schedules**, 76–77
+* **Scrabble:**
+* French-language version of, 153–54
+* rules and strategies of, 154–56
+
+
+* **Self-confidence:**
+* competition aur, 244, 251–53
+* learning aur, xiv, 256
+
+
+* **Self-education:**
+* directness aur, 90
+* intense, see ultralearning, ultralearners
+* of van Gogh, 200–203, 204–5, 206
+
+
+* **Self-testing**, 121–23
+* feedback aur, 123
+* see also retrieval
+
+
+* **Shelley, Mary**, 216
+* **Short, Nigel**, 234
+* **Signal**, noise vs., 148–49, 152
+* **Skill polarization**, 28
+* **Skill sets**, acquiring and upgrading of, 88–90
+* **Smalley, Susan**, 83
+* **Smith, Gregory White**, 199
+* **Socratic method**, 108
+* **Somerville, Mary**, 70–73, 77, 85, 86
+* **Spaced-repetition systems (SRS)**, 11, 165–66, 175
+* **Spacing**, retention aur, 164–65
+* ***Spectator***, 107–8
+* **Stardew Valley (video game)**, 15
+* **Subject matter**, mastery of, 100–101
+* **Sujjayakorn, Panupol**, 156
+* ***Synopsis of Elementary Results in Pure and Applied Mathematics, A* (Carr)**, 121, 123
+* **Tal, Mikhail**, 234
+* **Talent**, ultralearning aur, 34–37
+* **Tamu (username)**, 22
+* **Tao, Terence**, 34–35
+* **Task complexity**, arousal aur, 83–85
+* **Technology:**
+* learning aur, 5, 29–32
+* work aur, 28–29
+
+
+* **10 Percent Rule** *(Das Pratishat Ka Niyam)*, 66–67, 68
+* **Tersteeg, H. G.**, 198
+* **Thorndike, Edward**, 95–96
+* **Time slicing**, 114–15
+* **Toastmasters International**, 42–45
+* **Topics**, choosing of, 217–18
+* **Toulouse-Lautrec, Henri de**, 198
+* ***Traité de mécanique céleste* (Laplace)**, 71, 72
+* **Transfer**, 94–99
+* directness aur, 97–101
+* failure of traditional education to achieve, 94–97
+
+
+* **Tyson, Mike**, 135
+* **Ultralearning, ultralearners**, 9, 21
+* alternatives to, 228–32
+* careers aur, see careers, ultralearning aur
+* children aur, 241–49
+* definition of, 25–26
+* ethos of, 49–50, 158
+* everyday application of, 23–24
+* fostering of, 249–54
+* instrumental vs. intrinsic projects in, 58–59
+* as life changing, 45–46
+* L. Polgár's strategy for, 242–49
+* mastery aur, 100–101
+* obsessive intensity of, 26, 39, 133–34, 157, 158, 176, 202, 241
+* personal stories of, 2–24, 40–47, 51–55, 70–73, 87–89, 106–9, 119–21, 153–59, 177–81, 183–86, 193–94, 195–96, 197–98, 233–49, 255
+* principles of, xiii, 47–50, 245–49; see also specific principles
+* process of, 40–50
+* public speaking aur, 41–46
+* reference groups aur, 252–53
+* as self-directed, x,  25, 39, 49–50, 145, 231, 241
+* sense of self as expanded by, xiv–xv, 33–34
+* shared traits of, 22–23, 26, 33–34
+* as strategy, 25, 228
+* tactics of, 12, 21, 38, 47, 49
+* talent aur, 34–37
+* time commitment aur, 37–38
+* value of, 26–27, 39
+
+
+* **Ultralearning projects**, 216–32
+* applying principles aur measuring progress in, 221–24
+* effort required by, 216–17
+* instrumental vs. intrinsic, 58–59
+* maintaining knowledge gained through, 225–26
+* mastery of skills gained through, 227–28
+* relearning knowledge gained through, 227
+* research for, 217–19
+* reviewing results of, 224–25
+* scheduling time for, 219–21
+* work ethic of, x, 46
+
+
+* **UltraSpeaking**, 45
+* **Uncertainty**, experimentation aur, 213–15
+* **Understanding:**
+* illusion of, 187–88, 190–91, 192
+* proving as path to, 186–88
+
+
+* ***Unschooled Mind, The* (Gardner)**, 95
+* **van Gogh, Vincent**, 197–98, 200–203, 204–5, 206
+* **Video games**, 12–15
+* **Vitruvian Studio**, 171
+* **Watson, John**, 233
+* **Willingham, Daniel**, 153
+* **Winston, Diana**, 83
+* **Woodworth, Robert**, 95–96
+* **Work**, technology aur, 28–29
+* **Work ethic**, 46
+* **World Championship of Public Speaking**, 43–45, 104
+* **World Chess Championship**, 233–34
+* **World Scrabble Championships**, 153, 156
+* **Yang, C. N.**, 186, 187
+* **“The Year Without English”**, ix, 18–19, 263–65
+* **Zenger, John H.**, 95
