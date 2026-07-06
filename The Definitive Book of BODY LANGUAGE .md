@@ -4915,3 +4915,299 @@ Nayi mulaqaat mein — uski seating position, posture, body angle, gestures, exp
 **Mirroring bade faayde deta hai — lekin kabhi kisi ke naksaaratmak (negative) signals mirror mat karo.**
 
 ---
+
+# Chapter 13 — The Secret Signals of Cigarettes, Glasses, and Other Props
+### *(Cigarettes, Chashme, Aur Doosri Cheezein — Chhupe Ishaare)*
+
+
+---
+
+> *"Dhuen ka raaz — upar ya neeche — sab kuch bata deta hai"*
+
+---
+
+Sigret peena andar ki khichhtaan (turmoil) ya takraav (conflict) ka baahri nishaan hai — aur zyaadatar smoking ka nicotine ki lat (addiction) se kam aur tasalli (reassurance) ki zaroorat se zyaada ta'alluq hai.
+
+Yeh un displacement activities mein se ek hai jo log aaj ke high-pressure society mein use karte hain — samaajiك aur kaam-kaaji mulaqaaton se paidaa hone wale tanaav (stress) ko bahaar karne ke liye.
+
+Misal ke taur par — zyaadatar log daant nikaalte waqt dentist ke baahir baithke andar ki khichhtaan (inner tension) mehsoos karte hain. Jabki ek smoker chori-chhupe ek sigret pi ke apni ghabrajhat (anxiety) chhupa sakta hai — non-smokers doosre rituals karte hain jaise:
+- Sawaarna (grooming)
+- Chewing gum chabaana
+- Nakhun kaatna (nail-biting)
+- Ungliyaan ya pair thaapna
+- Cuff buttons theek karna
+- Sar khujlaana
+- Kisi cheez ke saath khelna
+
+Zewar (jewelry) bhi usi wajah se popular hai — uski **"fondle value"** zyaada hoti hai — aur apna insecurity, darr, bezaari (impatience), ya kam aaтмавишваас (self-confidence) uss item par daal dete hain.
+
+---
+
+Adhyayan ab ek saaf sambandh (relationship) dikhate hain — ek bachche ko breastfeed kiya gaya tha ya nahi — aur baad mein smoker banne ki sambhaavna ke beech:
+
+- **Bottle-fed babies** baade hokar heavy smokers banne ki zyaada sambhaavna rakhte hain
+- Jitna zyaada bachche ko breastfeed kiya gaya — utna kam chance ki woh smoker bane
+- Lagta hai breastfed babies ko chhati se tasalli (comfort) aur ek rishte ka ehsaas (bonding) milta hai jo bottle se nahi milta
+- Nateeja — bottle-fed babies baade hokar cheezein chooste (sucking) rahe ke zariye tasalli dhundh te hain
+
+> **Bottle-fed babies teen guna zyaada smokers bante hain breastfed babies ke muqaable.**
+
+Smokers na sirf bacchon mein zyaada angootha choosne waale the — balki woh non-smokers se zyaada nervous (behkaa hua) bhi paaye gaye hain aur inhe muh se judi aadate (oral fixations) hoti hain jaise:
+- Chashme ka baazoo muh mein daalna
+- Nakhun kaatna
+- Pen chabaana
+- Honth kaatna
+- Pencil itni zyaada chabaana ki ek average beaver sharminda ho jaaye
+
+---
+
+## The Two Types of Smokers
+*(Smokers Ke Do Prakar)*
+
+Do buniyaadi qism ke smokers hain — **addicted smokers** aur **social smokers**.
+
+Adhyayan dikhate hain ki sigret ke chhote, tezi se liye gaye kash (puffs) brain ko stimulate (jagaate) karte hain — zyaada jagrookta (heightened awareness) dete hain — jabki lambe, dheeme kash ek sukunbakhsh (sedative) ki tarah kaam karte hain.
+
+**Addicted smokers** nicotine ke sukunbakhsh (sedative) asron par nirbhar (dependent) hote hain tanaav se deal karne ke liye — aur woh akele bhi peete hain.
+
+**Social smokers** aam tor par sirf doosron ki maujoodgi mein peete hain — ya *"kuch drinks ke saath."* Matlab social smoking ek samaajiк zahiraawa (display) hai — doosron par kuch khaas impression daalne ke liye.
+
+Social smoking mein — sigret jab se jalaai jaati hai tab se bujhne tak — sirf **20% waqt** piya jaata hai chhote, teze kashon mein — baaki **80% waqt** ek khaas body-language gestures aur rituals ki series ke liye diya jaata hai.
+
+> **Zyaadatar social smoking ek samaajiक ritual (rasm) ka hissa hai.**
+
+**University of East London ke Andy Parrot** ki ek study dikhati hai ki 80% smokers kehte hain ki woh sigret peete waqt kam stressed feel karte hain. Lekin adult smokers ke stress levels non-smokers se thode hi zyaada hote hain — aur stress levels aur barhte hain jaise regular smoking ki aadat banti hai.
+
+Parrot ne yeh bhi paaya ki smoking band karna asliyat mein stress kam karta hai. Science ab dikhati hai ki smoking mood kaaboo (mood control) mein madad nahi karti — kyunki nicotine ki lat stress levels badhhaati hai.
+
+Smoking ka samjha jaane waala sukunbakhsh (relaxing) asar sirf us khichhtaan (tension) aur chidchidaapan (irritability) ki ulat hai jo smoking ki zaroorat (nicotine depletion) se aati hai. Doosre lafzon mein:
+
+- **Smoker ka mood smoking ke dauran normal hota hai**
+- **Aur stressed hota hai jab nahi pee raha**
+
+Matlab ek smoker ko normal feel karne ke liye hamesha ek jali sigret honi chahiye!
+
+Jab smokers band kar dete hain — woh waqt ke saath dheere dheere kam stressed hone lagte hain.
+
+> **Smoking bilkul aise hai jaise apne sar par hathoda (hammer) maaro — jab band karo — behtar feel hota hai.**
+
+Haalaanki smoking ab kaafi jagahon par mana (banned) hai — phir bhi smoking body-language signals aur ek insaan ke rawaiye ke beech sambandh samajhna faaydemand (advantageous) hai. Smoking gestures emotional states assess karne mein ahem (important) bhumika nibhate hain — kyunki yeh aam tor par ek andaazepan (predictable), ritualistic tarike se ki jaati hain — jo smoker ki soch ya iraade ke baare mein zaroori surag (clues) de sakti hain.
+
+Sigret ki ritual mein thaapna, ghoomna, hilaana, haath hilaana, aur doosre mini gestures shamil hain — jo zahir karte hain ki insaan aam se zyaada tanaav (tension) mein hai.
+
+---
+
+## Differences Between Men and Women
+*(Mard Aur Auraton Mein Farq)*
+
+Jab auraten sigret peeti hain — woh aksar sigret upar rakhhti hain — kalaayi (wrist) peechhe ki taraf modte hue kalaayi zahiraawa (wrist display) mein — sharir ka agla hissa khula rakhte hue.
+
+Jab mard peete hain — woh kalaayi seedhi rakhte hain aur peene ke baad smoking haath ko seene ke neeche rakhte hain — sharir ke agle hisse ko hamesha mahfooz (protected) rakhte hue.
+
+Do guna zyaada auraten mardoon ke muqaable sigret peeti hain — aur dono har sigret mein utne hi kash lete hain — lekin mard dhuen ko phephdon (lungs) mein zyaada der tak rakhte hain — jo unhe auraton ke muqaable phephdon ke cancer (lung cancer) ke zyaada khatra mein daalti hai.
+
+**Mard Pinch Hold** bhi use karte hain sigret peete waqt — khaaskar jab woh chhupane ki koshish mein hon — sigret haath ke andar chhupate hue. Yeh gesture films mein tough guys ya shaatir (sneaky) characters dwara use hoti hai.
+
+---
+
+## Smoking as a Sexual Display
+*(Sigret Ka Jismaani Zahiraawa)*
+
+Films aur media advertising ne hamesha smoking ko sexy portray kiya hai. Smoking jins ke farq (sex differences) emphasize karne ka ek aur mauka hai.
+
+Yeh ek aurat ko kalaayi zahiraawa (wrist displays) use karne deta hai — aur ek mard ko apni mardangi (masculinity) ko secretly aur seductively highlight karne deta hai.
+
+Pichli nasloon mein ek seductive smoking ritual mohabbat (courtship) ka ek maqbool (acceptable) roop tha — ek mard aurat ki sigret jalaata tha jabki woh uska haath chhuuti aur shukriye mein aam se zyaada lambi nazar rakhti.
+
+Kaafi jagahon par aaj smoking utni hi popular hai jitna spaceship mein waayu visar (fart) — toh smoking courtship ritual lagbhag khatam (extinct) ho gayi hai.
+
+Syria mein — jab ek mard aurat ke chehere par dhuen ki phoonk (smoke blowing) karta hai — yeh ek jismaani dawat (sexual invitation) samjha jaata hai!
+
+---
+
+## How to Spot a Positive or Negative Decision
+*(Saakaratmak (Positive) Ya Naksaaratmak (Negative) Faisla Kaise Pakdein)*
+
+Insaan ka rawaiya — saakaratmak hai ya naksaaratmak — dhuen ki direction se zahir hota hai — upar ya neeche.
+
+- **Saakaratmak (positive), shreshtha (superior), ya aatmavishwaasi (confident) feel karne wala insaan** — zyaadatar waqt dhuen ko upar ki taraf phoonkta hai
+- **Naksaaratmak (negative), chhupa-chhupaya (secretive), ya shankaalu (suspicious) insaan** — zyaadatar waqt dhuen ko neeche ki taraf phoonkta hai
+- **Neeche aur muh ke koone se phoonkna** — aur bhi zyaada naksaaratmak ya chhupa-chhupaya rawaiya zahir karta hai
+
+Films mein — motorcycle gang ya criminal syndicate ka leader aam tor par ek sakht, aggressive mard hai jo apna sar peeche jhuka ke chhat ki taraf dhuen phoonkta hai — apni shreshthata (superiority) zahir karne ke liye. Iske ulat — Humphrey Bogart aksar gangster ya tough guy ka kirdaar karta tha jo sigret haath ke andar ulti pakad ke muh ke koone se neeche dhuen phoonkta tha jab koi jail break ya shaatiraana (devious) activity plan kar raha hota.
+
+Ek sambandh bhi lagta hai ki insaan kitna saakaratmak ya naksaaratmak feel karta hai aur dhuen ki raftaar ke beech:
+- **Jitna tezi se dhuen upar** — utna zyaada shreshtha (superior) ya aatmavishwaasi (confident)
+- **Jitna tezi se dhuen neeche** — utna zyaada naksaaratmak
+
+**Card game mein:**
+- Agar ek smoker ko achhe cards mile — woh dhuen upar phoonkne ki sambhaavna rakhta hai
+- Kharaab cards — neeche phoonkne ki
+
+**Selling situations mein:**
+- Jo smokers pehle se saakaratmak (positive) faisla kar chuke hain — dhuen upar phoonkte hain
+- Jo nahi kharidne ka socha hua hai — neeche phoonkte hain
+
+Humaari 1978 ki original study dikhati hai ki smokers non-smokers se vaarta (negotiation) mein faisla karne mein kaafi zyaada waqt lete hain — aur smoking ritual vaarta ke tense (tanavpurn) hisse ke dauran sabse zyaada hoti hai.
+
+Smokers dhyaan ko smoking process ki taraf moad ke faisla karne mein zyaada waqt lag sakte (stall kar sakte) hain.
+
+> **Agar tum smokers se tez faisle chahte ho — ek bade "No Smoking" sign wali room mein vaarta karo.**
+
+---
+
+## Cigar Smokers
+*(Cigar Peene Waale)*
+
+Cigars hamesha shreshthata (superiority) zahir karne ka zariya rahe hain — unki qeemat aur size ki wajah se. Bade business executives, gang leaders, aur high-status positions wale log aksar cigars peete dikhaaye jaate hain.
+
+Cigars jeet ya kamyabi celebrate karne ke liye use hote hain — jaise baby ka janam, shaadi, business deal pakki karna, ya lottery jeетна.
+
+Hairan nahi ki cigar smokers ka zyaadatar dhuen upar ki taraf jaata hai. Ek celebration dinner mein jahan cigars freely diye gaye — **400 mein se 320 cigar-dhuen ke kash upar ki taraf the**.
+
+---
+
+## How Smokers End a Session
+*(Smokers Sigret Kaise Khatam Karte Hain)*
+
+Zyaadatar smokers apni sigret ek khaas lambaayi tak pee ke phir ashtray mein bujhate hain.
+
+- **Auraten** sigret dheere dheere stub karti hain
+- **Mard** zyaadatar angoothe se kuchalna (crush) prefer karte hain
+
+Agar ek smoker sigret jalake achanak usse waqt se pehle bujha de — usne baat khatam karne ka faisla signal kiya hai. Is baat khatam karne ke signal ko dekhne se tum baat ki baagdor lete hue ya baat khatam karte hue — aisa dikh sakta hai jaise tum ne khud faala kiya.
+
+---
+
+## How to Read Glasses
+*(Chashma Kaise Padha Jaaye)*
+
+Jo artificial zaroori cheez (aids) ek insaan use kare — woh kai revealing gestures karne ka mauka deta hai — aur yeh chashme pehne waalon ke liye bilkul sach hai.
+
+Sabse aam gesture hai — **chashme ka ek baazoo muh mein rakhna**.
+
+**Desmond Morris** ne bataya ki koi bhi cheez honton ke paas rakhna ya muh mein daalna ek aarzi koshish hai us suraksha ko dobara jeene ki jo bachche ne apni maa ki chhaati se paayi thi. Matlab Glasses-Arm-in-Mouth gesture essentially ek tasalli wala (reassurance) gesture hai.
+
+**Chashme ke baare mein interesting research:**
+
+- Chashma pehne log doosron ko zyaada padhne wale (studious) aur intelligent lagte hain — khaaskar mulaqaat ke shuruaati hisse mein
+- Ek study mein — chashme wale logon ki tasveerein respondents ne **14 IQ points zyaada intelligent** aanka — bina chashme waali tasveeroon ke muqaable
+- Lekin yeh asar **5 minute se kam** rehta hai — toh sirf chhoti interviews ke liye pehanna faaydemand ho sakta hai
+
+**Chashme ke frame ka asar:**
+
+- **Bade, solid frames** — zyaada baar baar ye alfaaz use hote hain: padhne waala (studious), intelligent, conservative, padhaa-likhaa (educated), sachcha (sincere)
+- **Nazuk (spindly), frameless, ya chhhote frames** — kamzor image dete hain — zyaada fashion-conscious lagte hain business se zyaada
+
+Business context mein chashme taqat ka ek bayan (statement) hain.
+
+> **Taqat wali positions mein logon ko serious meetings ke liye mazboot frames use karne chahiye — aur "nice guy" image ke liye frameless.**
+
+---
+
+## Stalling Tactics
+*(Waqt Zaaya Karne Ki Tactics)*
+
+Sigret peene ki tarah — Glasses-Arm-in-Mouth faisla rok ke waqt zaaya karne (stall) ke liye bhi use hota hai. Vaarta (negotiation) mein — yeh gesture zyaadatar tab aata hai jab faisla maanga gaya ho.
+
+Chashma baar baar utaar ke lens saaf karna — faisla lene ke liye waqt haasil karne ka doosra tarika hai.
+
+Jab yeh gesture faisla maangne ke fauran baad aaye — **chup rehna sabse behtar tactic hai.**
+
+Glasses-Arm-in-Mouth ke baad aane wale gestures insaan ka iraada batate hain:
+
+- **Chashma wapas lagaana** — woh facts dobara "dekhna" chahta hai
+- **Chashma fold karke rakh dena** — baat khatam karne ka iraada
+- **Chashma mez par phenk dena** — proposal ko symbolically reject karna
+
+---
+
+## Peering-Over-the-Glasses
+*(Chashme Ke Upar Se Dekhna)*
+
+1920s aur 1930s ki films mein actors is gesture ko use karte the — ek alochanatmak (critical) ya faisal karne waale (judgmental) insaan portray karne ke liye — jaise English public school ka teacher.
+
+Aksar insaan reading glasses pehne hota hai aur unhe hataakar seedha dekhne ki jagah upar se dekhna zyaada aasaan laagta hai.
+
+Lekin jis insaan par yeh nazar pade — woh judge ya jaancha-parchaa (scrutinized) jaata mehsoos kar sakta hai. Chashme ke upar se dekhne ki aadat bahut mahenga galti ho sakti hai — kyunki sunne waala baazoo fold karne, pair cross karne, ya jhagdaaloo (argumentative) rawaiye se jawab de sakta hai.
+
+> **Chashma pehne waalon ke liye: baat karte waqt chashma utaaro — sunne waqt wapas lagaao.**
+
+Yeh na sirf doosre insaan ko relaxed karaata hai — balki baat karne ki baari bhi control mein rehti hai. Sunne waala jaldi seekh jaata hai ki jab tum chashma utaaro — tumhari baari hai — jab wapas lagao — uski baari.
+
+**Contact lenses** putaliyaan (pupils) failti hui aur neemi (moist) dikh sakti hain — aur roshni reflect kar sakti hain. Yeh ek naram, zyaada hawasi (sensual) appearance de sakta hai — jo samaajiک context mein theek hai — lekin business mein — khaaskar auraton ke liye — ye nuqsaandeh (detrimental) ho sakta hai.
+
+**Tinted ya sunglasses** business contexts mein kabhi qabool (acceptable) nahi hote — aur samaajiک maahol mein bhi shak paida karte hain.
+
+> **Jab clearly aur precisely dekhne ka message dena ho — clear glass hona zaroori hai. Sunglasses sirf baahir ke liye.**
+
+---
+
+## Wearing Glasses on the Head
+*(Chashma Sar Par Pehanna)*
+
+Jab koi dark sunglasses meetings mein pehne — woh **shankaalu (suspicious), chhupane waala (secretive), aur ashurakshit (insecure)** nazar aata hai.
+
+Lekin jo sar par sunglasses pehne — woh **relaxed, naujawaan (youthful), aur "cool"** nazar aata hai.
+
+Aisa isliye kyunki sar ke upar ek **"chaar aankhein" (Four Eyes) effect** create hota hai — do badi dilated putaliyaan (dilated pupils) jaisi dikhti hain — jo babies aur khilaune ki badi aankhon ki tarah non-threatening (ghair-khatarnak) asar karti hain.
+
+---
+
+## The Power of Glasses and Makeup
+*(Chashme Aur Makeup Ki Taqat)*
+
+Makeup pehanna vishvasniyata (credibility) mein izaafa (boost) karta hai — khaaskar business mein auraton ke liye.
+
+Humne ek simple prayog (experiment) kiya — chaar milti-julti female assistants ko ek seminar mein products bechne ke liye hired kiya:
+
+1. **Chashma + Makeup** — aatmavishwaasi (confident), intelligent, sophisticated, sabse outgoing describe ki gayi. Kuch female customers ne use cold, ghamandi (arrogant), aur conceited bhi dekha — jo yeh zahir karta hai ki woh use competitor samjhne lagi — mardoon ne aisa kabhi nahi socha.
+2. **Chashma + No Makeup** — customers ke rawaiye aur yaaddaasht (recall) par khaas asar nahi
+3. **No Chashma + Makeup** — appearance aur presentation par achhe marks — lekin sunne aur rapport banane par kam
+4. **No Chashma + No Makeup** — personal skills aur presentation dono par worst marks
+
+> **Makeup pehanna ek aurat ki samjhi jaane waali aaтмавishwaas (perceived self-confidence) mein izaafa karta hai.**
+
+Dilchasp baat — jo dono auraten makeup pehne thin — unhe bina makeup waali auraton ke muqaable chhoti skirts pehni hui samjha gaya — yeh dikhata hai ki makeup ek zyaada seductive image bhi present karta hai.
+
+**Nateeja saaf hai** — makeup ek aurat ko zyaada intelligent, aatmavishwaasi (confident), aur sexy image deta hai — aur chashma aur makeup ka combination business mein sabse zyaada saakaratmak aur yaadgaar asar rakhta hai.
+
+> **Business meetings ke liye ek non-correctable (bina number ke) chashma ek achhi strategy ho sakti hai.**
+
+---
+
+## A Little Lippy, Lady?
+*(Thodi Si Lipstick, Baji?)*
+
+Ek TV show ke liye humne nau auraten ko half interviews mein lipstick ke saath aur half mein bina lipstick ke bulaya.
+
+Nateeje saaf the:
+
+- **Laal lipstick + bada lip display** — khud mein aur mardoon ki nazar mein zyaada interested dikhti hain
+- **Chhhota lip display + muted ya pastel rang** — zyaada career-oriented aur business jesi dikhti hain
+- **Bina lipstick** — kaam ko mardoon se zyaada seriously leti hain — lekin personal skills ki kami
+
+Zyaadatar female interviewers ne notice kiya ki candidate ne lipstick pehni thi ya nahi — sirf aadhe mardoon ne note kiya jab auraten nahi pehne thin.
+
+**Salah:**
+- **Dates ke liye** — zyaada, bright laal lipstick
+- **Business meetings ke liye** — kam, understate shuda (understated) display
+- Agar kaam mein **female image promote hoti ho** — jaise kapde, cosmetics, hairdressing — toh bright display saakaratmak (positive) hai
+
+---
+
+## Summary
+*(Khulaasa)*
+
+Is chapter ki key baatein:
+
+- Sigret, chashma, aur doosri props ek insaan ke chhupe rawaiye ke baare mein zaroori signals deti hain
+- **Dhuen ki direction** faisle ka sabse seedha indicator hai — upar matlab saakaratmak, neeche matlab naksaaratmak
+- **Glasses-Arm-in-Mouth** tasalli (reassurance) ka gesture hai — aur waqt zaaya karne ke liye
+- **Chashma utaaro jab bolo — lagao jab suno** — conversation ka kaaboo haasil hoga
+- **Makeup + chashma combination** business mein auraton ke liye sabse taqatwar image hai
+- Sigret band karo — tum dheere dheere zyaada stressed se kam stressed hote jaaoge
+
+> **Props sirf cheezein nahi hain — yeh body language ke extension hain.**
+
+---
