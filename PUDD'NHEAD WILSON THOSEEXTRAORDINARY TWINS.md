@@ -771,3 +771,124 @@ Tom ne aisa kiya. Unhone humby kaha—
 Woh upar apne room ki taraf bhaage aur ek bottle neeche le aaye jo do-tihaai (two-thirds) bhari thi. Unhone ise upar jhukaaya aur ek drink li. Unqi aankhein santushti se sparkled huin, aur unhone bottle ko apne shawl ke neeche dba liya, kehti hui, “Yeh kamaal (prime) hai. Main ise sath le jaungi.”
 
 Tom ne humbly unke liye door hold kiya, aur woh ek grenadier (fauji) ki tarah karrwi aur erect ho kar march karte hue baahar nikal gayin.
+
+---
+
+# Chapter IX — Tom Practises Sycophancy
+
+### *(Tom Chaploosi Ka Abhyas Karta Hai)*
+
+---
+
+> *Why is it that we rejoice at a birth and grieve at a funeral? It is because we are not the person involved.—Pudd’nhead Wilson’s Calendar.*
+> *(Aisa kyun hai ki hum janam par khush hote hain aur janaze [funeral] par dukh jatate hain? Yeh isliye hai kyunki hum khud usmein shamil [involved] insaan nahi hote.)*
+> *It is easy to find fault, if one has that disposition. There was once a man who, not being able to find any other fault with his coal, complained that there were too many prehistoric toads in it.—Pudd’nhead Wilson’s Calendar.*
+> *(Galti nikaalna aasan hai, agar kisi ka mizaaj [disposition] hi aisa ho. Ek baar ek mard tha jo apne bhashan ke koyle [coal] mein koi aur galti nahi dhoondh saka, toh usne shikayat ki ki ismein bahut zyaada pragaitihasik mendhak [prehistoric toads] hain.)*
+
+---
+
+Tom ne khud ko sofa par phenk diya, aur apne teez dhadakte head (throbbing head) ko apne haathon mein le liya, aur apni elbows ko apne knees par tika diya. Woh apne aap ko aage-peeche jhhulane (rocked) laga aur karaahne (moaned) laga.
+
+“Main ek nigger wench ke samne ghutno par baitha hoon!” woh bhurbhuraya. “Maine socha tha ki maine pehle hi apmaan ke sabse gehre andhere (deepest depths of degradation) ko chhua hai, lekin oh, dear, yeh uske samne kuch bhi nahi tha. … Well, ek raahat (consolation) hai, jaisi bhi ho—maine is baar bottom (sabse nichla hissa) chhu liya hai; isse neeche kuch nahi hai.”
+
+Lekin yeh ek jaldi mein nikaala gaya nateejah (hasty conclusion) تھا.
+
+Raat ke das baje woh ha'nted house mein ladder par upar chadha, pale (peela), weak aur wretched (behal) hokar. Roxy ek room ke door par khadi thin, wait karti hui, kyunki unhone use sun liya था.
+
+Yeh ek do-manzil ke lakdi ka ghar (two-story log house) tha jisne kuch saal pehle bhootiya (haunted) hone ki reputation haasil ki thi, aur wahi iski usefulness ka ant tha. Uske baad koi ismein nahi rehta tha, ya raat ko iske paas nahi jata tha, aur zyaada tar log din mein bhi isse door rehte (wide berth) the. Kyunki iska koi competition nahi tha, isliye ise ha'nted house kaha jata tha. Yeh ab lambe neglect ke kaaran jhajhar aur barbaad (crazy and ruinous) ho raha tha. Yeh Pudd’nhead Wilson ke ghar se teen sau yards pare khada tha, beech mein sirf khaali jagah (vacancy) thi. Yeh us end par town ka aakhiri ghar tha.
+
+Tom Roxy ke peeche room mein gaya. Unke paas bed ke roop mein kone mein saaf phoos (clean straw) ka ek dher tha, deewar par kuch saste lekin well-kept kapde latak rahe the, ek tin ki lantern floor par roshni ke chote spots ke sath jhaiyan (freckling) bana rahi thi, aur chaaron taraf sabun aur candle ke tarah-tarah ke boxes bikhre the, jo chairs ka kaam karte the. Dono baith gaye. Roxy ne kaha—
+
+“Ab den, main tumhein seedhe-seedhe batati hoon, aur main paise baad mein ikhatha (k'leck) karna shuru karungi; main kisi hurry mein nahi hoon. Tum kya assume karte ho main tumhein kya batane wali hoon?”
+
+“Well, aap—aap—oh, Roxy, ise mere liye bahut zyaada hard mat banao! Seedhe baahar aao aur mujhe batao ki aapne kisi tarah figure out kar liya hai ki aashiqui aur bewakoofi (dissipation and foolishness) ke kaaran main kis kharab haalat mein hoon.”
+
+“Mizaaj aur bewakoofi (Disposition en foolishness)! No sir, dat ain’t it. Jo main jaanti hoon, uske samne yeh bilkul kuch bhi nahi hai.”
+
+Tom ne unqi taraf ghoora, aur kaha—
+
+“Why, Roxy, aapka matlab kya hai?”
+
+Woh uthi, aur ek Fate (kismat/kaal) ki tarah uske upar andhera (gloomed) ban gayi.
+
+“Mera matlab yeh hai—aur yeh Lord ka sach hai. Tum ole Marse Driscoll ke koi rishte-dar (kin) nahi ho jitni main hoon!—mera yahi matlab hai!” aur unqi aankhein jeet (triumph) se bhadak uthin.
+
+“Kya!”
+
+“Yassir, aur yeh sab kuch nahi hai! Tum ek nigger ho!—ek nigger aur ek gulam paada hue!—aur tum isi minute ek nigger aur ek gulam ho; aur agar maine apna mouf khola toh ole Marse Driscoll tumhein do din mazeed bada hone se pehle hi river ke neeche bech denge!”
+
+“Yeh ek thundering lie (bhaari jhooth) hai, tum badkismat purani blatherskite (bak-bak karne wali)!”
+
+“Yeh koi jhooth nahi hai, dono nahi. Yeh jes sach hai, aur sach ke sivaye kuch nahi, so he'p me. Yassir—you’s my son (tum mere bete ho)—”
+
+“Tum shaitan!”
+
+“Aur woh poor boy jise tum aaj laat aur thappad maar rahe the (a-kickin' en a-cuffin') woh Percy Driscoll ka son hai aur tumhara master—”
+
+“Tum jaanwar!”
+
+“Aur uska naam Tom Driscoll hai, aur tumhara naam Valet de Chambre hai, aur tumhare paas koi fambly name nahi hai, kyunki niggers ke paas woh nahi hote!”
+
+Tom jhatke se utha aur lakdi ka ek danda (billet of wood) pakad kar use upar uthaaya; lekin unqi mother sirf unpar hasin, aur unhone kaha—
+
+“Baith jao (Set down), tum pup (pille)! Kya tum sochte ho tum mujhe darr (skyer) sakte ho? Yeh tumhare andar nahi hai, aur na hi tum jaise logon mein. Main sochti hoon tum mujhe peeth mein goli maar doge, maybe, agar tumhein chance mile, kyunki exactly yahi tumhara style hai—I knows you, throo en throo (main tumhein andar tak jaanti hoon)—lekin main maare jaane par parwah nahi karti, kyunki yeh sab likhit mein (down in writin') hai aur yeh safe hands mein bhi hai, aur jis mard ke paas yeh hai woh jaanta hai ki jab main maari jaoon toh sahi mard ko kahan dhoondhna hai. Oh, bless yo’ soul, agar tum apni mother ko apne jitna bada bewakoof assume karte ho, toh tum pow’ful mistaken ho, main tumhein bata sakti hoon! Ab den, tum shant baitho aur behave karo; aur jab tak main tumhein na kahon dobara mat uthna!”
+
+Tom ek bhramit karne wale ehsaason aur emotions ke toofaan (whirlwind of disorganizing sensations) ke beech thodi der tak chid-chida (fretted and chafed) raha, aur finally nishchit vishwas (settled conviction) jaisi kisi cheez ke sath kaha—
+
+“Yeh poori cheez bamatlab (moonshine) hai; ab den, aige badho aur apna badtar karo; mera aapke sath hisab khatam.”
+
+Roxy ne koi javab nahi diya. Unhone lantern li aur door ki taraf badhin. Tom ek hi moment mein ek cold panic (darr) mein aa gaya.
+
+“Wapas aao, wapas aao!” woh chillaaya. “Mera woh matlab nahi tha, Roxy; main sab kuch wapas leta hoon, aur main ise dobara kabhi nahi kahunga! Please wapas aao, Roxy!”
+
+Aurat ek moment ke liye khadi rahi, phir unhone gombhirta (gravely) se kaha:
+
+“Yeh ek cheez aapko rokni hogi, Valet de Chambers. Tum mujhe Roxy nahi pukaar sakte, theek same jaise ki tum mere barabar ke ho. Chillen apni mammies se is tareeqe se baat nahi karte. Tum mujhe ma ya mammy pukaaroge, exactly yahi tum mujhe pukaaroge—kam se kam jab aas-paas koi na ho. Kaho ise!”
+
+Isne Tom ko ek struggle ki keemat lagai, lekin unhone ise nikaal diya.
+
+“Woh alright hai. Agar tum jaante ho ki tumhare liye kya achha hai toh ise dobara kabhi mat bhoolna. Ab den, tumne kaha hai ki tum ise dobara kabhi lies aur moonshine nahi kahonge. Main tumhein ek warning ke roop mein yeh batati hoon: agar tumne dobara kabhi aisa kaha, toh yeh aakhiri baar hoga jab tum mujhe aisa kahonge; main jitna seedha chal sakti hoon utna seedha Judge ke paas jaungi, aur unhein batayengi tum kaun ho, aur ise prove karungi. Kya tum mera vishwas karte ho jab main aisa kehti hoon?”
+
+“Oh,” Tom karaahya, “main vishwas karne se mazeed karta hoon; ichha ke sath jaanta hoon.”
+
+Roxy jaanti thin unqi jeet complete thi. Woh kisi ke samne kuch bhi prove nahi kar saktin thin, aur likhit saaman ke baare mein unqi threat ek jhooth thi; lekin woh us insaan ko jaanti thin jiske sath woh deal kar rahi thin, aur unhone is asar ke baare mein bina kisi shakk ke dono statements diye the jo unhone produce kiya.
+
+Woh gayin aur apne candle-box par baith gayin, aur unqi jeetne wali position ke garv aur shandari ne ise ek throne (singhasan) bana diya. Unhone kaha—
+
+“Ab den, Chambers, hum business ki baat karne ja rahe hain, aur ab koi mazeed bewakoofi nahi hone wali hai. Pehli jagah par, tumhein fifty dollars a month milte hain; tum iska aadha hissa apni ma ko han' over karne ja rahe ho. Nikalo ise (Plank it out)!”
+
+Lekin Tom ke paas duniya mein sirf khali six dollars the. Unhone unhein woh de diye, aur agle mahine ke pension par sahi shuruat karne ka vaada kiya.
+
+“Chambers, tum kitne karz mein ho?”
+
+Tom kaanp utha, aur unhone kaha—
+
+“Lagbhag teen sau dollars.”
+
+“Tum ise kaise pay karne ja rahe ho?”
+
+Tom ne karaahte hue nikaala—“Oh, main nahi jaanta; mujhse aise awful sawaal mat poochie.”
+
+Lekin woh apne point par tiki rahin jab kaapkar unhone usse ek confession baahar nikaal liya: woh disguise (bhes badal kar) mein chaaron taraf ghoom raha tha, private gharon se choti keemti cheezein chura raha tha; in fact, unhone do hafte pehle apne saathi-villagers par ek achhi khase raid ki thi, jab unhein St. Louis mein hona mana gya tha; lekin unhein shak tha ki unhone required amount haasil karne jitna saaman baahar bheja hai ya nahi, aur town ke majooda excited state mein ek aur venture karne se darr rahe the.
+
+Unqi mother ne unke is vyavahar ko approve kiya, aur madad offer ki, lekin isne unhein darr (frightened) diya. Unhone kaanpte hue yeh kehne ki dharstata ki agar woh town se chali jayein toh woh behtar aur safer feel karenge, aur apne head ko mazeed ooncha hold kar sakenge—aur ek tark dene wale the, lekin unhone interrupt kiya aur unhein pleasantly surprise karte hue kaha ki woh ready hain; unhein koi farq nahi padta tha ki woh kahan rahein, bhasharte unhein pension ka apna hissa regularly milta rahe. Unhone kaha ki woh bahut door nahi jayengi, aur apne paise ke liye mahine mein ek baar ha'nted house mein aayengi. Phir unhone kaha—
+
+“Main ab tumse utni nafrat nahi karti, lekin maine tumse kai saal nafrat ki hai—aur koi bhi karta. Kya maine tumhein badla nahi, aur tumhein ek achhi fambly aur ek achha naam diya, aur tumhein ek white gentleman aur rich banaya, kapdo ke sath—aur mujhe iske badle kya mila? Tum poore samay mujhse ghrina (despised) karte the, aur hamesha logon ke samne mujhe mean hard cheezein kehte the, aur mujhe kabhi bhoolne nahi dete the ki main ek nigger hoon—en—en———”
+
+Woh rone lagin, aur toot gayin. Tom ne kaha—“Lekin aap jaanti hain main nahi jaanta tha ki aap meri mother hain; aur iske alava—”
+
+“Well, parwah nahi us baare mein ab; ise jaane do. Main ise bhoolne ja rahi hoon.” Phir unhone tivrata (fierce) se add kiya, “Aur mujhe dobara kabhi ise yaad rakhne par majboor mat karna, ya tum pachtaoge, main tumhein batati hoon.”
+
+Jab woh alag ho rahe the, Tom ne sabse persuasive (samjhane wale) tareeqe se kaha jise woh command kar sakte the—
+
+“Ma, kya aap mujhe batane mein parwah karengi ki mere father kaun the?”
+
+Unhone assume kiya tha ki woh ek embarrassing sawaal pooch rahe hain. Woh galat the. Roxy apne head ke ek garv-bhare jhatke ke sath seedhi khadi huin, aur unhone kaha—
+
+“Kya mujhe batane mein parwah hai? No, dat I don’t! Tumhare paas apne father par ashamed hone ka koi kaaran (casion) nahi hai, main tumhein bata sakti hoon. Woh is poore town mein sabse oonche quality (highest class) ke the—ole Virginny stock. First famblies ke the. Exactly utna hi achha stock jitna Driscolls aur Howards ka hai, sabse behtar din jo unhone kabhi dekha ho.” Unhone agar possible ho toh thoda mazeed proud air pehan liya, aur impressively add kiya: “Kya tumhein Cunnel Cecil Burleigh Essex yaad hain, jo usi saal mare the jis saal tumhare young Marse Tom Driscoll ke pappy mare the, aur saare Masons aur Odd Fellows aur Churches baahar aaye the aur unhein is town ka sabse bada janaza (bigges' funeral) diya tha? Wahi mard hain.”
+
+Unqi badhti hui santushti (soaring complacency) ke inspiration ke tehat unqi youth ke departs hue graces unke paas wapas laut aaye, aur unke tareeqe ne apne andar ek aishi dignity aur state le li jo rani jaisi (queenly) maani ja sakti thi agar unka aas-paas ka environment iske sath thoda mazeed mel khata hota.
+
+“Is town mein aisa koi doosra nigger nahi hai jo tumhare jitna high-bawn (oonche khandaan ka) ho. Ab den, chalao aige! Aur bas tum apna head jitna ooncha chaaho utna hold karke rakkho—tumhare paas adhikaar hai, aur iski main kasam (swah) kha sakti hoon.”
+
+---
