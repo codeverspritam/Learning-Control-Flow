@@ -583,3 +583,191 @@ Wilson ne jaldi se ek aishi position chun li thi jahan se woh unqi taraf se dekh
 Dopahar ke paas woh Judge ke yahan drop in (aaye) aur Mrs. Pratt se din ke bade event ke baare mein baat ki, Aunt Patsy Cooper ke yahan prabhavshali foreigners ke levee (sammelan) ke baare mein. Unhone unke nephew Tom ke baare mein poocha, aur unhone kaha ki woh ghar aane ke raaste par hain, aur woh expect kar rahi hain ki woh raat se thoda pehle arrive honge; aur add kiya ki woh aur Judge is baat se gratified (khush) hain unke letters se yeh jankari ikhatha karke ki woh apna vyavahar bahut nicely aur creditably (sarishtata se) chala rahe hain—jispar Wilson ne secretly apne aap se wink (aankh maari) kiya. Wilson ne yeh nahi poocha ki kya ghar mein koi naya newcomer aaya hai, lekin unhone aise sawaal pooche jinhone us mamle ke baare mein light-throwing answers (roshni dalne wale javab) nikaale hote agar Mrs. Pratt ke paas daalane ke liye koi roshni hoti; isliye woh yeh satisfied hokar chale gaye ki woh unke ghar mein chal rahi un cheezon ke baare mein jaante the jisse woh khud anjaan (not aware) thin.
 
 Woh ab twins ka wait kar rahe the, aur abhi bhi is problem par puzzle kar rahe the ki woh girl kaun ho sakti hai, aur woh us young bande ke room mein subah bhor ke samay (at daybreak) kaise majood thi.
+---
+
+# Chapter VIII — Marse Tom Tramples His Chance
+
+### *(Marse Tom Apne Mauqe Ko Kuchtal Deta Hai)*
+
+---
+
+> *The holy passion of Friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money.—Pudd’nhead Wilson’s Calendar.*
+> *(Dosti [Friendship] ka pavitra jazba itna meetha, sthir, vafadar aur tikau hota hai ki yeh poori life chal sakta hai, bhasharte isse paise udhaar mangne ke liye na kaha jaye.)*
+> *Consider well the proportions of things. It is better to be a young June-bug than an old bird of paradise.—Pudd’nhead Wilson’s Calendar.*
+> *(Cheezon ke anupaat [proportions] par achhi tarah vichar karein. Ek boodhe bird of paradise hone se behtar hai ek young June-bug banna.)*
+
+---
+
+Ab Roxy ko dhoondhna (hunt up) zaroori hai.
+
+Jis samay unhein free kiya gya aur woh chambermaiding par gayin, woh thirty-five saal ki thin. Unhein New Orleans ke vyapar mein chalne wali ek Cincinnati boat, *Grand Mogul*, par second chambermaid ke roop mein ek berth (naukri) mili. Ek-do trips ne unhein kaam ka aadi (wonted) aur easy-going bana diya, aur steamboat life ke us stir (halchal), adventure aur independence ne unhein poori tarah se jaaduit (infatuated) kar diya. Phir unqi promotion hui aur woh head chambermaid ban gayin. Woh officers ki favorite thin, aur unke mazaak-bhare aur dostana tareeqon par tezi se proud thin.
+
+Aath saal tak unhone saal ke teen hisse us boat par serve kiya, aur winters ek Vicksburg packet par bitaye. Lekin ab do mahine se unke haathon mein gathiya (rheumatism) tha, aur unhein kapde dhone ke tub (wash-tub) ko akele chhodne par majboor hona pada. So, unhone isteefa (resigned) de diya. Lekin woh well-fixed thin—rich (ameer), jaisa woh ise describe kartiin; kyunki unhone ek sthir life jiyi thi, aur apni old age ke prabandh ke roop mein har mahine New Orleans mein char dollars bank mein jama (banked) kiye the. Unhone shuruat mein kaha tha ki unhone “ek nange-pair nigger (bar'footed nigger) ko pehne ke liye jootey diye the taaki woh unpar hi kuchtal (tromple) sake,” aur aishi ek galti kafi thi; woh tab se hamesha ke liye insani race se independent ho jayengi agar hard work aur economy (bachat) ise accomplish kar sakein. Jab boat ne New Orleans mein levee (ghat) ko chhua toh unhone *Grand Mogul* par apne doston ko good-by kaha aur apna saaman (kit) kinare utar liya.
+
+Lekin woh ek ghante mein wapas thin. Bank collapse (smash) ho gya tha aur unke char sau dollars (four hundred dollars) apne sath lekar chala gya tha. Woh ek pauper (kangal) thin, aur homeless. Sath hi sharir se apang (disabled), kam se kam filhal ke liye. Officers unqi is trouble mein poori tarah se sympathy se bhare the, aur unhone unke liye ek choti purse (paise) ikhatha ki. Unhone apne birthplace jaane ka nishchay kiya; negroes ke beech wahan unke dost the, aur badkismat hamesha badkismat ki madad karta hai, woh is baare mein achhi tarah aware thin; unqi youth ke woh mamuli saathi unhein bhookhe nahi marne denge.
+
+Unhone Cairo mein choti local packet li, aur ab woh ghar ki aakhiri ddaud (home-stretch) par thin. Samay ne apne bete ke khilaf unqi karrwahat (bitterness) ko mita diya tha, aur woh unke baare mein shanti se sochne kabil thin. Unhone uske ghatiya side (vile side) ko apne mind se baahar nikaal diya, aur kevel unke prati uske kabhi-kabar ke kindness ke acts ki yaadon par tikin. Unhone unhein sringaarit (gilded/decorated) kiya, aur moolyankan karne ke liye unhein bahut pleasant banaya. Woh use dekhne ke liye tarasne (long to see him) lagin. Woh ek gulam ki tarah (slave-like) jaakar uspar apna pyaar jatayengi—kyunki nishchit roop se yahi unka posture hona tha—aur shayad woh payengi ki samay ne use badal (modified) diya hai, aur woh apni lambi-bhooli purani nurse ko dekh kar glad hoga aur uske sath gently treat karega. Yeh lovely hoga; yeh unhein unke dukhon (woes) aur unqi gareebi ko bhoolne par majboor kar dega.
+
+Unqi gareebi! Us vichaar ne unhein apne dream mein ek aur qila (castle) add karne ke liye inspire kiya: shayad woh unhein kabhi-kabar thoda sa paisa (trifle) de de—shayad mahine mein ek baar ek dollar, maan lijiye; aishi koi bhi choti cheez bahut zyaada madad karegi, oh, bahut zyaada.
+
+Jab tak woh Dawson’s Landing pahunchein woh phir se apni purani self thin; unka udasi-pan (blues) chala gya tha, woh oonche utsah (high feather) mein thin. Woh nishchitta se gujara kar lengi; aise kai kitchens the jahan servants unke sath apna khana share karenge, aur unke ghar le jaane ke liye sugar, apples aur doosre pakwan (dainties) bhi churayenge—ya unhein khud unhein churane (pilfer) ka ek chance denge, jo utna hi kaam karega. Aur wahan church tha. Woh pehle se kahin zyaada ek tivra aur samarpit (rabid and devoted) Methodist thin, aur unqi dharmikta koi dhokha (sham) nahi thi, balki strong aur sincere thi. Haan, dheron suvidhaon (creature comforts) aur amen-corner mein apni purani jagah dobara apne kabze mein hone ke sath, woh tab se ant tak poori tarah se happy aur shanti mein rahengi.
+
+Woh sabse pehle Judge Driscoll ke kitchen mein gayin. Wahan unka swagat bade roop mein aur vishal utsah (vast enthusiasm) ke sath kiya gya. Unqi adbhut yatrayen, aur unke dwara dekhe gaye naye deshoon aur unke carnamo ne unhein ek achambha (marvel), aur romance ki ek heroine bana diya. Negroes unqi experiences ki badi kahani par jaaduit hokar latak gaye, utsaahit sawaalon, hansi, khushi ke chillane aur taaliyon ke pradarshano ke sath poore raaste unhein interrupt karte hue; aur woh apne aap se sweekar karne par majboor thin ki agar is duniya mein steamboating se behtar kuch tha, toh woh iske baare mein batane se haasil hone wala gaurav (glory) tha. Audience ne unke stomach ko apne dinners se bhar diya, aur phir unke basket ko bharne ke liye pantry ko poori tarah se saaf chura (stole bare) liya.
+
+Tom St. Louis mein the. Servants ne bataya ki unhone pichele do saalon ke dauran apne samay ka sabse behtar hissa wahin spent kiya hai. Roxy daily aati thin, aur family aur iske mamlon ke baare mein kai talks kartin. Ek baar unhone poocha ki Tom itna baahar kyun rehta hai. Dikhne wale “Chambers” ne kaha:
+
+“Fact yeh hai, jab young master shehar se baahar hota hai toh ole master mazeed behtar gujara kar sakte hain mukable iske jab woh shehar mein ho; haanh, aur woh use behtar pyaar bhi karte hain; isliye woh use fifty dollars a month dete hain—”
+
+“Nahi, kya aisa hai? Chambers, tum mazaak kar rahe ho, hai na?”
+
+“Sach keh raha hoon main nahi kar raha, mammy; Marse Tom ne mujhe khud aisa bataya tha. Lekin parwah nahi, yeh kafi nahi hai.”
+
+“My lan’, kya kaaran hai ki yeh kafi nahi hai?”
+
+“Well, main tumhein batane wala hoon, agar tum mujhe ek chance (chanst) do, mammy. Kaaran yeh kafi nahi hai kyunki Marse Tom gamble (jua) khelte hain.”
+
+Roxy ne hairani (astonishment) mein apne haath upar uthaye aur Chambers jaatri raha—
+
+“Ole master ne yeh figure out kar liya, kyunki unhein Marse Tom ke juye ke karz (gamblin' debts) ke liye do sau dollars (two hundred dollars) pay karne pade, aur yeh sach hai, mammy, theek utna hi nishchit jitna tum paada hui ho.”
+
+“Do—sau—dollars! Arre, tum kis baare mein baat kar rahe ho? Do—sau—dollars. Baap re, yeh ek kafi achha second-hand nigger kharidne ke liye lagbhag paryapt hai. Aur tum jhooth nahi bol rahe ho, honey?—tum apni ole mammy se jhooth nahi bologe?”
+
+“God ka apna sach hai, exactly jaisa main tumhein bata raha hoon—two hundred dollars—main prarthna karta hoon ki main apni jagah se kabhi na hiloon agar aisa na ho. Aur, oh, my lan’, ole Marse toh gusse mein kood rahe the! Woh ubalte hue gusse (b'ilin' mad) mein the, main tumhein batata hoon! Unhone use be-dakhal (dissenhurrit) kar diya.”
+
+Us shandaar sabd (stately word) ke baad usne swad ke sath apne hont chaate (licked his chops). Roxy ne ek moment tak is sabd ke sath struggle kiya, phir ise chhod diya aur kaha—
+
+“Dissen-kya kar diya?”
+
+“Dissenhurrit (Disinherited - vasiyat se be-dakhal) kar diya.”
+
+“Yeh kya hai? Iska matlab kya hai?”
+
+“Matlab unhone vasiyat tod di (bu'sted de will).”
+
+“Vasi-yat tod di! Groh use kabhi aise treat nahi karenge! Ise wapas lo, tum badkismat nakli nigger (mis'able imitation nigger) jise maine dukh aur peeda (sorrow en tribbilation) mein paada kiya.”
+
+Roxy ka pasandida qila (pet castle)—Tom ki pocket se kabhi-kabar milne wala ek dollar—unqi aankhon ke samne barbaadi mein gir raha tha. Woh aise ek disaster ko bardaasht nahi kar saktin thin; woh is vichaar ko jhel nahi saktin thin. Unqi tippani ne Chambers ka manoranjan kiya:
+
+“Yah-yah-yah! Bas use suno! Kaash main imitation hoon, toh aap kya hain? Hum dono nakli white (imitation white) hain—wahi hum hain—aur bahut acche nakli bhi—yah-yah-yah!—hum nakli negroes ke roop mein kisi ginti mein nahi aate; aur jahan tak—”
+
+“Apni yeh bewakoofi band karo (Shet up yo' foolin'), isse pehle ki main tumhare head ke side par maroon, aur mujhe vasiyat ke baare mein batao. Mujhe batao ki yeh tooti nahi hai—batao, honey, aur main tumhein kabhi nahi bhoolungi.”
+
+“Well, nahi tooti hai—kyunki ek nayi vasiyat banayi gayi hai, aur Marse Tom dobara perfectly alright hain. Lekin tum is baare mein itne pasine (sich a sweat) mein kyun ho, mammy? Mujhe nahi lagta ki yeh aapka koi business hai.”
+
+“Yeh mera koi business nahi hai? Kiska business hai phir, main jaan'na chahungi? Kya main fifteen saal ke hone tak uski mother thin, ya nahi thin?—tum mujhe iska javab do. Aur tum expect karte ho ki main use duniya mein poor aur bekar turned out hote hue dekhoon aur is baare mein kabhi kuch care na karoon? Main sochti hoon agar tum kabhi khud ek mother rahe hote, Valet de Chambers, toh tum aishi bewakoofi ki baat nahi karte.”
+
+“Well, toh, ole Marse ne unhein forgive kar diya aur vasiyat dobara fix up kar di—kya yeh aapko satisfy karta hai?”
+
+Haan, woh ab satisfied thin, aur ispar kaafi happy aur bhavuk (sentimental) thin. Woh daily aati rahin, aur aakhirkar unhein bataya gya ki Tom ghar aa chuka hai. Woh utsah se kaanpne (tremble with emotion) lagin, aur turant yeh bheekh mangne ke liye sandesh bheja ki unke “poor ole nigger mammy ko unka sirf ek nazaara haasil karne dein aur khushi se mar jaane dein.”
+
+Tom ek sofa par apni aaram-dayak aalsi suvidha (lazy ease) mein phhaile the jab Chambers ne prarthna (petition) prastut ki. Samay ne unqi childhood ke is mamuli mazdoor (humble drudge) aur protector ke prati unqi purani nafrat (ancient detestation) ko badal nahi tha; yeh abhi bhi karrwi aur samjhauta na karne wali (bitter and uncompromising) thi. Woh baith gaye aur us young mard ke fair face par ek karrwi nazar (severe gaze) daali jiska naam woh anjaane mein use kar rahe the aur jiske family rights ka woh anand le rahe the. Unhone nazar tab tak barkarar rakkhi jab tak ki iska victim darr se satisfactorily peela (pallid with terror) nahi ho gya, phir unhone kaha—
+
+“Uss purani aafat (old rip) ko mujhse kya kaam hai?”
+
+Prarthna ko vinamra roop se dohraya gya.
+
+“Tumhein kisne permission di ki yahan aao aur negroes ki samajik attentions se mujhe disturb karo?”
+
+Tom uth khade hue the. Doosra young man ab saaf roop se kaanp (trembling) raha tha. Usne dekha ki kya aane wala hai, aur apne head ko ek taraf jhuka diya, aur ise protect karne ke liye apna left haath upar utha liya. Tom ne bina koi sabd kahe head aur uske kawach par thappadon ki bauchhar kar di (rained cuffs): victim ne har ek blow ko ek binnati karte hue receive kiya, “Please, Marse Tom!—oh, please, Marse Tom!” Saat thappad—phir Tom ne kaha, “Door ki taraf face karo—march!” Unhone ek, do, teen solid kicks (laathon) ke sath piche se follow kiya. Aakhiri laath ne us poore safed gulam (pure-white slave) ko door dehleez ke paar push kiya, aur woh apni purani fate-purane sleeve se apni aankhon ko pochte hue ladkhada kar chala gya. Tom uske peeche chilla uthe, “Use andar bhejo!”
+
+Phir unhone haanfte hue (panting) khud ko dobara sofa par phenk diya, aur tippani nikaali, “Woh theek sahi moment par aaya; main karrwe vicharon se poori tarah upar tak bhara tha, aur badla nikaalne ke liye koi nahi tha. Yeh kitna refreshing tha! Main behtar feel kar raha hoon.”
+
+Tom ki mother ne ab enter kiya, apne piche door close karte hue, aur un saari phuslaane wali aur binnati karti gulamiyat (wheedling and supplicating servilities) ke sath apne bete ke paas aayin jo darr aur interest ek janmjaat gulam ke lafzon aur postures ko pradan kar sakte hain. Woh apne boy se ek yard ki doori par rukin aur uske mardana stature aur general handsomeness par do ya teen adbhut tareefon ke chillane (admiring exclamations) kiye, aur Tom ne properly indifferent (bina parwah ke) dikhne ke liye apna ek haath apne head ke neeche rakkha aur ek leg ko sofa-back ke upar utha liya.
+
+“My lan’, tum kitne badh gaye ho, honey! Sach keh rahi hoon, main tumhein pehchan nahi paati, Marse Tom! Sach mein nahi pehchanti! Mujhe achhi tarah dekho; kya tumhein purani Roxy yaad hai?—kya tum apni purani nigger mammy ko jaante ho, honey? Well, ab, main shanti se let kar mar sakti hoon, kyunki maine seed (dekh liya) hai—”
+
+“Chhota karo ise, d--- it, chhota karo! Tumhein kya chahiye?”
+
+“Aapne suna? Exactly wahi same purane Marse Tom, hamesha ole mammy ke sath itne gay aur funnin’ karne wale. Main bilkul shore thin—”
+
+“Chhota karo ise, main tumhein kehta hoon, aur aige badho! Tumhein kya chahiye?”
+
+Yeh ek karrwi niraasha (bitter disappointment) thi. Roxy ne itne dino tak is dharana ko paala (nourished) aur dulaara tha ki Tom apni purani nurse ko dekh kar glad hoga, aur ek-do saaf lafzon se unhein andar tak proud aur happy karega, ki unhein do baar jhatke (two rebuffs) lene pade yeh convince karne ke liye ki woh mazaak nahi kar raha tha, aur unka khoobsurat dream ek andha aur moorkhta-purna ghamand (fond and foolish vanity) tha, ek ghatiya aur taras-yogya galti thi. Unhein dil par chot pahunchei thi, aur woh itni ashamed thin ki ek moment ke liye woh poori tarah nahi jaanti thin ki kya karein ya kaise act karein. Phir unqi chaati marodne lagi, aansu aa gaye, aur apni is akelapan (forlornness) mein woh apne us doosre dream ko try karne ke liye prerit huin—apne boy ki charity (daan) ke liye ek appeal; aur isliye, ek jhatke mein (impulse), aur bina vichar kiye, unhone apni binnati prastut ki:
+
+“Oh, Marse Tom, poori ole mammy in dino bahut hard luck mein hai; aur haanthon se thodi si crippled hai aur kaam nahi kar sakti, aur agar aap mujhe ek dollar de sakein—sirf ek chota sa dol—”
+
+Tom itni sudden apne pairon par khade ho gaye ki binnati karne wali khud jhatke se jump kar gayi.
+
+“Ek dollar!—tumhein ek dollar doon! Mera dimaag tumhara gala ghhontne (strangle you) ka ho raha hai! Kya yahi tumhara kaam tha yahan? Baahar niklo! Aur jaldi karo is baare mein!”
+
+Roxy slowly door ki taraf piche hatin (backed slowly). Jab woh aadhe raaste thin toh woh ruk gayin, aur udaasi se kehti thin:
+
+“Marse Tom, maine tumhein tab sambhala (nussed) tha jab tum ek chote baby the, aur maine tumhein apne dum par bada kiya jab tak tum lagbhag ek young man nahi ho gaye; aur ab tum young aur rich ho, aur main poor aur boodhi ho rahi hoon, aur main yahan yeh vishwas karke aayi thin ki aap ole mammy ki us chote raaste par madad karenge jo uske aur qabr ke beech bacha hai, aur—”
+
+Tom ko yeh sur (tune) unse pehle aane wale kisi bhi sur se kam pasand aaya, kyunki yeh unke zameer (conscience) mein ek tarah ki goonj jagane laga tha; isliye unhone interrupt kiya aur faisale ke sath kaha, bhale hi bina karrwahat ke, ki woh unqi madad karne ki situation mein nahi the, aur aisa nahi karne wale the.
+
+“Kya aap meri kabhi madad nahi karenge, Marse Tom?”
+
+“Nahi! Ab chalao yahan se aur mujhe mazeed pareshan mat karo.”
+
+Roxy ka head neeche tha, namrata ke ek posture (attitude of humility) mein. Lekin ab unke purane apmaanon ki aag unqi chaati mein bhadak uthi aur tezi se jalne lagi. Unhone apna head slowly upar uthaya, jab tak ki yeh poori tarah upar nahi ho gya, aur same samay par unqi vishal kad-kaathi ne anjaane mein ek seedha aur master-bhara posture (erect and masterful attitude) le liya, jisme unqi khoyi hui youth ki saari majeste aur grace majood thi. Unhone apni ungli uthai aur isse nishana lagaya (punctuated with it):
+
+“Tumne sabd keh diya hai. Tumhe tumhara chance mila tha, aur tumne ise apne pairon ke tehat kuchtal diya hai. Jab tumhein doosra milega, toh tum apne knees par baith kar iske liye bheekh mangoge (beg for it)!”
+
+Tom ke dil mein ek cold chill (thand) chali gayi, woh nahi jaante the kyun; kyunki unhone ispar vichar nahi kiya tha ki aise ek asangat srot (incongruous source) se aaye, aur itne gombhirta se deliver kiye gaye sabd, us asar mein aasaani se fail nahi ho sakte. Halanki, unhone natural cheez ki: unhone chillane aur mazaak ke sath javab diya:
+
+“Tum mujhe ek chance dogi—tum! Shayad main abhi apne knees par baith jaoon! Lekin in case main na baithoon—bas tark ke liye (argument's sake)—kya hone wala hai, prarthna karein?”
+
+“Yeh hone wala hai. Main jitna seedha chal sakti hoon utna seedha tumhare uncle ke paas ja rahi hoon, aur unhein har ek aakhiri cheez batane wali hoon jo main tumhare baare mein jaanti hoon.”
+
+Tom ke cheeks safed pad gaye (blenched), aur unhone ise dekh liya. Pareshan karne wale vichaar unke head ke beech ek doosre ka peeche karne lage. “Yeh kaise jaan sakti hai? Aur phir bhi isne figure out kar liya hoga—woh waisi hi dikhti hai. Mujhe vasiyat wapas mile sirf teen mahine hue hain, aur main pehle se hi dobara gehre karz mein hoon, aur exposure aur destruction se apne aap ko bachane ke liye aasmaan-paatal ek kar raha hoon, is cheez ko chhupane ke ek reasonable saaf show ke sath agar mujhe akele chhod diya jaye, aur ab is shaitan ne kahin na kahin se mujhe figure out kar liya hai. Main hairan hoon ki yeh kitna jaanti hai? Oh, oh, oh, yeh kisi ka dil todne ke liye kafi hai! Lekin mujhe use khush rakhna hoga (humor her)—koi doosra raasta nahi hai.”
+
+Phir unhone ek chalaki-bhari hansi (gay laugh) ka ek kafi kamzor sample viksit kiya aur tareeqe mein ek khokhli khushi (hollow chipperness) laaye, aur kaha:
+
+“Well, well, Roxy dear, tumhare aur mere jaise purane doston ko quarrel (ladna) nahi chahiye. Yeh raha tumhara dollar—na mujhe batao ki tum kya jaanti ho.”
+
+Unhone us saste note (wild-cat bill) ko badhaya; woh jaisi thin waisi hi khadi rahin, aur koi movement nahi ki. Ab unqi baari thi samjhane wali bewakoofi (persuasive foolery) ko tuchh jaanne (scorn) ki, aur unhone ise barbaad nahi kiya. Unhone awaaz aur tareeqe mein ek karrwi draddhta (grim implacability) ke sath kaha, jisne Tom ko lagbhag realize karwaya ki ek purana gulam bhi ten minutes ke liye un apmaanon aur choton ko yaad rakh sakta hai jo haasil kiye gaye tareefon aur flatteries ke badle diye gaye the, aur opportunity milne par unka badla lene ka anand bhi le sakta hai:
+
+“Main kya jaanti hoon? Main tumhein batati hoon main kya jaanti hoon. Main itna jaanti hoon ki us vasiyat ko tukde-tukde (bu'st dat will to flinders) kar sakoon—aur mazeed, dhyan rakhna, mazeed!”
+
+Tom hairat-mein-tha (aghast).
+
+“Mazeed?” unhone kaha. “Tum mazeed kise kehti ho? Mazeed ke liye kahan koi jagah hai?”
+
+Roxy ek mazaak-bhari hansi hansin, aur vyang se kaha, apne head ke ek jhatke ke sath, aur apne haath apni hips par rakh kar—
+
+“Haan!—oh, main sochti hoon! Co'se aap jaan'na chahenge—apne is poor chote purane raddi dollar (rag dollah) ke sath. Aap kya sochte hain main tumhein kyun batane wali hoon?—aapke paas koi paisa nahi hai. Main aapke uncle ko batane ja rahi hoon—aur main ise isi minute karungi bhi—woh mujhe is news ke liye five dollars denge, aur bahut glad hokar denge.”
+
+Unhone tiraskar se (disdainfully) apne aap ko chaaron taraf ghumaya, aur jaane lagin. Tom ek panic (darr) mein the. Unhone unke skirts ko pakad liya, aur unhein wait karne ke liye implored (binnati) kiya. Woh mudin aur oonche tareeqe se kaha—
+
+“Yahan dekho (Look-a-heah), maine tumhein kya bataya tha?”
+
+“Tumne—tumne—mujhe kuch yaad nahi hai. Tumne mujhe kya bataya تھا?”
+
+“Maine tumhein bataya tha ki agle baar jab main tumhein ek chance dungi toh tum apne knees par baith kar iske liye beg karoge.”
+
+Tom ek moment ke liye sunn (stupefied) ho gaye. Woh utsah se haanf (panting) rahe the. Phir unhone kaha:
+
+“Oh, Roxy, tum apne young master se aishi horrible cheez karne ke liye required nahi karogi. Tumhara matlab yeh nahi ho sakta.”
+
+“Main tumhein bahut jaldi jaan'ne dungi ki mera matlab yeh hai ya nahi! Aap mujhe mean naamon se pukaarte hain, aur jab main yahan poor, bekar aur humble hokar aati hoon aap par thukne ke barabar karte hain, aapki tareef karne ke liye ki tum itne fine aur handsome bade hue ho, aur tumhein batane ke liye ki main kaise tumhein sambhalti thi aur tumhari dekh-bhaal karti thin jab tum sick the aur poori duniya mein mere alava tumhari koi mother nahi thi, aur poor ole nigger ko khane ke liye kuch paane ke liye ek dollar dene ke liye beg karti hoon, aur aap mujhe mean naamon se pukaarte hain—naamon se, d--- you! Haan sir, I gives you jes one chance mo' (main tumhein sirf ek aur chance deti hoon), aur woh abhi hai, aur yeh sirf aadhe second ke liye chalta hai—sun rahe ho?”
+
+Tom apne knees par baith gaye (slumped to his knees) aur beg karna shuru kar diya, kehte hue—
+
+“Aap dekh rahi hain, main beg kar raha hoon, aur yeh honest begging hai! Ab mujhe batao, Roxy, mujhe batao.”
+
+Do sau saal ke bina-badle apmaan aur utpeedan (unatoned insult and outrage) ke waaris ne unpar neeche dekha aur aisa laga jaise santusht ke gehre ghhont (deep draughts of satisfaction) pee rahi ho. Phir unhone kaha—
+
+“Fine nice young white gentleman ek nigger-wench ke samne ghutno par baitha hai! Main ise bulaye jaane se pehle (marne se pehle) ek baar dekhna chahti thin. Ab, Gabriel, bhonpu bajao (blow de hawn), main ready hoon … Uth khade ho (Git up)!”
+
+Tom ne aisa kiya. Unhone humby kaha—
+
+“Now, Roxy, mujhe mazeed punish mat karo. Jo mujhe mila main iske layak tha, lekin achhi bano aur mujhe iske sath chhod do. Uncle ke paas mat jao. Mujhe batao—main tumhein five dollars dunga.”
+
+“Haan, main bet lagati hoon aap denge; aur aap wahin rukenge bhi nahi, doosra bhi nahi. Lekin main tumhein yahan nahi batane wali—”
+
+“Good gracious, nahi!”
+
+“Kya aap ha'nted house (bhootiya ghar) se darrte (feard) hain?”
+
+“N-nahi.”
+
+“Well, toh, aap aaj raat das ya gyaarah baje ke aas-paas ha'nted house mein aana, aur ladder (seedhi) par upar climb karna, kyunki stairs ke steps toote hue hain, aur aap mujhe paa lenge. Main ha'nted house mein reh (roostin') rahi hoon kyunki main kahin aur rehna afford nahi kar sakti.” Woh door ki taraf badhi, lekin ruki aur kaha, “Mujhe dollar bill do!” Unhone ise unhein de diya. Unhone ise jaanch (examined) kiya aur kaha, “H'm—lagta hai bank collapse ho gya hai.”* Woh dobara badhi, lekin dobara ruki. “Kya aapke paas koi whisky hai?”
+
+“Haan, thodi si.”
+
+“Lao ise!”
+
+Woh upar apne room ki taraf bhaage aur ek bottle neeche le aaye jo do-tihaai (two-thirds) bhari thi. Unhone ise upar jhukaaya aur ek drink li. Unqi aankhein santushti se sparkled huin, aur unhone bottle ko apne shawl ke neeche dba liya, kehti hui, “Yeh kamaal (prime) hai. Main ise sath le jaungi.”
+
+Tom ne humbly unke liye door hold kiya, aur woh ek grenadier (fauji) ki tarah karrwi aur erect ho kar march karte hue baahar nikal gayin.
