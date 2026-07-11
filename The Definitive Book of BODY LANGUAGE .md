@@ -6102,3 +6102,397 @@ Chhote log apni samjhi jaane waali unchaai badha sakte hain — aur zyaada lamba
 > **Seedhe khade raho, seedhe baitho, aur "walk tall" karo — confident appearance milti hai — aur cause aur effect ke niyam ki wajah se — tum feel bhi zyaada confident karoge.**
 
 ---
+
+# Chapter 17 — Seating Arrangements — Where to Sit and Why
+### *(Baithne Ki Tarteeb — Kahan Baithein Aur Kyun)*
+
+
+---
+
+> *"Bas ghar jaisa feel karo aur mujhe sab bata do!"*
+
+---
+
+Doosre logon ke muqaable tum kahan baithte ho — yeh unse sahaayata (cooperation) haasil karne ka ek effective tarika hai. Tumhare muqaable woh kaun si seating position lein — yeh bhi unke tumhare baare mein rawaiye ke kuch pahlu zahir karta hai.
+
+Humne 1970s, 1980s, aur 1990s mein seminar delegates ke saath surveys kiye — taaki pata laga sakein ki table par kaun si position unhe specific rawaiye zahir karne ke liye best lagti hai.
+
+**Robert Sommer, University of California** ke psychologist ne seating positions ki pehli badi study ki — public aur social situations mein ek cross section of students aur bacchon ka analysis karke — bars aur restaurants mein. Humne Sommer ke nateeje business aur vaarta (negotiation) situations par apply kiye.
+
+**Mark Knapp, University of Vermont** ne paaya ki haalaanki seating positions ki interpretation ka ek general formula hai — maahol (environment) bhi chosen position par asar daal sakta hai.
+
+Misal ke taur par — intimate couples jahan bhi ho sakein saath-saath baithna prefer karte hain — lekin bheed bhari restaurant mein jahan tables ek doosre ke karib hon — couples ek doosre ke saamne baithne par majboor ho jaate hain — jo normally ek bachaawe wali (defensive) position hai.
+
+---
+
+## Take the Table Test
+*(Table Test Lo)*
+
+Maano tum ek aayataakaar (rectangular) table par **Person A** ke saath baithne waale ho — aur tum **Person B** ho. Kaunsi seating position chunoge in haalaton mein:
+
+1. Ek chhoti, dosti bhari company ke liye job interview loge
+2. Kisi ki crossword puzzle mein madad karoge
+3. Kisi ke khilaaf chess kheloge
+4. Public library mein ho aur koi involvement nahi chahte
+
+**Tumhare sabse zyaada sambhavit (likely) jawaaab yeh hain:**
+
+- **B1 — Corner Position** chunte — interview ke liye — kyunki yeh tumhein insaan saaf dekhne deta hai bina muqaablabaaz (competitive) ya aggressive lage
+- **B2 — Cooperative Position** chunte — crossword puzzle mein madad ke liye — kyunki yahan hum madad dene ya rapport banana ke liye baithte hain
+- **B3 — Competitive/Defensive Position** chunte — chess khelne ke liye — kyunki yeh tumhein unka poora chehra aur kaam dekhne deta hai
+- **B4 — Independent/Diagonal Position** — library mein — apni aazaadi (independence) ya gair-shamooliyat (non-involvement) zahir karne ke liye
+
+---
+
+## 1. The Corner Position — B1
+*(Kone Ki Jagah)*
+
+Yeh position woh log use karte hain jo dosti bhari, casual baat-cheet mein hon.
+
+**Fayde:**
+- Achha eye contact
+- Kai gestures use karne ka mauka
+- Doosre ke gestures observe karne ka mauka
+- Mez ka kona ek aarzi hadd (partial barrier) deta hai — agar koi insaan khataraa feel kare
+- Mez ki ilaaqaayi (territorial) taqseemi (division) se bachti hai
+
+**Yeh B ke liye sabse kamyaab strategic position hai** — agar A audience hai toh presentation deliver karne ke liye. Sirf kursi B1 position par kheench ke — tanaav bhari maahol aaram de sakta hai aur saakaratmak (positive) nateeje ki sambhaavna badh jaati hai.
+
+---
+
+## 2. The Cooperative Position — B2
+*(Sahaayata Wali Position)*
+
+Jab do log ek jaise sochte hain ya koi kaam saath karte hain — yeh position aksar khud-ba-khud ho jaati hai.
+
+Humne paaya ki **55%** logon ne yeh position sabse zyaada sahaayat (cooperative) chuni — ya intuitively (andar se) tab li jab kisi ke saath kaam karne ko kaha gaya.
+
+Yeh **apna case present karne aur ise qabool karaane** ke liye behtarin positions mein se hai — kyunki yeh achha eye contact aur mirroring ka mauka deta hai.
+
+**Trick yeh hai** ki B iss position mein itne tarike se aaye ki A ko na lage ki uska ilaaqaa (territory) darakhast (invaded) ho raha hai.
+
+---
+
+### Teen Logon Ki Situation Mein
+*(When a Third Person Joins)*
+
+Yeh position tab bhi kamyaab hai jab vaarta (negotiation) mein koi teesra insaan aaye. Misal ke taur par — agar ek salesperson doosri baar client se mile aur ek technical expert saath laaye:
+
+- **Technical expert** — Customer A ke saamne C position par baithe
+- **Salesperson** — B2 (Cooperative) ya B1 (Corner) par baithe
+
+Isse salesperson *"client ki taraf"* hota hai — aur client ki taraf se technical expert se sawaal poochh sakta hai. Yeh **"siding with the opposition (mukhalifon ke saath hona)"** kehlata hai.
+
+---
+
+## 3. The Competitive/Defensive Position — B3
+*(Muqaablabaaz/Bachaawe Wali Position)*
+
+Is arrangement mein competitors ek doosre ke saamne hote hain — bilkul Western gunfighters ki tarah.
+
+Table ke aar-paar baithna ek bachaawe (defensive), muqaablabaaz (competitive) maahol paida kar sakta hai — aur dono parties ko apne apne viewpoint par ada qadam (firm) bana sakta hai — kyunki mez dono ke beech ek mazboot hadd ban jaati hai.
+
+Business scenarios mein **56%** respondents ne ise competitive position dekha — lekin social situations jaise restaurant mein **35%** ne ise conversational (baat-cheet wali) dekha.
+
+Dating scene par restaurant mein yeh sabse aam baithne ki position hai — zyaadatar isliye ki waiters logon ko aisi tables par bithate hain. Couple ke liye yeh kaam karta hai — achha eye contact aur jins ke farq (gender differences) ko subtly highlight karta hai.
+
+Lekin kaam ke maahol mein — yeh position woh log lete hain jo ya toh compete kar rahe hain ya ek doosre ko daant raha hai.
+
+---
+
+### Kyun Kuch Bosses Naapasand Hote Hain
+*(Why Some Bosses Are Disliked)*
+
+Humne paaya ki business scenarios mein — **Competitive/Defensive Position** mein log:
+- Chhhote sentences mein bolte hain
+- Jo kaha gaya kam yaad rakhte hain
+- Zyaada bahas (argue) karne ki sambhaavna rakhte hain
+
+**A.G. White** ne doctors' offices mein ek prayog (experiment) kiya:
+- Sirf **10%** patients ease mein lagte the — jab doctor ki desk maujud thi aur doctor uske peeche baitha tha
+- Yeh figure **55%** tak badh gayi — jab desk gaayab thi
+
+**Humara prayog (Pease & Pease, 1990):**
+- 244 senior managers aur 127 lower/middle managers ko nayi building mein office furniture sketch karne ko kaha
+- **76% senior managers** ne desk ko khud aur subordinates ke beech rakha
+- Sirf **50% lower managers** ne aisa kiya
+- Mard managers **auraton se do guna zyaada** desk ko hadd (barrier) ki tarah rakhte the
+
+---
+
+**Sabse dilchasp nateeja:** Jo managers ne desk hadd ki tarah nahi rakhi — unhe unke staff ne describe kiya:
+- Zyaada fair-minded (insaaf-pasand)
+- Ideas bina elechi ke sunne ke liye zyaada taiyaar
+- Doosron ke saath tarafadaari (favoritism) karne ke kam zyaada imam
+
+> **Seedhe saamne baithna bura vibe paida karta hai.**
+
+Agar B, A ko pecharti (persuade) karna chahta ho — Competitive Position kamyaab vaarta (negotiation) ki sambhaavna kam karti hai — jab tak B jaankaar ek pre-planned strategy ke taur par seedha saamne na baithe.
+
+Kisi bhi business mein — agar woh logon se deal karna involve kare — tumhara maqsad hamesha doosre ka point of view samajhna, use ease mein laana, aur tumse deal karne mein sahi feel karaana hona chahiye. **Competitive Position yeh haasil nahi karne deti.**
+
+---
+
+## 4. The Independent Position — B4
+*(Aazaad/Diagonal Position)*
+
+Yeh position tab li jaati hai jab log ek doosre se interact nahi karna chahte. Yeh anjaan logon ke beech jagahon jaise library, park benches, ya restaurants mein hota hai.
+
+**42% respondents** ne iske message ko dilchaspi ki kami bataya — aur kuch ne ise beparwaayi (indifference) ya dushmani (hostility) ki tarah padha.
+
+> **Jahan khuli baat-cheet tumhara maqsad ho — yeh position avoid karo.**
+
+---
+
+## It's Not What You Say, It's Where You Sit
+*(Baat Yeh Nahi Ki Tum Kya Kaho — Baat Yeh Hai Ki Tum Kahan Baithte Ho)*
+
+**Aayataakaar (rectangular) tables:**
+- Muqaablabaaz (competitive) ya bachaawe (defensive) rishta paida karte hain
+- Har insaan ko barabar jagah, barabar frontage, aur alag edges milti hain
+- Seedha eye contact zyaada allow karta hai
+- Kisi bhi given subject par position lene deta hai
+
+**Chaukaat (square) tables:**
+- Chhoti, to-the-point baat-chheeton ke liye ideal
+- Superior ya subordinate rishte paida karne ke liye
+- Tumhare daayein taraf baitha insaan zyaada sahaayata (cooperative) hota hai baayen se
+
+---
+
+**Ek historically interesting baat:**
+
+Daayein taraf wala insaan tum par apne baayein haath se chhauri (stab) fail karne mein kam kaabil hai — isliye **"right-hand man"** zyaada pasandida hai — aur doosre anjaane mein daayein taraf ke insaan ko baayen se zyaada taqat dete hain.
+
+Seedhe saamne "gunslinger" position mein baitha insaan sabse zyaada virodh (resistance) karta hai — aur jab chaar log baithein — har ek ka koi na koi seedha saamne hota hai.
+
+---
+
+## King Arthur's Concept
+*(King Arthur Ka Tasawwur)*
+
+**King Arthur** ne Round Table is liye use kiya taaki apne har knight ko barabar authority aur status mile. Gol mez ek relaxed informality ka maahol paida karta hai aur barabar status waale logon ke beech discussion promote karne ke liye ideal hai — kyunki har insaan utna hi ilaaqaa (territory) claim kar sakta hai.
+
+> **Afsos — King Arthur nahi jaanta tha ki agar group mein kisi ek insaan ka status doosron se upar ho — toh group power ki dynamics bilkul badal jaati hai.**
+
+Kyunki **Raja sabse zyaada taqatwar tha** — uske dono taraf baithne waale knights ko zyaada taqat di gayi. Daayein wala baayen se zyaada powerful tha. Taqat phir kam hoti jaati thi jitna door baitha knight Raja se door tha.
+
+**Seedhe saamne King Arthur ke baithne wala knight** — asliyat mein Competitive/Defensive Position mein tha — aur yeh zyaada sambhaavna tha ki wahi sabse zyaada mushkil pesh karta.
+
+**68%** respondents ne seedha saamne baithne wale insaan ko sabse zyaada bahas (argumentative) ya muqaablabaaz (competitive) bataya.
+
+Aaj ke business executives rectangular, chaukaat (square), aur gol tables dono use karte hain:
+- **Rectangular desk** — kaam, brief conversations, daant-phatkaar (reprimands) ke liye
+- **Round table** — informal relaxed maahol ya pecharti (persuasion) ke liye
+- **Square tables** — canteen mein rakhi jaayein!
+
+---
+
+## Keeping Two People Involved
+*(Do Logon Ko Shamil Rakhna)*
+
+Maano tum, Person C, Person A aur B se baat kar rahe ho — gol mez par triangular position mein. A baat-cheet wala hai aur kaafi sawaal karta hai — B poore waqt khamosh rehta hai.
+
+**Jab A sawaal kare — tum B ko bhi shamil kaise rakho?**
+
+Yeh simple lekin effective **inclusion technique** use karo:
+
+- Jab A sawaal kare — A ki taraf dekh ke jawab shuru karo
+- Phir apna sar B ki taraf ghoomao
+- Phir A ki taraf vaapas aao
+- Phir B ki taraf
+- Apna final statement karte waqt A ki taraf dekho — jaisa tumne shuru kiya tha
+
+Yeh technique B ko conversation mein shamil feel karaati hai — aur khaaskar zaroori hai agar B ko tumhari taraf karna zaroori ho.
+
+---
+
+## Rectangular Board Tables
+*(Aayataakaar Board Tables)*
+
+Aayataakaar table par — ek cross-cultural norm lagta hai — ki **Position A** har waqt sabse zyaada influence rakhi hai — chahe table par sab barabar status waale hon.
+
+> **Agar A ki peeth darwaaze ki taraf ho — toh B position wala sabse zyaada influential hoga — aur A ke liye kadi (strong) competition hoga.**
+
+Strodtbeck aur Hook ne experimental jury deliberations kiye — jinhone zahir kiya ki **head position par baithne wala insaan** zyaada baar leader chuna jaata hai — khaaskar agar use high economic class ka samjha jaaye.
+
+Maano A sabse achhi power position mein ho:
+- **B** — doosri sabse zyaada authority
+- **D** — teesri
+- **C** — chaauthi
+
+A aur B task-oriented (kaam-kendra) positions hain — D position zyaadatar ek emotional leader le leta hai — aksar aurat — jo group relationships aur logon ki sehbhaagita (participation) ki parwah karti hai.
+
+> **Yeh jaankari tumhein meetings mein power plays influence karne deti hai — name badges kursiyon par rakh ke tay karo ki kaun kahan baithe — isse tumhe meeting ke nateeje par ek had tak kaaboo milta hai.**
+
+---
+
+## Why Teacher's Pet Sits on the Left
+*(Teacher Ka Chahita Baayen Kyun Baithta Hai)*
+
+**University of Oregon** ke researchers ne discover kiya ki log **apne right visual field** mein jo dekhte hain — uske baare mein left visual field se **teen guna zyaada** information retain (yaad) rakhte hain.
+
+Matlab — tumhara **baayaan chehra** tumhari **"better side"** hai — presentation dete waqt — kyunki woh doosre insaan ke right visual field mein hota hai.
+
+> **Studies dikhati hain ki tumhare chehere ki baayin taraf presentation ke liye behtarin taraf hai.**
+
+**Dr. John Kershner, Ontario Institute for Studies in Education** ne teachers ko study kiya — har 30 second mein record kiya ki woh kahan dekh rahe hain:
+- **Seedha aage:** 44% waqt
+- **Baayin taraf:** 39% waqt
+- **Daayein taraf:** Sirf 17% waqt
+
+Baayin taraf baithne waale students ne spelling tests mein behtar performance di — aur unhe kam select kiya gaya (pick on)!
+
+Humari research ne paaya ki zyaadatar business deals tab hoti hain jab salesperson customer ke **baayin taraf** baitha ho — daayein taraf ke muqaable.
+
+> **Bacchon ko school mein teacher ki baayin taraf ki competition karni sikhao — lekin bade hone par meetings mein — boss ke daayein taraf jaane ko kaho — extra perceived power ke liye.**
+
+---
+
+## Power Plays at Home
+*(Ghar Mein Taqat Ki Khehl)*
+
+Ghar ke dining room ke table ki shape — ghar mein taqat ki taqseemi (distribution) ka surag (clue) de sakti hai:
+
+- **"Open" families** — gol tables chunti hain
+- **"Closed" families** — chaukaat (square) tables chunti hain
+- **"Authoritative" families** — aayataakaar (rectangular) tables chunti hain
+
+**Ek experiment aazmaao:** Agale dinner party mein — sabse sharmeelay, introvert (khud mein rehne wale) guest ko table ke sar par bithao — darwaaze se sabse door — peeth diwar se lagi. Tum hairan reh jaoge — sirf ek powerful seating position mein baithne se — woh insaan zyaada baat karne aur zyaada authority ke saath bolne lagta hai — aur doosre bhi unpar zyaada dhyaan dete hain.
+
+---
+
+## How to Make an Audience Cry
+*(Audience Ko Rona Kaise Karayen)*
+
+**Books of Lists** dikhati hai ki:
+- **Public speaking** — insaan ka number one darr (fear)
+- **Maut ka darr** — average par number seven
+
+> Matlab agar tum kisi ke janaze mein ho — coffin mein hona behtar hai ya eulogy (farewell speech) padhna?
+
+---
+
+**Audience ko address karte waqt — kuch zaroori baatein:**
+
+1. **Kabhi mat batao ki tum nervous ho ya overwhelmed** — woh nervous body language dhundh ne lagenge — aur zaroor paayenge. Woh kabhii suspect nahi karenge ki tum nervous ho — jab tak tum khud na batao
+2. **Confidence gestures use karo** chahe andar se dare hue ho:
+   - Steeple gestures
+   - Khuli aur band palm positions
+   - Kabhi kabhi Protruding Thumbs
+   - Baazoo unfold rakho
+3. **Avoid karo:** Audience par ungli point karna, baazoo cross karna, chehra chhoona, podium ko mazbooti se pakadna
+
+**Audience mein kahan baithne waale zyaada seekhte hain:**
+
+- **Front row** — sabse zyaada seekhte aur yaad rakhte hain — kyunki woh seekhne ke liye zyaada utsaahit (eager) hain aur speaker ko zyaada dhyaan dete hain
+- **Middle sections** — doosre sabse zyaada saavdhan — aur sabse zyaada sawaal karte hain
+- **Sides aur back** — sabse kam responsive aur saavdhan
+
+---
+
+### Stage Par Kahan Khade Hono
+*(Where to Stand on Stage)*
+
+Jab tum **audience ke baayin taraf** khade ho — stage ka daayaan hissa — tumhari jaankari audience ke right brain hemisphere par zyaada asar daalti hai — jo zyaadatar logon mein emotional side hai.
+
+**Stage ke baayin taraf khade hone par** — audience ka left brain hemisphere impact hota hai.
+
+> **Comedians dashakon se yeh jaante hain:**
+> - **Stage ke baayen se hasaao**
+> - **Stage ke daayein se rulao**
+
+---
+
+## The Attention Zone
+*(Dhyaan Ka Ilaaqa)*
+
+Humne **Robert Sommer, Adams aur Biddle** ke researchers ke parameters use karke audiences ka adhyayan kiya — taaki andaaza lagayein ki delegates ne kitna participate kiya aur presenter ki baaton ko kitna yaad rakha — is par based ki woh seminar room mein kahan baithe.
+
+Nateeja hamne **"Funnel Effect (Kareej Asar)"** kaha:
+
+- Jab participants classroom style mein baithein — ek **"learning zone"** hoti hai jo funnel ki shakal mein hoti hai — seedha audience ke center mein extend karti hai aur front row par
+- Funnel mein baithne waalon ne sabse zyaada participate kiya — presenter se sabse zyaada interact kiya — aur jo discuss ho raha tha uske baare mein highest recall rakha
+- **Back ya sides** mein baithne waale — sabse kam participate kiye — zyaada negative ya confrontational (aamne saamne aane wale) the — aur sabse kam yaad rakha
+- Back positions ek delegate ko doodle karne, sone, ya nikalne ka zyaada mauka bhi deti hain
+
+---
+
+## An Experiment in Learning
+*(Seekhne Mein Ek Prayog)*
+
+Humne ek aur prayog (experiment) kiya — taaki pata chale ki **Funnel Effect** iss wajah se tha ki log apni dilchaspi ke aadhar par kahan baithna chunte hain — ya unki seat position hi unki sehbhaagita (participation) aur yaaddaasht (recall) ko affect karti hai.
+
+Humne delegates' kursiyon par **name cards** rakhe — taaki woh apni usual positions na le sakein:
+
+- Utsaahit (enthusiastic) logon ko sides aur back par bithaaya
+- Aam "back-row hermits (peechhe rehne waale)" ko front par bithaaya
+
+**Nateeja:**
+
+- Front par bithaye gaye normally negative delegates ki sehbhaagita aur recall **badh gayi**
+- Back par bithaye gaye normally positive delegates ki sehbhaagita aur recall **ghatt gayi**
+
+> **Agar tum chahte ho ki koi sach mein message paye — use front row mein bithao.**
+
+Kuch presenters aur trainers ne chhhote groups ke liye classroom style meeting concept ko **"horseshoe (ghoda-naal)" ya "open-square" arrangement** se replace kar diya — kyunki evidence dikhata hai ki yeh zyaada sehbhaagita aur behtar yaaddaasht paida karta hai — tamam attendees aur speaker ke beech badhe hue eye contact ki wajah se.
+
+---
+
+## Getting a Decision Over Dinner
+*(Khaane Par Faisla Kaise Lein)*
+
+Agar restaurant mein dinner par jaana ho — lekin maqsad ek favorable response haasil karna ho — kuch zaroori baatein yaad rakho:
+
+**Pehle — conversation:**
+
+> **Khaana aane se pehle zyaadatar conversation khatam karo.**
+
+Jaise hi sab khaana shuru karein — conversation ruk sakti hai aur alcohol dimaaag ko kund (dull) kar deta hai. Khaane ke baad — paet khoon ko brain se hazkam (digestion) mein le jaata hai — sochna mushkil ho jaata hai.
+
+> **Koi bhi bhara muh se faisla nahi karta.**
+
+---
+
+**Ek Lakh Saal Pehle Se Aaj Tak:**
+
+Ek lakh saal pehle — aadim (ancestral) mard apna shikar din ke aakhir mein lekar aata — aur woh sab milke ek shared cave mein khaate. Cave ke daakhale par aag jalaayi jaati — shikaariyon (predators) ko door rakhne aur garmaahit (warmth) ke liye. Har aadim mard cave ki diwar se peeth lagaake baithta — peeche se hamlaa (attacked from behind) hone ki sambhaavna se bachne ke liye.
+
+Yeh aadim khane ki rasm (food-sharing ritual) aag ke ird-gird shaam ko — aaj ke barbecues, cookouts, aur dinner parties mein dobara ho rahi hai. Aur modern mard inhi events mein waisa hi behave karta hai.
+
+---
+
+**Restaurant ya dinner party mein faisla lene ke liye — kuch simple rules:**
+
+**1. Doosre insaan ki peeth kisi mazboot diwar ya screen ki taraf ho:**
+
+Research dikhati hai ki jab koi khule space ki taraf peeth karke baitha ho — khaaskar jahan doosre ghoom raha hon — saans lena, dil ki dhadkan (heart rate), brainwave frequencies, aur blood pressure tezi se badh jaata hai.
+
+Tanaav aur badh jaata hai agar peeth khule darwaaze ya ground-level khhirkhi (window) ki taraf ho.
+
+> Yeh ek achhi position hai jab tum kisi ko unsettle (disturb) ya rattle karna chahte ho — warna doosre ke aaram ke liye peeth diwar ki taraf rakhho.
+
+**2. Lights dim karo — aur muffled background music chalao** — senses ko relax karne ke liye.
+
+**3. Gol mez use karo** — aur doosre ke doosre logon ka view ek screen ya bade paudhe se chhupao — agar captive audience chahiye.
+
+> **Top restaurants yeh relaxation techniques use karte hain apne customers ki wallets se bade amounts extract karne ke liye — aam khaane ke liye. Aur mard hazaron saalon se apni auraton ke liye romantic maahol banane ke liye yahi karte hain.**
+
+---
+
+## Summary
+*(Khulaasa)*
+
+Seating positions accidental nahi honi chahiye — khaas logon ko specific positions mein bithana meeting ka nateeja affect kar sakta hai.
+
+Agli baar jab kisi ke saath meeting mein jaao — apne aap se yeh sawaal poochho:
+
+- **Kaun hai woh insaan** jise tum sabse zyaada influence karna chahte ho — aur yeh haasil karne ke liye baithne ki best position kaunsi hai?
+- **Kaun bahas ya virodh karne wala hai?**
+- Agar koi appointed leader nahi — **kisne khud ko zyaada taqat dene ke liye seating position claim ki hai?**
+- **Agar tum kaaboo karna chahte ho** — kahan baithna chahiye?
+
+In sawaalon ke jawaabot na sirf tumhein ek taqatwar faaida denge — balki doosron ko meeting dominate ya kaaboo karne ki koshish se bhi rokenge.
+
+---
+
