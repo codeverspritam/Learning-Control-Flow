@@ -5339,3 +5339,503 @@ Yeh Body-Pointing skills thodi practice maangti hain — lekin jald hi yeh qudra
 Roz ki mulaqaaton mein — **Foot Pointing, Body Pointing**, aur saakaratmak gesture clusters — jaise khule baazoo, hatheli zahir, aage jhukna, sar jhukana, aur muskuurahat — doosron ke liye yeh aasaan bana sakte hain ki woh na sirf tumhaari company enjoy karein — balki tumhare nazar (point of view) se bhi mutaassir (influenced) hon.
 
 ---
+
+# Chapter 15 — Courtship Displays and Attraction Signals
+### *(Mohabbat Ke Zahiraaway Aur Khasiyaniyat)*
+
+---
+
+> *"Ek mard aur aurat beach par ek doosre ki taraf aa rahe hain... aur sab kuch badal jaata hai"*
+
+---
+
+Dr. **Albert Scheflen** ne paaya ki jab insaan opposite sex ki company mein aata hai — kuch jismaani badlaav (physiological changes) hone lagte hain:
+
+- Muscles ki tone badh jaati hai — jaise woh khud ko samaat rahe hon
+- Chehere aur aankhon ke ird-gird ki thhali (bagging) khatam ho jaati hai
+- Sharir mein jhuk (sagging) khatam ho jaata hai
+- Chhaati baahir nikal aati hai
+- Pet andar chali jaati hai
+- Potbelly ghair-muhim (disappears) ho jaati hai
+- Sharir seedha ho jaata hai
+- Insaan achanak zyaada naujawaan dikhne lagta hai
+
+Dono mard aur auraten zyaada josh-o-kharosh se chalte aur khade hote hain — sehat aur jazba (vitality) zahir karte hue.
+
+**Mard:**
+- Seedha khada hoga
+- Thodiyan (jaw) aage nikalega
+- Chhaati phulayega — dabbda (dominant) dikhne ke liye
+
+**Aurat** (agar interested ho) — jawab mein:
+- Chhaati emphasize karegi
+- Sar ek taraf jhukayegi
+- Baal chhuayegi
+- Kalaayi (wrist) zahir karegi
+- Daabi (submissive) dikhne ki koshish karegi
+
+Yeh badlaav beach par tab spaasht (obvious) hote hain jab ek mard aur aurat door se ek doosre ki taraf aate hain — nazar milte hi shuru hote hain aur door jaate hi khatam ho jaate hain.
+
+> **Body language mohabbat ki buniyaad hai — kyunki yeh zahir karta hai ki hum kitne available, attractive, taiyaar, aur dedicated hain.**
+
+---
+
+## The Emergence of the Colorful Male
+*(Rangeen Mard Ka Ubhaar)*
+
+Zyaadatar mammals mein — mard hi "sajta" hai mada (female) ko impress karne ke liye. Lekin insaanon mein ulta hota hai. Sadiyon se auraten jismaani advertising karti rahi hain — rang-birange kapde, zewar (jewelry), aur makeup se.
+
+16wi aur 17wi sadi ke Europe mein ek apvaad (exception) tha — jab mard khoobsurat wigs aur rang-birange kapde pehnte the aur auraton se zyaada sajate the.
+
+Aaj **"metrosexual"** mard ka ubhaar ho raha hai — ek heterosexual mard jo auraton ke behaviour patterns copy karta hai:
+- Manicures, pedicures
+- Baalon ka rang
+- Fancy kapde
+- Jacuzzi
+- Organic vegetarian khaana
+- Botox aur face-lift
+- Apni "feminine side" se connected
+
+> **Metrosexual mard teen categories mein aate hain: gay mard; naarinatma (effeminate) mard; aur woh mard jo jaante hain ki auraton ke behaviour copy karna bohot auraton se milne ka tarika hai.**
+
+---
+
+## Graham's Story
+*(Graham Ki Kahani)*
+
+Graham ek aisa mard tha jiske paas woh hushiyari (skill) thi jo zyaadatar mard kisi bhi qeemat par khareedna chahenge.
+
+Woh kisi social function mein jaata — available auraton ko jaldi dhundh leta — apni pasand chuntta — aur hairan karne wali raftaar se woh nikaas (exit) ki taraf badhte nazar aata. Woh vaapas aata aur yahi process kai baar dohraata — ek hi shaam mein.
+
+**Animal courtship behavior** ke parishkaaron (zoologists) aur researchers ki research dikhati hai ki naran aur mada janwar ek series of complicated (pecheeda) courtship gestures use karte hain — kuch spaasht (obvious), kuch baareek (subtle) — aur zyaadatar anjaane mein (unconsciously).
+
+Insaani flirtation (rizhaayi) bhi parindons ki mohabbat ki dances se mukhtalif nahi — dekhne mein aise lagta hai jaise wildlife program chal raha ho.
+
+**Asal baat:** Jab koi opposite sex ko attract karna chahta hai — woh jins ke farq (sexual differences) emphasize karta hai. Farq chhupane se woh doosre ko door kar deta hai.
+
+**Graham ki technique:**
+- Pehle woh woh auraten dhundhta jo body language se zahir karti hon ki woh available hain
+- Phir woh apne khud ke mardana courtship gestures ke saath respond karta
+- Jo interested hoti — woh female signals vaapas karti — usse aage badhne ki nonverbal hara batti deti
+
+> **Aurat ki mohabbat mein kamyaabi seedha judi hai — courtship signals bhejne aur doosron ke signals decode karne ki kabiliyat se.**
+
+Zyaadatar mard in signals ko padhne mein andhe hote hain — isliye unhe potential saathion ko dhundhne mein mushkil aati hai.
+
+Auraten ne Graham ko **"sexy, mardana, mazaahiya, aur mujhe naarinatma (feminine) feel karaane wala"** describe kiya.
+
+Mard, dusri taraf, use **"aggressive (jangju), beimaan (insincere), aur ghamandi (arrogant)"** kehte the — competition ka darr.
+
+---
+
+## Why Women Always Call the Shots
+*(Auraten Hamesha Kyun Kaaboo Mein Rehti Hain)*
+
+Kisi mard se poochho ki mohabbat mein pehla qadam kaun uthata hai — woh kahega mard. Lekin **tamam studies dikhati hain ki auraten 90% waqt pehla qadam uthati hain** — lekin itne baareek (subtle) tarike se ki mard sochta hai usne khud initiative liya.
+
+Aurat kuch baareek eye, body, aur facial signals targeted mard ki taraf bheejti hai — jo agar woh unhe pakad le — toh respond karta hai. Woh auraten jo bina signal ke directly approach karte mard ke liye khud aate hain — numbers game khel rahe hain — aur unki overall statistical kamyaabi (success rate) kam hoti hai.
+
+> **Mohabbat mein auraten woh dhunn bajati hain jis par mard nachte hain.**
+
+Jab mard sense kare ki uski approach naakaam hogi — woh unrelated baatein karne ka natak karta hai: *"Tum National Bank mein kaam karti ho na?"* ya *"Kya tum John Smith ki sister ho?"*
+
+---
+
+## Differences Between Men and Women
+*(Mard Aur Auraton Mein Farq)*
+
+Mard auraton ki baareek body-language cues interpret karne mein mushkil paate hain — aur research dikhati hai ki mard dosti aur muskuurahat ko aksar jismaani dilchaspi (sexual interest) samajh lete hain.
+
+Yeh isliye hai kyunki mard duniya ko auraton se zyaada jismaani nazariye se dekhte hain — mardoon mein auraton se **10 se 20 guna zyaada testosterone** hota hai.
+
+> **Kuch mardoon ke liye — jab aurat "naa" kahe matlab "shayad"; "shayad" matlab "haan"; lekin agar "haan" kahe — woh aurat nahi.**
+
+Auraten possible saathi se milne par pehle kuch minutes mein bahut saare courtship rituals use karti hain — jo mard galat tarah se samajh ke clumsy approach karta hai. Yeh mardoon mein confusion paida karta hai — aur woh approach hi nahi karte.
+
+---
+
+## The Attraction Process
+*(Khasiyaniyat Ka Silsila)*
+
+Kisi attractive insaan se milne par insaani mohabbat ek andaazepan (predictable) paanch-qadam ke silsile mein chalti hai:
+
+---
+
+### Stage 1 — Eye Contact (Nazar Milana)
+
+Woh kamre ke paar dekhti hai — us mard se nazar milati hai — **lagbhag paanch second** nazar thamti hai — phir door kar leti hai. Woh check karta hai ki woh dobara kare ya nahi. Ek average mard ko yeh samajhne ke liye ki kya ho raha hai — aurat ko **teen baar** yeh gaze deni padti hai.
+
+---
+
+### Stage 2 — Smiling (Muskuurahat)
+
+Woh ek ya zyaada ek pal ki muskuurahat deti hai — ek adhuri (half) muskuurahat jo mard ko aane ki hara batti deti hai. Durbhagya se — kaafi mard yeh signals nahi padte — aur aurat sochti hai ki woh interested nahi.
+
+---
+
+### Stage 3 — Preening (Sajaawat)
+
+Woh seedhi baith ke chhaati emphasize karti hai — pair cross karti hai — ya khadi ho toh hips tilt kar leti hai — sar jhukati hai — baal chhuati hai **6 second tak** — honth chaat ti hai — baal jhataakti hai — kapde aur zewar (jewelry) theek karti hai.
+
+Mard respond karta hai:
+- Seedha khada hota hai
+- Pet andar karta hai
+- Chhaati phulata hai
+- Kapde theek karta hai
+- Baal chhuata hai
+- Angoothe belt mein ghusaata hai
+- Dono apne pair aur poora sharir ek doosre ki taraf point karte hain
+
+---
+
+### Stage 4 — Talk (Baat-Cheet)
+
+Woh approach karta hai aur clichéd (ghisi-piti) lines se baat shuru karta hai — *"Kya main tumhe pehle kahi dekha hai?"* — sirf barf todne (ice-breaking) ke liye.
+
+---
+
+### Stage 5 — Touch (Chhoona)
+
+Woh mard ke baazoo ko halka sa chhoone ka mauka dhundhi hai — *"accidental"* ya khaas taur par.
+
+- **Haath ka chhoona** — baazoo se zyaada karibiyat (intimacy) signal karta hai
+- Har level of touch dobara kiya jaata hai — taaki confirm karo ki pehla touch accidental nahi tha
+- Mard ke kaandhe par chhoona — yeh impression dene ke liye ki aurat uski sehat aur appearance ki parwah karti hai
+
+> **Haath milaana ek tez tarika hai touch stage tak pahunchne ka.**
+
+---
+
+## The Thirteen Most Common Female Courtship Gestures
+*(Auraton Ke Terah Sabse Aam Courtship Gestures)*
+
+Auraten zyaadatar wahi buniyaadi preening (sajaawat) gestures use karti hain jo mard use karte hain — baal chhoona, kapde theek karna, hands-on-hips, paon aur sharir mard ki taraf point karna, extended nazar, aur zyaada eye contact.
+
+Kuch auraten **Thumbs-in-Belt** gesture bhi use karti hain — jo mardana assertion (azeema) gesture hai — lekin baareek tarike se: sirf ek angootha belt ya handbag ya pocket mein ghusa.
+
+---
+
+### 1. Head Toss aur Hair Flick (Sar Jhataakna aur Baal Hilana)
+
+Yeh aam tor par pehla display hai jo aurat kisi pasandida mard ke aas-paas karti hai. Sar peeche jhataak ke baalon ko kaandhon ya chehere se hat aaya karta hai — chahe aurat ke baal chhote hon.
+
+Yeh ek baareek tarika hai — aurat dikhati hai ki woh mard ke liye kaise dikhti hai is par dhyaan karti hai. Saath hi kalaayi (armpit) zahir hoti hai — jahan se **"sex perfume"** yaani **pheromones** target mard tak pahunchta hai.
+
+---
+
+### 2. Wet Lips aur Pouting (Geele Honth aur Munh Bahar)
+
+Puberty (buluughat) mein — mard ki chehere ki haddi ka structure dramatically badal jaata hai — testosterone se mazboot, aage nikla jaada (jaw), badi naak, aur zyaada spaasht (prominent) maathaa milta hai.
+
+Ladki ka structure zyaadatar waisa hi rehta hai — aur zyaada **subcutaneous fat** hone se adolescent (naabaligh) female chehra mota aur bhara lagta hai — khaaskar honth. Bade, mote honth naarinata (femaleness) ka signal bante hain.
+
+**Desmond Morris** ise **"self-mimicry (khud ki naql)"** kehta hai — kyunki honth symbolically female genital region represent karte hain.
+
+Lipstick ek Egyptian ijaad hai jo **4,000 saal purani** hai — aur jismaani arousal (jaaghat) ki halat mein red ho jaane wale female body parts ko mimic karne ke liye banayi gayi.
+
+> **Mard tasveerain mein consistently bright red lipstick ko sabse zyaada attractive aur hawasi (sensual) rate karte hain.**
+
+---
+
+### 3. Self-Touching (Khud Ko Chhoona)
+
+Auraton mein chhoone ke liye mardoon se dramatically zyaada nerve sensors hote hain — jo unhe chhoone ki sensations ke liye zyaada sensitive banate hain.
+
+Jab aurat dheere dheere aur hawasi tarike se apni thigh, gardan, ya gale ko sehlaati (strokes) hai — yeh imply karta hai ki agar mard sahi khelega — woh bhi inhi jagahon par chhu sakta hai.
+
+---
+
+### 4. The Limp Wrist (Dheela Kalaayi)
+
+Chalte ya baithte waqt **Limp Wrist (dheeli kalaayi)** pakdna ek samarpan (submission) signal hai — sirf auraten aur gay mard use karte hain.
+
+Mardoon ko yeh attractive lagta hai — kyunki yeh unhe dominant (haawee) feel karaata hai.
+
+> **Business situations mein Limp Wrist aurat ki vishvasniyata (credibility) se seriously detract karta hai — doosre use seriously nahi lenge — haalaanki kuch mard usse date pe jaane ko kahenge.**
+
+---
+
+### 5. Fondling a Cylindrical Object (Lambaayi Wali Cheez Sehlaana)
+
+Sigret, ungli, wine glass ka daanda, ya koi bhi phallic-shape wali cheez ko sehlaana — anjaane mein mann mein kya chal raha hai — yeh zahir karta hai.
+
+Ungli se ring utar ke lagaana bhi sex ki mental representation ho sakti hai.
+
+---
+
+### 6. Exposed Wrists (Kalaayi Zahir Karna)
+
+Interested aurat dheere dheere apni kalaayi ki smooth, naram andar wali chamdi potential mard partner ko zahir karti hai — aur jaise interest badhta hai — yeh wrist flashing ki frequency bhi badhti hai.
+
+Kalaayi area kaafi deshon mein female body ka hawasi (erotic) area maana jaata hai — kyunki yeh delicate (naazuk) chamdi ka area hai.
+
+> **Auraten kalaayi par itr (perfume) lagaane ko pulse se itr phaelne se jodhti hain — lekin asli maqsad kalaayi mard ki taraf thrust karna hai — itr sirf dhyaan kheenchne ka zariya hai.**
+
+---
+
+### 7. Sideways Glance Over Raised Shoulder (Uthay Kaandhe Se Tedhi Nazar)
+
+Raised Shoulder female chhaati ki rounded shape ki **self-mimicry (khud ki naql)** hai. Aadhi jhuki palkein (drooped eyelids) ke saath — aurat mard ki nazar just itni der ke liye thamti hai ki woh notice kare — phir tezi se door kar leti hai.
+
+---
+
+### 8. Rolling Hips (Hilte Hue Hips)
+
+Bacche janmane ki zaroorat ki wajah se — auraton ke hips mardoon se chaude hote hain aur pair ke beech zyaada faasla hota hai. Iska nateeja — chalte waqt hips ka ek accentuated (gahraaya gaya) roll hota hai — jo pelvic region highlight karta hai.
+
+Mard aisa nahi chal sakte — toh yeh ek taqatwar jins ke farq (sex difference) signal ban jaata hai.
+
+---
+
+### 9. The Pelvic Tilt (Pelvis Ko Jhukana)
+
+Medical evidence dikhata hai ki jo aurat behtarin sehat mein ho aur bacche paida karne ke sabse kaabil ho — uski **waist-to-hips ratio 70%** hoti hai — yaani kamar hips ka 70% hoti hai. Yeh **"hourglass figure"** kehlata hai.
+
+Poori recorded history mein yeh body ratio male attention grab karne mein sabse dramatic raha hai.
+
+**Professor Devendra Singh, University of Texas**, ke evolutionary psychologist (vikaasi manovaigyanik) ne Miss America aur Playboy centerfolds ka 50 saal ka adhyayan kiya aur paaya ki mardoon ko **67% se 80% hips-to-waist ratio** sabse zyaada appealing lagti hai.
+
+> **Hairan karne wali baat — mard ne 70% ratio ko sabse zyaada rate kiya chahe aurat ka weight kaafi zyaada bhi tha. Matlab aurat physically badi bhi ho sakti hai — lekin agar yeh ratio ho — mard phir bhi muddega!**
+
+Yeh ratio highlight karne ka aasan tarika — khadi hone par sirf apna pelvis tilt karo.
+
+---
+
+### 10. Handbag in Close Proximity (Handbag Karib Rakhna)
+
+Zyaadatar mard aurat ke handbag ki contents kabhi nahi dekhte — aur studies dikhati hain ki zyaadatar mard use chhoone se bhi darte hain.
+
+Aurat ka handbag uske liye uske sharir ka extension jaisa hai — toh jab woh ise kisi mard ke paas rakhti hai — yeh karibiyat (intimacy) ka signal ban jaata hai.
+
+Agar woh use particularly attractive paaye — woh dheere dheere apna handbag sehla bhi sakti hai.
+
+> **Handbag mard ke paas rakhna — strong signal hai ki woh interested hai. Door rakhna — emotional doori ka nishaan.**
+
+---
+
+### 11. The Knee Point (Ghutna Point Karna)
+
+Ek pair doosre ke neeche tuck hota hai aur us insaan ki taraf point karta hai jo sabse interesting lage. Yeh relaxed position baat-cheet se formal-pan nikalti hai aur thigh ki jhalkhi (fleeting exposure) ka mauka deti hai.
+
+---
+
+### 12. The Shoe Fondle (Joota Sehlaana)
+
+Joote ko paon ki nok par jhulana bhi relaxed rawaiya zahir karta hai — aur paon ko joote mein andar baahir karne ka ek phallic effect hota hai. Yeh kaafi mardoon ko pareshan karta hai bina woh jaane ki kyun.
+
+---
+
+### 13. The Leg Twine (Pair Lapetna)
+
+Zyaadatar mard ittifaq karte hain ki **Leg Twine aurat ki sabse appealing baithne ki sthiti** hai. Yeh gesture aurat jaankaar taur par apne pairon ki taraf dhyaan kheenchne ke liye use karti hai.
+
+Ek pair doosre ke khilaf mazbooti se dabta hai — zyaada muscle tone ka appearance dene ke liye — jo woh halat hai jo sharir sexual performance ke liye taiyaar hone par leta hai.
+
+---
+
+## What Men Look at in Women's Bodies
+*(Mard Auraton Ke Sharir Mein Kya Dekhte Hain)*
+
+Research saaf hai — mard ke brain wired hain ki woh un auraton ki taraf khichain jo sabse healthy reproductive (nasl-paida karne ki) kabiliyat aur jismaani uplabdhta (sexual availability) dikhayein.
+
+**Mard aur auraten dono** ek athletic body shape prefer karte hain.
+
+Mard un auraton ki taraf zyaada attracted hote hain jinke chehere **bachche jaisa (childlike)** lagein — badi aankhein, chhoti naak, mote honth aur gaale — kyunki yeh signals zyaadatar mardoon mein paternal, protective feelings jagaate hain.
+
+> **Auraten un mardoon ke chehre prefer karti hain jo defend karne ki kabiliyat dikhayein — mazboot jaws, badi bhaun, mazboot naak.**
+
+Achhi khabar — aurat ko naturally beautiful hone ki zaroorat nahi aadmi ko attract karne ke liye. Beauty zaroor ek initial faaida (advantage) deti hai — lekin main cheez availability ke signals zahir karna hai.
+
+> **Mard ek aurat ki physical attractiveness se zyaada uski availability ke signs dekh ke attract hote hain — aur yeh availability signals seekhe ja sakte hain.**
+
+---
+
+## How Beautiful People Miss Out
+*(Khoobsurat Log Kaise Mauka Khote Hain)*
+
+Physical appearance ko potential saathi attract karne ki key maanna ek misconception (galat-fahmi) hai — jo TV, films, aur media promote karta hai.
+
+Studies dikhati hain ki log aise saathiyon ko prefer karte hain jo unse roughly utne hi attractive hon — kyunki yeh zyaada sambhaavna hai ki woh rahenge aur koi better option nahi dhundhenge.
+
+Yeh preference janmjaat (inborn) lagti hai — kyunki babies average cheherons ko dekhna prefer karti hain — khoobsurat cheherons se zyaada.
+
+---
+
+## Is He a Butt, Boobs, or Leg Man?
+*(Woh Peeth, Chhaati, Ya Pair Wala Hai?)*
+
+Mard universally teen fairly even groups mein bante hain — chhaati, peeth, aur pair.
+
+---
+
+### 1. Butts (Peeth)
+
+Mard rounded, peach-shape wali peeth sabse attractive paate hain.
+
+Female human peeth doosre primates se alag hai — doosre primates ki madayen sirf mating ke taiyaar hone par enlarged, baahar nikli peeth dikhati hain. Human females enlarged peeth hamesha dikhati hain — aur lagbhag hamesha sexually available hoti hain.
+
+Yeh isliye hai kyunki human sexual activity ka main maqsad long-term pair-bonding encourage karna hai — bacchon ki successful parvarish ke liye.
+
+Insaan akele primates hain jo face-to-face mate karte hain — doosre primate species mein naran peeche se aata hai aur swollen red peeth use karta hai signal ki tarah.
+
+> **High heels kamar ko arch karaate hain, peeth ko baahar dhakelte hain, aur chalte waqt sway paida karte hain — isliye mard ka dhyaan hamesha kheenchta hai. Marilyn Monroe ne apni left heel mein ek chaudhaayi inch kaatwa liya thi apna sway emphasize karne ke liye!**
+
+---
+
+### 2. The Breasts (Chhaati)
+
+Zyaadatar duniya ne haaal ke saalon mein chhaati ka obsession (junoon) develop kiya hai aur cosmetic breast enhancement ek multibillion-dollar business ban gayi hai.
+
+Yeh hairan karne wala hai kyunki human chhaatiyaan sirf badi sweat glands se zyaada kuch nahi hain.
+
+**Overall, chhaatiyaan ek saaf maqsad serve karti hain — jismaani signaling.**
+
+Chhaatiyaan aurat ki peeth view ki naql (mimic) hain — un dino ki yaadgaar jab insaan chaar paon par chalta tha. Low-cut dresses aur push-up bras is signal ko emphasize karti hain.
+
+Khoosh-qismati se — sex research surveys dikhate hain ki mard chhaatiyaan lagbhag tamam shapes aur sizes mein pasand karte hain — cleavage hi mardoon ko sabse zyaada stimulate karta hai.
+
+> **Purdue University, America mein researchers ne paaya ki ek aurat jo hitchhike kare — do inch padding add karke apni bust badhaa le toh — milne wale lifts double ho jaate hain.**
+
+---
+
+### 3. The Lure of Long Legs (Lambe Pairon Ki Khasiyaniyat)
+
+Jab ladki puberty tak pahunchti hai — uske pair tezi se lambe hote hain — hormones uske body mein bhadh jaate hain. Extra lambe pair ek powerful nonverbal signal ban jaate hain — jo batata hai ki woh jismaani taur par pakk rahi hai.
+
+**High heels mard ko pasand kyon hain:**
+- Pair lambe lagte hain
+- Kamar arch hoti hai
+- Peeth baahar nikalti hai
+- Pair chhote lagte hain
+- Pelvis aage aata hai
+
+> **Sabse unchchi heel wala joota — stiletto — apne bondage straps ke saath — market mein by far sabse zyaada effective jismaani aid hai.**
+
+---
+
+## Male Courtship Signals and Gestures
+*(Mardana Courtship Signals Aur Gestures)*
+
+Mard ke displays mein taqat, daulat, aur status ka zahiraawa hota hai. Auraton ke courtship signals ke muqaable — mardoon ke paas bahut kam hain.
+
+Jabki aurat hawasi (sensually) dress karti hai, makeup lagaati hai, aur kai courtship gestures use karti hai — mard apni gaadi ka engine rev karte hain, kamaai ki baraakhori (boasting) karte hain, aur doosre mardoon ko challenge karte hain.
+
+> **Mohabbat ke khel mein zyaadatar mard waison ki tarah hain jo nadi mein khade hain aur machhliyon ko sar par bade daande se maar ke pakadne ki koshish karte hain.**
+
+---
+
+### Mard Ki Tie Preening
+
+Potential partner ke scene par aate hi — mard apni tie seedhi karta hai, collar smooth karta hai, kaandhon se khayal ki dhuul hatata hai, cufflinks ya watch chhuata hai, aur shirt aur coat theek karta hai.
+
+---
+
+### Why Men Talk at the Beginning of a Relationship
+*(Mard Rishte Ki Shuruaat Mein Kyun Bolte Hain)*
+
+Kaafi mard jaante hain ki aurat ki personal life ke intimate (karib) details ke baare mein lambay samay baat karna points kamata hai aur uske mann — aur aur kuch — ko khol sakta hai.
+
+Naye rishte ki shuruaat mein mard aksar talking strategy use karta hai — lekin honeymoon period ke baad woh apne typical behaviour par vaapas chala jaata hai — sirf facts, information, aur solutions jab baat kare.
+
+---
+
+### The Male Crotch Obsession
+*(Mard Ka Crotch Junoon)*
+
+Sabse seedha jismaani display jo mard aurat ki taraf kar sakta hai — **aggressive Thumbs-in-Belt gesture** hai jo uski sharmgaah (crotch) highlight karta hai. Woh apna sharir uski taraf ghoomaa sakta hai, paon point kar sakta hai, intimate gaze use kar sakta hai, aur lamba eye contact rakh sakta hai.
+
+Baboons aur doosre primates mein — mard penis display use karke dabbda (dominance) assert karte hain.
+
+15wi sadi mein — **codpiece** ka introduction hua — jo mard ki mardangi (masculinity) ka zahiraawa tha.
+
+Aaj ke zamaane mein — tight-fitting pants, chhote Speedo trunks, ya bade bunch of keys ya belt ki lambi strip sharmgaah ke saamne latkaana wahi kaam karte hain.
+
+---
+
+### The Crotch Adjust
+*(Sharmgaah Ka Adjustment)*
+
+Sabse aam public mardana jismaani display hai **Crotch Adjust**.
+
+Auraten har jagah shikayat karti hain ki woh ek mard se baat kar rahi hoti hain — aur achanak, bina kisi wajah ke — woh apni sharmgaah adjust ya pakad ne laagta hai.
+
+> **Mard hone ka ek faida: tumhe apne aap ko adjust karne ke liye kamra nahi chhodna padta.**
+
+Naujawaan mardoon ke groups mein — khaaskar jahan macho rawaiye encourage kiye jaate hain jaise sports teams — continual crotch adjustments hote hain — har mard anjaane mein apni mardangi doosron ke saamne assert karne ki koshish karta hai.
+
+---
+
+### Wearing a Tie to One Side
+*(Tie Ek Taraf Pehanna)*
+
+Agar tum mard ho aur jaanna chahte ho ki kaun aurat tumhe pasand karti hai — ek acha ironed suit aur tie pehno — lekin tie thodi ek taraf karo aur ek kaandhe par thodi dhuul rakh do.
+
+Jo aurat tumhe attractive paayegi — woh dhuul hataakar aur tie seedhi karke nahi reh sakti.
+
+---
+
+## Men's Bodies — What Turns Women On the Most
+*(Mard Ka Sharir — Auraton Ko Kya Attract Karta Hai)*
+
+Surveys dikhate hain ki auraten consistently zyaada gehra (deeper), naram awaaz wale mardoon ko prefer karti hain — kyunki deep tones directly testosterone levels se jude hain.
+
+Puberty mein jab mard ke body mein male hormones bhad jaate hain — awaaz "crack" ho jaati hai. Aur aaj ke zamaane mein — jo deshon mein feminism zyaada influential rahi — wahan auraton ki awaazein bhi gehra hoti ja rahi hain — kyunki auraten zyaada assertive aur authoritative ho gayi hain.
+
+---
+
+## Is She a Chest, Legs, or Butt Gal?
+*(Woh Chhaati, Pair, Ya Peeth Wali Hai?)*
+
+Auraton ke jismaani responses mard ke khaas body parts se trigger hote hain:
+- **Peeth (Butt)** — 40% votes
+- **Chhaati/Baazoo** — doosre number par
+- **Pair** — teesre number par
+
+Overall — auraten athletic body shape, chaude kaandhe, muscular chhaati aur baazoo, aur tight peeth prefer karti hain.
+
+> **Male body jaanwar pakadne, bhari cheezein uthane, aur makdiyaan marne ke liye purpose-built hai.**
+
+---
+
+### 1. Broad Shoulders, Chest, and Muscular Arms
+*(Chaude Kaandhe, Chhaati, Aur Muscular Baazoo)*
+
+Mard ka upper torso wide hai aur narrow hips tak taper karta hai — jabki aurat ka narrower kaandhon se chaudey hips tak hota hai.
+
+Mard ki chhaati badi lungs house karne ke liye develop hui — tez breathing ke liye — jab chase aur run karte waqt.
+
+> **Auraten well-defined male upper body ko attractive paati hain — lekin zyaadatar "muscle man" bodybuilder look ko nahi — unhe lagta hai woh apni beauty mein zyaada interested hain unki apni beauty mein nahi.**
+
+---
+
+### 2. The Small, Tight Butt
+*(Chhoti, Tight Peeth)*
+
+Chhoti, compact peeth har jagah auraton ki pasandida hai — lekin kam log samajhte hain iska magnetic attraction kyun hai.
+
+Raaz yeh hai ki tight, muscular peeth sex ke dauran successful sperm transfer ke liye zaroori strong forward thrusting motion ke liye zaroori hai. Fat ya flabby peeth wala mard is movement mein mushkil paata hai.
+
+---
+
+### 3. Narrow Hips and Muscular Legs
+*(Narrow Hips Aur Muscular Pair)*
+
+Mard ke pair auraton ko sirf is had tak attractive lagte hain — jitne woh mardana taqat aur takaat (endurance) ke symbols hain.
+
+Dr. Devendra Singh ne discover kiya ki auraten male hips mein **90% waist-to-hips ratio** sabse appealing paati hain.
+
+---
+
+## Summary
+*(Khulaasa)*
+
+Duniya ek singles epidemic ki ghadaab (grip) mein hai. Tamam Western deshon mein shaadi ki darein (marriage rates) 100 saalon mein sabse kam hain.
+
+Yeh sach hai ki mard aur auraten initially body features se motivated hote hain — lekin achhi baat yeh hai ki har ek apni appearance behtar kar sakta hai aur opposite sex ke liye attractiveness mein conscious decision le sakta hai.
+
+Jo log jaisi hain waise rehna choose karein — unke liye online dating, IT matchmaking, flirt-a-thons, aur speed-dating events har jagah boom kar rahe hain — aur New York Times ne 2003 mein estimate kiya ki iska annual turnover worldwide **$3 billion** tha.
+
+Aur kyunki mard auraton se milne mein zyaada mushkil paate hain — worldwide zyaadatar flirting classes mein female attendees se zyaada male attendees hote hain.
+
+---
+
