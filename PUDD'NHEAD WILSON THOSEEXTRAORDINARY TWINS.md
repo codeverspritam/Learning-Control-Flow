@@ -1151,3 +1151,109 @@ Fire-boys pehle kabhi itni sudden taiyar (on hand) nahi the; kyunki is baar jaan
 
 ---
 
+# Chapter XII — The Shame of Judge Driscoll
+
+### _(Judge Driscoll Ki Sharm)_
+
+---
+
+> _Courage is resistance to fear, mastery of fear—not absence of fear. Except a creature be part coward it is not a compliment to say it is brave; it is merely a loose misapplication of the word. Consider the flea!—incomparably the bravest of all the creatures of God, if ignorance of fear were courage. Whether you are asleep or awake he will attack you, caring nothing for the fact that in bulk and strength you are to him as are the massed armies of the earth to a sucking child; he lives both day and night and all days and nights in the very lap of peril and the immediate presence of death, and yet is no more afraid than is the man who walks the streets of a city that was threatened by an earthquake ten centuries before. When we speak of Clive, Nelson, and Putnam as men who “didn’t know what fear was,” we ought always to add the flea—and put him at the head of the procession.—Pudd’nhead Wilson’s Calendar._
+> _(Sahas [Courage] darr ka virodh hai, darr par maharat hai—darr ki gair-maujoodgi nahi. Jab tak koi prani thoda darpok na ho, use brave kehna koi tareef nahi hai; yeh mukhya roop se sabd ka ek galat istemaal [misapplication] hai. Pissu [flea] par vichar karein!—God ke saare praniyon mein tula-heen roop se sabse zyaada brave, agar darr se anjaan hona hi sahas hota. Chahe aap so rahe hon ya jaag rahe hon woh aap par hamla karega, is fact ki parwah kiye bina ki aakar aur takat mein aap uske samne aise hain jaise dharti ki ikhatha faujein kisi doodh-peete bache [sucking child] ke samne hon; woh din aur raat aur saare dino aur raaton ko khatre ki god mein aur maut ki turant maujoodgi mein jeeta hai, aur phir bhi usse zyaada nahi darta jitna woh mard jo kisi aise shehar ki sarkon par chalta hai jise ten centuries pehle earthquake ki dhamki mili thi. Jab hum Clive, Nelson, aur Putnam ke baare mein aise logon ke roop mein baat karte hain jo “nahi jaante the darr kya tha,” toh hamein hamesha pissu ko add karna chahiye—aur use procession ke head par rakhna chahiye.)_
+
+---
+
+Judge Driscoll Friday ki raat das baje tak bed par the aur so gaye the, aur subah bhor hone se pehle apne dost Pembroke Howard ke sath machhli pakadne (a-fishing) chale gaye the. Yeh dono Virginia mein ek sath ladke (boys) the jab us State ki rank Union ke sabse mukhya aur prabhavshali member ke roop mein thi, aur woh abhi bhi uske naam ke sath garv-bhara aur sneh-purna vishesan (proud and affectionate adjective) “old” jodte the jab woh uske baare mein baat karte the. Missouri mein ek recognized superiority (manzoor-shuda shreshthata) har us insaan ke sath judi thi jo Old Virginia se aata (hailed) tha; aur yeh shreshthata tab supremacy (sarvochha-satta) mein badh jaanti thi jab us nativity (janm-sthan) ka koi insaan us vishal commonwealth ke First Families se apna vansh (descent) bhi prove kar sakta tha.
+
+Howards aur Driscolls is kulinata (aristocracy) se the. Unqi aankhon mein yeh ek nobility (shreshthata) thi. Iske apne unwritten laws (gair-likhit kanoon) the, aur woh utne hi saaf roop se nirdharit (clearly defined) aur strict the jitne jameen ke printed kanoonon ke beech dhoondhe ja sakte the. F. F. V. (First Families of Virginia) ek gentleman paada hota tha; life mein uska sabse ooncha duty us vishal virasat (inheritance) ki dekh-bhaal karna aur ise bina-daag (unsmirched) rakhna tha. Use apna samman spotless (bina-daag) rakhna hota tha. Yeh kanoon uske chart the; uska rasta ispar marked out tha; agar woh compass ke aadhe point jitna bhi isse bhatakta (swerved), toh iska matlab uske samman ka shipwreck (doobna) hota; yaani kehna ka matlab hai, gentleman ke roop mein uski rank se patan (degradation). In kanoonon ko usse aishi cheezon ki zarurat hoti thi jise uska religion shayad mana kare: tab uske religion ko jhukna (yield) padta tha—religions ya kisi bhi doosri cheez ko jagah dene ke liye kanoonon ko lachila (relaxed) nahi kiya ja sakta tha. Samman pehle sthan par khada tha; aur kanoon nirdharit karte the ki yeh kya tha aur yeh un khhas details mein church ke creeds (panthon) aur dharti ke un chote hisson ke samajik kanoonon aur customs dwara defined samman se kaise different tha jinhein tab baahar dba diya gya tha jab Virginia ki pavitra boundaries ko nirdharit (staked out) kiya gya tha.
+
+Agar Judge Driscoll Dawson’s Landing ke recognized first citizen the, toh Pembroke Howard aasaani se iske recognized second citizen the. Unhein “the great lawyer” kaha jata tha—ek kamayi hui upadhi (earned title). He aur Driscoll same age ke the—sixty se ek ya do saal upar.
+
+Bhale hi Driscoll ek free-thinker the aur Howard ek strong aur draddh Presbyterian the, unqi garm-joshi bhari intimacy (ghanishthata) ne nateejatan koi kami (impairment) nahi jheli. Woh aise mard the jinke opinions unqi apni property the aur kisi ke bhi dwara revision, badlav, suggestion ya criticism ke patra nahi the, yahan tak ki unke doston dwara bhi nahi.
+
+Din ki fishing khatam karke, woh apni skiff (choti naav) mein ddaud ke sath tairte hue neeche aaye, national politics aur doosre oonche mamlon par baat karte hue, aur jaldi hi town se upar aane wali ek skiff se mile, jisme ek mard tha jisne kaha:
+
+“Main reckon karta hoon aap jaante hain ki naye twins mein se ek ne kal raat aapke nephew ko laath maari (kicking), Judge?”
+
+“Kya kiya?”
+
+“Use laath maari.”
+
+Purane Judge ke hont pale (safed) pad gaye, aur unqi aankhein bhadakne (flame) lagin. Woh ek moment ke liye gusse se choke (gala ruddh) ho gaye, phir unhone nikaala jo woh kehne ki koshish kar rahe the—
+
+“Well—well—jaatri rakkho! Mujhe details do!”
+
+Mard ne aisa kiya. Ant mein Judge ek minute ke liye silent the, Tom ki footlights ke upar se us sharm-bhari picture (shameful picture) ko apne mind mein ghumate hue; phir unhone kaha, jaise zor se soch rahe hon—“H’m—main ise nahi samajhta. Main ghar par so raha tha. Usne mujhe nahi jagaya. Socha woh mere help ke bina apne affair ko manage karne kabil hai, I reckon.” Us vichaar par unka face pride aur pleasure se lit up (chamak) utha, aur unhone ek cheerful santoosh (cheery complacency) ke sath kaha, “Main ise pasand karta hoon—yeh asli purana blood hai—hey, Pembroke?”
+
+Howard ne ek iron smile (lohe jishi nishthur muskaan) hansin, aur sweekar karte hue apna head hilaaya. Phir news-bringer (khabar lane wala) dobara bola—
+
+“Lekin Tom ne trial (mukadme) par twin ko beat kar diya.”
+
+Judge ne hairani se us mard ki taraf dekha, aur kaha—
+
+“Trial? Kaun sa trial?”
+
+“Why, Tom ne assault aur battery (maar-peet) ke liye use Judge Robinson ke samne khada kiya tha.”
+
+Purane mard sudden ek sath aise sikurd (shrank) gaye jaise kisi ne maut ka jhatka (death-stroke) diya ho. Howard unqi taraf jhapte jaise hi woh ek moorchha (swoon) mein aige doobe, aur unhein apni arms mein liya, aur naav mein unqi peeth ke bal unhein lita diya (bedded him). Unhone unke face par paani ke chhete maare, aur hairan visitor se kaha—
+
+“Ab jao—unhein hosh aane aur tumhein yahan dekhne mat dena. Aap dekhte hain aapqi is bina-soche boli bhasha (heedless speech) ka kya asar hua hai; aapko itna mazeed considerate hona chahiye tha bajaye iske ki aap aishi krrwi apvaad (cruel piece of slander) ko baahar nikaalte.”
+
+“Main ab sach mein sorry hoon maine aisa kiya, Mr. Howard, aur agar maine socha hota toh main aisa nahi karta: lekin yeh apvaad nahi hai; yeh perfectly true hai, exactly jaisa maine unhein bataya.”
+
+Woh tair kar door chala gya. Jaldi hi purane Judge apni faint (behoshi) se baahar aaye aur unhone us sympathetic face ki taraf taras-purna (piteously) dekha jo unke upar jhuka tha.
+
+“Kaho ki yeh true nahi hai, Pembroke; mujhe batao ki yeh true nahi hai!” unhone ek weak awaaz mein kaha.
+
+Gehre organ-tones (bhaari awaaz) mein kuch bhi weak nahi tha jinhone javab diya—
+
+“Aap jaante hain yeh ek jhooth hai theek utna hi jitna main jaanta hoon, purane dost. Woh Old Dominion (Virginia) ke sabse behtar blood se hai.”
+
+“God aapko aisa kehne ke liye bless karein!” purane gentleman ne bhavukta (fervently) se kaha. “Ah, Pembroke, yeh ek aisa blow (jhatka) tha!”
+
+Howard apne dost ke paas rahe, aur unhein ghar tak dekha, aur unke sath ghar mein enter hue. Andhera tha, aur supper-time (khaane ka samay) guzar chuka tha, lekin Judge supper ke baare mein nahi soch rahe the; woh headquarters (mukhya srot) se us apvaad ko kharij (refuted) hote hue sunne ke liye utsaahit the, aur utne hi utsaahit the ki Howard bhi ise sune. Tom ko bulaya gya, aur woh instantly aaya. Woh bruised (chotil) aur apang (lame) tha, aur ek happy dikhne wala object nahi tha. Unke uncle ne unhein baithne ke liye kaha, aur kaha—
+
+“Hum aapke carname (adventure) ke baare mein sun rahe hain, Tom, jisme sringaar ke liye ek handsome jhooth add kiya gya hai. Ab us jhooth ko peet kar raakh kar do (pulverize that lie to dust)! Aapne kya kadam uthaye hain? Cheez kahan khadi hai?”
+
+Tom ne guilelessly (bina-chal ke) javab kiya: “Yeh bilkul kahin nahi khadi hai; yeh sab khatam ho gya hai. Maine use court mein khada kiya aur use beat kar diya. Pudd’nhead Wilson ne uska defense kiya tha—pehla case jo unke paas kabhi tha, aur ise haar gaye. Judge ne us badkismat kutte (miserable hound) par assault ke liye five dollars ka fine lagaya.”
+
+Howard aur Judge shuruati sentence ke sath hi apne pairon par jump kar gaye—kyun, dono mein se koi nahi jaanta tha; phir woh ek doosre ki taraf khaali roop se ghoorte hue khade rahe. Howard ek moment ke liye khada raha, phir bina kuch kahe udaasi se baith gya. Judge ka krodh (wrath) bhadakne laga, aur woh phat pade—
+
+“Tum kutte (cur)! Tum gande (scum)! Tum keede (vermin)! Kya tumhara matlab mujhe yeh batana hai ki meri race ke blood ne ek blow jhela hai aur is baare mein kanoon ki court (court of law) ki taraf rengte hue (crawled) gaya hai? Mujhe javab do!”
+
+Tom ka head droop (jhuk) gya, aur unhone ek kushal khamoshi (eloquent silence) ke sath javab diya. Unke uncle ne hairani, sharm aur avishwas (amazement, shame and incredulity) ke ek mixed expression ke sath unqi taraf ghoora jise dekhna dukh-dayak (sorrowful) tha. Aakhirkar unhone kaha—
+
+“Twins mein se kaun sa tha?”
+
+“Count Luigi.”
+
+“Aapne use challenge kiya hai?”
+
+“N—nahi,” Tom hichkichaya, pale (peela) padte hue.
+
+“Aap use aaj raat challenge karenge. Howard ise carry karega.”
+
+Tom bimar turned out (turn sick) hone laga, aur ise dikhane laga. Woh apne haath mein apne hat ko chaaron taraf ghumata raha, unke uncle uspar mazeed blacker aur blacker ghoorte gaye jaise-jaise bhaari seconds drift hote gaye; phir aakhirkar woh hakbakane (stammer) laga, aur taras-purna dhang se kaha—
+
+“Oh, please mujhe aisa karne ke liye mat kahiye, uncle! Woh ek khuni shaitan (murderous devil) hai—main kabhi nahi kar sakta—main—main usse darta hoon!”
+
+Old Driscoll ka mouth teen baar khula aur close hua isse pehle ki woh apna kaam perform kar sake; phir woh toofaan ki tarah phat pade (stormed out)—
+
+“Meri family mein ek darpok (coward)! Ek Driscoll darpok! Oh, maine is apmaan (infamy) ke layak hone ke liye kya kiya hai!” Woh kone mein apne secretary (desk) ki taraf ladkhadate hue gaye, us vilap (lament) ko baar-baar dil-todne wale tones mein dohrate hue, aur ek drawer se ek paper baahar nikaala, jise unhone slowly tukde-tukde kar diya (tore to bits) aur un bits ko anjaane mein apne raaste par bikhairte gaye jaise woh room mein aige-piche chal rahe the, abhi bhi dukh aur vilap karte hue. Aakhirkar unhone kaha—
+
+“Yeh raha, ek baar phir chithde aur fragments—meri vasiyat (my will). Ek baar phir tumne mujhe tumhein be-dakhal (disinherit) karne par majboor kiya hai, tum ek sabse umda father ke ghatiya bete (base son)! Meri nazar se door ho jao! Jao—isse pehle ki main tumpar thookoon (spit on you)!”
+
+Young man ne tarry (der) nahi ki. Phir Judge Howard ki taraf mude:
+
+“Aap mere second (gawah/sahayaki) honge, purane dost?”
+
+“Nishchhit roop se.”
+
+“Yahan pen aur paper hai. Cartel (challenge-patra) draft kijiye, aur samay barbaad mat kijiye.”
+
+“Count ke haathon mein yeh fifteen minutes mein hoga,” Howard ne kaha.
+
+Tom bahut heavy-hearted (bhaari dil ke) the. Unka appetite (bhook) unqi property aur unke self-respect ke sath chala gya tha. Piche ke raaste se baahar nikle aur gupt gali (obscure lane) mein neeche bhatakte rahe, dukh karte hue, aur hairan hote hue ki kya future ke vyavahar ka koi bhi raasta, chahe kitna bhi samajhdaari-bhara (discreet) aur saavdhani se perfect aur watched over kiya gya ho, unke uncle ke favor ko wapas jeet sakta hai aur unhein ek baar phir us udaar vasiyat (generous will) ko reconstruct karne ke liye samjha sakta hai jo abhi unqi aankhon ke samne barbaadi mein gayi thi. Unhone finally nateejah nikaala ki aisa ho sakta hai. Unhone apne aap se kaha ki unhone is tarah ki jeet (triumph) pehle bhi ek baar accomplish ki thi, aur jo kaam ek baar kiya gya tha use dobara kiya ja sakta tha. Woh ispar lag jayenge. Woh task par apni har ek energy ko bend karenge, aur woh us jeet ko ek baar phir score karenge, chahe iski keemat unqi suvidha ko kuch bhi chukani pade, chahe yeh unqi is halke-phulke aur aazaadi-purna life (frivolous and liberty-loving life) ko kitna bhi limit kyun na kare.
+
+“Shuru karne ke liye,” unhone apne aap se kaha, “main apni raid ke parinaam (proceeds) ke sath hisab barabar karunga, aur phir gambling ko rokna hi hoga—aur turant rokna hoga. Yeh mere paas sabse badtar burai (worst vice) hai—kam se kam mere standpoint se, kyunki yeh wahi hai jise woh mere creditors (karz-daataon) ke impatience ke zariye sabse aasaani se dhoondh sakte hain. Unhone mere liye unhein ek baar do sau dollars pay karne ko expensive socha tha. Expensive—woh! Why, isne mujhe unqi poori fortune ki keemat lagai—lekin o' course unhone is baare mein kabhi nahi socha; kuch log kisi mamle ke apne side ke alava kisi aur side ke baare mein nahi soch sakte. Agar unhein pata hota ki main abhi kitna gehra andar hoon, toh vasiyat bina kisi duel ke madad ke wait kiye bhaand mein chali gayi (gone to pot) hoti. Teen sau dollars! Yeh ek dher (pile) hai! Lekin woh is baare mein kabhi nahi sunenge, main kehne ke liye thankful hoon. Jis minute maine ise clear off kar diya, main safe hoon; aur main dobara kabhi kisi card ko touch nahi karunga. Anyway, main tab tak nahi karunga jab ki woh zinda hain, main ispar kasam (oath) khata hoon. Main apne is aakhiri sudhaar (last reform) mein enter kar raha hoon—main ise jaanta hoon—haan, aur main jeetunga; lekin uske baad, agar main dobara kabhi slip hua toh main chala gya.”
+
+---
