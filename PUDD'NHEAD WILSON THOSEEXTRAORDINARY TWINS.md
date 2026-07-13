@@ -1769,3 +1769,604 @@ Unqi mother bhi unse satisfied thin. Personally, unka vishwas tha ki woh unse py
 
 Tom us raat ek badi transient boat par enter hue loot ke saaman ke apne bhaari satchel (bag) ke sath, aur us gair-nyay-purna insaan ki neend (sleep of the unjust) so gaye, jo doosre tarah ki neend se mazeed serene aur sounder hoti hai, jaisa hum ek lakh badmaashon (rascals) ki phansi-ki-raat ki history (hanging-eve history) se jaante hain. Lekin jab woh subah uthe, toh kismat unke khilaf dobara thin: ek saathi-chor (brother-thief) ne unke sote waqt unhein loot liya tha, aur kisi beech wale landing par kinare nikal gya tha.
 
+---
+
+
+---
+
+# Chapter XVI — Sold Down the River
+
+### _(River Ke Neeche Bech Di Gayi)_
+
+---
+
+> _If you pick up a starving dog and make him prosperous, he will not bite you. This is the principal difference between a dog and a man.—Pudd’nhead Wilson’s Calendar._
+> _(Agar aap kisi bhookhe marte hue dog ko uthate hain aur use samriddh [prosperous] banate hain, toh woh aapko nahi kaatega. Ek dog aur ek mard ke beech mukhya farq yahi hai.)_
+> _We know all about the habits of the ant, we know all about the habits of the bee, but we know nothing at all about the habits of the oyster. It seems almost certain that we have been choosing the wrong time for studying the oyster.—Pudd’nhead Wilson’s Calendar._
+> _(Hum ant [cheenti] ki aadaton ke baare mein sab kuch jaante hain, hum bee [madhumakhi] ki aadaton ke baare mein sab kuch jaante hain, lekin hum oyster [seep] ki aadaton ke baare mein bilkul kuch nahi jaante. Yeh lagbhag nishchhit lagta hai ki hum oyster ka study karne ke liye galat samay chunn rahe hain.)_
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+Jab Roxana arrived huin, toh unhone apne son ko aishi niraasha aur dukh (despair and misery) mein paaya ki unka dil pighal gya aur unke andar ka motherhood (maa ka pyaar) mazbooti se uth khada hua. Woh ab umeed se pare barbaad (ruined past hope) ho chuka tha; uski tabaahi turant aur pakki hone wali thi, aur woh ek jaati-baahar aur sahara-heen (outcast and friendless) mard ban jata. Ek mother ke liye bacha se pyaar karne ka yeh kafi bada kaaran tha; so unhone usse pyaar kiya, aur use aisa bataya. Isne use secretly wince (sanna) karwaya—kyunki woh ek “nigger” thin. Woh khud ek tha, is baat ne use us tuchh jaati (despised race) se samjhauta karne se bahut door rakkha tha.
+
+Roxana ne uspar dulaaron ko undel diya (poured out endearments), jiska unhone uncomfortably javab diya, lekin jitna behtar woh kar sakta tha. Aur unhone use santusht karne (comfort) ki koshish ki, lekin yeh possible nahi tha. Yeh ghanishthataayein (intimacies) jaldi hi unke liye horrible ban gayin, aur ek ghante ke andar unhone itna sahas (courage) ikhatha karne ki koshish shuru kar di ki unhein aisa keh sakein, aur guzarish karein ki unhein band kar diya jaye ya kaafi hadd tak badal (modified) diya jaye. Lekin woh unse darta tha; aur iske alava, ab ek shanti (lull) aayi, kyunki unhone sochne shuru kar diya tha. Woh ek bachane wali yojana (saving plan) invent karne ki koshish kar rahi thin. Finally woh jhatke se uthin, aur kaha ki unhone baahar nikalne ka ek raasta dhoondh liya hai. Tom is sudden achhi news ki khushi se lagbhag saans-rokne (suffocated) laga. Roxana ne kaha:
+
+“Yeh raha plan, aur yeh nishchitta se jeetega. Main ek nigger hoon, aur jo koi bhi mujhe baat karte sunega woh ispar shakk nahi karega. Main six hundred dollars ke layak (wuth) hoon. Mujhe le jao aur bech (sell me) do, aur in gamblers ka karz pay off karo.”
+
+Tom sunn (dazed) tha. Woh sure nahi tha usne sahi suna tha. Woh ek moment ke liye goonga (dumb) tha; phir usne kaha:
+
+“Aapka matlab hai ki aap mujhe bachane ke liye gulamiyat (slavery) mein bech di jayengi?”
+
+“Kya tum mere bacha nahi ho? Aur kya tum aishi kisi cheez ke baare mein jaante ho jo ek mother apne bacha ke liye nahi karegi? Aishi koi cheez nahi hai jo ek white mother apne bacha ke liye na kare. Unhein aisa kisne banaya? Lord ne aisa kiya. Aur negroes ko kisne banaya? Lord ne unhein banaya. Andar se, mothers sab same hain. Good Lord ne unhein aisa banaya. Main slavery mein bech di jaungi, aur ek saal mein tum apni ole mammy ko dobara free kharid loge. Main tumhein dikhaungi kaise. Wahi plan hai.”
+
+Tom ki hopes uthne lagin, aur unke sath uske utsah (spirits) bhi. Usne kaha—
+
+“Yeh aapka kamaal ka tareeqa hai, mammy—yeh toh bas—”
+
+“Ise dobara kaho! Aur kehte raho! Is duniya mein kisi prani ko jitni kamayi (pay) chaahiye yeh bas wahi hai, aur yeh paryapt se mazeed hai. Laws aapko bless karein, honey, jab main chaaron taraf gulamiyat (slavin') kar rahi hoongi, aur woh mujhe gaali (buses) denge, agar mujhe pata ho ki aap door kahin wahan aisa keh rahe ho, toh yeh saarre dukhhte spots ko heal up kar dega, aur main unhein jhel (stan') sakungi.”
+
+“Main ise dobara kehta hoon, mammy, aur main ise kehte rehna jaatri rakkhoonga dono. Lekin main aapko kaise bechne ja raha hoon? Aap free hain, aap jaante hain.”
+
+“Isse bahut bada farq padta hai! White log vishisht (partic'lar) nahi hote. Kanoon mujhe ab bech sakta hai agar woh mujhe six months mein State chhodne ke liye kahein aur main na jaoon. Aap ek paper draw kijiye—bill of sale (bree-patra)—aur ise door kahin, Kaintuck ke beech mein daal dijiye, aur uspar kuch names sign kijiye, aur kahiye ki aap mujhe saste mein bech rahe hain kyunki aap hard up (tangi mein) hain; aap payenge ki aapko koi trouble nahi hone wali hai. Aap mujhe upar country ke ek hisse mein le jao, aur ek farm par bech do; agar main ek sasta sauda (bargain) hoon toh woh log koi sawaal nahi poochne wale hain.”
+
+Tom ne ek fake bill of sale banaya (forged) aur apni mother ko ek Arkansas cotton-planter (kapas ke kisaan) ke sahare six hundred dollars se thode zyaada ke badle bech diya. Woh yeh dhokha (treachery) nahi karna chahta tha, lekin kismat ne us mard ko uske raaste par phenk diya, aur isne use ek khariddaar (purchaser) dhoondhne ke liye up country jaane ki zarurat se bacha liya, jisme is sawaal ke dheron javab dene ke add risk ke sath, jabki yeh planter Roxy se itna khush tha ki usne agla koi sawaal poocha hi nahi. Iske alava, planter ne insist kiya ki Roxy pehle nahi jaanegi woh kahan hai, aur jab tak use pata chalega tab tak woh pehle se hi santusht (contented) ho chuki hogi. Aur Tom ne apne aap se tark diya ki Roxy ke liye ek aisa master paana ek vishsal advantage tha jo usse itna khush tha, jaisa yeh planter saaf taur par tha. Lagbhag bina kisi samay ke uske behte hue tarks (flowing reasonings) use is point tak le gaye ki woh aadha vishwas karne laga ki woh Roxy ko "river ke neeche" (down the river) bech kar ek shandaar gupt service (splendid surreptitious service) kar raha hai. Aur phir woh poore samay diligently apne aap se kehta raha: “Yeh sirf ek saal ke liye hai. Ek saal mein main use dobara free kharid loonga; woh is baat ko mind mein rakkhegi, aur yeh use samjha (reconcile) dega.” Haan; chota dhokha koi nuksaan nahi kar sakta tha, aur sab kuch ant mein anyway sahi aur pleasant baahar aayega.
+
+Agreement ke mutabik, Roxy ki presence mein baatcheet poori tarah mard ke “upcountry” farm ke baare mein thi, aur yeh kitni pleasant jagah thi, aur gulam wahan kitne happy the; so poor Roxy poori tarah se deceived (dhoke mein) thin; aur aasaani se, kyunki woh dream mein bhi nahi soch rahi thin ki unka apna son us mother ke prati ghaatank dhokha (treason) karne ka doshi ho sakta hai jo voluntarily gulamiyat mein jaakar—kisi bhi tarah ki gulamiyat, naram ho ya karrwi, ya kisi bhi samay ki, choti ho ya lambi—uske liye ek aisa balidan kar rahi thin jiske comparison mein maut ek mamuli aur sadharan (poor and commonplace) balidan hoti. Unhone personally uspar aansu aur loving caresses (pyaar-bhare dulaar) nikaale, aur phir apne owner ke sath chali gayin—dil-toote (broken-hearted) hue chali gayin, aur phir bhi jo woh kar rahi thin uspar proud thin, aur glad thin ki yeh unqi power mein tha aisa karna.
+
+Tom ne apne accounts ko square (barabar) kiya, aur apne sudhaar (reform) ke ek-ek lafzon par tike rehne ka nishchay kiya, aur us vasiyat ko dobara kabhi khatre (jeopardy) mein na daalane ka. Uske paas teen sau dollars (three hundred dollars) bache the. Apni mother ke plan ke mutabik, use ise safely door rakhna tha, aur mahine ke hisab se ismein unka pension ka aadha hissa add karna tha. Ek saal mein yeh fund unhein dobara free kharid lega.
+
+Ek poore hafte tak woh achhi tarah sone kabil nahi tha, itna zyaada us shaitaniyat (villainy) ne jise usne apni vishwasniya mother par khela tha, uske zameer ke chithde (rag of a conscience) par hamla kiya; lekin uske baad woh dobara comfortable hona shuru ho gya, aur jaldi hi kisi bhi doosre badmaash (miscreant) ki tarah sone kabil tha.
+
+Boat Roxy ko dopahar ke char baje St. Louis se door le gayi, aur woh paddle-box ke piche wale neeche ke guard par khadi huin aur aansuon ke ek dhundhlapan (blur of tears) ke beech se Tom ko tab tak watch kartiin jab tak woh logon ki bheed mein melt (shamil) hokar vanished nahi ho gya; phir unhone mazeed nahi dekha, balki rassi ke ek dher (coil of cable) par baith kar raat der tak roti rahin. Jab woh aakhirkar engines ki takrar ke beech, apne gande steerage-bunk (nichle darje ke cabin) par gayin, toh yeh sone ke liye nahi tha, balki sirf subah ka wait karne ke liye tha, aur, wait karte hue, dukh karna tha.
+
+Yeh kalpanatit kiya gya tha ki woh “nahi jaanegi,” aur sochegi ki woh up stream (upar ki taraf) travel kar rahi hain. Woh! Why, woh saaloon se steamboating kar rahi thin. Bhor ke samay woh uthin aur bina-man ke (listlessly) gayin aur dobara rassi ke dher par baith gayin. Woh kai aise snag (pani mein chhupi lakdi) ke paas se guzrin jiske “break” (pani ke badlav) ne unhein unka dil todne wali ek baat batai hoti, kyunki isne pradarshit kiya ki pravah (current) usi direction mein move kar raha hai jahan boat ja rahi thi; lekin unke vichaar kahin aur the, aur unhone notice nahi kiya. Lekin aakhirkar samanya se zyaada paas aur bade ek break ke roar (goonj) ne unhein apni moorchha (torpor) se baahar laya, aur unhone upar dekha, aur unqi abhyas-shuda eye (practised eye) paani ke us khulasa karne wale bahaav (telltale rush of water) par padi. Ek moment ke liye unqi sthir nazar (petrified gaze) wahin fix ho gayi. Phir unka head unqi chaati par droop (jhuk) gya, aur unhone kaha—
+
+“Oh, good Lord God poor paap-purna mujh par (poor sinful me) reham karein—**main RIVER KE NEECHE (DOWN THE RIVER) bech di gayi hoon!**”
+
+---
+
+# Chapter XVII — The Judge Utters Dire Prophecy
+
+### _(Judge Ek Daravni Bhavishyavani Karte Hain)_
+
+---
+
+> _Even popularity can be overdone. In Rome, along at first, you are full of regrets that Michelangelo died; but by and by you only regret that you didn’t see him do it.—Pudd’nhead Wilson’s Calendar._
+> _(Yahan tak ki lok-priyata [popularity] bhi zyaada ho sakti hai. Rome mein, shuru-shuru mein, aap is dukh se bhare hote hain ki Michelangelo mar gaye; lekin dhere-dhere aapko sirf is baat ka afsos hota hai ki aapne unhein aisa karte hue nahi dekha.)_
+> _July 4. Statistics show that we lose more fools on this day than in all the other days of the year put together. This proves, by the number left in stock, that one Fourth of July per year is now inadequate, the country has grown so.—Pudd’nhead Wilson’s Calendar._
+> _(July 4. Aankde [Statistics] dikhate hain ki hum is din saal ke baaki saare dinon ke mukable kahin zyaada moorkhon [fools] ko kho dete hain. Stock mein bache hue logon ki sankhya se yeh prove hota hai ki saal mein ek Fourth of July ab kam pad raha hai, desh jo itna badh gaya hai.)_
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+Summer ke hafte beet-te gaye, aur phir political campaign shuru ho gya—kaafi garm dhang (warm fashion) se shuru hua, aur daily mazeed se mazeed hotter hota gya. Twins ne ismein apne poore dil se khud ko jhonk diya, kyunki unka aatm-samman (self-love) ismein laga tha. Unqi popularity, jo shuruat mein itni samanya (general) thi, baad mein kamzor pad gayi thi; mukhya roop se isliye kyunki woh zyaada hi popular ho gaye the, aur isliye ek natural reaction follow hua. Iske alava, saavdhani se chaaron taraf yeh gappe (whispered) maari gayi thin ki yeh curious tha—indeed, bahut curious tha—ki unka woh adbhut knife samne nahi aaya—agar yeh itna keemti tha, ya agar yeh kabhi exist karta bhi tha. Aur in gappon ke sath dhere-dhere hasna, kohni maarna aur aankh maarna (chucklings, nudgings and winks) chal raha tha, aur aishi cheezon ka ek asar hota hai. Twins ne vichar kiya ki election mein success unhein dobara sthapit (reinstate) kar degi, aur defeat unhein na-sudharne yogya nuksaan (irremediable damage) pahunchayegi.
+
+Isliye unhone hard work kiya, lekin Judge Driscoll aur Tom ne canvas (chunaav prachar) ke aakhiri dinon mein unke khilaf usse kam hard work nahi kiya. Tom ka vyavahar do poore mahinon ke dauran itna letter-perfect raha tha, ab, ki unke uncle ne na keval voteron ko samjhane ke liye unpar paise ke sath trust kiya, balki private sitting-room mein sthit safe (tijori) se ise khud jaakar nikaalne ke liye bhi unpar trust kiya.
+
+Campaign ki aakhiri speech Judge Driscoll dwara di gayi, aur unhone ise dono foreigners ke khilaf diya. Yeh disastrously effective (tabaah-kun roop se asardaar) thi. Unhone unpar mazaak ki rivers (rivers of ridicule) undel din, aur vishal mass-meeting ko hasne aur taaliyan bajane par majboor kar diya. Unhone unhein adventurers (bhatke hue), mountebanks (dhokebaaz), side-show riff-raff (tamashbin bheed), dime museum freaks ke roop mein tuchh jaana (scoffed); unhone unqi bhadkeele titles par tula-heen ninda (measureless derision) ke sath hamla kiya; unhone kaha ki woh piche ki gali ke barbers (nai) hain jo kulinata (nobilities) ke bhes mein hain, peanut peddlers (mungfali bechne wale) hain jo gentlemen ka roop dhare hain, organ-grinders (tamasha dikhane wale) hain jo apne bhai bandar (monkey) se alag ho gaye hain. Aakhirkar woh ruke aur shaant khade ho gaye. Unhone tab tak wait kiya jab tak ki woh jagah poori tarah se silent aur umeed se bhari (expectant) nahi ho gayi, phir unhone apna sabse deadly shot deliver kiya; ise baraf jishi thand gombhirta aur vichar (ice-cold seriousness and deliberation) ke sath deliver kiya, aakhiri lafzon par ek mahatva-purna jor (significant emphasis) dete hue: unhone kaha ki unka vishwas hai ki khoye hue knife ke liye offer kiya gya reward ek dhokha aur bakwaas (humbug and buncombe) hai, aur iska owner jaanega ki ise kahan dhoondhna hai jab bhi use kisi ki hatya (assassinate somebody) karne ka mauqa milega.
+
+Phir woh stand se neeche utar gaye, apne piche cheers aur party cries ke niyamit dhamake ke bajaye ek hairan aur prabhavshali khamoshi (startled and impressive hush) chhodte hue.
+
+Yeh ajeeb tippani (strange remark) town mein door-door tak ud gayi aur isne ek asadharn sarsari (extraordinary sensation) paada ki. Har koi pooch raha tha, “Uska isse matlab kya ho sakta hai?” Aur har koi us sawaal ko poochta raha, lekin be-fayda; kyunki Judge ne sirf itna kaha ki woh jaante hain woh kis baare mein baat kar rahe hain, aur wahin ruk gaye; Tom ne kaha unhein koi idea nahi hai unke uncle ka kya matlab tha, aur Wilson se jab bhi poocha jata ki unke khhayal mein iska kya matlab tha, toh woh poochne wale se hi yeh sawaal pooch kar sawaal ko taal (parried) dete the ki uske khhayal mein iska kya matlab tha.
+
+Wilson elect ho gaye, twins defeat ho gaye—actually kuchal (crushed) diye gaye, aur desolate aur mukhya roop se sahara-heen (forlorn and substantially friendless) chhod diye gaye. Tom happy hokar wapas St. Louis chala gya.
+
+Dawson’s Landing ke paas ab ek hafte ka aaram (repose) tha, aur ise iski zarurat thi. Lekin yeh ek umeed ki state (expectant state) mein tha, kyunki hawa ek naye duel ke rumors se bhari thi. Judge Driscoll ke election ke kaamon ne unhein nidhaal (prostrated) kar diya था, lekin kaha gya ki jaise hi woh ek challenge ko sweekar karne jitne well ho jayenge unhein Count Luigi se ek challenge milega.
+
+Bhaion society se poori tarah hat (withdrew) gaye, aur akelepan (privacy) mein apne apmaan (humiliation) ko paalte rahe. Woh logon se bachte the, aur exercise ke liye sirf der raat ko baahar jaate the, jab sarkein sunsan (deserted) hoti thin.
+
+---
+
+# Chapter XVIII — Roxana Commands
+
+### _(Roxana Hukm Deti Hai)_
+
+---
+
+> _Gratitude and treachery are merely the two extremities of the same procession. You have seen all of it that is worth staying for when the band and the gaudy officials have gone by.—Pudd’nhead Wilson’s Calendar._
+> _(Kritagyata [Gratitude] aur dhokha [treachery] mukhya roop se ek hi procession [yaatra] ke do chhor hain. Aap iska woh sab kuch dekh chuke hote hain jiske liye rukna mahatva-purna hai jab band aur bhadkeele officials guzar jaate hain.)_
+> _Thanksgiving Day. Let all give humble, hearty, and sincere thanks, now, but the turkeys. In the island of Fiji they do not use turkeys; they use plumbers. It does not become you and me to sneer at Fiji.—Pudd’nhead Wilson’s Calendar._
+> _(Thanksgiving Day. Ab sabhi ko vinamra, garm-joshi bhara aur sincere thank you kehna chahiye, siwaye turkeys ke. Fiji ke island mein woh turkeys use nahi karte; woh plumbers ka use karte hain. Fiji par taana kasna [sneer] aapko aur mujhe shobha nahi deta.)_
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+Election ke baad wala Friday St. Louis mein ek barish wala din tha. Poore din tez barish hoti rahi, aur tezi se hoti rahi, apparently apni taraf se sabse behtar prayas karti hui us soot-blackened (koyle se kaale hue) town ko dho kar white karne ka, lekin o' course safal nahi hui. Midnight ke paas Tom Driscoll bhaari downpour (bhaari bauchhar) mein theatre se apne lodgings par arrived hua, aur apna umbrella close karke andar enter hua; lekin jab woh door shut karne wala tha, toh usne paaya ki ek aur person enter kar raha hai—doubtless koi doosra lodger; us person ne door close kiya aur Tom ke peeche-peeche upstairs chal diya. Tom ne andhere mein apna door dhoondha, aur ismein enter karke gas light jala di. Jab woh pleasantly seeti bajate hue (lightly whistling) peeche muda, toh usne ek mard ki peeth dekhi. Woh mard uske liye uska door close aur lock kar raha tha. Uska whistle vanished ho gya aur woh uneasy feel karne laga. Woh mard chaaron taraf muda, fate-purane kapdo ka ek kachra (wreck of shabby old clothes), barish se geela aur poora tapakhta hua, aur usne ek purane slouch hat ke neeche ek black face dikhaya. Tom dar (frightened) gya. Usne mard ko baahar nikalne ka order dene ki koshish ki, lekin lafzon ne aane se refuse kar diya, aur doosre mard ne shuruat kar di. Usne ek halki awaaz (low voice) mein kaha—
+
+“Shant raho—main tumhari mother hoon!”
+
+Tom ek chair par dher (heap) hokar doob gya, aur haanfte hue nikaala—
+
+“Yeh meri taraf se ghatiya tha, aur base—main ise jaanta hoon; lekin maine sabse behtar ke liye socha tha, maine sach mein kiya tha—main ispar kasam kha sakta hoon.”
+
+Roxana thodi der tak bina bole (mutely) uspar neeche dekhti rahi jabki woh sharm mein machal (writhed in shame) raha hai aur bina kisi silsile ke (incoherently) binnati bhare prayasoon ke sath apne apraadhoon ke explanation aur chhupane ke dhero ke beech khud par aarop laga raha tha; phir woh baith gayin aur unhone apna hat utara, aur unke bina-sambhale lambe brown baalon ka dher unke kandhoon ke chaaron taraf neeche gir gya.
+
+“Ismein aapki koi galti nahi hai ki yeh abhi tak gray (safed) nahi hai,” unhone baalon ko notice karte hue udaasi se kaha.
+
+“Main jaanta hoon, main jaanta hoon! Main ek badmaash (scoundrel) hoon. Lekin main kasam khata hoon maine sabse behtar ke liye socha tha. Yeh ek galti thi, o' course, lekin maine socha yeh sabse behtar ke liye hai, maine sach mein socha tha.”
+
+Roxana softly rone lagin, aur jaldi hi unqi siskiyon (sobs) ke beech se lafzon ne apna raasta dhoondh liya. Woh gusse ke bajaye vilap karte hue (lamentingly) kahe gaye the—
+
+“Kisi prani (pusson) ko river ke neeche bech dena—down the river!—sabse behtar ke liye! Main ek dog ke sath aisa treat nahi karti! Main ab poori tarah toot chuki hoon aur thak chuki hoon (wore out), aur so main reckon karti hoon mujh mein ab mazeed toofaan machane (storm aroun') ka dam nahi hai, jaisa main tab karti thin jab mujhe kuchtala (tromple) gya aur gaali (bused) di gayi. Main nahi jaanta—lekin maybe aisa hi hai. Leastways, maine itna jhela hai ki vilap karna (mournin') mujhe ab toofaan machane ke mukable mazeed handy lagta hai.”
+
+In lafzon ko Tom Driscoll ko touch karna chahiye tha, lekin agar unhone kiya, toh us asar ko ek mazeed strong asar ne mita (obliterated) diya—jisne darr ke us bhaari bojh ko hata diya jo uspar leta tha, aur uski kuchli hui aatma (crushed spirit) ko ek sabse gratitude bhara rebound diya, aur uski choti soul ko raahat (relief) ke ek gehre ehsaas se bhar diya. Lekin woh saavdhani se shant raha, aur koi tippani karne ki dharstata nahi ki. Ab kuch samay tak ek bina-awaaz ka interval (voiceless interval) raha, jisme paanes par rain ke beat hone, hawaao ke aah bharne aur shikayat karne, aur kabhi-kabar Roxana ki ek dba-hue siski (muffled sob) ke alava koi awaaz nahi suni gayi. Siskiein mazeed se mazeed kam hoti gayin, aur aakhirkar ruk gayin. Phir refugee (sharanarthi/bhaagi hui aurat) ne dobara baat karni shuru ki:
+
+“Uss light ko thoda kam karo (Shet down dat light). Mazeed. Mazeed yit. Ek prani jiska shikar kiya ja raha ho (hunted) use light pasand nahi hoti. Dah—woh kaam karega. Main dekh sakti hoon aap kahan ho, aur utna paryapt hai. Main tumhein kahani batane ja rahi hoon, aur ise jitna chhota ho sake utna chhota karungi, aur den main tumhein bataungi tumhein kya karna hai. Jis mard ne mujhe kharida tha woh kharab mard nahi hai; woh kaafi achha hai, jitne planters hote hain; aur agar uska apna raasta chalta toh main uski fambly mein ek house servant hoti aur comfortable rehti: lekin uski wife ek Yank thin, aur sahi taur par good lookin' nahi thin, aur woh mere khilaf seedhe uth khadi huin; so den unhone mujhe quarter mein samanya fiel' han's (khet ke majdooroon) ke beech bhej diya. Woh aurat usse bhi satisfied nahi thin, balki unhone overseer (dekh-bhaal karne wale) ko mere khilaf uthaya, woh itni jealous aur hateful thin; so overseer mujhe subah bhor hone se pehle baahar nikaal deta aur poore lambe din tak kaam karwata jab tak dekhne ke liye light rehti; aur dheron lashin's (koode) mujhe mile kyunki main sabse strong mard ke kaam ke barabar nahi aa saktin thin. Woh overseer ek Yank tha dono, New Englan' se, aur South mein koi bhi tumhein bata sakta hai uska kya matlab hai. Woh ek nigger ko maut tak kaam karwana jaante hain, aur woh unhein whale (peetna) karna bhi jaante hain—whale karna jab tak unqi peeth washboard ki tarah welted (suj) na jaye. Shuru-shuru mein mere master ne overseer se mere liye good word kahe, lekin woh mere liye bad raha; kyunki mistis ne yeh figure out kar liya, aur uske baad maine har mod par ise jhela—mere liye ab koi mercy nahi thi.”
+
+Tom ka dil fired (gusse se bhara) ho gya—planter ki wife ke khilaf; aur usne apne aap se kaha, “Agar us meddlesome fool (dakhalkandaz bewakoof) ke alava sab hota, toh sab kuch alright chala gya hota.” Usne uske khilaf ek gehra aur karrwa shraap (bitter curse) add kiya.
+
+Is bhavna ka expression unke face par krodh se likha tha, aur is tarah bijli ki ek white glare (chamak) dwara Roxana ke samne zahir ho gya jisne us moment room ke somber dusk (andhere) ko chamkte hue din mein badal diya. Woh khush thin—khush aur grateful thin; kyunki kya us expression ne yeh nahi dikhaya ki unka bacha apni mother ke apmaanon par dukh karne aur unke utpeedakon (persecutors) ke prati krodh feel karne kabil tha?—ek aishi cheez jispar unhein shakk ho raha tha. Lekin unqi khushi ki woh chamak sirf ek chamak thi, aur dobara baahar chali gayi aur unqi aatma ko andhera chhod diya; kyunki unhone apne aap se kaha, “Usne mujhe river ke neeche becha—woh kisi prani ke liye lambe samay tak feel nahi kar sakta: yeh pass ho jayega aur chala jayega.” Phir unhone apni kahani dobara li.
+
+“Lagbhag ten days ago main apne aap se keh rahi thin ki main mazeed kai hafton tak nahi chal sakti main is awful kaam aur lashin's se itni wore out thi, aur itni downhearted aur misable thin. Aur mujhe ab koi parwah nahi thi dono—life mere liye kuch keemti nahi thi, agar mujhe is tarah jaatri rakhna tha. Well, jab koi prani dimaag ke aise frame mein ho, toh prani kya parwah karta hai ki prani kya kare? Wahan ek choti bimar nigger wench thi lagbhag ten year ole jo mere prati achhi thi, aur uski koi mammy nahi thi, poor thing, aur main usse pyaar kartiin thin aur woh mujhse karti thin; aur woh baahar aayi jahan main kaam kar rahi thin aur uske paas ek roasted tater (bhuna aloo) tha, aur usne ise mujhe slip karne ki koshish ki,—khud ko loot-te hue, aap dekhte hain, kyunki woh jaanti thin overseer mujhe khane ke liye enough nahi deta,—aur usne use ispar pakad (ketched) liya, aur uski peeth par apni stick se ek lick (maar) diya, jo broom-handle jitni moti thin, aur woh screamin' karti hui floor par drop ho gayi, aur dhool mein chaaron taraf machal aur lapat (squirmin' en wallerin') rahi thin jaise koi spider (makdi) jo apang ho gayi ho. Main ise bardaasht nahi kar saktin thin. Jo bhi hell-fire mere dil mein kabhi tha woh bhadak utha, aur maine stick uske haath se chheen (snatch) li aur use flat lita diya. Woh wahan karaahte aur gaali dete (moanin' en cussin') hue leta raha, aur poori tarah apne head se baahar tha, aap jaante hain, aur negroes maut tak plumb sk'yred (darre hue) the. Woh uski help karne ke liye uske chaaron taraf gathered hue, aur main uske hoss (ghode) par jump ki aur jitna teez main ja saktin thin river ke liye nikal gayi. Main jaanti thin woh mere sath kya karenge. Jaise hi woh well hota woh shuru ho jata aur mujhe maut tak kaam karwata agar master use karne deta; aur aur agar unhone aisa nahi kiya, toh woh mujhe mazeed river ke neeche bech dete, aur woh same cheez hai. So maine khud ko drown (doobne) karne aur apni troubles se baahar nikalne ka faisla kiya. Yeh andhere ki taraf badh raha tha. Main two minutes mein river par thin. Den maine ek canoe dekhi, aur main kehti hoon khud ko drown karne ka tab tak koi use nahi jab tak mujhe karna na pade; so main ghode ko lakdi ke edge (timber) par baandhti hoon aur river ke neeche canoe shove out karti hoon, bluff bank ke shelter ke neeche khud ko rakhte hue aur andhere ke jaldi shut down hone ke liye pray karti hui. Mere paas ek pow'ful good start tha, kyunki bada ghar river se three mile back tha aur wahan jaane ke liye sirf kaam wale khachhar (work-mules) the ride karne ke liye, aur unpar ride karne ke liye sirf negroes the, aur woh hurry nahi karne wale the—woh mujhe jitna chance ho sake utna denge. Isse pehle ki koi ghar jaye aur wapas aaye yeh long pas' dark ho jata, aur woh mawnin' (subah) tak ghode ko track nahi kar sakte the aur figure out nahi kar sakte the main kis raaste gayi, aur negroes unhein is baare mein saarre lies batayenge jo woh kar sakte the.
+
+“Well, andhera aaya, aur main river ke neeche spinnin' chalti rahi. Maine do ghante se mazeed paddled kiya, den main mazeed worried nahi thin, so maine paddling quit ki, aur current ke sath neeche floated hui, vichar karte hue (considerin') main kya karne ja rahi thin agar mujhe khud ko drown na karna pade. Maine kuch plans banaye, aur floated chalti rahi, unhein apne dimaag mein ghumate (turnin' 'em over) hue. Well, jab yeh midnight se thoda pas' tha, jaisa maine reckoned kiya, aur main fifteen ya twenty mile aa chuki thin, maine bank par leti ek steamboat ki lights dekhi, jahan na koi shehar tha aur na koi lakdi ka dher (woodyard), aur bahut jaldi maine stars ke khilaf chimbly-tops ki shape dobara pakadi, aur den good gracious me, main khushi se lagbhag apni skin se baahar jump kar gayi! Yeh _Gran’ Mogul_ thin—main Cincinnati aur Orleans ke trade mein eight seasons tak uspar chambermaid thin. Main paas se slid hui—kisi ko kahin stirrin' (halchal karte) nahi dekha—unhein engine-room mein hammerin' karte hue suna, den main jaan gayi kya mamla tha—machinery mein se kuch toota hai. Main boat ke neeche kinare (asho') par gayi aur canoe ko loose turned kiya, den main upar jaanti hoon, aur wahan just ek plank baahar tha, aur maine boat par step rakkha. Yeh pow'ful hot tha, deckhan’s aur roustabouts fo’cas’l’ par chaaron taraf phhaile so rahe the, second mate, Jim Bangs, woh bitts par apna head neeche kiye baitha so raha tha—kyunki usi tareeqe se second mate captain ki watch par khada rehta hai!—aur purane watchman, Billy Hatch, woh companionway par nodding (ungh) rahe the;—aur main un sabko jaanti thin; aur baap re, lekin woh sach mein acche dikhe! Maine apne aap se kaha, kaash old master ab aa jayein aur mujhe lene ki kishish karein—bless yo' heart, main doston ke beech hoon, main hoon. So main right unke beech se tromped chalti rahi, aur boiler deck par gayi aur ladies’ cabin guard ke peeche chal di, aur wahan usi cheer (chair) par baith gayi jisme main lagbhag ek sau million times baithi thin, main reckon karti hoon; aur yeh dobara just ghar jaisa tha, main tumhein batati hoon!
+
+“Lagbhag ek ghante mein maine ready-bell ki jingle suni, aur den shor (racket) begin hua. Bahut jaldi maine gong strike hote suna. ‘Set her back on de outside,’ maine apne aap se kaha—‘main reckon karti hoon main is music ko jaanti hoon!’ Maine gong dobara suna. ‘Come ahead on de inside,’ maine kaha. Gong dobara. ‘Stop de outside.’ Gong dobara. ‘Come ahead on de outside—ab hum Sent Louis ke liye pinted hain, aur main woods se baahar hoon aur mujhe bilkul khud ko drown nahi karna hai.’ Main jaanti thin Mogul ab Sent Louis ke trade mein thi, aap dekhte hain. Yeh just saaf daylight thi jab humne hamari plantation ko pass kiya, aur maine negroes aur white logon ke ek gang ko kinare upar-neeche hunt karte dekha, aur mere baare mein kaafi hadd tak pareshan (troublin'); lekin main unke baare mein bilkul pareshan nahi thin.
+
+“Us samay Sally Jackson, jo meri second chambermaid hua karti thin aur ab head chambermaid thin, woh guard par baahar aayin, aur mujhe dekh kar pow’ful glad thin, aur waise hi saarre officers the; aur maine unhein bataya main kidnap ho gayi thin aur river ke neeche bech (sole) di gayi thin, aur unhone mere liye twenty dollars ikhatha kiye aur mujhe de diye, aur Sally ne mujhe acche kapdo ke sath saja (rigged me out) diya, aur jab main yahan pahunchei main seedhe wahan gayi jahan tum hua karte the, aur den main is ghar aayi, aur unhone kaha aap baahar hain lekin har din back expected hain; so maine river ke neeche Dawson’s jaane ki dharstata nahi ki, kyunki main aapko miss kar sakti thin.
+
+“Well, pichele Monday main Fourth street mein un places mein se ek ke paas se guzar rahi thin jahan runaway-nigger bills (bhaage hue gulamon ke ishtahar) chipkaye jaate hain, aur unhein pakadne mein help ki jaanti hai, aur maine apne master ko dekha! Main lagbhag floor par flopped gir gayi, main itna khali feel kar rahi thin. Unki peeth meri taraf thin, aur woh mard se baat kar rahe the aur use kuch bills de rahe the—nigger-bills, main reckon karti hoon, aur main wahi nigger hoon. Woh ek reward offer kar rahe hain—wahi hai. Kya main right nahi hoon, kya tum reckon nahi karte?”
+
+Tom gradually ek bhyankar darr (ghastly terror) ki state mein doob raha tha, aur usne ab apne aap se kaha: “Main chala gya, chahe cheezein koi bhi mod kyun na lein! Is mard ne mujhse kaha hai ki woh sochta hai us sale (bechne) ke baare mein kuch suspicious tha. Usne kaha uske paas _Grand Mogul_ par ek passenger se letter aaya tha jisme likha tha ki Roxy us boat par yahan aayi thin aur board par har koi us case ke baare mein sab kuch jaanta tha; so woh kehta hai ki unka ek free State mein bhaagne ke bajaye yahan aana mere liye bad looks karta hai, aur agar main unhein uske liye nahi dhoondhta, aur woh bahut jaldi, toh woh mere liye trouble khada karega. Maine us story par kabhi vishwas nahi kiya; main vishwas nahi kar sakta tha woh saari motherly instincts ke liye itni dead hongi ki yahan aayengi, us risk ko jaante hue jo woh mujhe na-sudharne yogya trouble (irremediable trouble) mein daalane ke liye uthayengi. Aur aakhirkar, yahan woh hain! Aur maine stupidly kasam khai thi main unhein dhoondhne mein uski help karunga, yeh sochte hue ki vaada karna ek perfectly alright safe cheez hai. Agar main unhein deliver karne ki dharstata karta hoon, toh woh—woh—lekin main apni help kaise kar sakta hoon? Mujhe ya toh woh karna hoga ya paise pay karne honge, aur paise kahan se aane hain? Main—main—well, main sochta hoon ki agar woh iske baad unke sath kindly treat karne ki kasam khaye—aur woh khud kehti hain, ki woh ek achha mard hai—aur agar woh kabhi unse zyaada kaam na karwane, ya kharab khana na dene, ya—”
+
+Bijli ki ek chamak ne Tom ke pale (peele) face ko expose kiya, jo in chintit vicharon se karrwa aur rigid (sakht) tha. Roxana ne ab sharply upar bola, aur unqi awaaz mein aashanka (apprehension) thi—
+
+“Uss light ko uthao (Turn up dat light)! Main aapka face behtar dekhna chahti hoon. Dah now—mujhe aapko dekhne do. Chambers, tum apni shirt jitne white ho! Kya tumne us mard ko seed (dekha) hai? Kya woh tumse milne aaya hai?”
+
+“Haa-nh.”
+
+“Kab?”
+
+“Monday dopahar (noon).”
+
+“Monday noon! Kya woh mere track par tha?”
+
+“He—well, usne socha woh tha. Yaani kehna ka matlab hai, use hope thi woh tha. Yeh wahi bill hai jo aapne dekha tha.” Usne ise apni pocket se baahar nikaala.
+
+“Mujhe ise padh kar sunao!”
+
+Whon utsah se haanf (panting) rahi thin, aur unqi aankhon mein ek andheri chamak (dusky glow) thi jise Tom nishchitta se translate nahi kar saka, lekin is baare mein kuch threatening (dhamki-bhara) lag raha tha. Handbill par ek kapda bandhe negro aurat ke bhaagne ka niyamit kachha woodcut (lakdi par chapa chitra) tha, jiske kandhe par ek stick par niyamit bundle tha, aur heading bold type mein thi, “$100 REWARD.” Tom ne bill ko zor se padha—kam se kam us hisse ko jo Roxana ko describe karta tha aur master aur uske St. Louis address aur Fourth-street agency ke address ko name karta تھا; lekin usne us item ko baahar chhod diya ki reward ke liye applicants Mr. Thomas Driscoll se bhi apply kar sakte hain.
+
+“Mujhe bill do (Gimme de bill)!”
+
+Tom ne ise fold kar liya tha aur apni pocket mein rakh raha tha. Usne apni peeth ke neeche ek thand ki ddaud (chilly streak) rami feel ki, lekin jitna carelessly ho sake utna kaha—
+
+“Bill? Why, yeh aapke kisi use ka nahi hai, aap ise padh nahi saktin. Aapko iska kya karna hai?”
+
+“Mujhe bill do!” Tom ne ise unhein de diya, lekin ek hichkichahat (reluctance) ke sath jise woh poori tarah disguise nahi kar saka. “Kya aapne yeh sab mujhe padh kar sunaya?”
+
+“Nishchhit roop se maine sunaya.”
+
+“Apna haath uthao aur ispar kasam khao (Hole up yo’ han’ en swah to it).”
+
+Tom ne aisa kiya. Roxana ne bill ko saavdhani se apni pocket mein door rakkha, poore samay apni aankhein Tom ke face par fix rakhte hue; phir unhone kaha—
+
+“Yo’s lyin’ (Tum jhooth bol rahe ho)!”
+
+“Main is baare mein jhooth kyun bolna chahunga?”
+
+“Main nahi jaanti—lekin tum bol rahe ho. Anyway, meri yahi raai hai. Lekin parwah nahi us baare mein. Jab maine us mard ko dekha main itni darri (sk'yerd) thin ki main mushkil se wobbled (ladkhada kar) ghar chal saktin thin. Den maine ek nigger mard ko in kapdo ke liye ek dollar diya, aur main tab se kisi ghar mein nahi rahi hoon, na raat na din, ab tak. Maine apna face black kiya aur din ke samay ek purane ghar ke cellar (tehkhane) mein chhupi rahi jo jal gya tha, aur khane ke liye kuch paane ke liye raaton ko wharf (ghat) par sugar hogsheads aur grain sacks ko loota, aur kabhi kuch kharidne ki dharstata nahi ki, aur main lagbhag bhookhe mar gayi hoon. Aur maine is rainy night tak is jagah ke paas aane ki kabhi dharstata nahi ki, jab aas-paas log mushkil se hain. Lekin aaj raat main andheri gali mein tab se khadi hoon jab se raat aayi hai, aapke guzarne ka wait karti hui. Aur yahan main hoon.”
+
+Whon sochne lagin. Jaldi hi unhone kaha—
+
+“Tumne us mard ko pichele Monday noon ko dekha tha?”
+
+“Haan.”
+
+“Maine use us arternoon ke beech mein dekha. Usne tumhein hunt up (dhoondha) kiya, kya usne nahi kiya?”
+
+“Haan.”
+
+“Kya usne tumhein us samay bill diya?”
+
+“Nahi, usne ise abhi tak print nahi karwaya tha.”
+
+Roxana ne uspar ek suspicious glance daali.
+
+“Kya aapne bill fix up karne mein uski help ki?”
+
+Tom ne is stupid blunder (moorkhta-purna galti) ko karne ke liye khud ko koshish ki, aur ise rectfy (theek) karne ka prayas kiya yeh kehkar ki use ab yaad aaya, ki woh Monday noon ko tha jab mard ne use bill diya tha. Roxana ne kaha—
+
+“Yo’s lyin’ ag’in, sho (Tum dobara jhooth bol rahe ho, nishchhit).” Phir woh seedhi khadi huin aur unhone apni finger uthai: “Ab den! Main tumse ek sawaal poochne ja rahi hoon, aur main jaan'na chahti hoon tum isse kaise baahar nikalne wale ho. Tum jaante he woh mere piche tha; aur agar tum yahan uski help karne ke liye rukne ke bajaye bhaag jaate, toh woh jaan jata ki is business ke baare mein kuch galat (wrong) hai, aur den woh aapke baare mein inquire karta, aur yeh use tumhare uncle ke paas le jata, aur tumhare uncle bill padhte aur dekhte ki tum ek free nigger ko river ke neeche bech rahe ho, aur tum unhein jaante ho, main reckon karti hoon! Woh vasiyat tod dete (t'ar up de will) aur tumhein ghar se baahar kick kar dete. Ab, den, tum mujhe is sawaal ka javab do: kya tumne us mard ko nahi bataya ki main nishchitta se yahan aungi, aur den tum ise aise fix karoge taaki woh ek trap set karke mujhe pakad (ketch me) sake?”
+
+Tom ne recognize kiya ki na toh lies na hi arguments ab unqi mazeed help kar sakte hain—woh ek shikanje (vise) mein the, jiska screw turned on tha, aur isse baahar nikalne ka koi raasta nahi tha. Unke face ne ek ugly look lena shuru kiya, aur jaldi hi unhone ek ghurraahat (snarl) ke sath kaha—
+
+“Well, main kya kar sakta tha? Aap dekh rahi hain, khud, ki main uski grip mein tha aur baahar nahi nikal sakta tha.”
+
+Roxy ne thodi der tak unhein ek tiraskar-purna nazar (scornful gaze) se jhulsaya, phir unhone kaha—
+
+“Tum kya kar sakte the? Tum apni khud ki mother ke liye Judas (dhokebaaz) ban sakte the apni bekar khaal (wuthless hide) bachane ke liye! Kya koi ispar bhandar karega? Nahi—ek dog bhi nahi kar sakta! Tum sabse low-downest orneriest hound ho jo is world mein kabhi paada hue—aur main iski zimmedar (sponsible) hoon!”—aur unhone uspar thook (spat) diya.
+
+Usne iska virodh (resent) karne ka koi prayas nahi kiya. Roxy ne ek moment tak vichar kiya, phir unhone kaha—
+
+“Ab main tumhein batati hoon tum kya karne ja rahe ho. Tum us mard ko woh paise dene ja rahe ho jo tumne laid up (bacha kar) rakkhe hain, aur use tab tak wait karwao jab tak tum Judge ke paas jaakar baki ka haasil na kar sako aur mujhe dobara free kharid na sako.”
+
+“Toofan! Aap kya soch rahi hain? Unse jaakar teen sau dollars aur upar mangoon? Main unhein kya bataunga main iska kya karna chahte hoon, prarthna karein?”
+
+Roxy ka javab ek serene aur level voice (shant aur seedhi awaaz) mein deliver hua—
+
+“Tum unhein bataoge tumne mere juye ke karz pay karne ke liye mujhe bech diya tha aur yeh ki tum mere prati jhoothe the aur ek villain the, aur yeh ki main tumse required karti hoon ki tum woh paise lo aur mujhe dobara wapas kharido.”
+
+“Why, aap poori tarah paagal (stark mad) ho gayi hain! Woh ek minute mein vasiyat ko chithdo mein tod (tear the will to shreds) denge—kya aap yeh nahi jaanti thin?”
+
+“Haan, main jaanti hoon.”
+
+“Then aap vishwas nahi kartiin main unke paas jaane jitna idiot hoon, kya aap kartiin thin?”
+
+“Main is baare mein kuch vishwas nahi karti—I knows you’s a-goin' (main jaanti hoon tum ja rahe ho). Main ise jaanti hoon kyunki tum jaante ho ki agar tumne woh paise raise nahi kiye toh main khud unke paas jaungi, aur den woh tumhein river ke neeche bech denge, aur tum dekh sakte ho tumhein yeh kaisa lagta hai!”
+
+Tom utha, kaanpते hue aur utsaahit roop se, aur unqi eye mein ek shaitani roshni (evil light) thi. Woh door ki taraf badha aur usne kaha ki use ek moment ke liye is saans-rokne wali jagah (suffocating place) se baahar nikalna hoga aur fresh air mein apne brain ko clear karna hoga taaki woh nirdharit (determine) kar sake kya karna hai. Door nahi khula. Roxy grimly muskuraai, aur unhone kaha—
+
+“Mere paas key hai, honey—baith jao (set down). Tumhein apna brain clear karne ki bilkul zarurat nahi hai yeh figure out karne ke liye tum kya karne ja rahe ho—main jaanti hoon tum kya karne ja rahe ho.” Tom baith gya aur ek helpless aur desperate air ke sath apne haathon ko apne baalon mein pherne laga. Roxy ne kaha, “Kya woh mard is ghar mein hai?”
+
+Tom ne ek surprised expression ke sath upar glance kiya, aur poocha—
+
+“Aapko aisa idea kisne diya?”
+
+“Tumne kiya. Apne brain ko clear karne baahar ja rahe ho! Pehli jagah par tumhare paas clear karne ke liye koi brain hai hi nahi, aur doosri jagah aapqi bekar eye (ornery eye) ne aapka khulasa kar diya. Tum sabse low-downest hound ho jo kabhi—lekin maine tumhein pehle hi bataya tha. Ab den, yeh Friday hai. Tum us mard ke sath ise fix up kar sakte ho, aur use batao tum baki ke paise lene ke liye door ja rahe ho, aur yeh ki tum nex' Tuesday, ya maybe Wednesday ko iske sath wapas aaoge. Tum samajhte ho?”
+
+Tom ne sullenly (udaas gusse se) javab diya—
+
+“Haan.”
+
+“Aur jab tumhein naya bill of sale mil jaye jo mujhe meri hi self ko bechta hai, toh ise lekar mail mein Mr. Pudd’nhead Wilson ko send kar dena, aur back par likh dena ki unhein ise tab tak rakhna hai jab tak main na aaon. Tum samajhte ho?”
+
+“Haan.”
+
+“Tab itna hi hai. Apna umbrella lo, aur apna hat pehno.”
+
+“Kyun?”
+
+“Kyunki tum mujhe wharf (ghat) tak ghar dekhne ja rahe ho. Tum is knife ko dekhte ho? Maine ise us din se chaaron taraf carry (toted) kiya hai jab se maine us mard ko dekha aur in kapdo aur ise kharida. Agar woh mujhe pakadta hai, toh main isse khud ko maar loongi. Ab aige badho, aur softly chalo, aur rasta dikhao; aur agar tumne is ghar mein koi sign diya, ya agar sarak par koi aapke paas aaya, toh main ise seedhe tumhare andar jam (jhonk) dungi. Chambers, kya tum mera vishwas karte ho jab main aisa kehti hoon?”
+
+“Mujhe us sawaal se pareshan karne ka koi use nahi hai. Main jaanta hoon aapka sabd achha hai.”
+
+“Haan, yeh aapke sabd se different hai! Light out karo aur aige badho—yeh rahi key.”
+
+Unka peeche nahi kiya gya. Tom har baar kaanp uthta jab koi der se ghoomne wala (late straggler) sarak par unse takrata, aur peeth mein thande steel (cold steel) ko feel karne ki aadhi umeed kar raha tha. Roxy theek uske heels par thin aur hamesha reach mein thin. Ek mile tak chalne ke baad woh sunsan wharves par ek vishal khaali jagah par pahunche, aur is andhere aur rainy desert mein woh alag ho gaye.
+
+Jaise-jaise Tom ghar ki taraf thaka hua badh raha tha (trudged home) uska mind andhere vicharon aur wild plans se bhara tha; lekin aakhirkar usne apne aap se wearily kaha—
+
+“Baahar nikalne ka sirf ek hi raasta hai. Mujhe unke plan ko follow karna hoga. Lekin ek badlav (variation) ke sath—main paise ke liye nahi mangunga aur khud ko ruin nahi karunga; **main us purane makkhi-choos (old skinflint/uncle) ko loot loonga.**”
+
+---
+
+# Chapter XIX — The Prophecy Realized
+
+### _(Bhavishyavani Sach Ho Jaanti Hai)_
+
+---
+
+> _Few things are harder to put up with than the annoyance of a good example.—Pudd’nhead Wilson’s Calendar._
+> _(Ek acche udaharan [good example] ki pareshani ko jhelne se zyaada kathin bahut kam cheezein hoti hain.)_
+> _It were not best that we should all think alike; it is difference of opinion that makes horse-races.—Pudd’nhead Wilson’s Calendar._
+> _(Yeh sabse behtar nahi hoga ki hum sab ek jaisa sochein; yeh vichaaron ka bhed [difference of opinion] hi hai jisse ghode-ddaud [horse-races] hoti hain.)_
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+Dawson’s Landing apni shant aaram (dull repose) ke season ko comfortably khatam kar raha tha aur patience ke sath duel ka wait kar raha था. Count Luigi bhi wait kar rahe the; lekin patience ke sath nahi, rumors ne kaha. Sunday aaya, aur Luigi ne apna challenge convey (bhejne) karne par jor diya. Wilson ise lekar gaye. Judge Driscoll ne ek assassin se fight karne se mana (declined) kar diya—“yaani kehna ka matlab hai,” unhone mahatva-purna dhang se add kiya, “samman ke field (field of honor) par.” Kahin aur, o' course, woh ready hote. Wilson ne unhein convince karne ki koshish ki ki agar woh khud wahan present hote jab Angelo ne Luigi dwara kiye gaye homicide (manav-hatya) ke baare mein bataya tha, toh woh us act ko Luigi ke liye badnaam-purna (discreditable) nahi maante; lekin us ziddi purane mard (obstinate old man) ko hilaaya nahi ja saka.
+
+Wilson wapas apne principal (Luigi) ke paas gaye aur apne mission ki failure ke baare mein report kiya. Luigi gusse mein (incensed) the, aur unhone poocha aisa kaise ho sakta hai ki woh purane gentleman, jo kisi bhi tarah se mand-buddhi (dull-witted) nahi the, apne us bekar nephew ke saboot aur tarks (evidence and inferences) ko Wilson ke mukable mazeed keemti maante hain. Lekin Wilson hanse, aur unhone kaha—
+
+“Yeh kaafi simple hai; iska saaf roop se spashtikaran (explicable) kiya ja sakta hai. Main unka doll (khilona) nahi hoon—unka baby nahi—unka andha pyaar (infatuation) nahi hoon: unka nephew hai. Judge aur unqi late wife ke kabhi koi bacha nahi tha. Judge aur unqi wife middle age paar kar chuke the jab yeh khazana unqi god mein gira. Kisi ko us parental instinct (mata-pita ki janmjaat bhavna) ke liye jagah deni chahiye jo twenty-five ya thirty saal se bhookhi mar rahi thi. Woh us samay tak famished (bhookhi) hoti hai, bhook se paagal ho jaanti hai, aur jo kuch bhi handy mile usse poori tarah satisfied ho jayegi; uski taste atrophied (bhi-nasht) ho jaanti hai, woh ek mud-cat aur shad machhli ke beech farq nahi bata sakti. Ek young couple ke yahan paada hua shaitan jald hi unke dwara ek shaitan ke roop mein measurable roop se recognizable hota hai, lekin ek old couple dwara adopt kiya gya shaitan unke liye ek angel hota hai, aur har haalat mein (through thick and thin) waisa hi rehta hai. Tom is purane mard ka angel hai; woh uske prati andhe pyaar mein hain. Tom unhein un cheezon ke liye samjha (persuade) sakta hai jise doosre log nahi kar sakte—saari cheezon ke liye nahi; mera woh matlab nahi hai, lekin ek achhi khase dher ke liye—khhasakar ek class ki cheezon ke liye: aishi cheezein jo purane mard ke mind mein personal paksh-bhav ya paksh-paat (partialities or prejudices) create ya abolish karti hain. Purane mard aap dono ko pasand karte the. Tom ne aapke prati ek nafrat paali. Utna paryapt tha; usne purane mard ko ek hi baar mein ghumma diya. Sabse purane aur sabse strong friendship ko jameen par girna padta hai jab in der se adopt kiye gaye darlings mein se ek ispar eent (brick) phenkta hai.”
+
+“Yeh ek curious philosophy (ajeeb darshan) hai,” Luigi ne kaha.
+
+“Yeh bilkul koi philosophy nahi hai—yeh ek fact hai. Aur is baare mein kuch pathetic (taras-yogya) aur beautiful bhi hai, dono. Main sochta hoon isse zyaada pathetic kuch nahi hai ki in poor purane childless couples ko yelping (bhaunknte) chote bekar dogs ke ek menagerie (chizghar) ko apne dilon se lagate dekha jaye; aur phir ismein kuch gaali dete aur cheenkkhte parrots (tote) aur ek gadhe-jaise-awaaz wale macaw ko add karte dekha jaye; aur next do sau cheenkkhte gane-wale-birds, aur jaldi hi kuch badbu-dar guinea-pigs aur rabbits, aur cats ki ek howling colony. Yeh sab base metal aur brass filings se, kehna ka matlab hai, Nature dwara unhein mana kiye gaye us golden treasure—ek bacha—ki jagah lene ke liye kuch construct karne ka ek tatolna aur ignorant prayas (groping and ignorant effort) hai. Lekin yeh ek bhatkaav (digression) hai. Is kshetra ka unwritten law (gair-likhit kanoon) aapko Judge Driscoll ko dekhte hi maarne (kill on sight) ke liye required karta hai, aur woh aur community aapke haathon us attention ki expect karenge—halanki o' course unqi bullet se aapki apni maut har maqsad ka javab degi. Unke liye chaukann (Look out) rahein! Kya aap heeled hain—yaani, fixed (hathiyar ke sath taiyar) hain?”
+
+“Haan, unhein unka opportunity milega. Agar woh mujh par attack karte hain toh main response dunga.”
+
+Jaise hi Wilson nikal rahe the, unhone kaha—
+
+“Judge apne campaign work ke kaaran abhi bhi thode nidhaal (used up) hain, aur ek-do din tak baahar nahi nikalenge; lekin jab woh baahar nikalte hain, toh aap alert rehna chahenge.”
+
+Raat ke lagbhag gyaarah baje twins exercise ke liye baahar nikle, aur dhundhli moonlight (veiled moonlight) mein ek lambi saer (stroll) par chal pade.
+
+Tom Driscoll theek lagbhag aadhe ghante pehle Dawson's se do mile neeche, Hackett’s Store par land hue the, us sunsan jagah (lonely spot) ke akela passenger, aur shore road (kinare ki sarak) par chalte hue aaye the aur bina sarak par ya chhat ke neeche kisi se takraye Judge Driscoll ke ghar mein enter hue the.
+
+Usne apne window-blinds neeche khinche aur apni candle jalai. Usne apna coat aur hat utara aur apni preparations shuru kin. Usne apna trunk unlock kiya aur male kapdo ke neeche se girl’s clothes ka apna suit baahar nikaala, aur use ek taraf rakkha. Phir usne jale hue cork (burnt cork) se apna face black kiya aur cork ko apni pocket mein rakh liya. Uska plan tha, secretly neeche unke uncle ke private sitting-room mein slip hona, bedroom mein jaana, purane gentleman ke kapdo se safe-key (tijori ki chaabi) churana, aur phir wapas jaakar safe ko lootna. Usne shuru karne ke liye apni candle uthai. Uska sahas aur confidence (confidence high) is point tak ooncha tha, lekin ab dono thoda waver (dagmagane) lage. Assume kijiye usse kisi accident se koi noise ho jaye, aur woh pakda jaye—maan lijiye safe open karne ke act mein? Shayad hathiyar ke sath jaana (go armed) behtar hoga. Usne chhupane ki jagah se Indian knife nikaala, aur apne bhatakte sahas ki ek pleasant wapsi feel ki. Woh secretly narrow stair (tang seedhi) se neeche slip hua, halki si chheenkh (creak) par uske baal uthte aur pulse rukti thin. Jab woh aadhe raaste neeche tha, toh yeh perceive karke pareshan hua ki neeche wale landing par roshni ki ek halki chamak (faint glow of light) padi hai. Iska matlab kya ho sakta tha? Kya unke uncle abhi tak jaag rahe the? Nahi, woh possible nahi tha; jab woh bed par gaye honge toh unhone apna night-taper (raat ka dipak) wahin chhod diya hoga. Tom neeche crept karta raha, sunne ke liye har step par rukta hua. Usne door ko open khada paaya, aur andar glance kiya. Jo usne dekha usne use hadd se pare khush (pleased beyond measure) kar diya. Unke uncle sofa par so rahe the; sofa ke head par ek choti table par ek lamp low jal raha tha, aur uske paas old man ki choti tin ki cash-box close khadi thin. Box ke paas bank-notes ka ek dher tha aur pencil se figures se dhaka paper ka ek piece. Safe-door open nahi tha. Saaf taur par sone wala apni finances ke kaam se khud ko thak chuka tha, aur ek rest le raha tha.
+
+Tom ne apni candle stairs par rakh di, aur neeche jhukte hue notes ke dher ki taraf apna raasta banana shuru kiya. Jab woh apne uncle ke paas se guzar raha tha, toh purane mard apni neend mein thoda hile (stirred), aur Tom instantly ruk gya—ruka, aur softly miyan se knife baahar nikaala, dhab-dhab karte dil (heart thumping) ke sath, aur apni aankhein apne upkaari (benefactor) ke face par fix rakhte hue. Ek-do moment ke baad usne dobara aige badhne ka sahas kiya—one step—apne prize ke liye reach kiya aur ise pakad (seized) liya, knife-sheath (miyan) ko neeche girate hue. Phir usne apne upar old man ki strong grip feel ki, aur “Help! help!” ki ek wild shriek unke kaan mein goonji. Bina kisi hichkichahat ke usne knife ko andar jhonk diya (driven the knife home)—aur free tha. Kuch notes uske left hand se nikal gaye aur floor par blood mein gir gaye. Usne knife chhoda aur unhein snatch up kiya aur bhaagne laga; unhein apne left hand mein transfer kiya, aur apne darr aur confusion mein knife dobara pakad liya, lekin khud ko yaad kiya (remembered himself) aur ise apne se door phenk (flung) diya, kyunki sath carry karne ke liye yeh ek khatarnak gawah (dangerous witness) tha.
+
+Whon stair-foot ke liye jump kiya, aur apne piche door close kar diya; aur jaise hi usne apni candle snatchee ki aur upar bhaaga, raat ki khamoshi ghar ke paas aate urgent kadmon ki awaaz se toot gayi. Agle hi moment mein woh apne room mein tha aur twins murdered mard ki body ke upar hairat-mein (aghast) khade the!
+
+Tom ne apna coat pehna, uske neeche apna hat button kiya, girl’s clothes ka apna suit upar se phenka, veil drop kiya, apni light bujhai (blew out), us room ke door ko lock kiya jisse usne abhi enter kiya tha, key lekar, piche ke hall mein apne doosre door se guzar gya, us door ko lock kiya aur key rakkhi, phir andhere mein apna raasta banaya aur back stairs se neeche utar gya. Woh kisi se milne ki expect nahi kar raha tha, kyunki saara interest ab ghar ke doosre hisse mein centered tha; uska calculation correct prove hua. Jab tak woh back-yard se guzar raha tha, Mrs. Pratt, unke servants, aur ek dozen aadhe-kapde pehne neighbors twins aur dead ke sath join ho chuke the, aur samne wale door par abhi bhi aane wale (accessions) arrive ho rahe the.
+
+Jaise hi Tom, aise kaanpte hue jaise laqwa (palsy) maar gya ho, gate se baahar nikla, teen auratein lane ke opposite side wale ghar se udti hui aayin. Woh uske paas se jhatke se guzrin aur gate ke andar gayin, usse poochti hui ki wahan kya trouble hai, lekin javab ka wait nahi kiya. Tom ne apne aap se kaha, “Un purani kunwariyon ne kapde pehan'ne ka wait kiya—unhone same cheez ki thi us raat jab agle door Stevens ka ghar jal gya tha.” Kuch hi minutes mein woh ha'nted house mein tha. Usne ek candle jalai aur girl-clothes utar diye. Uske left side mein poore neeche blood tha, aur uska right hand blood-soaked notes ke daagon se laal tha jinhein usne ismein crush kiya tha; lekin otherwise woh is tarah ke evidence se free tha. Usne straw (phoos) par apna haath saaf kiya, aur apne face se zyaada tar kaalikh (smut) saaf ki. Phir usne apne male aur female kapdo ko raakh (ashes) mein jala diya, raakh ko bikhair diya, aur ek tramp (awaara) ke mutabik sahi disguise pehan liya. Usne apni light bujhai, neeche gaya, aur jaldi hi Roxy ke tareeqon mein se ek ko udhaar lene aur use karne ke intent se river road par loafing (ghoomne) laga. Usne ek canoe paayi aur tair kar down-stream nikal gya, bhor aane par canoe to adrift set kar diya, aur jameen ke raaste agle village tak apna raasta banaya, jahan ek transient steamer ke aane tak woh nazar se door raha, aur phir St. Louis ke liye deck passage liya. Jab tak Dawson’s Landing uske piche nahi chala gya woh ashant (ill at ease) tha; phir usne apne aap se kaha, “Dharti ka koi bhi detective ab mujhe trace nahi kar sakta; world mein clues ka ek ansh (vestige) bhi nahi bacha hai; woh homicide permanent mysteries ke beech apni jagah lega, aur log fifty saal tak iske secret ko guess karne ki koshish khatam nahi kar sakenge.”
+
+St. Louis mein, agli subah, usne papers mein Dawson’s Landing ki date wala yeh brief telegram padha—
+
+> _Judge Driscoll, ek purane aur respected citizen, ki aaj midnight ke aas-paas yahan ek aashiq Italian nobleman ya barber dwara haal hi ke election se paada hue ek jhhagde ke kaaran hatya [assassinated] kar di gayi. Assassin ko probably lynch kiya jayenge._
+
+“Twins mein se ek!” Tom ne soliloquized (apne aap se baat ki); “kitna lucky! Yeh knife hi hai jisne uspar yeh kripa (grace) ki hai. Hum kabhi nahi jaante kismat kab hamare favor mein koshish kar rahi hoti hai. Maine sach mein apne dil mein Pudd’nhead Wilson ko shraap kiya tha us knife ko bechne ki meri power se baahar karne ke liye. Main ise ab wapas leta hoon.”
+
+Tom ab rich aur independent the. Usne planter ke sath arrange kiya, aur Wilson ko mail mein naya bill of sale bheja jo Roxana ko uski hi self ko bechta tha; phir usne apni Aunt Pratt ko telegraph kiya:
+
+> _Papers mein awful news dekhi hai aur dukh se lagbhag nidhaal [prostrated] hoon. Aaj hi packet se start karunga. Mere aane tak bear up karne ki koshish karein._
+
+Jab Wilson shok ke ghar (house of mourning) pahunche aur unhone aishi details ikhatha kin jise Mrs. Pratt aur baki ki bheed unhein bata sakti thi, unhone mayor ke roop mein command li, aur orders diye ki kisi cheez ko chhua nahi jana chahiye, balki sab kuch waisa hi chhod diya jaye jaisa yeh tha jab tak Justice Robinson arrive na hon aur coroner (shav-parikshak) ke roop mein sahi kadam na uthaein. Unhone twins aur khud ke alava room se har kisi ko clear kar diya. Sheriff jaldi arrived hua aur twins ko jail lekar chala gya. Wilson ne unse himmat rakhne (keep heart) ko kaha, aur jab case trial par aayega toh unke defense mein apna sabse behtar karne ka vaada kiya. Justice Robinson jaldi hi aaye, aur unke sath Constable Blake. Unhone room ko thoroughly examined kiya. Unhone knife aur miyan (sheath) paa liye. Wilson ne notice kiya ki knife-handle par finger-prints the. Usne unhein khush kiya, kyunki twins ne sabse pehle aane walon se apne haathon aur kapdo ki jaanch (scrutiny) karne ke liye required kiya tha, aur na toh in logon ne aur na hi khud Wilson ne unpar koi blood-stains paaye the. Kya aishi koi possibility ho sakti thi ki twins ne truth bola tha jab unhone kaha ki unhone mard ko dead paaya jab woh help ki shriek ke response mein ghar mein bhaage the? Unhone immediately us rahasyamai girl ke baare mein socha. Lekin yeh kisi girl ke engaged hone jaisa kaam nahi tha. Koi baat nahi; Tom Driscoll ka room examined hona chahiye.
+
+Coroner’s jury dwara body aur iske aas-paas ka moolyankan karne ke baad, Wilson ne upstairs ek search ka sujhav diya, aur woh sath gaye. Jury ne Tom ke room mein ek zabardasti entrance kiya, lekin o' course kuch nahi paaya.
+
+Coroner’s jury ne paaya ki homicide Luigi dwara committed kiya gya tha, aur Angelo ismein accessory (sahayaki) the.
+
+Town un badkismaton (unfortunates) ke khilaf karrwa tha, aur murder ke baad shuruati kuch hafton tak woh constant lynch kiye jaane ke danger mein the. Grand jury ne jaldi hi Luigi par murder in first degree ka dosh lagaya (indicted), aur Angelo par ghaatna se pehle sahayaki (accessory before the fact) hone ka. Twins ko city jail se county prison transfer kiya gya trial ka wait karne ke liye.
+
+Wilson ne knife-handle par sthit finger-marks ko jaanch kiya aur apne aap se kaha, “Twins mein se kisi ne woh marks nahi banaye hain.” Tab saaf taur par ek doosra person concerned tha, chahe apne khud ke interest mein ya ek hired assassin (bhaade ke khuni) ke roop mein.
+
+Lekin woh kaun ho sakta tha? Wahi, unhein dhoondhne ki koshish karni chahiye. Safe open nahi tha, cash-box close thi, aur ismein teen hazar dollars (three thousand dollars) the. Tab robbery motive nahi tha, aur revenge (badla) tha. Murdered mard ka Luigi ke alava kahan koi enemy tha? World mein sirf wahi ek person tha jiske paas unke khilaf ek gehra grudge (gussa) tha.
+
+Rahasyamai girl! Woh girl Wilson ke liye ek bada trial thin. Agar motive robbery hota, toh girl kaam karti; lekin aishi koi girl nahi thi jo revenge ke liye is old man ki life lena chahegi. Unka girls ke sath koi jhhagda nahi tha; woh ek gentleman the.
+
+Wilson ke paas knife-handle ke finger-marks ke perfect tracings the; aur apne glass-records ke beech unke paas women aur girls ke finger-prints ka ek bada dher thha, jo pichele fifteen ya eighteen saal ke dauran ikhatha kiya gya tha, lekin unhone unmein be-fayda (scanned in vain) dekha, unhone successfully har ek test ka samna kiya; unmein knife par sthit prints ka koi duplicate nahi tha.
+
+Murder ke stage par knife ki maujoodgi Wilson ke liye ek pareshan karne wala circumstance tha. Ek hafte pehle unhone khud se lagbhag sweekar kiya tha unka vishwas tha Luigi ke paas aisa knife tha, aur yeh abhi bhi uske paas tha is dikhave ke bavajood ki yeh chura gya hai. Aur ab yahan knife tha, aur iske sath twins. Aadhe shehar ne kaha tha twins humbugging (dhokha) kar rahe the jab unhone claim kiya tha unhone apna knife khho diya hai, aur ab yeh log khush the, aur keh rahe the, “Maine tumhein bataya tha!”
+
+Agar unke finger-prints handle par hote—lekin is baare mein mazeed pareshan hona be-fayda tha; handle par sthit finger-prints unke nahi the—yeh woh perfectly alright jaante the.
+
+Wilson ne Tom par shak karne se refuse kar diya; kyunki pehli baat, Tom kisi ka murder nahi kar sakta tha—uske paas itna character hi nahi tha; doosri baat, agar woh kisi ka murder kar sakta toh woh apne andhe upkaari (doting benefactor) aur sabse paas ke relative ko nahi chunta; teesri baat, self-interest raaste mein tha; kyunki jab tak uncle zinda the, Tom ek free support aur tooti hui vasiyat ko dobara jinda karne ke chance ke baare mein sure tha, lekin uncle ke jaane ke sath, woh chance bhi chala gya tha. Yeh sach tha vasiyat sach mein jinda ki gayi thi, jaisa ab discover hua tha, lekin Tom is baare mein aware nahi ho sakta tha, ya woh apne janmjaat bolne wale, gair-secrective tareeqe (talky, unsecretive way) se is baare mein bol chuka hota. Finally, Tom St. Louis mein tha jab murder hua tha, aur subah ke journals se news haasil ki thi, jaisa unki aunt ko bheje gaye unke telegram se dikhaya gya tha. Yeh tarks un-emphasized ehsaas the bajaye saaf vicharon ke, kyunki Wilson Tom ko seriously murder ke sath connect karne ke idea par hanse hote.
+
+Wilson twins ke case ko desperate maante the—in fact, lagbhag hopeless. Kyunki unhone tark diya ki agar koi saathi (confederate) nahi mila, toh ek samajhdaar Missouri jury unhein nishchitta se phansi (hang them, sure) de degi; agar koi confederate mila, toh usse mamla behtar nahi hoga, balki simply sheriff ke liye phansi dene ke liye ek aur person pradan karega. Twins ko kuch nahi bacha sakta tha siwaye ek aise person ki khoj ke jisne murder apne akela personal account par kiya ho—ek aisa prayas jisme impossible hone ka saarra roop tha. Phir bhi, jis person ne finger-prints banaye hain use dhoondhna hi hoga. Twins ka uske sath koi case na ho, lekin uske bina toh nishchitta se unka koi case nahi hoga.
+
+So Wilson chaaron taraf ghoomte (mooned around) rahe, sochte, sochta, guess karte, guess karte hue, din aur raat, aur kahin nahi pahunche. Jab bhi woh kisi aishi girl ya woman se takrate jisse woh parichit nahi the, toh woh kisi na kisi bahane se unke finger-prints le lete; aur jab woh ghar pahunche toh unhein hamesha ek aah ki keemat lagti, kyunki woh kabhi knife-handle ke finger-marks se mel nahi khate (never tallied) the.
+
+Jahan tak rahasyamai girl ka sawaal hai, Tom ne kasam khai woh aishi kisi girl ko nahi jaanta, aur use kabhi aishi dress pehne girl dekhne ka yaad nahi jaisa Wilson dwara describe kiya gya tha. Usne sweekar kiya ki woh hamesha apna room lock nahi karta tha, aur kabhi-kabhi servants ghar ke doors lock karna bhool jaate the; phir bhi, unqi raai mein girl ne sirf kam visits kiye honge ya woh discover ho chuki hoti. Jab Wilson ne use stealing-raid ke sath connect karne ki koshish ki, aur socha woh purani aurat ki confederate ho sakti hai, agar ek purani aurat ke bhes mein khud chor na ho, toh Tom phasa hua dikha, aur sath hi bahut zyaada interested bhi, aur usne kaha woh is person ya persons par ek sharp eye rakkhega, halanki woh darta tha ki woh ya woh log ek aise town mein dobara venture karne ke liye zyaada hi smart honge jahan har koi ab aane wale ek acche samay tak watch par rahega.
+
+Har koi Tom par taras (pitying) kha raha tha, woh itna shant aur sorrowful dikhta tha, aur lagta tha apne is bade loss ko itni gehrai se feel kar raha hai. Woh ek part play kar raha था, lekin yeh poori tarah ek part nahi tha. Uske alleged uncle ki picture, jaisa usne unhein aakhiri baar dekha tha, andhere mein kaafi niyamit roop se uske samne hoti thin, jab woh jaag raha hota, aur uske dreams mein dobara pukaarti thin, jab woh so raha hota. Woh us room mein nahi jata tha jahan tragedy sthit hui thi. Isne doting Mrs. Pratt ko charmed kiya, jinhone ab realize kiya, “jaisa unhone pehle kabhi nahi kiya tha,” unhone kaha, unke darling ka kaisa ek sensitive aur delicate nature hai, aur woh apne poor uncle ko kitna adore karta tha.
+
+---
+
+# Chapter XX — The Murderer Chuckles
+
+### _(Hatyara Chhupkar Hansta Hai)_
+
+---
+
+> _Even the clearest and most perfect circumstantial evidence is likely to be at fault, after all, and therefore ought to be received with great caution. Take the case of any pencil, sharpened by any woman: if you have witnesses, you will find she did it with a knife; but if you take simply the aspect of the pencil, you will say she did it with her teeth.—Pudd’nhead Wilson’s Calendar._
+> _(Yahan tak ki sabse saaf aur sabse perfect paristhitijanya saboot [circumstantial evidence] ke bhi aakhirkar galat hone ki sambhavna hoti hai, aur isliye ise bahut saavdhani se sweekar kiya jana chahiye. Kisi bhi aurat dwara sharp ki gayi kisi pencil ka case lijiye: agar aapke paas gawah hain, toh aap payenge ki usne aisa knife se kiya tha; lekin agar aap simply pencil ke roop ko dekhein, toh aap kahenge ki usne aisa apne teeth se kiya tha.)_
+
+---
+
+Hafte beet-te gaye, jail mein band twins se milne unke kanooni salahkar (counsel) aur Aunt Patsy Cooper ke alava koi dost nahi aaya, aur aakhirkar trial (mukadme) ka din aa hi gya—Wilson ki life ka sabse bhaari din (heavest day); kyunki apni saari thak-heen lagan (tireless diligence) ke bavajood unhein ghaayab saathi (missing confederate) ka koi sign ya nishaal nahi mila tha. “Confederate” (saathi) woh sabd tha jise unhone bahut samay pehle personally sweekar kar liya tha us person ke liye—is roop mein nahi ki yeh nishchitta se sahi sabd tha, balki kam se kam possibly sahi hone ke roop mein, halanki woh kabhi yeh samajhne kabil nahi the ki twins murdered mard ke paas ruk kar wahan pakde jaane ke bajaye, us confederate ki tarah vanished aur bhaag kyun nahi gaye.
+
+Court-house mein bhed (crowded) thi, beshak, aur ant tak aishi hi rehni thi, kyunki na keval shehar mein balki chaaron taraf miloon tak ke dehat mein, logon ke beech trial hi baatcheet ka akela topic tha. Mrs. Pratt, gehre shok (deep mourning) mein, aur Tom apne hat par shok ki patti (weed) baandhe, public prosecutor (sarkari vakil) Pembroke Howard ke paas seats par the, aur unke piche family ke doston ka ek bada dher baitha tha. Twins ke paas unke counsel ka hausla badhane (keep in countenance) ke liye wahan sirf ek dost present thi, unqi poor purani dukh-bhari landlady (makaan-maalkin). Woh Wilson ke paas baithi thin, aur sabse mazeed dostana dikh rahi thin. “Nigger corner” (negroes ke kone) mein Chambers baitha tha; sath hi Roxy bhi, acche kapde pehne, aur apni bill of sale (bree-patra) apni pocket mein rakkhe. Yeh unqi sabse keemti virasat (precious possession) thi, aur woh raat ya din isse kabhi alag nahi hoti thin.
+
+Tom jab se apni property mein aaya tha unhein thirty-five dollars a month allowed kar raha tha, aur usne kaha tha ki unhein aur use twins ka aabhari hona chahiye unhein rich banane ke liye; lekin usne is speech se unmein aisa gussa (temper) jagaya tha ki usne baad mein us tark ko dobara nahi dohraya. Unhone kaha ki purane Judge ne unke bacha ke sath usse hazar guna behtar treat kiya tha jiske woh layak tha, aur unqi life mein unhone kabhi unse koi na-dayalu-pan (unkindness) nahi kiya tha; so woh unhein maarne ke liye in videshi shaitano (outlandish devils) se nafrat karti thin, aur jab tak unhein iske liye phansi par latakte (hanged) nahi dekh letin tab tak kabhi shanti se nahi soyengi. Woh ab yahan trial ko watch karne thin, aur agar County Judge unhein iske liye ek saal jail mein daal dete tab bhi woh ispar just ek "hooraw" (khushi ki shriek) uthane wali thin. Unhone apne checkered head ko ek jhatka (toss) diya aur kaha, “Jab woh verdic’ (faisala) aayega, main us roof ko utha doongi, abhi main tumhein batati hoon.”
+
+Pembroke Howard ne briefly State ke case ka sketch nikaala. Unhone kaha ki woh paristhitijanya sabooton ki ek aishi chain (chain of circumstantial evidence) dikhayenge jisme kahin koi break ya galti nahi hogi, ki bar (katghare) mein sthit mukhya qaidar (principal prisoner) ne murder committed kiya; ki motive aashik roop se revenge tha, aur aashik roop se apni khud ki life ko khatre (jeopardy) se baahar nikaalne ki desire, aur yeh ki uska bhai apni presence se us crime mein ek sahamat sahayaki (consenting accessory) tha; ek aisa crime jo insani apmaanon ke calendar mein sabse ghatiya jana jata hai—hatya (assassination); ki yeh sabse kaale dil (blackest of hearts) dwara conceived kiya gya tha aur sabse darpok haand (cowardliest of hands) dwara consummated kiya gya; ek aisa crime jisne ek loving sister ka dil tod diya, ek young nephew ki khushiyon ko bhi-nasht (blighted) kar diya jo ek son jitna pyaara tha, kai doston ke liye taras-heen dukh (inconsolable grief) laya, aur poori community ke liye shok aur loss. Apmaanit kanoon ki sabse oonchi penalty (saaza) ki mang ki jayenge, aur accused par, jo abhi katghare mein present hain, woh penalty nishchitta se execute ki jayenge. Woh apni aakhiri speech (closing speech) tak mazeed tippani surakshit rakkhenge.
+
+Woh gehrai se prerit (strongly moved) the, aur waisa hi poora house bhi tha; Mrs. Pratt aur kai doosri auratein ro rahi thin jab woh baithe, aur nafrat se bhari har ek eye un badkismat qaidiyon par tiki thi.
+
+State dwara gawah ke baad gawah (witness after witness) ko bulaya gya, aur lambi jaanch ki gayi; lekin cross-questioning (vipakshi jeraah) brief thi. Wilson jaante the woh unqi side ke liye kuch keemti pradan nahi kar sakte. Log Pudd’nhead ke liye sorry the; unke badhte career (budding career) ko is trial se chot pahunchegi.
+
+Kai gawahoon ne kasam khai unhone Judge Driscoll ko apni public speech mein kehte suna tha ki twins apna khoya hua knife dobara dhoondhne kabil honge jab unhein isse kisi ka assassination karne ki zarurat hogi. Yeh news nahi thi, lekin ab ise dukh-dayak roop se prophetic (bhavishya-suchak) dekha gya, aur jab un niraashajanak lafzon (dismal words) ko dohraya gya toh shant court-room ke beech se ek gehra ehsaas (profound sensation) kaanp utha.
+
+Public prosecutor uthe aur unhone kaha ki yeh unki jankari mein tha, Judge Driscoll ke sath unqi life ke aakhiri din hui ek baatcheet ke zariye, ki defense ke counsel unke paas is katghare mein murder ke aarop sthit person se ek challenge lekar aaye the; ki unhone ek sweekar kiye khuni se fight karne se refuse kar diya tha—“yaani samman ke field par,” lekin mahatva-purna dhang se add kiya tha, ki woh unke liye kahin aur ready honge. Presumably yahan murder ke aarop sthit person ko warn kiya gya tha ki jab woh pehli baar Judge Driscoll se milega toh use maarna hoga ya khud maarna hoga. Agar defense ke counsel statement ko aise hi rehne dena chahien, toh woh unhein witness stand par nahi bulayenge. Mr. Wilson ne kaha woh koi denial (inkar) offer nahi karenge. [House mein goonj—“Wilson ke case ke liye yeh mazeed se mazeed badtar hota ja raha hai.”]
+
+Mrs. Pratt ne gvahi (testified) di ki unhone koi chillaahat (outcry) nahi suni, aur nahi jaanti thin unqi jaag kisne kholi, jab tak ki yeh samne wale door ke paas aate teez kadmon ki awaaz na ho. Woh uthin aur jaisi thin waisi hi hall mein bhaagin, aur samne ki stairs par udte kadmon ko suna aur phir unke peeche follow karte hue jab woh sitting-room ki taraf bhaagin. Wahan unhone accused ko apne murdered bhai ke upar khada paaya. [Yahan woh toot gayin aur rone lagin. Court mein sensation.] Dobara shuru karte hue unhone kaha, unke peeche enter karne wale mard Mr. Rogers aur Mr. Buckstone the.
+
+Wilson dwara cross-examine kiye jaane par, unhone kaha twins ne apni innocence (nirdoshta) proclaim ki thin; declare kiya tha ki woh ek walk le rahe the, aur help ki ek shriek ke response mein ghar ki taraf jaldi ki thi jo itni loud aur strong thi ki unhone ise kaafi doori par sun liya tha; ki unhone unse aur abhi zikr kiye gaye gentlemen se apne haathon aur kapdo ko jaanchne ke liye beg kiya tha—jo ki kiya gya, aur koi blood stains nahi mile.
+
+Rogers aur Buckstone se iski confirmatory evidence (pusti karne wale saboot) follow hue.
+
+Knife ka milna verify (satyapit) kiya gya, iska baareek roop se description dene wale aur ispar reward offer karne wale advertisement ko evidence mein rakkha gya, aur us description ke sath iska exact mel prove hua. Phir kuch chote details follow hue, aur State ka case close ho gya.
+
+Wilson ne kaha unke paas teen witnesses hain, Misses Clarkson, jo gvahi dengi ki help ki shriek sune jaane ke kuch minutes baad unhone ek veil pehne young woman ko back gate se Judge Driscoll ke premises chhodte hue dekha tha, aur unqi evidence, kuch paristhitijanya sabooton ke sath jise woh court ke dhayan mein layenge, unqi raai mein court ko convince kar degi ki is crime mein abhi bhi ek person concerned hai jo abhi tak nahi mila hai, aur sath hi unke clients ke nyay mein, tab tak ke liye karvaai ko rokna (stay of proceedings) pradan kiya jana chahiye jab tak us person ko discover na kar liya jaye. Chunki der ho gayi thi, woh apni un teen gawahoon ki jaanch ko agli subah tak ke liye badhane (defer) ki permission mangenge.
+
+Bheed us jagah se baahar undeli aur utsaahit groups aur jodio mein baahar bhaagne lagi, session ke events par vivacity aur consumes interest ke sath baat karte hue, aur accused, unke counsel, aur unqi old-lady dost ke alava har koi ek satisfactory aur enjoyable din bita chuka lag raha tha. Inmein koi khushi nahi thi, aur na hi koi mukhya hope (substantial hope).
+
+Twins se alag hote waqt Aunt Patsy ne hope aur khushi ke ek chalu dikhave ke sath good-night karne ka prayas zoor kiya, lekin bina finish kiye toot gayin.
+
+Tom khud ko jitna perfectly alright secure assume karte the, trial ki shuruati gombhirtao (opening solemnities) ne phir bhi unhein ek aspasht be-chaini (vague uneasiness) se dba diya tha, unqi nature sabse choti alarms ke prati bhi sensitive hone ke kaaran; lekin us moment se jab Wilson ke case ka gareebi-pan aur weakness court ke samne expose ho gya, woh ek baar phir comfortable the, yahan tak ki ullasit (jubilant). Woh Wilson ke liye vyang-purna dhang se sorry (sarcastically sorry) hote hue court-room se nikle. “Clarksons back lane mein ek unknown woman se mile,” unhone apne aap se kaha—“vahi unka case hai! Main use dhoondhne ke liye ek century dunga—ek-do mazeed agar woh pasand karein. Ek aurat jo ab exist hi nahi karti, aur un kapdo ko jinhone use uska sex diya raakh mein jala kar phenk diya gya—oh, nishchhit roop se, woh use kafi aasaani se paa lega!” Is vichar ne unhein sauvi baar, un chatur chaturaiyon (shrewd ingenuities) ko admire karne par lagaya jisse unhone detection ke khilaf khud ko insure kiya tha—mazeed, yahan tak ki shak (suspicion) ke khilaf bhi.
+
+“Aise cases mein lagbhag hamesha koi chota detail ya doosra overlook ho jata hai, piche koi wee chota track ya nishaal chhod diya jata hai, aur detection follow hoti hai; lekin yahan ek nishaal ka sabse dhundhla sujhav (faintest suggestion of a trace) bhi nahi bacha hai. Usse zyaada nahi jitna ek bird chhodta hai jab woh hawa mein udta hai—haan, raat ke andhere mein, aap keh sakte hain. Jo mard andhere mein hawa ke beech ek bird ko track kar sake aur us bird ko dhoondh sake wahi mard mujhe track karne aur Judge ke assassin ko dhoondhne wala mard hai—kisi aur ko apply karne ki zarurat nahi hai. Aur wahi job poor Pudd’nhead Wilson ke sahare rakkhi gayi hai, world ke saarre logon mein se! Lord, use us aurat ke piche ghiste aur tatolte (grubbing and groping) dekhna pathetically funny hoga jo exist nahi karti, aur sahi person poore samay theek unqi nose ke neeche baitha hai!”
+
+Usne situation par jitna mazeed socha, iska mazaak (humor) use utna hi hit kiya. Finally usne kaha, “Main use us aurat ke baare mein kabhi sunna khatam nahi karne dunga. Jab bhi main use company mein pakadunga, uske marne ke din tak, main usse us guileless affectionate tareeqe se poochunga jo use tab itna pareshan (gravel) karta था jab main poochta tha ki unka abhi tak paada na hua law-business kaisa chal raha hai, ‘Uski track par pahunche abhi tak—hey, Pudd’nhead?’” Woh hasna chahta tha, lekin woh kaam nahi karta; aas-paas log the, aur woh apne uncle ke liye shok mana raha tha. Usne apna dimaag banaya ki raat ko Wilson ke yahan drop in karna aur unhein apne is be-asar law-case (barren law-case) par worry karte dekhna aur unhein kabhi-kabar sympathy aur dukh ke ek-do chidane wale lafzon (exasperating words) se goad (uksana) karna ek achha entertainment hoga.
+
+Wilson ko koi supper nahi chahiye tha, unhein koi appetite nahi thi. Unhone apne records ke collection se girls aur women ke saarre finger-prints baahar nikaale aur ek ghante ya usse zyaada samay tak unpar udaasi se doobe (pored gloomily) rahe, khud ko convince karne ki koshish karte hue ki us pareshandar girl ke marks kahin wahin hain aur overlook ho gaye hain. Lekin aisa nahi tha. Unhone apni chair peeche khinchi, apne haath apne head ke upar clasped kiye, aur khud ko dull aur andhere vicharon (arid musings) ke sahare chhod diya.
+
+Tom andhera hone ke ek ghante baad drop in hua, aur baithte hue ek pleasant hansi ke sath kaha—
+
+“Hello, hum raahat ke liye apne neglect aur obscurity ke dino ke amusements par wapas chale gaye hain, kya hum gaye hain?” aur usne glass strips mein se ek uthai aur ise jaanchne ke liye light ke khilaf hold kiya. “Chalo, cheer up, old man; apni grip khone aur is child's-play par wapas jaane ka koi use nahi hai kevel isliye kyunki yeh bada sunspot aapqi chamkli nayi disk ke paar drift kar raha hai. Yeh pass ho jayega, aur aap dobara alright ho jayenge,”—aur usne glass neeche rakh diya. “Kya aapne socha tha aap hamesha jeet sakte hain?”
+
+“Oh, nahi,” Wilson ne ek aah (sigh) ke sath kaha, “maine aishi expect nahi ki thi, lekin main vishwas nahi kar sakta Luigi ne aapke uncle ko maara, aur mujhe uske liye bahut sorry feel hota hai. Yeh mujhe blue (udaas) karta hai. Aur aap bhi waisa feel karte, Tom, agar aap in young bandon ke khilaf paksh-paat (prejudiced) na hote.”
+
+“Main us baare mein nahi jaanta,” aur Tom ka chehra andhera (darkened) ho gya, kyunki unqi memory unqi laath par wapas chali gayi thin; “main unke prati koi achhi bhavna (good will) ka karzdaar nahi hoon, us raat brunette waale ke mere sath kiye gaye treatment ko moolyankan karte hue. Prejudice ho ya na ho, Pudd’nhead, main unhein pasand nahi karta, aur jab unhein unka fal (deserts) milega aap mujhe rone walon ki bench (mourner's bench) par baitha nahi payenge.”
+
+Usne glass ki ek aur strip uthai, aur chilla utha—
+
+“Why, yahan purani Roxy ka label hai! Kya aap royal palaces ko nigger paw-marks (punjon ke nishaan) se bhi ornament karne ja rahe hain? Yahan sthit date ke mutabik, main seven months old tha jab yeh kiya gya tha, aur woh mujhe aur apne chote nigger cub (bache) ko nurse kar rahi thin. Unke thumb-print ke paar theek ek line hai. Yeh kaise aayi?” aur Tom ne glass ka piece Wilson ki taraf badha diya.
+
+“Yeh samanya (common) hai,” bored mard ne wearily kaha. “Aksar kisi cut ya scratch ka daag (scar)”—aur unhone indifferently glass ki strip li, aur ise lamp ki taraf uthaaya.
+
+Saara blood sudden unke face se neeche chala gya; unka haath kaanp utha (quaked), aur unhone apne samne sthit polished surface ki taraf ek shav ki glassy stare (glassy stare of a corpse) ke sath ghoora.
+
+“Great Heavens, aapko kya mamla hai, Wilson? Kya aap faint hone ja rahe hain?”
+
+Tom paani ke ek glass ke liye jump kiya aur ise offer kiya, lekin Wilson kaanpte hue unse piche sarke (shrank shuddering) aur kaha—
+
+“Nahi, nahi!—ise door le jao!” Unqi chaati uth aur gir rahi thi, aur unhone apne head ko ek dull aur bhatakte tareeqe se chaaron taraf move kiya, ek aise person ki tarah jo sunn (stuned) ho gya ho. Jaldi hi unhone kaha, “Main behtar feel karunga jab main bed par jaunga; main aaj zyaada hi khinch (overwrought) gya hoon; haan, aur kai dino se over-worked hoon.”
+
+“Then main aapko chhodta hoon aur aapko apne rest par jaane deta hoon. Good-night, old man.” Lekin jaise hi Tom baahar nikla woh ek choti parting gibe (tana) se khud ko mana nahi kar saka: “Ise itna hard mat lijiye; koi prani har baar nahi jeet sakta; aap kisi ko nishchitta se phansi par latkaenge (hang somebody yet).”
+
+Wilson apne aap se bhurbhuraye, “Yeh kehna koi jhooth nahi hai mujhe aapke sath shuruat karni pad rahi hai, bhale hi tum ek badkismat dog (miserable dog) ho!”
+
+Unhone thandey whisky ke ek glass se khud ko brace (mazboot) kiya, aur dobara kaam par lag gaye. Unhone Tom dwara kuch minutes pehle Roxy ke glass par anjaane mein chhode gaye naye finger-marks ko knife-handle par chhode gaye marks ke tracings ke sath compare nahi kiya, unki trained eye ke liye iski koi zarurat na hone ke kaaran, balki khud ko ek doosre mamle mein busy rakkha, samay-samay par bhurbhurate hue, “Kaisa idiot tha main!—Ek girl ke alava mujhe kuch nahi sujhwata tha—girl's clothes mein ek mard mere dimaag mein kabhi aaya hi nahi.” Pehle, unhone us plate ko hunt out kiya jisme Tom dwara twelve saal ki umra mein banaye gaye finger-prints the, aur ise alag rakkha; phir unhone Tom ki baby fingers dwara banaye gaye marks baahar nikaale jab woh seven months ka ek suckling (doodh-peeta bacha) tha, aur in dono plates ko is subject ke newly (aur unconsciously) banaye gaye record wali plate ke sath rakkha.
+
+“Ab series complete hai,” unhone satisfaction ke sath kaha, aur in cheezon ko jaanchne aur unka anand lene ke liye baith gaye.
+
+Lekin unka anand brief (chota) tha. Unhone ek achhe khase samay tak teen strips ki taraf ghoora, aur hairani se sunn (stupefied with astonishment) dikhe. Aakhirkar unhone unhein neeche rakkha aur kaha, “Main ise bilkul figure out nahi kar sakta—aafat aaye, baby ke marks doosron ke sath mel nahi khate (don't tally)!”
+
+Unhone apni is paheli (enigma) par puzzle karte hue aadhe ghante tak floor par walk ki, phir glass ki do doosri plates hunt out kin.
+
+Woh baith gaye aur ek acche khase samay tak in cheezon par puzzle karte rahe, lekin bhurbhurate rahe, “Yeh koi use nahi hai; main ise nahi samajh sakta. Woh right mel nahi khate, aur phir bhi main kasam khaunga names aur dates right hain, aur isliye o' course unhein tally hona chahiye. Maine apni life mein in cheezon mein se kisi par kabhi carelessly label nahi lagaya. Yahan ek sabse asadharn rahasya (most extraordinary mystery) majood hai.”
+
+Woh ab poori tarah thak chuke the, aur unka brain clog (shant) hona shuru ho raha tha. Usne kaha woh so kar khud ko fresh karenge, aur phir dekhenge woh is riddle (paheli) ke sath kya kar sakte hain. Unhone ek pareshan aur be-chain ghante tak neend li, phir behoshi ke chithde udne lage (unconsciousness began to shred away), aur jaldi hi woh unghate hue ek sitting posture mein uth khade hue.
+
+“Ab woh kaun sa dream tha?” unhone ise yaad karne ki koshish karte hue kaha; “woh kaun sa dream tha?—aisa laga jaise usne us puz—”
+
+Whon bina sentence finish kiye ek jhatke (bound) mein floor ke center mein land hue, aur bhaag kar apni light uthai aur apne “records” pakad liye. Unhone unpar ek single swift glance (teez jhalak) daali aur chilla uthe—
+
+“Yeh aisa hai! Heavens, kaisa khulasa (revelation)! Aur twenty-three saal se kisi mard ne ispar kabhi shak nahi kiya!”
+
+---
+
+# Chapter XXI — Doom
+
+### _(Faisalah)_
+
+---
+
+> _He is useless on top of the ground; he ought to be under it, inspiring the cabbages.—Pudd’nhead Wilson’s Calendar._
+> _(Woh jameen ke upar bekar hai; use iske neeche hona chahiye, patta-gobhiyon [cabbages] ko prerit karte hue.)_
+> _April 1. This is the day upon which we are reminded of what we are on the other three hundred and sixty-four.—Pudd’nhead Wilson’s Calendar._
+> _(April 1. Yeh woh din hai jis din hamein yaad dilaya jata hai ki hum baki ke teen sau chaunsath [364] dino mein kya hain.)_
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+Wilson ne business ke maqsad se paryapt (enough) kapde pehne aur bhaari dbaav (high pressure of steam) ke tehat kaam par lag gaye. Woh poori tarah jaag rahe the. Thakan ka saarra ehsaas us vishal aur hope-full khoj (discovery) ke tazgi-bhare refreshment dwara saaf ho gya tha jise unhone kiya tha. Unhone apne kai “records” ke fine aur sateek reproductions banaye, aur phir apne pantograph se unhein das-guna (ten to one) paimane par bada (enlarged) kiya. Unhone in pantograph enlargements ko white cardboard ki sheets par kiya, aur whorls ya curves ya loops ke us bhramit karne wale jaal ki har ek individual line ko, jo ek “record” ka pattern roop karti thin, ink se reinforce karke bold aur black roop mein baahar nikaala.
+
+Bina-abhyas-shuda eye (untrained eye) ke liye glass plates par insani ungli dwara banaye gaye delicate originals ka dher lagbhag ek jaisa lagta tha; lekin jab unhein das-guna bada kiya gya toh woh lakdi ke ek aise block ke markings jaise dikhte the jise aade kaata (sawed across the grain) gya ho, aur sabse mand eye (dullest eye) bhi ek jhalak mein, aur kai feet ki doori se, detect kar sakti thi ki koi bhi do patterns ek jaise nahi the. Jab Wilson ne aakhirkar apna yeh thaka dene wala aur difficult kaam khatam kiya, toh unhone iske results ko ek aishi yojana ke mutabik arrange kiya jisme ek badhta hua kram aur sequence (progressive order and sequence) mukhya feature tha; phir unhone us batch mein kai pantograph enlargements add kiye jinhein unhone pachele bite saalon mein samay-samay par banaya tha.
+
+Raat guzar chuki thi aur din kaafi aige badh gya tha, ab. Jab tak unhone breakfast ka ek chota sa hissa snatch (niptaya) kiya, nau baje ka samay ho gya tha, aur court apni sitting begin karne ke liye ready thi. Woh twelve minutes baad apne “records” ke sath apni jagah par the.
+
+Tom Driscoll ne records ki ek choti jhalak pakadi, aur apne paas ke dost ko kohni maari (nudged) aur ek wink (aankh maarne) ke sath kaha, “Pudd’nhead ke paas business ke liye ek rare eye hai—sochta hai ki jab tak woh apna case nahi jeet sakta, tab tak bina kisi expense ke apne palace-window decorations ko advertise karne ka yeh kam se kam ek umda achha chance hai.” Wilson ko inform kiya gya ki unke gawahoon ko der ho gayi hai, lekin jaldi arrive honge; lekin woh uthe aur unhone kaha ki unhein unqi gvahi (testimony) ka use karne ka shayad koi mauqa nahi milega. [Court-room mein ek manoranjit goonj rami—“Yeh poori tarah se backdown (piche hatna) hai! Woh bina ek lick maare haar maan raha hai!”]
+
+Wilson ne jaatri rakkha—“Mere paas doosri gvahi hai—aur behtar. [Isne interest ko majboor kiya, aur hairani ke un goonjoon ko jagaya jisme niraasha ka ek detectable ansh majood tha.] Agar main court par is evidence ko sudden phenkta hua (springing) lagta hoon, toh main iske liye apni justification ke roop mein prastut karta hoon ki maine kal raat der tak iske existence ko discover nahi kiya tha, aur tab se lekar aadhe ghante pehle tak iske jaanchne aur classify karne mein engaged raha hoon. Main ise jaldi hi offer karunga; lekin pehle main kuch shuruati sabd (preliminary words) kehna chahta hoon.
+
+“Court ko sweekar ho, jis claim ko sabse samne ka sthan diya gya hai, jis claim ko sabse draddhta se push kiya gya hai, jis claim par prosecution (abhiyojan) dwara sabse mazeed energy se aur main yahan tak ki aakramak aur chunauti-purna dhang se (aggressively and defiantly) insists kiya gya hai, woh yeh hai—ki jis person ke haath ne Indian knife ke handle par blood-stained finger-prints chhode hain, wahi woh person hai jise murder committed kiya hai.” Wilson ek moment tak ruke, jo kuch woh kehne wale the use prabhavshali (impressiveness) banane ke liye, aur phir shanti se add kiya, “Hum us claim ko sweekar (grant) karte hain.”
+
+Yeh ek electric surprise (bijli ka jhatka) tha. Aishi admission (sweekarokti) ke liye koi taiyar nahi tha. Har taraf hairani ka ek buzz utha, aur logon ko yeh sanket dete suna gya ki is over-worked lawyer ne apna mind kho diya hai. Yahan tak ki veteran judge bhi, jo criminal procedure mein kanooni jaalon (legal ambushes) ke aadi the, sure nahi the ki unke kaan unhein dhokha toh nahi de rahe, aur unhone counsel se poocha unhone kya kaha tha. Howard ke bhav-heen face (impassive face) ne koi sign zahir nahi kiya, lekin unke posture aur dhang ne ek moment ke liye bina-parwah wale aatmavishwas ka kuch hissa kho diya. Wilson ne dobara shuru kiya:
+
+“Hum na keval us claim ko sweekar karte hain, balki hum iska swagat karte hain aur ispar strongly endorse (samarthan) karte hain. Us mamle ko filhal ke liye chhodte hue, hum ab case ke doosre points par vichar karne ke liye badhenge jinhein hum evidence dwara establish karne ka prastav rakhte hain, aur us ek point ko chain mein uski sahi jagah par include karenge.”
+
+Unhone murder ke srot aur motive (origin and motive) ki apni theory ka map nikaalne ke liye kuch dharstata-bhare guesses (hardy guesses) try karne ka apna dimaag banaya tha—aishi guesses jinhein iske beech ke gaps ko bharne ke liye design kiya gya tha—aishi guesses jo hit hone par help kar saktin thin, aur hit na hone par probably koi nuksaan nahi pahuncheingie.
+
+“Meri raai mein, court ke samne case ke kuch circumstances homicide ke liye ek aisa motive suggest karte dikhte hain jo State dwara insists kiye gaye motive se poori tarah different hai. Mera yeh vichaar hai ki motive revenge nahi, balki robbery (chori) tha. Yeh push kiya gya hai ki us fatal room mein accused bhaion ki presence, theek us notification ke baad ki unmein se ek ko Judge Driscoll ki life leni hogi ya dono ke milne ke moment apni khoni hogi, saaf sanket karti hai ki aatm-samrakshan ki natural instinct (natural instinct of self-preservation) ne mere clients ko secretly wahan jaane aur Count Luigi ko uske virodhi ko nasht karke bachane par dhakela.
+
+“Then woh kaam khatam hone ke baad wahan kyun ruke? Mrs. Pratt ke paas, bhale hi unhone help ki shriek na suni ho lekin kuch moments baad jaagee thin, us room ki taraf bhaagne ka samay tha—aur wahan unhone in mardon ko khade paaya jo bach nikalne ka koi prayas nahi kar rahe the. Agar woh guilty the, toh unhein ghar se baahar us samay bhaagna chahiye tha jab woh us room ki taraf bhaag rahi thin. Agar unke paas aatm-samrakshan ki itni strong instinct thi jisne unhein us unarmed mard ko maarne par dhakela, toh ab use kya ho gya tha, jab use pehle se kahin zyaada alert hona chahiye tha? Kya hummein se koi wahan rukta? Hamein us darje tak apni intelligence ki ninda (slander) nahi karni chahiye.
+
+“Uss fact par bahut zyaada jor diya gya hai ki accused ne us knife ke liye bahut bada reward offer kiya tha jisse yeh murder kiya gya; ki us asadharn reward par claim karne koi chor samne nahi aaya; ki baad wala fact is baat ka achha paristhitijanya saboot (circumstantial evidence) tha ki knife churaaye jaane ka claim ek ghamand aur dhokha (vanity and a fraud) tha; ki in details ne mritak ke us knife ke baare mein yaadgar aur apparently prophetic speech ke sath connect hokar, aur us fatal room mein usi knife ke final discovery ne jahan slaughtered mard ke sath knife ke owner aur uske bhai ke alava koi zinda person present nahi paaya gya, evidence ki ek aishi na-tootne wali chain (indestructible chain of evidence) roop ki jo crime ko un badkismat strangers par fix karti hai.
+
+“Lekin main jaldi hi kasam khane ke liye poocha jaunga, aur gvahi dunga ki wahan chor ke liye bhi ek bada reward offer kiya gya tha; aur ise secretly offer kiya gya tha aur advertise nahi kiya gya tha; ki is fact ka gair-samajhdaari se zikr kiya gya tha—ya kam se kam tuchh roop se sweekar (tacitly admitted) kiya gya tha—un haalaton mein jinhein safe assume kiya gya tha, lekin shayad nahi the. Chor khud present raha ho sakta hai. [Tom Driscoll speaker ki taraf dekh raha tha, lekin is point par usne apni aankhein neeche gira (dropped his eyes) lin.] Us case mein woh knife ko apne kabze mein barkarar rakkhega, kisi pawn-shop mein ise sell ya pledge karne ke liye offer karne ki dharstata na karte hue. [Audience ke beech is sweekarokti ke roop mein heads ka ek hilaana hua ki yeh ek kharab stroke nahi tha.] Main jury ke satisfaction ke liye prove karunga ki accused ke enter karne se kai minutes pehle Judge Driscoll ke room mein ek person tha. [Isne ek strong sensation produce kiya; court-room mein aakhiri unghne wala head bhi ab jaag gya, aur sunne ki preparation ki.] Agar yeh zaroori lagega, toh main Misses Clarkson dwara prove karunga ki help ki shriek sune jaane ke kuch minutes baad woh ek veiled person—dikhne mein ek aurat—se mili thin jo back gate se baahar aa rahi thin. Yeh person aurat nahi, balki aurat ke kapdo mein dressed ek mard tha.” Ek aur sensation. Wilson ne jab is guess ka khatra uthaya (hazarded this guess) toh unqi eye Tom par thi, yeh dekhne ke liye ki isse kya asar produce hoga. Woh result se satisfied the, aur apne aap se kaha, “Yeh ek success tha—use hit laga hai!”
+
+“Uss house mein us person ka maqsad robbery tha, murder nahi. Yeh sach hai ki safe open nahi tha, lekin table par ek sadharan tin ki cash-box thi, jisme teen hazar dollars the. Yeh aasaani se supposable hai ki chor ghar mein chhupa tha; ki woh is box ke baare mein jaanta tha, aur raat ko iske contents ko count karne aur apne accounts arrange karne ki iska owner ki habit ke baare mein—agar unqi aishi habit thi, jiska main o' course dava nahi karta;—ki usne box lene ka prayas kiya jab iska owner so raha tha, lekin usse noise ho gya aur woh pakad liya gya, aur capture se khud ko bachane ke liye use knife ka use karna pada; aur yeh ki woh bina loot (booty) ke bhaag gya kyunki usne help ko aate suna.
+
+“Maine ab apni theory khatam kar li hai, aur un evidences ki taraf badhunga jisse main iski sound-ness (pukti) ko prove karne ka prastav rakhta hoon.” Wilson ne glass ki apni kai strips utha lin. Jab audience ne Pudd’nhead ke purane samay ke bachkani her-pher (puttering) aur bewakoofi ke in parichit mementoes (yaadgaro) ko recognize kiya, toh unke faces se tivra aur shok-bhara interest vanished ho gya, aur house raahat aur tazgi-bhari hansi ke jhonko (volleys of laughter) mein phat pada, aur Tom khush ho gya (chirked up) aur khud us fun mein join ho gya; lekin Wilson apparently disturb nahi hue the. Unhone table par apne records apne samne arrange kiye, aur kaha—
+
+“Main court ke indulgence ki mang karta hoon jabki main us evidence ke spashtikaran (explanation) mein kuch tippaniyan karta hoon jise main introduce karne wala hoon, aur jise main jaldi hi witness stand par kasam ke tehat verify karne ki izazat mangunga. Har ek insani prani apni cradle se lekar apni qabr tak apne sath kuch aishi physical marks carry karta hai jo apna character badalati nahi hain, aur jisse use hamesha identify kiya ja sakta hai—aur woh bina kisi shakk ya sawaal ke ghhonsh ke. Yeh marks uski signature hain, kehna ka matlab hai uska physiological autograph, aur is autograph ko counterfeit (nakli) nahi kiya ja sakta, aur na hi woh ise disguise kar sakta hai ya chhupa sakta hai, aur na hi yeh samay ke pehnaav aur badlavon (wear and mutations of time) se na-padhne yogya (illegible) ho sakta hai. Yeh signature uska face nahi hai—umra ise pehchan se pare badal sakti hai; yeh uske baal nahi hain, kyunki woh gir sakte hain; yeh uski height nahi hai, kyunki uske duplicates exist karte hain; yeh uska form nahi hai, kyunki uske duplicates bhi exist karte hain, jabki yeh signature har mard ka apna khud ka hai—swarming populations ke beech iska koi duplicate nahi hai! [Audience ek baar phir interested thi.]
+
+“Yeh autograph un delicate lines ya jhurriyon (corrugations) par consist hai jisse Nature haand ke andar ke hisson aur pairon ke soles (talvon) ko mark karti hai. Agar aap apni fingers ke balls ko dekhenge,—aap log jinki eyesight bahut sharp hai,—aap observe karenge ki yeh dainty curving lines ek doosre ke paas leti hain, theek un lines ki tarah jo maps mein oceans ke borders ko sanket karti hain, aur yeh tarah-tarah ke clearly defined patterns roop karti hain, jaise arches, circles, long curves, whorls, etc., aur yeh patterns different fingers par different hote hain. [Ghar mein har mard ka haath ab light ki taraf upar tha, aur uska head ek side jhuka tha, aur woh apni fingers ke balls ko baareek roop se jaanch (scrutinizing) raha tha; wahan bhurbhuraye chillane chal rahe the ‘Why, yeh aisa hai—maine pehle kabhi is baare mein notice nahi kiya!’] Right hand ke patterns left hand ke patterns jaise nahi hote. [‘Why, yeh bhi waisa hi hai!’ ke chillane.] Ungli se ungli ka moolyankan karein (Taken finger for finger), aapke patterns aapke neighbor se different hain. [Poore house mein comparisons kiye gaye—yahan tak ki judge aur jury bhi is curious kaam mein absorbed the.] Ek twin ke right hand ke patterns uske left wale jaise nahi hote. Ek twin ke patterns uske saathi-twin ke patterns jaise kabhi nahi hote—jury paegi ki accused ke finger-balls ke patterns is rule ko follow karte hain. [Twins ke haathon ki ek jaanch turant shuru hui.] Aapne aksar aise twins ke baare mein suna hai jo itne exactly alike the ki ek jaise kapde pehne hone par unke apne parents unmein farq nahi bata sakte the. Phir bhi is world mein aisa koi twin paada nahi hua jo birth se death tak is rahasyamai aur adbhut natal autograph (janmjaat autograph) mein ek pakka identifier carry na karta ho. Ek baar woh aapko jaan gya, uska saathi-twin uski jagah roop dhar (personate) kar aapko dhokha nahi de sakta.”
+
+Wilson ruke aur silent khade rahe. Jab ek speaker aisa karta hai toh bina-dhayan ka hona (inattention) ek jaldi aur pakki maut marta hai. Khamoshi warning deti hai ki kuch aane wala hai. Saari palms aur finger-balls ab neeche chali gayin, saare jhhuke hue forms seedhe ho gaye, saarre heads upar aaye, saari aankhein Wilson ke face par fix ho gayin. Unhone ek, do, teen mazeed moments tak wait kiya, apne pause ko complete aur house par iske spell (jaadu) ko perfect hone dene ke liye; phir, jab us gehre hush ke beech se woh deewar par clock ki ticking sun sakte the, unhone apna haath aige badhaya aur Indian knife ko blade se pakad kar upar laharaya (held it aloft) jahan har koi iske ivory handle par majood shaitani daagon (sinister spots) ko dekh sakta tha; phir unhone ek level aur passionless voice mein kaha—
+
+“Uss haft (handle) par assassin ka natal autograph khada hai, us helpless aur un-offending old man ke blood mein likha hua jo aapko pyaar karte the aur jise aap sab pyaar karte the. Poori earth par sirf ek hi mard hai jiska haath us crimson sign (laal nishaan) ka duplicate bana sakta hai,”—unhone pause kiya aur apni aankhein aige-piche jhhulte hue pendulum par uthayin,—“aur God ki kripa se hum us mard ko is room mein clock ke dopahar ke baarah bajane se pehle produce karenge!”
+
+Stunned, distraught (vyakul), apni khud ki movement se anjaan, house aadha uth khada hua, jaise door par murderer ke appear hone ki expect kar raha ho, aur bhurbhuraye chillane ka ek jhonka us jagah se guzar gya. “Court mein order!—baith jao!” Yeh sheriff ki taraf se tha. Unka palan (obeyed) kiya gya, aur shanti dobara raj karne lagi. Wilson ne Tom par ek glance churaai, aur apne aap se kaha, “Woh ab dukh ke signals (signals of distress) laharaye raha hai; yahan tak ki jo log usse ghrina karte hain woh uspar taras kha rahe hain; woh sochte hain ek aise young bande liye yeh ek hard ordeal (kadi pariksha) hai jisne ek itne krrwi stroke se apne upkaari ko kho diya—aur woh sahi hain.” Unhone apni speech jaatri rakkhi:
+
+“Twenty saal se mazeed tak maine is town mein in curious physical signatures ko ikhatha karne mein apni majboori ki aalsi suvidha (compulsory leisure) ka manoranjan kiya hai. Mere ghar par mere paas unke sainkado par sainkado hain. Har ek aur har ek par name aur date ke sath label laga hai; agle din ya agle ghante bhi label nahi lagaya gya, balki theek usi minute mein jab impression liya gya tha. Jab main witness stand par jaunga toh main kasam ke tehat un cheezon ko dohraunga jo main ab keh raha hoon. Mere paas court, sheriff, aur jury ke har ek member ke finger-prints hain. Is room mein mushkil se koi person hai, white ho ya black, jiska natal signature main produce nahi kar sakta, aur unmein se koi khud ko is tarah disguise nahi kar sakta ki main use uske saathi-praniyon ke ek vishal bhandar se baahar na nikaal sakoon aur uske haathon se sateekta se identify (unerringly identify) na kar sakoon. Aur agar woh aur main sau saal tak jiyein tab bhi main aisa kar sakunga. [Audience ka interest ab steadily gehra ho raha tha.]
+
+“Maine in signatures mein se kuch ka itna study kiya hai ki main unhein utni hi achhi tarah jaanta hoon jitna bank cashier apne sabse purane customer ke autograph ko jaanta hai. Jab main ab apni peeth ghumata hoon, main guzarish karta hoon ki kai persons itne acche honge ki apni fingers apne baalon se ghumayenge, aur phir unhein jury ke paas wali window ke panes mein se ek par press karenge, aur unke beech accused apne finger-marks set kar sakte hain. Sath hi, main guzarish karta hoon ki yeh experimenters, ya doosre, doosre pane par apne finger-marks set karenge, aur accused ke marks dobara add karenge, lekin unhein pehle ki tarah doosri signatures ke sath same order ya rishte mein na rakhte hue—kyunki, million mein ek chance se, koi person pure guess-work se ek baar sahi marks par aa sakta hai, isliye main do baar test kiya jana chahta hoon.”
+
+Unhone apni peeth ghumai, aur dono panes jaldi hi delicately-lined oval spots se dhak gaye, lekin kevel aise persons ke liye visible the jo unke liye ek dark background haasil kar sakein—baahar ek tree ki pattiya, for instance. Phir, pukaar par, Wilson window ke paas gaye, apni jaanch ki, aur kaha—
+
+“Yeh Count Luigi ka right hand hai; yeh ek, teen signatures neeche, uska left hai. Yahan Count Angelo ka right hai; yahan neeche uska left hai. Ab doosre pane ke liye: yahan aur yahan Count Luigi ke hain, yahan aur yahan uske bhai ke hain.” Woh chaaron taraf mude. “Kya main right hoon?”
+
+Aaplaud (taaliyon) ka ek behra karne wala explosion iska javab tha. Bench ne kaha—
+
+“Yeh nishchitta se chamatkar (miraculous) ke paas pahuncheta hai!”
+
+Wilson window ki taraf dobara mude aur apni finger se sanket karte hue tippani ki—
+
+“Yeh Mr. Justice Robinson ka signature hai. [Applause.] Yeh, Constable Blake ka. [Applause.] Yeh, John Mason, juryman ka. [Applause.] Yeh, sheriff ka. [Applause.] Main doosron ke naam nahi bata sakta, lekin mere paas ghar par unke sabhi ke naam aur dates hain, aur apne finger-print records dwara un sabhi ko identify kar sakta hoon.”
+
+Whon taaliyon ke ek toofaan ke beech se apni jagah par badhe—jise sheriff ne roka, aur logon ko baithne par majboor bhi kiya, kyunki woh o' course dekhne ke liye khade the aur struggle kar rahe the. Court, jury, sheriff, aur har koi Wilson ki performance ko observe karne mein itna absorbed tha ki audience par pehle dhyan nahi de saka.
+
+“Ab, den,” Wilson ne kaha, “mere paas yahan do bacchon ke natal autographs hain—pantograph dwara natural size se das guna bade kiye gaye, taaki jo koi bhi bilkul dekh sakta ho woh ek jhalak mein markings ke farq ko bata sake. Hum bacchon ko A aur B pukaarenge. Yahan A ke finger-marks hain, five months ki umra mein liye gaye. Yahan woh dobara hain, seven months par liye gaye. [Tom jhatka khaya.] Woh ek jaise hain, aap dekhte hain. Yahan B ke hain five months par, aur seven months par bhi. Woh bhi exactly ek doosre ko copy karte hain, lekin patterns A se kaafi different hain, aap observe karte hain. Main inpar jaldi hi dobara reference dunga, lekin hum unka face abhi neeche turned kar denge.
+
+“Yahan, das size bade kiye gaye, un do persons ke natal autographs hain jo Judge Driscoll ka murder karne ke aarop mein aapke samne yahan hain. Maine kal raat in pantograph copies ko banaya tha, aur jab witness stand par jaunga toh aishi kasam khaunga. Main jury se window panes par accused ke finger-marks sath inhein compare karne ke liye kehta hoon, aur court ko batane ke liye kya woh same hain.”
+
+Unhone foreman ke sahare ek powerful magnifying-glass (bada chashma) badha diya.
+
+Ek ke baad ek juryman ne cardboard aur glass liya aur comparison kiya. Phir foreman ne judge se kaha—
+
+“Your honor, hum sab sahmat (agreed) hain ki woh identical (ek jaise) hain.”
+
+Wilson ne foreman se kaha—
+
+“Please us cardboard ka face neeche turned kar dijiye, aur ise lijiye, aur magnifier dwara knife-handle par sthit fatal signature ke sath iski khoj-purna jaanch (compare it searchingly) kijiye, aur apni finding court ko report kijiye.”
+
+Ek baar phir jury ne baareek jaanch (minute examinations) ki, aur ek baar phir report kiya—
+
+“Hum unhein exactly identical paate hain, your honor.”
+
+Wilson prosecution ke counsel ki taraf mude, aur unqi awaaz mein warning ka ek saaf recognizable note tha jab unhone kaha—
+
+“Court ko sweekar ho, State ne draddhta se aur persistently claim kiya hai ki us knife-handle par blood-stained finger-prints Judge Driscoll ke assassin dwara wahan chhode gaye the. Aapne hamein us claim ko sweekar karte aur iska swagat karte suna hai.” Woh jury ki taraf mude: “Accused ke finger-prints ko assassin dwara chhode gaye finger-prints ke sath compare kijiye—aur report kijiye.”
+
+Comparison shuru hua. Jaise-jaise yeh aige badha, saari movement aur saari awaaz ruk gayi, aur ek absorbed aur waiting suspense ki gehrai khamoshi house par baith gayi; aur jab aakhirkar sabd aaye—
+
+“**Woh thoda sa bhi resemblance (mel) nahi khate,**” taaliyon ka ek thunder-crash follow hua aur house apne pairon par jump kar gya, lekin jaldi hi official force dwara daba diya gya aur dobara order mein laya gya. Tom ab har kuch minutes mein apna posture badal raha tha, lekin uske kisi bhi badlav ne shanti ya comfort ka koi chota sa ansh nahi laya. Jab house ka dhayan ek baar phir fix ho gya, toh Wilson ne twins ki taraf ek gesture se sanket karte hue gombhirta se kaha—
+
+“**Yeh mard innocent (nirdosh) hain—mera unse aige koi talluk nahi hai.** [Taaliyon ka ek aur ubaal shuru hua, lekin jaldi se check kiya gya.] Hum ab guilty (doshi) ko dhoondhne ke liye badhenge. [Tom ki aankhein unke sockets se baahar nikal rahi thin—haan, shok-parva youth liye yeh ek krrwi din tha, har kisi ne socha.] Hum A aur B ke infant autographs par wapas lautenge. Main jury se A ke five months aur seven months marked in bade pantograph facsimilies ko lene ke liye kahunga. Kya woh tally hote hain?”
+
+Foreman ne response diya—
+
+“Perfect-ly.”
+
+“Ab is pantograph ko jaanchiye, jo eight months par liya gya hai, aur ispar bhi A mark hai. Kya yeh doosre do ke sath tally hota hai?”
+
+Surprised response tha—
+
+“**Nahi—woh wide different hain!**”
+
+“Aap bilkul right hain. Ab B ke autograph ke in do pantographs ko lijiye, jinpar five months aur seven months mark hai. Kya woh ek doosre ke sath tally hote hain?”
+
+“Haan—perfect-ly.”
+
+“Iss teesre pantograph ko lijiye jispar B, eight months mark hai. Kya yeh B ke doosre do ke sath tally hota hai?”
+
+“Bilkul kisi tareeqe se nahi!”
+
+“Kya aap jaante hain in ajeeb discrepancies (asangatito) ka hisab kaise lagana hai? Main aapko bataunga. Ek aise maqsad ke liye jo hamein unknown hai, lekin probably ek matlabi (selfish) tha, **kisi ne un bacchon ko cradle (palne) mein badal diya tha.**”
+
+Isne naturally ek vishal sensation produce kiya; Roxana is admirable guess par hairan thin, lekin isse disturb nahi thin. Exchange ko guess karna ek baat thi, yeh guess karna kisne kiya poori tarah doosri. Pudd’nhead Wilson adbhut cheezein kar sakte the, koi shakk nahi, lekin woh impossible cheezein nahi kar sakte the. Safe? Woh poori tarah safe thin. Woh personally muskuraai thin.
+
+“Seven months aur eight months ki umra ke beech un bacchon ko cradle mein badla gya tha”—unhone asar-ikhatha karne wale pauses (effect-collecting pauses) mein se ek kiya, aur add kiya—“**aur jis person ne aisa kiya woh is house mein hai!**”
+
+Roxy ki pulses shaant ho gayin! House ek electric shock ki tarah romanchit (thrilled) ho gya, aur log aadhe uth khade khade hue jaise us person ki ek jhalak dhoondh rahe hon jisne woh exchange kiya tha. Tom dheela (limp) ho raha tha; life lagbhag usse ris (oozing) rahi thi. Wilson ne jaatri rakkha:
+
+“A ko nursery mein B ke cradle mein daal diya gya tha; B ko kitchen mein transfer kiya gya aur woh ek nigger aur ek gulam ban gaya, [Sensation—krodhit chillane ka confusion]—lekin ek ghante ke ek tihaai hisse ke andar woh aapke samne white aur free khada hoga! [Taaliyon ka ubaal, officers dwara checked kiya gya.] Seven months se lekar ab tak, A abhi tak ek kapat-veshi (usurper) raha hai, aur mere finger-record mein woh B ka naam carry karta hai. Yahan twelve saal ki umra mein uska pantograph hai. Knife-handle par sthit assassin ke signature ke sath ise compare kijiye. Kya woh tally hote hain?”
+
+Foreman ne javab diya—
+
+“**Baareek se baareek detail tak (To the minutest detail)!**”
+
+Wilson ne gombhirta se (solemnly) kaha—
+
+“Aapke aur mere dost—generous hand aur kindly spirit wale York Driscoll—ka murderer aapke beech baitha hai. **Valet de Chambre, nigger aur slave,—falsely called Thomas à Becket Driscoll,—window par woh finger-prints banao jo tumhein phansi par latkaenge (hang you)!**”
+
+Tom ne apna safed pad gya face (ashen face) speaker ki taraf imploring (binnati karte hue) ghumaya, apne white lips se kuch asamarth movements kiye, phir dheela aur be-jaan (limp and lifeless) hokar floor par slide ho gya.
+
+Wilson ne us dar-bhari khamoshi (awed silence) ko in lafzon se toda—
+
+“Iska koi use nahi hai. Usne confess (sweekar) kar liya hai.”
+
+Roxy apne knees par jhatke se gir gayin, apne haathon se apna face dhak liya, aur unqi siskiyon ke beech se lafzon ne struggle kiya—
+
+“Lord mujh poor misable sinner (badkismat paapi) par reham karein jishi main hoon!”
+
+Clock ne baarah bajaye.
+
+Court uthi; naye qaidar ko, handcuffs (hathkadi) pehne, hata diya gya.
+
+---
+
