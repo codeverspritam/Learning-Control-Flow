@@ -1410,3 +1410,180 @@ Constable disappointed tha, aur sath hi perplexed (bhramit) bhi. Usne kaha—
 Subject lagbhag poori tarah talk out ho chuka lag raha tha. Kisi ke paas offer karne ke liye aige kuch nahi lag raha tha. Ek khamoshi ke baad Justice of peace ne Wilson ko inform kiya ki woh aur Buckstone aur constable Democratic party ke part par ek committee ke roop mein aaye hain, unse **mayor** ke liye run (khada hone) karne ke liye kehne ke liye—kyunki chota town ab ek city banne wala tha aur pehla charter election paas aa raha tha. Yeh pehli attention thi jo Wilson ne kabhi kisi party ke haathon receive ki thi; yeh ek kaafi mamuli (humble) thi, lekin yeh aakhirkar shehar ki life aur activities mein unke début ka ek recognition tha; yeh upar ki taraf ek kadam (step upward) tha, aur woh gehrai se gratified (khush) the. Unhone sweekar kiya, aur committee chali gayi, jinke peeche young Tom follow kar raha tha.
 
 ---
+
+# Chapter XIV — Roxana Insists Upon Reform
+
+### _(Roxana Sudhaar Par Draddhta Jatati Hai)_
+
+---
+
+> _The true Southern watermelon is a boon apart, and not to be mentioned with commoner things. It is chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat. It was not a Southern watermelon that Eve took: we know it because she repented.—Pudd’nhead Wilson’s Calendar._
+> _(Asli Southern watermelon [tarbooj] ek alag hi nemat [boon] hai, aur iska zikr sadharan cheezon ke sath nahi kiya jana chahiye. Yeh is duniya ke aaraam [luxuries] ka mukhya hai, God ki kripa se dharti ke saare fruits ke upar king hai. Jab koi ise taste kar leta hai, toh woh jaanta hai ki angels kya khaate hain. Yeh koi Southern tarbooj nahi tha jise Eve ne liya tha: hum ise jaante hain kyunki usne pachtawa [repented] kiya tha.)_
+
+---
+
+Lgabhag usi samay jab Wilson committee ko vida (bowing out) kar rahe the, Pembroke Howard agle ghar mein report dene enter ho rahe the. Unhone purane Judge ko apni chair par karrwe aur seedhe (grim and straight) baithe hue, wait karte paaya.
+
+“Well, Howard—kya khabar hai?”
+
+“Duniya ki sabse behtar.”
+
+“Sweekar karta hai, kya woh karta hai?” aur ladai ki roshni (light of battle) Judge ki eye mein khushi se chamak uthi.
+
+“Sweekar? Why, woh toh ispar jhapte (jumped at it).”
+
+“Kiya, usne aisa kiya? Ab yeh fine hai—yeh bahut fine hai. Main ise pasand karta hoon. Yeh kab hona hai?”
+
+“Abhi! Seedhe baahar! Aaj raat! Ek adbhut banda (admirable fellow)—adbhut!”
+
+“Adbhut? He’s a darling! Why, aise mard ke samne khade hona ek samman ke sath-sath ek pleasure bhi hai. Chalo—niklo yahan se! Jao aur sab kuch arrange karo—aur unhein meri sabse garm-joshi bhari tareefen (heartiest compliments) do. Ek asadharn banda, indeed; ek admirable fellow, jaisa aapne kaha!”
+
+Howard jaldi mein nikal gaye, kehte hue—
+
+“Main use ek ghante ke andar Wilson aur ha'nted house ke beech sthit khaali jameen (vacant stretch) par le aaunga, aur main apni khud ki pistols launga.”
+
+Judge Driscoll khushi ke utsah (pleased excitement) ki state mein floor par chalne lage; lekin jaldi hi woh ruke, aur sochne lage—Tom ke baare mein sochne lage. Do baar woh desk (secretary) ki taraf badhe, aur do baar woh dobara door mud gaye; lekin finally unhone kaha—
+
+“Yeh duniya mein meri aakhiri raat ho sakti hai—mujhe chance nahi lena chahiye. Woh bekar aur na-layak (worthless and unworthy) hai, lekin ismein kaafi hadd tak meri galti hai. Use mere bhai ne apni death-bed par mujhe sounpa (intrusted) تھا, aur maine use uski chot tak dulaara hai, bajaye iske ki main use karrwai se bada karta, aur use ek mard banata. Maine apne trust ka ullanghan (violated) kiya hai, aur mujhe ismein chhodne ka paap (sin of desertion) add nahi karna chahiye. Maine use pehle hi ek baar forgive kar diya hai, aur dobara forgive karne se pehle use ek lambi aur hard trial ke tehat rakhata, agar main zinda reh sakta; lekin mujhe woh risk nahi lena chahiye. Nahi, mujhe vasiyat wapas restore karni hogi. Lekin agar main duel mein zinda bach jata hoon, toh main ise chhupa dunga, aur use pata nahi chalega, aur main use tab tak nahi bataunga jab tak woh sudhar (reforms) nahi jata, aur main dekh nahi leta ki uska sudhaar permanent hone wala hai.”
+
+Unhone vasiyat dobara likhi (re-drew the will), aur unka dikhne wala nephew dobara ek fortune ka waaris ban gya. Jaise hi woh apna task khatam kar rahe the, Tom, ek aur vicharsheel bhatkaav (brooding tramp) se thaka hua, ghar mein enter hua aur sitting-room ke door ke paas se dhere-dhere (tiptoeing) guzar gya. Usne andar glance kiya, aur jaldi mein aige badha, kyunki apne uncle ka nazaara aaj raat unke liye darr ke alava kuch carry nahi kar raha tha. Lekin unke uncle likh rahe the! Yeh us der raat ke hisab se unusual tha. Woh kya likh rahe ho sakte the? Chinta ki ek thand (chill of anxiety) Tom ke dil par baith gayi. Kya woh likhna usse talluk rakhta tha? Woh is baare mein darra hua tha. Usne vichar kiya ki jab ill luck shuru hota hai, toh yeh chhento (sprinkles) mein nahi aata, balki bauchharon (showers) mein aata hai. Usne kaha ki woh us document ki ek jhalak haasil karega ya iska kaaran jaanega. Usne kisi ke aane ki awaaz suni, aur nazar aur sunne se door hat gya. Yeh Pembroke Howard the. Kya khichdi pak (hatching) rahi thi?
+
+Howard ne bade satisfaction ke sath kaha:
+
+“Sab kuch sahi aur ready hai. Woh apne second aur surgeon ke sath battle-ground par chala gya hai—apne bhai ke sath bhi. Maine Wilson ke sath yeh sab arrange kar diya hai—Wilson uska second hai. Hamein teen shots apiece (har ek ko teen shot) milne hain.”
+
+“Good! Moonlight kaisi hai?”
+
+“Lagbhag din jishi bright. Perfect hai, distance ke liye—fifteen yards. Koi hawa nahi—ek saans bhi nahi; garm aur sthir.”
+
+“Sab achha; sab first-rate. Yahan, Pembroke, ise padho, aur ispar gawaah (witness) bano.”
+
+Pembroke ne vasiyat ko padha aur witness kiya, phir purane gentleman ke haath ko ek garm-joshi bhari shake di aur kaha:
+
+“Ab yeh sahi hai, York—lekin main jaanta tha aap aisa karenge. Aap us poor chap ko bina kisi saadhan ya profession ke fight karne ke liye nahi chhod sakte the, jiske samne nishchhit haar (certain defeat) thi, aur main jaanta tha aap nahi karenge, uske father ke liye agar uske khud ke liye nahi toh.”
+
+“Uske dead father ke liye main nahi kar sakta tha, main jaanta hoon; poor Percy ke liye—lekin aap jaante hain Percy mere liye kya tha. Lekin dhyan rahe—Tom ko is baare mein pata nahi chalna chahiye jab tak ki main aaj raat gir na jaoon (marna).”
+
+“Main samajhta hoon. Main secret rakkhoonga.”
+
+Judge ne vasiyat ko door rakkha, aur dono battle-ground ke liye nikal gaye.
+
+Agle hi minute mein vasiyat Tom ke haathon mein thi. Uska dukh vanished ho gya, uske ehsaason ne ek vishal badlav (tremendous revulsion) jhela. Usne vasiyat ko saavdhani se wapas uski jagah par rakkha, aur apna mouth phhailaya aur apne hat ko ek, do, teen baar apne head ke chaaron taraf ghumaya, teen tivra chillaahat (rousing huzzas) ki nakal mein, bina unke lips se koi awaaz nikle. Woh utsah aur khushi se apne aap se baatcheet karne laga, lekin har kuch samay baad unhone goongi khushiyon (dumb hurrahs) ka ek aur volley chhoda.
+
+Usne apne aap se kaha: “Mujhe dobara fortune mil gayi hai, lekin main aisa dikhava (let on) nahi karunga ki main is baare mein jaanta hoon. Aur is baar main ispar latka rehne (hang on to it) wala hoon. Main ab koi risks nahi leta. Main dobara jua nahi khelunga, main dobara drink nahi karunga, kyunki—well, kyunki main dobara wahan nahi jaunga jahan is tarah ki koi cheez chal rahi ho. Yeh sure raasta hai, aur akela sure raasta hai; main is baare mein pehle soch sakta tha—well, haan, agar main chahta toh. Lekin ab—baba re, mujhe is baar ek scare (darr) mila hai, aur main ab koi chances nahi loonga. Ek single chance mazeed nahi. Land! Maine aaj evening khud ko convince kiya tha ki main bina kisi bade effort ke unhein wapas la sakta hoon, lekin main tab se steadily mazeed se mazeed heavy-hearted aur doubtful hota gya hoon. Agar woh mujhe is cheez ke baare mein batate hain, toh alright; lekin agar woh nahi batate, toh main let on nahi karunga. I—well, main Pudd’nhead Wilson ko batana chahta hoon, lekin—nahi, main us baare mein sochunga; shayad main nahi bataunga.” Usne ek aur dead huzza ghumaya, aur kaha, “Main reformed (sudhar) gya hoon, aur is baar main nishchitta se waisa hi rahunga!”
+
+Woh ek final grand silent pradarshan ke sath close karne hi wala tha, tabhi use sudden yaad aaya (recollected) ki Wilson ne Indian knife ko pawn ya sell karne ki uski power se baahar kar diya hai, aur us kaaran se woh ek baar phir apne creditors dwara expose hone ke awful khatre (awful peril) mein hai. Uska joy poori tarah se collapse ho gya, aur woh door mud gya aur apni kismat ki karrwahat par karaahte aur vilap karte hue door ki taraf moped (udaas) hua. Usne khud ko upstairs khincha, aur Luigi ke Indian knife ko ek sandarbh (text) ke roop mein lekar apne room mein ek lambe samay tak behal aur akela (disconsolate and forlorn) vicharon mein dooba raha. Aakhirkar usne aah bhari aur kaha:
+
+“Jab maine assume kiya tha ki yeh stones glass hain aur yeh ivory haddi hai, toh is cheez mein mere liye koi interest nahi tha kyunki iski koi keemat nahi thi, aur yeh mujhe meri trouble se baahar nahi nikaal sakti thi. Lekin ab—why, ab yeh interest se bhari hai; haan, aur ek aishi tarah se jo kisi ka dil tod de. Yeh gold ka ek bag hai jo mere haathon mein mitti aur raakh (dirt and ashes) mein badal gya hai. Yeh mujhe bacha sakta tha, aur itni aasaani se bacha sakta tha, aur phir bhi mujhe tabaah (ruin) hona hai. Yeh ek life-preserver ki reach mein hone par bhi doobne (drowning) jaisa hai. Saari hard luck mere paas aati hai, aur saari good luck doosre logon ke paas jaanti hai—Pudd’nhead Wilson, udaharan ke liye; yahan tak ki uske career ko aakhirkar ek tarah ki choti shuruat mil gayi hai, aur usne iske layak hone ke liye kya kiya hai, main jaan'na chahunga? Haan, usne apna raasta khola hai, lekin woh isse santusht nahi hai, balki mera raasta block karna zaruri hai. Yeh ek ghatiya, matlabi duniya (sordid, selfish world) hai, aur kaash main isse baahar hota.”
+
+Usne candle ki roshni ko miyan ke jewels par khelne diya, lekin un chamko (flashings and sparklings) mein usqi eye ke liye koi charm nahi tha; woh unke dil ke liye sirf dheron panges (dard) thin. “Mujhe Roxy se is cheez ke baare mein kuch nahi kehna chahiye,” usne kaha, “woh bahut daring hai. Woh in stones ko baahar nikaalne aur unhein bechne ke liye tayar ho jayegi, aur phir—why, woh arrest ho jayegi aur stones ko trace kiya jayega, aur phir—” Us vichaar ne use kaanpne (quake) par majboor kar diya, aur usne knife ko door chhupa diya, poori tarah se trem-bling karte hue aur furtively chaaron taraf glance karte hue, ek criminal ki tarah jo kalpana karta hai ki aarop lagane wala pehle se hi paas mein majood hai.
+
+Kya use sone ki koshish karni chahiye? Oh, nahi, neend unke liye nahi thi; unqi trouble iske liye bahut zyaada haunting, bahut zyaada utpeedit karne wali thin. Use vilap (mourn) karne ke liye koi chahiye tha. Woh apni is niraasha (despair) ko Roxy ke paas lekar jayega.
+
+Usne door se chalne wali kai gunshots suni thin, lekin us tarah ki cheez asadharn nahi thi, aur unhone uspar koi impression nahi banaya tha. Woh piche ke door se baahar nikla, aur westward muda. Usne Wilson ke ghar ko cross kiya aur gali ke sath aige badha, aur jaldi hi khaali jameen ke zariye Wilson ki jagah ki taraf aate kai figures ko dekha. Yeh duelists the jo fight se wapas laut rahe the; usne socha ki usne unhein recognize kar liya hai, lekin chunki uski white logon ki company ke liye koi desire nahi thi, woh fence ke piche tab tak neeche jhhuk (stooped down) gya jab tak woh uske raaste se door nahi ho gaye.
+
+Roxy bahut achha feel kar rahi thin. Unhone kaha:
+
+“Whah was you, child? Kya tum ismein nahi the?”
+
+“Kismein?”
+
+“Duel mein.”
+
+“Duel? Kya koi duel hua hai?”
+
+“Co'se hua hai. Ole Jedge un twins mein se ek ke sath duel kar rahe the.”
+
+“Great Scott!” Phir usne apne aap se add kiya: “Ussi cheez ne unse vasiyat dobara banwayi; unhone socha woh maare ja sakte hain aur unhein is life mein mujhe forgive karne ka chance nahi milega, isliye unhone mujhe naram treat kiya. Aur yahi woh cheez thi jisme woh aur Howard itne busy the.… Oh dear, agar twin ne unhein maar diya hota, toh main apni is—”
+
+“Tum kis baare mein mumble kar rahe ho, Chambers? Whah was you? Kya tum nahi jaante the ki ek duel hone wala hai?”
+
+“Nahi, main nahi jaanta tha. Purane mard ne mujhe Count Luigi ke sath fight karne ke liye push karne ki koshish ki thi, lekin woh successfully nahi hue, isliye main reckon karta hoon unhone family honor ko khud hi jodne (patch up) ka nateejah nikaala.”
+
+Woh us idea par hasa, aur Judge ke sath apni talk ka ek detailed account dete hue aige badha, aur bataya ki Judge yeh jaan kar kitne shocked aur ashamed the ki unqi family mein ek coward (darpok) hai. Usne aakhirkar upar glance kiya, aur use khud ek shock mila. Roxana ki chaati chhupaye hue gusse (suppressed passion) se marod rahi thi, aur woh unke face par likhe tula-heen tiraskar (measureless contempt) ke sath uspar neeche ghoor rahi thin.
+
+“En you refuse' to fight a man dat kicked you, chance par jump karne ke bajaye! Aur tumhare paas itni mazeed feeling nahi hai ki aao aur mujhe batao, jisne is duniya mein aise ek poor low-down ornery rabbit (darpok khargosh) ko paada kiya! Pah! it make me sick! Yeh tumhare andar ka nigger hai, exactly yahi hai. Tumhara thirty-one parts white hai, aur on'y one part nigger, aur woh poor chota ek part tumhari soul (aatma) hai. Yeh bachane ke layak nahi hai; yeh ek phawde (shovel) par baahar carry karke gutter mein phenkne ke layak bhi nahi hai. Tumne apne birth ko apmaanit (disgraced) kiya hai. Tumhare pa kya sochenge tumhare baare mein? Yeh unhein apni qabr mein badalane (turn in his grave) par majboor karne ke liye kafi hai.”
+
+Aakhiri teen sentences ne Tom ko ek gusse (fury) mein kaat diya, aur usne apne aap se kaha ki agar uske father sirf zinda hote aur hatya ki reach (reach of assassination) mein hote toh uski mother jaldi hi paa letin ki us mard ke prati uske karz ki size ka uske paas ek bahut saaf notion hai, aur woh ise poori tarah pay up karne ke liye taiyar hai, aur aisa karta bhi, yahan tak ki apni life ke risk par; lekin usne is vichaar ko apne paas hi rakkha; uski maa ki majooda state mein yahi sabse safest tha.
+
+“Tumhare Essex blood ko jo kuch bhi hua hai? Wahi hai jo main understan' nahi kar sakti. Aur yeh sirf khali Essex blood nahi hai jo tumhare andar hai, bahut door tak nahi—sach mein nahi hai! Mere great-great-great-grandfather aur tumhare great-great-great-great-grandfather Ole Cap’n John Smith the, sabse ooncha blood jise Ole Virginny ne kabhi turned out kiya, aur unqi great-great-grandmother ya kahin piche wahan piche, Pocahontas Injun queen thin, aur unke husband Africa se ek nigger king the—aur phir bhi yahan tum ho, ek duel se slinkin' out (bhaagte hue) aur ek ornery low-down hound (ghatiya kutte) ki tarah hamari poori line ko disgrace karte hue! Yes, it’s de nigger in you!”
+
+Woh apne candle-box par baith gayin aur ek khayal (reverie) mein doob gayin. Tom ne unhein disturb nahi kiya; usmein kabhi-kabhi samajhdaari (prudence) ki kami hoti thi, lekin is tarah ke circumstances mein nahi. Roxana ka toofaan gradually neeche gaya, lekin yeh mushkil se mara, aur jab yeh poori tarah chala gya laga, toh yeh har kuch samay baad ek door ki goonj (distant rumble) ke roop mein, bhurbhuraye chillane ke form mein baahar nikalta. Unmein se ek tha, “Usmein itna nigger nahi hai jo uske finger-nails mein dikhe, aur uske liye bahut choti zarurat hoti hai—phir bhi unqi soul ko paint karne ke liye paryapt hai.”
+
+Jaldi hi woh bhurbhurayin. “Yassir, unmein se ek poore thimbleful (ek mutthi) ko paint karne ke liye paryapt hai.” Aakhirkar unqi yeh baatcheet poori tarah ruk gayi, aur unka chehra saaf (clear) hone laga—Tom ke liye ek welcome sign, jo unke moods ko seekh chuka tha, aur jaanta tha ki woh ab acche-mizaj (good-humor) ki dehleez par hain. Usne notice kiya ki samay-samay par woh anjaane mein apni finger apni naak ke end par carry kar rahi thin. Usne mazeed paas se dekha aur kaha:
+
+“Why, mammy, aapqi naak ka end skinned (chila hua) hai. Yeh kaise hua?”
+
+Unhone ek aishi khule-dil ki hansi ki bauchhar (whole-hearted peal of laughter) bheji jise God ne iski perfection mein heaven mein happy angels aur dharti par chotil aur toote hue black slave ke alava kisi ko sweekar nahi kiya tha, aur kaha:
+
+“Dad fetch dat duel, main khud ismein thin.”
+
+“Baap re! Kya ek bullet ne aisa kiya?”
+
+“Yassir, aap bet lagao isne kiya!”
+
+“Well, main declare karta hoon! Why, yeh kaise hua?”
+
+“Is tareeqe (dis-away) se hua. Main yahan andhere mein kinder dozin' (oongh) rahi thin, en che-bang! ek gun chalti hai, theek wahan baahar. Main dekhne ke liye ghar ke doosre end ki taraf baahar bhaagti hoon ki kya chal raha hai, en Pudd’nhead Wilson ke ghar ki taraf wale side par us purane winder ke paas rukti hoon jisme koi sash (patti) nahi hai,—lekin jahan tak usse talluk hai unmein se kisi ke paas koi sashes nahi hain,—en main wahan andhere mein khadi rahi aur baahar dekha, en dar moonlight mein, theek mere neeche un twins mein se ek cussin' (gusse mein bhurbhura) raha tha—bahut nahi, lekin jis soft cussin'—yeh brown waala tha jo cussin' kar raha tha, kyunki use shoulder mein hit kiya gya tha. En Doctor Claypool uspar kaam kar rahe the, en Pudd’nhead Wilson help kar rahe the, en ole Jedge Driscoll aur Pem Howard wahan thoda door khade unke dobara ready hone ka wait kar rahe the. En jaldi hi woh squared off hue aur word diya, en bang-bang pistols chalti hain, en twin ne kaha, ‘Ouch!’—is baar use han’ (haath) par hit kiya,—en main usi same bullet ko dobara spat! sunti hoon, winder ke neeche logs par; en agli baar jab unhone shoot kiya, twin ne dobara kaha, ‘Ouch!’, en maine bhi aisa kiya, kyunki bullet unqi cheek-bone par glance hui en upar skip karke wahan winder ke side par glance hui en mere face ke theek acrost whiz karti hui nikal gayi aur meri naak se hide off (chamdi nikaal) di—why, agar main sirf ek inch ya ek aur aadha inch aige hoti toh yeh poori naak le jaanti aur mujhe disfigured (bikal) kar deti. Yeh rahi bullet; maine use dhoondh (hunted her up) liya.”
+
+“Kya aap poore samay wahin khadi rahin?”
+
+“Yeh poochne jaisa sawaal hai, kya aisa nahi hai? Main aur kya karti? Kya mujhe har din ek duel dekhne ka chance milta hai?”
+
+“Why, aap theek range mein thin! Kya aap darri nahi?”
+
+Aurat ne tiraskar ki ek sarsarahat (sniff of scorn) di.
+
+“Darpok! Smith-Pocahontases kisi cheez se nahi darte, bullets ki toh baat hi chodo.”
+
+“Unke paas paryapt sahas (pluck) hai, main assume karta hoon; jiski unmein kami hai woh faisala (judgment) hai. Main wahan nahi khada hota.”
+
+“Koi aap par aarop (accusin') nahi laga raha hai!”
+
+“Kya kisi aur ko chot pahunchei?”
+
+“Haan, hum sabko hit kiya gya siwaye blon’ twin aur doctor aur seconds ke. Jedge ko chot nahi pahunchei, lekin maine Pudd’nhead ko kehte suna ki bullet ne unke kuch ha’r (baal) off kar diye.”
+
+“'George!” Tom ne apne aap se kaha, “apni trouble se baahar hone ke itne paas aana, aur ek inch se ise miss kar dena. Oh dear, dear, woh mujhe figure out karne aur kisi nigger-trader ko bechne ke liye zinda rahenge—haan, aur woh ek minute mein aisa kar dete.” Phir usne zor se, ek gombhir tone mein kaha—
+
+“Mother, hum ek awful fix (bhaari mushqil) mein hain.”
+
+Roxana ne ek jhatke (spasm) ke sath apna saans pakada, aur kaha—
+
+“Chile! Tum kisi prani ko is tarah sudden kyun hit karte ho? Kya ho gya aur chala gya?”
+
+“Well, ek cheez hai jo maine aapko nahi batayi. Jab maine fight nahi ki, toh unhone vasiyat dobara tod di, aur—”
+
+Roxana ka face poori tarah safed pad gya (dead white), aur unhone kaha—
+
+“Ab tum khatam ho!—hamesha ke liye khatam! Dat’s de end. Hum dono bhookhe marne wale hain—”
+
+“Ruko aur mujhe poora suno, kya aap nahi sun sakti! Main reckon karta hoon ki jab unhone khud fight karne ka nishchay kiya, toh unhone socha woh maare ja sakte hain aur unhein is life mein mujhe forgive karne ka chance nahi milega, isliye unhone vasiyat dobara banayi, aur maine ise dekha hai, aur yeh perfectly alright hai. Lekin—”
+
+“Oh, thank goodness, den we’s safe ag’in!—safe! en so tum yahan aakar aishi dreadful baat kyun karna chahte the—”
+
+“Ruko, main tumhein kehta hoon, aur mujhe finish karne do. Jo swag (loot ka saaman) maine ikhatha kiya hai woh mujhe aadha bhi square up (karz mukt) nahi karega, aur pehli cheez jo hum jaante hain, mere creditors—well, aap jaanti hain kya hoga.”
+
+Roxana ne apni thhodi (chin) neeche ki, aur apne bete ko akele chhodne ke liye kaha—unhein is mamle ko poori tarah sochkar nikaalna (think out) hoga. Jaldi hi unhone impressively kaha:
+
+“Tumhein ab bahut keerful chalna hoga, main tumhein batati hoon! En yahan wahi hai jo tumhein karna hai. Woh maare nahi gaye, aur agar tum unhein thoda sa bhi kaaran dete ho, toh woh vasiyat dobara bust (tod) kar denge, aur woh aakhiri baar hoga, ab tum mujhe sun rahe ho! So—tumhein unhein dikhana hoga ki tum agle kuch dino mein kya kar sakte ho. Tumhein pison good (behad achha) banna hoga, aur unhein ise dekhne dena hoga; tumhein har ek cheez karni hogi jo unhein tummein b’lieve karne par majboor kare, aur tumhein ole Aunt Pratt ke chaaron taraf bhi sweeten (meetha banna) hoga,—woh Jedge ke sath pow’ful strong hain, aur sabse behtar dost jo tumhare paas hai. Nex’, tum Sent Louis chale jaoge, aur woh unhein tumhare favor mein rakkhega. Den tum jao aur un logon ke sath ek bargain (sauda) karo. Tum unhein batao ki woh bahut zyaada zinda nahi rehne wale—aur yahan fact bhi hai,—en unhein batao ki tum unhein intrust (byaj) pay karoge, aur bada intrust bhi, ten per—kya kehte ho use?”
+
+“Ten per cent a month (Das pratishat mahina)?”
+
+“Wahi hai. Den tum apna truck (saaman) chaaron taraf becho, ek samay mein thoda sa, en intrust pay karo. Yeh kab tak chalega?”
+
+“Main sochta hoon five ya six months ka byaj pay karne ke liye paryapt saaman hai.”
+
+“Den you’s all right. Agar woh six months mein nahi marte, toh isse koi diff’rence nahi padta—Providence’ll provide (bhagwan prabandh karenge). You’s gwyne to be safe—agar tum behave karte ho.” Unhone uspar ek karrwi eye (austere eye) bendi ki aur add kiya, “En you is gwyne to behave—kya tum yeh jaante ho?”
+
+Usne hansi hansin aur kaha ki woh koshish karne wala hai, anyway. Woh naram nahi huin. Unhone gombhirta se kaha:
+
+“Tryin’ koi cheez nahi hai. You’s gwyne to do it (tum ise karne wale ho). Tum ek pin bhi steal nahi karne wale—kyunki yeh ab safe nahi hai; en tum kisi bad comp’ny (buri sangat) mein nahi jaane wale—ek baar bhi nahi, tum samajhte ho; en tum ek drop nahi peene wale—nary single drop; en tum ek single gamble nahi khelne wale—ek bhi nahi! Dis aishi cheez nahi hai jise tum try karne wale ho, yeh wahi hai jo tum karne wale ho. En main tumhein batati hoon main yeh kaise jaanti hoon. Dis is how. Main khud Sent Louis piche-piche follow karne wali hoon; en tum meri life ke har din mere paas aane wale ho, en main tumhein look over (jaanchungi) karungi; en agar tum un cheezon mein se ek single mein bhi fail hue—sirf ek—main apni kasam (oath) khati hoon main seedhe is town mein neeche aayengi aur Jedge ko batayengi tum ek nigger aur ek gulam ho—aur ise prove karungi.” Unhone apne lafzon ko andar baithne (sink home) dene ke liye pause kiya. Phir unhone add kiya, “Chambers, does you b’lieve me when I says dat?”
+
+Tom ab kaafi shant (sober) tha. Unqi awaaz mein koi halka-pan (levity) nahi था jab unhone javab diya:
+
+“Haan, mother, main jaanta hoon, ab, ki main reformed ho gya hoon—aur permanently. Permanently—aur kisi bhi insani laalach (human temptation) ki reach se pare.”
+
+“Den g’ long home en begin (toh ghar jao aur shuru karo)!”
+
+---
