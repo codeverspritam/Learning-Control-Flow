@@ -939,3 +939,215 @@ Unqi mother chali gayi thin; lekin woh thodi der mein wapas aayin, Patsy Cooper 
 Is lambe bhatkaav (long digression) ke baad ab hum ek baar phir usi point par arrive ho gaye hain jahan Pudd’nhead Wilson, usi same Friday evening ko twins ke aane ka wait karte waqt, us subah ke ajeeb parghat (strange apparition) par puzzle kar rahe the—young Tom Driscoll ke bedroom mein ek girl; ispar chidte, aur guess karte, aur puzzle karte hue, aur hairan hote hue ki woh besharm prani (shameless creature) kaun ho sakti hai.
 
 ---
+
+# Chapter XI — Pudd’nhead’s Startling Discovery
+
+### _(Pudd’nhead Ka Hairandaz Khulasa)_
+
+---
+
+> _There are three infallible ways of pleasing an author, and the three form a rising scale of compliment: 1, to tell him you have read one of his books; 2, to tell him you have read all of his books; 3, to ask him to let you read the manuscript of his forthcoming book. No. 1 admits you to his respect; No. 2 admits you to his admiration; No. 3 carries you clear into his heart.—Pudd’nhead Wilson’s Calendar._
+> _(Kisi author [lekhak] ko khush karne ke teen achook [infallible] tareeqe hain, aur teenon tareef ke ek badhte paimane ko roop dete hain: 1, usse kehna ki aapne unqi kitabhon mein se ek padhi hai; 2, usse kehna ki aapne unqi saari kitabhon ko padha hai; 3, usse guzarish karna ki woh aapko apni aane wali kitab ki manuscript padhne dein. No. 1 aapko uske sammaan mein jagah deta hai; No. 2 aapko uske admiration mein jagah deta hai; No. 3 aapko seedhe uske dil mein le jata hai.)_
+> _As to the Adjective: when in doubt, strike it out.—Pudd’nhead Wilson’s Calendar._
+> _(Vishesan [Adjective] ke baare mein: jab shak ho, toh ise mita [strike it out] do.)_
+
+---
+
+Judwa bhaion jaldi hi arrive hue, aur baatcheet shuru hui. Yeh kaafi chatty aur sociable dhang se chalti rahi, aur iske influence ke tehat nayi dosti ne aasaani aur mazbooti (ease and strength) ikhatha ki. Wilson ne request par apna Calendar baahar nikaala aur ismein se ek-do passage padh kar sunaye, jinki twins ne kaafi cordially tareef ki. Isne author ko itna khush kiya ki unhone gladly sweekar kiya jab unhone unse ghar par padhne ke liye is kaam ka ek batch udhaar manga. Apni wide travels ke dauran unhone figure out kar liya tha ki kisi author ko khush karne ke teen pakke raaste (three sure ways) hote hain; woh ab un teenon mein se sabse behtar par kaam kar rahe the.
+
+Is beech ek interruption hua. Young Tom Driscoll appeared (saamne aaya), aur party mein shamil ho gya. Usne tab dikhava (pretended) kiya jaise woh pehli baar in distinguished strangers ko dekh raha ho jab woh haath milane ke liye uthe; lekin yeh sirf ek parda (blind) tha, kyunki woh ghar loot-te waqt, reception mein pehle hi unqi ek jhalak paa chuka tha. Twins ne dimaag mein note kiya ki uska face smooth tha aur woh kaafi handsome tha, aur apni movements mein smooth aur lehardar (undulatory) tha—actually graceful. Angelo ne socha unqi eye achhi hai; Luigi ne socha ki iske baare mein kuch chhupa hua aur chalak (veiled and sly) hai. Angelo ne socha uske paas bolne ka ek pleasant bina-parwah wala (free-and-easy) tareeqa hai; Luigi ne socha ki yeh zaroorat se zyaada hai jitna agreeable ho. Angelo ne socha woh ek kaafi nice young man hai; Luigi ne apna faisala surakshit (reserved) rakkha.
+
+Tom ka baatcheet mein pehla contribution ek aisa sawaal tha jise woh Wilson se pehle sau baar pooch chuka tha. Yeh hamesha cheerfully aur achhe mizaaj se poocha jata, aur hamesha ek chota dard (pang) deta, kyunki yeh ek gupt zakham (secret sore) ko chhoota tha; lekin is baar strangers ke present hone ke kaaran dard tivra (sharp) tha.
+
+“Well, kanoon kaisa chal raha hai? Koi case mila abhi tak?”
+
+Wilson ne apne hont ko kaata, lekin javab diya, “Nahi—abhi tak nahi,” jitni bina-parwah (indifference) ke sath woh assume kar sakte the. Judge Driscoll ne generously twins ko pradan ki gayi Wilson ki biography se kanoon wale feature ko baahar chhod diya tha. Young Tom pleasantly hasa, aur kaha:
+
+“Wilson ek lawyer hain, gentlemen, lekin woh ab practice nahi karte.”
+
+Sarcasm (vyang) ne kaata, lekin Wilson ne khud ko control mein rakkha, aur bina gusse (passion) ke kaha:
+
+“Main practice nahi karta, yeh sach hai. Yeh sach hai ki mujhe kabhi koi case nahi hai, aur mujhe ek aise town mein twenty saal tak expert accountant ke roop mein ek mamuli gujara (poor living) karna pada jahan main khata-kitabhon ke ek set ko sulajhane ke liye utni baar nahi pakad sakta jitni baar main chahta hoon. Lekin yeh bhi sach hai ki maine kanoon ki practice ke liye khud ko achhi tarah fit kiya tha. Jab main aapki umra ka tha, Tom, maine ek profession chuna tha, aur jald hi ismein enter karne kabil tha.” Tom wince (sanna) ho gya. “Mujhe ispar apna haath azmane ka kabhi chance nahi mila, aur mujhe kabhi chance na mile; aur phir bhi agar mujhe kabhi yeh mila toh main taiyar paaya jaunga, kyunki maine in saare saalon mein apni law-studies ko jaatri rakkha hai.”
+
+“Wahi hai; yeh achhi himmat (good grit) hai! Main ise dekhna pasand karta hoon. Mera dimaag mera saara business aapki taraf phenkne ka ho raha hai. Mera business aur aapki law-practice ko ek kaafi gay team banana chahiye, Dave,” aur young bande ne dobara hansi hansin.
+
+“Agar aap phenkenge—” Wilson ne Tom ke bedroom mein sthit us girl ke baare mein socha tha, aur kehne wale the, “Agar aap apne business ke us chhupaye hue aur badnaam hisse (surreptitious and disreputable part) ko meri taraf phenkenge, toh yeh kisi matra mein badh sakta hai;” lekin isse behtar socha aur kaha, “Halanki, yeh mamla ek general conversation mein fit nahi baithta.”
+
+“Alright, hum subject badal denge; main guess karta hoon aap mujhe ek aur dig (tana) dene wale the, anyway, isliye main badalane ke liye taiyar hoon. In dino Awful Mystery (bhaari rahasya) kaisa phhal-phool (flourishing) raha hai? Wilson ke paas plain window-glass ko chiknai ke finger-marks se decorate karke market se baahar karne ki ek yojana hai, aur Europe mein crowned heads (rajaon) ko unke mahalon ko sajaane ke liye famine prices (akalkaalin/bhaari keemat) par bech kar ameer banne ki. Lao ise baahar, Dave.”
+
+Wilson glass ki teen strips le aaye, aur kaha—
+
+“Main subject se uske right hand ki fingers ko uske baalon mein pherne ke liye kehta hoon, taaki unpar natural oil ki ek thin coating haasil ho sake, aur phir unke balls ko glass par press karta hoon. Skin mein majood lines ka ek fine aur delicate print nikalta hai, aur permanent hota hai, agar yeh kisi aishi cheez ke sampark mein na aaye jo ise mita (rub it off) sake. Aap shuruat karein, Tom.”
+
+“Why, main sochta hoon aapne pehle ek-do baar mere finger-marks liye the.”
+
+“Haan; lekin aakhiri baar jab aap ek chote boy the, sirf lagbhag twelve saal ke.”
+
+“Wahi hai. Co'se main tab se poori tarah badal (changed entirely) gya hoon, aur variety hi wahi cheez hai jo crowned heads chahte hain, main guess karta hoon.”
+
+Unhone apni fingers ko apne chote baalon ke dher (crop of short hair) mein phera, aur ek-ek karke unhein glass par press kiya. Angelo ne doosre glass par apni fingers ka print banaya, aur Luigi ne teesre ke sath follow kiya. Wilson ne glasses par names aur date ke sath mark kiya, aur unhein door rakkha. Tom ne apni ek choti hansi hansin, aur kaha—
+
+“Maine socha main kuch nahi kahunga, lekin agar variety hi woh cheez hai jiske piche aap hain, toh aapne glass ka ek piece barbaad kar diya hai. Ek twin ka hand-print wahi hota hai jo uske saathi-twin (fellow-twin) ka hand-print hai.”
+
+“Well, yeh ab ho gya hai, aur main dono ko paas rakhna pasand karta hoon, anyway,” Wilson ne apni jagah wapas laut-te hue kaha.
+
+“Lekin yahan dekho, Dave,” Tom ne kaha, “aap logon ki kismat (fortunes) bhi bataya karte the, jab aap unke finger-marks lete the. Dave bas ek all-round genius hain—sabse oonche darje ke genius, gentlemen; ek bade scientist jo yahan is village mein be-asar (running to seed) ho rahe hain, ek prophet us tarah ke sammaan ke sath jo prophets ko aam taur par ghar par milta hai—kyunki yahan woh unqi scientifics ko tuchh samajhte hain, aur unki khopdi (skull) ka ek notion-factory (vichaar-banaane wali factory) kehte hain—hey, Dave, kya aisa nahi hai? Lekin parwah nahi; woh kisi din apna mark banayenge—finger-mark, aap jaante hain, he-he! Lekin sach mein, aap chahenge ki woh ek baar aapqi palms (hatheliyon) par apna haath azmayen; yeh admission ki keemat se doona keemti hai ya door par aapke paise returned kar diye jayenge. Why, woh aapqi jhurriyon (wrinkles) ko ek kitab jitna aasaani se padh lenge, aur na keval aapko fifty ya sixty cheezein batayenge jo aapke sath hone wali hain, balki fifty ya sixty thousand jo nahi hone wali hain. Chalo, Dave, gentlemen ko dikhao ki is town mein hamare paas kaisa ek inspired Jack-at-all-science (har vidya ka mahir) hai, aur hum ise jaante nahi hain.”
+
+Wilson is tana-kasne wali aur bahut shishtata-purna na hone wali gappe (nagging and not very courteous chaff) ke tehat wince (sann) ho gaye, aur twins unke sath aur unke liye suffer kar rahe the. Unhone ab sahi faisala kiya ki unhein raahat dene ka sabse behtar tareeqa mamle ko gombhirta (in earnest) se lena aur ise respect ke sath treat karna hoga, Tom ke is kaafi bade mazaak (overdone raillery) ko ignore karte hue; isliye Luigi ne kaha—
+
+“Humne apni wanderings mein hastarekha-vigyan (palmistry) ka kuch hissa dekha hai, aur kaafi achhi tarah jaante hain ki yeh kitni astonishing cheezein kar sakta hai. Agar yeh ek science nahi hai, aur unmein se sabse badi mein se ek hai dono, toh main nahi jaanta ki iska doosra naam kya hona chahiye. Orient (Purv) mein—”
+
+Tom surprised aur avishwasniya (incredulous) dikhe. Unhone kaha—
+
+“Woh baazi-gari (juggling) ek science hai? Lekin sach mein, aap serious nahi hain, kya aap hain?”
+
+“Haan, poori tarah se. Char saal pehle hamari hands hamare samne is tarah padhe gaye the jaise hamari hatheliyan print se dhaki hon.”
+
+“Well, kya aapka matlab yeh kehna hai ki actually ismein kuch tha?” Tom ne poocha, unka avishwas ab thoda weak hone laga tha.
+
+“Ismein itna kuch tha,” Angelo ne kaha: “hamare charitron (characters) ke baare mein jo hamein bataya gya tha woh baareek roop se sateek (minately exact) tha—hum khud ise behtar nahi kar sakte the. Next, hamare sath hui do ya teen yaadgar cheezein (memorable things) baahar laayi gayin thin—aishi cheezein jinhe hamare alava wahan present koi nahi jaan sakta tha.”
+
+“Why, yeh toh poora jadu-tona (rank sorcery) hai!” Tom chilla utha, jo ab bahut zyaada interested ho raha tha. “Aur unhone is baare mein kaise kiya jo future mein aapke sath hone wala tha?”
+
+“Overall, kaafi fair roop se,” Luigi ne kaha. “Batai gayi sabse striking cheezon mein se do ya teen tab se ho chuki hain; un sabse sabse zyaada striking cheez usi same saal ke andar hui thi. Kuch choti prophecies sach hui hain; kuch choti aur kuch badi abhi tak poori nahi hui hain, aur o' course kabhi nahi ho saktin: phir bhi, mujhe unke arrive hone mein fail hone par mazeed surprise hoga mukable iske agar woh na hon.”
+
+Tom poori tarah se shant (sobered) aur gehrai se prabhavit (profoundly impressed) tha. Unhone kshama-purna dhang (apologetically) se kaha—
+
+“Dave, mera matlab us science ko chhota dikhana (belittle) nahi tha; main sirf mazaak kar raha tha—chattering (bak-bak), main sochta hoon mujhe behtar kehna chahiye. Main chahta hoon aap unqi hatheliyon ko dekhein. Chalo, kya aap nahi dekhoge?”
+
+“Why nishchhit roop se, agar aap chahte hain main maroon; lekin aap jaante hain mujhe expert banne ka koi chance nahi mila hai, aur aisa hone ka claim nahi karta. Jab koi past event hatheli mein thoda mukhyata se recorded (prominently recorded) hota hai toh main aam taur par use detect kar sakta hoon, lekin chote aksar mujhse bach nikalte hain,—hamesha nahi, o' course, lekin aksar,—lekin jab future padhne ki baat aati hai toh mujhe khud par bahut zyaada confidence nahi hota. Main is tarah baat kar raha hoon jaise palmistry mere liye ek daily study ho, lekin aisa nahi hai. Maine pichele cheh saalon mein aadha dozen haathon ko bhi jaanch nahi kiya hai; aap dekhte hain, log is baare mein mazaak karne lage the, aur maine baatcheet ko shaant karne ke liye ise rok diya. Main aapko batata hoon hum kya karenge, Count Luigi: main aapke past par ek koshish karunga, aur agar mujhe wahan koi success mili—nahi, overall, main future ko akele chhod dunga; woh sach mein ek expert ka mamla hai.”
+
+Unhone Luigi ka haath liya. Tom ne kaha—
+
+“Ruko—abhi mat dekho, Dave! Count Luigi, yahan paper aur pencil hai. Us cheez ko set down (likh) kijiye jise aapne bataya ki aapko foretold ki gayi sabse striking cheez thi, aur jo ek saal se kam samay baad hui thi, aur ise mujhe de dijiye taaki main dekh sakoon ki kya Dave ise aapke haath mein dhoondhta hai.”
+
+Luigi ne secretly ek line likhi, aur paper ke piece ko fold kiya, aur ise Tom ke sahare badha diya, kehte hue—
+
+“Main aapko bataunga kab ise dekhna hai, agar woh ise dhoondh leta hai.”
+
+Wilson ne Luigi ki palm ka study karna shuru kiya, life lines, heart lines, head lines, aur isi tarah aage bhi trace karte hue, aur saavdhani se unke rishton ko fine aur mazeed delicate marks aur lines ke us jaal (cobweb) ke sath note kiya jinhone unhein har taraf se enmeshed (ghera) kiya tha; unhone thumb ke base par majood maseele gaddhe (fleshy cushion) ko feel kiya, aur iski shape note ki; unhone wrist aur choti ungli ke base ke beech haath ke maseele side ko feel kiya, aur iski shape bhi note ki; unhone painstakingly fingers ko jaanch kiya, unki form, proportions, aur aaram mein hone par khud ko dispose karne ke natural tareeqe ko observe karte hue. Is saari process ko teenon darshako (spectators) dwara absorbing interest ke sath watch kiya gya, unke heads Luigi ki palm ke upar ek sath jhuke hue the, aur koi bhi ek sabd se shanti ko disturb nahi kar raha tha. Wilson ne ab dobara palm ke ek close survey mein enter kiya, aur unke khulase (revelations) shuru hue.
+
+Unhone Luigi ke charitra aur mizaaj (character and disposition), unqi tastes, na-pasandgiyon (aversions), jhukaavon (proclivities), ambitions, aur eccentricities (ajeeb-pana) ka map is tareeqe se nikaala jisme kabhi-kabhi Luigi wance (sanna) hue aur doosre hanse, lekin dono twins ne declare kiya ki chart artistically draw kiya gya tha aur correct tha.
+
+Next, Wilson ne Luigi ki history li. Woh ab saavdhani se aur hichkichahat (hesitation) ke sath aige badhe, palm ki badi lines ke sath apni ungli slowly move karte hue, aur kabhi-kabar ise ek “star” (taare) ya us jaise kisi landmark par rokte hue, aur us pados ko baareek roop se jaanchte hue. Unhone ek-do past events proclaim kiye, Luigi ne unqi sateekta (correctness) ko confirm kiya, aur khoj chalti rahi. Jaldi hi Wilson ne ek surprised expression ke sath sudden upar glance kiya—
+
+“Yahan ek aishi incident ka record hai jise aap shayad na chahein ki main—”
+
+“Ise baahar laiye,” Luigi ne good-naturedly kaha; “main aapko vaada karta hoon yeh mujhe embarrass nahi karega.”
+
+Lekin Wilson abhi bhi hichkichaye, aur poori tarah nahi jaante dikhe ki kya karein. Phir unhone kaha—
+
+“Main sochta hoon yeh to delicate a matter hai to—to—mera vishwas hai main ise likhna ya aapke kaan mein whisper karna behtar samjhunga, aur aapko khud decide karne doonga ki aap ispar talk out chahte hain ya nahi.”
+
+“Woh kaam karega,” Luigi ne kaha; “ise likhiye.”
+
+Wilson ne paper ki ek slip par kuch likha aur ise Luigi ke sahare badha diya, jinhone ise apne aap mein padha aur Tom se kaha—
+
+“Apni slip ko unfold kijiye aur ise padhie, Mr. Driscoll.”
+
+Tom ne padha:
+
+_“Yeh prophesied kiya gya tha ki main ek mard ko maarunga. Yeh saal khatam hone se pehle sach ho gya.”_
+
+Tom ne add kiya, “Great Scott!”
+
+Luigi ne Wilson ke paper ko Tom ke sahare badhaya, aur kaha—
+
+“Ab is waale ko padhie.”
+
+Tom ne padha:
+
+_“Aapne kisi ko maara hai, lekin chahe mard ho, aurat ho ya bacha, main figure out nahi kar pa raha hoon.”_
+
+“Cæsar’s ghost!” Tom ne hairani ke sath tippani ki. “Yeh pehle suni gayi kisi bhi cheez ko beat karta hai! Why, ek mard ka apna haath hi uska sabse deadly enemy (ghaatank dushman) hai! Bas us baare mein socho—ek mard ka apna haath uski life ke sabse gehre aur fatalest secrets ka record rakhta hai, aur chalaki se taiyar (treacherously ready) rehta hai kisi bhi black-magic stranger ke samne use expose karne ke liye jo saamne aaye. Lekin aap apni hatheli par us awful cheez ke printed hone par kisi ko ise dekhne kyun dete hain?”
+
+“Oh,” Luigi ne reposefully (shanti se) kaha, “main ispar parwah nahi karta. Maine mard ko acche kaaranon (good reasons) ke liye maara tha, aur mujhe iska koi pachtava (regret) nahi hai.”
+
+“Kaaran kya the?”
+
+“Well, use maare jaane ki zarurat thi (he needed killing).”
+
+“Main aapko bataunga unhone aisa kyun kiya, kyunki woh khud nahi kahenge,” Angelo ne garm-joshi (warmly) se kaha. “Unhone meri life bachane ke liye aisa kiya, unhone isliye kiya tha. So yeh ek noble act (umda kaam) tha, na ki andhere mein chhupane jishi cheez.”
+
+“So it was, so it was,” Wilson ne kaha; “ek bhai ki life bachane ke liye aishi cheez karna ek bada aur fine action hai.”
+
+“Now come,” Luigi ne kaha, “aapise in cheezon ko sunna bahut pleasant hai, lekin unselfishness, ya heroism, ya udaarta (magnanimity) ke liye, circumstances jaanch ko jhel nahi sakenge. Aap ek detail overlook karte hain; assume kijiye maine Angelo ki life na bachai hoti, toh meri life ka kya hota? Agar maine mard ko use maarne diya hota, toh kya woh mujhe bhi na maar deta? Maine apni khud ki life bachai, aap dekhte hain.”
+
+“Haan, yeh aapke bolne ka tareeqa hai,” Angelo ne kaha, “lekin main aapko jaanta hoon—mera vishwas nahi hai ki aapne apne baare mein bilkul socha tha. Main us hathiyar ko abhi tak rakhta hoon jisse Luigi ne mard ko maara tha, aur main aapko ise kabhi dikhaunga. Woh incident ise interesting banati hai, aur Luigi ke haathon mein aane se pehle iski ek history thi jo iske interest ko add karti hai. Yeh Luigi ke ek bade Indian prince, **Baroda ke Gaikowar (The Gaikowar of Baroda)**, dwara diya gya تھا, aur yeh unqi family mein do ya teen centuries se tha. Isne kai un na-pasand logon (disagreeable people) ko maara jinhone ek samay aur doosre samay us hearthstone (aangan) ko pareshan kiya tha. Yeh dekhne mein bahut zyaada nahi hai, sivaye iske ki iski shape doosre knives, ya dirks, ya chahe jo bhi ise kaha jaye jaisi nahi hai—yahan, main ise aapke liye draw karunga.” Unhone paper ki ek sheet li aur ek rapid sketch banaya. “Yeh raha—ek wide aur murderous blade, sateekta ke liye razor jaise edges ke sath. Is par engraved kiye gaye devices iske possessors ki lambi line ke ciphers ya naam hain—maine khud Luigi ka naam Roman letters mein hamare coat of arms ke sath add karwaya tha, jaisa aap dekhte hain. Aap notice karte hain ki is cheez ka kaisa ek curious handle hai. Yeh solid ivory (haathi-daant) hai, mirror ki tarah polished, aur four ya five inches lamba hai—round, aur ek bade mard ki kalai (wrist) jitna mota, jiska end flat squared off hai, aapke thumb ke tikaane ke liye; kyunki aap ise grasp karte hain, blunt end par apne thumb ko tikakar—is tareeqe se—aur ise upar uthate hain aur downward strike karte hain. Gaikowar ne hamein dikhaya tha ki yeh cheez kaise ki jaanti thi jab unhone ise Luigi ko diya tha, aur us raat ke khatam hone se pehle Luigi ne knife ka use kar liya tha, aur Gaikowar ke paas uske kaaran ek mard kam (man short) ho gya tha. Iska miyan (sheath) bade keemat ke gems se magnificently ornamented hai. Aap mukhya roop se miyan ko knife se mazeed dekhne ke layak payenge, o' course.”
+
+Tom ne apne aap se kaha—
+
+“Kismat achhi hai main yahan aaya. Maine us knife ko ek gaane ke badle (saste mein) bech diya hota; maine assume kiya tha ki jewels glass hain.”
+
+“Lekin jaatri rakhiye; rukie mat,” Wilson ne kaha. “Hamari jigyasa (curiosity) ab uth gayi hai, homicide (manav-hatya) ke baare mein sunne ke liye. Hamein us baare mein batayen.”
+
+“Well, briefly, knife hi uske liye sabse zyaada responsible tha, har taraf se. Palace mein raat ko hamare room mein ek native servant secretly ghusa, hamein maarne aur miyan par incrusted kiye gaye fortune (khazane) ke kaaran knife churane ke liye, bina kisi shakk ke. Luigi ne ise apne pillow ke neeche rakkha tha; hum ek sath bed par the. Ek dhundhli night-light jal rahi thi. Main so raha تھا, lekin Luigi jaag raha tha, aur unhone socha ki unhone bed ke paas aati ek aspasht aakriti (vague form) ko detect kiya hai. Unhone miyan se knife baahar nikaala aur taiyar the, aur badhit karne wale bed-clothes se un-embarrassed the, kyunki weather garm tha aur hamare paas koi kapde nahi the. Sudden woh native bedside par utha, aur mere upar jhuka apne right hand ko uthaye hue jisme ek dirk thha jo mere throat par aimed tha; lekin Luigi ne unqi kalai (wrist) pakadi, use downward khincha, aur apna knife us mard ke neck mein jhonk diya. Yeh poori story hai.”
+
+Wilson aur Tom ne gehre saans (deep breaths) liye, aur tragedy ke baare mein kuch general chat ke baad, Pudd’nhead ne Tom ka haath lete hue kaha—
+
+“Now, Tom, maine sanyog se aapqi palms par kabhi nazar nahi daali hai; shayad aapke paas kuch choti questionable privacies hain jinhein zarurat hai—hel-lo!”
+
+Tom ne jhatke se apna haath peeche khincha (snatched away), aur kaafi confused dikh raha tha.
+
+“Why, yeh toh sharm se laal (blushing) ho raha hai!” Luigi ne kaha.
+
+Tom ne unqi taraf ek ugly look phenki, aur sharply kaha—
+
+“Well, agar main hoon, toh yeh isliye nahi hai kyunki main ek murderer hoon!” Luigi ka dark face flush ho gya, lekin isse pehle ki woh bol sakein ya move kar sakein, Tom ne anxious haste (chintit jaldi) ke sath add kiya: “Oh, main ek hazaron pardons (kshama) mangta hoon. Mera woh matlab nahi tha; yeh mere sochne se pehle baahar nikal gya, aur main bahut, bahut sorry hoon—aapko mujhe forgive karna hoga!”
+
+Wilson bachaav (rescue) ke liye aaye, aur jitna behtar woh kar sakte the cheezon ko smooth kiya; aur in fact twins ke mamle mein poori tarah se successful rahe, kyunki unhein apne guest ki ill manners ke outburst dwara unpar kiye gaye apmaan ke liye mazeed dukh feel hua mukable Luigi ko pradan kiye gaye insult ke. Lekin safalata offender (apradhi) ke sath utni saaf nahi thi. Tom ne at his ease (comfortable) dikhne ki koshish ki, aur motions ke beech se kaafi achhi tarah gaye, lekin bottom mein woh apni is pradarshan (exhibition) ke teenon witnesses ke prati resentful (krodhit) feel kar rahe the; in fact, woh unse is baat ke liye itne annoyed the ki unhone ise witness kiya aur notice kiya ki woh unke samne ise pesh karne ke liye khud par annoyed feel karna lagbhag bhool gaye. Halanki, jaldi hi kuch aisa hua jisne unhein lagbhag comfortable kar diya, aur unhein lagbhag charity aur friendliness ki state mein wapas le aaya. Yeh twins ke beech ek choti si takrar (little spat) thi; bahut badi takrar nahi, lekin phir bhi ek spat thi; aur isse pehle ki woh iske sath door jaate woh ek doosre ke sath irritation ki nirdharit condition mein the.
+
+Tom charmed (khush) the; itne pleased, indeed, ki unhone saavdhani se woh kiya jo woh mazeed respectable motives se actuated hone ka pretend karte hue irritation ko badhane ke liye kar sakte the. Unqi madad se aag blazing-point tak garm ho gayi, aur unhein agle hi moment flames ko dikhte hue dekhne ki khushi mil sakti thi, lekin door par ek knock ke interruption ke kaaran aisa nahi ho saka—ek aisa interruption jisne unhein utna hi chid-chida kiya jitna isne Wilson ko gratified kiya. Wilson ne door open kiya.
+
+Visitor ek good-natured, ignorant, energetic, middle-aged Irishman the jinka naam **John Buckstone** tha, jo ek chote tareeqe se ek bade politician the, aur hamesha har tarah ke public matters mein ek bada hissa lete the. Town ki mukhya excitements mein se ek, just now, rum (sharab) ke mamle par thi. Ek strong rum party thin aur ek strong anti-rum party thin. Buckstone rum party ke sath training kar rahe the, aur unhein twins ko hunt up karne aur unhein us faction ki ek mass-meeting attend karne ke liye invite karne bhej gya tha. Unhone apna kaam deliver kiya, aur kaha ki clans (samooh) pehle se hi market-house ke upar bade hall mein ikhatha ho rahe hain. Luigi ne invitation ko cordially sweekar kiya, Angelo ne kam cordially, chunki unhein crowds na-pasand the, aur woh America ke powerful intoxicants (nashiley padarth) nahi peete the. In fact, woh kabhi-kabhi ek teetotaler (sharab se door rehne wale) bhi the—jab aisa hona judicious (samajhdaari) ho.
+
+Twins Buckstone ke sath nikal gaye, aur Tom Driscoll bina invite kiye unke sath company mein join ho gya.
+
+Doori par koi torches (mashalon) ki ek lambi ghoomti hui line ko mukhya sarak par drift hote hue dekh sakta tha, aur bass drum ki dhadkan, cymbals ki takrar, ek-do fife (bansuri) ki cheenkh, aur door ke hurrahs ki halki goonj sun sakta tha. Is procession ka tail-end market-house ki stairs par chadh raha tha jab twins iske pados mein arrive hue; jab woh hall tak pahunche toh yeh logon, torches, smoke, noise aur enthusiasm se plum' jam full tha. Unhein Buckstone dwara platform tak conduct kiya gya—Tom Driscoll abhi bhi peeche follow kar rahe the—aur swagat ke ek vishal explosion ke beech chairman ko deliver kiya gya. Jab noise thoda moderate hua, toh chair ne prastav rakkha ki “hamare illustrious guests ko complimentary acclamation (tareef ke jhonke) dwara turant hamari ever-glorious organization ke membership mein elect kiya jaye, jo aazadon ka paradise hai aur gulam ka perdition (narak) hai.”
+
+Is eloquent discharge ne enthusiasm ke flood-gates ko dobara open kar diya, aur election thundering unanimity (garajte hue ek-mat) ke sath carried hua. Phir cries ka ek toofaan utha:
+
+“Unhein geela karo! Unhein geela karo! Unhein ek drink do (Give them a drink)!”
+
+Twins ko whisky ke glasses handed kiye gaye. Luigi ne apna upar laharaya, phir ise apne lips tak laaye; lekin Angelo ne apna neeche rakh diya. Cries ka ek aur toofaan utha:
+
+“Doosre waale ke sath kya mamla hai?” “Blond waala hum par peeche kyun hat raha hai?” “Explain! Explain!”
+
+Chairman ne inquire kiya, aur phir report kiya—
+
+“Humne ek badkismat galti (unfortunate mistake) ki hai, gentlemen. Main paata hoon ki Count Angelo Capello hamare panth (creed) ke khilaf hain—in fact, ek teetotaler hain, aur hamare sath membership ke liye apply karne ka intention nahi rakh rahe the. Woh chahte hain ki hum us vote par reconsider karein jisse woh elect hue the. House ki kya pleasure hai?”
+
+Wahan hansi ka ek samanya jhonka (general burst of laughter) utha, jo whistling aur cat-calls se paryapt roop se accented tha, lekin gavel (hathode) ke energetic use ne jaldi se order jaisi kisi cheez ko restore kar diya. Phir bheed se ek mard ne bola, aur kaha ki jabki unhein bahut sorry hai ki galti hui hai, majooda meeting mein ise rectify (theek) karna possible nahi hoga. By-laws ke mutabik ise action ke liye agli regular meeting tak ke liye aige jana hoga. Woh koi motion offer nahi karenge, kyunki kisi ki zarurat nahi hai. Woh house ke naam par gentleman se apologize karna chahte hain, aur unhein assure karne ki guzarish karte hain ki jahan tak yeh Sons of Liberty ki power ke andar ho sake, order mein unqi temporary membership unke liye pleasant banayi jayegi.
+
+Is speech ko bade applause ke sath receive kiya gya, jo in cries ke sath mixed thha—
+
+“Wahi talk hai!” “Woh ek good fellow hai, anyway, agar woh ek teetotaler hai!” “Uski health drink karo!” “Give him a rouser, and no heeltaps!”
+
+Glasses chaaron taraf handed kiye gaye, aur platform par har kisi ne Angelo ki health drink ki, jabki house gaane mein chilla utha:
+
+_For he’s a jolly good fel-low,_
+
+_For he’s a jolly good fel-low,_
+
+_For he’s a jolly good fe-el-low,—_
+
+_Which nobody can deny._
+
+Tom Driscoll ne drink ki. Yeh unka second glass tha, kyunki unhone Angelo ka glass usi moment pi liya tha jab Angelo ne ise neeche rakkha tha. Do drinks ne unhein bahut merry (khush) bana diya—lagbhag idiotically so—aur unhone proceedings mein sabse teez aur mukhya hissa lena shuru kar diya, khhasakar music, cat-calls aur side-remarks mein.
+
+Chairman abhi bhi samne khade the, twins unke side the. Bhaion ki ek doosre se is asadharn closely resemblance (mel) ne Tom Driscoll ko ek vyang-baani (witticism) suggest ki, aur jaise hi chairman ne speech shuru ki woh aige skippe hue aur unhone audience se tipsy confidence (nashe ke aatmavishwas) ke ek air ke sath kaha—
+
+“Boys, main move karta hoon ki woh shant rahein aur is **human philopena (judwa badam jishi insani jodi)** ko aapke samne ek speech snip karne dein.”
+
+Phrase ki descriptive sateekta (aptness) ne house ko pakad liya, aur uske baad hansi ka ek mighty jhonka follow hua.
+
+Luigi ka southern blood char sau strangers ki presence mein deliver kiye gaye is apmaan ke tivra apmaan (sharp humiliation) ke tehat ek moment mein boiling-point par leap kar gya. Us young man ke nature mein nahi tha ki mamle ko pass hone de, ya hisab ko square (squaring of the account) karne mein delay karein. Unhone ek-do strides (kadambe) liye aur us unsuspecting joker ke peeche halt hue. Phir unhone peeche khincha aur aishi titanic vigor (vishal takat) ke sath ek kick deliver ki ki isne Tom ko footlights ke upar clear lift kiya aur unhein Sons of Liberty ki samne ki row ke heads par land kar diya.
+
+Bhale hi ek sober (hosh mein sthit) insaan bhi apne upar ek insani prani ke phenke jaane (human being emptied) ko pasand nahi karta jab woh koi harm nahi kar raha ho; ek insaan jo sober nahi hai woh is tarah ki attention ko bilkul jhel nahi sakta. Sons of Liberty ka woh ghosla (nest) jisme Driscoll land hue the, usmein ek bhi sober bird nahi tha; in fact auditorium mein probably ek bhi poori tarah sober nahi tha. Driscoll ko turant aur krodh se agli row ke Sons ke heads par flung (phenka) gya, aur in Sons ne unhein rear (piche) ki taraf pass kiya, aur phir immediately samne ki row ke un Sons ko pummel (peetna) shuru kar diya jinhone unhein unke sahare pass kiya tha. Is course ko bench ke baad bench dwara strictly follow kiya gya jaise-jaise Driscoll door ki taraf apni is tumultuous aur airy flight (shor-bhari aur hawaai udaan) mein travel karte gaye; isliye unhone apne piche raging, plunging, fighting aur swearing humanity ka ek tezi se lamba hota gya picha (wake) chhoda. Torches ke group ke baad group neeche gaye, aur jaldi hi gavel ki behra karne wali takrar (deafening clatter), krodhit awaazon ke roar, aur toot-te benches ke crash ke upar, sunn kar dene wali chillaahat uthi—“**AAG (FIRE)!**”
+
+Fighting instantly ruk gayi; cursing ruk gayi; ek distinctly defined moment ke liye wahan ek dead hush (bhaari khamoshi), ek motionless calm (sthir shanti) thi, jahan pehle toofaan (tempest) tha; phir ek jhatke (one impulse) ke sath bheed dobara life aur energy mein jaagee, aur windows aur doors ke zariye baahar ki edges pighalte hue yahan-wahan aur har taraf badhne aur marodne lagi aur gradually pressure kam karke mass ko relieve kiya.
+
+Fire-boys pehle kabhi itni sudden taiyar (on hand) nahi the; kyunki is baar jaane ke liye koi doori nahi thi, unke quarters market-house ke rear end mein the. Wahan ek engine company thin aur ek hook-and-ladder company thin. Har ek ka aadha hissa rummies (sharab-premi) aur doosra aadha anti-rummies par consist tha, us daur ke frontier town ke naitik aur political share-and-share-alike fashion ke mutabik. Engine aur ladders ko sambhalne ke liye quarters mein paryapt anti-rummies loafing kar rahe the. Do minutes mein unhone apne red shirts aur helmets pehan liye the—woh kabhi bhi unofficial costume mein officially nahi chalte the—aur jaise hi upar mass meeting windows ki lambi row ke beech se smashed hui aur arcade ki roof par baahar undeli, deliverers unke liye paani ke ek powerful stream ke sath ready the jisne unmein se kuch ko roof se dho diya aur baaki ko lagbhag drown (duboya) kar diya. Lekin fire ke mukable water prefer-able tha, aur windows se stampede abhi bhi jaatri rahi, aur pitiless drenching (bina-daya ki bauchhar) ispar tab tak assailed karti rahi jab tak building khaali nahi ho gayi; phir fire-boys hall mein chadh gaye aur ise itne paani se flood kar diya jo wahan majood aag se forty times zyaada aag ko annihilate (mitane) ke liye kafi tha; kyunki ek village fire-company ko aksar show off karne ka chance nahi milta, aur so jab unhein chance milta hai toh woh iska sabse zyaada fayda uthaate hain. Us village ke jo citizens ek thoughtful aur judicious temperament (samajhdaari wale mizaaj) ke the, woh fire ke khilaf insurance nahi karwate the; woh fire-company ke khilaf insurance karwate the.
+
+---
+
