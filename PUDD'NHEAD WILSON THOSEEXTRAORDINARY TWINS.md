@@ -1257,3 +1257,156 @@ Tom bahut heavy-hearted (bhaari dil ke) the. Unka appetite (bhook) unqi property
 “Shuru karne ke liye,” unhone apne aap se kaha, “main apni raid ke parinaam (proceeds) ke sath hisab barabar karunga, aur phir gambling ko rokna hi hoga—aur turant rokna hoga. Yeh mere paas sabse badtar burai (worst vice) hai—kam se kam mere standpoint se, kyunki yeh wahi hai jise woh mere creditors (karz-daataon) ke impatience ke zariye sabse aasaani se dhoondh sakte hain. Unhone mere liye unhein ek baar do sau dollars pay karne ko expensive socha tha. Expensive—woh! Why, isne mujhe unqi poori fortune ki keemat lagai—lekin o' course unhone is baare mein kabhi nahi socha; kuch log kisi mamle ke apne side ke alava kisi aur side ke baare mein nahi soch sakte. Agar unhein pata hota ki main abhi kitna gehra andar hoon, toh vasiyat bina kisi duel ke madad ke wait kiye bhaand mein chali gayi (gone to pot) hoti. Teen sau dollars! Yeh ek dher (pile) hai! Lekin woh is baare mein kabhi nahi sunenge, main kehne ke liye thankful hoon. Jis minute maine ise clear off kar diya, main safe hoon; aur main dobara kabhi kisi card ko touch nahi karunga. Anyway, main tab tak nahi karunga jab ki woh zinda hain, main ispar kasam (oath) khata hoon. Main apne is aakhiri sudhaar (last reform) mein enter kar raha hoon—main ise jaanta hoon—haan, aur main jeetunga; lekin uske baad, agar main dobara kabhi slip hua toh main chala gya.”
 
 ---
+
+# Chapter XIII — Tom Stares at Ruin
+
+### _(Tom Apni Barbaadi Ko Dekhta Hai)_
+
+---
+
+> _When I reflect upon the number of disagreeable people who I know have gone to a better world, I am moved to lead a different life.—Pudd’nhead Wilson’s Calendar._
+> _(Jab main un na-pasandida logon ki sankhya par vichar karta hoon jinhein main jaanta hoon ki woh ek behtar duniya [better world] mein chale gaye hain, toh main ek different life jeene ke liye prerit ho jata hoon.)_
+> _October. This is one of the peculiarly dangerous months to speculate in stocks in. The others are July, January, September, April, November, May, March, June, December, August, and February.—Pudd’nhead Wilson’s Calendar._
+> _(October: Stocks mein satta lagane [speculate] ke liye yeh vishisht roop se khatarnak mahinon mein se ek hai. Baaki ke mahine July, January, September, April, November, May, March, June, December, August, aur February hain.)_
+
+---
+
+Is tarah udaasi se (mournfully) apne aap se baatcheet karte hue, Tom Pudd’nhead Wilson ke ghar ke paas se guzar kar gali mein aage bhatakta (moped) raha, aur dono taraf khaali jameen ko gherne wali fences ke beech tab tak chalta raha jab tak woh ha'nted house ke paas nahi pahunch gya. Phir woh dheron aah bharta hua aur trouble se bhaari hokar udaasi se wapas lauta. Use sakht zarurat thi kisi khush-mizaaj saathi (cheerful company) ki. Rowena! Is vichaar par uske dil ne ek udaan bhari, lekin agle hi vichaar ne use shant kar diya—woh na-pasandida twins wahin honge.
+
+Woh Wilson ke ghar ke us hisse ki taraf tha jahan log rehte the, aur ab jab woh uske paas pahuncha toh usne notice kiya ki sitting-room mein lights jal rahi hain. Yeh kaam karega; doosre log kabhi-kabhi use aisa mehsus karwate the ki uska swagat nahi hai (feel unwelcome), lekin Wilson uske prati shishtata (courtesy) baratne mein kabhi fail nahi hote the, aur ek dayalu shishtata kam se kam kisi ke ehsaason ko bacha leti hai, bhale hi yeh swagat ka dava na karti ho. Wilson ne apni dehleez (threshold) par kadmon ki awaaz suni, aur phir gala saaf karne ki.
+
+“Yeh wahi badalti-bhavnao wala, aashiq young murkh (fickle-tempered, dissipated young goose) hai—poor devil, use aaj dost bahut kam mil rahe honge, nishchhit roop se, ek personal-assault case ko kanoon ki court mein le jaane ke apmaan ke baad.”
+
+Ek behal dastak (dejected knock). “Andar aao!”
+
+Tom enter hua, aur bina kuch kahe ek chair par jhhuk (drooped) gya. Wilson ne kindly kaha—
+
+“Why, mere boy, tum ujaad (desolate) lag rahe ho. Ise itna hard mat lo. Koshish karo aur bhool jao ki tumhein laath maari (kicked) gayi hai.”
+
+“Oh, dear,” Tom keha, wretchedly (pareshan roop se), “yeh woh nahi hai, Pudd’nhead—yeh woh nahi hai. Yeh usse ek hazar guna badtar hai—oh, haan, ek lakh guna badtar.”
+
+“Why, Tom, tumhara matlab kya hai? Kya Rowena ne—”
+
+“Mujhe chhod diya (Flung me)? Nahi, lekin purane mard (old man) ne chhod diya hai.”
+
+Wilson ne apne aap se kaha, “Aha!” aur bedroom mein majood us rahasyamai girl ke baare mein socha. “Driscolls ne khulase (discoveries) kiye hain!” Phir unhone zor se, gombhirta se kaha:
+
+“Tom, aashiqui (dissipation) ke kuch aise tareeqe hote hain jo—”
+
+“Oh, dhhat tere ki, iska aashiqui se koi lena-dena nahi hai. Woh chahte the ki main us derned Italian jaanwar ko challenge karoon, aur main aisa nahi karta.”
+
+“Haan, o' course woh aisa hi karte,” Wilson ne ek vicharsheel aur samanya dhang (meditative matter-of-course way) se kaha, “lekin jis cheez ne mujhe puzzle kiya woh yeh hai ki, ek baat toh yeh, unhone kal raat is baare mein kyun nahi dekha, aur unhone tumhein duel se pehle ya uske baad is tarah ka mamla kanoon ki court mein le jaane hi kyun diya. Yeh iske liye jagah nahi hai. Yeh unke jaisa nahi tha. Main ise nahi samajh saka. Yeh kaise hua?”
+
+“Yeh isliye hua kyunki woh is baare mein kuch nahi jaante the. Kal raat jab main ghar pahuncha toh woh so rahe the.”
+
+“Aur tumne unhein nahi jagaya? Tom, kya yeh possible hai?”
+
+Tom ko yahan bahut zyaada raahat nahi mil rahi thi. Woh ek moment ke liye be-chain (fidgeted) hua, phir bola:
+
+“Maine unhein batana nahi chuna—bas itna hi. Woh bhor hone se pehle Pembroke Howard ke sath fishing par ja rahe the, aur agar main twins ko samanya calaboose (jail) mein daal deta—aur maine sure socha tha ki main kar sakta hoon—maine kabhi dream mein bhi nahi socha tha ki woh itne ghaatank apraadh ke liye ek mamuli fine (paltry fine) dekar baahar nikal jayenge—well, ek baar calaboose mein jaane par unki be-izzati ho jaati, aur uncle us tarah ke characters ke sath koi duels nahi chahte, aur na hi izazat dete.”
+
+“Tom, mujhe tumpar sharm aati hai! Main nahi dekhta ki tum apne achhe purane uncle ke sath aisa treat kaise kar sakte the. Main tumse behtar unka dost hoon; kyunki agar mujhe circumstances pata hote toh main us case ko tab tak court se baahar rakhta jab tak main unhein word (khabar) na de deta aur unhein ek gentleman ka chance na lene deta.”
+
+“Aap aisa karte?” Tom chilla utha, teez surprise ke sath. “Aur yeh aapka pehla case hota! Aur aap perfectly alright jaante hain ki agar unhein woh chance mila hota toh kabhi koi case banta hi nahi, kya aap nahi jaante? Aur aap aaj ek actually launched aur recognized lawyer banne ke bajaye apne baki ke din ek kangal gair-mahatva insaan (pauper nobody) ke roop mein khatam karte. Aur aap sach mein aisa karte, kya aap karte?”
+
+“Nishchhit roop se.”
+
+Tom ne ek-do moment ke liye unqi taraf dekha, phir udaasi se apna head hilaaya aur kaha—
+
+“Main aapka vishwas karta hoon—apne sabd par main karta hoon. Main nahi jaanta main kyun karta hoon, lekin main karta hoon. Pudd’nhead Wilson, main sochta hoon aap sabse bade bewakoof hain jise maine kabhi dekha hai.”
+
+“Thank you.”
+
+“Zikr mat kijiye (Don’t mention it).”
+
+“Well, woh aapko Italian se fight karne ke liye keh rahe hain aur aapne mana kar diya hai. Ek honorable khandaan ke ghatiya bache hue ansh (degenerate remnant)! Mujhe tumpar poori tarah se sharm aati hai, Tom!”
+
+“Oh, woh kuch nahi hai! Mujhe ab kisi cheez ki parwah nahi hai, ab jab vasiyat dobara tod di (will's torn up) gayi hai.”
+
+“Tom, mujhe saaf-saaf batao—kya unhone un do cheezon ke alava tummein koi aur galti nahi nikaali—case court mein le jaane aur fight karne se mana karne ke alava?”
+
+Unhone young bande ke face ko baareek roop se watch kiya, lekin yeh poori tarah se shant (reposeful) tha, aur waisi hi awaaz bhi thi jisne javab diya:
+
+“Nahi, unhone mujh mein koi aur galti nahi nikaali. Agar unhein nikaalni hoti, toh woh kal hi shuru kar dete, kyunki unka mizaaj theek uske liye tha. Woh us judwa-jodi (jack-pair) ko shehar mein chaaron taraf ghumate rahe aur unhein nazaare dikhaye, aur jab woh ghar aaye toh unhein apne father ka woh purana silver watch nahi mila jo sahi samay nahi batata aur jise woh itna keemti maante hain, aur yaad nahi kar sake ki unhone teen ya char din pehle iske sath kya kiya tha jab unhone ise aakhiri baar dekha tha, aur isliye jab main arrived hua toh woh is baare mein poore pasine mein the, aur jab maine suggest kiya ki yeh probably khoya nahi balki chura (stolen) liya gya hai, toh isne unhein ek regular gusse (passion) mein daal diya aur unhone kaha ki main ek bewakoof hoon—jisne mujhe bina kisi trouble ke convince kar diya ki exactly yahi woh cheez thi jiska unhein khud darr tha ki hua hai, lekin vishwas nahi karna chahte the, kyunki khoyi hui cheezon ke dobara milne ka chance churai hui cheezon ke mukable behtar hota hai.”
+
+“Whe-ew!” Wilson ne seeti bajai (whistled); “list par ek aur score karo.”
+
+“Ek aur kya?”
+
+“Ek aur chori (theft)!”
+
+“Chori?”
+
+“Haan, chori. Woh watch khoya nahi hai, chura gya hai. Town par ek aur raid hui hai—aur theek usi same purane rahasyamai tarah ki cheez sthit hui hai jo pehle bhi ek baar ho chuki hai, jaisa tumhein yaad hai.”
+
+“Aapka matlab yeh nahi ho sakta!”
+
+“Yeh utna hi sure hai jitna tum paada hue ho! Kya aapne khud kuch miss kiya hai?”
+
+“Nahi. Yaani kehna ka matlab hai, maine ek silver pencil-case miss kiya tha jise Aunt Mary Pratt ne mujhe pichle birthday par diya tha—”
+
+“Aap ise chura hua payenge—wahi aap payenge.”
+
+“Nahi, main nahi paunga; kyunki jab maine watch ke baare mein chori ka sujhav diya aur aishi daant haasil ki, main gaya aur apne room ko examined kiya, aur pencil-case missing tha, lekin yeh sirf galat jagah rakh (mislaid) diya gya tha, aur maine ise dobara paa liya.”
+
+“Aap sure hain aapne kuch aur miss nahi kiya?”
+
+“Well, mahatva ka kuch nahi. Maine ek choti plain gold ring miss ki hai jiski keemat do ya teen dollars hai, lekin woh samne aa jayegi. Main dobara dekhunga.”
+
+“Meri raai mein aap ise nahi payenge. Ek raid hui hai, main tumhein batata hoon. Andar aao!”
+
+Mr. Justice Robinson enter hue, jinke peeche Buckstone aur shehar ke constable, Jim Blake the. Corporate roop se woh baith gaye, aur weather ke baare mein thoda bhatakane aur bina maqsad ki baatcheet ke baad Wilson ne kaha—
+
+“By the way, humne abhi choriyon ki list mein ek aur add kiya hai, maybe do. Judge Driscoll ka purana silver watch chala gya hai, aur Tom ne yahan ek gold ring miss ki hai.”
+
+“Well, yeh ek kharab business hai,” Justice ne kaha, “aur jitna aige jata hai badtar hota jata hai. Hankses, Dobsons, Pilligrews, Ortons, Grangers, Hales, Fullers, Holcombs, in fact har koi jo Patsy Cooper ke aas-paas rehta hai, un sabke gharon se choti cheezein jaise trinkets (gehne) aur teaspoons aur us jaise chote valuables chura liye gaye hain jinhein aasaani se carry off kiya ja sake. Yeh perfectly alright saaf hai ki chor ne Patsy Cooper ke yahan reception ka advantage uthaya jab saarre neighbors uske ghar mein the aur unke saarre negroes show dekhne ke liye uski fence ke chaaron taraf latak rahe the, taaki bina kisi rukavat (undisturbed) ke khali gharon par raid ki ja sake. Patsy is baare mein miserable (udaas) hain; neighbors ke kaaran miserable hain, aur khhasakar o' course apne foreigners ke kaaran miserable hain; unke kaaran itni miserable hain ki unke paas apne chote nuksaan (losses) ke baare mein worry karne ke liye koi jagah nahi hai.”
+
+“Yeh wahi same purana raider hai,” Wilson ne kaha. “Main assume karta hoon is baare mein koi shakk nahi hai.”
+
+“Constable Blake aisa nahi sochte.”
+
+“Nahi, aap wahan galat hain,” Blake ne kaha; “pichli baar woh ek mard tha; uske dheron signs the, jaisa hum jaante hain profession mein, bhale hi humne kabhi uspar haath nahi rakkha; lekin is baar yeh ek aurat hai.”
+
+Wilson ne immediately us rahasyamai girl ke baare mein socha. Woh ab hamesha unke mind mein thin. Lekin usne unhein dobara fail kar diya. Blake ne jaatri rakha:
+
+“Woh ek jhhuke hue kandhoon wali purani aurat (stoop-shouldered old woman) hai jiske haath mein ek dhaki hui basket hai, black veil mein, mourning (shok ke kapdo) mein dressed. Maine kal use ferry-boat par jaate hue dekha tha. Illinois mein rehti hai, I reckon; lekin mujhe parwah nahi woh kahan rehti hai, main use pakadne ja raha hoon—woh is baare mein sure ho sakti hai.”
+
+“Aapko aisa kyun lagta hai ki woh chor hai?”
+
+“Well, ek baat toh yeh, koi doosra hai hi nahi; aur doosri baat, kuch nigger draymen (saaman-dhone wale) jinhone sanyog se wahan ddaud lagai thi, unhone use gharon se baahar aate ya andar jaate dekha, aur mujhe aisa bataya—aur yeh theek sanyog hai ki woh churaaye hue ghar the, har baar.”
+
+Yeh sweekar kiya gya ki yeh kaafi achhi circumstantial evidence (paristhitijanya saboot) thi. Ek vicharsheel khamoshi (pensive silence) follow hui, jo kuch moments tak chalti rahi, phir Wilson ne kaha—
+
+“Ek achhi cheez hai, anyway. Woh Count Luigi ke costly Indian dagger (keemti khanjar) ko na toh pawn (girvi) rakh sakti hai aur na hi bech sakti hai.”
+
+“Baap re!” Tom ne kaha, “kya woh bhi chala gya?”
+
+“Haan.”
+
+“Well, woh ek bada haul (badi chori) tha! Lekin woh ise pawn ya sell kyun nahi kar sakti?”
+
+“Kyunki jab twins kal raat Sons of Liberty meeting se ghar gaye, toh har taraf se raid ki news filter ho rahi thi, aur Aunt Patsy is darr mein thin ki kahin unhone kuch khoya toh nahi. Unhone paaya ki dagger chala gya hai, aur unhone har jagah police aur pawnbrokers (girvi rakhne walon) ko notify kar diya. Yeh ek bada haul tha, haan, lekin purani aurat ko isse kuch nahi milega, kyunki woh pakdi (caught) jayegi.”
+
+“Kya unhone koi reward offer kiya?” Buckstone ne poocha.
+
+“Haan; knife ke liye five hundred dollars, aur chor ke liye five hundred mazeed.”
+
+“Kaisa leather-headed (mota-dimaag) idea hai!” constable chilla utha. “Chor unke paas jaane ki dharstata nahi karega, aur na hi kisi ko bhejega. Jo bhi jayega woh khud ko nabbed (pakda) karwayega, kyunki aisa koi pawnbroker nahi hai jo us chance ko khona chahega—”
+
+Agar us samay kisi ne Tom ke face ko notice kiya hota, toh iska gray-green color jigyasa jagah sakta tha; lekin kisi ne nahi kiya. Unhone apne aap se kaha: “Main chala gya! Main kabhi hisab barabar (square up) nahi kar sakta; baki ka plunder (loot ka saaman) pure bill ke aadhe hisse ke badle bhi pawn ya sell nahi hoga. Oh, main ise jaanta hoon—main chala gya, main chala gya—aur is baar yeh hamesha ke liye hai. Oh, yeh awful hai—main nahi jaanta kya karna hai, aur na hi kis raaste par mudna hai!”
+
+“Halke se, halke se,” Wilson ne Blake se kaha. “Maine kal aadhiraat ko unke liye unqi yojana plan ki thi, aur yeh aaj subah do baje tak poori tarah shipshape khatam ho gayi thi. Unhein apna dagger wapas mil jayega, aur phir main aapko explain karunga ki yeh kaam kaise kiya gya tha.”
+
+Wahan ek samanya jigyasa (general curiosity) ke strong signs the, aur Buckstone ne kaha—
+
+“Well, aapne hamein kaafi sharp sharp utsaahit (whetted us up) kar diya hai, Wilson, aur main yeh confidence mein batane ke liye free hoon agar aap parwah na karein—”
+
+“Oh, main jitna jaldi batana chahta hoon utna hi, Buckstone, lekin jab tak twins aur main is baare mein kuch na kehne par sahmat (agreed) hue the, hamein ise aise hi rehne dena hoga. Lekin aap ispar mera sabd le sakte hain aapko teen din wait nahi karna padega. Koi bahut jaldi us reward ke liye apply karega, aur main uske theek baad aapko chor aur dagger dono bahut jaldi dikhaunga.”
+
+Constable disappointed tha, aur sath hi perplexed (bhramit) bhi. Usne kaha—
+
+“Yeh sab ho sakta hai—haan, aur main hope karta hoon aisa hi ho, lekin agar main iske beech se apna rasta dekh sakoon toh mujhe blame karna. Yeh aapke is vafadar (yours truly) ke liye zaroorat se zyaada hai.”
+
+Subject lagbhag poori tarah talk out ho chuka lag raha tha. Kisi ke paas offer karne ke liye aige kuch nahi lag raha tha. Ek khamoshi ke baad Justice of peace ne Wilson ko inform kiya ki woh aur Buckstone aur constable Democratic party ke part par ek committee ke roop mein aaye hain, unse **mayor** ke liye run (khada hone) karne ke liye kehne ke liye—kyunki chota town ab ek city banne wala tha aur pehla charter election paas aa raha tha. Yeh pehli attention thi jo Wilson ne kabhi kisi party ke haathon receive ki thi; yeh ek kaafi mamuli (humble) thi, lekin yeh aakhirkar shehar ki life aur activities mein unke début ka ek recognition tha; yeh upar ki taraf ek kadam (step upward) tha, aur woh gehrai se gratified (khush) the. Unhone sweekar kiya, aur committee chali gayi, jinke peeche young Tom follow kar raha tha.
+
+---
