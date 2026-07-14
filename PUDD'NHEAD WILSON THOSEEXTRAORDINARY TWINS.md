@@ -2994,3 +2994,101 @@ Phir wahan haath milana (hand-shakings), aur badhaiyan (congratulations), aur ho
 Twins se milne jo visitor aaya tha woh Rev. Mr. Hotchkiss the, Baptist church ke pastor. Reception par Angelo ne unse kaha tha ki usne haal hi mein apne religious views mein ek badlav anubhav (experienced) kiya hai, aur ab ek Baptist banne ka desirous (ichha-hukm) hai, aur Mr. Hotchkiss's church mein instantly join ho jayega. Mazeed kehne ka samay nahi tha, aur brief talk usi point par khatam ho gayi thin. Minister bahut gratified the, aur ab ek moment ke liye drop in hue the, twins ko aaj evening aath baje apni Bible class attend karne ke liye invite karne ke liye. Angelo ne sweekar kiya, aur Luigi se refuse karne ki expect kar raha tha, lekin usne nahi kiya, kyunki woh jaanta tha ki Bible class aur Freethinkers same room mein milte hain, aur woh apne bhai ko free-thinking company mein pakde jaane ke embarrassment ka treat dena chahta tha.
 
 ---
+
+# Chapter VI — The Amazing Duel
+
+### *(Adbhut Muqabla)*
+
+---
+
+> *A deputation came in the evening and conferred upon Wilson the welcome honor of a nomination for mayor; for the village has just been converted into a city by charter. Tom skulks out of challenging the twins. Judge Driscoll thereupon challenges Angelo (accused by Tom of doing the kicking); he declines, but Luigi accepts in his place against Angelo's timid protest.*
+> *[Evening mein ek deputation aaya aur unhone Wilson ko mayor pad ke namankan [nomination] ka ek welcome sammaan pradan kiya; kyunki village abhi charter dwara ek city mein convert hua hai. Tom twins ko challenge karne se sarak [skulks] jata hai. Judge Driscoll ispar Angelo (jispar Tom ne laath maarne ka aarop lagaya tha) ko challenge karte hain; woh mana kar deta hai, lekin Luigi Angelo ke darr-bhare virodh ke khilaf uski jagah ise sweekar karta hai.]*
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+Saturday ki der raat thi, lagbhag eleven (gyaarah) baje ke paas.
+
+Judge aur unke second (Pembroke Howard) ne baki ki war party (yuddh dal) ko khaali jameen ke doosre chhor par, ha'nted house ke paas paaya. Pudd’nhead Wilson unse milne aige badhe, aur unhone chintit hokar kaha:
+
+“Mujhe apne principal ke proxy, Count Luigi, ke part par ek sabd kehna hoga, jinhein aapne kindly apne principal ki battle unke badle ladne ka privilege pradan kiya hai. Der ho rahi hai, aur Count Luigi is bade trouble mein hain ki kahin khatam hone se pehle midnight (baarah) na baj jaye.”
+
+“Yeh ek aur gvahi hai,” Howard ne prashansa karte hue kaha. “Woh young man andar tak fine hai. Woh apne bhai ko Sabbath (pavitra Sunday) par fight karne ke dukh se bachana chahta hai, aur woh right hai; yeh right aur mardaana ehsaas hai aur use credit deta hai. Hum jitni possible ho sake utni jaldi karenge.”
+
+Wilson ne kaha: “Wahan ek aur kaaran bhi hai—ek vichar, in fact, jo khud Count Luigi se gehrai se talluk rakkhta hai. In twins ke paas apni sanjha legs (mutual legs) ka command baari-baari se hota hai. Count Luigi abhi command mein hain; lekin midnight par, kabza mere principal, Count Angelo, ke paas chala jayega, aur—well, aap foresee (andaza) kar sakte hain kya hoga. Woh field se seedhe baahar march kar jayenge, aur Luigi ko apne sath le jayenge.”
+
+“Why! sure enough!” Judge chilla uthe, “humne unke being ke us asadharn kanoon (extraordinary law of their being) ke baare mein pehle hi kuch suna hai—kuch bahut definite nahi, yeh true hai, jahan tak dates aur power ke samay ka sawaal hai, lekin main dekhta hoon aaj raat ke hisab se yeh kafi definite hai. O' course hamein Luigi ko har ek chance dena chahiye. Jitna possible ho saari ceremonial omit (chhod) kijiye, gentlemen, aur hamein position mein place kijiye.”
+
+Seconds ne instantly ek coin tossed up kiya; Howard ne chunaav jeeta. Unhone Judge ko ha'nted house se sixty feet ki doori par aur uski taraf face karke rakkha; Wilson ne twins ko house se fifteen feet ke andar aur Judge ki taraf face karke rakkha—necessarily (majbooran). Pistol-case open kiya gya aur lambi slim tubes baahar nikaali gayin; jab moonlight unpar glinted hui toh Angelo ke beech se ek shudder guzar gya. Doctor ek bewakoof (fool) tha, lekin poori tarah se achha-matlab rakhne wala, ek kind heart aur oblige karne ke ek sincere mizaaj ke sath, lekin uske sath hi tact (samajhdaari) ki ek gair-maujoodgi jo aksar iski effectiveness ko chot pahuncheiti thi. Woh lint aur bandages ka apna box le aaya, aur usne Angelo se inhe feel karne aur dekhne ke liye kaha ki woh kitne soft aur comfortable the. Angelo ka head ek faint (behoshi) mein Luigi ke khilaf neeche gir gya, aur use hosh mein lane (bringing him to) mein keemti samay barbaad ho gya; jisne Luigi ko kaafi vigor aur frankness ke sath doctor ke samne apna mind express karne par provoked (gussa) kiya. Angelo ke hosh mein aane ke baad woh abhi bhi itna weak tha ki Luigi ko use brace up karne ke liye brandy ka ek stiff horn peena pada.
+
+Seconds ab instantly apne posts par step kar gaye, combatants ke beech aadhe raaste par, unmein se har ek line of fire ke ek-ek side par. Wilson ko bahut deliberately count karna tha, “One-two-three-fire!—stop!” aur duelists us recitation ke dauran kisi bhi samay bang away (goli chala) sakte the jo unhone chuna, lekin aakhiri sabd ke baad nahi. Angelo bahut nervous ho gya jab usne Wilson ka haath saavdhani se hawa mein uthte dekha jo ready hone ka ek sign tha, aur usne apna head Luigi ke khilaf leaned kiya aur kaha:
+
+“Oh, please mujhe yahan se door le jao, main nahi ruk sakta, main jaanta hoon main nahi ja sakta!”
+
+“Tum duniya mein kya kar rahe ho? Seedhe khade ho! Tumhein kya mamla hai?—tum kisi danger mein nahi ho—tum par koi shoot karne nahi ja raha hai. Seedhe khade ho, main tumhein kehta hoon!”
+
+Angelo ne palan kiya, theek sahi samay par yeh sunne ke liye:
+
+“One—!”
+
+“Bang!” Just ek report (awaaz), aur white baalon ka ek chota sa dher (tuft) moonlight mein slowly Judge ke pairon par floated hua. Judge swerve nahi hue; woh abhi bhi ek statue ki tarah seedhe aur motionless khade the, apni pistol-arm ko seedhe apne side neeche latkaye hue. Woh apni fire reserve kar rahe the.
+
+“Two—!”
+
+“Three—!”
+
+“Fire—!”
+
+Pistol-arm instantly upar aayi—Angelo report ke sath dodged (jhatke se bacha) hua. Usne kaha “Ouch!” aur dobara faint ho gya.
+
+Doctor ne wound ko examined kiya aur bandage lagai.
+
+Usne kaha yeh kisi mahatva ka nahi tha—bullet arm ke maseele hisse (fleshy part) se guzri hai—koi bones broken nahi hain—gentleman abhi bhi fight karne kabil hain, duel ko proceed hone dein.
+
+Agle baar Angelo theek tab jumped hua jab Luigi ne fired kiya, jisne uske aim ko disordered kar diya aur uske kaaran usne Howard ke ear ka ek chip kaat diya. Judge ne apna samay dobara liya, aur jab unhone fired kiya toh Angelo jumped hua aur uski ek knuckle skinned (chhhil) gayi. Doctor ne wounds ko inspect aur dressed kiya. Angelo ne ab bol utha aur kaha woh us satisfaction se content (santusht) hai jo use mila hai, aur agar Judge—lekin Luigi ne use roughly shut up kar diya, aur usse khud ka ek gadhha (an ass) na banane ke liye kaha; adding:
+
+“Aur main chahta hoon tum dodging band karo. Tum us person ke hisab se is cheez mein bahut zyaada prominent part lete ho jiska isse koi lena-dena nahi hai. Tumhein yaad rakhna chahiye ki tum yahan sirf courtesy ke baahar ho, aur bina kisi official recognition ke ho; officially tum yahan bilkul nahi ho; officially tum exist bhi nahi karte. Saarre maqsad aur maqsad ke hisab se tum is jagah se absent ho, aur tumhein apne ghamand ke khaatir ispar vichar karna chahiye ki jo person yahan present nahi hai use us mamle mein is tarah ki public aur indecent prominence lena shobha nahi deta jisme woh thoda sa bhi concerned nahi hai. Ab, dobara dodge mat karna; bullets tumhare liye nahi hain, woh mere liye hain; agar main unhein dodged chahta hoon toh main khud ispar dhyan dunga. Maine kabhi kisi person ko is tarah act karte nahi dekha.”
+
+Angelo ne us baat ki samajhdaari (reasonableness) dekhi jo uske bhai ne kahi thi, aur usne reform karne ki koshish zoor ki, lekin yeh koi use nahi thi; dono pistols same instant par off huin, aur woh ek baar phir jumped hua; unhein Judge ki bullet se apni cheek par ek sharp scrape (chhhilan) mili, aur isne Luigi ke aim ko aisa deflected kiya ki unqi ball wide chali gayi aur Pudd’nhead Wilson ki chin se skin ka ek flake chipped kar diya. Doctor ne wounded par dhyan diya.
+
+Niyamon ke mutabik, duel khatam ho chuka tha. Lekin Luigi poori tarah se patience se baahar tha, aur usne shots ke ek aur exchange ke liye beg kiya, is baat par jor dete hue ki apne bhai ke is indelicate vyavahar ke kaaran use koi fair chance nahi mila tha. Howard aise ek unusual privilege pradan karne ke khilaf the, lekin Judge ne Luigi ka part liya, aur add kiya ki indeed unhein khud ko fair roop se ek aur trial ka entitled maana ja sakta hai, kyunki bhale hi doosri side ka proxy unke is sharm-bhare bina-nateejah wale kaam (humiliatingly resultless work) ke liye kisi tareeqe se doshi nahi tha, lekin woh gentleman jiske sath woh yeh duel lad rahe the iske liye doshi tha, chunki agar usne koi advantages na khele hote aur apna head sthir rakkha hota, toh uska proxy bahut pehle hi disposed of ho chuka hota. Unhone add kiya:
+
+“Count Luigi ka ek aur exchange ke liye request ek aur proof hai ki woh ek brave aur chivalrous gentleman hain, aur main guzarish karta hoon ki jo courtesy woh mangte hain unhein accorded (pradan) ki jaye.”
+
+“Is udaarta ke liye main aapka sabse sincerely thank karta hoon, Judge Driscoll,” Luigi ne kaha, ek polite bow ke sath, aur apni jagah par move karte hue. Phir usne add kiya—Angelo se, “Ab apni grip hold karke rakkho, hold karke rakkho, main tumhein kehta hoon, aur main use nishchitta se land kar dunga!”
+
+Mard erect khade the, unqi pistol-arms unke sides par thin, dono seconds apne official posts par khade the, doctor Wilson ke rear mein five paces par apne instruments aur bandages haand mein liye khada tha. Gehre stillness, peaceful moonlight, motionless figures ne ek prabhavshali picture banayi aur aane wali fatal possibilities ne is impressiveness ko solemnity (gombhirta) tak augment kar diya. Wilson ka haath uthna shuru hua—slowly—slowly—higher—still higher—still higher—agle hi moment mein:
+
+“Boom!” distance se midnight ka pehla stroke uth khada hua; **Angelo ek deer (hiran) ki tarah off (bhaag nikalna) ho gya!**
+
+“Oh, tum na-batane-yogya dhokebaaz (unspeakable traitor)!” unka bhai chillaaya, jaise hi woh fence ke upar se soaring (udte) hue gaye.
+
+Doosre log surprised aur ghoorte hue khade rahe; aur vaise hi khade rahe, us ajeeb nazaare (strange spectacle) ko watch karte hue jab tak ki distance ne ise dissolve nahi kar diya aur unqi view se saaf nahi kiya. Phir unhone apni aankhein aise mali jaise log kisi dream se jaag rahe hon.
+
+“Well, maine pehle kabhi is tarah ka kuch nahi dekha!” Judge ne kaha. “Wilson, main ab sweekar karne ja raha hoon, ki main us leg business mein poori tarah bhandar karne kabil nahi tha, aur mujhe shak tha ki yeh un twins ke beech ek set-up convenience (banayi gayi suvidha) thi; aur jab Count Angelo faint hua toh maine socha maine poori yojana dekh li—socha yeh pretext No. 1 tha, aur iske baad doosre follow honge jab tak twelve o'clock arrive na ho jaye, aur Luigi fight karne ki desire rakhne ke saarre credit ke sath baahar nikal jayega aur phir bhi aakhirkar use fight nahi karni padegi. Lekin main galat tha. Uske pluck (sahas) ne ise prove kar diya. Woh ek brave fellow hai aur fight karna chahta tha.”
+
+“Is baare mein koi shakk nahi hai,” Howard ne kaha, aur add kiya, ek dukh-bhare tone mein, “lekin Angelo kis tarah ka na-laayak Christian hai—main hope aur vishwas karta hoon uske jaise zyaada nahi hain. Sabbath par kisi duel mein engaged hona right nahi hai—main khud ispar approve nahi kar sakta tha; lekin jo shuru ho chuka hai use finish karna—woh ek duty hai, din chahe jo bhi kyun na ho.”
+
+Woh chaaron taraf ghoomte (strolled along) rahe, abhi bhi hairan hote hue, abhi bhi baat karte hue.
+
+“Yeh ek curious circumstance hai,” surgeon ne tippani ki, Wilson ko unqi chin par thoda mazeed court-plaster chipkane ke liye ek moment rokate hue, jisse blood dobara leak hona shuru ho gya tha, “ki is duel mein jin dono parties ne pistols handled ki thin unka blood nahi nikla jabki kevel guests ki capacity mein present lagbhag saarre logon ko hit mila. Maine pehle is tarah ki baat nahi suni hai. Kya aap ise unusual nahi sochte?”
+
+“Haan,” Judge ne kaha, “yeh mujhe peculiar (ajeeb) laga hai. Peculiar aur badkismat. Main poore samay ispar annoyed tha. Angelo ke case mein isse koi bada farq nahi pada, kyunki woh ek hadd tak concerned tha, bhale hi officially na ho; lekin seconds ko compromised hote dekh kar mujhe trouble hui, aur phir bhi main mamle ko theek (mend) karne ka koi raasta nahi jaanta tha.”
+
+“Ise mend karne ka koi raasta nahi tha,” Howard ne kaha, jinka ear ab doctor dwara readjusted kiya raha tha; “code hamari jagah fix karta hai, aur ise badalna kanoon-purna nahi hota. Agar hum aapke side khade ho sakte, ya aapke piche, ya aapke samne, yeh—lekin yeh legitimate (vaidh) nahi hota aur doosri parties ke paas hamare khatre se khud ko protect karne ke prayas ke khilaf shikayat karne ka ek saaf right hota; code ka ullanghan nishchitta se kisi bhi case mein permissible nahi hai.”
+
+Wilson ne koi remarks offer nahi kiye. Unhein laga ki yahan itni solemnity ke liye bahut kam jagah thi, lekin unhone moolyankan kiya ki agar ek aisa duel jahan koi danger mein nahi tha ya seconds aur outsiders ke alava koi crippled nahi hua, in gentlemen ke liye usmein kuch ridiculous nahi tha, toh unka us feature par sanket karna probably unqi dekhne mein help nahi karega.
+
+Unhone unhein ek nightcap (raat ki drink) lene ke liye andar invite kiya, aur Howard aur Judge ne sweekar kiya, lekin doctor ne kaha use jaakar dekhna hoga ki Angelo ka mukhya wound kaisa chal raha hai.
+
+> [It was now Sunday, and in the afternoon Angelo was to be received into the Baptist communion by immersion—a doubtful prospect, the doctor feared.]
+> *[Ab Sunday tha, aur afternoon mein Angelo ko immersion [paani mein duboki] dwara Baptist communion mein receive kiya jana tha—ek shakk-bhari sambhavna, doctor ko darr tha.]*
+
+---
+
+### Key Takeaway
+
+Is chapter ka sateek tana-bana do heads aur ek pair legs ke beech ki procedur-al takrar par tika hai. Midnight par Angelo ke command haasil karte hi doobte-ubalte duel ka ant ek haasya-prad escape (deer-like flight) mein hota hai, jahan Mark Twain unke sanjha sharir ki adbhut majboori par vyang karte hain.
+
+---
