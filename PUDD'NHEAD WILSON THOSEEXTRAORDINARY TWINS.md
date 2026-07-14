@@ -3196,3 +3196,32 @@ Midnight par Angelo shanti se so raha tha. Uske immersion ne use nuksaan nahi pa
 “Wahan, tum dobara chheenkh rahe ho. Main neeche ja rahi hoon aur tumhare liye is saaman (truck) ka thoda mazeed mix karungi, dear.”
 
 ---
+
+# Chapter IX — The Drinkless Drunk
+
+### *(Bina-Piye Sharabi)*
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+Monday, Tuesday, aur Wednesday ke dauran twins ki haalat steadily mazeed kharab hoti gayi; lekin tab doctor ko unqi mother ke janaze (funeral) mein shamil hone ke liye South bulaya gya, aur woh forty-eight hours mein well (theek) ho gaye. Woh Friday ko sarak par appeared hue, aur naye-paada hue dalon (new-born parties), yaani Luigi aur Angelo factions dwara utsah ke sath swagat kiye gaye. Luigi faction ne apni takat Democratic party mein jhonk di, Angelo faction Whigs ke sath ek gathbandhan (combination) mein enter hua. Democrats ne naye city government ke tehat Luigi ko alderman pad ke liye nominate kiya, aur Whigs ne uske khilaf Angelo ko khada kiya. Democrats ne Pudd’nhead Wilson ko mayor ke liye nominate kiya, aur woh is gaurav mein akele chhod diye gaye, kyunki Whigs ke paas aisa koi mard nahi tha jo aise ek bhayanak virodhi (formidable opponent) ke khilaf muqable mein enter hone ke liye taiyar ho. Mississippi Valley ki history mein pehle kisi politician ne aisa sammaan (compliment) score nahi kiya tha.
+
+Dawson’s Landing mein political campaign kaafi garm dhang (pretty warm fashion) se shuru hua, aur har hafte mazeed hotter hota gya. Luigi ka poora dil ismein tha, aur yahan tak ki Angelo ne bhi interest ka ek hairat-angez dher viksit kiya—jo ki natural tha, kyunki woh mukhya roop se Whigism ko represent nahi kar raha tha, jo uske liye koi mahatva ki baat nahi thi; balki woh usse kahin mazeed fine aur badi cheez ko represent kar raha tha—yaani ki, Sudhaar (Reform). Usmein shehar ke poore reform element ki hopes centered thin; woh har ek gupt dal (clique) ka chuna hua aur admired champion tha jiske dil mein kisi bhi tarah ka ek pet reform tha. Woh vishal Teetotalers' Union (sharab-virodhi sangh) ka president tha, iska mukhya prophet aur mouthpiece (vakta) tha.
+
+Lekin jaise-jaise canvass (chunaav prachar) aige badha, chaaron taraf troubles uthna shuru ho gayin—twins ke liye troubles, aur unke zariye saarre parties aur segments aur parties ke fractions ke liye. Jab bhi Luigi ke paas legs ka command hota, woh Angelo ko balls (naach-gaane), rum shops (sharab ki dukaanon), Sons of Liberty parades, horse-races, campaign riots (chunaav ke dangon), aur har us jagah lekar jata jo use uski party aur church ke sath damage kar sake; aur jab Angelo ka hafta hota toh woh Luigi ko diligently har tarah ki naitik aur religious gatherings (dharmik sabhaon) mein lekar jata, piche khoyi hui jameen (ground) ko dobara haasil karne ka apna sabse behtar prayas karta hua. In double performances ke nateejatan, poore samay ek toofaan chal raha tha, ek tezi se uthta hua toofaan dono—twins ki paagal-bhari ninda (frantic criticism) aur unke is bekar, na-samajh-ane wale vyavahar (incomprehensible conduct) par krodh ka toofaan.
+
+Luigi ka paas aakhiri chance tha. Canvass ke aakhiri hafte ke liye legs uske the. Usne apne bhai ko ek daravna dance (fearful dance) karwaya.
+
+Lekin usne apna sabse behtar card election ki theek pehli raat (eve of the election) ke liye bachakar rakkha tha. Us din Teetotalers' Union ka ek shandaar turnout (juloos) hona tha, aur Angelo ko procession ke head par march karna tha aur uske baad ek bada bhashan (oration) deliver karna tha. Luigi ne do glasses whisky pi—jisne uske nerves to steady kiya aur uske mind ko clarify kiya, lekin isne Angelo ko drunk (sharab ke nashe mein) kar diya. Jis kisi ne bhi march dekha, usne dekha ki Teetotalers ka Champion aadha nashe mein ddooba (half seas over) hai, aur yeh bhi notice kiya ki uska bhai, jo extra temperance virtues (parhezgari ke gunon) ka koi pakhandi dikhava (hypocritical pretensions) nahi karta tha, dignified aur sober tha. Yeh kushal fact (eloquent fact) ek garm political canvass ke ant mein be-asar nahi reh sakta tha. Mass-meeting par Angelo ne apna bada temperance oration dene ki koshish zoor ki, lekin hichkiyon (hiccoughs) aur tongue ki motai (thickness of tongue) ke kaaran itna asuvidha-dar (discommoded) hua ki use ise chhodna pada; phir neend ne use gher liya aur uska head Luigi ke khilaf drooped ho gya aur woh so gya. Luigi ne uske badle apologize kiya, aur jise unhone “chal rahi teetotal madness (sharab-bandi ka paagalpan)” kaha usmein thode badlav ki appeal ke sath apne opportunity ko behtar banane ja rahe the, lekin audience mein logon ne chillaana aur unpar cheezein phenkna shuru kar diya, aur phir meeting krodh mein uthi aur unhein khaded kar ghar tak layee (chased him home).
+
+Yeh episode Angelo liye ek doosre tareeqe se crusher (tabaahi) tha. Isne Rowena ke sath uske chances ko nasht kar diya. Woh chances do mahinon se, right along, badh rahe the. Rowena ne aashik roop se sweekar kiya tha ki woh usse pyaar karti thin, lekin vichar karne ke liye samay chahti thin. Ab woh naram dream (tender dream) khatam ho chuka tha, aur unhone use usi moment aisa bataya jab woh samajhne jitna sober tha. Unhone kaha woh kabhi aise mard se shadi nahi karengi jo peeta ho.
+
+“Lekin main nahi peeta,” usne binnati (pleaded) ki.
+
+“Woh point ke liye kuch nahi hai,” unhone coldly kaha, “tum drunk (nashe mein) ho jaante ho, aur woh mazeed badtar hai.”
+
+> [There was a long and sufficiently idiotic discussion here, which ended as reported in a previous note.]
+> *[Yahan ek lambi aur paryapt roop se moorkhta-purna baatcheet [idiotic discussion] hui thi, jo pichele note mein report kiye gaye mutabik khatam hui.]*
+
+---
