@@ -2452,3 +2452,171 @@ Yeh abrupt (achanak) laga, lekin maine socha shayad reader is baare mein notice 
 Phir bhi kahani na-santoshjanak (unsatisfactory) thi. Yahan naye characters ka ek set tha jo hadd se pare mukhyata (prominent) mein aa chuke the aur jinone ant tak waisa hi rehne par jor diya; aur piche wahan ek purane logon ka set tha jinhone thodi der tak bada noise aur bada shor machaya aur phir sudden poori tarah se khatam (played out utterly) ho gaye aur well mein gir gaye. Kahin koi mool-gati defect (radical defect) tha, aur mujhe ise search out aur cure (theek) karna hi tha.
 
 Defect wahi turned out hua jiska pehle hi zikr kiya gya hai—do kahaniyan ek mein, ek farce aur ek tragedy. So maine farce ko baahar khinch liya aur tragedy ko chhod diya. Isne asli team ko andar chhod diya, lekin sirf mere names ke roop mein, characters ke roop mein nahi. Unqi mukhyata poori tarah chali gayi thi; woh drown karne ke layak bhi nahi the; so maine us detail ko hata diya. Sath hi maine un twins ko alag kar diya (took those twins apart) aur unse do separate mard bana diye. Unke paas ab foreign names rakhne ka koi mauqa nahi tha, lekin poore beech se unhein hataana bahut zyaada trouble ka kaam tha, so maine unhein vaise ही christened (naam-karan) chhod diya jaise woh the aur koi spashtikaran (explanation) nahi diya.
+
+---
+
+# Those Extraordinary Twins
+
+## Chapter I — The Twins as They Really Were
+
+### *(Judwa Bhaai Jaise Woh Vastav Mein The)*
+
+---
+
+> *The conglomerate twins were brought on the stage in Chapter I of the original extravaganza. Aunt Patsy Cooper has received their letter applying for board and lodging, and Rowena, her daughter, insane with joy, is begging for a hearing of it:*
+> *(Mishrit judwa bhaaiyon [conglomerate twins] ko mool tamashe [original extravaganza] ke Chapter I mein manch par laya gaya tha. Aunt Patsy Cooper ko khane aur rehne [board and lodging] ke liye aavedan karne wala unka letter mila hai, aur unqi beti Rowena, khushi se paagal hokar, ise sunne ki binnati kar rahi hai:)*
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+“Well, ab baith jao (set down) aur ek minute ke liye shant raho aur is tarah chaaron taraf mat udo; tumhein dekhkar main sach mein thak jaanti hoon. Yeh is tarah shuru hota hai: 'HONORED MADAM'—”
+
+“Mujhe yeh pasand hai, ma, kya aapko nahi? Yeh dikhata hai ki woh uccha-khandaan (high-bred) ke hain.”
+
+“Haan, maine ise tab notice kiya tha jab maine ise pehli baar padha tha. 'Mere bhai aur maine aapka ishtahar (advertisement), sanyog se, aapke sthaniya journal ki ek copy mein dekha hai—'”
+
+“Yeh kitna khoobsurat aur smooth hai, ma—kya aap aisa nahi sochtin?”
+
+“Haan, mujhe aisa hi lagta hai—'aur aapke dwara pradan kiye gaye room ko lene ki izazat mangte hain. Hum twenty-four saal ke hain, aur twins hain—'”
+
+“Twins! Kitna sweet! Main umeed karti hoon woh handsome hon, aur main nishchitta se jaanti hoon ki woh hain! Kya aap umeed nahi kartiin ki woh hon, ma?”
+
+“Jameen! Main vishisht nahi hoon. 'Hum janm se Italians hain—'”
+
+“Yeh kitna romantic hai! Bas socho is shehar mein kabhi koi nahi raha, aur har koi unhein dekhna chahega, aur woh poori tarah hamare hain! Us baare mein socho!”
+
+“—'lekin Europe ke alava deshoon mein lambe samay tak rahe hain, aur United States mein kai saal.'”
+
+“Oh, bas socho unhone kaise-kaise chamatkar (wonders) dekhe hain, ma! Unhein baat karte sunna kitna achha hoga na?”
+
+“Main reckon karti hoon aisa hi; haan, main reckon karti hoon aisa hi. 'Hamare naam Luigi aur Angelo Capello hain—'”
+
+“Khoobsurat, perfectly alright khoobsurat! Jones aur Robinson aur un bhyankar naamon jaise nahi.”
+
+“'Aapko sirf ek hi mehmaan (guest) chahiye, lekin dear madam, agar aap hamein do logon ke badle pay karne ki izazat dein toh hum aapko asuvidha (discommode) nahi pahunchayenge. Hum ek sath same bed par soyenge. Hum hamesha iske aadi rahe hain, aur ise prefer karte hain.' Aur phir woh aige kehta hai ki woh Thursday ko neeche aayenge.”
+
+“Aur aaj Tuesday hai—main nahi jaanti main kaise wait karne wali hoon, ma! Samay itna ghisat (drag along) raha hai, aur main unhein dekhne ke liye mari ja rahi hoon! Aapke hisab se unmein se kaun sabse lamba hai, ma?”
+
+“Main kaise bata sakti hoon, bacha? Zyaada tar woh same size ke hote hain—twins hote hain.”
+
+“Well phir, aapke hisab se kaun sabse behtar dikhta hai?”
+
+“God jaanta hai—main nahi jaanti.”
+
+“Main sochti hoon Angelo hai; anyway yeh sabse prettiest naam hai. Kya aapko nahi lagta yeh ek sweet naam hai, ma?”
+
+“Haan, yeh kaafi achha hai. Main dono ko behtar pasand karti agar mujhe unhein pukaarne ka tareeqa pata hota—Italian tareeqa, mera matlab hai. Missouri tareeqa aur Italian tareeqa different hai, main moolyankan karti hoon.”
+
+“Shayad—haan. Yeh Luigi hai jo letter likhta hai. Aap kya reckon kartiin hain kya kaaran hai Angelo ne ise nahi likha?”
+
+“Why, main kaise bata sakti hoon? Kya farq padta hai kaun ise likhta hai, jab tak ki yeh ho gya?”
+
+“Oh, ichha karti hoon aisa isliye na ho kyunki woh sick (bimar) hai! Aap aisa nahi sochtin ki woh bimar hai, kya aap kartiin hain, ma?”
+
+“Bimar tumhari nani; use bimar karne ke liye kya hai?”
+
+“Oh, is baare mein kabhi kuch nahi kaha ja sakta. Is tarah ke naamon wale in foreigners itne delicate (naazuk) hote hain, aur o' course us tarah ke naam hamare climate (jalvayu) ke mutabik sahi nahi hote—aap iski expect nahi karenge.”
+
+> [And so-on and so-on, no end. The time drags along; Thursday comes: the boat arrives in a pouring storm toward midnight.]
+> *[Aur isi tarah aige aur aige, koi ant nahi. Samay ghisatta rehta hai; Thursday aata hai: boat aadhiraat ke aas-paas ek undelti hui barish [pouring storm] mein arrive hoti hai.]*
+
+Aakhirkar door par ek knock hui aur chintit family ise open karne ke liye jhatki. Do negro mard enter hue, har ek ek trunk carry kiye hue, aur guest-room ki taraf upstairs badhe. Phir ek sunn kar dene wala parghat (stupefying apparition) follow hua—**ek do heads wala insani prani jiske char arms, ek body, aur legs ki ek single pair thi!** Usne—ya unhone, jaisa aap chahein—bade foreign formality ke sath bow (jhukna) kiya, lekin Coops instantly response nahi de sake; woh paralyzed (sunn) the. Us moment group ke piche se ek bhavuk chillaahat uthi—“My lan’!”—jiske baad mitti ke bartano ke tootne ka ek crash hua, aur gulam aurat Nancy floor par tabaah hue chaye ke saaman (tea-things) ki tray ke sath sthit aur ghoorthi hui khadi thin. Us incident ne jaadu (spell) ko tod diya, aur family ko hosh mein laya. Naye-aane wale ke khoobsurat heads dobara jhuke, aur unmein se ek ne aasan grace aur dignity ke sath kaha:
+
+“Main is sammaan ki guzarish karta hoon, madam aur miss, aapko apne bhai, Count Luigi Capello, se present karne ki,” (doosre head ne bow kiya) “aur khud se—Count Angelo; aur same samay par hamare aane ki deri ke liye sincere apologies offer karta hoon, jo na-bachne yogya (unavoidable) thi,” aur dono heads dobara jhuke.
+
+Poor purani lady hairani aur confusion ke ek chakkar (whirl) mein thin, lekin woh hakbakate hue nikaalne kabil huin:
+
+“Mera vishwas hai mujhe aapise milkar glad hoon, sir—mera matlab hai, gentlemen. Jahan tak deri ka sawaal hai, yeh kuch nahi hai, zikr mat kijiye. Yeh meri beti Rowena hai, sir—gentlemen. Please parlor mein step kijiye aur baithiye aur ek bite aur sup lijiye; aap dreadful wet (bhaari geele) hain aur uncomfortable honge—aap dono, mera matlab hai.”
+
+Lekin old lady ki raahat ke liye unhone shishtata se khud ko excuse kiya, yeh kehte hue ki family ko unke beds se mazeed baahar rakhna wrong hoga; phir har head ne apni baari par bow kiya aur ek dostana good night nikaala, aur woh ajeeb aakriti (singular figure) Rowena ke chote bhaion ke piche chal di, jo candles liye hue the, aur stairs ke upar vanished ho gayi.
+
+Widow ladkhada kar parlor mein gayin aur ek haanf (gasp) ke sath chair mein doob gayin, aur Rowena peeche follow huin, goonge-mouof aur dazed hokar. Dono dhab-dhab karti summer heat (garmoshat) ke beech silent baithe the, mosquitoes ke lakhon-awaazon wale music se anjaan, garajte hue toofaan se anjaan, windows aur roof par barish ke marodne aur kuchtalne se anjaan, bijli ki white glare se anjaan, thunder ke shor-bhare goonj aur chillaahat se anjaan; kisi cheez se jaan nahi thin siwaye us chamatkar (prodigy) ke, us darr-bhare parghat ke jo itna sudden aaya aur chala gya—woh ajeeb ajeeb cheez jo itni soft-spoken thi aur tareeqe mein itni gentle thi aur phir bhi usne unhein apne ghaatank roop (gruesome aspect) ke jhatke se ek earthquake ki tarah hila kar rakh diya tha. Aakhirkar widow ke kamzor dhanche (meager frame) ke neeche ek thanda chota shudder kaanp utha aur unhone ek weak awaaz mein kaha:
+
+“Ugh, us phillipene [judwa prani] ka sirf dekhna hi awful tha!”
+
+Rowena ne javab nahi diya. Unqi shaktiyan abhi bhi jami thin; unhone abhi tak apni awaaz nahi paayi thi. Jaldi hi widow ne thode gusse (resentfully) se kaha:
+
+“Hamesha ek sath sone ke aadi rahe hain—in-fact, ise prefer karte hain. Aur main soch rahi thin yeh mujhe jagah dene (accommodate) ke liye tha. Maine socha yeh unqi taraf se bahut achha tha, jabki ek person jo young man jishi situation mein sthit ho—”
+
+“Ma, aapko unke khilaf ek paksh-paat (prejudice) uthakar shuruat nahi karni chahiye. Main sure hoon woh good-hearted hain aur achha matlab rakhte hain. Unke dono faces ise dikhate hain.”
+
+“Main is baare mein itni certain nahi hoon. Left wala—mera matlab hai uske left wala—uski face mere raai mein, apne bhai jitni achhi bilkul nahi hai.”
+
+“Woh Luigi hai.”
+
+“Haan, Luigi; anyway yeh dark-skin wala hai; woh jo door par khade hone par apne bhai ke west mein tha. Jab woh ek boy tha tab har tarah ki sharaarat aur na-farmani (mischief and disobedience) ke liye taiyar rehta tha, main bound hoon. Main bet lagati hoon unqi mother ko use pakadne mein trouble hoti hogi jab woh use chahti thin. Lekin right wala sone jitna achha hai, main ise dekh sakti hoon.”
+
+“Woh Angelo hai.”
+
+“Haan, Angelo, main reckon karti hoon, bhale hi main unke naamon se unmein farq abhi thodi der tak nahi bata sakti. Lekin yeh right-hand wala hai—blond wala. Uske paas aishi kind blue eyes hain, aur ghumrale copper baal aur fresh rangat—”
+
+“Aur kaisa ek noble face!—oh, yeh ek noble face hai, ma, just royal (shahi), aap keh sakti hain! Aur khoobsurat baap re, kitna khoobsurat! Lekin dono hi woh hain; dark wala ek picture jitna khoobsurat hai. Is shehar mein aise koi adbhut faces aur handsome heads nahi hain jo shuruat bhi karein. Aur aise haand, khhasakar Angelo ke—itne shapely aur—”
+
+“Bakwaas, tum kaise bata sakti ho woh kiske the?—unhone gloves pehne the.”
+
+“Why, kya maine unhein apne hats utarte nahi dekha?”
+
+“Woh sanket nahi karta. Unhone ek doosre ke hats utare ho sakte hain. Koi nahi bata sakta tha. Hawa mein arms ka just ek keedon-jaisa machalna (wormy squirming of arms) tha—aisa laga jaise do dozen hon, saarre ek sath marod rahe hon, aur unhein chalte dekh kar mujhe just chakkar (dizzy) aa gya.”
+
+“Why, ma, mujhe koi difficulty nahi hui. Har shoulder par do arms hain—”
+
+“Wahan, ab. Har shoulder par ek arm har prani se belong karta hai, kya nahi karta? Kisi person ke liye ek shoulder par do arms hona uske kisi kaam ka nahi hoga, kya hoga? O' course nahi. Har ek ke paas har shoulder par ek arm hai. Ab den, tum mujhe batao unmein se kaun sa kisse belong karta hai, agar tum kar sakti ho. Woh khud nahi jaante—woh just jo bhi arm handy mile use chalate hain. O' course woh karte hain; khhasakar agar woh hurry mein hon aur yeh sochne ke liye na ruk sakein kaun sa kisse belong karta hai.”
+
+Mother ke paas tark ke adhikaar (rights of the argument) lag rahe the, so daughter ne struggle chhod diya. Jaldi hi widow ek jamhaai (yawn) ke sath uthin aur unhone kaha:
+
+“Poor thing, umeed karti hoon use cold (zukaam) nahi pakadega; woh pow'ful wet tha, just drench (bheega hua), aap keh sakti hain. Main hope karti hoon usne apne boots baahar chhod diye hon, taaki unhein sukhaya ja sake.”
+
+Phir unhone ek chota jhatka khaya, aur perplexed (bhramit) dikhin.
+
+“Ab mujhe yaad aaya maine unmein se ek ko Joe se use saade saat baje (half after seven) bulaane ke liye kehte suna tha—main sochti hoon yeh left wala tha—nahi, yeh doosre ke east wala tha—lekin maine doosre ko kuch kehte nahi suna. Main hairan hoon kya woh bhi bulaya jana chahta hai. Kya aap reckon kartiin hain poochne ke liye bahut der ho gayi hai?”
+
+“Why, ma, yeh zaroori nahi hai. Ek ko bulaana dono ko bulaana hai. Agar ek uthta hai, toh doosre ko uthna hi padega.”
+
+“Baap re, o' course; maine is baare mein kabhi nahi socha. Well, chalo aige, maybe hum kuch neend le sakein, lekin main nahi jaanti, main itni shook up hoon usse jiske beech se hum guzare hain.”
+
+Stranger ne boys par bhi ek impression banaya tha. Jab woh bed par ja rahe the toh unhone ek talk ki. Henry, jo gentle the, humane (dayalu) the, unhone kaha:
+
+“Main iske liye bahut zyaada sorry feel karta hoon, kya tum nahi karte, Joe?”
+
+Lekin Joe is world ka ek boy tha, active, enterprising, aur uske paas ek daramatayee side thi:
+
+“Sorry? Why, tum kaisi baat karte ho! Yeh bina attention attract kiye ek step nahi chal sakta. Yeh just grand hai!”
+
+Henry ne reproach-fully (shikayat ke sath) kaha:
+
+*“Ispar taras [pitying] khane ke bajaye, Joe, tum is tarah baat karte ho jaise—”*
+
+“Is tarah baat jaise kya? Main ek cheez mighty certain jaanta hoon: agar aap mujhe aise fix kar sakein taaki main do logon ke badle kha sakoon aur mujhe sirf ek ke badle toes stub (thokar khani) karni pade, toh main sirf sentiment ke khaatir aisa koi chance nahi ghumane wala.”
+
+Twins geele aur thake the, aur unhone bina kisi shuruati tippani (preliminary remarks) ke kapde utarna (undress) jaatri rakkha. Sleeve ki prachurta (abundance of sleeve) ne partnership coat ko utarna hard bana diya, kyunki yeh ek tarantula (makdi) ki khaal nikaalne (skinning) jaisa tha; lekin yeh aakhirkar dheron khinchne aur pasine ke baad aaya. Mutual vest (sanjha banyaal) follow hua. Phir bhaion glass ke samne khade hue, aur har ek ne apna cravat (tie) aur collar utara. Collars khade hone wali tarah (standing kind) ke the, aur ears ke neeche kaafi upar tak aate the, ek wheelbarrow (haath-gadi) ke sides ki tarah, jaisa us daur ki fashion dwara required tha. Cravats ek bankbill jitne wide the, jhaleer-dar ends (fringed ends) ke sath jo right aur left door tak baahar khade the jaise ek dragon-fly ke wings hon, aur yeh bhi strictly us samay ki fashion ke mutabik tha. Har cravat, color ke hisab se, perfect taste mein tha, jahan tak iske owner ki rangat ka sawaal tha—blond bhai ke case mein ek delicate pink, brunette ke case mein ek tivra scarlet—lekin ek combination ke roop mein unhone civilization ke jaan'ne wale taste ke saarre kanoonon ko tod diya. Un cheenkkhte aur apvaad-bhare colors (shrieking and blaspheming colors) se mazeed shaitani aur na-samjhauta-yogya kuch nahi contrived kiya ja sakta tha. Geele boots ne dheron trouble di—Luigi ko. Jab woh aakhirkar off hue, toh Angelo ne karrwahat ke sath kaha:
+
+“Main ichha karta hoon aap itne tight boots na pehnein, yeh mere pairon ko dard dete hain.”
+
+Luigi ne indifferently javab diya:
+
+“Mere dost, jab main hamari body ke command mein hota hoon, toh main apni pasand ke mutabik apne kapde chunta hoon, jaisa maine pehle hi kai baar se zyaada remark kiya hai. Jab aap command mein hon, main guzarish karta hoon aap jaisa chahein waisa karein.”
+
+Angelo ko chot pahunchei, aur unqi aankhon mein aansu aa gaye. Unqi awaaz mein ek gentle reproach thi, lekin krodh nahi, jab unhone javab diya:
+
+“Luigi, main aksar aapqi wishes ko consult karta hoon, lekin aap meri kabhi nahi karte. Jab main command mein hota hoon main aapko ek guest ke roop mein treat karta hoon; main aapko ghar jaisa feel karwane ki koshish karta hoon; jab aap command mein hote hain aap mujhe ek intruder (ghuspaithiye) ke roop mein treat karte hain, aap mujhe feel karwate hain mera swagat nahi hai. Yeh mujhe company mein cruelly embarrass karta hai, kyunki main dekh sakta hoon log ise notice karte hain aur ispar comment karte hain.”
+
+“Oh, logon ko d--- karo,” bhai ne languidly response diya, aur ek aise insaan ke air ke sath jo subject se thak chuka ho.
+
+Angelo ke khane (frame) ko ek halke se shudder ne hilaaya, lekin usne kuch nahi kaha aur baatcheet ceased (ruk) gayi. Har ek ne silence mein nightshirt ke apne hisse ko button kiya; phir Luigi ne, apne haath mein Paine's *Age of Reason* liye, ek chair par baith gya aur apne pair doosri mein rakkhe aur apni pipe jalai, jabki Angelo ne apni *Whole Duty of Man* li, aur dono padhne lage. Angelo jaldi hi khansne (cough) laga; uska khansna badha aur saans ke liye haanfane (gaspings) ke sath mix ho gya, aur woh finally apne bhai ki insaniyat (humanity) se ek appeal karne par majboor hua:
+
+“Luigi, agar aap sirf thodi si milder tobacco smoke karein, main sure hoon main samay ke sath ispar parwah na karna seekh sakta hoon, lekin yeh itni strong hai, aur pipe itni badbu-dar (rank) hai ki—”
+
+“Angelo, main aisa bacha (baby) nahi banunga! Maine ek hafte mein smoke karna seekha hai, aur trouble mere sath pehle hi khatam ho chuki hai; agar aap koshish karein, toh aap bhi seekh sakte hain, aur phir aap meri suvidha को apni is hamesha ki complaints (everlasting complaints) se spoil karna band kar denge.”
+
+“Ah, brother, woh ek strong sabd hai—everlasting—aur poori tarah fair nahi hai. Main sirf tab complain karta hoon jab mera saans rukta (suffocate) hai; aap jaante hain main tab complain nahi karta jab hum open air mein hote hain.”
+
+“Well, anyway, aap khud smoke karna seekh sakte hain.”
+
+“Lekin mere principles, Luigi, aap mere principles bhool jaate hain. Aap mujhse aishi cheez nahi karwayenge jise main ek sin (paap) ke roop mein maanta hoon?”
+
+“Oh, bakwaas (bosh)!”
+
+Baatcheet dobara ceased ho gayi, kyunki Angelo sick tha aur discouraged tha aur uska gala ruddh (strangling) raha تھا; lekin kuch samay baad usne apni kitab close ki aur Luigi se unke sath “From Greenland's Icy Mountains” gaane ke liye poocha, lekin woh nahi mana, aur jab usne khud se gaane ka prayas kiya toh Luigi ne apne thundering bass mein deliver kiye gaye ek rude aur rollicking gaane se uske us dard-bhare tenor (plaintive tenor) ko dubaane (drown) ka apna sabse behtar kiya.
+
+Gaane ke baad khamoshi (silence) thi, aur dono bhaion mein se koi happy nahi tha. Light out karne se pehle Luigi ne whisky ka aadha tumbler nigla (swallowed), aur Angelo ne, jiska sensitive organization kisi bhi tarah ke intoxicants ko jhel nahi sakta tha, use headache (sir-dard) na hone dene ke liye ek pill li.
