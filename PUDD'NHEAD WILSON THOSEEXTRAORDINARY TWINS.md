@@ -3092,3 +3092,107 @@ Unhone unhein ek nightcap (raat ki drink) lene ke liye andar invite kiya, aur Ho
 Is chapter ka sateek tana-bana do heads aur ek pair legs ke beech ki procedur-al takrar par tika hai. Midnight par Angelo ke command haasil karte hi doobte-ubalte duel ka ant ek haasya-prad escape (deer-like flight) mein hota hai, jahan Mark Twain unke sanjha sharir ki adbhut majboori par vyang karte hain.
 
 ---
+
+# Chapter VIII — Baptism of the Better Half
+
+### *(Behtar Aadhe Hisse Ka Baptism)*
+
+---
+
+Nau baje tak poora town aadhiraat ke duel ki news se gunguna (humming) raha تھا, aur is baare mein sirf do raai thin: ek yeh, ki field par Luigi ka sahas (pluck) sabse zyaada tareef ke kabil (praiseworthy) tha aur Angelo ka bhaagna sabse zyaada scandalous (kalankit); doosri yeh, ki zameer (conscience) ke khaatir field chhod kar bhaagne mein Angelo ka sahas utna hi fine aur creditable tha jitna bullets ke samne field par tike rehne mein Luigi ka tha. Ek raai shehar ke aadhe hisse dwara rakkhi gayi thin, doosri raai doosre aadhe hisse dwara maintain ki gayi thin. Yeh batwara bilkul saaf aur exact tha, aur isne do parties bana din, ek Angelo party aur ek Luigi party. Twins sudden Pudd’nhead Wilson ke sath-sath lok-priya idols ban gaye the, aur unhi jitni tivra gaurav ki aabha (haloed with a glory) se ghire the. Bache Sunday-school jaane ke poore raaste duel ki baat karte rahe, unke bade church jaane ke poore raaste ispar baat karte rahe, choir ne apne red curtain ke piche ispar discuss kiya, isne “nigger gallery” mein pavitra vicharon (pious thought) ki jagah chheen (usurped) li.
+
+Dopahar tak doctor ne yeh news add ki, aur ise phhailaya, ki Count Angelo, apni chot (wound) aur saari warnings aur binnation ke bavajood, nirdharit ghante par baptize hone ke apne nishchay par draddh (resolute) the. Yeh shehar mein jungle ki aag (wildfire) ki tarah phhail gya, aur isne Angelo faction ke utsah ko vishal roop se reinforced kiya, jinhone kaha, “Agar kisi ko shakk tha ki yeh naitik sahas (moral courage) tha jo use field se le gya, toh ab unhein kya kehna hai!”
+
+Phir bhi excitement badhti gayi. Poori subah yeh dehat ki taraf (countryward) travel kar rahi thin, compass ke saarre points ki taraf; so, jabki pehle sirf kisaan aur unqi wives hi is adbhut baptism ko dekhne aur witness karne ka intention rakh rahe the, ab ek samanya holiday (general holiday) proclaim kar di gayi aur bacchon aur negroes ko is occasion ke privileges mein aane diya gya. Das mile ke chaaron taraf ke saarre farms khali ho gaye the, saari aapas mein milti sarkein (converging roads) town mein wagons, horses aur kisaano ke lambe processions undel rahi thin. Logon ka dher aur bhed (pack and cram of people) usse vishal roop se zyaada tha jise pehle us sleepy region mein kabhi dekha gya ho. Akeli cheez jisne kabhi iske paas ddaud lagai thin, woh bahut pehle ka guzar chuka samay tha, lekin kabhi bhoola nahi gya, aur na hi kabhi hairani aur pride ke bina iska zikr kiya gya, jab do circuses aur ek Fourth of July ek sath paade the. Lekin us occasion ka gaurav ab hamesha ke liye extinguished (bujh) gya tha. Us deluge (bhaari baadh) ke samne yeh sirf ek barsati nala (freshet) tha.
+
+Is bade invasion (bheed ke aakraman) ne khud ko river-bank par massed kiya aur is vishal event ke liye bhookhe roop se wait kiya. Wait kiya, aur hairan hue ki kya yeh sach mein sthit hoga, ya woh twin jo ek “professor” (dharma-vishwaasi) nahi tha woh baahar khada ho kar ise rok dega.
+
+Lekin unhein disappointed nahi hona tha. Angelo apne sabd jitna hi achha tha. Woh kai sau sabse behtar citizens, jo poori tarah Angelo party ke the, par consist ek samman ke escort (escort of honor) ke sath aaya; aur jab immersion (paani mein duboki) finish ho gayi toh unhone use wapas ghar tak escort kiya aur yahan tak ki use apne kandhoon par carry kar lete, lekin is darr se ki log soch sakte hain woh Luigi ko carry kar rahe hain unhone aisa nahi kiya.
+
+Raat der tak citizens un ajeeb roop se mile-julte incidents (strangely mated pair of incidents) par discuss aur hairan karte rahe jinhone pichele twenty-four hours ko unke town ki history mein chitratmatak (picturesqueness) aur shandaar interest ke liye kisi bhi doosre twenty-four se upar vishisht aur exalted kiya tha; aur lights out hone aur burghers (nagrikon) ke sone se bahut pehle har taraf yeh decide kiya ja chuka tha ki in twins ko pakad kar Dawson’s Landing ne municipal fortune ki badi lottery mein ek prize nikaala hai.
+
+Midnight par Angelo shanti se so raha tha. Uske immersion ne use nuksaan nahi pahuncheya tha, isne use mukhya roop se wholesome roop se drousy (unghata hua) banaya tha, aur woh ab kai ghanton se dead asleep (gehri neend) mein tha. Isne Luigi ko bhi drousy banaya tha, lekin use sirf choti naps (jhapkiyan) milin thin, uske har forty-five minutes (three-quarters of an hour) mein medicine lene ke kaaran—aur Aunt Betsy Hale wahan yeh dekhne ke liye thin ki woh aisa kare. Jab usne complain aur resist (virodh) kiya, toh woh uske sath quietly firm (shant draddh) thin, aur unhone ek halki awaaz mein kaha:
+
+“Nahi-nahi, woh kaam nahi karega; tumhein baat nahi karni chahiye, aur tumhein us tareeqe se retch aur gag (ubkai) bhi nahi leni chahiye—tum apne poor bhai ko jagah doge.”
+
+“Well, iska kya, Aunt Betsy, woh—”
+
+“'Sh-h! Noise mat karo dear. Tumhein bhoolna nahi chahiye ki tumhara poor bhai bimar hai aur—”
+
+“Bimar hai, kya woh hai? Well, main ichha karta hoon main—”
+
+“'Sh-h-h! Kya tum shant rahoge, Luigi! Yahan, ab, iska baki ka hissa lo—mujhe poori raat dipper (katori) pakadaye mat rakkho. Main declare karti hoon agar tumne iske bottom mein ek achha chauthai hissa (fourth of it) na chhoda ho! Chalo—woh ek achha—”
+
+“Aunt Betsy, mujhe majboor mat kijiye! Mujhe feel ho raha hai jaise maine ek cemetery (kabristan) nigal liya ho; main sach mein, indeed, feel karta hoon. Mujhe thoda rest lene dijiye—bas thoda sa; main ab is shaitani saaman (devilish stuff) ka mazeed hissa nahi le sakta.”
+
+“Luigi! Yahan aishi bhasha ka use karna, aur unka abhi-abhi baptism hua hai! Kya tum chahte ho roof tum par gir jaye?”
+
+“Main achhe ke liye ichha karta hoon yeh gir jaye!”
+
+“Why, tum dreadful cheez! Mera ek achha vichaar hai ki—us blanket ko akele chhod do; kya tum chahte ho tumhare bhai ko maut pakad le (catch his death)?”
+
+“Aunt Betsy, mujhe ise off karna hi hoga, main zinda roasted (bhhun) raha hoon; koi ise jhel nahi sakta—aap khud nahi kar saktin.”
+
+“Now den, tum dobara chheenkh (sneezing) rahe ho—maine just iski expect ki thi.”
+
+“Kyunki mujhe apne head mein cold (zukaam) pakad gya hai. Main hamesha aisa karta hoon, jab main kapdo ke sath paani mein jata hoon. Aur mujhe isse baahar nikalne (get over it) mein hafton lagte hain, dono. Main sochta hoon mujhe is tarah serve karna ek shame thi.”
+
+“Luigi, tum unreasonable ho; tum kaafi achhi tarah jaante ho woh use dry (sookhe mein) baptize nahi kar sakte the. Main sochti hoon tum apne bhai ke khaatir thodi si asuvidha (inconvenience) jhelne ke liye taiyar hoge.”
+
+“Asuvidha! Ab aap kaisi baat karti hain, Aunt Betsy. Main doobne (getting drowned) ke theek utne hi paas aaya tha jitna kisi cheez ke, aapne khud dekha tha; aur aap ise asuvidha kehti hain?—room ek drum jitna tight close hai, aur itna hot hai ki mosquitoes baahar nikaalne ki koshish kar rahe hain; aur head mein cold hai, aur neend ke liye mar raha hoon aur koi chance nahi hai haasil karne ka—us badnaam medicine ke kaaran jise us assassin ne prescri—”
+
+“Wahan, tum dobara chheenkh rahe ho. Main neeche ja rahi hoon aur tumhare liye is saaman (truck) ka thoda mazeed mix karungi, dear.”
+
+---
+
+# Chapter VIII — Baptism of the Better Half
+
+### *(Behtar Aadhe Hisse Ka Baptism)*
+
+---
+
+Nau baje tak poora town aadhiraat ke duel ki news se gunguna (humming) raha تھا, aur is baare mein sirf do raai thin: ek yeh, ki field par Luigi ka sahas (pluck) sabse zyaada tareef ke kabil (praiseworthy) tha aur Angelo ka bhaagna sabse zyaada scandalous (kalankit); doosri yeh, ki zameer (conscience) ke khaatir field chhod kar bhaagne mein Angelo ka sahas utna hi fine aur creditable tha jitna bullets ke samne field par tike rehne mein Luigi ka tha. Ek raai shehar ke aadhe hisse dwara rakkhi gayi thin, doosri raai doosre aadhe hisse dwara maintain ki gayi thin. Yeh batwara bilkul saaf aur exact tha, aur isne do parties bana din, ek Angelo party aur ek Luigi party. Twins sudden Pudd’nhead Wilson ke sath-sath lok-priya idols ban gaye the, aur unhi jitni tivra gaurav ki aabha (haloed with a glory) se ghire the. Bache Sunday-school jaane ke poore raaste duel ki baat karte rahe, unke bade church jaane ke poore raaste ispar baat karte rahe, choir ne apne red curtain ke piche ispar discuss kiya, isne “nigger gallery” mein pavitra vicharon (pious thought) ki jagah chheen (usurped) li.
+
+Dopahar tak doctor ne yeh news add ki, aur ise phhailaya, ki Count Angelo, apni chot (wound) aur saari warnings aur binnation ke bavajood, nirdharit ghante par baptize hone ke apne nishchay par draddh (resolute) the. Yeh shehar mein jungle ki aag (wildfire) ki tarah phhail gya, aur isne Angelo faction ke utsah ko vishal roop se reinforced kiya, jinhone kaha, “Agar kisi ko shakk tha ki yeh naitik sahas (moral courage) tha jo use field se le gya, toh ab unhein kya kehna hai!”
+
+Phir bhi excitement badhti gayi. Poori subah yeh dehat ki taraf (countryward) travel kar rahi thin, compass ke saarre points ki taraf; so, jabki pehle sirf kisaan aur unqi wives hi is adbhut baptism ko dekhne aur witness karne ka intention rakh rahe the, ab ek samanya holiday (general holiday) proclaim kar di gayi aur bacchon aur negroes ko is occasion ke privileges mein aane diya gya. Das mile ke chaaron taraf ke saarre farms khali ho gaye the, saari aapas mein milti sarkein (converging roads) town mein wagons, horses aur kisaano ke lambe processions undel rahi thin. Logon ka dher aur bhed (pack and cram of people) usse vishal roop se zyaada tha jise pehle us sleepy region mein kabhi dekha gya ho. Akeli cheez jisne kabhi iske paas ddaud lagai thin, woh bahut pehle ka guzar chuka samay tha, lekin kabhi bhoola nahi gya, aur na hi kabhi hairani aur pride ke bina iska zikr kiya gya, jab do circuses aur ek Fourth of July ek sath paade the. Lekin us occasion ka gaurav ab hamesha ke liye extinguished (bujh) gya tha. Us deluge (bhaari baadh) ke samne yeh sirf ek barsati nala (freshet) tha.
+
+Is bade invasion (bheed ke aakraman) ne khud ko river-bank par massed kiya aur is vishal event ke liye bhookhe roop se wait kiya. Wait kiya, aur hairan hue ki kya yeh sach mein sthit hoga, ya woh twin jo ek “professor” (dharma-vishwaasi) nahi tha woh baahar khada ho kar ise rok dega.
+
+Lekin unhein disappointed nahi hona tha. Angelo apne sabd jitna hi achha tha. Woh kai sau sabse behtar citizens, jo poori tarah Angelo party ke the, par consist ek samman ke escort (escort of honor) ke sath aaya; aur jab immersion (paani mein duboki) finish ho gayi toh unhone use wapas ghar tak escort kiya aur yahan tak ki use apne kandhoon par carry kar lete, lekin is darr se ki log soch sakte hain woh Luigi ko carry kar rahe hain unhone aisa nahi kiya.
+
+Raat der tak citizens un ajeeb roop se mile-julte incidents (strangely mated pair of incidents) par discuss aur hairan karte rahe jinhone pichele twenty-four hours ko unke town ki history mein chitratmatak (picturesqueness) aur shandaar interest ke liye kisi bhi doosre twenty-four se upar vishisht aur exalted kiya tha; aur lights out hone aur burghers (nagrikon) ke sone se bahut pehle har taraf yeh decide kiya ja chuka tha ki in twins ko pakad kar Dawson’s Landing ne municipal fortune ki badi lottery mein ek prize nikaala hai.
+
+Midnight par Angelo shanti se so raha tha. Uske immersion ne use nuksaan nahi pahuncheya tha, isne use mukhya roop se wholesome roop se drousy (unghata hua) banaya tha, aur woh ab kai ghanton se dead asleep (gehri neend) mein tha. Isne Luigi ko bhi drousy banaya tha, lekin use sirf choti naps (jhapkiyan) milin thin, uske har forty-five minutes (three-quarters of an hour) mein medicine lene ke kaaran—aur Aunt Betsy Hale wahan yeh dekhne ke liye thin ki woh aisa kare. Jab usne complain aur resist (virodh) kiya, toh woh uske sath quietly firm (shant draddh) thin, aur unhone ek halki awaaz mein kaha:
+
+“Nahi-nahi, woh kaam nahi karega; tumhein baat nahi karni chahiye, aur tumhein us tareeqe se retch aur gag (ubkai) bhi nahi leni chahiye—tum apne poor bhai ko jagah doge.”
+
+“Well, iska kya, Aunt Betsy, woh—”
+
+“'Sh-h! Noise mat karo dear. Tumhein bhoolna nahi chahiye ki tumhara poor bhai bimar hai aur—”
+
+“Bimar hai, kya woh hai? Well, main ichha karta hoon main—”
+
+“'Sh-h-h! Kya tum shant rahoge, Luigi! Yahan, ab, iska baki ka hissa lo—mujhe poori raat dipper (katori) pakadaye mat rakkho. Main declare karti hoon agar tumne iske bottom mein ek achha chauthai hissa (fourth of it) na chhoda ho! Chalo—woh ek achha—”
+
+“Aunt Betsy, mujhe majboor mat kijiye! Mujhe feel ho raha hai jaise maine ek cemetery (kabristan) nigal liya ho; main sach mein, indeed, feel karta hoon. Mujhe thoda rest lene dijiye—bas thoda sa; main ab is shaitani saaman (devilish stuff) ka mazeed hissa nahi le sakta.”
+
+“Luigi! Yahan aishi bhasha ka use karna, aur unka abhi-abhi baptism hua hai! Kya tum chahte ho roof tum par gir jaye?”
+
+“Main achhe ke liye ichha karta hoon yeh gir jaye!”
+
+“Why, tum dreadful cheez! Mera ek achha vichaar hai ki—us blanket ko akele chhod do; kya tum chahte ho tumhare bhai ko maut pakad le (catch his death)?”
+
+“Aunt Betsy, mujhe ise off karna hi hoga, main zinda roasted (bhhun) raha hoon; koi ise jhel nahi sakta—aap khud nahi kar saktin.”
+
+“Now den, tum dobara chheenkh (sneezing) rahe ho—maine just iski expect ki thi.”
+
+“Kyunki mujhe apne head mein cold (zukaam) pakad gya hai. Main hamesha aisa karta hoon, jab main kapdo ke sath paani mein jata hoon. Aur mujhe isse baahar nikalne (get over it) mein hafton lagte hain, dono. Main sochta hoon mujhe is tarah serve karna ek shame thi.”
+
+“Luigi, tum unreasonable ho; tum kaafi achhi tarah jaante ho woh use dry (sookhe mein) baptize nahi kar sakte the. Main sochti hoon tum apne bhai ke khaatir thodi si asuvidha (inconvenience) jhelne ke liye taiyar hoge.”
+
+“Asuvidha! Ab aap kaisi baat karti hain, Aunt Betsy. Main doobne (getting drowned) ke theek utne hi paas aaya tha jitna kisi cheez ke, aapne khud dekha tha; aur aap ise asuvidha kehti hain?—room ek drum jitna tight close hai, aur itna hot hai ki mosquitoes baahar nikaalne ki koshish kar rahe hain; aur head mein cold hai, aur neend ke liye mar raha hoon aur koi chance nahi hai haasil karne ka—us badnaam medicine ke kaaran jise us assassin ne prescri—”
+
+“Wahan, tum dobara chheenkh rahe ho. Main neeche ja rahi hoon aur tumhare liye is saaman (truck) ka thoda mazeed mix karungi, dear.”
+
+---
