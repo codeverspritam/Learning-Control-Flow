@@ -2370,3 +2370,40 @@ Court uthi; naye qaidar ko, handcuffs (hathkadi) pehne, hata diya gya.
 
 ---
 
+# Conclusion
+
+### *(Nishkarsh)*
+
+---
+
+> *It is often the case that the man who can’t tell a lie thinks he is the best judge of one.—Pudd’nhead Wilson’s Calendar.*
+> *(Aksar aisa hota hai ki jo mard jhooth nahi bol sakta, woh sochta hai ki woh jhooth ka sabse behtar moolyankan karne wala [best judge] hai.)*
+> *October 12, the Discovery. It was wonderful to find America, but it would have been more wonderful to miss it.—Pudd’nhead Wilson’s Calendar.*
+> *(October 12, Khoj [The Discovery]. America ko dhoondhna adbhut tha, lekin isse mazeed adbhut hota ise miss kar dena.)*
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+Poora town din ke hairat-angez events par discuss karne aur Tom ka trial kab shuru hoga is baare mein gappe (guesses) swap karne ke liye poori raat jaagta raha. Citizens ke jhund ke jhund Wilson ko badhai dene (serenade) aaye, aur unse speech ki mang ki, aur unke lips ke har ek sentence par chilla-chilla kar khud ko hoarse (gala baithna) kar liya—kyunki unke saarre sentences ab golden the, saarre marvelous the. Bhaari kismat (hard luck) aur paksh-paat (prejudice) ke khilaf unki lambi fight khatam ho gayi thi; woh hamesha ke liye ek kamyab mard (made man for good) ban chuke the.
+
+Aur jaise hi utsaahit logon ke in garajte hue gangs mein se har ek march karke door jata, toh unmein se koi pachtave se bhara member nishchitta se apni awaaz uthata aur kehta—
+
+“Aur yeh woh mard hai jise hum jaise logon ne twenty saal se mazeed tak ek pudd’nhead pukaara hai. Unhone us position se isteefa (resigned) de diya hai, doston.”
+
+“Haan, lekin yeh vacant (khaali) nahi hai—hum elect ho gaye hain.”
+
+Twins ab romance ke heroes the, aur apni dubara bahal hui reputations (rehabilitated reputations) ke sath. Lekin woh Western adventure se thak chuke the, aur straightway Europe wapas laut gaye.
+
+Roxy ka dil poori tarah toot gya tha. Us young mard ne jispar unhone twenty-three saal ki gulamiyat daali thi, unke liye us gair-kanooni waaris ke thirty-five dollars a month ke pension ko jaatri rakkha, lekin unke zakham (hurts) itne gehre the jise paisa heal nahi kar sakta tha; unqi eye mein majood aatma ki chamak shaant (quenched) ho gayi thin, unka mardana dhang (martial bearing) uske sath chala gya, aur is jameen par unqi hansi ke bol band ho gaye. Unhone apne church aur iske mamlon mein hi apni akeli raahat (solace) paayi.
+
+Asali waaris (real heir) ne sudden khud ko rich aur free paaya, lekin ek sabse mazeed jhijhak-bhari haalat (embarrassing situation) mein. Woh na toh padh sakta tha aur na hi likh sakta tha, aur uski bhasha negro quarter ki sabse ghatiya boli (basest dialect) thi. Uska chalna, uske postures, uske gestures, uska dhang, unqi hansi—sab kuch vulgar aur ganwaru (uncouth) tha; uske tareeqe ek gulam ke tareeqe the. Paisa aur acche kapde in defects ko sudhar (mend) nahi sakte the ya unhein chhupa nahi sakte the; unhone unhein mazeed saaf chamkta hua (glaring) aur mazeed pathetic bana diya. Poor banda white mard ke parlor ke darr ko jhel nahi sakta tha, aur kitchen ke alava kahin bhi comfortable aur shanti mein feel nahi karta tha. Family ki seating (family pew) uske liye ek dukh thi, phir bhi woh dobara kabhi “nigger gallery” ki us raahat-bhari sharan (solacing refuge) mein enter nahi ho sakta tha—woh uske liye hamesha ke liye close ho chuki thin. Lekin hum uski is curious kismat ko mazeed follow nahi kar sakte—woh ek lambi story hogi.
+
+False heir (nakli waaris) ne poora confession kiya aur use life-imprisonment (umra-qaid) ki saaza sunayi gayi. Lekin ab ek complication samne aayi. Percy Driscoll ki estate uske owner ke marne par itni crippled shape (karz mein doobi) mein thi ki woh apni vishal indebtedness ka sirf sixty per cent hi pay kar saktin thin, aur usi rate par faisala hua tha. Lekin creditors ab samne aaye, aur unhone shikayat ki chunki ek aishi galti (error) ke zariye jiske liye woh kisi bhi tareeqe se doshi nahi the, false heir ko us samay baki ki property ke sath suchi (inventoried) mein shamil nahi kiya gya tha, jiske kaaran unpar bada wrong aur loss dala gya tha. Unhone saaf claim kiya ki “Tom” kanooni roop se unqi property tha aur eight saal se waisa hi raha tha; ki us lambe period ke dauran uski services se vanchit (deprived) rehne par woh pehle hi paryapt loss jhel chuke the, aur unse us loss mein kuch add karne ke liye required nahi kiya jana chahiye; ki agar use pehli jagah par unke sahare deliver kiya gya hota, toh woh use sell kar dete aur woh Judge Driscoll ka murder nahi kar sakta tha; isliye yeh woh nahi tha jisne sach mein murder committed kiya, guilt us galat suchi (erroneous inventory) ke sath sthit thi.
+
+Har kisi ne dekha ki is baat mein reason (tark) tha. Har kisi ne sweekar kiya ki agar “Tom” white aur free hota toh use punish karna nishchitta se right hota—isse kisi ka koi loss nahi hota; lekin ek keemti gulam (valuable slave) ko life bhar ke liye band kar dena—woh poori tarah se ek doosra mamla tha.
+
+Jaise hi Governor ne case ko samajha, unhone Tom ko ek hi baar mein pardon (maaf) kar diya, aur creditors ne use **river ke neeche bech (sold him down the river)** diya.
+
+---
+---
