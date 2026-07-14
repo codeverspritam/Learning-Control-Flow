@@ -3225,3 +3225,30 @@ Yeh episode Angelo liye ek doosre tareeqe se crusher (tabaahi) tha. Isne Rowena 
 > *[Yahan ek lambi aur paryapt roop se moorkhta-purna baatcheet [idiotic discussion] hui thi, jo pichele note mein report kiye gaye mutabik khatam hui.]*
 
 ---
+
+# Chapter X — So They Hanged Luigi
+
+### *(Toh Unhone Luigi Ko Phansi De Di)*
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+Dawson’s Landing ke paas election ke baad ek hafte ka aaram (repose) tha, aur ise iski zarurat thi, kyunki us pure bad-khwaab (frantic and variegated nightmare) ne jisse yeh pichele poore hafte tarsata (tormented) raha tha, ise ant mein dheela, behal aur nish-pran (limp, haggard, and exhausted) chhod diya tha. Ise aaram ka woh haf-ta isliye mila kyunki Angelo ke paas legs thin, aur woh baahar jaane aur ek aishi krodhit community (irritated community) ke sath milne ke liye bahut zyaada sub-dued (dbe hue) haalat mein tha jo uspar avishwas aur ghrina (distrust and detest) karne lagi thi, kyunki uske naitik niyamoon (morals), jo sweekaruk roop se umda the, aur unhein pradarshit karne ke uske tareeqon (methods), jo saaf taur par narak-yogya (distinctly damnable) the, ke beech sanyog (harmony) ki aishi kami thi. Naye shehar ke officers ne agle Monday ko kasam (sworn in) li—kam se kam Luigi ke alava saarre logon ne. Uske case mein ek complication thi. Uska election concede (sweekar) kar liya gya tha, lekin woh apne bhai ke bina aldermen ke board mein nahi baith sakta tha, aur uska bhai wahan nahi baith sakta tha kyunki woh ek member nahi tha. Is difficulty se baahar nikalne ka kanoon ki courts (courts) mein mamle ko le jaane ke alava koi raasta nahi lag raha tha, so ispar nishchay kiya gya.
+
+Case ko agle Monday fortnight (do hafte baad) ke liye set kiya gya. Sahi kram mein samay arrive ho gya. Is beech shehar ki sarkar ek thahraav (standstill) par thi, kyunki Luigi ke bina aldermen ke board mein ek tie (barabari) thi, jabki uske sath liquor interest (sharab ka paksh)—jo political field mein sabse rich hai—ke paas ek majority hoti. Lekin court ne decide kiya ki Angelo uske sath board mein nahi baith sakta, na toh public mein aur na hi executive sessions mein, aur same samay par board ko Luigi, jo ek fair aur legally chuna hua alderman tha, ko admission dene se mana karne se mana (forbade) kar diya. Case ko court se court upar aur upar carry kiya gya, phir bhi vahi same purana original decision har baar confirm hua. Nateejatan, shehar ki sarkar na keval apne haand baandhe sthir khadi rahi, balki har woh cheez jiske protection aur care ke liye ise create kiya gya tha, tabaahi aur barbaadi (rack and ruin) ki taraf ek steadily chaal chali gayi.
+
+Tax lagane (levy a tax) ka koi raasta nahi tha, so chote officials ko ya toh isteefa (resign) dena tha ya bhookhe marna tha; isliye unhone resign kar diya. Shehar ka koi paisa na hone ke kaaran, dono sides ke vishal kanooni kharchon (enormous legal expenses) ko private subscription dwara chukaya jana tha. Lekin aakhirkar log apne senses (hosh) mein aaye, aur unhone kaha:
+
+“Pudd'nhead shuruat mein hi right the—hamein us human phillipene (insani judwa) ke official half (officially chune hue hisse) ko resign karne ke liye hire kar lena chahiye tha; lekin ab bahut der ho gayi hai; hummein se kuch ke paas use hire karne ke liye kuch bacha hi nahi hai.”
+
+“Haan, hamare paas hai,” ek doosre citizen ne kaha, “hamare paas yeh hai”—aur usne ek phansi ka fanda (halter) produce kiya.
+
+Kai logon ne shriek ki: “Wahi ticket hai.” Lekin doosron ne kaha: “Nahi—Count Angelo innocent (nirdosh) hain; hamein unhein phansi nahi deni chahiye.”
+
+“Kiske phansi dene ke baare mein kuch kaha? Hum sirf doosre wale ko phansi dene ja rahe hain.”
+
+“Then woh alright hai—ispar koi objection nahi hai.”
+
+**So unhone Luigi ko phansi de di.** Aur is tarah “Those Extraordinary Twins” ki history khatam hoti hai.
+
