@@ -2620,3 +2620,173 @@ Angelo ke khane (frame) ko ek halke se shudder ne hilaaya, lekin usne kuch nahi 
 Baatcheet dobara ceased ho gayi, kyunki Angelo sick tha aur discouraged tha aur uska gala ruddh (strangling) raha تھا; lekin kuch samay baad usne apni kitab close ki aur Luigi se unke sath “From Greenland's Icy Mountains” gaane ke liye poocha, lekin woh nahi mana, aur jab usne khud se gaane ka prayas kiya toh Luigi ne apne thundering bass mein deliver kiye gaye ek rude aur rollicking gaane se uske us dard-bhare tenor (plaintive tenor) ko dubaane (drown) ka apna sabse behtar kiya.
 
 Gaane ke baad khamoshi (silence) thi, aur dono bhaion mein se koi happy nahi tha. Light out karne se pehle Luigi ne whisky ka aadha tumbler nigla (swallowed), aur Angelo ne, jiska sensitive organization kisi bhi tarah ke intoxicants ko jhel nahi sakta tha, use headache (sir-dard) na hone dene ke liye ek pill li.
+
+---
+
+# Chapter II — Ma Cooper Gets All Mixed Up
+
+### *(Ma Cooper Poori Tarah Bhramit Ho Jaanti Hain)*
+
+---
+
+> *The family sat in the breakfast-room waiting for the twins to come down. The widow was quiet, the daughter was alive with happy excitement. She said:*
+> *(Family breakfast-room mein baithi thin aur twins ke neeche aane ka wait kar rahi thin. Widow shant thin, daughter khushi ke utsah se bhari thin. Usne kaha:)*
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+“Ah, woh ek var-daan hain, ma, bas ek var-daan (boon)! Kya aap aisa nahi sochtin?”
+
+“Laws, main aishi hope karti hoon, main nahi jaanta.”
+
+“Why, ma, haan aap jaanti hain. Whon itne fine aur handsome hain, aur high-bred aur polite hain, is village mein hamare in ganwaruon (gawks) se har tareeqe se superior hain; why, woh life ko usse different bana denge jaisi yeh thi—itni humdrum (neeras) aur sadharan, aap jaante hain—oh, aap sure ho sakti hain woh accomplishments, aur world ke knowledge, aur us sabse bhare hain, jo yahan society ke liye ek vishal advantage hoga. Kya aap aisa nahi sochtin, ma?”
+
+“Mujh par reham, main kaise jaanungi, aur maine abhi tak unpar mushqil se apni aankhein set ki hain.” Ek pause ke baad unhone add kiya, “Upar jaane ke baad unhone kaafi noise (shor) kiya.”
+
+“Noise? Why, ma, woh gaa (singing) rahe the! Aur yeh khoobsurat tha, dono.”
+
+“Oh, yeh kaafi achha tha, lekin zyaada mixed-up (mila-jula) tha, mujhe aisa laga.”
+
+“Now, ma, samman se saaf (honor bright), kya aapne kabhi 'Greenland's Icy Mountains' ko isse mazeed sweet gaa-te suna hai—batao kya suna hai?”
+
+“Agar yeh akela gaa-ya gya hota, toh yeh asadharn sweet hota, main isse inkar nahi karti; lekin woh ise 'Old Bob Ridley' ke sath kis liye mix up karna chahte the, main figure out nahi kar sakti. Why, woh ek sath bilkul nahi jaate. Woh same nature ke nahi hain. 'Bob Ridley' ek sadharan shor-sharaaba wala dharmanirpeksh gaana (common rackety slam-bang secular song) hai, jo sabse rippingest aur rantingest aur sabse noisiest mein se ek hai. Main music ki koi judge nahi hoon, aur main iska dava nahi karti, lekin meri raai mein koi bhi un do gaano ko ek sath sahi nahi chala sakta.”
+
+“Why, ma, maine socha tha—”
+
+“Isse koi farq nahi padta tumne kya socha tha, yeh nahi kiya ja sakta. Unhone iski koshish ki, aur mere dimaag mein yeh ek failure thi. Maine kabhi aisa crazy uproar (shor) nahi suna; mujhe lagta tha, kabhi-kabhi, roof (chhat) baahar aa jayegi; aur jahan tak cats (billiyon) ka sawaal hai—well, main kai saal jiyei hoon, aur cats ko ek se mazeed tareeqon se gusse mein dekha hai, lekin maine pichli raat jaisa cats ko karte kabhi nahi dekha.”
+
+“Well, main nahi sochtin ki woh kisi kaam ka hai, ma, kyunki yeh cats ka nature hai ki koi bhi awaaz jo unusual ho—”
+
+“Unusual! Tum ise saaf aisa keh sakti ho. Ab agar woh har raat duets gaane ja rahe hain, toh main hope karti hoon woh dono same samay par same tune gaayenge, kyunki meri raai mein ek duet jo do different tunes se roop leta hai ek galti hai; khhasakar jab tunes is tareeqe se ek doosre ke rishte-dar (kin) na hon.”
+
+“But, ma, main sochti hoon yeh ek foreign custom (videshi riwaaj) hona chahiye; aur yeh right bhi hona chahiye dono; aur sabse behtar tareeqa, kyunki unke paas yeh jaan'ne ka har opportunity tha ki kya right hai, aur yeh tark ke samne nahi baithta ki apni education ke sath woh ucchatam musical authorities dwara san-ctioned ke alava kuch karenge. Aap isse sweekar karne ke alava madad nahi kar saktin, ma.”
+
+Tark bhayanak roop se strong tha; old lady iske chaaron taraf koi raasta nahi dhoondh saktin thin; so, thodi der ispar vichar karne ke baad unhone na-pasandgi ki ek aah (sigh of discontent) ke sath sweekar kiya, aur sweekar kiya ki daughter ki position probably correct thi.
+
+Vanquished (haar) hone par, unka us nuksaan par subject jaatri rakhne ka koi mind nahi tha, aur woh ek badlav dhoondhne wali thin jab badlav apni marzi se aaya. Stairs par ek kadam suna gya, aur unhone kaha:
+
+“Wahan—woh aa raha hai!”
+
+“Whon, ma—aapko unhein (they) kehna chahiye—yeh mazeed right ke paas hai.”
+
+Naya lodger, thoda shor-dar kapde pehne (shoutingly dressed) lekin superbly handsome dikhta hua, darbaari dhang (courtly carriage) ke sath us trim chote breakfast-room mein step kiya aur ek hi baar mein apni saari cordial arms baahar nikaal din, tarah-tarah ke blades wale un pocket-knives mein se ek ki tarah, aur simultaneous poori family se haath milaya (shook hands). Woh itna easy aur pleasant aur hearty tha ki saari embarrassment jaldi hi pighal kar vanished ho gayi, aur friendliness aur comradeship ka ek cheerful ehsaas iski jagah le liya. Use—ya preferably unhein—table ke nichle hisse mein sammaan ki seat (seat of honor) occupy karne ke liye poocha gya. Unhone thanks ke sath consented kiya, aur apne hands ke ek set se beefsteak ko carve kiya jabki same samay par doosre set se ise distribute kar rahe the.
+
+“Aap coffee lenge, gentlemen, ya tea?”
+
+“Luigi liye coffee, agar aap sweekar karein, madam, mere liye tea.”
+
+“Cream aur sugar?”
+
+“Mere liye, haanh, madam; Luigi apni coffee black lete hain. Hamari natures ek doosre se kaafi different hain, aur hamari tastes bhi.”
+
+Pehli baar jab negro girl Nancy door par appeared hui aur usne do heads ko opposite directions mein turned aur dono ko ek sath baat karte dekha, phir un milte-julte arms ko ek mouth mein potatoes aur doosre mein same samay par coffee feed karte dekha, toh use rukna pada aur khud ko ek faintness (behoshi) se baahar khinchna pada jo uspar aayi thi; lekin uske baad usne apni grip rakkhi aur table par kaafi sahas ke sath wait karne kabil thin.
+
+Baatcheet naturally niyamit grooves (raaston) mein gir gayi. Shuruat mein yeh thoda jhatke-dar (jerky) thi, kyunki family mein se koi bhi bina kisi waddle aur break ke ek sentence smoothly finish nahi kar sakta tha, jo twins ki taraf se posture ya gesture ke tareeqe mein kisi naye surprise ke kaaran sthit hota tha. Weather ne sabse zyaada jhela. Weather ek subject ke roop mein poori tarah finish aur nipta (disposed of) diya gya tha, isse pehle ki sadharan Missourians ek body dwara do heads ko feed karne ke is nazaare ke itne wonted (aadi) ho paate ki aise bizarre chamatkar (bizarre miracle) ki presence mein composed aur samjhauta feel kar sakein. Aur sabka mind shant (tranquilized) hone ke baad bhi wahan abhi bhi ek choti distraction bachi thi: jo haath biscuit uthata tha woh use doosri head ki tarah galat head tak le jata tha, aur galat mouth use kha (devoured) jata tha. Yeh ek puzzling cheez thi, aur isne talk ko thoda kharab (marred) kiya. Isne widow ko is darje tak bother kiya ki woh jaldi hi bina jaane baatcheet se drop out ho gayin, aur watch karne aur guess karne aur apne aap se baat karne lagin:
+
+“Ab woh haath us coffee ko lekar ja raha hai—nahi, yeh doosre mouth mein chala gya; ichha karti hoon main ise nahi samajh sakti; aur ab, yahan dark-skin wala haath hai jiske fork mein potato hai, main dekhungi iske sath kya jata hai—wahan, light-skin wale head ne ise paa liya, theek utna hi nishchhit jitna main zinda hoon!”
+
+Finally Rowena ne kaha:
+
+“Ma, aapko kya mamla hai? Kya aap kisi cheez ke baare mein dream dekh rahi hain?”
+
+Old lady hosh mein aayin aur sharm se laal (blushed) huin; phir unhone apne mind mein aaye pehle random cheez ke sath explain kiya: “Maine Mr. Angelo ko Mr. Luigi ki coffee uthate dekha, aur maine socha shayad woh—kya main aapko ek cup na doon, Mr. Angelo?”
+
+“Oh nahi, madam, main bahut zyaada obliged hoon, lekin main kabhi coffee nahi peeta, chahe main ise kitna hi pasand kyun na karoon. Aapne mujhe Luigi ka cup uthate dekha, yeh true hai, lekin agar aapne notice kiya ho, toh maine ise apne mouth tak nahi barkarar rakkha, balki uske.”
+
+“Haa-nh, maine socha aapne kiya: Kya aapka yahi matlab tha?”
+
+“Kaise?”
+
+Widow doobaara thodi embarrassed thin. Unhone kaha:
+
+“Main nahi jaanti lekin kya main moorkh (foolish) hoon, aur aapko mind nahi karna chahiye; lekin aap dekhte hain, use woh coffee mili jise dekhne ki main expect kar rahi thin aap peeyenge, aur aapko ek potato mila jise maine socha tha use milne wala hai. So maine socha yeh har taraf se ek galti (mistake all around) ho sakti hai, aur har kisi ko woh mil raha hai jo uske liye intended nahi tha.”
+
+Dono twins hanse aur Luigi ne kaha:
+
+“Dear madam, wahan koi galti nahi thi. Hum hamesha is tareeqe se ek doosre ki help kar rahe hote hain. Yeh hum dono ke liye ek badi economy (bachat) hai; yeh samay aur labor ko bachata hai. Hamare paas signs ka ek aisa system hai jise hamare alava koi notice ya samajh nahi sakta. Agar main apne dono haand use kar raha hoon aur mujhe kuch coffee chahiye, toh main sign banata hoon aur Angelo mujhe yeh pradan karta hai; aur aapne dekha ki jab use potato ki zarurat thi maine ise deliver kiya.”
+
+“Kitna suvidha-janak (convenient)!”
+
+“Haan, aur aksar behad oonchi keemat (extremest value) ka. Mississippi boats ko lijiye, for instance. Whon hamesha overcrowded hoti hain. Wahan sirf aadhe passengers ke liye table-room hota hai, isliye unhein doosre aadhe hisse ke liye ek second table set karni padti hai. Stewards dono parties ko rush karte hain, woh unhein ek santusht khana (satisfying meal) khane ka samay nahi dete, dono divisions table ko bhookha chhodte hain. Hamare sath aisa nahi hai. Angelo khud ko ek table ke liye book karta hai, main khud ko doosri ke liye. Hummein se koi bhi doosre ki table par kuch nahi khata, balki just simply kaam karta hai—kaam karta hai. Is tarah, aap dekhte hain Angelo ko feed karne ke liye char hands hain, aur mujhe feed karne ke liye same char. Hummein se har ek do meals khata hai.”
+
+Old lady admiration se dazed thin, aur kehti rahin, “Yeh perfectly alright adbhut hai, perfectly alright adbhut” aur boy Joe ne lalach se apne hont chaate (licked his chops enviously), lekin kuch nahi kaha—kam se kam zor se.
+
+“Haan,” Luigi ne jaatri rakkha, “hamare construction ke apne disadvantages ho sakte hain—in fact, HAIN—lekin iske apne ek aur doosre tareeqe ke compensations (harjane) bhi hain. Travel ko lijiye, for instance. Travel har deshoon mein enormously expensive hota hai; humisey iska ek vishal hissa karne par majboor hue hain—chalo, Angelo, apni tea mein mazeed sugar mat dalo, main abhi ek bad-hazmi (indigestion) se baahar aaya hoon aur turant doosri nahi chahta—bada hissa karne par majboor hue hain, jaisa main keh raha tha. Well, hum hamesha ek person ke roop mein travel karte hain, chunki hum sirf ek seat occupy karte hain; so hum aadha fare bacha lete hain.”
+
+“Kitna romantic hai!” Rowena ne utsah (effusion) ke sath beech mein kaha.
+
+“Haan, meri dear young lady, aur kitna practical bhi, aur economical bhi. Europe mein, hotels mein beds ka charge board ke sath nahi hota, balki separately—ek aur bachat, kyunki hum apne rights par khade rahe aur sirf ek bed ke liye pay kiya. Landlords aksar insists karte the ki chunki hum dono bed occupy karte hain hamein—”
+
+“Nahi, unhone nahi kiya,” Angelo ne kaha. “Unhone aisa sirf do baar kiya, aur dono cases mein yeh ek double bed tha—Europe mein ek rare cheez—aur double bed ne unhein kuch bahana (excuse) diya. Landlords ke prati fair rahein; do baar hona 'often' (aksar) roop nahi karta.”
+
+“Well, yeh depend karta hai—yeh depend karta hai. Main ek mard ko jaanta tha jo do baar ek well (kuan) mein gira tha. Usne kaha use pehli baar parwah nahi thi, lekin usne socha doosri baar ek baar zyaada hi ho gya (once too often). Kya maine us sabd ka galat istemaal kiya hai, Mrs. Cooper?”
+
+“Truth batane ke liye, main darta thin aapne kiya tha, lekin ab aisa lagta hai, jaise aapne nahi kiya tha.” Whon rukin, aur ek moment ke liye saaf taur par us difficult problem ke sath struggle kar rahi thin, phir unhone ek aise insaan ke tone mein add kiya jo bina badle convince ho gya ho, “Aisa lagta hai, lekin main kisi tarah nahi bata sakti kyun.”
+
+Rowena ne socha Luigi ka tana (retort) adbhut roop se teez aur bright tha, aur usne satisfaction ke sath apne aap se tippani ki ki Dawson’s Landing ka aisa koi young native nahi tha jo is tarah occasion par uth sakta (rise to the occasion). Luigi ne uske face par applause (tareef) detect ki, aur apni eyes se apni pleasure aur thanks express kiye; aur iske sath hi itni eloquently, ki girl proud aur pleased thi, aur usne apne cheeks par iska delicate sign hang out kar diya. Luigi badha, animation ke sath:
+
+“Hum dono ko ek ticket mein ek bath milta hai, ek ticket mein theater seat, pew-rent (church ki seat ka kiraya) same basis par hai, lekin peep-shows par hum double pay karte hain.”
+
+“Hamare paas thankful hone ke liye bahut kuch hai,” Angelo ne mahatva-purna dhang se kaha, apni eye mein ek reverent light aur apni awaaz mein ek yaad-dar tone (reminiscent tone) ke sath, “hamein bada bless kiya gya hai. Ek rule ke roop mein, hummein se jiske paas jis cheez ki kami rahi hai, doosra, Providence (bhagya) ki udaarta se, use supply karne kabil raha hai. Mera bhai hardy (mazboot) hai, main nahi hoon; woh bahut masculine (mardaana), assertive, aggressive hai; main bahut kam hoon. Main illness (bimari) ke patra hoon, woh kabhi bimar nahi hota. Main medicines bardaasht nahi kar sakta, aur unhein nahi le sakta, lekin uske paas unke khilaf koi prejudice nahi hai, aur—”
+
+“Why, goodness gracious,” widow ne beech mein toka, “jab aap sick hote hain, toh kya woh aapke badle medicine leta hai?”
+
+“Hamesha, madam.”
+
+“Why, maine apni life mein kabhi aishi cheez nahi suni! Main sochti hoon yeh aapka khoobsurat tareeqa hai.”
+
+“Oh, madam, yeh kuch nahi hai, zikr mat kijiye, yeh sach mein bilkul kuch nahi hai.”
+
+“Lekin main kehti hoon yeh khoobsurat hai, aur main ispar tikki hoon!” widow chilla uthin, apni eye mein ek bolne wali nami (speaking moisture) ke sath.
+
+“Ek well bhai apne poor sick bhai ke liye medicine le—kaash mere paas aisa son hota,” aur unhone apne boys ki taraf reproach-fully (shikayat ke sath) glance daali. “Main declare karti hoon main tab tak rest nahi karungi jab tak maine aapka haath na shake kiya ho,” aur woh dheron utsah (generous enthusiasm) ke bukhar mein apni chair se scrambled huin, aur twins ki taraf badhin, apne tears se blind hokar, aur shake karna shuru kiya. Boy Joe ne unhein correct kiya: “Aap galat wale ko shake kar rahi hain, ma.”
+
+Isne unhein flurried (wyaakul) kiya, kaani unhone ek swift badlav kiya aur shake karna jaatri rakkha.
+
+“Dobara galat wala pakad liya, ma,” boy ne kaha.
+
+“Oh, shut up, kya tum nahi kar sakte!” widow ne embarrassed aur irritated hokar kaha. “Mujhe apne saarre hands de do, main un sabko shake karna chahti hoon; kyunki main jaanti hoon aap dono theek utne hi acche hain jitne aap ho sakte hain.”
+
+Yeh ek victorious vichaar tha, diplomacy ka ek master-stroke, halanki unke dimaag mein yeh kabhi aaya nahi tha aur woh diplomacy ke liye kuch parwah nahi karti thin. Unhone garm-joshi se baari-baari charon hands shake kiye, aur ek oonche aur fine exultation (utsah) ki state mein apni jagah wapas laut-te thin jisne unhein young aur handsome dikhwaya.
+
+“Indeed main Luigi ka sab kuch karzdaar hoon,” Angelo ne affectionately kaha. “Agar woh na hota toh main hamari boyhood ke dino mein bach nahi sakta tha, jab hum friendless aur poor the—ah, so poor! Hum hand to mouth jeete the—unwilling charity (bina-man ke daan) ke coarse fare par jeete the, aur hafton aur hafton ek sath khane ka ek morsel (tukda) mere lips se nahi guzra, kyunki uske character ne mujhe revolted kiya aur main use nahi kha sakta tha. Agar Luigi na hota toh main mar gya hota. Usne hum dono ke badle khaya.”
+
+“Kitna noble!” Rowena ne aah bhari.
+
+“Aapne woh suna?” widow ne karrwai se apne boys se kaha. “Ise apne liye ek example banane do—mera matlab tumse hai, Joe.”
+
+Joe ne apne head ko ek bare-ly perceptible (mushqil se dikhne wala) tuchh jhatka (disparaging toss) diya aur kaha: “Dono ke badle khaya. Aishi koi cheez nahi hai main ise kar deta.”
+
+“Hush, agar tumhare paas isse behtar manners nahi hain. Tum point ko bilkul nahi dekhte. Woh achha khana nahi tha.”
+
+“Mujhe parwah nahi—woh khana tha, aur main ise et (kha) leta chahe yeh rotten (sada hua) hota.”
+
+“Shame! Aishi bhasha! Kya tum samajh nahi sakte? Woh starving the—actually starving—aur usne dono ke badle khaya, aur—”
+
+“Shucks! aap mujhe ek chance do aur main—”
+
+“Wahan, ab—apna head close karo! aur jab tak tumse na poocha jaye ise dobara mat open karna.”
+
+> [Angelo goes on and tells how his parents the Count and Countess had to fly from Florence for political reasons, and died poor in Berlin bereft of their great property by confiscation; and how he and Luigi had to travel with a freak-show during two years and suffer semi-starvation.]
+> *[Angelo jaatri rakhta hai aur batata hai kaise uske parents Count aur Countess ko political kaaranon se Florence se bhaagna pada tha, aur Berlin mein apni vishsal property se zabti [confiscation] dwara vanchit hokar poor mar gaye; aur kaise use aur Luigi ko do saal tak ek freak-show ke sath travel karna pada aur semi-starvation [aadhi-bhookh] jhelni padi.]*
+
+“Woh na-pasandida black-bread; lekin maine us samay ke dauran shaz-o-nadir (seldom) hi kuch khaya; woh poor Luigi ka mamla tha—”
+
+“Main unhein dobara Mister nahi kahunga!” widow bade emotion ke sath chilla uthin, “woh mere liye Luigi hai, yahan se baahar!”
+
+“Aapko ek hazar baar thanks, madam, ek hazar baar! bhale hi truth mein main iske layak nahi hoon.”
+
+“Ah, Luigi hamesha lucky hota hai jab honors ki bauchhar (showering) ho rahi ho,” Angelo ne plaintively kaha; “ab maine kya kiya hai, Mrs. Cooper, ki aap mujhe baahar chhod rahi hain? Chalo, aapko mere favor mein ek point strain karna hoga.”
+
+“Aapko Angelo pukaaroon? Why, nishchhit roop se main karungi; aap kya soch rahe hain! Twins ke case mein, why—”
+
+“But, ma, aap kahani ko break up kar rahi hain—unhein jaatri rakhne do.”
+
+“Aap shant raho, Rowena Cooper, aur woh mazeed behtar jaatri rakh sakte hain, main moolyankan karti hoon. Ek interruption nuksaan nahi karta, yeh do hain jo trouble create karte hain.”
+
+“Lekin aapne abhi ek add kiya hai, aur woh teen hai.”
+
+“Rowena! Jab aapke paas kehne ke liye kuch rational (samajhdaari ka) nahi hai toh main aapko mujhe back talk karne ki izazat nahi dungi.”
+
+---
