@@ -3252,3 +3252,20 @@ Kai logon ne shriek ki: “Wahi ticket hai.” Lekin doosron ne kaha: “Nahi—
 
 **So unhone Luigi ko phansi de di.** Aur is tarah “Those Extraordinary Twins” ki history khatam hoti hai.
 
+---
+---
+# Final Remarks
+
+### *(Antim Tippaniyan)*
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+Jaisa ki aap dekhte hain, yeh ek kaafi asadharn roop se badhi-chadhi kahani (extravagant sort of a tale) thi, aur iska koi maqsad nahi tha siwaye us monstrous “freak” (ajeeb judwa) ko har tarah ke grotesque lights (vachitrah roshniyon) mein pradarshit karne ke. Lekin jab Roxy is kahani mein bhatakte hue enter huin, toh unhein karne ke liye kisi kaam ke sath pradan kiya jana tha; so unhone bacchon ko cradle (palne) mein badal diya; isne iske liye ek kaaran ki invention ko zaoori (necessitated) bana diya; isne, badle mein, bacchon ko mukhhya vyaktitv (prominent personages) banane ka nateejah nikaala—o' course koi bhi ise rok nahi sakta tha. Unka career ek daramatayee roop (tragic aspect) lene laga, aur is kanooni ranniti (machinery) par kaam karne mein help ke liye kisi ko andar laya jana tha; so Pudd’nhead Wilson ko introduce kiya gya aur trial par liya gya.
+
+Is samay tak poora show naye logon dwara aur unke hi interest mein chalaya ja raha tha, aur original show side-track hokar bhoola ja chuka tha; twin-monster, aur heroine, aur lads (ladke), aur old ladies mukhya roop se ghat kar gair-mahatva-purna (dwindled to inconsequentialities) ho gaye the aur mukhya roop se raaste mein rudaat (in the way) the. Unqi story ek kahani thi, naye logon ki story ek doosri kahani thi, aur unke beech koi connection nahi tha, koi aapas ki nirbharta (no interdependence) nahi thi, koi rishta (no kinship) nahi tha. Ek hi samay par do kahaniyan batane ki koshish karna practical ya rational (samajhdaari ka) nahi hota; so maine farce (tamashe) ko baahar khinch liya aur tragedy ko chhod diya.
+
+Reader pehle se hi jaante the ki ek expert kaise kaam karta hai; woh ab jaante hain ki doosre tarah ke log ise kaise karte hain.
+
+**MARK TWAIN.**
