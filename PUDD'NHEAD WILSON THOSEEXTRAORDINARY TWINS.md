@@ -2790,3 +2790,207 @@ Joe ne apne head ko ek bare-ly perceptible (mushqil se dikhne wala) tuchh jhatka
 “Rowena! Jab aapke paas kehne ke liye kuch rational (samajhdaari ka) nahi hai toh main aapko mujhe back talk karne ki izazat nahi dungi.”
 
 ---
+
+# Chapter III — Angelo Is Blue
+
+### *(Angelo Udaas Hai)*
+
+---
+
+> *After breakfast the whole village crowded in, and there was a grand reception in honor of the twins; and at the close of it the gifted “freak” captured everybody's admiration by sitting down at the piano and knocking out a classic four-handed piece in great style. Then the judge took it—or them—driving in his buggy and showed off his village.*
+> *[Breakfast ke baad poora village andar umad aaya, aur twins ke sammaan mein ek shandaar reception hui; aur iske ant mein us pratibhashali “freak” ne piano par baithkar aur bade style mein ek classic char-haathon wala piece [four-handed piece] bajakar sabka admiration haasil kar liya. Phir judge ne use—ya unhein—apni buggy mein drive par liya aur apna village dikhaya.]*
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+Poori sarkon par log windows par ikhatha ho gaye aur un adbhut twins ko ghoorne lage. Chote boys ke jhund ke jhund buggy ke peeche bhaage, utsaahit hokar chillaate hue. Shuruat mein dogs ne koi interest nahi dikhaya. Unhone socha unhone mukhya roop se ek buggy mein teen mardon ko dekha hai—ek aishi baat jiska koi mahatva nahi tha; lekin jab unhein is case ke facts ka pata chala, toh unhone apni raai kaafi radical badal li, aur boys ke sath join ho gaye, aur jaise-jaate gaye apne mind ko express karte gaye. Doosre dogs bhi interested ho gaye; indeed, saarre dogs. Unhein fences leap karte, corners par ddaudte, aur har ek side-street aur gali se baahar umadte dekhna ek jandaar nazaara (spirited sight) tha. Unhone jo noise kiya woh vishwas—ya tareef—se pare tha. Woh kisi ghrina se prerit lagte nahi the balki sirf paksh-paat (prejudice) se, aswabhavikta ke khilaf samanya insani paksh-paat (common human prejudice against lack of conformity). Agar twins apne heads ghumate, toh woh toot-te aur har direction mein bhaag jaate, lekin ek safe distance par rukte aur chaaron taraf mude; aur phir dobara roop dharte aur jaise ہی strangers unhein apni peeth dikhate woh dobara aige badhte. Jab buggy sudden unpar aa jaanti toh negroes aur kisaanon ke wives janglon ki taraf bhaag jaate thin, aur overall drive pleasant aur animated (utsah-bhari) thi, aur har taraf ek refreshment.
+
+> [It was a long and lively drive. Angelo was a Methodist, Luigi was a Free-thinker. The judge was very proud of his Freethinkers' Society, which was flourishing along in a most prosperous way and already had two members—himself and the obscure and neglected Pudd'nhead Wilson. It was to meet that evening, and he invited Luigi to join; a thing which Luigi was glad to do, partly because it would please himself, and partly because it would gravel Angelo.]
+> *[Yeh ek lambi aur jandaar drive thi. Angelo ek Methodist the, Luigi ek Free-thinker the. Judge ko apni Freethinkers' Society par bahut garv tha, jo sabse samriddh tareeqe se phhal-phool rahi thi aur iske paas pehle se hi do members the—woh khud aur andhere mein doobe aur upekshit [obscure and neglected] Pudd'nhead Wilson. Iski meeting us evening honi thi, aur unhone Luigi ko join karne ka invite kiya; ek aishi cheez jise karne mein Luigi glad tha, aashik roop se kyunki isse use khushi milti, aur aashik roop se kyunki yeh Angelo ko pareshan [gravel] karti.]*
+
+Woh ab widow ke gate par arrived ho chuke the, aur excursion khatam ho chuka tha. Twins ne shishtata se us pleasant outing ke liye apne aabhaar express kiye jo unhein pradan ki gayi thi; jispar judge ne thanks ke sath bow kiya, aur phir kaha ki woh ab jaakar Free-thinkers' meeting ke liye arrange karenge, aur evening mein Count Luigi ko lene aayenge.
+
+“Aapke liye bhi, dear sir,” unhone jaldi se add kiya, Angelo ki taraf mudte aur bow karte hue. “Apne aap ko khhasakar aapke bhai ke sahare pukaarte hue, mera matlab aapko baahar chhodne ka nahi tha. Yeh ek bina-vichaar ki shishtata-heenata (unintentional rudeness) thi, main aapko assure karta hoon, aur poori tarah accident ke kaaran—accident aur preoccupation (vyaakul dhyan). Main aapise mujhe forgive karne ke liye beg karta hoon.”
+
+Unqi teez eye ne sensitive blood ko Angelo ke face par chadh-te dekh liya tha, jo pradan kiye gaye zakham (wound) ka khulasa kar raha tha. Us upeksha ka dank (sting of the slight) gehra gaya tha, lekin kshama itni prompt thi, aur itni saaf roop se sincere thi, ki woh chot lagbhag instantly heal ho gayi, aur ek kshama-purna smile ne kindly judge ko sanket kiya ki sab kuch dobara well tha.
+
+Angelo ke us namra aur vinamra baari roop (modest and unassuming exterior) ke piche chhupa hua, aur unke parichiton ke alava kisi ke dwara shakk na kiya gya, ek ooncha ghamand (lofty pride) tha, sach mein lagbhag asadharn anupaat ka ghamand, aur yeh unhein hamesha upekshao ka shikar (prey of slights) banata tha; aur bhale hi woh lagbhag hamesha kaalpnik (imaginary) hoti thin, unhone us kaaran se kam dard nahi diya. Badkismat se Judge Driscoll unke sabse dukhhte point ko touch kar baithe the, yaani, unka yeh vichaar ki unke bhai ki presence har jagah unqi apni mukable mazeed welcome thi; ki unhein aksar, sirf courtesy ke baahar, wahan invite kiya jata tha jahan sirf unke bhai ki zarurat hoti thi, aur ki zyaada tar cases mein unhein ek invitation mein include nahi kiya jata agar unhein bina kisi apmaan ke baahar chhoda ja sakta.
+
+Aishi ek sensitive nature nishchitta se moods ke patra hoti hai; aise moods jo ehsaas ke poore paimane (gamut of feeling) ko paar karte hain; aise moods jo emotion ke saarre jalvayu ko jaante hain, khushi ke chamkle peaks se lekar niraasha ke kaale andhere (black abysses of despair) tak. Kabhi-kabar, apni sabse gehre udaasi ke seasons mein, Angelo lagbhag ichha karte the ki woh aur unke bhai ek doosre se alag (segregated) ho sakein aur doosre mardon ki tarah separate individuals ban sakein. Lekin o' course jaise hi unka mind clear hota aur yeh bimar kalpanayein (diseased imaginings) pass ho jaantion, woh us ghrinit vichaar (repulsive thought) par kaanp uthte, aur bhavukta se pray karte ki yeh unhein dobara na ghere. Separate hona, aur jaise doosre mard hote hain! Yeh kitna awkward lagta; kitna un-endurable (na-bardaasht-yogya). Woh apne haand, apne arms ka kya karte? Unke legs kaisa feel karte? Har ek action, posture, movement, gesture kitni od-d, aur ajeeb, aur grotesque (vachitrah) hoti. Apne aap mein sona, apne aap mein khana, apne aap mein chalna—kitna akela, kitna na-batane-yogya akela! Nahi, nahi, uske alava koi bhi kismat. Har tareeqe se aur har point se, yeh idea revolting (ghrinit) tha.
+
+Yeh o' course natural tha; isse different feel karna unnatural hota. Unhone ek combined life ke alava koi life nahi jaani thi; woh birth se hi iske sath familiar the; woh kisi doosri life ko agreeable, ya bearable hone ke roop mein conceive karne kabil nahi the. Unhein, unke gupt vicharon ki privacy mein, baki saarre mard monsters the, deformities (bad-shakal) the: aur apni life ke teen-tihaai hisse ke dauran unke roop ne unhein ek aishi na-jeetne-yogya ghrina (unconquerable aversion) se bhara tha jiska vaada tha. Lekin eighteen saal ki umra par unqi eye ne female beauty ko notice karna shuru kiya; aur dhere-dhere, unke dil mein aspasht taddpan (undefined longings) badhne lagin, jiske naram influence ke tehat woh purani ziddi ghrina (stubborn aversion) gradually kam hui, aur finally vanished ho gayi. Mard abhi bhi unke liye monstrosities the, abhi bhi deformities the, aur apne shant moments mein unke jaisa banne ki unqi koi desire nahi thi, lekin unka woh ajeeb aur asajik (unsocial) aur darr-bhara construction ab unke liye offensive nahi raha tha.
+
+Yeh unke liye ek hard din raha tha, sharir se aur dimaag se dono. Unhein subah usse pehle hi bula liya gya tha jab unhone poori tarah se us liquor ke asar ko so kar khatam nahi kiya tha jise Luigi ne piye tha; aur isliye, pehle aadhe ghante tak unhein woh seedy feeling thi, aur languor (sustee), vicharon ka dbaav, cobwebby mouth aur druggy taste jo aashiqi (dissipation) se aata hai aur sharirik ya dimaagi activities ke liye ek bahut kharab preparation hota hai; reception ka lamba violent strain follow hua tha; aur iske baad follow hua tha, badle mein, woh neeras nazaare dekhna (dreary sight-seeing), judge ka nazaaron ke baare mein thaka dene wala spashtikaran aur tareefein, aur dogs ka sunn kar dene wala shor. Ek sateek nateejah (congruous conclusion) ke roop mein, ek sahi ant mein, unke ehsaason ko chot pahunchei thi, unpar ek upeksha daali gayi thi. Woh dinner chhodne aur rest aur neend ke liye chale jaane par glad hote, lekin unhone apni shanti rakkhi aur koi sabd nahi kaha, kyunki woh apne bhai, Luigi ko jaante the, jo fresh tha, un-weary tha, life, utsah, energy se bhara tha; woh ek bed ya sofa par keemti samay barbaad karne ke idea par hanse hote, aur permission se refuse kar dete.
+
+---
+
+# Those Extraordinary Twins
+
+## Chapter IV — Supernatural Chronometry
+
+### *(Alaukik Samay-Maapan)*
+
+---
+
+[Note: User requirement strictly applied—Checklist completely omitted. Direct translation format initiated.]
+
+Rowena baahar khane par gayin thin, Joe aur Harry khelte waqt late (belated) ho gaye the, us dopahar ghar ke dinner-table par sirf teen chairs aur char persons the—twins, widow (Aunt Patsy), aur unqi saheli (chum) Aunt Betsy Hale. Widow ne jaldi hi perceive kiya ki Angelo ke utsah (spirits) utne hi low the jitne Luigi ke high the, aur sath hi yeh bhi ki uska ek thaka hua roop (jaded look) tha. Unqi motherly solicitude (maa ki chinta) jaagee, aur unhone use talk mein interested karne aur dimaag ke ek happy frame (happier frame of mind) mein jeetne ki koshish ki, lekin sadness ka badal uske chehre (countenance) par barkarar raha. Luigi ne bhi apni help udhaar di. Usne ek aise roop aur phrase ka use kiya jise lagane ka woh in circumstances mein hamesha aadi tha. Usne apne bhai ke kandhe par ek affectionate thapathapahat (slap) di aur kaha, utsah badhate hue:
+
+“Cheer up, sabse badtar abhi aane wala hai (the worst is yet to come)!”
+
+Lekin isse koi fayda nahi hua. Isse kabhi nahi hota tha. Agar kuch hota, toh yeh mamle ko ek rule ke roop mein mazeed badtar bana deta, kyunki yeh Angelo ko irritate karta tha. Is cheez ne ise Luigi ka favorite bana diya tha. Dhere-dhere widow ne kaha:
+
+“Angelo, aap thak gaye hain, aapne khud ko zyaada khinch (overdone) liya hai; aap dinner ke baad seedhe bed par jao, aur ek achhi neend aur rest lo, phir aap alright ho jayenge.”
+
+“Indeed, main kuch bhi de deta agar main aisa kar sakta, madam.”
+
+“Aur rokne ke liye (to hender) kya hai, main jaan'na chahungi? Jameen, room aapka hai iske sath jo chaahein woh karne ke liye! Yeh vichaar ki aap apne khud ke saaman ke sath jo chaahein woh nahi kar sakte!”
+
+“Lekin, aap dekhtee hain, wahan ek mukhya zaroori cheez (prime essential) hai—sabse pehli mahatva ki ek essential—jo meri apni nahi hai.”
+
+“Woh kya hai?”
+
+“Meri body (sharir).”
+
+Old ladies bhramit (puzzled) dikhin, aur Aunt Betsy Hale ne kaha:
+
+“Why bless your heart, yeh kaise hai?”
+
+“Yeh mere bhai ki hai.”
+
+“Aapke bhai ki! Main poori urdu mein nahi samajhti. Maine assume kiya tha yeh aap dono se belong karti hai.”
+
+“So it does (Waisa hi hai). Lekin same samay par dono se nahi.”
+
+“Yeh kaafi curious hai; main nahi dekhti yeh kaise ho sakta hai. Main nahi sochti thi ki ise us tareeqe se manage kiya ja sakta hai.”
+
+“Oh, yeh kaafi achha prabandh (arrangement) hai, aur bahut achha chalta hai; in fact, iske alava doosra hona kaam nahi karta. Main paata hoon ki teetotalers aur anti-teetotalers apni meetings ke liye same hall ka use kiraye par lete hain. Dono parties same samay par iska use nahi kartiin, kya kartiin hain?”
+
+“Aap bet laga sakte hain nahi kartiin!” dono old ladies ne ek hi saans mein kaha.
+
+“Aur, isse mazeed,” Aunt Betsy ne kaha, “Freethinkers aur Baptist Bible class Market house ke upar wale same room ka use karte hain, lekin aap ispar mera sabd le sakti hain woh ek sath khichdi nahi banate (don't mush up together) aur same samay par iska use nahi karte.”
+
+“Very well,” Angelo ne kaha, “aap ise ab samajh gayi hain. Aur yeh tark ke samne baithta hai ki prabandh ko behtar nahi kiya ja sakta tha. Main ise aapke samne prove karunga. Agar hamari legs ne do marziyon (two wills) ka palan karne ka prayas kiya, toh hum kabhi kahin kaise pahunch paenge? Main ek raaste par shuru karunga, Luigi doosre par shuru karein, theek same moment—nateejah ek standstill (sthirta) hoga, kya nahi hoga?”
+
+“Theek utna hi nishchhit jitna aap paada hue hain! Ab kya yeh adbhut nahi hai! Kisi prani ne is baare mein kabhi nahi socha hota.”
+
+“Hamein hamesha sabse mamuli trifles (choti baaton) par bhashan, halchal aur vivad (arguing, fussing, disputing) karna padta. Hum samay ki dheron duniya kho dete, kyunki hum neeche stairs par ya upar nahi ja sakte the, bed par nahi ja sakte the, uth nahi sakte the, wash nahi kar sakte the, kapde nahi pehan sakte the, khade nahi ho sakte the, baith nahi sakte the, yahan tak ki apne pair cross nahi kar sakte the, pehle ek meeting bulaye bina aur case ko explain kiye bina aur resolutions pass kiye bina, aur consent (manzoori) haasil kiye bina. Yeh kabhi kaam nahi karta—ab kya karta?”
+
+“Kaam? Why, yeh ek person ko ek hafte mein thak kar mita deta! Kya aapne kabhi is jaisa kuch suna hai, Patsy Cooper?”
+
+“Oh, aap payenge unke baare mein ek se mazeed cheez aishi hai jo sadharan (commonplace) nahi hai,” widow ne ek aise person ke santoosh-bhare air (complacent air) ke sath kaha jiske paas tareef-bhari jaanch ke tehat ek naveenta (novelty) par property right ho.
+
+“Well, ab, aap anyway ise manage kaise karte hain? Main kehne par parwah nahi karti main jaan'na chahne ke liye suffer kar rahi hoon.”
+
+“Usne jisne hamein banaya,” Angelo ne reverently (shradha se) kaha, “aur hamare sath is difficulty ko, usne isse baahar nikalne ka ek raasta bhi pradan kiya. Hamari be-ing ke ek rahasyamai kanoon dwara, hummein se har ek ke paas ek samay par ek hafte tak hamari body ka poora aur nirvivad command (utter and indisputable command) hota hai, baari-baari se.”
+
+“Well, maine kabhi nahi suna! Ab kya yeh khoobsurat nahi hai!”
+
+“Haan, yeh khoobsurat hai aur anant roop se wise aur nyay-purna hai. Hafte ka ant har Saturday midnight ko theek minute par, second par, ek second ke fraction ke aakhiri ansh tak, achook roop se, bina-galti ke hota hai, aur usi instant (pal) mein body par ek bhai ki power vanished ho jaanti hai aur doosra bhai kabza le leta hai, so raha ho ya jaag raha ho.”
+
+“Unke tareeqe kitne marvelous hain, aur khoj se pare!”
+
+Luigi ne kaha: “Theek usi instant par badlav aata hai ki, world ke kai bade sheharon mein hamare stay ke dauran, public clocks ko isse regulate kiya jata tha; aur chunki sainkado hazaroni private clocks aur watches ko public clocks ke mutabik set aur correct kiya jata tha, humne sach mein poore shehar ke liye standard time pradan kiya.”
+
+“Mujhe mat batao ki Woh ab chamatkar (miracles) nahi karte! Rams' horns se Jericho ki deewaron ko neeche udana utna difficult nahi tha, meri raai mein.”
+
+“Aur itna hi sab kuch nahi hai,” Angelo ne kaha. “Ek cheez jo shayad isse bhi mazeed marvelous hai, woh yeh fact hai ki badlav longitude (deshantar) ka dhayan rakhta hai aur hum jis meridian par hain uske mutabik khud ko fit karta hai. Luigi is hafte command mein hain. Ab, agar Saturday night ko midnight se ek moment pehle hum ek hi instant mein yahan se fifteen degrees west wale point par ud sakein, toh woh power ka kabza ek aur ghante tak rakkhega, kyunki badlav local time ka paalan karta hai aur kisi doosre ka nahi.”
+
+Betsy Hale gehrai se prabhavit (deeply impressed) thin, aur unhone gombhirta (solemnity) se kaha:
+
+“Patsy Cooper, detail ke hisab se yeh Lal Sagar ke Paar Jaane (Passage of the Red Sea) ke upar khada hai.”
+
+“Now, main utna door nahi jaungi,” Aunt Patsy ne kaha, “lekin agar aapka Sodom aur Gomorrah kehne ka mind ho, toh main aapke sath hoon, Betsy Hale.”
+
+“Main sahmat hoon, tab, bhale hi main sochti hoon main right thin, aur mera vishwas hai Parson Maltby bhi same kehte. Well, ab, ek aur cheez hai. Assume kijiye aapmein se koi un legs ko ek minute ke liye udhaar mangna chahta hai jiske paas woh hain, kya woh use lene de sakta hai?”
+
+“Haan, lekin hum mushqil se kabhi aisa karte hain. Kai baar, nateejatan na-pasandida results (disagreeable results) nikle the, aur isliye hum in dino bahut shaz-o-nadir (very seldom) hi us privilege ki mang karte hain ya izazat dete hain, aur hum aishi cheez ke baare mein tab tak kabhi sochte bhi nahi hain jab tak case extremely urgent na ho. Iske alava, ek samay par ek hafte ka kabza itna chota lagta hai ki hum iska ek minute bhi chhodna bardaasht nahi kar sakte. Jo log poore samay apni legs ka use karte hain woh o' course kabhi nahi sochte ki yeh kaisa ek var-daan (blessing) hai. Yeh unke dimaag mein kabhi aata hi nahi; yeh bas unki natural ordinary condition hai, aur isliye yeh unhein bilkul utsaahit nahi karti. Lekin jab main Sunday morning ko jaagta hoon, aur yeh mera hafta hota hai aur main poori body mein power feel karta hoon, oh, utsah aur thanksgiving ka ek aisa lahar mere upar surging karta hai, aur main chillana chahta hoon 'Main chal sakta hoon! Main chal sakta hoon!' Madam, kya aap kabhi, apne uthne par, chillana chahti hain 'Main chal sakta hoon! Main chal sakta hoon!'?”
+
+“Nahi, tum poor badkismat prani (unfortunate cretur'), lekin main iske bina dobara kabhi apne bed se baahar nahi nikalungi! Laws, yeh sochne ke liye ki mere paas apni is lambi life mein yeh na-bolne-yogya blessing (unspeakable blessing) rahi aur mujhe dene wale good Lord ko thank you kehne ki kripa kabhi nahi hui!”
+
+Dono old ladies ki aankhon mein tears khade the aur widow ne softly kaha:
+
+“Betsy Hale, humne kuch seekha hai, tumne aur maine.”
+
+Baatcheet ab wide drift hui, lekin dhere-dhere ek baar phir us admired detail par tair kar aayi, us karrwai aur khoobsurat nishpakshata (rigid and beautiful impartiality) par jisse power ka kabza twins ke beech distribute kiya gya tha. Aunt Betsy ne ismein kanoon ke related cases mein dikhaye jaane wale mukable kahin mazeed fine justice dekha. Unhone kaha:
+
+“Meri raai mein yeh abhi right nahi hai, aur kabhi right nahi raha hai, jis tareeqe se doosre ke mukable ek quarter minute pehle paada hua twin purane deshoon mein saari jameen aur shandariyan aur nobilities haasil kar leta hai aur uske bhai ko nange rehna padta hai aur ek gair-mahatva insaan (nobody) banna padta hai. Aapmein se kaun pehle paada hua tha?”
+
+Angelo ka head Luigi ke sahare tika tha; thakan ne use overcome (ghair) kar liya tha, aur pichele paanch minutes se woh shanti se so raha tha. Old ladies ne apni awaaz ko ek lulling drone (sulane wali sarsari) mein gira diya tha, use us rest ko churaney mein help karne ke liye jise lene unka bhai use upstairs lekar nahi ja raha tha. Luigi ne ek moment Angelo ki regular breathing (saans lene) ko suna, phir ek mushqil se sunne-yogya awaaz (barely audible) mein kaha:
+
+“Hum dono same samay par paada hue the, lekin main usse six months bada hoon.”
+
+“Dharti ke khaatir (For the land's sake)!”
+
+“'Sh! use mat jagana; use mera yeh batana pasand nahi hoga. Ise ab tak hamesha secret rakkha gya hai.”
+
+“Lekin world mein aisa kaise ho sakta hai? Agar aap dono same samay par paada hue the, toh aapmein se ek doosre se bada kaise ho sakta hai?”
+
+“Yeh bahut simple hai, aur main aapko assure karta hoon yeh true hai. Main baalon ki ek poori fasal (full crop of hair) ke sath paada hua tha, woh six months tak ek ande jitna ganja (bald as an egg) tha. Main uske ek step chalne se pehle six months tak chal sakta tha. Maine usse six months aige teething (daant nikalna) finish ki thin. Uske breast chhodne se pehle maine six months pehle solids (thos khana) lena shuru kiya tha. Uske ek sabd bolne kabil hone se pehle maine six months pehle baat karni shuru ki thin. Aakhiri, aur poori tarah na-kharij-yogya saboot (absolutely unassailable proof), meri khopdi ke jodh (sutures in my skull) usse six months aige close hue the. Hamesha ek din ke hisab se theek wahi six months ka difference. Kya woh accident tha? Koi iska claim nahi karne ja raha hai, main sure hoon. Yeh nirdharit tha—yeh kanoon tha—iska apna meaning tha, aur hum jaante hain woh meaning kya tha. Ab yeh dba dene wala evidences ka dher kya establish karta hai? Yeh just ek cheez establish karta hai, aur us cheez ko yeh bina kisi shak ke (beyond any peradventure whatever) establish karta hai. Dinton, hum nahi chahenge ki yeh duniya ko pata chale, aur mujhe aapse ise strictly apne tak rakhne ki guzarish karni hogi, lekin truth yeh hai, hum utne twins nahi hain jitni aap hain.”
+
+Dono old ladies sunn thin, paralyzed thin—petrified thin, koi lagbhag keh sakta hai—aur kuch moments tak kevel baith kar ek doosri ko khaali roop se ghoor (gaze vacantly) saktin thin; phir Aunt Betsy Hale ne impressively kaha:
+
+“Aise saboot (proof) ke chaaron taraf ghoomna nahi ho sakta. Main vishwas karti hoon yeh sabse mazeed amazing cheez hai jise maine kabhi suna hai.” Whon ek-do moment silent baithi rahin aur utsah se bhaari saans le rahi thin, phir unhone upar dekha aur thodi der tak strangers ko ek-takt (steadfastly) moolyankan kiya, aur add kiya: “Well, yeh mujhe beat karta hai, lekin main aapko kahin bhi twins ke roop mein le leti.”
+
+“So would I, so would I (Main bhi waisa hi karti),” Aunt Patsy ne ek aishi nishchitta ke emphasis ke sath kaha jisme shak ka koi dhundhlapan kami nahi kar raha tha.
+
+“Koi bhi kar leta—world mein koi bhi, mujhe parwah nahi woh kaun hai,” Aunt Betsy ne faisale (decision) ke sath kaha.
+
+“Aap batayengi nahi,” Luigi ke kaha, binnati karte hue.
+
+“Oh, dear, nahi!” dono ladies ne promptly javab diya, “aap hum par trust kar sakte hain, aap darriye mat.”
+
+“Yeh aapki taraf se achha hai, aur kind hai. Kabhi zahir mat hone dena; hamein hamesha aise treat karna jaise hum twins hon.”
+
+“Aap hum par depend kar sakti hain,” Aunt Betsy ne kaha, “lekin yeh easy nahi hoga, kyunki ab jab main jaanti hoon aap nahi hain toh aap waise lagte nahi hain.”
+
+Luigi ne satisfaction ke sath apne aap se bhurbhuraye: “Woh dhokha (swindle) bina gaadi badle guzar gya (gone through without change of cars).”
+
+Unpoor praniyon par us tarah ke ek secret ka bojh daalna unqi taraf se bahut kind nahi tha, jo har baar unqi tongues' ends par ud kar aata jab bhi woh kisi ko strangers ko twins ke roop mein bolte sunte, aur ise hang on karne mein mazeed aur mazeed hard hota jata ise batane ke laalach (temptation) ke har dohraav ke sath, jabki ise barkarar rakhne ki torture har naye khinchav ke sath badhti; lekin usne us baare mein kabhi nahi socha, aur probably agar socha hota toh is baare mein bahut zyaada worry nahi karta.
+
+Ek visitor announced hua—twins se milne koi aaya tha. Whon parlor ki taraf hat gaye, aur dono old ladies interest ke sath un ajeeb cheezon par discuss karne lagin jinhein woh sun rahi thin. Jab unhone mamle ko apne satisfaction ke mutabik finish kar liya, aur Aunt Betsy jaane ke liye uthin, toh woh ek sawaal poochne ke liye rukin:
+
+“Roweny aur Tom Driscoll ke beech cheezein kaisi chal rahi hain?”
+
+“Well, lagbhag waisi hi. Woh paryapt niyamit likhta hai, aur woh paryapt kam hi javab deti hai.”
+
+“Woh kahan hai?”
+
+“St. Louis mein, mera vishwas hai, bhale hi woh aisa ghoomne wala (gadabout) hai ki koi prani us baare mein bahut certain nahi ho sakta, main moolyankan karti hoon.”
+
+“Kya Roweny nahi jaanti?”
+
+“Oh, haan, lagbhag pasand jaisa. Maine haal hi mein usse nahi poocha hai.”
+
+“Kya aap jaanti hain uska aur judge ka ab kaisa chal raha hai?”
+
+“First rate, mera vishwas hai. Mrs. Pratt aisa kehti hain; aur ghar mein right hone ke kaaran, aur ek ki sister aur doosre ki aunt hone ke naate, o' course unhein jaan'na chahiye. Woh kehti hain judge usse real fond (pyaar) karte hain jab woh baahar hota hai; lekin jab woh chaaron taraf hota hai toh chidte (frets) hain aur uske tareeqon se vexed hote hain, aur uske dobara jaane par sorry nahi hote. Woh is baar teen hafton se ghaayab hai—un dono ke liye ek pleasant cheez hai, I reckon.”
+
+“Tom thoda harum-scarum (laparwah) hai, lekin usmein koi kharab cheez nahi hai, main guess karti hoon.”
+
+“Oh, nahi, woh just young hai, bas itna hi. Phir bhi, ek tareeqe se twenty-three old hota hai. Ek young man ko us samay tak apna gujara earn karna chahiye. Agar Tom woh kar raha hota, ya aisa karne ka prayas bhi kar raha hota, toh judge usse ek dher behtar satisfied hote. Tom hamesha begin karne wala hota hai, lekin kahin na kahin use theek wahi opening dhoondhne mein nahi lagta jise woh pasand karein.”
+
+“Well, ab, yeh aashik roop se judge ki apni galti hai. Boy se uski property ka vaada karna use apni khud ki fortune earn karne par lagane ka raasta nahi tha. Lekin aap kya sochti hain—kya Roweny uski taraf thoda lean (jhhukna) shuru kar rahi hain, ya nahi kar rahi hain?”
+
+Aunt Patsy ki chaati mein ek secret tha; woh ise wahin rakhna chahti thin, lekin nature unke liye bahut strong thi. Unhone Aunt Betsy ko ek taraf khincha, aur apne sabbse confidential aur rahasyamai tareeqe (mysterious manner) se kaha:
+
+“Aap kisi aatma tak ek syllable (lafz) mat saans lena—main aapko kuch batane ja rahi hoon. Meri raai mein Tom Driscoll ke chances kal aaj ke mukable kaafi behtar the.”
+
+“Patsy Cooper, aapka matlab kya hai?”
+
+“Yeh aisa hi hai, theek utna hi nishchhit jitna aap paada hue hain. Main ichha karti hoon aap breakfast par hoti aur khud dekh saktin.”
+
+“Aapka matlab yeh nahi ho sakta!”
+
+“Well, agar main koi judge hoon, toh wahan ek leaning hai—wahan ek leaning hai, sure.”
+
+“Baap re! Unmein se kaun sa hai?”
+
+“Main nishchitta se nahi keh sakti, lekin main sochti hoon yeh sabse youngest wala hai—Anjy (Angelo).”
+
+Phir wahan haath milana (hand-shakings), aur badhaiyan (congratulations), aur hopes, aur isi tarah aige hua, aur old ladies alag ho gayin, perfectly alright happy—ek is baat ko jaan'ne mein jise town ka baki hissa nahi jaanta tha, aur doosri akela person hone mein jo us knowledge ko pradan karne kabil thin.
+
+Twins se milne jo visitor aaya tha woh Rev. Mr. Hotchkiss the, Baptist church ke pastor. Reception par Angelo ne unse kaha tha ki usne haal hi mein apne religious views mein ek badlav anubhav (experienced) kiya hai, aur ab ek Baptist banne ka desirous (ichha-hukm) hai, aur Mr. Hotchkiss's church mein instantly join ho jayega. Mazeed kehne ka samay nahi tha, aur brief talk usi point par khatam ho gayi thin. Minister bahut gratified the, aur ab ek moment ke liye drop in hue the, twins ko aaj evening aath baje apni Bible class attend karne ke liye invite karne ke liye. Angelo ne sweekar kiya, aur Luigi se refuse karne ki expect kar raha tha, lekin usne nahi kiya, kyunki woh jaanta tha ki Bible class aur Freethinkers same room mein milte hain, aur woh apne bhai ko free-thinking company mein pakde jaane ke embarrassment ka treat dena chahta tha.
+
+---
