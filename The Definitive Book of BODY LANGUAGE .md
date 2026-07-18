@@ -6496,3 +6496,472 @@ In sawaalon ke jawaabot na sirf tumhein ek taqatwar faaida denge — balki doosr
 
 ---
 
+# Chapter 18 — Interviews, Power Plays, and Office Politics
+### *(Interviews, Taqat Ki Khehl, Aur Daftari Siaasat)*
+
+---
+
+> *"Adam interview se baahir nikla — shak tha ki achha nahi gaya. Kya jo usne kaha woh galat tha? Ya uski chocolate-brown suit, gaatee daadhi (goatee beard), bali (earring), aur bharaa hua briefcase? Ya woh galat kursi par baitha?"*
+
+---
+
+Zyaadatar job interviews naakaam (unproductive) hoti hain — kyunki studies ek mazboot sambandh (correlation) dikhati hain interviewer ke interviewee ko kitna pasand karne aur job milne ke beech.
+
+Aakhir mein — jo factual information CV (curriculum vitae) se aati hai — asli kaam achhi tarah karne ke indicators — woh zyaadatar bhool jaati hai.
+
+Jo yaad rehta hai — woh hai woh impression jo candidate ne interviewer par daali.
+
+> **Pehla asar — business duniya ka "pehli nazar mein mohabbat" hai.**
+
+**Professor Frank Bernieri, University of Toledo** ne bees-minute interviews mein job applicants ki performances analyze kiin — aur interviewers ne har candidate ko ambition (hawas-e-tali), intelligence (zehaaniyat), aur competence (kabiliyat) jaise attributes par rate kiya.
+
+Phir ek group of observers ko sirf har interview ke **pehle pandrah second** ka video footage dikhaya gaya.
+
+**Nateeja:** Observers ke pandrah second mein pehle impressions — lagbhag bilkul interviewers ke impressions se match kiye.
+
+> **Tum kabhi bhi doosra mauka nahi paate pehla impression banaane ka — tumhari approach, handshake, aur overall body language hi interview ka nateeja tay karte hain.**
+
+---
+
+## Why James Bond Looked Cool, Calm, and Collected
+*(James Bond Kyun Cool, Shant, Aur Kaaboo Mein Lagta Tha)*
+
+Linguistics (zuban ki science) mein research ne ek seedha sambandh (direct relationship) dikhaya — kisi insaan ka status, taqat, ya prestige (aabroo) — aur unki vocabulary range (alfaazon ka daayra) ke beech.
+
+- Jitna upar woh social ya management ladder par ho — utna zyaada woh words aur phrases mein communicate kar sakta hai
+- Body language research ne ek correlation dikhaya — kisi ke spoken word ka command aur unke gestures ke beech
+
+Zyaada padha-likha, high-status insaan apni vocabulary se matlab communicate karta hai — jabki kam padha-likha, less-skilled, low-status insaan words ki jagah gestures par zyaada rely (nirbhar) karta hai.
+
+**Special Agent James Bond** ne yeh principles bohot effectively use kiye — minimal body gestures ke saath — khaaskar jab pressure mein hota. Jab woh badmaashon dwara daraaaya jaata, beizzat kiya jaata, ya goli chalayi jaati — woh relatively bina halchal ke rehta aur chhote, monotone sentences mein bolta.
+
+> **James Bond itna cool tha ki woh das villains marne ke fauran baad mohabbat bhi kar sakta tha.**
+
+High-status log hamesha *"cool rakhte hain"* — matlab apni emotions jitni ho sake kam zahir karna. Actors jaise **Jim Carrey** iske ulte hain — woh aksar bahut animated roles karte hain — taqat ki kami emphasize karte hain — aur aam tor par kamzor, daraaye hue mard ka kirdar karte hain.
+
+---
+
+## The Nine Golden Keys to Making Great First Impressions
+*(Behtarin Pehla Asar Banaane Ki Nau Sunehri Chaabiyaan)*
+
+Maano tum interview ke liye jaane wale ho aur best pehla impression banana chahte ho. Yaad rakho:
+
+- Doosre **pehle chaar minute** mein tumhare baare mein **90% rai** bana lete hain
+- Tumhara **60 se 80% impact nonverbal** hoga
+
+---
+
+### 1. Reception Area Mein
+*(Waiting Room Mein)*
+
+Apna coat utaaro aur receptionist ko do — agar mumkin ho. Baahon bharey saamaan ke saath office mein mat ghuso — jo tumhein fumble (haath-pair maarne) karaaye aur inept (naakabil) dikhaye.
+
+**Reception area mein hamesha khade raho — kabhi mat baitho.**
+
+Receptionist tumse *"seat lo"* bolti hai — kyunki jab tum baithte ho — tum unki nazar se ot (out of sight) ho jaate ho aur unhe tumse deal nahi karna padta.
+
+**Khade khade:**
+- **Hand-in-Hand behind your back** — confidence
+- Dheere dheere pairon par aage-peeche hilna — confident, controlled
+- Ya **Steeple gesture** use karo
+
+Yeh body language ek lagaataar yaaddaashт (reminder) hai ki tum abhi bhi wahan ho aur intezaar kar rahe ho.
+
+> **Lekin tax office mein yeh kabhi mat karo.**
+
+---
+
+### 2. Entry — Daakhil Hona
+
+Tumhara daakhil hona doosron ko batata hai ki tum kaise treat kiye jaane ki ummeed rakhte ho.
+
+Jab receptionist ne green light di — **bina jhijhak ke andar aao.** Darwaaze par ek sharaarat (naughty) schoolchild ki tarah mat khade raho — headmaster se milne ka intezaar karte hue.
+
+Jab tum kisi ke office ke darwaaze se guzro — **same speed maintain karo.** Jo log confidence ki kami rakhte hain — woh gear change karte hain aur ek chhoti si shuffle karte hain andar jaate waqt.
+
+---
+
+### 3. Approach — Paas Aana
+
+Chahe woh insaan phone par ho, drawer mein kuch dhundh raha ho, ya joote baandh raha ho — **seedha aur confidently smooth motion mein andar aao.**
+
+Briefcase, folder, ya jo bhi haath mein ho — rakh do, insaan se haath milao, aur fauran baith jao.
+
+Doosre insaan ko feel karaao ki tum confidently offices mein chalne ke aadit ho — aur intezaar karne ki ummeed nahi rakhte.
+
+- **Dheema ya lambe kadam** — waqt zyaada hone ya koi kaam na hone ka signal
+- **Tez pace aur medium kadam** — taqat, authority, kabiliyat, aur energy zahir karta hai
+
+---
+
+### 4. Handshake
+
+- Palm seedhi rakho aur jo pressure milo — utna vaapas karo
+- **Doosre insaan ko decide karne do** handshake kab khatam karna hai
+- Aayataakaar (rectangular) desk ke daayeni taraf se approach karo — Palm-Down handshake se bachne ke liye
+- Kabhi seedha desk ke aar-paar haath mat milaao
+- **Pehle pandrah second mein insaan ka naam do baar use karo**
+- **Ek waqt mein tees second se zyaada mat bolo**
+
+---
+
+### 5. Jab Baitho
+
+Agar kisi low chair par seedha doosre insaan ke saamne baithne par majboor ho — kursi ko **45 degree** door kar lo — "daant-phatkaar (reprimand) position" mein fasnse se bachne ke liye. Agar kursi angle nahi ho sakti — apna sharir angle karo.
+
+---
+
+### 6. Seating Areas
+
+Agar office mein informal area mein baithne ki dawat (invitation) milo — jaise informal coffee table par — yeh ek positive nishaan hai:
+
+> **95% business rejections desk ke peeche se di jaati hain.**
+
+Low sofe par kabhi mat baitho jo itna neeche dhans jaaye ki tum ek bade pair ke upar chhota sa sar lagte ho. Agar zaruri ho — sofe ke kinare par seedhe baitho — taaki apni body language aur gestures kaaboo mein rakho — aur apna sharir insaan se 45 degree door angle karo.
+
+---
+
+### 7. Gestures
+
+Jo log cool, calm, collected, aur apni emotions par kaaboo mein hain — woh **saaf, uncomplicated, jaankaar movements** use karte hain.
+
+High-status individuals low-status individuals se **kam gestures** use karte hain. Yeh ek purana negotiating (vaarta) trick hai — taqat waalon ko zyaada hilna zaroori nahi.
+
+- **Eastern Europeans** — kohni (elbow) ke neeche se zyaada gesture karte hain Westerners se
+- **Southern Europeans** — poore baazoo aur kaandhon se zyaada gesture karte hain
+- Doosre insaan ke gestures aur expressions **mirror karo** jab maaqul (appropriate) lage
+
+---
+
+### 8. Doori (Distance)
+
+Doosre insaan ki Personal Space ka khayal rakho — jo meeting ke shuruaati minutes mein sabse badi hogi.
+
+Agar tum zyaada karib aao — woh:
+- Kursi mein peeche jhuk jaayega
+- Door lean karega
+- Ya repetitive gestures jaise ungliyaan thaapna use karega
+
+**General rules:**
+- Jaane-pehchane logon ke karib — anjaan se door
+- Mard aam tor par unke saath kaam karne wali auraton ke karib jaate hain
+- Auraten aam tor par mardoon ke saath kaam karte waqt door rehti hain
+- Same umra waale ke karib — significantly upar ya neeche waale se door
+
+---
+
+### 9. Exit — Nikalna
+
+Apna saamaan **shaantly aur deliberately** (jaankaar taur par) pack karo — bhagambaag (frenzy) mein nahi.
+
+Haath milaao — agar mumkin ho — mudio — aur baahir chalo.
+
+Agar darwaaza band tha jab andar aaye — **baahir jaate waqt band karo.**
+
+> **Log hamesha tumhare jaate waqt peeche se dekhte hain.**
+
+- **Agar mard ho** — joote ka peechhla hissa saaf hona chahiye. Bahut se mard yeh neglect (nazar-andaaz) karte hain — aur auraten is par critical (alochanatmak) hain
+- **Agar aurat ho** — darwaaze par pahunchne se pehle apna paon darwaaze ki taraf point karti hai — aur kapde aur baalon ka peechla hissa adjust karti hai — ek achha rear-view impression banane ke liye
+
+Darwaaze par pahunch ke — **dheere mudo aur muskurao.**
+
+> **Behtar hai ki woh tumhara muskurata chehra yaad rakhein — na ki tumhari peeth.**
+
+---
+
+## When Someone Keeps You Waiting
+*(Jab Koi Tumhein Intezaar Karaaye)*
+
+Agar koi tumhein **bees minute se zyaada** intezaar karaaye — yeh ya toh unki bey-tarteebi (disorganization) hai — ya taqat ki khehl (power play) hai.
+
+Kisi ko intezaar karaana ek effective tarika hai unka martaba (status) girane aur khud ka badhane ka.
+
+**Strategy:**
+
+Hamesha saath rakho:
+- Kitaab
+- PDA ya laptop
+- Ya office work
+
+Yeh dikhata hai ki tum bhi busy ho aur takleef mein nahi ho.
+
+Jab woh insaan tumse milne baahir aaye — **unhe pehle bolne do.** Apna kaam se dheere sar uthao aur greet karo — phir calmly aur confidently pack karo.
+
+**Doosri achhi strategy:**
+- Financial papers aur calculator nikalke calculations karo
+- Jab woh bulaayen — kaho: *"Ek second — yeh calculations khatam karta hoon"*
+
+Ya apne tamam cellphone calls karo. Saaf message — tum bahut busy ho aur unki bey-tarteebi se inconvenienced nahi ho.
+
+**Agar shak ho ki woh power game khel rahe hain:**
+- Meeting ke dauran ek urgent call arrange karo
+- Call lo — zor se bade amounts of money ka zikr karo
+- Ek mashoor naam ya do daalo — kaho ki tum sirf best settle karte ho — aur unhein vaapas report karne ko kaho
+- Phone rakho — maafi maango interruption ke liye — aur aise jari rakho jaise kuch hua hi na ho
+
+> **Hey — yeh James Bond ke liye kaam karta hai... tumhare liye bhi karega.**
+
+Agar doosra insaan meeting ke dauran phone call le ya koi teesra andar aaye aur lambi baat kare — **apni kitaab ya homework nikalke padhna shuru karo.** Yeh unhe privacy deta hai aur dikhata hai ki tum apna waqt zaaya nahi karte.
+
+---
+
+## Fake It Till You Make It?
+*(Natak Karo Jab Tak Sach Na Ho Jaaye?)*
+
+Agar tum haath-se-chehra gestures avoid karo aur hamesha khulaapanapan (openness) signals se baat karo — kya iska matlab hai ki tum kuch bade jhooth bhi bol sakte ho aur bach sakte ho?
+
+**Zaruri nahi** — kyunki agar tum khuli positions use karo jabki tum jaante ho ki jhooth bol rahe ho:
+- Tumhare haath paseena pakad sakte hain
+- Gaale pharak sakte hain
+- Putaliyaan (pupils) sikodhh sakti hain
+
+Sabse mahir (competent) jhoothey woh hain jo apne acting role mein ja sakein — aur aise act karein jaise woh asliyat mein jhooth ko maanate hon. Ek professional actor jo yeh doosron se behtar kar sake — use **Oscar** milta hai.
+
+Jabki hum jhooth bolne ko suggest nahi kar rahe — powerful evidence hai ki agar tum is poori book mein mentioned positive skills practice karo — woh tumhara swabhav (second nature) ban jaayengi — aur poori zindagi kaam aayengi.
+
+---
+
+### Pakshiyon Par Prayog (Bird Experiment)
+
+Scientists ne **"Fake it till you make it"** concept pakshiyon par tests se sabit kiya.
+
+Kaafi pakshi prajatiyon (species) mein — jitna dabbda (dominant) pakshi — utna gehra (darker) uska rang. Gehra rang wale pakshi khaane aur saathiyon ke liye pehli line mein hote hain.
+
+**Pehla test:**
+- Researchers ne halke, kamzor pakshiyon ka rang gehra karke dya — taaki woh doosron ko "jhooth bolen" ki woh dabbde hain
+- **Nateeja:** Asli dabbde pakshiyon ne "jhoothey" pakshiyon par hamla kiya — kyunki woh abhi bhi kamzor aur daaba hua (submissive) body language dikhaa rahe the
+
+**Doosra test:**
+- Kamzor pakshiyon ko sirf rang nahi kiya — balki **testosterone hormones** bhi inject ki gayin — taaki woh dabbde ki tarah act karein
+- **Nateeja:** Ab "jhoothey" succeed kiye — woh confidently aur superior tarike se ghoomne lage — jo asli dabbde pakshiyon ko bilkul ullu bana gaya
+
+> **Matlab — interview mein ek believable role mein khud ko cast karo — aur advance mein mentally practice karo ki tum kaise behave karoge — agar doosre tumhein seriously lein.**
+
+---
+
+## Seven Simple Strategies for Giving You the Extra Edge
+*(Zyaada Faaida Dene Waali Saat Sadhi Strategies)*
+
+---
+
+### 1. Meetings Ke Liye Khade Raho
+
+Sabhi chhoti-term decision-making meetings khade khade karo.
+
+Studies dikhati hain ki khade baatein karne wali conversations baithne wali se kaafi chhoti hoti hain — aur jo insaan khadi meeting karta hai use unse zyaada martaba (status) wala samjha jaata hai jo baithte hain.
+
+Jab bhi doosre tumhari workspace mein aayein — khade ho jaana bhi ek umda waqt bachane ka zariya hai.
+
+> **Socho ki tumhari work area mein visitors ki kursiyan bilkul na ho.**
+
+Khade decisions tez aur to-the-point hote hain — aur doosre tumhara waqt social chatting ya sawaalon jaise *"Ghar-wale theek hain?"* se zaaya nahi karte.
+
+---
+
+### 2. Competitors Ko Darwaaze Ki Peeth Ki Taraf Bithaao
+
+Jaise discuss kiya — studies reveal karti hain ki jab peeth khule space ki taraf ho:
+- Stress badh jaata hai
+- Blood pressure badh jaata hai
+- Dil tezi dhadakta hai
+- Brainwave output badh jaata hai
+- Saans tez ho jaata hai — kyunki sharir peeche se sambhavit hamle ke liye taiyaar hota hai
+
+> **Apne opponents ke liye yeh ek umda position hai.**
+
+---
+
+### 3. Ungliyaan Saath Rakho
+
+Jo log baat karte waqt ungliyaan band rakhte hain — aur haath thodi ke neeche rakhte hain — sabse zyaada dhyaan kheenchte hain.
+
+Khuli ungliyaan use karna ya haath thodi ke upar rakhna — kam taqatwar samjha jaata hai.
+
+---
+
+### 4. Kohniyan Baahar Rakho
+
+Kursi par baith ke kohniyan (elbows) baahar rakho ya kursi ke baazuon par.
+
+Daabey (submissive), darpok (timid) insaan apni kohniyan andar karte hain khud ko bachane ke liye — aur unhe darpok samjha jaata hai.
+
+---
+
+### 5. Power Words Use Karo
+
+**University of California** ki ek study ne dikhaya ki bolne wali bhasha ke sabse pecharti (persuasive) words hain:
+
+> **discovery (kashf), guarantee (zamanat), love (mohabbat), proven (sabit), results (nateeje), save (bachao), easy (aasaan), health (sehat), money (paisa), new (nayi), safety (suraksha), aur you (tum)**
+
+Practice karo in words ko use karna. In sabit (proven) words ki kashf (discovery) ke naye nateeje (results) tumhein zyaada mohabbat (love), behtar sehat (health) zamanat (guarantee) denge — aur paise (money) bachaaenge (save). Aur yeh bilkul safe (surakshit) aur aasaan (easy) hain tumhare liye.
+
+---
+
+### 6. Patla Briefcase Le Jaao
+
+Ek patla briefcase jisme combination lock ho — ek important insaan le jaata hai jo sirf bottom-line details ki parwah karta hai.
+
+Bade, bhari briefcases woh le jaate hain jo sab kaam karte hain — aur unhe itna organized nahi samjha jaata ki kaam time par khatam karein.
+
+---
+
+### 7. Unke Coat Buttons Dekho
+
+Videotaped confrontations (aamnay-saamne ki takraar) ka analysis — misal ke taur par unions aur corporations ke beech — dikhata hai ki jab logon ke coats unbuttoned hon toh ittifaq (agreement) ki zyaada frequency hoti hai.
+
+Jo log seene par baazoo cross karte hain — woh aksar jacket button band karke karte hain — aur zyaada negative hote hain.
+
+Jab koi insaan meeting mein achanak jacket unbutton kare — maanna waazib (reasonable) hai ki usne apna dimaag bhi khol liya.
+
+---
+
+## Summary
+*(Khulaasa)*
+
+Interview ya meeting se pehle — paanch minute shant baith ke mentally practice karo — apne aap ko yeh sab karte aur achhi tarah karte dekho.
+
+Jab tumhara dimaag inhe saaf dekhe — tumhara sharir inhe anjaane mein (carry out) karne ke qaabil ho jaayega — aur doosre usi hisaab se react karenge.
+
+---
+
+## Office Power Politics
+*(Daftari Taqat Ki Siaasat)*
+
+Kya tumne kabhi job interview ke liye jaake overwhelmed (dabaa hua) ya helpless feel kiya — visitor's chair par baithte waqt?
+
+Jahan interviewer itna bada aur haawee lagta ho — aur tum chhote aur bey-ehmiyat (insignificant)?
+
+Sambhavit hai ki interviewer ne apna office furniture cunning (chhaalaak) tarike se arrange kiya tha — apna khud ka martaba (status) aur taqat badhane ke liye — aur is taraqqi mein tumhara giraana.
+
+**Kursiyon aur seating arrangements use karke perceived martaba (status) aur taqat badhane ke teen factors:**
+
+---
+
+### 1. Chair Ka Size Aur Accessories
+
+Kursi ki peeth ki unchaai insaan ke martaba (status) ko badhata ya girata hai.
+
+- Jitna uuncha peeth — utni zyaada taqat aur martaba us mein baithne wale ka
+- **Kings, queens, popes, aur high-status insaan** — apni throne ya official chair ki peeth aath feet ya zyaada uunchi rakh sakte hain
+- **Senior executive** — uunchi peeth wali leather chair — aur visitor ki kursi ki peeth neechi
+
+> **Agar queen ya Pope hamesha chhoti piano stool par baithein — unke paas kitni taqat hogi?**
+
+**Swivel chairs** fixed chairs se zyaada taqat aur martaba rakhti hain — user ko freedom of movement deti hain jab pressure mein ho. Fixed chairs mein kam ya koi movement nahi — aur yeh kami body gestures se compensate (poori) hoti hai jo rawaiye aur feelings zahir karte hain.
+
+Baazuon wali, peeche jhukne wali, aur pahiyedaar (wheels) kursiyan zyaada taqat rakhti hain.
+
+---
+
+### 2. Chair Ki Unchaai
+
+Jaise Chapter 16 mein discuss kiya — agar tumhari kursi doosre ki kursi se uunchi ho — martaba (status) milta hai.
+
+Kuch advertising executives uunchi-peeth kursiyon par maximum height par adjust kiye baithte hain — jabki visitors saamne sofe ya itni neechi kursi par baithe hote hain ki unki aankhein executive ki desk ke level par hoti hain.
+
+---
+
+### 3. Chair Ki Jagah
+
+Jaise seating arrangements chapter mein discuss kiya — jab visitor ki kursi seedha opposite Competitive Position mein rakhi ho — sabse zyaada taqat exert hoti hai.
+
+Ek common power play — visitor ki kursi executive ki desk se jitni door mumkin ho rakhnaa — social ya public territory zone mein — jo visitor ka martaba (status) aur bhi girata hai.
+
+---
+
+## How to Switch Table Territories
+*(Table Ilaaqe Kaise Badlein)*
+
+Jab do insaan ek table ke aar-paar seedhe saamne baithein — woh anjaane mein use do barabar ilaaqon mein divide karte hain. Har ek aadha apna samjhta hai aur doosre ko uspe ghusna pasand nahi.
+
+**Ek situation:**
+
+Maano tumhare paas ek folder, kitaab, quote, ya sample hai jo aayataakaar (rectangular) desk ke peeche baithne waale insaan ko present karna hai — aur tumhara maqsad presenting ke liye best position lena hai.
+
+**Pehle — article table par rakh do:**
+
+- **Woh aage jhuke aur dekhe lekin na utha** — tumhein wahan se present karna hoga — woh tumhein apni side nahi chahta. Is haalat mein **45 degree** door angle ho ke present karo
+- **Woh ise apni side le le** — yeh tumhein permission deta hai unke ilaaqe mein jaane ki — Corner ya Cooperative Position lene ki
+- **Woh ise vaapas tumhari taraf dhakele** — apni side par raho
+
+> **Doosre insaan ke ilaaqe mein kabhi mat ghuso jab tak verbal ya nonverbal permission na mili ho — warna unhe dushman (offside) kar doge.**
+
+---
+
+## Seated Body Pointing
+*(Baithe Hue Sharir Ka Nishaan)*
+
+Maano tum ek supervisor ho aur ek subordinate ko counsel (mashwarah) karne wale ho jiska kaam kharaab chala hai.
+
+**Setup:**
+1. Session tumhare office mein hoga
+2. Subordinate ek fixed legs aur bina baazuon wali kursi par baitha hoga — jo use body gestures aur postures use karne par majboor karegi
+3. Tum swivel chair par baithoge jiske baazoo hon
+
+**Teen main angle positions:**
+
+**45-degree angle:**
+- Informal, relaxed maahol
+- Counseling session ka achha opening position
+- Subordinate ke movements aur gestures mirror karke nonverbal agreement dikhao
+- Triangle banta hai — ittifaq (agreement) zahir karta hai
+
+**Seedha saamne (Direct body pointing):**
+- Nonverbally batata hai ki tum seedhe sawaalon ke seedhe jawaaab chahte ho
+- Session serious ban jaata hai
+
+**45 degrees door (Away from direct):**
+- Interview se pressure khatam ho jaata hai
+- Naazuk (delicate) ya sharmindagi waale sawaalon ke liye umda position
+- Zyaada khule jawaaab encourage karta hai — bina pressure feel kiye
+
+---
+
+## How to Rearrange an Office
+*(Office Kaise Rearrange Karein)*
+
+**John** ek bade finance company mein tha. Manager position di gayi. Kuch mahine baad — doosre employees use pasand nahi karte the aur uske saath rishta aksar tense rehta tha — khaaskar jab woh uske office mein hote.
+
+**John ke original office setup ki problems:**
+
+1. Visitor's chair **Competitive Position** mein thi
+2. Office ki deewarein solid panels thin sivaaye baahri khhirkhi (window) aur ek clear glass partition ke — jo John ko dekhne deta tha aur baaki staff ko bhi. Yeh John ka martaba (status) girata tha — aur kisi bhi subordinate ki taqat badha sakta tha — kyunki doosre employees visitor ke peeche hote the
+3. John ki desk ki solid front thi — lower body chhupaati thi
+4. Visitor ki kursi ki peeth **khule darwaaze ki taraf** thi
+5. John aksar **Catapult ya Leg-Over-the-Arm-of-Chair** gestures use karta tha
+6. John ki kursi — uunchi peeth, baazoo, aur pahiye waali. Visitor ki kursi — saadhi, neechi peeth, fixed legs, koi baazoo nahi
+
+**Nateeja:** Office nonverbal nazariye se ek disaster area tha.
+
+---
+
+**Kiye gaye badlaav:**
+
+1. John ki desk **glass partition ke saamne** rakhi — office bada dikh a aur woh visitors ko personally greet kar sake — desk se nahi
+2. **"Hot seat"** Corner Position mein rakhi — zyaada khuli communication ke liye — aur kona ek partial barrier ka kaam kare ashurakshit staff ke liye
+3. Glass partition ko **mirror finish** se coat kiya — John baahir dekh sake lekin doosre andar nahi — John ka martaba (status) badhaya aur andar intimate (karib) maahol banaya
+4. **Ek gol mez aur teen identical swivel chairs** office ke doosri taraf rakhi — informal meetings ke liye
+5. Revised layout ne John ko **poora desktop space** de diya
+6. John ne **khuli positions**, subtle Steeple gestures, aur jaankaar taur par khuli hatheli use karne ki practice ki
+
+**Nateeje:**
+- Manager/staff rishton mein kaafi behtar-i (improvement)
+- Kuch staff ne John ko *"easygoing"* aur *"relaxed insaan"* describe kiya
+
+> **Sirf thodi si soch — apne office ya ghar mein nonverbal gymnastics par — tumhara martaba badhaa sakti hai aur doosron ke saath tumhari taqat aur effectiveness badh sakti hai.**
+
+---
+
+## Summary
+*(Khulaasa)*
+
+Taqat ki khehl aur daftari siaasat ki khas baat yeh hai ki tum unhe pehle se andaaza laga sakte ho — aur apni khud ki plan bana sakte ho.
+
+Adam ko kabhi pata nahi tha ki Western cultures mein:
+- **Chocolate-colored suits** auraton ko mard se door karti hain
+- **Goatee daadhi (goatee beard)** — chahe fashion statement ho — anjaane mein bade logon ko repel (door) karti hai — shaitan (Satan) se iske association ki wajah se
+- **Bali (earring)** aur **bharaa hua briefcase** — woh items hain jo sirf nonverbally anjaan log interview mein lete hain
+
+> **Jo log body language samjhte hain — unhe taqat ki khehl mein na pakda jaata hai — aur na hi daftar ki siaasat mein.**
+
+---
