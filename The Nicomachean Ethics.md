@@ -279,3 +279,206 @@ Nicomachean Ethics antiquity se lekar aaj tak innumerable (anginat) commentaries
 - —— *Politics*, trans. Ernest Barker, rev. and ed. R. F. Stalley.
 - Plato, *Protagoras*, trans. C. C. W. Taylor.
 - —— *Republic*, trans. Robin Waterfield.
+
+---
+
+# OUTLINE OF THE NICOMACHEAN ETHICS 
+
+## BOOK I. THE HUMAN GOOD
+
+**Hamare inquiry ka subject**
+1. Saari human activities kisi na kisi good ko aim karti hain: kuch goods doosron ke subordinate (adhin) hote hain.
+2. Human good ki science politics hai.
+
+**Science ki nature**
+3. Humein subject-matter jitni precision (satikta) allow karta hai usse zyada expect nahi karni chahiye. Student ko discretion (samajh-boojh) ki umar tak pahunch chuka hona chahiye.
+
+**Human good kya hai?**
+4. Generally ye agree kiya jaata hai ki ye happiness hai, lekin happiness kya hai iske baare mein various views hain. Shuruaat mein jo chahiye wo facts ke baare mein ek unreasoned (bina reason ke) conviction hai, jaisi ek good upbringing se paida hoti hai.
+5. Popular views ki discussion ki good pleasure hai, honour hai, wealth hai; ek chautha (fourth) kism ki life, contemplation ki, future discussion ke liye deferred (taal di gayi).
+6. Philosophical view ki discussion ki good ka ek Form hota hai.
+7. Good kuch aisa hona chahiye jo final aur self-sufficient ho. Insaan ke characteristic function ko consider karke happiness ki definition tak pahunche.
+8. Hamari definition current beliefs se happiness ke baare mein confirm hoti hai.
+9. Kya happiness learning ya habituation se acquire hoti hai, ya God dwara ya chance se milti hai?
+10. Kya kisi insaan ko us ke jeete-ji happy nahi kaha jaana chahiye?
+11. Kya zinda logo ki fortunes (kismat) dead logo ko affect karti hain?
+12. Virtue praiseworthy hai, lekin happiness praise se bhi upar hai.
+
+**Virtue ki kisms**
+13. Soul ka division, aur uske result mein virtue ka intellectual aur moral mein division.
+
+## BOOK II. MORAL VIRTUE
+
+**Moral virtue, ye kaise acquire hoti hai**
+1. Moral virtue, arts ki tarah, corresponding acts ki repetition se acquire hoti hai.
+2. Ye acts exactly prescribe nahi kiye ja sakte, lekin excess aur defect se bachna chahiye.
+3. Virtuous acts karne mein pleasure ek sign hai ki virtuous disposition acquire ho chuki hai: various considerations moral virtue ka pleasure aur pain ke saath essential connection dikhate hain.
+4. Us view par ek objection ki insaan virtuous acts karke virtues acquire karta hai; aur ek reply: virtue possess karne aur usse act karne ke liye needed conditions.
+
+**Moral virtue ki definition**
+5. Iska genus: ye ek state of character hai, na ki ek passion, na hi ek capacity.
+6. Iska differentia: ye 'intermediate' ko choose karne ki ek disposition hai. Do kism ke intermediate ko distinguish kiya gaya hai.
+7. Upar wali proposition ko particular virtues ke reference se illustrate kiya gaya hai.
+
+**Extreme aur mean states ki characteristics: practical corollaries**
+8. Extremes ek doosre ke, aur mean ke, opposite hote hain.
+9. Mean ko attain karna mushkil hai, aur ise perception se grasp kiya jaata hai, reasoning se nahi.
+
+## BOOK III. MORAL VIRTUE (cont.)
+
+**Voluntary aur involuntary actions, choice, responsibility**
+1. Praise aur blame voluntary actions se attach hoti hain, yani wo actions jo (1) bina forced hue, aur (2) circumstances ki knowledge ke saath ki jaati hain.
+2. Choice ko voluntary se distinguish kiya gaya hai: choice ka object previous deliberation ka result hota hai.
+3. Deliberation ki nature aur uske objects: choice hamari khud ki power mein cheezon ka deliberate desire hai.
+4. Rational wish ka object end hai, yani good ya apparent good.
+5. Virtue aur vice hamari power mein hain.
+
+**Courage**
+6. Courage fear aur confidence ki feelings se concerned hai — strictly speaking, battle mein death ke fear se.
+7. Courage ka motive noble hai: opposite vices, cowardice aur rashness, ki characteristics.
+8. Paanch (five) kism ke courage jo improperly courage kehlaate hain.
+9. Courage ka pain aur pleasure se relation.
+
+**Temperance**
+10. Temperance sirf kuch touch ki pleasures tak limited hai.
+11. Temperance aur uske opposites, self-indulgence aur 'insensibility', ki characteristics.
+12. Self-indulgence, cowardice se zyada voluntary hai: self-indulgent aadmi ki spoilt child se comparison.
+
+## BOOK IV. MORAL VIRTUE (cont.)
+
+**Money se concerned virtues**
+1. Liberality (udaarta).
+2. Magnificence (bhavyata).
+
+**Honour se concerned virtues**
+3. Pride.
+4. Ambition aur unambitiousness ke beech ka intermediate virtue.
+
+**Anger se concerned virtue**
+5. Good temper.
+
+**Social intercourse ki virtues**
+6. Friendliness.
+7. Truthfulness.
+8. Ready wit.
+
+**Ek quasi-virtue**
+9. Shame.
+
+## BOOK V. JUSTICE
+
+**Justice: iska sphere aur outer nature: kis sense mein ye ek mean hai**
+1. Just as the lawful (universal justice) aur just as the fair and equal (particular justice): pehla wala consider kiya gaya hai.
+2. Just as the fair and equal: distributive aur rectificatory justice mein divided.
+3. Distributive justice, geometrical proportion ke according.
+4. Rectificatory justice, arithmetical proportion ke according.
+5. Exchange mein justice, reciprocity.
+6. Political justice aur analogous kism ki justice.
+7. Natural aur legal justice.
+
+**Justice: iski inner nature, jisme choice involve hai**
+8. Wrongdoing ke degrees ka scale.
+9. Kya kisi insaan ke saath voluntarily unjustly treat kiya ja sakta hai? Kya distribution mein injustice ka guilty distributor hai ya recipient? Justice utni aasan nahi hai jitni lag sakti hai, kyunki ye acting ka ek tarika nahi balki ek inner disposition hai.
+10. Equity, legal justice ka ek corrective.
+11. Kya koi insaan khud ke saath unjustly treat kar sakta hai?
+
+## BOOK VI. INTELLECTUAL VIRTUE
+
+**Introduction**
+1. Intellectual virtue study karne ke reasons: intellect contemplative aur calculative mein divided hai.
+2. Pehle ka object truth hai, doosre ka truth jo right desire ke corresponding hai.
+
+**Chief intellectual virtues**
+3. Scientific knowledge — necessary aur eternal ka demonstrative knowledge.
+4. Art — cheezein banane ka knowledge.
+5. Practical wisdom — human life ke ends secure karne ka knowledge.
+6. Intuitive reason — un principles ka knowledge jinse science proceed karti hai.
+7. Philosophic wisdom — intuitive reason aur science ka union.
+8. Practical wisdom aur political science ke beech relations.
+
+**Conduct se concerned minor intellectual virtues**
+9. Deliberation mein goodness, ye practical wisdom se kaise related hai.
+10. Understanding — wo critical quality jo practical wisdom ki imperative quality ke corresponding hai.
+11. Judgement — equitable ka right discrimination: morals mein intuition ka place.
+
+**Philosophic ka practical wisdom se relation**
+12. Philosophic aur practical wisdom ka use kya hai? Puzzles, aur kuch solutions.
+13. Practical wisdom ka natural virtue, moral virtue, aur correct reason se relation.
+
+## BOOK VII. CONTINENCE AND INCONTINENCE: PLEASURE
+
+**Continence aur incontinence**
+1. Character ki chhe (six) varieties: treatment ka method: current opinions.
+2. Current opinions ki discussion.
+3. Incontinent aadmi ke knowledge ke baare mein problem ka solution.
+4. Us problem ka solution, ki incontinence ka sphere kya hai: iska proper aur extended sense distinguish kiya gaya hai.
+5. Incontinence ke extended sense mein ek brutish aur ek morbid form shaamil hai.
+6. Anger ke respect mein incontinence, incontinence proper se kam disgraceful (sharmnaak) hai.
+7. Softness aur endurance: incontinence ke do forms — weakness aur impetuosity.
+8. Self-indulgence, incontinence se worse hai.
+9. Continence ka obstinacy, incontinence, 'insensibility', temperance se relation.
+10. Practical wisdom incontinence ke saath compatible nahi hai, lekin cleverness hai.
+
+**Pleasure**
+11. Pleasure ke against teen views aur unke liye arguments.
+12. Us view ki discussion ki pleasure ek good nahi hai.
+13. Us view ki discussion ki pleasure chief good nahi hai.
+14. Us view ki discussion ki zyadatar pleasures bad hain, aur bodily pleasures ko pleasure in general se identify karne ki tendency ki.
+
+## BOOK VIII. FRIENDSHIP
+
+**Friendship ki kisms**
+1. Friendship necessary bhi hai aur noble bhi: iske baare mein main questions.
+2. Love ke teen objects: friendship ki implications.
+3. Teen corresponding kism ki friendship.
+4. Best aur inferior kisms ke beech contrast.
+5. Friendship ki state ko friendship ki activity se aur friendliness ki feeling se distinguish kiya gaya.
+6. Teeno kisms ke beech various relations.
+
+**Friendship ki reciprocity**
+7. Unequal friendships mein ek proportion maintain karni chahiye.
+8. Loving, being loved se zyada friendship ka essence hai.
+
+**Friendship ke reciprocity ka doosre forms of community ke reciprocity se relation**
+9. Friendship aur justice ki parallelism: state sabhi chhoti communities ko comprehend karti hai.
+10. Constitutions ki classification: family relations ke saath analogies.
+11. Friendship, aur justice, ke corresponding forms.
+12. Relations ke beech friendship ke various forms.
+
+**Friendship ki casuistry**
+13. Principles jo observe kiye jaane chahiye (a) equals ke beech friendship mein.
+14. Principles jo observe kiye jaane chahiye (b) unequals ke beech friendship mein.
+
+## BOOK IX. FRIENDSHIP (cont.)
+
+1. Principles jo observe kiye jaane chahiye (c) jahan dono taraf ke motives different hain.
+2. Obligations ka conflict.
+3. Friendship todne (break karne) ke occasions.
+
+**Friendship ki internal nature**
+4. Friendship self-love par based hai.
+5. Friendship ka goodwill se relation.
+6. Friendship ka concord se relation.
+7. Beneficence (bhalai karne) ka pleasure.
+8. True self-love ki nature.
+
+**Friendship ki need**
+9. Happy aadmi ko friends ki zaroorat kyun hai?
+10. Friends ki number ki limit.
+11. Kya achhi ya buri fortune mein friends zyada zaroori hote hain?
+12. Friendship ka essence saath rehna hai.
+
+## BOOK X. PLEASURE, HAPPINESS
+
+**Pleasure**
+1. Pleasure ke baare mein do opposed views.
+2. Us view ki discussion ki pleasure hi good hai.
+3. Us view ki discussion ki pleasure poori tarah bad hai.
+4. Pleasure ki definition.
+5. Pleasures un activities ke saath differ karti hain jinke saath wo hoti hain aur jinhe complete karti hain: pleasures ki value ka criterion.
+
+**Happiness**
+6. Happiness good activity hai, amusement nahi.
+7. Contemplative life sabse happiest hai.
+8. Contemplative life ki superiority ko aur consider kiya gaya.
+9. Agar end attain karna hai to legislation zaroori hai: Politics ki taraf transition.
