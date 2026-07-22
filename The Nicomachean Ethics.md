@@ -179,3 +179,103 @@ Jo headings aur summaries use kiye gaye hain, saath hi translation ki body mein 
 Main J. L. Ackrill ki writings (aur lectures) ke prati, aur S. Broadie aur C. Rowe, aur T. H. Irwin ke kaam ke prati, unke respective translations aur notes mein, apna debt (rin/ehsaan) acknowledge karna chahunga, saath hi Books II–IV par C. C. W. Taylor ki commentary ke prati bhi.
 
 Nicomachean Ethics antiquity se lekar aaj tak innumerable (anginat) commentaries ka subject rahi hai, khaas kar St Thomas Aquinas dwara; ek estimate ke according, Middle Ages se lekar aaj tak har decade mein lagbhag ek commentary aayi hai. Jo bhi is work par comment karne ki himmat karte hain, wo apne predecessors (pehle wale scholars) ki mehnat ke profound debt (gehra ehsaan) mein hain.
+
+---
+
+# SELECT BIBLIOGRAPHY
+
+*(Note: Ye ek reference/reading-list hai — book titles, author names aur publishers ke naam translate nahi kiye jaate, wo jaise the waise hi rakhe gaye hain. Sirf category headings Hinglish mein kiye gaye hain.)*
+
+## Aristotle par chhoti (brief) works
+- Ackrill, J. L., *Aristotle the Philosopher* (Oxford 1981).
+- Barnes, J., *Aristotle* (Oxford 1982).
+- Ross, W. D., *Aristotle* (London and New York 1964; 1st pub. 1923).
+- Shields, C., *Aristotle* (London 2007).
+
+## Translations (Tarjume)
+- Broadie, S., and Rowe, C., *Aristotle, Nicomachean Ethics*, trans., introd., and comm. (Oxford 2002) with full bibliography.
+- Crisp, R., *Aristotle, Nicomachean Ethics* (Cambridge 2000).
+- Gauthier, R., and Jolif, J., *L'Éthique à Nicomaque*, 4 vols. (Louvain 1970), trans. and full comm. in French.
+- Irwin, T. H., *Aristotle, Nicomachean Ethics*, trans. with introd., notes, and full glossary (Indianapolis 1999); cited as Irwin.
+
+## Purani (Older) Commentaries
+- Aquinas, St Thomas, *In decem libros Ethicorum Aristotelis ad Nicomachum Expositio*, ed. R. M. Spiazzi (Turin 1964).
+- Aspasius (2nd cent. AD), *Aspasii in Ethica Nicomachorum Commentaria*, ed. G. Heylbut (Berlin 1889).
+- Stewart, J. A., *Notes on the Nicomachean Ethics of Aristotle*, 2 vols. (Oxford 1892, and repr.).
+
+## Naye (Recent) Commentaries
+- Broadie, S., and Rowe, C., *Aristotle, Nicomachean Ethics*, trans., introd., and comm. (Oxford 2002), with full bibliography.
+- Gauthier, R., and Jolif, J., *L'Éthique à Nicomaque*, 4 vols. (Louvain 1970), trans. and full comm. in French.
+- Irwin, T. H., *Aristotle, Nicomachean Ethics*, trans. with introd., notes, and full glossary (Indianapolis 1999); cited as Irwin.
+
+## Chuni hui (Selected) books par Commentaries
+- Pakaluk, M., *Aristotle: Nicomachean Ethics, Books VIII and IX* (Oxford 1998) (cited as Pakaluk).
+- Taylor, C. C. W., *Aristotle: Nicomachean Ethics, Books II-IV* (Oxford 2006).
+
+## Poori (Whole) Work par Books
+- Bostock, D., *Aristotle's Ethics* (Oxford 2000).
+- Broadie, S., *Ethics With Aristotle* (Oxford 1991): ek lambi, zyada advanced discussion.
+- Hardie, W., *Aristotle's Ethical Theory*, 2nd edn. (Oxford 1980).
+- Hughes, G. J., *Aristotle on Ethics* (London 2001): introductory work.
+- Urmson, J., *Aristotle's Ethics* (Oxford 1988): ek achhi basic introduction.
+
+## Eudemian Ethics ke saath Relation par
+- Kenny, A., *The Aristotelian Ethics* (Oxford 1978).
+- —— *Aristotle on the Perfect Life* (Oxford 1992).
+- Rowe, C. J., *The Eudemian and Nicomachean Ethics* (Cambridge 1971).
+
+## Essays ke Collections
+
+**1. Sirf Aristotle ki ethics par**
+- Heinaman, R. (ed.), *Aristotle and Moral Realism* (London 1995).
+- Kraut, R. (ed.), *The Blackwell Guide to Aristotle's Nicomachean Ethics* (Oxford 2006).
+- Rorty, A. (ed.), *Essays on Aristotle's Ethics* (Berkeley and Los Angeles 1980).
+
+**2. Kuch hisse Aristotle ki ethics par**
+- Ackrill, J. L., *Essays on Plato and Aristotle* (Oxford 1997).
+- Cooper, J., *Reason and Emotion* (Princeton 1999).
+- Crisp, R. (ed.), *How Should One Live? Essays on the Virtues* (Oxford 1996).
+- —— and Slote, M. (eds.), *Virtue Ethics* (Oxford 1990).
+- Engstrom, S., and Whiting, J. (eds.), *Aristotle, Kant and the Stoics* (Cambridge 1996).
+
+## Doosri (Other) Books
+- Annas, J., *The Morality of Happiness* (New York 1993).
+- Charles, D., *Aristotle's Philosophy of Action* (London 1984).
+- Davidson, J. N., *The Greeks and Greek Love* (London 2007).
+- Dover, K. J., *Greek Popular Morality in the time of Plato and Aristotle* (Berkeley 1974).
+- —— *Greek Homosexuality* (London 1978).
+- Foot, P. R., *Natural Goodness* (Oxford 2000).
+- Gosling, J., and Taylor, C., *The Greeks on Pleasure* (Oxford 1982).
+- Hursthouse, R., *On Virtue Ethics* (Oxford 1999).
+- Irwin, T. H., *The Development of Ethics* (Oxford 2007), i.
+- Kraut, R., *Aristotle on the Human Good* (Princeton 1989).
+- MacIntyre, A., *After Virtue* (London 1981; 3rd edn. 2007).
+- Nussbaum, M., *The Fragility of Goodness* (Cambridge 1986).
+- Price, A., *Love and Friendship in Plato and Aristotle* (Oxford 1979).
+
+## Articles ki Chuni hui (Selected) List
+- Ackrill, J. L., 'Aristotle on Eudaimonia', in his *Essays on Plato and Aristotle* (Oxford 1997); repr. in A. Rorty (ed.), *Essays on Aristotle's Ethics* (Berkeley and Los Angeles 1980).
+- —— 'Aristotle on Good and the Categories', in id., *Essays on Plato and Aristotle* (Oxford 1997).
+- Brown, L., 'What is the "Mean Relative to Us" in Aristotle's Ethics?', in *Phronesis* 42 (1997), 77–93.
+- Burnyeat, M., 'Aristotle on Learning to be Good', in A. Rorty (ed.), *Essays on Aristotle's Ethics* (Berkeley and Los Angeles 1980).
+- Cooper, J., 'Aristotle on Friendship', in A. Rorty (ed.), *Essays on Aristotle's Ethics* (Berkeley and Los Angeles 1980).
+- —— 'Aristotle on the Forms of Friendship', in id. (Princeton 1999).
+- —— 'Contemplation and Happiness, a Reconsideration', in id. (Princeton 1999).
+- Davidson, D., 'How is Weakness of the Will Possible?', in his *Essays on Actions and Events* (Oxford 1980).
+- Hursthouse, R., 'A False Doctrine of the Mean', in *Proceedings of the Aristotelian Society* 81 (1980–1), 57–72.
+- Irwin, T. H., 'Ethics as an Inexact Science', in B. Hooker and M. Little (eds.), *Moral Particularism* (Oxford 2000).
+- —— 'Reason and Responsibility in Aristotle', in A. Rorty (ed.), *Essays on Aristotle's Ethics* (Berkeley and Los Angeles 1980).
+- —— 'The Virtues: Theory and Common Sense in Greek Philosophy', in R. Crisp (ed.), *How Should One Live? Essays on the Virtues* (Oxford 1996).
+- Judson, R. L., 'Aristotle on Fair Exchange', *Oxford Studies in Ancient Philosophy* 15 (1997), 147–75.
+- McDowell, J., 'The Role of Eudaimonia in Aristotle's Ethics', in A. Rorty (ed.), *Essays on Aristotle's Ethics* (Berkeley and Los Angeles 1980).
+- —— 'Virtue and Reason', in *Monist* 62 (1979), 331–51.
+- Meyer, S. Sauvé, 'Aristotle on the Voluntary', in R. Kraut (ed.), *The Blackwell Guide to Aristotle's Nicomachean Ethics* (Oxford 2006).
+- Taylor, C. C. W., 'Aristotle's Epistemology', in S. Everson (ed.), *Companions to Ancient Thought, i. Epistemology* (Cambridge 1990).
+- Wilkes, K., 'The Good Man and the Good for Man in Aristotle's Ethics', in A. Rorty (ed.), *Essays on Aristotle's Ethics* (Berkeley and Los Angeles 1980).
+- Williams, B., 'Justice as a Virtue', in A. Rorty (ed.), *Essays on Aristotle's Ethics* (Berkeley and Los Angeles 1980).
+
+## Oxford World's Classics mein Aage ki Padhaai (Further Reading)
+- Aristotle, *Physics*, trans. Robin Waterfield, ed. David Bostock.
+- —— *Politics*, trans. Ernest Barker, rev. and ed. R. F. Stalley.
+- Plato, *Protagoras*, trans. C. C. W. Taylor.
+- —— *Republic*, trans. Robin Waterfield.
