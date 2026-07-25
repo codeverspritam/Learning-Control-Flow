@@ -2995,6 +2995,358 @@ Twins se milne jo visitor aaya tha woh Rev. Mr. Hotchkiss the, Baptist church ke
 
 ---
 
+Yahan aapke diye gaye **CHAPTER V: GUILT AND INNOCENCE FINELY BLENT** (Mark Twain ki book *Those Extraordinary Twins* / *Pudd'nhead Wilson* se) ke poore text ka ek-ek line ka aur exact paragraph-wise Hinglish translation hai, bina kisi line ya shabd ko chhode:
+
+---
+
+## CHAPTER V: GUILT AND INNOCENCE FINELY BLENT 
+
+###*(CHAPTER V: GUNAH AUR BEGUNAHI KA KHOOBSURAT MISHAN)*
+
+[Twins ke beech ek lambi aur zor-daar ladai hoti hai. Aur ladne ke liye kaafi kuch hai, kyunki Angelo hamesha sach ki talash mein rehta tha, aur is wajah se use apne dharam ko baar-baar badalna aur improve karna padta tha, jisse Luigi thak jata tha, aur pareshan bhi hota tha; kyunki use har nayi bharti (enlistment) mein maujood rehna padta tha—jo use apne bhai ki fickness (chanchalta) ko indorse (samarthan) aur approve karte hue dikhane ki jhoothi position mein daal deta tha; iske alawa, use Angelo ki prohibition meetings mein jana padta tha, aur woh unse nafrat karta tha. Doosri taraf, jab legs par command karne ki uski week hoti thi toh woh Angelo ko shikayat ka poora mauqa deta tha, kyunki woh use circuses, horse-races aur fandangoes mein le jata tha, use har tarah ki censure (ninda) aur aalochana ke samne laakar khada kar deta tha; aur woh peeta bhi tha; aur woh jo kuch bhi peeta tha woh uske apne dimaag ke bajaye Angelo ke dimaag par chadhta tha aur usse sharmnak tareeqe se act karwata tha. Jab shaam hui, toh dono Freethinkers ki meeting mein shamil hue, jahan Angelo udaas aur khamosh tha; phir Bible class aayi aur use aasi company mein paakar us par thandak se dekha. Phir woh Wilson ke ghar gaye aur *Pudd'nhead Wilson* ka Chapter XI aata hai, jo Tom Driscoll ke room mein dekhi gayi ladki ke baare mein batata hai; aur Sons of Liberty ki anti-temperance mass-meeting mein Luigi dwara Tom ko laat maarne ke sath khatam hota hai; ek Mississippi boat par chamber-maid ke roop mein Roxy ke adventures ke kuch hisaab ke jod ke sath. Bachhon ke uske aapas mein badalnes ko pehle ke ek chapter mein halkey phulkey aur farcical tareeqe se describe kiya gaya tha.]
+
+Agli subah poora town ek badi news se goonj raha tha; Pudd'nhead Wilson ke paas ek law case (adalati maamla) tha! Public astonishment (janata ki hairani) itni badi thi aur public curiosity (janata ki jigyaasa) itni teevra thi ki jab justice of the peace ne apni court kholi, toh jagah logon se thasa-thas bhari hui thi aur yahan tak ki khidkiyan bhi bhari hui thin. Har koi flushed (laal) tha aur pasina baha raha tha; summer ki garmi lagbhag asahniya (unendurable) thi.
+
+Tom Driscoll ne twins ke khilaf assault aur battery (maar-peet aur hamla) ka charge laya tha. Robert Allen ko Driscoll dwara retain kiya gaya tha, David Wilson ko defense (bachaav) dwara. Tom, pichli raat Sons of Liberty ke ik इकट्ठा hue sirr par se guzarne wale apne back-breaking aur bone-bruising raaste se apni natural cheerfulness (praakritik khush-mizaji) ko bina mitaye, apni chhoti aam hansi hasa, aur Wilson se kaha:
+
+“Maine apna promise poora kiya hai, tum dekh sakte ho; main apna business tumhari taraf phenk raha hoon. Meri umeed se zyada jaldi, bhi.”
+
+“Yeh tumhari taraf se bahut achha hai—khaas kar agar tum ise jaari rakhne ka irada rakhte ho.”
+
+“Well, main abhi uske baare mein nahi bata sakta. Lekin hum dekhenge. Agar mujhe lagta hai ki tum iske layak ho toh main tumhein apni protection mein loonga aur tumhari fame (shohrat) aur fortune (kismat) banaunga.”
+
+“Main iske layak banne ki koshish karunga, Tom.”
+
+Ek jury ko kasam dilayi gayi (sworn in); phir Mr. Allen ne kaha:
+
+“Hum is case ke sath aapke honor ko bas ek moment ke liye rokenge. Yeh koi aisa case nahi hai jahan hamle (assault) ke fact par koi doubt enter kar sake. In gentlemen ne—accused (aaropiyon) ne—pichli raat Market Hall mein mere client ko laat maari; unhone use violence (hinsa) ke sath laat maari; ashadharan hinsa ke sath; yahan tak ki abhootpoorv (unprecedented) hinsa ke sath, main keh sakta hoon; itna ki woh poori tarah se apne pairon se upar uth gaya aur audience ke beech mein ja gira. Hum ise chaar sau gawahon (witnesses) se prove kar sakte hain—hum sirf teen ko bulayenge. Mr. Harkness stand lenge.”
+
+Mr. Harkness, kasam khakar, ne gawahi (testified) di ki woh bataye gaye mauqe par chairman the; ki woh paas hi the aur unhone is action mein defendants ko plaintiff (yaachak) ko hawa mein laat maarte dekha aur use audience ke beech neeche aate dekha.
+
+“Witness ko lein,” Allen ne kaha.
+
+“Mr. Harkness,” Wilson ne kaha, “aap kehte hain ki aapne in gentlemen, mere clients, ko plaintiff ko laat maarte dekha. Kya aap sure hain—aur please yaad rakhein ki aap oath (kasam) par hain—kya aap poori tarah se sure hain ki aapne un dono ko use laat maarte dekha, ya sirf ek ko? Ab dhyan se.”
+
+Witness ke chehre par ek bewildered (hairan-pareshan) look phaelna shuru ho gaya. Woh hichkichaya, stammere (haklaya), lekin kuch bol nahi paaya. Uski aankhein twins par bhatki aur ek khali nigaah (vacant gaze) ke sath wahin tik gayi.
+
+“Please answer karein, Mr. Harkness, aap court ko wait karwa rahe hain. Yeh ek bahut hi simple question hai.”
+
+Prosecution ke counsel ne impatience (be-sabr) ke sath beech mein roka:
+
+“Your honor, yeh question ek irrelevant triviality (be-matsad chhoti baat) hai. Zaroori roop se, un dono ne use laat maari, kyunki unke paas legs ka sirf ek joda hai, aur dono unke liye responsible hain.”
+
+Wilson ne sarcastically (tanz kaste hue) kaha:
+
+“Kya aapka honor is naye witness ko kasam khane ki permission dega? Aisa lagta hai ki unke paas aisa gyaan hai jo is moment par sabse zyada value ka ho sakta hai—aisik knowledge jo turant us cheez ko khatam kar degi jise har koi dekh sakta hai ki is case mein ek bahut hi mushkil sawaal hai. Brother Allen, kya aap stand lenge?”
+
+“Apne case ke sath aage badhein!” Allen ne petulantly (chidhkar) kaha. Audience hasi, aur court se ek warning mili.
+
+“Now, Mr. Harkness,” Wilson ne insinuatingly (ishare se) kaha, “humein us question ke answer par insist karna padega.”
+
+“I—er—well, of course, main poori tarah se nahi jaanta, lekin meri rai (opinion) mein—”
+
+“Apni rai ki parwah mat karein, sir—question ka answer dein.”
+
+“I—why, main iska answer nahi de sakta.”
+
+“That will do, Mr. Mr. Harkness. Stand down (neeche utarein).”
+
+Audience tittered (dheere se hasi), aur discomfited (chinta-grast) witness bahut embarrassment (sharmindagi) ki state mein retire ho gaya.
+
+Mr. Wakeman ne stand liya aur kasam khayi ki unhone twins ko platform se plaintiff ko laat maarte dekha.
+
+Defense ne witness ko liya.
+
+“Mr. Wakeman, aapne kasam khayi hai ki aapne in gentlemen ko plaintiff ko laat maarte dekha. Kya main aapko yeh kasam khate hue samjhoon ki aapne un dono ko aisa karte dekha?”
+
+“Yes, sir,”—faisle (decision) ke sath.
+
+“Aap kaise jaante hain ki dono ne aisa kiya?”
+
+“Kyunki maine unhe aisa karte dekha.”
+
+Audience hasi, aur court se ek aur warning mili.
+
+“Lekin kis zariye se aap jaante hain ki dono ne, aur ek ne nahi, aisa kiya?”
+
+“Well, pehli baat toh yeh ki insult un dono ko barabar di gayi thi, kyunki unhe 'pair of scissors' (kaichi ka joda) kaha gaya tha. Of course woh dono iska virodh (resent) karna chahenge, aur isliye—”
+
+“Rukie! Aap ab dharana (theorizing) bana rahe hain. Facts par tike rahein—counsel arguments ko dekhega. Aage badhein.”
+
+“Well, woh dono wahan gaye—woh maine dekha.”
+
+“Very good. Aage badhein.”
+
+“Aur un dono ne use laat maari—main iski kasam khata hoon.”
+
+“Mr. Wakeman, kya yahan Count Luigi, pichli raat Sons of Liberty mein shamil hone ke liye willing (taiyar) the?”
+
+“Yes, sir, woh the. Unhone join bhi kiya, aur ek mard ki tarah ek ya do glass whisky pi.”
+
+“Kya unka bhai join karne ke liye willing tha?”
+
+“No, sir, woh nahi tha. Woh ek teetotaler (sharab na peene wala) hai, aur ek galti ke zariya elect hua tha.”
+
+“Kya use whisky ka ek glass diya gaya tha?”
+
+“Yes, sir, lekin of course woh ek aur galti thi, aur jaan-boojhkar nahi thi. Woh ise nahi peeta. Usne ise niche rakh diya.” Ek halka sa pause, phir usne casually aur kaafi simply joda: “Plaintiff uske liye pahoncha aur use hogged (daba) liya.”
+
+Hansi ka ek achha outburst hua, lekin kyunki justice khud pakda gaya tha, uski reprimand (phatkaar) bahut vigorous (sakht) nahi thi.
+
+Mr. Allen uchal kar khade hue aur bola: “Main in foolish irrelevancies (fuzool baaton) par protest karta hoon. Iska case se kya lena-dena hai?”
+
+Wilson ne kaha: “Calm yourself, brother, yeh sirf ek experiment tha. Now, Mr. Wakeman, agar in gentlemen mein se ek kisi association ko join karne ka chunav karta hai aur doosra nahi karta; aur agar unmein se ek whisky ka anand leta hai aur doosra nahi leta, balki ise ek taraf rakh deta hai aur ise unprotected chhod deta hai” (audience se titter), “toh aisa lagta hai ki unke paas aazad minds, tastes, aur preferences hain, aur unmein se ek kisi cheez ko us moment par approve karne ke kaabil hai jab doosra poore dil se ise disapprove kar raha hai. Kya aapko aisa nahi lagta?”
+
+“Certainly aisa lagta hai. Yeh poori tarah saaf hai.”
+
+“Now, then, aisa ho sakta hai—main sirf keh raha hoon ki aisa ho sakta hai—ki in brothers mein se ek pichli raat plaintiff ko laat maarna chahta tha, aur doosra nahi chahta tha ki woh humiliating punishment (apmaan-janak saza) us public tareeqe se aur un sabhi logon ke samne di jaye. Kya yeh possible nahi hai?”
+
+“Of course yeh hai. Yeh possible se bhi zyada hai. Mujhe nahi lagta ki blond (gora) wala kisi ko laat marega. Yeh doosra wala tha jisne—”
+
+“Silence!” plaintiff ke counsel ne chilla kar kaha, aur ek gusse bhare sentence ke sath aage badha jo hansi ki us wave mein khogaya jo ghar (hall) ko baha le gayi.
+
+“That will do, Mr. Wakeman,” Wilson ne kaha, “aap stand down kar sakte hain.”
+
+Teesra witness bulaya gaya. Usne twins ko plaintiff ko laat maarte dekha tha.
+
+Mr. Wilson ne witness ko liya.
+
+“Mr. Rogers, aap kehte hain ki aapne in accused gentlemen ko plaintiff ko laat maarte dekha?”
+
+“Yes, sir.”
+
+“Dono ko?”
+
+“Yes, sir.”
+
+“Unmein se kisne use pehle laat maari?”
+
+“Why—unhone—unhone dono ne ek hi samay par use laat maari.”
+
+“Kya aap is baare mein poori tarah sure hain?”
+
+“Yes, sir.”
+
+“Kis wajah se aap is baare mein sure hain?”
+
+“Why, main bilkul unke peeche khada tha, aur unhe aisa karte dekha.”
+
+“Kitni laatein maari gayi thin?”
+
+“Sirf ek.”
+
+“Agar do aadmi laat maarte hain, toh result do laatein hona chahiye, kya nahi hona chahiye?”
+
+“Why—why yes, aamtaur par (as a rule).”
+
+“Phir aapko kya lagta hai doosri laat ke sath kya hua?”
+
+“I—well—fact yeh hai ki, main is baar do ke zaroori hone ke baare mein nahi soch raha tha.”
+
+“Ab aap kya sochte hain?”
+
+“Well, I—mujhe poori tarah se nahi pata ki kya sochna hai, lekin main manata hoon ki unmein se ek ne aadhi laat maari aur doosre ne baaki aadhi.”
+
+Bheed mein se kisi ne kaha: “Yeh pehli samajhdari bhari cheez hai jo unmein se kisi ne kahi hai.”
+
+Audience ne taaliyan bajayi. Judge ne kaha: “Silence! warna main court ko khali karwa doonga.”
+
+Mr. Allen khush dikhe, lekin Wilson pareshan nahi laga. Usne kaha:
+
+“Mr. Rogers, aapne humein us baare mein bataya jo aap sochte hain aur jo aap reckon karte hain, lekin kyunki sochna aur reckon karna evidence (gawahi) nahi hain, main ab aapko ek tareeqe se ya doosre tareeqe se kuch positive samne laane ka ek mauqa doonga, aur aapse ise produce karne ki demand karunga. Main accused se khade hone aur pichli raat ki us phenomenal kick ko dohrane ke liye kahoonga.” Twins khade ho gaye. “Now, Mr. Rogers, please unke peeche khade ho jayein.”
+
+A Voice: “Nahi, samne khade ho!” (Laughter. Court dwara shaant karwaya gaya.)
+
+Another Voice: “Nahi, Tommy ko ek aur highst (uchal) do!” (Laughter. Court dwara sakhti se phatkaara gaya.)
+
+“Now, then, Mr. Rogers, do laatein maari jayengi, ek ke baad ek, aur main aapko apna shabd deta hoon ki kam se kam do mein se ek laat twins mein se ek dwara akele di jayegi, uske bhai ki thodi si bhi madad ke bina. Dhyan se dekhein, kyunki aapko bina kisi 'if's and ands' ke ek decision dena hai.” Rogers twins ke peeche jhuk gaya, uski palms uske ghutno ke theek upar thin, baseball match mein catcher ke modern attitude mein, aur usne samne pairon ke jode par apni aankhein tikayi.
+
+“Kya aap ready hain, Mr. Rogers?”
+
+“Ready sir.”
+
+Laat chhalang mari (kick was launched).
+
+“Kya aapne use classify kar liya hai, Mr. Rogers?”
+
+“Mujhe ek minute study karne dein, sir.”
+
+“Jitna chahein utna samay lein. Jab aap ready hon toh mujhe batayein.”
+
+Ek minute tak Rogers ne vichar (ponder) kiya, saari aankhein aur ek saans rokne wali interest us par tiki hui thin. Phir usne shabd diya: “Ready, sir.”
+
+“Kick!”
+
+Jo laat peeche aayi woh pehli wali ki ek exact duplicate thi.
+
+“Now, then, Mr. Rogers, un laaton mein se ek individual kick thi, mutual (aapas ki) nahi. Aap ab positively batayenge ki kaun si mutual kick thi.”
+
+Witness ne ek disappointed (crestfallen) look ke sath kaha:
+
+“Mujhe ise chhodna padega. Duniya mein koi aisa aadmi nahi hai jo ek ko doosre se alag bata sake, sir.”
+
+“Kya aap abhi bhi daava karte hain ki pichli raat ki laat ek mutual kick thi?”
+
+“Indeed, main nahi karta, sir.”
+
+“That will do, Mr. Rogers. Agar mere brother Allen court ko address karna chahte hain, your honor, toh bahut achha; lekin jahan tak mera sawaal hai main case ko bina kisi comment ke is intelligent jury ke haathon mein abhi saupne ke liye taiyar hoon.”
+
+Mr. Justice Robinson sirf do mahine se office mein the, aur us chhote samay mein unke paas try karne ke liye bahut se cases nahi the, of course. Unhe laws aur courts ka koi gyaan nahi tha sivaye uske jo unhone office mein aane ke baad se ik इकट्ठा kiya tha. Woh lawyers ke liye ek badi musibat the, kyunki unke rulings kabhi-kabhi kaafi eccentric (asadharn) hote the, aur woh unke sath Roman simplicity aur fortitude (sahas) ke sath khade rehte the; lekin log unse bahut satisfied (santusht) the, kyunki unhone dekha ki unke intentions hamesha sahi the, ki woh poori tarah se impartial (nishpaksh) the, aur ki woh aamtaur par good sense se poora kar dete the jo unke paas technique mein kam tha, bolne ke liye. Unhone ab realize kiya ki yahan justice ka ek miscarriage (nyay ki hatya) hone ki sambhavna thi, aur woh mauqe par khade hue.
+
+“Ek moment wait karein, gentlemen,” usne kaha, “yeh saaf hai ki ek assault kiya gaya hai, yeh kisi ke liye bhi saaf hai; lekin jis tareeqe se cheezein ja rahi hain, guilty (doshi) zaroor conviction (saza) se bach jayega. Main ise allow nahi kar sakta. Now—”
+
+“But, your honor!” Wilson ne use interrupting karte hue, earnestly lekin respectfully kaha, “aap case ka faisla khud kar rahe hain, jabki jury—”
+
+“Jury ki parwah mat karein, Mr. Wilson; jury ke paas ek mauqa hoga jab unke paas pakadne ke liye koi reasonable doubt hoga—jo abhi tak nahi hai. Isme koi doubt nahi hai ki ek assault hua hai. Dono accused dwara ise karne ko dikhane ki koshish fail ho gayi hai. Kya un dono ko us wajah se justice se bachna chahiye? Is court mein nahi, agar main ise rok sakta hoon. aisa lagta hai ki unke khilaf ek corporation ke roop mein charge lana ek galti thi; har ek par unki vyaktigat kshamta (individual capacity) mein charge lagaya jana chahiye tha, aur—”
+
+“But, your honor!” Wilson ne kaha, “mere clients ke sath fairness ke liye mujhe insist karna padega ki kyunki prosecution ne alag nahi kiya—”
+
+“Aapke clients ke sath koi galat nahi hoga, sir—unhe protect kiya jayega; public aur offended laws ko bhi. Mr. Allen, aap apne pleadings ko amend (sodhan) karenge, aur accused mein se ek ko ek samay par trial par rakhenge.”
+
+Wilson ne beech mein kaha: “But, your honor! yeh poori tarah se unprecedented (abhootpoorv) hai! Kisi accused vyakti ko uske khilaf charge ko arbitrarily (swechha se) badalkar aur bada karke khatre mein dalna taaki uski conviction ko poora kiya ja sake jab original roop se laya gaya charge convict karne mein fail hone ka promise karta hai, ek aasi cheez hai jo pehle kabhi nahi suni gayi.”
+
+“Kahan nahi suni gayi?”
+
+“Is ya kisi doosre state ki courts mein.”
+
+Judge ne shaan (dignity) ke sath kaha: “Main doosri courts ke customs se familiar nahi hoon, aur yeh jaan-ne ke liye concerned nahi hoon ki woh kya hain. Main is court ke liye responsible hoon, aur main imandari se apne judgment ko warp hone aur apni judicial liberty ko dusri courts ki marzi (caprices) ke mutabik dhalne ki koshish karke baandhne ki permission nahi de sakta, chahe woh—”
+
+“But, your honor, Europe ki sabse purani aur sabse uchi courts—”
+
+“Yeh court European plan par nahi chalti, Mr. Wilson; yeh apne plan ke alawa kisi aur plan par nahi chalti. Iska apna ek plan hai; aur woh plan hai, State aur accused dono ke liye justice dhoondhna, chahe Europe ya kahin aur practice aur custom kuch bhi ho.” (Badi taaliyan.) “Silence! Is court ka riwaaj doosri courts ki nakal karna nahi raha hai; is court ka riwaaj doosri courts ke decisions ke peeche chhipna nahi raha hai, aur hum ab shuru nahi karenge. Hum us roshni dwara sabse behtar karenge jo God ne humein di hai, aur jab tak is court ko Unka approval milta rahega, yeh doosri organizations unke baare mein kya sochti hain usse indifferent rahega.” (Taaliyan.) “Gentlemen, mujhe order chahiye!—shant ho jayein! Mr. Allen, aap ab prisoners ke khilaf ek samay par ek ke sath aage badhenge. Case ke sath aage badhein.”
+
+Allen aaram se nahi tha. Halanki, apne client aur ek ya do doosre logon ke sath ek moment phusphusane ke baad, woh utha aur bola:
+
+“Your honor, mujhe yeh report aur believe kiya hua milta hai ki accused kai tareeqon se aazad roop se act karne ke kaabil hain, lekin yeh aazadi unki legs tak nahi phaeli hai, unki legs par authority ek specific term of days ke dauran ek bhai mein nihit (vested) hoti hai, aur phir doosre bhai ke paas ek jaise term ke liye chali jaati hai, aur isi tarah, regular alternation dwara. Main un gawahon ko bula sakta hoon jo yeh prove karenge ki accused ne unke samne is extraordinary fact ka khulasa kiya tha, aur yeh bhi bataya tha ki unmein se kaun kal legs ke possession mein tha—aur yeh, of course, indicate karega ki assault ki guilt kahan ki hai—lekin kyunki yeh mahaj hearsay evidence (suni-sunayi gawahi) hogi, in khulaso ko kasam ke tehat nahi kiya gaya hai—”
+
+“Uski parwah mat karein, Mr. Allen. Yeh sab hearsay nahi ho sakta. Hum dekhenge. Yeh kam se kam humein sahi track par daalne mein madad kar sakta hai. Witnesses ko bulayein.”
+
+“Phir main Mr. John Buckstone ko bulaunga, jo abhi maujood hain, aur main beg karta hoon ki Mrs. Patsy Cooper ko bulaya jaye. Stand len, Mr. Buckstone.”
+
+Buckstone ne kasam khayi, aur phir testified kiya ki pichli shaam Count Angelo Capello ne hall mein jaane ke khilaf protest kiya tha, aur sabhi maujood logon ko yeh dekhne ke liye bulaya tha ki woh majboori (compulsion) se ja raha hai aur agar woh khud ki madad kar sakta toh nahi jata. Saath hi, Count Luigi ne tezi se jawab diya tha ki woh jayega, waise hi, aur ki woh, Count Luigi, khud iska dhyan rakhega. Saath hi, Count Angelo ke itni der tak apne legs par rakhe jaane ki shikayat karne par, Count Luigi ne saaf hairani ke sath jawab diya, “Aapki legs!—mujhe aapki dhiatayi (impudence) pasand hai!”
+
+“Ab hum cheez ke kernel (guda) tak pahonch rahe hain,” judge ne grave aur earnest satisfaction ke sath observe kiya. “Aisa lagta hai jaise Count Luigi assault ke samay battery ke possession mein tha.”
+
+Direct examination par Mr. Buckstone se kuch aur samne nahi aaya. Mr. Wilson ne witness ko liya.
+
+“Mr. Buckstone, woh baatchit kis samay hui thi?”
+
+“Kal shaam lagbhag nau baje ke karib, sir.”
+
+“Kya aap phir seedhe hall gaye?”
+
+“Yes, sir.”
+
+“Wahan jaane mein aapko kitna samay laga?”
+
+“Well, hum paidal chale; aur kyunki yeh town ke extreme edge se tha, aur koi jaldbaazi nahi thi, main judge karta hoon ki humein lagbhag bees minute lage, shayad thoda sa zyada.”
+
+“Laat kis ghante maari gayi thi?”
+
+“Laghbag das bajne mein teraah minute aur aadha (thirteen minutes and a half to ten).”
+
+“Admirable! Aap ek pattern witness hain, Mr. Buckstone. Aapne us particular moment par apni watch kaise dekhi?”
+
+“Main hamesha aisa karta hoon jab main koi assault dekhta hoon. Yeh sambhav hai ki mujhe ek witness ke roop mein bulaya jaye, aur yeh rakhne ke liye ek achha point hai.”
+
+“Yeh achha hota agar doosre bhi itne vicharsheel (thoughtful) hote. Kya mere ghar par baatchit aur assault ke beech, us detail par kuch kaha gaya tha jise hum ab examine kar rahe hain?”
+
+“No, sir.”
+
+“Agar mutual legs par power nau baje ek bhai ke possession mein thi, aur agle tees ya chaalis minutes ke dauran doosre ke possession mein chali gayi, kya aapko lagta hai ki aap badlav ko detect (pakad) sakte the?”
+
+“Kisi bhi tarah se nahi!”
+
+“That is all, Mr. Buckstone.”
+
+Mrs. Patsy Cooper ko bulaya gaya. Bheed ne unke liye raasta banaya, aur woh chhotey human lane se muskuraate aur jhukte hue aayi, Betsy Hale ke sath escort aur support ke roop mein, unke peeche muskuraate aur jhukte hue, audience swagat ki cheers mein phoot padi jaise hi purane favorites aage badhe. Judge ne homage aur affection ke is kindly demonstration ko nahi roka, balki ise bina kisi phatkaar ke chalne diya.
+
+Purani ladies ruki aur effusions ke sath twins se haath milaya, phir judge ko ek friendly nod diya, aur unke liye provide ki gayi seats mein bustled (jaldi se baith) gayi. Unhone turant apne aas-paas ke doston par eegar questions ki ek goli bari (volley) chalana shuru kar diya: “Yeh cheez kis liye hai?” “Woh cheez kis liye hai?” “Desk par likhne wala woh young man kaun hai? Why, main declare karti hoon, yeh Jack Bunce hai! Maine socha tha woh bimar hai.” “Jury kaun si hai? Why, kya woh jury hai? Billy Price aur Job Turner, aur Jack Lounsbury, aur—well, maine kabhi nahi!” “Now kisne kabhi socha hoga—”
+
+Lekin unhe is point par pyaar se order mein bulaya gaya, aur court mein baat na karne ke liye kaha gaya. Unki zubaanein shaant ho gayi, lekin unke chehron par radiant interest bana raha, aur ek naye sensation aur ek novel experience ke blessing ke liye unka gratitude abhi bhi unki aankhon se un-dimmed chamak raha tha. Aunt Patsy khadi hui aur kasam khayi, aur Mr. Allen ne issue mein point samjaya, aur unse ab, apne tareeqe se aage badhne, aur jitni ho sake utni roshni is par daalne ke liye kaha. Usne ek ya do moments ke liye apne reticule (potli/bag) ke sath khela, jaise soch rahi ho ki kahan se shuru karein, phir usne kaha:
+
+“Well, iska tareeqa yeh hai. Woh ek baar mein ek hafte ke liye Luigi ki legs hain, aur phir woh Angelo ki hain, aur woh unke sath jo chahe kar sakta hai.”
+
+“Aap ek galti kar rahi hain, Aunt Patsy Cooper,” judge ne kaha. “Aapko ise ek fact ke roop mein state nahi karna chahiye, kyunki aap nahi jaanti ki yeh ek fact hai.”
+
+“Kya wajah hai ki main nahi jaanti?” Aunt Patsy ne thoda gusse mein kaha.
+
+“Kya wajah hai ki aap ise jaanti hain?”
+
+“Duniya mein sabse behtar kyunki unhone mujhe bataya.”
+
+“Yeh koi wajah nahi hai.”
+
+“Well, dharti ke liye! Betsy Hale, kya tumne woh suna?”
+
+“Suna? Mujhe aisa sochna chahiye,” Aunt Betsy ne khade hokar aur court ka samna karte hue kaha. “Why, Judge, main wahan thi aur maine khud suna. Luigi ne Angelo se kaha—nahi, yeh Angelo tha jisne kaha—”
+
+“Aayein, aayein, Mrs. Hale, pray baith jayein, aur—”
+
+“Certainly, sab theek hai, main abhi baithne ja rahi hoon, lekin tab tak nahi jab tak maine—”
+
+“Lekin aapko zaroor baithna chahiye!”
+
+“Zaroor! Well, meri baat par agar cheezein ek khoobsurat mod par nahi aa rahi hain jab—”
+
+Ghar (hall) hansi mein phoot pada, lekin turant order mein laya gaya, aur is beech Mr. Allen ne purani lady ko unki seat lene ke liye manaya. Aunt Patsy ne jaari rakha:
+
+“Yes, unhone mujhe bataya, aur main jaanti hoon ki yeh sach hai. Woh is hafte Luigi ki legs hain, lekin—”
+
+“Ah, unhone aapko bataya, kya unhone aisa kiya?” Justice ne interest ke sath kaha.
+
+“Well, no, main nahi jaanti ki unhone mujhe bataya, lekin woh na toh yahan hai na wahan. Main jaanti hoon, uske bina, ki kal dinner par, Angelo ek dog ki tarah thaka hua tha, aur phir bhi Luigi use up-stairs jaane aur ek nap (jhapki) lene ke liye legs udhaar nahi dega.”
+
+“Kya usne unke liye maanga?”
+
+“Mujhe dekhne dein—mujhe aisa lagta hai, kisi tarah, ki—ki—Aunt Betsy, kya aapko yaad hai ki usne—”
+
+“Is baat ki parwah mat karein ki Aunt Betsy ko kya yaad hai—woh ek witness nahi hai; hum sirf yeh jaan-na chahte hain ki AAPKO khud kya yaad hai,” judge ne kaha.
+
+“Well, mujhe aisa lagta hai ki aap ek chhoti si cheez ke baare mein sabse zyada zididipana (cantankerously particular) kar rahe hain, Sim Robinson. Why, jab mujhe khud koi cheez yaad nahi rehti, main hamesha—”
+
+“Ah, please aage badhein!”
+
+“Now woh kaise kar sakti hai jab aap har samay uspar fussing kar rahe hain?” Aunt Betsy ne kaha. “Why, ek vyakti ke mere upar is tarah pecking karne se, main itni fuzzled aur fuddled ho jaungi ki—”
+
+Woh phir se apne pairon par thi, lekin Allen ne use ek baar phir uski seat mein mazaak se manaya, jabki court ne ghar ke mirth (hansi) ko daba (squelched) diya. Phir judge ne kaha:
+
+“Madam, kya aap jaanti hain—kya aap poori tarah se jaanti hain, in gentlemen ne aapko jo bataya hai usse alag—ki unki legs par power har hafte regularly ek se doosre ke paas jaati hai?”
+
+“Regularly? Aapke dil ko duayein, regularly iski exactness ke liye koi naam nahi hai! Europe ke saare bade cities isse apni clocks set karte the.” (Audience se hansi, court dwara dabayi gayi.)
+
+“Aap kaise jaanti hain? Yeh question hai. Please iska answer saaf aur seedhe tareeqe se dein.”
+
+“Mujhse is tarah baat mat karein, Sim Robinson—main ise nahi hone doongi. Main kaise jaanti hoon, memang! AAP kaise jaante hain jo aap jaante hain? Kyunki kisi ne aapko bataya. Aapne ise apne dimaag se invent nahi kiya, kya aapne kiya? Why, yeh twins duniya mein sabse truthful log hain; aur mujhe nahi lagta ki aapko wahan upar baithna aur unpar slurs (laanchhan) phenkna shobha deta hai jab unhone aapke sath kuch nahi kiya hai. Aur woh orphans (anaath) bhi hain—dono. Sab—”
+
+Lekin Aunt Betsy ab phir se khadi thi, aur dono purani ladies ek sath aur apni poori taqat ke sath baat kar rahi thin; lekin kyunki ghar hansi ke ek toofan mein tarbatar tha, aur judge ek iron paperweight ke sath apne desk ko thok raha tha, koi unhe sirf baat karte hue dekh sakta tha, sun nahi sakta tha. Aakhirkar, jab shanti bahal hui, toh court ne kaha:
+
+“Ladies ko bahar jaane dein.”
+
+“But, your honor, mere paas right hai, mere clients ke interest mein,—cross-exam karne ka—”
+
+“Aapko ise exercise karne ki zaroorat nahi hogi, Mr. Wilson—evidence ko kharij (thrown out) kar diya gaya hai.”
+
+“Kharij kar diya!” Aunt Patsy ne gusse mein kaha; “aur ise kis liye kharij kiya gaya hai, main jaan-na chahoongi.”
+
+“Aur main bhi, Patsy Cooper. Mujhe lagta hai ki agar hum in bechare persecuted strangers ko bachakar rakh sakte hain, toh yeh hamara bounden duty hai ki hum yahan khade hon aur unke liye tab tak baat karein jab tak—”
+
+“Wahan, wahan, wahan, do sit down!”
+
+Isme kuch musibat aur kaafi manane ka kaam laga, lekin unhe aakhirkar unki seats mein daal diya gaya. Trial ab jaldi khatam ho gaya. Twins khud apne bachaav mein witnesses ban gaye. Unhone kasam par is fact ko establish kiya ki leg-power har Saturday night ko theek barah baje ek se doosre ke paas jaati hai. Lekin cross-examination par unke counsel ne unhe yeh batane ki permission nahi di ki current week kiske power ka week tha. Judge ne unke answer dene par insist kiya, aur unhe majboor karne ka proposal rakha, lekin prosecution bhi dar gayi aur rescue ke liye aayi, aur sturdy jurist ke revolutionary haath ko rokne mein madad ki. Isliye case ko us important point ke hawa mein latakte hue jury ke paas jana pada. Woh ek ghante tak baahar the aur yeh verdict (faisla) lekar aaye:
+
+“Hum jury paate hain: 1, ki ek assault kiya gaya tha, jaisa ki charge lagaya gaya tha; 2, ki yeh accused vyaktiyon mein se ek dwara kiya gaya tha, use kai vishwasniya gawahon dwara aisa karte dekha gaya tha; 3, lekin uski identity uske bhai mein itni merge ho gayi hai ki hum yeh nahi bata paaye hain ki kaun woh tha. Hum dono ko convict nahi kar sakte, kyunki sirf ek guilty hai. Hum dono ko acquit (ba-izzat bari) nahi kar sakte, kyunki sirf ek innocent hai. Hamara verdict yeh hai ki God ki dispensation dwara justice ko defeat kar diya gaya hai, aur aage ki duty se discharge kiye jaane ki maang karte hain.”
+
+Ise court mein zor se padha gaya aur isne hearty applause (dil khol kar taaliyon) ka ek burst baahar laya. Purani ladies ne twins par ek chhalang maari, haath milane aur congratulate karne ke liye, lekin Mr. Wilson dwara pyaar se alag kiye gaye aur softly unki places mein peeche dhakel diye gaye.
+
+Judge apne chhote tribune mein utha, apne silver-bowed spectacles ko ek taraf rakha, apne fingers se apne gray hair ko upar kiya, aur dignity aur solemnity ke sath, aur yahan tak ki ek certain pathos (dard) ke sath kaha:
+
+“Bench par apne saare experience mein, maine aaj ke din tak is court mein justice ko sharm se sir jhukate hue nahi dekha hai. Aapko thoda sa bhi realize nahi hai ki kitna door-tak phaelne wala harm (nuksan) abhi law ke fickle forms ke tehat yahan hua hai. Nakal (Imitation) courts ki baane (laanat) hai—main God ko thank karta hoon ki yeh court us burai ke contamination se free hai—aur thode hi samay mein aap is ghante ke fatal work ko is planet ke saare wide circumstance mein justice ke profligate so-called guardians dwara pakde hue aur unke pernicious decisions mein jaari rakhte hue dekhenge. Main is iniquity (paap) se apne haath dhota hoon. Main in culprits ko unki guilt expose karne ke liye majboor karta, lekin support wahan fail ho gaya jahan mujhe aid aur encouragement ki umeed karne ka sabse zyada right tha. Aur mere samne crime ke interest mein banaya gaya ek kanoon tha, jo criminal ko apne khilaf gawahi dene se protect karta hai. Phir bhi mere paas apne khud ke precedents (misaalein) the jiske zariya maine do alag mauqon par us law ko ek taraf rakh diya tha aur is tarah un criminals ko convict karne mein kamyab hua tha jinhe unke crimes ke liye unke alawa koi gawah nahi the. Aaj aapne kya haasil kiya hai? Kya aapko yeh realize hai? Aapne is community mein, bina kisi hidayat ke, do aase mardon ko azaad chhod diya hai jo ek bhayanak aur rahasyamayi gift se endowed hain, evil ke liye ek chhipi aur grisly power—ek aasi power jiske zariya har ek apni turn mein sabse heinous character ke crime ke baad crime kar sakta hai, aur koi bhi aadmi un sabhi ke kisi bhi case mein yeh batane ke kaabil nahi hoga ki kaun guilty hai ya kaun innocent party hai. Apne gharon ko dekhein—apni property ko dekhein—apni lives ko dekhein—kyunki aapko zaroorat hai!
+
+“Prisoners at the bar, khade ho jayein. Evidence ke suppression ke zariya, aapke—hamare—countrymen ki ek jury ko aapke case ke baare mein ek verdict deliver karne ke liye majboor kiya gaya hai jo apni injustice ki rankness ke sath heaven tak badboo deta hai. Iske terms ke zariya aap, guilty one, innocent ke sath azaad jaate hain. Shanti mein depart karein, aur phir kabhi mat aayein! Costs outraged plaintiff par aate hain—ek aur iniquity. Court dissolve hoti hai.”
+
+Lagbhag har koi twins aur unke counsel ko congratulations se overwhelm karne ke liye aage badha; lekin jaldi hi dono purani aunties ne duplicates ko baahar nikala aur unhe hurrahing crowd se jeet ke sath le gayi, jabki bahut se naye doston ne Pudd'nhead Wilson ko legal arena mein uske bade aur victorious entry ko feast dene aur “wet down” (daru se celebrate) karne ke liye tavern ki taraf le gaye. Wilson ke liye, jo lambe samay se neglect aur depreciation se familiar tha, popularity aur admiration ki yeh anokhi nayi dhoop (incense) paradise ke khetton se behti hui ek fragrance ki tarah thi. Ek happy man tha Wilson.
+
 # Chapter VI — The Amazing Duel
 
 ### *(Adbhut Muqabla)*
