@@ -2371,7 +2371,7 @@ Isne itihaas ke zyadatar doosre points ki tulna mein (vyaktigat level par) zyada
 
 ---
 
-### Programming Our Future (Hamare Bhavishya Ko Program Karna)
+## Programming Our Future (Hamare Bhavishya Ko Program Karna)
 
 Ray Kurzweil — duniya ke pramukh technological polymaths mein se ek — ek transhumanist hain. Unka manna hai ki is century mein bahut jald, hamare kai zindagiyon ke andar, hum manav vikas ke agle, aur shayad aakhri stage ka anubhav karenge. Yeh woh point hoga jis par insaan organic biology ko langh jayenge. Singularity, jaisa ki yeh jaana jane laga hai, nikat bhavishya mein ek sambhavid point hai jab superintelligent machines (nanotechnology ke zariya) aisa roop lengi, jo unhe hamari biological anatomy ke sath ek aise tareeqe se fuse hone ki anumati deta hai jo mool roop se humein part-human part-machine bana dega. Yeh brain-machine interface ka ek roop hai.
 
