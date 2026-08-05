@@ -404,3 +404,126 @@ jabki toote hue chariots, thake hue ghodon, breastplates aur helmets, bows aur a
 [Jaise Ho Shih tippani karte hain: "War koi aisi cheez nahi hai jiske sath khilvaad kiya jaye." Sun Tzu yahan mukhya sabak ko dohraate hain jise yeh chapter laagu karne ke liye intended hai.]
 
 20. Is tarah yeh jaana ja sakta hai ki senayon ka leader logon ke bhagya ka faisla karne wala hai, woh aadmi jispar yeh nirbhar karta hai ki rashtra shanti mein hoga ya khatre mein.
+
+---
+
+# III. ATTACK BY STRATAGEM (III. KAPAT/CHAL DHWARA HAMLA)
+
+1. Sun Tzu ne kaha: War ki practical art mein, sabse achhi cheez dushman ke desh ko poora aur akhand (intact) lena hai; ise shattar (shatter) aur nasht karna itna achha nahi hai. Isi tarah, ek sena ko poori tarah se phir se capture karna use nasht karne se behtar hai, ek regiment, ek detachment ya ek company ko poori tarah se capture karna unhe nasht karne se behtar hai.
+
+[Ssu-ma Fa ke anusar, ek army corps ke barabar nominal roop se 12500 mard shamil the; Ts`ao Kung ke anusar, ek regiment ke barabar 500 mard shamil the, ek detachment ke barabar 100 aur 500 ke beech kisi bhi sankhya se shamil tha, aur ek company ke barabar 5 se 100 mard shamil the. Aakhri do ke liye, halanki, Chang Yu kramashah 100 aur 5 ki sateek sankhya dete hain.]
+
+2. Isliye apni sabhi battles mein ladna aur jeetna supreme excellence nahi hai; supreme excellence bina lade dushman ke virodh (resistance) ko todne mein nihit hai.
+
+[Yahan phir se, koi modern strategist nahi balki purane Chinese general ke shabdon ko approve karega. Moltke ki sabse badi jeet, Sedan mein vishaal French sena ka aatm-samarpan, vyavaharik roop se bina khoon-kharabe ke jeeti gayi thi.]
+
+3. Is tarah generalship ka sabse ucha roop dushman ke plans ko rukaav (balk) karna hai;
+
+[Shayad "balk" shabd Chinese shabd ki poori taqat ko vyakt karne se chhook jata hai, jo defence ke ravaiye ko darshata nahi hai, jisse koi ek ke baad ek dushman ke stratagems ko nakam karne se santusht ho sakta hai, balki counter-attack ki ek sakriya policy. Ho Shih ispar apne note mein ise bahut saaf taur par rakhte hain: "Jab dushman ne hamare khilaf hamle ka plan banaya hai, toh humein pehle apna hamla deliver karke unka andaza lagana chahiye."]
+
+agla sabse achha dushman ke forces ke milan (junction) ko rokna hai;
+
+[Use uske allies se alag karna. Humein nahi bhoolna chahiye ki Sun Tzu, hostilities ke baare mein baat karte hue, hamesha un kai states ya principalities ko dhyan mein rakhte hain jismein unke din ka China baanta hua tha.]
+
+kram mein agla maidaan mein dushman ki sena par hamla karna hai;
+
+[Jab woh pehle se hi poori taqat mein ho.]
+
+aur sabhi mein sabse badtar policy deewar wale sheharon (walled cities) ka gheraav karna hai.
+
+4. Kanoon yeh hai ki, agar isse sambhavid roop se bacha ja sakta hai toh walled cities ka gheraav na karein.
+
+[Military theory ka ek aur sound piece. Agar Boers ne 1899 mein ispar kaam kiya hota, aur Kimberley, Mafeking, ya Ladysmith se pehle apni taqat ko bikhairne se parhez kiya hota, toh yeh kaafi hadd tak sambhav hai ki British ke unka sakhti se virodh karne ke liye taiyar hone se pehle woh sthiti ke masters hote.]
+
+Mantlets, movable shelters, aur war ke vividh implements ki taiyari mein poore teen mahine lagenge;
+
+[Yeh poori tarah se saaf nahi hai ki Chinese shabd, jise yahan "mantlets" ke roop mein translate kiya gaya hai, ne kya varnit kiya. Ts`ao Kung simply unhe "bade shields" ke roop mein paribhashit karte hain, lekin humein Li Ch`uan se unka behtar idea milta hai, jo kehte hain ki woh un logon ke saron ki raksha karne ke liye the jo paas se shehar ki deewaron par hamla kar rahe the. Yeh ek prakar ke Roman TESTUDO, ready made ka sujhav deta lagta hai. Tu Mu kehte hain ki woh hamlon ko khaderne mein upayog kiye jaane wale wheeled vehicles the, lekin Ch`en Hao dwara isse inkaar kiya gaya hai. Dekhein supra II. 14. Naam shehar ki deewaron par turrets par bhi laagu hota hai. "Movable shelters" ka humein kai commentators se kaafi saaf varnan milta hai. Woh chaar pahiye par lakdi ke missile-proof dhanche the, andar se sanchalit, kachhi khaal se dhake hue, aur gheraav mein mardon ke groups ko deewaron tak aur wahan se le jaane ke liye upayog kiye jaate the, gherne wali khayi (moat) ko mitti se bharne ke uddeshya se. Tu Mu jodte hain ki unhe ab "wooden donkeys" kaha jata hai.]
+
+aur deewaron ke khilaf mounds (teelon) ko ik इकट्ठा karne mein teen mahine aur lagenge.
+
+[Yeh mitti ke bade mounds ya ramparts the jo dushman ki deewaron ke level tak ik इकट्ठा kiye gaye the taaki defence mein kamzor points ko khoja ja sake, aur pehle note mein zikr kiye gaye fortified turrets ko nasht kiya ja sake.]
+
+5. General, apne chidchidaapan (irritation) ko control karne mein a-saksham, apne mardon ko swarming ants ki tarah hamle par utaarega,
+
+[Ts`ao Kung ka yeh jeevant simile ek deewar par chadhne wali ants ki sena ke drishya se liya gaya hai. Matlab yeh hai ki general, lambe vilamb par dhairya khote hue, apne war ke engines taiyar hone se pehle jagah ko storm karne ka ek a-paripakva (premature) prayas kar sakta hai.]
+
+jiska parinaam yeh hoga ki uske ek-tihaai mard maare jaayenge, jabki shehar abhi bhi untaken rehta hai. Gheraav ke aise vinashkari prabhav hote hain.
+
+[Humein Port Arthur se pehle Japanese ke bhayanak nuksan ki yaad dilayi jaati hai, sabse haal ke gheraav mein jise history ko record karna hai.]
+
+6. Isliye kushal leader bina kisi ladai ke dushman ke sainikon ko vasamut (subdues) karta hai; woh unpar gheraav daale bina unke sheharon par kabza karta hai; woh maidaan mein lambe operations ke bina unke kingdom ko ulat deta hai.
+
+[Chia Lin note karte hain ki woh sirf Government ko ulat-ta hai, lekin vyaktiyon ko koi nuksan nahi pahonchata. Classic instance Wu Wang hain, jinhone Yin dynasty ko khatam karne ke baad "People ke father aur mother" ke roop mein saraye gaye the.]
+
+7. Apni forces ke akhand (intact) hone ke sath woh Empire ki mastery par vivad karega, aur is tarah, ek aadmi ko khoye bina, uski jeet poori hogi.
+
+[Chinese text mein dohre arthon ke kaaran, sentence ke baad ke hisse ka poori tarah se alag matlab nikal sakta hai: "Aur is tarah, upayog dwara weapon dull na hone par, iski teevrata (keenness) perfect rehti hai."]
+
+Yeh stratagem dwara hamla karne ka tareeqa hai.
+
+8. War mein yeh kanoon hai, agar hamari forces dushman ke muqable das se ek hon, toh use gherna (surround); agar paanch se ek hon, toh uspar hamla karna;
+
+[Turant, kisi aage ke faayde ka intazar kiye bina.]
+
+agar do guna sankhya mein hon, toh apni sena ko do mein baantna.
+
+[Tu Mu is kehne par aapatti jatate hain; aur pehli nazar mein, vaastav mein, yeh war ke ek buniyaadi siddhant ka ulanghan karta lagta hai. Ts'ao Kung, halanki, Sun Tzu ke matlab ka ek clue dete hain: "Dushman se do se ek hone par, hum apni sena ke ek hisse ka upayog niyamit tareeqe se kar sakte hain, aur doosre ka kisi vishesh diversion ke liye." Chang Yu is tarah point ko aage spasht karte hain: "Agar hamari force dushman ki tulna mein do guna sankhya mein hai, toh ise do divisions mein baanta jana chahiye, ek dushman se aage milne ke liye, aur ek uske peeche girne ke liye; agar woh frontal attack ka jawab deta hai, toh use peeche se kuchla ja sakta hai; agar rearward attack ka, toh use aage se kuchla ja sakta hai." Yeh wahi hai jiska matlab yeh kehne se hai ki 'ek hisse ka upayog niyamit tareeqe se kiya ja sakta hai, aur doosre ka kisi vishesh diversion ke liye.' Tu Mu nahi samajhte ki apni sena ko baantna simply ek a-niyamit hai, jaise ise kendrit karna niyamit, strategical method hai, aur woh ise ek galati kehne mein bahut tezi dikhate hain.]
+
+9. Agar barabar matched hon, toh hum ladai (battle) offer kar sakte hain;
+
+[Li Ch`uan, Ho Shih dwara followed, nimnlikhit paraphrase dete hain: "Agar hamla karne wale aur hamla kiye gaye taqat mein barabar matched hain, toh sirf kushal general hi ladega."]
+
+agar sankhya mein thode kam hon, toh hum dushman se bach sakte hain;
+
+[Matlab, "hum dushman ko WATCH kar sakte hain," nischit roop se upar di gayi cheez par ek bada sudhar hai; lekin durbhagya se variant ke liye koi bahut achhi authority nahi dikhti hai. Chang Yu humein yaad dilate hain ki kehna sirf tabhi laagu hota hai jab doosre karak barabar hon; sankhyaon mein ek chhota antar aksar behtar energy aur anushasan dwara counterbalanced se zyada hota hai.]
+
+agar har tareeqe se poori tarah se a-barabar hon, toh hum usse bhaag sakte hain.
+
+10. Isliye, yadyapi ek chhote force dwara ek ziddidipana ladai ki ja sakti hai, aakhirkar ise bade force dwara capture kiya jana chahiye.
+11. Ab general State ka bulwark (baandh/raksha) hai; agar bulwark sabhi points par poora hai, toh State majboot hoga; agar bulwark trutipoorn hai, toh State kamzor hoga.
+
+[Jaise Li Ch`uan tersely ise rakhte hain: "Gap kami ko darshata hai; agar general ki kshamta perfect nahi hai (yaani agar woh apne profession mein poori tarah se nipun nahi hai), toh uski sena mein taqat ki kami hogi."]
+
+12. Teen tareeqe hain jinse ek ruler apni sena par musibat la sakta hai:--
+13. (1) Sena ko aage badhne ya peeche hatne ka order dekar, is tathya se an-jaan hokar ki woh aagya ka palan nahi kar sakti. Ise sena ko hobbling (langdana) kaha jata hai.
+
+[Li Ch`uan yeh tippani jodte hain: "Yeh ek thoroughbred ke pairon ko ek sath baandhne jaisa hai, taaki woh daudne mein a-saksham ho." Koi swabhavik roop se is passage mein "ruler" ke ghar par hone, aur door se apni sena ke movements ko nirdeshit karne ki koshish karne ke baare mein sochega. Lekin commentators bilkul ulat samajhte hain, aur T`ai Kung ke kehne ko quote karte hain: "Ek kingdom ko baahar se govern nahi kiya jana chahiye, aur sena ko andar se nirdeshit nahi kiya jana chahiye." Beshak yeh sach hai ki, ek engagement ke dauran, ya jab dushman ke sath gehre sampark mein hon, toh general ko apne khud ke sainikon ke beech mein nahi hona chahiye, balki thodi doori par. Warna, woh poore roop se sthiti ka galat anuman lagane, aur galat orders dene ke liye daayi hoga.]
+
+14. (2) Sena ko usi tareeqe se govern karne ki koshish karke jis tareeqe se woh ek kingdom ko administer karta hai, sena mein praapt sthitiyon se an-jaan hokar. Yeh sainik ke dimaag mein a-sthirta ka kaaran banta hai.
+
+[Ts`ao Kung ka note hai, freely translated: "Military sphere aur civil sphere poori tarah se alag hain; aap kid gloves mein sena ko nahi sambhal sakte." Aur Chang Yu kehte hain: "Humanity aur justice woh siddhant hain jinpar ek state ko govern kiya jata hai, lekin sena ko nahi; avsarbaad aur lachilapan, doosri taraf, State ke govern karne ko assimilate karne ke liye civil ke bajaye military sadgun hain"--State ke govern karne ko, samjha gaya.]
+
+15. (3) Apni sena ke officers ko bina kisi bhedbhaav ke niyukt karke,
+
+[Yaani, woh sahi jagah par sahi aadmi ka upayog karne ke liye saavdhan nahi hai.]
+
+paristhitiyon ke anusar adjust hone ke military siddhant ke agyaanata ke zariya. Yeh sainikon ke vishwas ko hilata hai.
+
+[Main yahan Mei Yao-ch`en ka palan karta hoon. Doosre commentators ruler ka sandarbh nahi dete, jaise SS. 13, 14 mein, balki un officers ka jinhe woh niyukt karta hai. Is tarah Tu Yu kehte hain: "Agar ek general adaptability ke siddhant se an-jaan hai, toh use authority ki position nahi sonpi jaani chahiye." Tu Mu quote karte hain: "Mardon ka kushal employer samajhdar aadmi, bahadur aadmi, laalchi aadmi, aur bewakoof aadmi ko niyukt karega. Kyunki samajhdar aadmi apne merit ko sthapit karne mein anand leta hai, bahadur aadmi action mein apna sahas dikhana pasand karta hai, laalchi aadmi labhon ko pakadne mein tez hota hai, aur bewakoof aadmi ko maut ka koi darr nahi hota."]
+
+16. Lekin jab sena a-sthir aur a-vishwasniya hoti hai, toh doosre feudal princes se pareshani aana pakka hai. Yeh simply sena mein anarchy lana hai, aur jeet ko doosri taraf phenkna hai.
+17. Is tarah hum jaan sakte hain ki jeet ke liye paanch aavashyak cheezein hain: (1) Woh jeetega jo jaanta hai ki kab ladna hai aur kab nahi ladna hai.
+
+[Chang Yu kehte hain: Agar woh lad sakta hai, toh woh aage badhta hai aur hamla karta hai; agar woh nahi lad sakta, toh woh peeche hat-ta hai aur defence par rehta hai. Woh hamesha jeetega jo jaanta hai ki hamla karna sahi hai ya defence par rehna.]
+
+(2) Woh jeetega jo jaanta hai ki uche aur neeche dono forces ko kaise sambhalna hai.
+
+[Yeh sirf sankhyaon ko sahi dhang se estimate karne ki general ki kshamta nahi hai, jaise Li Ch`uan aur doosre banate hain. Chang Yu kehne ko zyada santoshjanak roop se expounds karte hain: "War ki art ko laagu karke, ek chhote force ke sath bade ko harana sambhav hai, aur iska vipreet bhi. Rahasya sthaniyata ke liye ek aankh mein nihit hai, aur sahi moment ko na chhootne dene mein. Is tarah Wu Tzu kehte hain: 'Uche force ke sath, aasan zameen ke liye banayein; neeche ke sath, kathin zameen ke liye banayein.'"]
+
+(3) Woh jeetega jiski sena iske sabhi ranks mein ek hi bhavna (spirit) dwara animated hai.
+
+(4) Woh jeetega jo, khud taiyar hokar, dushman ke a-tai-yaar hone ka intazar karta hai.
+
+(5) Woh jeetega jiske paas military kshamta hai aur sovereign dwara hakshep nahi kiya jata hai.
+
+[Tu Yu ne Wang Tzu ko yeh kehte hue quote kiya: "Yeh sovereign ka function hai vyapak instructions dena, lekin battle par faisla karna general ka function hai." Home government ki taraf se maidaan mein operations ke sath fuzool ke hakshep ke kaaran hue military disasters par vistarit karne ki koi zaroorat nahi hai. Napoleon nischit roop se apni ashadharan kamyabi ka kaafi hissa is tathya ka karzdar tha ki woh central authority dwara baadhya nahi tha.]
+
+18. Isliye kehna hai: Agar aap dushman ko jaante hain aur khud ko jaante hain, toh aapko ek sau battles ke parinaam se darne ki zaroorat nahi hai. Agar aap khud ko jaante hain lekin dushman ko nahi, toh har jeeti gayi jeet ke liye aapko ek haar bhi sahni padegi.
+
+[Li Ch`uan Fu Chien, Ch`in ke prince ke case ko cite karte hain, jinhone 383 A.D. mein Chin Emperor ke khilaf ek vishaal sena ke sath march kiya. Jab unhe ek aise dushman ko chhota na samajhne ki chetawani di gayi jo Hsieh An aur Huan Ch`ung jaise mardon ki services ko command kar sakta tha, toh unhone ahankaar se jawab diya: "Mere peeche aath provinces ki aabaadi hai, ek million ki sankhya mein infantry aur horsemen; kyun, woh keval apni whips ko stream mein phenkkar khud Yangtsze River ko dam kar sakte the. Mujhe kis khatre se darna hai?"
+
+Iske baavjood, unki forces ko jaldi hi Fei River par vinashkari roop se rout kar diya gaya, aur unhe ek tezi se retreat karne ke liye majboor hona pada.]
+
+Agar aap na toh dushman ko jaante hain na hi khud ko, toh aap har battle mein succumb ho jaayenge.
+
+[Chang Yu ne kaha: "Dushman ko jaan-na aapko hamla karne mein saksham banata hai, khud ko jaan-na aapko defence par khade hone mein saksham banata hai." Unhone joda: "Attack defence ka rahasya hai; defence ek hamle ki planning hai." War ke mool-siddhant ka ek behtar epitome dhoondhna kathin hoga.]
