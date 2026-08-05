@@ -240,3 +240,100 @@ Nischit historical works ke bibliographical sections bhi zikr ke yogya hain: --
 Inme beshak Imperial Library ka bada Catalogue joda jana chahiye: --
 
 * *SSU K`U CH`UAN SHU TSUNG MU T`I YAO* (1790), ch. 99, 100.
+
+---
+
+# I. LAYING PLANS (I. YOJNAAYEIN BANANA)
+
+[Ts`ao Kung, is chapter ke title ke Chinese ke arth ko paribhashit karte hue, kehte hain ki yeh general dwara apne aasthayi upayog ke liye chune gaye temple mein chintan ko sandarbhit karta hai, ya jaise humein kehna chahiye, unke tent mein. Dekhein ss. 26.]
+
+1. Sun Tzu ne kaha: War ki art State ke liye atyadhik mahatvapurna hai.
+2. Yeh zindagi aur maut ka maamla hai, ya toh suraksha ka ya vinash ka raasta. Isliye yeh jaanch ka ek aisa vishay hai jise kisi bhi keemat par nazar-andaz nahi kiya ja sakta.
+3. War ki art, phir, paanch sthir karakon (constant factors) dwara sanchalit hoti hai, jinhe kisi dwara maidaan mein praapt sthitiyon ko tay karne ki koshish karte waqt, apne chintan mein dhyan mein rakha jana hai.
+4. Yeh hain: (1) The Moral Law; (2) Heaven; (3) Earth; (4) The Commander; (5) Method and discipline.
+
+[Aage aane wali baaton se aisa lagta hai ki Sun Tzu ka "Moral Law" se matlab samanjasya (harmony) ka ek siddhant hai, jo apne naitik pehlu mein Lao Tzu ke Tao se alag nahi hai. Koi ise "morale" dwara render karne ke liye lubhaya ja sakta hai, agar ise ss. 13 mein ruler ka ek attribute na maana gaya hota.]
+
+5, 6. MORAL LAW logon ko apne ruler ke sath poori tarah se anukool hone ka kaaran banta hai, taaki woh apni zindagiyon ki parwah kiye bina, kisi bhi khatre se un-dar kar unka palan karenge.
+
+[Tu Yu ne Wang Tzu ko yeh kehte hue quote kiya: "Niyamit abhyas ke bina, officers battle ke liye ik इकट्ठा hote waqt nervous aur a-nirnayak honge; niyamit abhyas ke bina, general sankat ke paas hone par wavering aur irresolute hoga."]
+
+7. HEAVEN raat aur din, thand aur garmi, samay aur mausam ko darshata hai.
+
+[Commentators, mujhe lagta hai, yahan do shabdon ka fuzool ka rahasya banate hain. Meng Shih Heaven ke "hard aur soft, waxing aur waning" ko sandarbhit karte hain. Wang Hsi, halanki, yeh kehne mein sahi ho sakte hain ki jisaka matlab hai "Heaven ki general economy," jismein paanch tatva, chaar mausam, hawa aur baadal, aur doosre ghatnaayein shamil hain.]
+
+8. EARTH mein dooriyan, badi aur chhoti; khatra aur suraksha; khula maidaan aur sankuchit raaste; zindagi aur maut ke chances shamil hain.
+9. COMMANDER wisdom, sincerity, benevolence, courage aur strictness ke sadgunon ko darshata hai.
+
+[Chinese ke paanch cardinal sadgun hain (1) humanity ya benevolence; (2) uprightness of mind; (3) self-respect, self-control, ya "proper feeling;" (4) wisdom; (5) sincerity ya good faith. Yahan "wisdom" aur "sincerity" ko "humanity ya benevolence" se pehle rakha gaya hai, aur do military sadgunon "courage" aur "strictness" ko "uprightness of mind" aur "self-respect, self-control, ya 'proper feeling'" ke liye substitute kiya gaya hai.]
+
+10. METHOD AND DISCIPLINE dwara sena ko iske uchit sub-divisions mein sangathit karna, officers ke beech rank ke graduations, un raaston ka rakh-rakhav jinase sena tak supplies pahonch sakti hain, aur military expenditure ke control ko samjha jana hai.
+11. Yeh paanch heads har general ko parichit hone chahiye: woh jo unhe jaanta hai woh jeetega; woh jo unhe nahi jaanta woh asafal hoga.
+12. Isliye, apne chintan mein, jab military sthitiyon ko tay karne ki koshish kar rahe hon, toh unhe is tarah se ek tulna ka aadhar banne dein: --
+13. (1) Do sovereigns mein se kaun Moral law se samppan hai?
+
+[Yaani, "apne praja ke sath samanjasya mein hai." Cf. ss. 5.]
+
+(2) Do generals mein se kiske paas sabse zyada kshamta hai?
+
+(3) Heaven aur Earth se praapt labh kiske sath hain?
+
+[Dekhein ss. 7,8]
+
+(4) Kis taraf anushasan sabse sakhti se laagu kiya jata hai?
+
+[Tu Mu Ts`ao Ts`ao (A.D. 155-220) ki adbhut story ki taraf ishara karte hain, jo itne sakht disciplinarian the ki ek baar, khadi fasalon ko nuksan ke khilaf apne khud ke sakht kanoonon ke anusar, unhone apne ghode ko makki ke khet mein shying karne ki anumati dene ke liye khud ko mrityudand sunaya! Halanki, apna sar khone ke bajaye, unhe apne baal kaatkar apne nyay ke ahasas ko santusht karne ke liye mana liya gaya tha. Vartaman passage par Ts`ao Ts`ao ki apni tippani vishisht roop se chhotisi hai: "jab aap koi kanoon banate hain, toh dekhein ki iska ulanghan na ho; agar iska ulanghan hota hai toh apradhi ko maut ke ghat utar diya jana chahiye."]
+
+(5) Kaun si sena zyada majboot hai?
+
+[Bhaautik roop se ke sath-sath naitik roop se bhi. Jaise Mei Yao-ch`en ise rakhte hain, swatantra roop se rendered, "ESPIRIT DE CORPS aur 'big battalions'."]
+
+(6) Kis taraf officers aur men zyada uche roop se trained hain?
+
+[Tu Yu ne Wang Tzu ko yeh kehte hue quote kiya: "Niyamit abhyas ke bina, officers battle ke liye ik इकट्ठा hote waqt nervous aur a-nirnayak honge; niyamit abhyas ke bina, general sankat ke paas hone par wavering aur irresolute hoga."]
+
+(7) Kis sena mein inaam aur saja dono mein zyada nirantarata hai?
+
+[Kis taraf is baat ki sabse absolute nishchitata hai ki yogyata ko uchit roop se inaam diya jayega aur galat kaam ko sankhipt roop se saja di jayegi?]
+
+14. In saat vicharon ke zariya main jeet ya haar ka purvanuman laga sakta hoon.
+15. Jo general meri salah sunta hai aur uspar kaam karta hai, woh jeetega: --aise vyakti ko command mein rakha jaye! Jo general meri salah nahi sunta aur na hi uspar kaam karta hai, woh haar ka samna karega: --aise vyakti ko kharij kiya jaye!
+
+[Is paragraph ka roop humein yaad dilata hai ki Sun Tzu ka treatise vishesh roop se unke patron Ho Lu, Wu State ke king ke labh ke liye compose kiya gaya tha.]
+
+16. Meri salah ke labh par dhyan dete hue, aam kanoonon se aage aur pare kisi bhi sahayak paristhitiyon ka bhi faayda uthaayein.
+17. Jaise paristhitiyan anukool hongi, waise hi kisi ko apne plans ko modify karna chahiye.
+
+[Sun Tzu, ek practical soldier ke roop mein, "bookish theoric" mein se koi nahi rakhenge. Woh humein yahan abstract siddhanton par apna vishwās na tikaane ki chetawani dete hain; "kyunki," jaise Chang Yu ise rakhte hain, "jabki strategy ke mukhya kanoonon ko sabhi ke labh ke liye kaafi saaf taur par bataya ja sakta hai, aapko actual warfare mein ek anukool sthiti surakshit karne ki koshish mein dushman ki kriyaon dwara nirdeshit hona chahiye." Waterloo ki ladai ki eve par, cavalry ko command karne wale Lord Uxbridge, Duke of Wellington ke paas gaye agle din ke liye unke plans aur calculations kya the yeh jaan-ne ke liye, kyunki, jaise unhone samjaya, woh achanak khud ko Commander-in-chief pa sakte the aur ek critical moment mein naye plans banane mein a-saksham hote. Duke ne shanti se suna aur phir kaha: "Kal pehle hamla kaun karega -- main ya Bonaparte?" "Bonaparte," Lord Uxbridge ne jawab diya. "Khair," Duke ne jaari rakha, "Bonaparte ne mujhe apne projects ka koi idea nahi diya hai; aur kyunki mere plans unpar nirbhar karenge, aap mujhse yeh batane ki umeed kaise kar sakte hain ki mere kya hain?" [1]]
+
+18. Saari warfare dhokhe (deception) par aadharit hai.
+
+[Is pithy aur gehre kehne ki sachai ko har soldier dwara swikar kiya jayega. Col. Henderson ne humein bataya ki Wellington, itne saare military qualities mein bade, vishesh roop se us ashadharan skill dwara vishisht the jiske sath unhone apni movements ko chhipaya aur dost aur dushman dono ko dhokha diya.]
+
+19. Isliye, jab hamla karne mein saksham hon, toh humein a-saksham lagna chahiye; jab apni forces ka upayog kar rahe hon, toh humein nishkriya lagna chahiye; jab hum paas hon, toh humein dushman ko yeh vishwās dilana chahiye ki hum door hain; jab door hon, toh humein use yeh vishwās dilana chahiye ki hum paas hain.
+20. Dushman ko lubhane ke liye baaits (chara) pakdein. A-vyavastha (disorder) ka naatak karein, aur use kuchal dein.
+
+[Chang Yu ko chhodkar sabhi commentators kehte hain, "Jab woh a-vyavastha mein ho, toh use kuchal dein." Yeh maanana zyada praakritik hai ki Sun Tzu abhi bhi war mein deception ke upayog ko darsha rahe hain.]
+
+21. Agar woh sabhi points par surakshit hai, toh uske liye taiyar rahein. Agar woh uchi taqat mein hai, toh usse bachein (evade).
+22. Agar aapka opponent gusse wale swabhav (choleric temper) ka hai, toh use chidhane ki koshish karein. Kamzor hone ka naatak karein, taaki woh ahankaari ho sake.
+
+[Tu Yu dwara quoted Wang Tzu kehte hain ki achha tactician apne adversary ke sath waise hi khelta hai jaise billi chuhe ke sath khelti hai, pehle kamzori aur nishkriyata ka naatak karti hai, aur phir achanak uspar japat ti hai.]
+
+23. Agar woh aaram kar raha hai, toh use koi aaram mat do.
+
+[Yeh shayad matlab hai halanki Mei Yao-ch`en ke paas note hai: "jab hum aaram kar rahe hon, dushman ke khud ko thakaane ka intazar karein." *YU LAN* ke paas "Use lubhaayein aur use thakaayein" hai.]
+
+Agar uski forces ekrat (united) hain, toh unhe alag karein.
+
+[Kam plausble woh vyakhya hai jise zyadatar commentators dwara pasand kiya gaya hai: "Agar sovereign aur subject anukool mein hain, toh unke beech vibhajan daalein."]
+
+24. Uspar wahan hamla karein jahan woh a-tai-yaar ho, wahan pratyaksh hon jahan aapki umeed na ho.
+25. Yeh military devices, jeet ki taraf le jaane wale, pehle se ujagar nahi kiye jaane chahiye.
+26. Ab jo general ladai jeetta hai woh ladai lade jaane se pehle apne temple mein kai calculations karta hai.
+
+[Chang Yu humein batate hain ki praacheen samay mein ek aise general ke upayog ke liye ek temple ko alag rakhna riwaaj tha jo maidaan mein utarne wala tha, taaki woh wahan campaign ke apne plan ko vistarit kar sake.]
+
+Jo general ladai haarta hai woh pehle se bahut kam calculations karta hai. Is tarah kai calculations jeet ki taraf le jaate hain, aur kam calculations haar ki taraf: kitna zyada koi calculation nahi bilkul! Is point par dhyan dene se hi main purvanuman laga sakta hoon ki kaun jeetne ya haarne ki sambhavna rakhta hai.
+
+[1] Sir W. Fraser dwara "Words on Wellington".
