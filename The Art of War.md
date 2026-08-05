@@ -527,3 +527,90 @@ Iske baavjood, unki forces ko jaldi hi Fei River par vinashkari roop se rout kar
 Agar aap na toh dushman ko jaante hain na hi khud ko, toh aap har battle mein succumb ho jaayenge.
 
 [Chang Yu ne kaha: "Dushman ko jaan-na aapko hamla karne mein saksham banata hai, khud ko jaan-na aapko defence par khade hone mein saksham banata hai." Unhone joda: "Attack defence ka rahasya hai; defence ek hamle ki planning hai." War ke mool-siddhant ka ek behtar epitome dhoondhna kathin hoga.]
+
+---
+
+# IV. TACTICAL DISPOSITIONS (IV. KOSHISH/RANNITI KI STHITIYAN)
+
+[Ts`ao Kung is chapter ke title ke shabdon ke Chinese arth ko samjhate hain: "dono senayon ki taraf se ek doosre ki sthiti ka pata lagane ke drishtikon se march aur countermarch karna." Tu Mu kehte hain: "Yeh ek sena ki dispositions ke zariya hai ki iski sthiti ka pata lagaya ja sakta hai. Apni dispositions ko chhipayein, aur aapki sthiti rahasya bani rahegi, jo jeet ki taraf le jaati hai; apni dispositions dikhayein, aur aapki sthiti pratyaksh ho jayegi, jo haar ki taraf le jaati hai." Wang Hsi tippani karte hain ki achha general "dushman ke tactics se milne ke liye apne tactics ko badal kar kamyabi surakshit kar sakta hai."]
+
+1. Sun Tzu ne kaha: Purane samay ke achhe fighters ne pehle khud ko haar ki sambhavna se pare rakha, aur phir dushman ko harane ke ek mauqe ka intazar kiya.
+2. Khud ko haar se surakshit rakhna hamare apne haathon mein nihit hai, lekin dushman ko harane ka mauqa dushman dwara khud pradan kiya jata hai.
+
+[Yeh, beshak, dushman ki taraf se kisi galati dwara hai.]
+
+3. Is tarah achha fighter khud ko haar se surakshit rakhne mein saksham hai,
+
+[Chang Yu kehte hain ki yeh kiya jata hai, "Apne sainikon ki disposition ko chhipakar, apne nishanon ko dhak kar, aur nirantar saavdhaniyan bartakar."]
+
+lekin dushman ko harane ka nishchit nahi kar sakta.
+
+4. Isliye kehna hai: Koi jaan sakta hai ki kaise jeetna hai bina ise karne mein saksham hue.
+5. Haar ke khilaf suraksha defensive tactics ko darshati hai; dushman ko harane ki kshamta ka matlab hamla karna (offensive lena) hai.
+
+[Main ss. 1-3 mein ek samaan passage mein paaye gaye arth ko banaye rakhta hoon, is tathya ke baavjood ki commentators sabhi mere khilaf hain. Unka diya gaya matlab, "Jo jeet nahi sakta woh defensive leta hai," kaafi plausible hai.]
+
+6. Defence par khade hona aparyapt taqat ko darshata hai; hamla karna, taqat ki atyadhikata (superabundance) ko.
+7. Jo general defence mein kushal hai woh Prithvi ke sabse rahasyamayi ilaqon mein chhipata hai;
+
+[Shabdash, "navvein prithvi ke neeche chhipata hai," jo ek metaphor hai jo atyadhik rahasya aur chhipaav ko darshata hai, taaki dushman ko uske thikaane ka pata na chale.]
+
+woh jo hamle mein kushal hai woh Heaven ki sabse uchi uanchaiyon se chamakta hai.
+
+[Ek aur metaphor, yeh darshata hua ki woh apne adversary par bijli ke kadke (thunderbolt) ki tarah girta hai, jiske khilaf taiyar hone ka koi samay nahi hai. Yeh zyadatar commentators ki raay hai.]
+
+Is tarah ek taraf hamare paas khud ko protect karne ki kshamta hai; doosri taraf, ek jeet jo poori hai.
+
+8. Jeet ko sirf tabhi dekhna jab yeh aam janta (common herd) ki samajh ke andar ho, shreshthta ka charam roop (acme of excellence) nahi hai.
+
+[Jaise Ts`ao Kung tippani karte hain, "cheez ankurit (germinated) hone se pehle podhe ko dekhna hai," action shuru hone se pehle ghatna ka purvanuman lagana hai. Li Ch`uan Han Hsin ki story ki taraf ishara karte hain jo, Chao ki kaafi uchi sena par hamla karne wale the, jo Ch`eng-an shehar mein majboot roop se entrenched thi, unhone apne officers se kaha: "Gentlemen, hum dushman ko nasht karne ja rahe hain, aur dinner par phir milenge." Officers ne unke shabdon ko aksar gambhirta se nahi liya, aur ek bahut hi sandeh-aspad sehamati di. Lekin Han Hsin ne pehle hi apne dimaag mein ek chatur stratagem ke details par kaam kar liya tha, jiske zariya, jaise unhone purvanuman lagaya tha, woh shehar par kabza karne aur apne adversary par ek karari haar thopne mein saksham the.]
+
+9. Na hi yeh shreshthta ka charam roop hai agar aap ladte hain aur jeette hain aur poora Empire kehta hai, "Shabash!"
+
+[Asli shreshthta yeh hone par, jaise Tu Mu kehte hain: "Gupchup roop se plan banana, chhipkar aage badhna, dushman ke iradon ko nakam karna aur uske schemes ko rukaav karna, taaki aakhirkar khoon ki ek boond bahaye bina din jeeta ja sake." Sun Tzu un cheezon ke liye apna anumodan (approbation) surakshit rakhte hain jinhe
+
+"world's coarse thumb
+
+And finger fail to plumb."]
+
+10. Ek autumn hair ko uthana badi taqat ka koi nishan nahi hai;
+
+["Autumn hair" ko ek khargosh ke fur ke roop mein samjaya gaya hai, jo autumn mein sabse behtareen hota hai, jab yeh naye sir se ugna shuru hota hai. Yeh phrase Chinese writers mein ek bahut hi aam hai.]
+
+suraj aur chaand ko dekhna teevra drishti (sharp sight) ka koi nishan nahi hai; thunder ki aawaz sunna tezi se sunne wale kaan (quick ear) ka koi nishan nahi hai.
+
+[Ho Shih taqat, teevra drishti aur tezi se sunne ke asli udaharanon ke roop mein dete hain: Wu Huo, jo 250 stone vazan wala ek tripod utha sakta tha; Li Chu, jo ek sau kadam ki doori se sarson ke beej se badi cheezon ko dekh sakta tha; aur Shih K`uang, ek andha musician jo machhar ke kadmon ki aawaz sun sakta tha.]
+
+11. Jise praacheen log ek chatur fighter kehte the woh woh hai jo na sirf jeetta hai, balki aasaani ke sath jeetne mein shreshthta haasil karta hai.
+
+[Aakhri aadha shabdash "woh hai jo, jeette hue, aasan jeet mein shreshthta haasil karta hai." Mei Yao-ch`en kehte hain: "Woh jo sirf spasht ko dekhta hai, apni battles kathinai ke sath jeetta hai; woh jo cheezon ki satah ke neeche dekhta hai, aasaani ke sath jeetta hai."]
+
+12. Isliye unki jeet unhe na toh wisdom ke liye pratishtha diliti hai na hi sahas ke liye shrey.
+
+[Tu Mu ise bahut achhi tarah se samjhate hain: "Inasmuch as unki jeet un paristhitiyon par haasil ki jaati hai jo roshni mein nahi aayi hain, poori duniya unke baare mein kuch nahi jaanti, aur woh wisdom ke liye koi pratishtha nahi jeetta; inasmuch as hostile state kisi khoon-kharabe se pehle submit karta hai, use sahas ke liye koi shrey nahi milta."]
+
+13. Woh koi galati na karke apni battles jeetta hai.
+
+[Ch`en Hao kehte hain: "Woh kisi fuzool marches ka plan nahi banata, woh kisi vyarth hamlon ka vikas nahi karta." Ideas ka connection is tarah Chang Yu dwara samjaya gaya hai: "Woh jo sheer taqat dwara jeetne ki talash karta hai, chahe pitched battles jeetne mein kitna bhi chatur kyun na ho, avsar par haraye jaane ke liye bhi daayi hai; jabki woh jo bhavishya mein dekh sakta hai aur un sthitiyon ko samajh sakta hai jo abhi tak vyakt nahi hain, kabhi koi galati nahi karega aur isliye hamesha jeetega."]
+
+Koi galati na karna wahi hai jo jeet ki nishchitata ko sthapit karta hai, kyunki iska matlab ek aise dushman ko jeetna hai jo pehle se hi haraya hua hai.
+
+14. Isliye kushal fighter khud ko ek aisi position mein rakhta hai jo haar ko asambhav banati hai, aur dushman ko harane ke moment ko nahi chhodta.
+
+[Ek "counsel of perfection" jaise Tu Mu sach mein dekhte hain. "Position" ko sainikon dwara kabza ki gayi actual zameen tak seemit karne ki zaroorat nahi hai. Isme woh sabhi intazamat aur taiyariyan shamil hain jinhe ek samajhdar general apni sena ki suraksha ko badhane ke liye karega.]
+
+15. Is tarah war mein jeetne wala strategist jeet haasil karne ke baad hi battle ki talash karta hai, jabki woh jo haar ke liye destined hai pehle ladta hai aur baad mein jeet dhoondhta hai.
+
+[Ho Shih is tarah paradox ko expounds karte hain: "Warfare mein, pehle plans banayein jo jeet sunishchit karenge, aur phir apni sena ko battle ke liye le jayein; agar aap stratagem se shuru nahi karenge balki sirf brute strength par nirbhar karenge, toh jeet ab sunishchit nahi hogi."]
+
+16. Uttam (consummate) leader moral law ko poshit karta hai, aur method aur discipline par sakhti se tika rehta hai; is tarah kamyabi ko control karna uski taqat mein hai.
+17. Military method ke sambandh mein, hamare paas hai, pehle, Measurement; doosra, Estimation of quantity; teesra, Calculation; chautha, Balancing of chances; paanchvaan, Victory.
+18. Measurement apna astitva Earth ka karzdar hai; Estimation of quantity Measurement ka; Calculation Estimation of quantity ka; Balancing of chances Calculation ka; aur Victory Balancing of chances ka.
+
+[Chinese mein charon terms ko kaafi saaf taur par alag karna aasan nahi hai. Pehla zameen ka sarvekshan aur measurement lagta hai, jo humein dushman ki taqat ka anuman lagane mein saksham banata hai, aur is tarah praapt data ke aadhar par calculations karne ke liye; humein is tarah ek general weighing-up, ya dushman ke chances ki hamare apne sath tulna ki taraf le jaya jata hai; agar baad wale scale ko modte hain, toh jeet hoti hai. Mukhya kathinai teesre term mein nihit hai, jise Chinese mein kuch commentators NUMBERS ke calculation ke roop mein lete hain, is tarah ise doosre term ke saath lagbhag paryaywachi banate hain. Shayad doosre term ko dushman ki general position ya sthiti ke vichar ke roop mein socha jana chahiye, jabki teesra term uski numerical strength ka anuman hai. Doosri taraf, Tu Mu kehte hain: "Aapekshik taqat ka prashn tay hone ke baad, hum chalaki ke vividh resources ko play mein la sakte hain." Ho Shih is vyakhya ka samarthan karte hain, lekin ise kamzor karte hain. Halanki, yeh teesre term ki taraf numbers ke calculation ke roop mein ishara karta hai.]
+
+19. Ek harayi hui sena ke khilaf ek jeetne wali sena, ek single grain ke khilaf scale mein rakhe gaye ek pound ke vazan ki tarah hai.
+
+[Shabdash, "ek jeetne wali sena ek SHU (1/24 oz.) ke khilaf tole gaye ek I (20 oz.) ki tarah hai; ek harayi hui sena ek I ke khilaf tola gaya ek SHU hai." Point simply woh vishaal faayda hai jo ek anushasit force, jeet se bhari hui, ke paas haar se demoralised force par hota hai. Legge, Mencius, I. 2. ix. 2 par apne note mein, I ko 24 Chinese ounces banate hain, aur Chu Hsi ke is bayan ko correct karte hain ki yeh sirf 20 oz. ke barabar tha. Lekin T`ang dynasty ke Li Ch`uan yahan Chu Hsi jaisa hi figure dete hain.]
+
+20. Ek jeetne wale force ka onrush ek hazaar fathoms gehre chasm mein pent-up paani ke phatne jaisa hai.
