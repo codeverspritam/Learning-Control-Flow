@@ -614,3 +614,91 @@ Koi galati na karna wahi hai jo jeet ki nishchitata ko sthapit karta hai, kyunki
 [Shabdash, "ek jeetne wali sena ek SHU (1/24 oz.) ke khilaf tole gaye ek I (20 oz.) ki tarah hai; ek harayi hui sena ek I ke khilaf tola gaya ek SHU hai." Point simply woh vishaal faayda hai jo ek anushasit force, jeet se bhari hui, ke paas haar se demoralised force par hota hai. Legge, Mencius, I. 2. ix. 2 par apne note mein, I ko 24 Chinese ounces banate hain, aur Chu Hsi ke is bayan ko correct karte hain ki yeh sirf 20 oz. ke barabar tha. Lekin T`ang dynasty ke Li Ch`uan yahan Chu Hsi jaisa hi figure dete hain.]
 
 20. Ek jeetne wale force ka onrush ek hazaar fathoms gehre chasm mein pent-up paani ke phatne jaisa hai.
+
+---
+
+# V. ENERGY (V. URJA / SHAKTI)
+
+1. Sun Tzu ne kaha: Ek bade force ka control thorhe mardon ke control ke samaan hi siddhant hai: yeh mool roop se unki sankhyaon ko baantne (dividing up) ka prashn hai.
+
+[Yaani, sena ko regiments, companies, wagairah mein kaatna, jismein har ek ke command mein subordinate officers hon. Tu Mu humein pehle Han Emperor ko Han Hsin ke prasiddh jawab ki yaad dilate hain, jinhone ek baar unse kaha tha: "Aapko kya lagta hai main kitni badi sena ka netritv kar sakta hoon?" "100,000 mardon se zyada nahi, Your Majesty." "Aur aap?" Emperor ne poocha. "Oh!" unhone jawab diya, "jitna zyada utna behtar."]
+
+2. Apne command ke tehat ek badi sena ke sath ladna ek chhote force ke sath ladne se kisi bhi tarah alag nahi hai: yeh mool roop se signs aur signals sthapit karne ka prashn hai.
+3. Yeh sunishchit karne ke liye ki aapka poora host dushman ke hamle ke prabhav (brunt) ko sah sake aur a-chali (unshaken) rahe - yeh direct aur indirect maneuvers dwara prabhavit hota hai.
+
+[Hum ab Sun Tzu ke treatise ke sabse aakarshak hisson mein se ek par aate hain, CHENG aur CH`I ki charcha. Kyunki in do terms ki poori mahatta ko pakadna, ya unhe achhe English equivalents dwara lagatar render karna kisi bhi tarah aasan nahi hai; aage badhne se pehle vishay par commentators ki kuch tippaniyon ko tabulate karna itna hi achha ho sakta hai. Li Ch`uan: "Dushman ka samna karna CHENG hai, lateral diversion karna CH`I hai. Chia Lin: "Dushman ki maujoodgi mein, aapke sainikon ko normal fashion mein arrayed kiya jana chahiye, lekin jeet surakshit karne ke liye abnormal maneuvers ko niyukt kiya jana chahiye." Mei Yao-ch`en: "CH`I active hai, CHENG passive hai; passivity ka matlab mauqe ka intazar karna hai, activity khud jeet laati hai." Ho Shih: "Humein dushman ko hamare seedhe hamle ko ek aise hamle ke roop mein dekhne ke liye majboor karna chahiye jise gupt roop se design kiya gaya hai, aur iska vipreet bhi; is tarah CHENG CH`I bhi ho sakta hai, aur CHENG CH`I bhi ho sakta hai." Woh Han Hsin ke prasiddh kaarname ka udaharan dete hain, jinhone zaahir taur par Lin-chin (ab Shensi mein Chao-i) ke khilaf march karte waqt, achanak lakdi ke tubs mein Yellow River ke paar ek bada force phenk diya, apne opponent ko poori tarah se disconcerting karte hue. [Ch`ien Han Shu, ch. 3.] Yahan, humein bataya gaya hai, Lin-chin par march CHENG tha, aur surprise maneuver CH`I tha.   Chang Yu shabdon par opinions ka nimnlikhit summary dete hain: "Military writers CH`I aur CHENG ke arth ke sambandh mein sehamat nahi hain. Wei Liao Tzu [4th cent. B.C.] kehte hain: 'Direct warfare frontal attacks ka paksh leta hai, indirect warfare peeche se hamlon ka.' Ts`ao Kung kehte hain: 'Ladai mein shamil hone ke liye seedhe baahar jana ek direct operation hai; dushman ke rear par dikhna ek indirect maneuver hai.' Li Wei-kung [6th aur 7th cent. A.D.] kehte hain: 'War mein, seedhe aage march karna CHENG hai; doosri taraf turning movements CH`I hain.' Yeh writers simply CHENG ko CHENG, aur CH`I ko CH`I ke roop mein dekhte hain; woh yeh note nahi karte ki dono aapas mein badalane yogya hain aur ek circle ke do sides ki tarah ek doosre mein chalte hain [dekhein infra, ss. 11]. T`ang Emperor T`ai Tsung par ek tippani maamle ki jad tak jaati hai: 'Ek CH`I maneuver CHENG ho sakta hai, agar hum dushman ko ise CHENG ke roop mein dekhein; phir hamara asli hamla CH`I hoga, aur iska vipreet bhi. Poora rahasya dushman ko uljhaane mein nihit hai, taaki woh hamare asli irade ko na naap sake.'
+
+Ise shayad thoda zyada saaf taur par rakhne ke liye: koi bhi hamla ya doosra operation CHENG hai, jispar dushman ne apna dhyan kendrit kiya hai; jabki woh CH`I hai, jo use surprise se leta hai ya kisi a-pratyashit kshetra se aata hai. Agar dushman kisi aise movement ko samajhta hai jiska matlab CH`I hona hai, toh yeh turant CHENG ban jata hai.]
+
+4. Ki aapki sena ka prabhav ek anda (egg) par patke gaye grindstone (silautte) ki tarah ho sakta hai - yeh weak points aur strong ki science dwara prabhavit hota hai.
+5. Sabhi ladaiyon mein, battle mein shamil hone ke liye direct method ka upayog kiya ja sakta hai, lekin jeet surakshit karne ke liye indirect methods ki zaroorat hogi.
+
+[Chang Yu kehte hain: "Dushman ke flanks ko pounding karke ya uske rear par girakar lagatar indirect tactics viksit karein." "Indirect tactics" ka ek shaandar udaharan jisne ek campaign ke bhagya ka faisla kiya second Afghan war mein Peiwar Kotal ke aas-pas Lord Roberts ka night march tha. [1]]
+
+6. Indirect tactics, kushal roop se laagu kiye gaye, Heaven aur Earth ki tarah a-santusht (inexhaustible) hain, nadiyon aur streams ke bahav ki tarah a-nyaypoorn (unending) hain; suraj aur chaand ki tarah, woh khatam hote hain lekin naye sir se shuru hone ke liye; chaar mausamon ki tarah, woh ek baar phir lautne ke liye guzar jaate hain.
+
+[Tu Yu aur Chang Yu ise CH`I aur CHENG ke permutations ke roop mein samajhte hain. Lekin filhaal Sun Tzu CHENG ke baare mein bilkul nahi bol rahe hain, jab tak ki hum Cheng Yu-hsien ke sath yeh na maan lein ki isse sambandhit ek clause text se gir gaya hai. Beshak, jaise pehle hi ishara kiya ja chuka hai, dono sabhi military operations mein itne a-suljhe roop se bune hue hain ki unhe vaastav mein alag vichar nahi kiya ja sakta. Yahan hamare paas ek bade leader ke lagbhag anant resource ka, alankarik bhasha (figurative language) mein, simply ek abhivyakti hai.]
+
+7. Paanch se zyada musical notes nahi hain, phir bhi in paanchon ke combinations aise melodies ko janam dete hain jinhe kabhi suna ja sakta hai usse zyada.
+8. Paanch se zyada primary colors (neela, peela, laal, safed, aur kaala) nahi hain, phir bhi combination mein woh itne hues produce karte hain jinhe kabhi dekha ja sakta hai usse zyada.
+9. Paanch se zyada cardinal tastes (khatta, kadva, namkeen, meetha, kashaay/tikha) nahi hain, phir bhi unke combinations aise flavors produce karte hain jinhe kabhi chakha ja sakta hai usse zyada.
+10. Battle mein, hamle ke do se zyada methods nahi hain - direct aur indirect; phir bhi combination mein yeh do maneuvers ki ek anant shrinkhla ko janam dete hain.
+11. Direct aur indirect ek ke baad ek ek doosre ki taraf le jaate hain. Yeh ek circle mein ghoomne jaisa hai - aap kabhi ant tak nahi pahonchte. Unke combination ki sambhavnaon ko kaun khatam kar sakta hai?
+12. Sainikon ka hamla ek torrent (teez dhaar) ke rush jaisa hai jo apne raste mein pattharon ko bhi baha le jayega.
+13. Faisle (decision) ki quality ek falcon (baaz) ki sahi samay par maari gayi jhapatta (well-timed swoop) jaisi hai jo ise apne shikaar par prahar karne aur use nasht karne mein saksham banati hai.
+
+[Yahan Chinese tricky hai aur jis context mein iska upayog kiya gaya hai usme ek nishchit key word translator ke sabse behtareen prayason ko chunauti deta hai. Tu Mu is shabd ko "doori ka mapan ya anuman" ke roop mein paribhashit karte hain. Lekin yeh matlab ss. 15 mein darshaye gaye simile mein poori tarah se fit nahi baithta. Falcon par is definition ko laagu karte hue, yeh mujhe SELF RESTRAINT ki us instinct ko darshata lagta hai jo pakshi ko sahi moment tak apne shikaar par jhapattne se rokta hai, us moment ke hone ka anuman lagane ki taqat ke sath. Sainikon mein isi tarah ki quality unki fire ke us instant tak reserve karne mein saksham hone ki atyadhik mahatvapurna quality hai jispar yeh sabse zyada prabhavshali hogi. Jab "Victory" Trafalgar mein behne ki gati se zyada par action mein gayi, toh woh ek single gun se jawab dene se pehle kai minutes tak shot aur shell ke toofan se exposed rahi. Nelson ne shanti se tab tak intazar kiya jab tak woh close range mein nahi the, jab unhone jis broadside ko laaya usne dushman ke sabse paas ke ships par bhayanak tabaahi machayi.]
+
+14. Isliye achha fighter apne hamle mein bhayanak hoga, aur apne faisle mein teez.
+
+[Shabd "decision" ka sandarbh upar bataye gaye doori ke mapan se hoga, prahar karne se pehle dushman ko paas aane dena. Lekin main madad nahi kar sakta balki yeh sochne se ki Sun Tzu ka matlab humare apne idiom "short and sharp" ke barabar alankarik arth mein shabd ka upayog karna tha. Cf. Wang Hsi ka note, jo falcon ke hamle ke mode ka varnan karne ke baad, aage badhta hai: "Yeh bilkul waise hi hai jaise war mein 'psychological moment' ko pakda jana chahiye."]
+
+15. Energy ko ek crossbow ke jhukne ke samaan mana ja sakta hai; decision ko, trigger par ungli ke release hone ke samaan.
+
+[Commentators mein se koi bhi energy ke simile aur crossbow mein jama ki gayi force ke asli point ko pakadta hua nahi lagta jab tak ki trigger par ungli dwara release na kiya jaye.]
+
+16. Battle ke turmoil aur tumult ke beech, lagne wala a-vyavastha (disorder) ho sakta hai aur phir bhi koi vaastavik a-vyavastha bilkul nahi; confusion aur chaos ke beech, aapka array bina head ya tail ke ho sakta hai, phir bhi yeh haar ke khilaf proof hoga.
+
+[Mei Yao-ch`en kehte hain: "Sena ke sub-divisions pehle se fixed hone par, aur vividh signals par sehamati hone par, alag hona aur judna, bikharna aur ik इकट्ठा hona jo battle ke dauran hoga, a-vyavastha ka roop de sakta hai jab koi vaastavik a-vyavastha sambhav na ho. Aapka formation bina head ya tail ke ho sakta hai, aapki dispositions poori tarah se topsy-turvy, aur phir bhi aapki forces ka ek rout bilkul sawaal se baahar."]
+
+17. Simulated disorder perfect discipline ko postulate karta hai, simulated fear courage ko postulate karta hai; simulated weakness strength ko postulate karta hai.
+
+[Translation ko samajhne yogya banane ke liye, original ke teevra paradoxical roop ko thoda kam karna zaroori hai. Ts`ao Kung apne chhote note mein arth ka ek hint phenkte hain: "Yeh sabhi cheezein formation ko nasht karne aur apni sthiti ko chhipane ka kaam karti hain." Lekin Tu Mu pehle hain jo ise poori tarah se saaf taur par rakhte hain: "Agar aap dushman ko lubhane ke liye confusion ka naatak karna chahte hain, toh aapke paas pehle perfect discipline hona chahiye; agar aap dushman ko phasaane ke liye timidity pradarshit karna chahte hain, toh aapke paas extreme courage hona chahiye; agar aap dushman ko atyadhik aatmatv-vishwasu banane ke liye apni kamzori ka pradarshan karna chahte hain, toh aapke paas exceeding strength honi chahiye."]
+
+18. A-vyavastha ke cloak ke neeche order ko chhipana simply sub-division ka ek prashn hai;
+
+[Dekhein supra, ss. 1.]
+
+timidity ke show ke tehat courage ko chhipana latent energy ke ek fund ko presuppose karta hai;
+
+[Commentators yahan ek nishchit Chinese shabd ko is chapter mein kahin aur se alag sakhti se samajhte hain. Is tarah Tu Mu kehte hain: "Yeh dekhte hue ki hum anukool sthiti mein hain aur phir bhi koi move nahi karte, dushman vishwās karega ki hum sach mein darte hain."]
+
+kamzori se taqat ko mask karna tactical dispositions dwara prabhavit kiya jana hai.
+
+[Chang Yu Kao Tsu, pehle Han Emperor ki nimnlikhit anecdote relate karte hain: "Hsiung-nu ko kuchalne ki ichha rakhte hue, unhone unki sthiti par report karne ke liye spies bheje. Lekin Hsiung-nu ne, pehle se chetavani praapt karke, apne sabhi able-bodied mardon aur achhi tarah se khilaye gaye ghodon ko dhyan se chhipaya, aur sirf infirm sainikon aur emaciated maveshiyon ko dekhe jaane ki anumati di. Parinaam yeh hua ki spies ne ek aur sabhi ne Emperor ko apna hamla deliver karne ki sifarish ki. Sirf Lou Ching ne unka virodh kiya, kehte hue: 'Jab do desh war mein jaate hain, toh woh swabhavik roop se apni taqat ka ostentatious display karne ke prati jhukte hain. Phir bhi hamare spies ne boorhaapa aur infirmity ke alawa kuch nahi dekha hai. Yeh nischit roop se dushman ki taraf se koi chal hai, aur hamare liye hamla karna a-samajhdari hoga.' Emperor ne, halanki, is salah ko nazar-andaz karte hue, trap mein gir gaye aur Po-teng mein khud ko ghera hua paaya."]
+
+19. Is tarah woh jo dushman ko move par rakhne mein kushal hai deceitful appearances ko banaye rakhta hai, jiske anusar dushman kaam karega.
+
+[Ts`ao Kung ka note hai "Kamzori aur kami ka display karein."   Tu Mu kehte hain: "Agar hamara force dushman ke muqable ucha hota hai, toh use lubhane ke liye kamzori ko simulate kiya ja sakta hai; lekin agar neeche ho, toh use yeh vishwās dilaaya jana chahiye ki hum majboot hain, taaki woh door rahe. Asal mein, dushman ke sabhi movements un signs dwara tay kiye jaane chahiye jinhe hum use dene ke liye chunte hain." Sun Pin, Sun Wu ke ek descendant ki nimnlikhit anecdote par dhyan dein: 341 B.C. mein, Ch`i State Wei ke sath war mein hone par, T`ien Chi aur Sun Pin ko general P`ang Chuan ke khilaf bheja, jo baad wale ka ek deadly personal enemy tha. Sun Pin ne kaha: 'Ch`i State ke paas buzdili ki pratishtha hai, aur isliye hamara adversary humse nafrat karta hai. Aayein is paristhiti ko account mein lein.'   Tadanusaar, jab sena ne Wei territory mein border paar kiya, toh unhone pehli raat 100,000 fires, agli raat 50,000, aur uske agli raat sirf 20,000 dikhane ke orders diye. P`ang Chuan ne unka tezi se peechha kiya, khud se kehte hue: 'Main jaanta tha Ch`i ke yeh mard buzdil the: unki sankhya pehle hi aadhe se zyada ghat gayi hai.' Apne retreat mein, Sun Pin ek sankuchit darre (defile) par aaye, jiske baare mein unhone hisaab lagaya ki unke pursuers andhera hone ke baad pahonchenge. Yahan unhone ek ped ki chhaal utarwayi, aur uspar yeh shabd likhwaye: 'Is ped ke neeche P`ang Chuan marega.'
+
+Phir, jaise hi raat dhalne lagi, unhone paas hi jhaadiyon mein archers ke ek majboot body ko ambush mein rakha, jaise hi unhone ek roshni dekhi seedhe shoot karne ke orders ke sath. Baad mein, P`ang Chuan us jagah pahonche, aur ped ko dekhte hue, uspar jo likha tha use padhne ke liye ek roshni jalayi. Unka sharir turant teeron ke ek volley dwara riddling kar diya gaya, aur unki poori sena confusion mein phenk di gayi. [Upar di gayi kahani Tu Mu ka story ka version hai; *SHIH CHI*, kam naatakiya lekin shayad zyada aitihasik sachai ke sath, P`ang Chuan ko apni sena ke rout ke baad, niraasha ke ek udgar ke sath apna gala khud kaatne ke roop mein banata hai.]]
+
+Woh kuch sacrifice karta hai, taaki dushman use pakad sake.
+
+20. Baaits (chara) pakadkar, woh use march par rakhta hai; phir picked mardon ke ek body ke sath woh uske liye intazar mein rehta hai.
+
+[Li Ching dwara sujhave gaye ek sodhan ke sath, yeh phir padha jata hai, "Woh apne sainikon ke mukhya body ke sath intazar mein rehta hai."]
+
+21. Chatur combatant combined energy ke prabhav ko dekhta hai, aur vyaktiyon se bahut zyada ki maang nahi karta.
+
+[Tu Mu kehte hain: "Woh sabse pehle bulk mein apni sena ki taqat par vichar karta hai; baad mein woh vyaktigat talent ko account mein leta hai, aur har mard ko uski kshamtahon ke anusar upayog karta hai. Woh untalented se perfection ki maang nahi karta."]
+
+Isliye sahi mardon ko chunne aur combined energy ka upayog karne ki uski kshamta.
+
+22. Jab woh combined energy ka upayog karta hai, toh uske fighting men maano rolling logs ya stones ki tarah ho jaate hain. Kyunki log ya stone ki prakriti level ground par nishkriya rehna hai, aur slope par hone par move karna hai; agar chaar-kooniya (four-cornered) ho, toh ek sthirta par aana, lekin agar round-shaped ho, toh neeche roll karte hue jana.
+
+[Ts`au Kung ise "natural ya inherent power ka upayog" kehte hain.]
+
+23. Is tarah achhe fighting men dwara viksit energy hazaaron feet uanchai ke pahaad se neeche roll kiye gaye ek round stone ke momentum ki tarah hai. Energy ke vishay par itna hi.
+
+[Tu Mu ke opinion mein, is chapter ka mukhya sabak war mein rapid evolutions aur sudden rushes ka atyadhik mahatva hai. "Bade parinaam," woh jodte hain, "chhote forces ke sath is tarah haasil kiye ja sakte hain."]
