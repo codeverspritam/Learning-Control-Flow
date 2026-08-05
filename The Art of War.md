@@ -337,3 +337,70 @@ Agar uski forces ekrat (united) hain, toh unhe alag karein.
 Jo general ladai haarta hai woh pehle se bahut kam calculations karta hai. Is tarah kai calculations jeet ki taraf le jaate hain, aur kam calculations haar ki taraf: kitna zyada koi calculation nahi bilkul! Is point par dhyan dene se hi main purvanuman laga sakta hoon ki kaun jeetne ya haarne ki sambhavna rakhta hai.
 
 [1] Sir W. Fraser dwara "Words on Wellington".
+
+---
+
+# II. WAGING WAR (II. YUDDH LADNA)
+
+[Ts`ao Kung ke paas note hai: "Jo yuddh ladna chahta hai use pehle keemat ginni chahiye," jo humein is khoj ke liye taiyar karta hai ki chapter ka vishay woh nahi hai jiski hum title se umeed kar sakte hain, balki mool roop se tareeqon aur saadhanon (ways and means) par vichar hai.]
+
+1. Sun Tzu ne kaha: War ke operations mein, jahan maidaan mein ek hazaar swift chariots, utne hi heavy chariots, aur ek laakh mail-clad soldiers hon,
+
+["Swift chariots" halke bane hue the aur, Chang Yu ke anusar, hamle ke liye upayog kiye jaate the; "heavy chariots" zyada bhaari the, aur suraksha ke uddeshyon ke liye design kiye gaye the. Li Ch`uan, yeh sach hai, kehte hain ki baad wale halke the, lekin yeh shayad hi sambhav lagta hai. Shuruati Chinese warfare aur Homeric Greeks ke beech ki taamsheelon ko note karna aakarshak hai. Har maamle mein, war-chariot mahatvapurna karak tha, kyunki isne woh nucleus banaya jiske aaspas foot-soldiers ki ek nishchit sankhya ko samoohit kiya gaya tha. Yahan di gayi sankhyaon ke sambandh mein, humein soochit kiya jata hai ki har swift chariot ke sath 75 footmen the, aur har heavy chariot ke sath 25 footmen, taaki poori sena ek hazaar battalions mein baanti jaye, har ek mein do chariots aur ek sau mard shamil hon.]
+
+unhe ek hazaar LI tak le jaane ke liye paryapt rasad (provisions) ke sath,
+
+[1 mile mein 2.78 modern LI hote hain. Lambai Sun Tzu ke samay se thodi alag rahi ho sakti hai.]
+
+ghar par aur front par hone wala kharcha, mehmanon ka satkar, gond (glue) aur paint jaise chhote saman, aur chariots aur armor par kharcha ki gayi rakam shamil karke, prati din ek hazaar ounces silver ke kul tak pahonchega. Ek laakh mardon ki sena khadi karne ki keemat aisi hoti hai.
+
+2. Jab aap actual fighting mein shamil hote hain, agar jeet aane mein lambi hai, toh mardon ke weapons dull ho jaayenge aur unka utsah (ardor) dhima pad jayega. Agar aap kisi shehar ka gheraav karte hain, toh aap apni taqat ko thaka denge.
+3. Phir se, agar campaign lamba khinchta hai, toh State ke resources is dabaav ke barabar nahi honge.
+4. Ab, jab aapke weapons dull ho jaate hain, aapka utsah dhima pad jata hai, aapki taqat thak jaati hai aur aapka khazana kharch ho jata hai, toh doosre chieftains aapki atyadhik sthiti (extremity) ka faayda uthane ke liye ubhar aayenge. Tab koi aadmi, chahe kitna bhi samajhdar kyun na ho, un parinaamon ko rokne mein saksham nahi hoga jo zaroor honge.
+5. Is tarah, yadyapi humne war mein bewakoofana tezi (stupid haste) ke baare mein suna hai, chaturai ko kabhi bhi lambe vilamb (long delays) ke sath juda hua nahi dekha gaya hai.
+
+[Yeh concise aur kathin sentence commentators mein se kisi dwara bhi achhi tarah se nahi samjaya gaya hai. Ts`ao Kung, Li Ch`uan, Meng Shih, Tu Yu, Tu Mu aur Mei Yao-ch`en ke paas is ashay ke notes hain ki ek general, swabhavik roop se bewakoof hone par bhi, tezi ki sheer taqat ke zariya jeet sakta hai. Ho Shih kehte hain: "Tezi bewakoofana ho sakti hai, lekin kisi bhi tarah yeh energy aur khazane ke kharche ko bachati hai; lambe operations bahut chatur ho sakte hain, lekin woh apne sath musibat laate hain." Wang Hsi yeh tippani karke kathinai se bachte hain: "Lambe operations ka matlab hai sena ka boorha hona, daulat ka kharch hona, ek khali khazana aur logon ke beech dukh; asli chaturai aisi musibaton ke hone se bachati hai." Chang Yu kehte hain: "Jab tak jeet haasil ki ja sakti hai, chaturai bhari deri ke muqable bewakoofana tezi pasandida hai."
+
+Ab Sun Tzu kuch nahi kehte, sivaay shayad ishare se, ki bina vichar ki gayi tezi chalak lekin lambe operations se behtar hai. Woh jo kehte hain woh kaafi zyada surakshit hai, yaani ki, jabki speed kabhi-kabhi a-samajhdarana ho sakti hai, deri kabhi bhi bewakoofana ke alawa kuch nahi ho sakti -- agar sirf isliye kyunki iska matlab rashtra ke liye gareebi hai. Sun Tzu dwara yahan uthaye gaye point par vichar karte waqt, Fabius Cunctator ka classic udaharan apariharyata roop se dimaag mein aayega. Us general ne jaan-boojhkar Rome ke endure karne ki kshamta ko Hannibal ki alag-thalag sena ke khilaf naapa, kyunki use laga ki baad wale ko ek an-jaan desh mein lambe campaign se peedit hone ki zyada sambhavna thi. Lekin yeh poori tarah se ek vivadaaspad prashn hai ki kya unke tactics lambe daur mein kamyab sabit hue hote. Unka ulatna sach hai, Cannae ki taraf le gaya; lekin yeh sirf unke paksh mein ek negative anuman sthapit karta hai.]
+
+6. Aisa koi udaharan nahi hai jahan kisi desh ko lambi warfare se labh hua ho.
+7. Yeh sirf wohi hai jo war ki buraiyon se poori tarah se parichit hai jo ise aage badhane ke labhdayak tareeqe ko poori tarah se samajh sakta hai.
+
+[Yaani, tezi ke sath. Sirf wohi jo lambe yuddh ke vinashkari prabhavon ko jaanta hai ise ant tak lane mein tezi ke atyadhik mahatva ko realize kar sakta hai. Sirf do commentators is vyakhya ka paksh lete lagte hain, lekin yeh context ke logic mein achhi tarah se fit baithta hai, jabki yeh rendering, "Jo war ki buraiyon ko nahi jaanta woh iske labhon ki sarahana nahi kar sakta," saaf taur par arth-heen hai.]
+
+8. Kushal soldier doosra levy nahi uthata, na hi uske supply-wagons do baar se zyada load kiye jaate hain.
+
+[Ek baar war declare ho jaane par, woh reinforcements ka intazar karne mein keemti samay barbaad nahi karega, na hi woh naye supplies ke liye apni sena ko wapas bheje ga, balki bina kisi vilamb ke dushman ki sarhad ko paar karta hai. Yeh sifarish karne ke liye ek sahasik policy lag sakti hai, lekin sabhi bade strategists ke sath, Julius Caesar se lekar Napoleon Bonaparte tak, samay ka mulya -- yaani, apne opponent se thoda aage hona -- numerical superiority ya commissariat ke sambandh mein sabse behtareen calculations dono se zyada maayne rakhta hai.]
+
+9. Ghar se apne sath war material laayein, lekin dushman par forage (charai) karein. Is tarah sena ke paas apni zarooraton ke liye paryapt khana hoga.
+
+[Yahan "war material" ke roop mein translate kiya gaya Chinese shabd shabdash "upayog ki jaane wali cheezein" ka matlab rakhta hai, aur iska matlab sabse vyapak arth mein hai. Isme rasad ko chhodkar sena ka saara saamaan (impedimenta) shamil hai.]
+
+10. State khazane ki gareebi ke kaaran sena ko door se contributions dwara banaye rakha jata hai. Door se sena ko banaye rakhne mein yogdan dene se log gareeb ho jaate hain.
+
+[Is sentence ki shuruat agle ke sath uchit roop se balance nahi karti hai, yadyapi spasht roop se aisa karne ke liye intended hai. Iske alawa, arrangement itna a-sahaj hai ki main text mein kisi corruption ka sandeh kiye bina nahi reh sakta. Chinese commentators ko kabhi aisa nahi lagta ki arth ke liye koi sodhan zaroori ho sakta hai, aur humein wahan se koi madad nahi milti. Sun Tzu ne logon ki gareebi ke kaaran ko darshane ke liye jin Chinese shabdon ka upayog kiya unka saaf taur par kisi aisi pranali se sandarbhit hai jiske dwara kisaanon ne apne makki ke yogdan seedhe sena ko bhej diye. Lekin unpar is tarah se sena ko banaye rakhne ka bojh kyun padna chahiye, sivaay iske ki State ya Government aisa karne ke liye bahut gareeb hai?]
+
+11. Doosri taraf, sena ki nikatta ke kaaran keematein upar jaati hain; aur uchi keematein logon ke tatva (substance) ko bahaye jaane ka kaaran banti hain.
+12. Jab unka tatva bahaya jata hai, toh kisaan bhaari exactions dwara peedit honge.
+
+13, 14. Tatva ke is nuksan aur taqat ki thakavat ke sath, logon ke ghar poori tarah se khali ho jaayenge, aur unki aamdani ka teen-dasvaan hissa (3/10) nasht ho jayega;
+
+[Tu Mu aur Wang Hsi sehamat hain ki logon se unki aamdani ka 3/10 nahi, balki 7/10 chheen liya jata hai. Lekin ise hamare text se nikalna kathin hai. Ho Shih ke paas ek characteristic tag hai: "PEOPLE ko State ka aavashyak hissa, aur FOOD ko logon ka heaven maane jaane par, kya yeh sahi nahi hai ki authority mein maujood logon ko dono ka mulya dena chahiye aur saavdhan rehna chahiye?"]
+
+jabki toote hue chariots, thake hue ghodon, breastplates aur helmets, bows aur arrows, spears aur shields, protective mantles, draught-oxen aur heavy wagons ke liye sarakari kharche iski kul aamdani ka chaar-dasvaan hissa (4/10) honge.
+
+15. Isliye ek samajhdar general dushman par forage karne ka point banata hai. Dushman ke rasad ka ek cartload apne khud ke bees (20) ke barabar hota hai, aur isi tarah uske charai ka ek PICUL apne khud ke store se bees (20) ke barabar hota hai.
+
+[Kyunki front par ek cartload transport karne ki prakriya mein bees cartloads khap jaayenge. Ek PICUL 133.3 pounds (65.5 kilograms) ke barabar naap ki ek unit hai.]
+
+16. Ab dushman ko maarne ke liye, hamare mardon ko gusse mein uttejit kiya jana chahiye; taaki dushman ko harane se labh ho sake, unke paas unke inaam hone chahiye.
+
+[Tu Mu kehte hain: "Sainikon ko dushman ko harane ka labh dikhane ke liye inaam zaroori hain; is tarah, jab aap dushman se spoils capture karte hain, toh unka upayog inaam ke roop mein kiya jana chahiye, taaki aapke sabhi mardon ke paas ladne ki teevra ichha ho, har ek ke apne hisaab par."]
+
+17. Isliye chariot fighting mein, jab das ya doosre chariots le liye gaye hon, toh unhe inaam diya jana chahiye jinhone pehla liya. Hamare apne jhande dushman ke jhandon ke liye substitute kiye jaane chahiye, aur chariots ko hamare sath milakar aur sahyog mein upayog kiya jana chahiye. Bandi banaye gaye sainikon ke sath dhyalu vyavhaar kiya jana chahiye aur rakha jana chahiye.
+18. Ise kaha jata hai, apni khud ki taqat ko badhane ke liye jeete hue dushman ka upayog karna.
+19. Yuddh mein, phir, apna bada uddeshya jeet hone dein, lambe campaigns nahi.
+
+[Jaise Ho Shih tippani karte hain: "War koi aisi cheez nahi hai jiske sath khilvaad kiya jaye." Sun Tzu yahan mukhya sabak ko dohraate hain jise yeh chapter laagu karne ke liye intended hai.]
+
+20. Is tarah yeh jaana ja sakta hai ki senayon ka leader logon ke bhagya ka faisla karne wala hai, woh aadmi jispar yeh nirbhar karta hai ki rashtra shanti mein hoga ya khatre mein.
