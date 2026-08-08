@@ -1005,4 +1005,106 @@ Kisi niraash (desperate) foe ko bahut zyada sakhti se press na karein.
 
 ---
 
-I hope this complete, line-by-line Hinglish translation of Chapter VII helps you understand the text thoroughly! Let me know if you would like me to proceed with the subsequent chapters.
+# VIII. VARIATION IN TACTICS (VIII. TACTICS MEIN BADLAV / VIVIDHTA)
+
+[Heading ka shabdash matlab hai "The Nine Variations," lekin jaise ki Sun Tzu inka enumeration karta hua nahi dikhta, aur jaise ki, vaastav mein, unhone pehle hi humein bataya hai (V SS. 6-11) ki ordinary course se aise deflections vyavaharik roop se a-sankhya hain, hamare paas Wang Hsi ka palan karne ke alawa thoda vikalp hai, jo kehte hain ki "Nine" ek anishchit roop se badi sankhya ko darshata hai. "Iska saara matlab yeh hai ki warfare mein humein apne tactics ko adhikatam degree tak vary karna chahiye.... Mujhe nahi pata ki Ts`ao Kung in Nine Variations ko kya banate hain, lekin yeh sujhav diya gaya hai ki woh Nine Situations se jude hue hain"
+
+* chapt. XI ke. Yeh Chang Yu dwara apnaya gaya drishtikon hai. Akela doosra vaikalpik yeh maanana hai ki kuch khogaya hai--ek anuman jise chapter ki ashamanya chhota-pan kuch vazan deta hai.]
+
+1. Sun Tzu ne kaha: War mein, general sovereign se apne aadesh praapt karta hai, apni sena ko ik इकट्ठा karta hai aur apni forces ko kendrit karta hai.
+
+[VII. ss. 1 se dohraaya gaya, jahan yeh nischit roop se jagah par zyada hai. Yeh yahan sirf chapter ko ek shuruat pradan karne ke liye interpolate kiya gaya ho sakta hai.]
+
+2. Jab kathin desh mein hon, toh camp na lagayein. Aise desh mein jahan mukhya raaste (high roads) intersect karte hain, apne allies ke sath haath milayein. Khatarnak roop se alag-thalag (isolated) positions mein mat tikein.
+
+[Aakhri sthiti chap. XI ke shuruat mein di gayi Nine Situations mein se ek nahi hai, lekin baad mein aati hai (ibid. ss. 43. q.v.). Chang Yu is sthiti ko border ke paar, hostile territory mein sthit hone ke roop mein paribhashit karte hain. Li Ch`uan kehte hain ki yeh "aisa desh hai jismein koi jharne ya kuen, jhund ya maveshi, sabziyan ya lakdi nahi hai;" Chia Lin, "gorges, chasms aur precipices mein se ek, aage badhne ke liye raaste ke bina."]
+
+Hemmed-in (ghere hue) sthitiyon mein, aapko stratagem ka sahara lena chahiye. Desperate position mein, aapko ladna chahiye.
+
+3. Aise raaste hain jinaka palan nahi kiya jana chahiye,
+
+["Vishesh roop se woh jo sankuchit darron (defiles) se hokar le jaate hain," Li Ch`uan kehte hain, "jahan ek ambush ka darr hota hai."]
+
+aisi senayein hain jinpar hamla nahi kiya jana chahiye,
+
+[Zyada sahi taur par, shayad, "aise samay hote hain jab sena par hamla nahi kiya jana chahiye." Ch`en Hao kehte hain: "Jab aap ek rival advantage haasil karne ka apna raasta dekhte hain, lekin ek asli haar thopne mein a-saksham hain, toh apne mardon ki taqat par atyadhik dabaav daalne ke darr se, hamla karne se parhez karein."]
+
+aise towns hain jinpar gheraav nahi daala jana chahiye,
+
+[Cf. III. ss. 4 Ts`ao Kung apne anubhav se ek aakarshak illustration dete hain. Hsu-chou ki territory par hamla karte waqt, unhone Hua-pi shehar ko nazar-andaz kar diya, jo seedhe unke raste mein padta tha, aur desh ke kendra mein aage badhe. Is behtareen strategy ko baad mein chaudah (14) se kam mahatvapurna district cities par kabza karke inaam diya gaya tha. Chang Yu kehte hain: "Kisi aise town par hamla nahi kiya jana chahiye jise, agar liya jaye, toh sambhala nahi ja sakta, ya agar akele chhod diya jaye, toh koi pareshani paida nahi karega."
+
+Hsun Ying ne, jab Pi-yang par hamla karne ke liye majboor kiya gaya, toh jawab diya: "Shehar chhota hai aur achhi tarah se fortified hai; agar main ise lene mein kamyab bhi ho jata hoon, toh yeh arms ka koi bada kaarnama nahi hoga; jabki agar main asafal hota hoon, toh main khud ko ek mazaak bana loonga." Seventeenth century mein, gheraav abhi bhi war ka ek bada anupaat banate the. Yeh Turenne the jinhone marches, countermarches aur maneuvers ke mahatva par dhyan kendrit kiya. Unhone kaha: "Kisi shehar ko lene mein mardon ko barbaad karna ek badi galati hai jab sainikon ka wahi kharcha ek province haasil karega." [1]]
+
+aisi positions hain jinpar dispute nahi kiya jana chahiye, sovereign ke aise commands hain jinaka palan nahi kiya jana chahiye.
+
+[Yeh Chinese ke liye authority ke prati unke satkar ke sath ek kathin kehna hai, aur Wei Liao Tzu (Tu Mu dwara quoted) udgar karne ke liye majboor hota hai: "Weapons baneful instruments hain, sangharsh sadgun ke virodhi hai, ek military commander civil order ka negation hai!" Phir bhi a-swadist tathya bana rehta hai, ki Imperial wishes ko bhi military necessity ke subordinate kiya jana chahiye.]
+
+4. General jo tactics ke badlav ke sath aane wale labhon ko poori tarah se samajhta hai woh apne sainikon ko sambhalna jaanta hai.
+5. General jo inhein nahi samajhta, woh desh ke configuration se achhi tarah se parichit ho sakta hai, phir bhi woh apne gyaan ko practical account mein badalane mein saksham nahi hoga.
+
+[Shabdash, "zamain ka faayda haasil karein," jiska matlab na sirf achhi positions surakshit karna hai, balki har sambhavid tareeqe se praakritik labhon ka upayog karna hai. Chang Yu kehte hain: "Har prakar ki zameen nishchit praakritik features dwara vishisht hoti hai, aur plan ki ek nishchit lachilapan (variability) ke liye scope bhi deti hai. Topographical gyaan ko dimaag ki lachilapan (versatility) dwara supplement kiye bina in praakritik features ko account mein badalna kaise sambhav hai?"]
+
+6. So, war ka student jo apne plans ko vary karne ki war ki art mein unversed hai, bhale hi woh Five Advantages se parichit ho, apne mardon ka sabse behtareen upayog karne mein asafal rahega.
+7. Isliye samajhdar leader ke plans mein, labh (advantage) aur nuksan (disadvantage) ke vicharon ko ek sath blend kiya jayega.
+
+["Chahe ek labhdayak position mein hon ya ek nuksandayak mein," Ts`ao Kung kehte hain, "vipreet sthiti hamesha aapke dimaag mein maujood honi chahiye."]
+
+8. Agar labh ki hamari umeed ko is tarah se tempered kiya jata hai, toh hum apne schemes ke aavashyak hisse ko poora karne mein kamyab ho sakte hain.
+
+[Tu Mu kehte hain: "Agar hum dushman se ek faayda chheen-na chahte hain, toh humein sirf us par apna dhyan kendrit nahi karna chahiye, balki dushman ke bhi humein kuch nuksan pahonchane ki sambhavna ko allow karna chahiye, aur ise apne calculations mein ek factor ke roop mein pravesh karne dena chahiye."]
+
+9. Agar, doosri taraf, kathinaaiyon ke beech hum hamesha ek faayda pakadne ke liye taiyar rehte hain, toh hum khud ko musibat se nikaal (extricate) sakte hain.
+
+[Tu Mu kehte hain: "Agar main khud ko ek khatarnak position se nikaalna chahta hoon, toh mujhe na sirf mujhe nuksan pahonchane ki dushman ki kshamta par vichar karna chahiye, balki dushman par faayda haasil karne ki meri apni kshamta par bhi. Agar mere counsels mein yeh do vichar uchit roop se blended hain, toh main khud ko mukt karne mein kamyab ho jaunga.... Udaharan ke liye; agar main dushman se ghera hua hoon aur sirf ek escape karne ke baare mein sochta hoon, toh meri policy ki nervelessness mere adversary ko mera peechha karne aur mujhe kuchalne ke liye incite karegi; mere mardon ko ek bold counter-attack deliver karne ke liye encourage karna, aur is tarah praapt labh ka upayog khud ko dushman ke toils se mukt karne ke liye karna kahin behtar hoga."
+
+Dekhein Ts`ao Ts`ao ki story, VII. ss. 35, note.]
+
+10. Hostile chiefs ko unpar nuksan (damage) thop kar kam karein;
+
+[Chia Lin is nuksan ko thopne ke kai tareeqon ko enumerate karte hain, jinmein se kuch sirf Oriental mind ko sujhange:--"Dushman ke sabse behtareen aur sabse samajhdar mardon ko lubhakar door le jayein, taaki woh bina counselors ke chhod diya jaye. Uske desh mein traitors ko introduced karein, taaki government policy ko vyarth banaya ja sake. Intrigue aur deceit ko badhava dein, aur is tarah ruler aur uske ministers ke beech matbhed boyein. Har chatur contrivance ke saadhan dwara, uske mardon ke beech deterioration aur uske khazane ki barbaadi ka kaaran banein. Uske morals ko insidious gifts dwara bhrasht karein jo use atyadhikata (excess) mein le jaate hain. Uske dimaag ko sundar mahilaon ke sath prastut karke pareshan aur unsettle karein."
+
+Chang Yu (Wang Hsi ke baad) yahan Sun Tzu ka ek alag vyakhya karte hain: "Dushman ko ek aisi position mein laayein jahan use nuksan sahna pade, aur woh apni marzi se submit karega."]
+
+aur unke liye pareshani (trouble) paida karein,
+
+[Tu Mu, is phrase mein, apne vyakhya mein ishara karte hain ki dushman ke liye unke "possessions," ya, jaise hum keh sakte hain, "assets" ko prabhavit karne wali pareshani paida ki jaani chahiye, jinhe woh "ek badi sena, ek samriddh khazana, sainikon ke beech samanjasya, commands ka punctual fulfillment" maante hain. Yeh humein dushman par ek whip-hand dete hain.]
+
+aur unhe lagatar vyast (engaged) rahein;
+
+[Shabdash, "unhe unka servants banayein." Tu Yu kehte hain "unhe koi aaram na karne dein."]
+
+specious allurements ko pakdein, aur unhe kisi bhi diye gaye point par tezi karne ke liye majboor karein.
+
+[Meng Shih ke note mein idiomatic upayog ka ek behtareen udaharan hai: "unhe PIEN (unke pehle impulse ke alawa doosri tarah se kaam karne ke kaaranon) ko bhoolne ka kaaran banein, aur hamari disha mein tezi karein."]
+
+11. War ki art humein dushman ke na aane ki sambhavna par nahi, balki use praapt karne ke liye hamari apni taiyari par nirbhar karna sikhati hai; uske hamla na karne ke chance par nahi, balki is tathya par ki humne apni position ko a-chhedya (unassailable) bana diya hai.
+12. Paanch khatarnak dosh (faults) hain jo ek general ko prabhavit kar sakte hain: (1) Recklessness (laaparwahi), jo vinash ki taraf le jaati hai;
+
+["Bina purva-vichar ke sahas," jaise Ts`ao Kung ise analyse karte hain, jo ek aadmi ko ek paagal saand (mad bull) ki tarah andhe aur niraashajanak roop se ladne ka kaaran banta hai. Aise opponent ka, Chang Yu kehte hain, "brute force se samna nahi kiya jana chahiye, balki use ek ambush mein lubhakar mara ja sakta hai."
+
+Cf. Wu Tzu, chap. IV. ad init.: "Ek general ke charitra ka anuman lagane mein, mard unke sahas par exclusive dhyan dene ke aadi hain, yeh bhoolte hue ki sahas un kai qualities mein se sirf ek hai jinhe ek general ko rakhna chahiye. Mamooli bahadur aadmi laaparwahi se ladne ka pravritt hota hai; aur woh jo bina kisi uchit samajh ke laaparwahi se ladta hai, use ninda kiya jana chahiye."
+
+Ssu-ma Fa ne bhi teevra tippani ki: "Simply kisi ki maut tak jana jeet nahi laata."]
+
+(2) Cowardice (buzdili), jo capture ki taraf le jaati hai;
+
+[Ts`ao Kung yahan "cowardice" ke roop mein translated Chinese shabd ko us aadmi ke roop mein paribhashit karte hain "jise timidity ek faayda pakadne ke liye aage badhne se rokti hai," aur Wang Hsi jodte hain "jo khatre ko dekhkar bhaagne mein tez hai." Meng Shih zyada paas ka paraphrase dete hain "woh jo zinda lautne par jhuka hai," yaani, woh aadmi jo kabhi risk nahi lega. Lekin, jaise Sun Tzu jaante the, war mein kuch bhi haasil nahi kiya jana hai jab tak ki aap risk lene ke liye taiyar na hon. T`ai Kung ne kaha: "Woh jo ek faayda chhootne deta hai woh baad mein khud par asli disaster layega." 404 A.D. mein, Liu Yu ne rebel Huan Hsuan ka Yangtsze par peechha kiya aur Ch`eng-hung ke island par uske sath ek naval battle lada. Vafadar sainikon ki sankhya sirf kuch hazaar thi, jabki unke opponents badi taqat mein the. Lekin Huan Hsuan ne, us bhagya se darte hue jo uske liye rakha tha agar woh overcome ho jata, apni war-junk ke side mein ek halki boat baandh di thi, taaki woh, agar zaroori ho, ek moment ke notice par bhaag sake. Praakritik parinaam yeh tha ki uske sainikon ki fighting spirit poori tarah se bujh gayi thi, aur jab vafadaron ne fireships ke sath windward se hamla kiya, sabhi fray mein pehle hone ke liye atyadhik ardor ke sath prayas karte hue, Huan Hsuan ki forces rout ho gayi thin, apne sabhi baggage ko jalana pada tha aur bina ruke do din aur raat tak bhaag gayi thin. Chang Yu Chin State ke ek general Chao Ying-ch`i ki ek aisi hi story batate hain jinhone 597 B.C. mein Ch`u ki sena ke sath battle ke dauran nadi par apne liye ek boat taiyar rakhi thi, haar ke case mein sabse pehle paar jaane ki ichha rakhte hue.]
+
+(3) A hasty temper (gussail swabhav), jise apmaanon dwara provoke kiya ja sakta hai;
+
+[Tu Mu humein batate hain ki Yao Hsing, jab 357 A.D. mein Huang Mei, Teng Ch`iang aur doosron dwara virodh kiya gaya, ne khud ko apni deewaron ke peeche band kar liya aur ladne se inkaar kar diya. Teng Ch`iang ne kaha: "Hamara adversary ek choleric temper ka hai aur aasaani se provoked hone wala hai; aayein lagatar sallies karein aur uski deewaron ko todein, phir woh gussa hoga aur baahar aayega. Ek baar jab hum uske force ko battle mein la sakte hain, toh iska hamara shikaar hona tay hai." Is plan par kaam kiya gaya, Yao Hsiang ladne ke liye baahar aaye, dushman ke naatak kiye bhaagne dwara San-yuan jitna door lubhaye gaye, aur aakhirkar hamla kiye gaye aur maare gaye.]
+
+(4) A delicacy of honor (sammaan ki naazukta) jo sharm ke prati sanvedansheel hai;
+
+[Ise yeh matlab lene ki zaroorat nahi hai ki sammaan ka ahasas vaastav mein ek general mein ek defect hai. Sun Tzu jiski ninda karte hain woh slanderous reports ke prati ek exaggerated sanvedansheel-pan hai, thin-skinned aadmi jo opprobrium dwara sting hota hai, chahe kitna bhi un-deserved kyun na ho. Mei Yao-ch`en sach mein observe karte hain, yadyapi thoda paradoxical roop se: "Glory ke peeche dhoondhne wale ko public opinion se careless hona chahiye."]
+
+(5) Over-solicitude for his men (apne mardon ke liye atyadhik chinta), jo use pareshani aur musibat mein expose karti hai.
+
+[Yahan phir se, Sun Tzu ka matlab yeh nahi hai ki general ko apne sainikon ke kalyan se careless hona chahiye. Woh jis par zor dena chahte hain woh sirf apne mardon ke tatkaalik aaram ke liye kisi mahatvapurna military advantage ko sacrifice karne ka khatra hai. Yeh ek short-sighted policy hai, kyunki lambe daur mein sainik haar se, ya, sabse behtareen sthiti mein, war ke lambe khinchni se zyada peedit honge, jo parinaam hoga. Pity ka ek galat ahasas aksar ek general ko ek beleaguered city ko relieve karne, ya ek hard-pressed detachment ko reinforce karne ke liye induce karega, uske military instincts ke vipreet. Ab yeh aam taur par swikar kiya jata hai ki South African War mein Ladysmith ko relieve karne ke hamare dohraaye gaye prayas itne saare strategical blunders the jinhone apne khud ke uddeshya ko haraya. Aur ant mein, relief usi aadmi ke zariya aayi jisne is spasht dhrid-sankalp ke sath shuruat ki thi ki ab ek hisse ke paksh mein sentiment ke liye poore ke interests ko subordinate nahi kiya jayega. Hamare ek general ke ek purane soldier jinhone is war mein sabse mukhya roop se asafal rahe, ne ek baar, mujhe yaad hai, mere samne unka bachao karne ki koshish ki is aadhar par ki woh hamesha "apne mardon ke prati itne achhe" the. Is plea dwara, agar unhe pata hota, toh woh sirf Sun Tzu ke mukh se unhe ninda kar rahe the.]
+
+13. Yeh ek general ke paanch besetting sins hain, war ke sanchalan ke liye vinashkari.
+14. Jab ek sena overthrow hoti hai aur uska leader mara jata hai, toh kaaran nischit roop se in paanch khatarnak doshon mein paaya jayega. Unhe chintan ka ek vishay banne dein.
+
+---
+
+
