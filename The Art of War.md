@@ -838,3 +838,171 @@ chaar mausam ek ke baad ek ek doosre ke liye rasta banate hain.
 Chhote din aur lambe hote hain; chaand ke paas apne waning aur waxing ke periods hote hain.
 
 [Cf. V. ss. 6. Passage ka matlab simply Nature mein lagatar hone wale badlavon dwara war mein sthirta ki kami ko darshana hai. Tulna halanki bahut khush nahi hai, kyunki Sun Tzu dwara zikr kiye gaye ghatnaon ki niyamitata (regularity) war mein kisi bhi tarah se samantar nahi hai.]
+
+---
+
+# VII. MANEUVERING (VII. MANEUVERING / CHALAAKI SE AAGE BADHNA)
+
+1. Sun Tzu ne kaha: War mein, general sovereign (samraat) se apne aadesh praapt karta hai.
+2. Ek sena ko ik इकट्ठा karne aur apni forces ko kendrit karne ke baad, use apna camp lagane se pehle iske vividh tatvon ko blend aur harmonize karna chahiye.
+
+["Chang Yu kehte hain: "field mein utarne ki himmat karne se pehle uche aur neeche ke ranks ke beech samanjasya aur vishwas ki sthapna;" aur woh Wu Tzu (chap. 1 ad init.) ke kehne ko quote karte hain: "State mein samanjasya ke bina, koi military expedition nahi kiya ja sakta; sena mein samanjasya ke bina, koi battle array nahi banaya ja sakta." Ek historical romance mein Sun Tzu ko Wu Yuan se yeh kehte hue pratinidhitv kiya gaya hai: "Ek general rule ke roop mein, jo log yuddh lad rahe hain unhe baahari dushman par hamla karne ke liye aage badhne se pehle sabhi gharelu pareshaniyon se chhutkara paana chahiye."]
+
+3. Iske baad, tactical maneuvering aati hai, jisse zyada kathin kuch nahi hai.
+
+[Maine Ts`ao Kung ki traditional vyakhya se thoda alag rasta liya hai, jo kehte hain: "Sovereign ke instructions praapt karne ke samay se jab tak hamara encampment dushman ke khilaf na ho jaye, tab tak apnaye jaane wale tactics sabse kathin hain."   Mujhe lagta hai ki tactics ya maneuvers tab tak shuru hone ke baare mein shayad hi kaha ja sakta hai jab tak sena saally forth aur encamped na ho jaye, aur Ch`ien Hao ka note is drishtikon ko rang deta hai: "Sena ko levying, kendrit, harmonizing aur entrenching karne ke liye, kaafi sare purane rules hain jo kaam karenge. Asli kathinai tab aati hai jab hum tactical operations mein shamil hote hain." Tu Yu bhi yeh observe karte hain ki "badi kathinai anukool position par kabza karne mein dushman se pehle hona hai."]
+
+Tactical maneuvering ki kathinai devious (ghumaavdar) ko direct mein, aur musibat ko labh (gain) mein badalne mein nihit hai.
+
+[Is sentence mein un atyadhik condensed aur thode enigmatical abhivyaktiyon mein se ek hai jiske Sun Tzu kaafi shauqeen hain. Is tarah Ts`ao Kung dwara ise samjaya gaya hai: "Aisa prateek karein ki aap bahut door hain, phir tezi se doori ko cover karein aur apne opponent se pehle scene par pahonchen." Tu Mu kehte hain: "Dushman ko hoodwink karein, taaki woh remiss aur leisurely ho sake jabki aap atyadhik speed se aage badh rahe hon." Ho Shih ek thoda alag turn dete hain: "Yadyapi aapke paas traverse karne ke liye kathin zameen aur samna karne ke liye praakritik rukawatein ho sakti hain, yeh ek aisa drawback hai jise movement ki tezi dwara actual advantage mein badla ja sakta hai." Is kehne ke signal examples Alps ke do prasiddh passages dwara pradan kiye jaate hain--Hannibal ka, jisne Italy ko uski daya par rakha, aur do hazaar saal baad Napoleon ka, jiska parinaam Marengo ki badi jeet mein hua.]
+
+4. Is tarah, ek lamba aur circuitous route lena, dushman ko raste se baahar lubhane ke baad, aur yadyapi uske baad shuruat karte hue, usse pehle goal tak pahonchne ka contrive karna, DEVIATION ke artifice ke gyaan ko dikhata hai.
+
+[Tu Mu 270 B.C. mein O-yu shehar ko relieve karne ke liye Chao She ke prasiddh march ko cite karte hain, jise Ch`in sena dwara gehre se invest kiya gaya tha. Chao ke King ne pehle relief ka prayas karne ki advisability par Lien P`o se consult kiya, lekin baad wale ne socha ki doori bahut zyada thi, aur beech ka desh bahut rugged aur kathin tha. His Majesty ne phir Chao She ki taraf rukh kiya, jinhone march ke hazardous swabhav ko poori tarah se swikar kiya, lekin aakhirkar kaha: "Hum ek chhed mein ladne wale do chuho ki tarah honge--aur zyada himmat wala jeetega!" Toh woh apni sena ke sath capital se nikal gaye, lekin 30 LI ki doori hi gaye the jab woh ruke aur entrenchments phenkna shuru kiya. 28 dinon tak unhone apne fortifications ko majboot karna jaari rakha, aur dhyan rakha ki spies dushman tak intelligence le jaayein. Ch`in general atyadhik khush tha, aur usne apne adversary ki tardiness ka shrey is tathya ko diya ki beleaguered city Han State mein thi, aur is tarah vaastav mein Chao territory ka hissa nahi thi. Lekin spies ke jaate hi Chao She ne do din aur ek raat tak chalne wala ek forced march shuru kiya, aur action ke scene par itni chonkane wali tezi ke sath pahonche ki woh dushman ke unke movements ki khabar paane se pehle "North hill" par ek commanding position par kabza karne mein saksham the. Ch`in forces ke liye ek karari haar hui, jinhe poori tezi mein O-yu ka gheraav uthane aur border ke paar retreat karne ke liye baadhy hona pada.]
+
+5. Ek sena ke sath Maneuvering labhdayak hai; ek undisciplined multitude ke sath, sabse khatarnak.
+
+[Main *T`UNG TIEN*, Cheng Yu-hsien aur *T`U SHU* ki reading ko apnaata hoon, kyunki woh sense banane ke liye zaroori sateek nuance ko laagu karte lagte hain. Standard text ka upayog karne wale commentators is line ko yeh matlab lene ke liye lete hain ki maneuvers labhdayak ho sakte hain, ya woh khatarnak ho sakte hain: yeh sab general ki kshamta par nirbhar karta hai.]
+
+6. Agar aap ek faayda chheen-ne ke liye march mein ek poori tarah se equipped sena set karte hain, toh chances hain ki aapko bahut der ho jayegi. Doosri taraf, uddeshya ke liye ek flying column ko detach karne mein iske baggage aur stores ka tyag shamil hai.
+
+[Chinese text ka kuch hissa Chinese commentators ke liye a-samajh-yogya hai, jo sentence ko paraphrase karte hain. Main bina kisi utsah ke apna khud ka rendering prastut karta hoon, ashwast hote hue ki text mein koi gehra corruption hai. Kul milakar, yeh saaf hai ki Sun Tzu supplies ke bina ek lambe march ke kiye jaane ko approve nahi karte hain. Cf. infra, ss. 11.]
+
+7. Is tarah, agar aap apne mardon ko unke buff-coats ko roll up karne ke liye kehte hain, aur din ya raat ruke bina forced marches karte hain, ek baar mein aam doori se do-guna cover karte hue,
+
+[Tu Mu ke anusar, aam din ka march 30 LI tha; lekin ek avsar par, Liu Pei ka peechha karte waqt, Ts`ao Kung ke baare mein kaha jata hai ki unhone twenty-four hours ke andar 300 *li* ki a-viswasniya doori cover ki thi.]
+
+ek faayda chheen-ne ke liye ek sau LI karte hue, toh aapke sabhi teen divisions ke leaders dushman ke haathon mein gir jaayenge.
+
+8. Zyada majboot mard aage honge, thake hue peeche gir jaayenge, aur is plan par aapki sena ka sirf ek-dasvaan hissa hi apni destination tak pahonchega.
+
+[Moral yeh hai, jaise Ts`ao Kung aur doosre ishara karte hain: Tactical advantage haasil karne ke liye ek sau LI march mat karein, chahe impedimenta ke sath ho ya bina. Is description ke maneuvers chhote dooriyon tak seemit hone chahiye. Stonewall Jackson ne kaha: "Forced marches ki kathinaaiyan aksar battle ke khatron se zyada dardnak hoti hain." Unhone aksar apne sainikon se ashadharan prayason ke liye aahwan nahi kiya. Yeh sirf tab tha jab unka irada ek surprise ka tha, ya jab ek teez retreat zaroori tha, ki unhone speed ke liye sab kuch sacrifice kar diya. [1]]
+
+9. Agar aap dushman ko outmaneuver karne ke liye paachas (50) LI march karte hain, toh aap apne pehle division ke leader ko kho denge, aur aapke force ka sirf aadha hissa hi goal tak pahonchega.
+
+[Shabdash, "pehle division ka leader TORN AWAY ho jayega."]
+
+10. Agar aap usi uddeshya ke sath tees (30) LI march karte hain, toh aapki sena ka do-tihaai hissa pahonchega.
+
+[*T`UNG TIEN* mein joda gaya hai: "Isse hum maneuvering ki kathinai ko jaan sakte hain."]
+
+11. Hum tab ise le sakte hain ki apne baggage-train ke bina ek sena khogayi hai; provisions ke bina yeh khogayi hai; supply ke bases ke bina yeh khogayi hai.
+
+[Mujhe lagta hai Sun Tzu ka matlab "depots mein ik इकट्ठा kiye gaye stores" tha. Lekin Tu Yu kehte hain "fodder aur is tarah ka," Chang Yu kehte hain "Aam taur par saamaan," aur Wang Hsi kehte hain "fuel, salt, foodstuffs, etc."]
+
+12. Hum tab tak alliances mein pravesh nahi kar sakte jab tak hum apne padosiyon ke designs se parichit na hon.
+13. Hum march par ek sena ka netritv karne ke liye fit nahi hain jab tak ki hum desh ke chehre se parichit na hon--iske pahaadon aur jungleon se, iske pitfalls aur precipices se, iske marshes aur swamps se.
+14. Hum praakritik labh ko account mein badalane mein a-saksham honge jab tak ki hum local guides ka upayog na karein.
+
+[ss. 12-14 chap. XI. ss. 52 mein dohraaye gaye hain.]
+
+15. War mein, dissimulation (chhal) ka abhyas karein, aur aap kamyab honge.
+
+[Turenne ke tactics mein, dushman ka dhokha, vishesh roop se uske sainikon ki numerical strength ke sambandh mein, ek bahut hi pramukh sthaan liya. [2]]
+
+16. Apne sainikon ko kendrit karna hai ya baantna hai, yeh paristhitiyon dwara tay kiya jana chahiye.
+17. Apni tezi ko hawa (wind) ki tarah hone dein,
+
+[Simile dohre roop se uchit hai, kyunki hawa na sirf teez hai balki, jaise Mei Yao-ch`en ishara karte hain, "a-drishya hai aur koi nishan nahi chhodti."]
+
+apni compactness ko jungle (forest) ki tarah.
+
+[Meng Shih apne note mein mark ke zyada paas aate hain: "Dheere march karte waqt, order aur ranks ko surakshit rakha jana chahiye"--taaki surprise attacks se guard kiya ja sake. Lekin praakritik forest rows mein nahi ugte, jabki unke paas aam taur par density ya compactness ki quality hoti hai.]
+
+18. Raiding aur plundering mein aag (fire) ki tarah rahein,
+
+[Cf. *SHIH CHING*, IV. 3. iv. 6: "Aag ki tarah bhayanak jise koi aadmi rok nahi sakta."]
+
+immovability mein pahaad (mountain) ki tarah.
+
+[Yaani, ek aisi position sambhalte waqt jisse dushman aapko dislodge karne ki koshish kar raha hai, ya shayad, jaise Tu Yu kehte hain, jab woh aapko ek trap mein lubhane ki koshish kar raha hai.]
+
+19. Apne plans ko raat ki tarah dark aur impenetrable hone dein, aur jab aap move karein, toh bijli ke kadke (thunderbolt) ki tarah girein.
+
+[Tu Yu T`ai Kung ke ek kehne ko quote karte hain jo ek kahavat mein badal gaya hai: "Aap thunder ke liye apne kaan ya lighting ke liye apni aankhein band nahi kar sakte--woh itne teez hain." Isi tarah, ek hamla itni tezi se kiya jana chahiye ki ise parry na kiya ja sake.]
+
+20. Jab aap kisi countryside ko plunder karte hain, toh spoil ko apne mardon ke beech baantein;
+
+[Sun Tzu indiscriminate plundering ke abuses ko kam karne ki ichha rakhte hain yeh zor dekar ki saari booty ek aam stock mein phenki jayegi, jise baad mein sabhi ke beech nishpakshtam roop se baanta ja sakta hai.]
+
+jab aap naye territory par kabza karte hain, toh ise soldiery ke labh ke liye allotments mein kaat dein.
+
+[Ch`en Hao kehte hain "apne sainikon ko zameen par quarter karein, aur unhe ise beejne aur podha lagane dein." Is siddhant par kaam karke, aur un zameenon ki harvesting karke jinpar unhone hamla kiya tha, Chinese apne sabhi sabse yaadgaar aur triumphant expeditions ko chalane mein kamyab hue hain, jaise Pan Ch`ao ka jo Caspian tak pravesh kar gaye the, aur haal ke saalon mein, Fu-k`ang-an aur Tso Tsung-t`ang ke.]
+
+21. Move banane se pehle vichar karein aur chintan karein.
+
+[Chang Yu Wei Liao Tzu ko yeh kehte hue quote karte hain ki humein tab tak camp nahi todna chahiye jab tak humne dushman ki resisting power aur opposing general ki chaturai haasil na kar li ho. Cf. I. ss. 13 mein "seven comparisons".]
+
+22. Woh jeetega jisne deviation ke artifice ko seekha hai.
+
+[Dekhein supra, SS. 3, 4.]
+
+Aisa hai maneuvering ka art.
+
+[In shabdon ke sath, chapter swabhavik roop se ek ant tak aayega. Lekin ab War par ek pehle ki kitaab se ek extract ke roop mein ek lamba appendix aata hai, jo ab khogaya hai, lekin saaf taur par us samay extant tha jab Sun Tzu ne likha tha. Is fragment ka style khud Sun Tzu ke style se ullekhniya roop se alag nahi hai, lekin koi commentator iski genuineness par shak nahi uthata.]
+
+23. The Book of Army Management kehta hai:
+
+[Yeh shayad mahatvapurna hai ki pehle ke commentators mein se koi bhi humein is karya ke baare mein koi jaankari nahi deta. Mei Yao-Ch`en ise "ek praacheen military classic" kehte hain, aur Wang Hsi, "war par ek purani kitaab." Sun Tzu ke samay se pehle sadiyon se China ke vividh kingdoms aur principalities ke beech chalne wali yuddh ki vishaal matra par vichar karte hue, yeh apne aap mein a-sambhavid nahi hai ki military maxims ka ek sangrah pehle ke kisi daur mein banaya aur likha gaya hoga.]
+
+Field of battle par,
+
+[Implied, yadyapi Chinese mein vaastav mein nahi.]
+
+spoken word kaafi door tak nahi pahonchta: isliye gongs aur drums ki sanstha. Na hi aam vastuon ko kaafi saaf taur par dekha ja sakta hai: isliye banners aur flags ki sanstha.
+
+24. Gongs aur drums, banners aur flags, woh saadhan hain jiske dwara host ke kaan aur aankhein kisi ek vishesh point par kendrit ki ja sakti hain.
+
+[Chang Yu kehte hain: "Agar drishti aur shravan ek hi vastu par ek sath converge hote hain, toh ten lakh (million) sainikon ke evolutions ek hi aadmi ke evolutions ki tarah honge."!]
+
+25. Host is tarah ek ekrat united body banata hai, kya yeh bahadur ke liye akele aage badhna, ya buzdil ke liye akele retreat karna asambhav hai.
+
+[Chuang Yu ek kehne ko quote karte hain: "Barabar doshi woh hain jo orders ke khilaf aage badhte hain aur woh jo orders ke khilaf retreat karte hain." Tu Mu is sambandh mein Wu Ch`i ki ek kahani batate hain, jab woh Ch`in State ke khilaf lad rahe the. Battle shuru hone se pehle, unke sainikon mein se ek, be-misaal sahas ka aadmi, khud baahar nikala, dushman se do heads capture kiye, aur camp wapas lauta. Wu Ch`i ne us aadmi ko turant execute karwaya, jispar ek officer ne remonstrate karne ki himmat ki, kehte hue: "Yeh aadmi ek achha soldier tha, aur use beheaded nahi kiya jana chahiye tha." Wu Ch`i ne jawab diya: "Main poori tarah se vishwās karta hoon ki woh ek achha soldier tha, lekin maine use beheaded karwaya kyunki usne orders ke bina kaam kiya."]
+
+Yeh bade masses ke mardon ko sambhalne ka art hai.
+
+26. Night-fighting mein, phir, signal-fires aur drums ka kaafi upayog karein, aur din mein ladte waqt, flags aur banners ka, apni sena ki aankhon aur kaanon ko prabhavit karne ke saadhan ke roop mein.
+
+[Ch`en Hao 500 mounted mardon ke head par Ho-yang ke liye Li Kuang-pi ki night ride ki taraf ishara karte hain; unhone torches ke sath itna imposing display banaya, ki yadyapi rebel leader Shih Ssu-ming ke paas ek badi sena thi, unhone unke raste par dispute karne ki himmat nahi ki.]
+
+27. Ek poori sena ko uski spirit se vanchit (robbed) kiya ja sakta hai;
+
+["War mein," Chang Yu kehte hain, "agar gusse ki spirit ek hi samay mein sena ke sabhi ranks mein phaelayi ja sakti hai, toh uska onset a-pratibandhit hoga. Ab dushman ke sainikon ki spirit sabse teez hogi jab woh scene par naye aaye hon, aur isliye hamara cue ek baar mein nahi ladna hai, balki unke utsah aur enthusiasm ke ghatne tak intazar karna hai, aur phir prahar karna hai. Yeh is tareeqe se hai ki unhe unki teez spirit se vanchit kiya ja sakta hai." Li Ch`uan aur doosre ek anecdote (jo *TSO CHUAN*, year 10, ss. 1 mein mila hai) Ts`ao Kuei ke baare mein batate hain, jo Duke Chuang of Lu ke protege the. Baad wale State par Ch`i dwara hamla kiya gaya tha, aur duke dushman ke drums ke pehle roll ke baad, Ch`ang-cho mein battle mein shamil hone wale the, jab Ts`ao ne kaha: "Abhi nahi." Unke drums ke teesri baar bajne ke baad hi, unhone hamle ke liye shabd diya. Phir woh lade, aur Ch`i ke mard poori tarah se haraye gaye. Baad mein Duke dwara unke vilamb ke matlab par poochhe jaane par, Ts`ao Kuei ne jawab diya: "Battle mein, ek sahasik spirit sab kuch hai. Ab drum ka pehla roll is spirit ko banane ki pravritti rakhta hai, lekin doosre ke sath yeh pehle se hi ghatne par hai, aur teesre ke baad yeh poori tarah se khogayi hai. Maine tab hamla kiya jab unki spirit khogayi thi aur hamari apne charam par thi. Isliye hamari jeet." Wu Tzu (chap. 4) war mein "paanch mahatvapurna prabhavon" mein "spirit" ko pehle rakhte hain, aur jaari rakhte hain: "Ek poori sena ka mulya--das lakh (million) mardon ka ek shaktishali host--sirf ek aadmi par nirbhar karta hai: aisa hai spirit ka prabhav!"]
+
+ek commander-in-chief ko uske dimaag ki maujoodgi (presence of mind) se vanchit kiya ja sakta hai.
+
+[Chang Yu kehte hain: "Dimaag ki maujoodgi general ka sabse mahatvapurna asset hai. Yeh woh quality hai jo use a-vyavastha ko anushasit karne aur panic-stricken mein courage inspire karne mein saksham banati hai." Bade general Li Ching (A.D. 571-649) ke paas ek kehna hai: "Hamla karne mein sirf walled cities par assault karna ya battle array mein ek sena par prahar karna shamil nahi hai; isme dushman ke manasik santulan (mental equilibrium) par hamla karne ka art shamil hona chahiye."]
+
+28. Ab ek soldier ki spirit subah mein sabse teez hoti hai;
+
+[Hamesha pradan kiya gaya, mujhe lagta hai, ki usne breakfast kiya hai. Trebia ki battle mein, Romans ko bewakoofi se fasting ladne ki anumati di gayi thi, jabki Hannibal ke mardon ne aaram se breakfast kiya tha. Dekhein Livy, XXI, liv. 8, lv. 1 aur 8.]
+
+dopahar tak yeh ghatna shuru ho jaati hai; aur shaam ko, uska dimaag sirf camp wapas lautne par jhuka hota hai.
+
+29. Ek chatur general, isliye, sena se bachta hai jab iski spirit teez hoti hai, lekin uspar hamla karta hai jab yeh sluggish aur wapas lautne ke prati jhuki hoti hai. Yeh moods ka adhyayan karne ka art hai.
+30. Anushasit aur shant, dushman ke beech a-vyavastha aur hubbub ke dikhne ka intazar karna:--yeh aatm-sanyam (self-possession) banaye rakhne ka art hai.
+31. Goal ke paas hona jabki dushman abhi bhi isse door hai, aaram se intazar karna jabki dushman thak raha hai aur sangharsh kar raha hai, achhi tarah se khilaya hua hona jabki dushman bhookha hai:--yeh apni taqat ko husbanding (bachane) ka art hai.
+32. Ek aise dushman ko intercept karne se parhez karna jiske banners perfect order mein hain, ek aisi sena par hamla karne se parhez karna jo shant aur aatmatv-vishwasu array mein khadi hai:--yeh paristhitiyon ka adhyayan karne ka art hai.
+33. Yeh ek military axiom hai ki dushman ke khilaf uanchai par (uphill) aage na badhein, na hi uska virodh karein jab woh dhalan (downhill) se aata hai.
+34. Kisi aise dushman ka peechha na karein jo flight (bhaagne) ka naatak karta hai; un sainikon par hamla na karein jinka temper teez hai.
+35. Dushman dwara offer kiye gaye baait (chara) ko mat nigalein.
+
+[Li Ch`uan aur Tu Mu, ek metaphor ko dekhne ki ashadharan a-kshemta ke sath, in shabdon ko dushman dwara poison kiye gaye khane aur peene ke roop mein poori tarah se shabdash lete hain. Ch`en Hao aur Chang Yu dhyan se ishara karte hain ki kehne ka ek vyapak laagu hona hai.]
+
+Ghar wapas lautne wali sena ke sath hakshep na karein.
+
+[Commentators is kaafi anokhi salah ko yeh kehkar samjhate hain ki ek aadmi jiska dil ghar wapas lautne par laga hai woh uske raste ko rokne ke kisi bhi prayas ke khilaf maut tak ladega, aur isliye ek bahut hi khatarnak opponent hai jisse nipata jaye. Chang Yu Han Hsin ke shabdon ko quote karte hain: "A-jayya (invincible) woh soldier hai jiske paas uski ichha hai aur woh ghar wapas laut-ta hai." Ts`ao Ts`ao ke sahas aur resource ki ek adbhut kahani *SAN KUO CHI* ke ch. 1 mein batayi gayi hai: 198 A.D. mein, woh Jang mein Chang Hsiu ka gheraav kar rahe the, jab Liu Piao ne Ts`ao ke retreat ko kaatne ke drishtikon se reinforcements bheje. Baad wale ko apne sainikon ko khinchna pada, sirf khud ko do dushmanon ke beech ghera hua paane ke liye, jo ek sankuchit pass ke har outlet ki rakhwali kar rahe the jismein woh khud shamil hue the. Is niraashajanak sthiti mein Ts`ao ne raat hone tak intazar kiya, jab unhone pahaad ke side mein ek tunnel kodi aur usme ek ambush lagaya. Jaise hi poori sena guzar gayi, chhipe hue sainik unke rear par gir gaye, jabki Ts`ao khud mude aur aage apne pursuers se mile, taaki woh confusion mein phenk diye gaye aur nasht kar diye gaye. Ts`ao Ts`ao ne baad mein kaha: "Brigands ne meri sena ko uske retreat mein rokne ki koshish ki aur mujhe ek niraashajanak sthiti mein battle mein laaye: isliye main jaanta tha ki unhe kaise haraana hai."]
+
+36. Jab aap kisi sena ko gherte hain, toh ek outlet free chhod dein.
+
+[Iska matlab yeh nahi hai ki dushman ko bhaagne ki anumati di jani hai. Uddeshya, jaise Tu Mu ise rakhte hain, "use yeh vishwās dilana hai ki suraksha ka ek raasta hai, aur is tarah niraasha ke sahas ke sath uske ladne ko rokna hai." Tu Mu khushi se jodte hain: "Iske baad, aap use kuchal sakte hain."]
+
+Kisi niraash (desperate) foe ko bahut zyada sakhti se press na karein.
+
+[Ch`en Hao kehne ko quote karte hain: "Pakshi aur jaanwar jab bay par laye jaate hain toh apne claws aur teeth ka upayog karenge." Chang Yu kehte hain: "Agar aapke adversary ne apni boats jala di hain aur apne cooking-pots nasht kar diye hain, aur battle ke issue par sab kuch daav par lagane ke liye taiyar hai, toh use extremities par nahi dhakela jana chahiye." Ho Shih Yen-ch`ing ki zindagi se liye gaye ek story dwara arth ko darshate hain. Woh general, apne colleague Tu Chung-wei ke sath 945 A.D. ke saal mein Khitans ke ek kaafi uche sena dwara ghere gaye the. Desh khali aur desert-like tha, aur chhoti Chinese force paani ki kami ke kaaran jaldi hi bhayanak sthitiyon mein thi. Unhone jo wells kode the woh sukh gaye, aur mard mud ke lumps ko nichodane aur moisture ko choosne ke liye majboor hue. Unki ranks tezi se patli hui, jab tak ki aakhirkar Fu Yen-ch`ing ne udgar kiya: "Hum niraash mard hain. Apni gulam haathon ke sath captivity mein jaane se pehle apne desh ke liye marna kahin behtar hai!" Ek majboot gale uttar-poorv se beh raha tha aur sand-dust ke ghane baadalon ke sath hawa ko kaala kar raha tha. Tu Chung-wei ek aakhri hamle par faisla karne se pehle iske ghatne tak intazar karne ke liye the; lekin kismat se ek aur officer, Li Shou-cheng naam ka, ek mauqe ko dekhne mein zyada tez tha, aur ne kaha:   "Woh kai hain aur hum kam hain, lekin is sandstorm ke beech hamari sankhyaayein perceptible nahi hongi; jeet teevra fighter ko jayegi, aur hawa hamara sabse behtareen ally hoga."   Tadanusaar, Fu Yen-ch`ing ne apni cavalry ke sath ek achanak aur poori tarah se a-pratyashit hamla kiya, barbarians ko rout kiya aur suraksha tak break through karne mein kamyab hue.]
+
+37. Aisa hai warfare ka art.
+
+---
+
+I hope this complete, line-by-line Hinglish translation of Chapter VII helps you understand the text thoroughly! Let me know if you would like me to proceed with the subsequent chapters.
