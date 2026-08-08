@@ -1339,3 +1339,146 @@ toh labh aapas ka (mutual) hoga.
 > [Chang Yu kehte hain: "General ko apne command ke tehat mardon mein vishwas hai, aur mard docile hain, unpar vishwas karte hue. Is tarah labh mutual hai" Woh Wei Liao Tzu, ch. 4 se ek pregnant sentence quote karte hain: "Orders dene ka art chhote blunders ko correct karne ki koshish karna nahi hai aur chhotey doubts dwara swayed na hona hai." Vacillation aur fussiness ek sena ke vishwas ko sap karne ke sabse pakke saadhan hain.]
 
 ---
+
+# X. TERRAIN (X. TERRAIN / ZAMEEN AUR BHOOMI)
+
+[Chapter ka sirf ek-tihaai hissa, jismein ss. 1-13 shamil hain, "terrain" se nipatta hai, vishay ka ch. XI mein zyada poori tarah se ilaj kiya gaya hai. "Six calamities" par SS. 14-20 mein charcha ki gayi hai, aur baaki chapter phir se mamooli desultory remarks ki ek dori hai, yadyapi us kaaran kam aakarshak nahi, shayad.]
+
+1. Sun Tzu ne kaha: Hum chhah prakar ke terrain mein antar kar sakte hain, to wit: (1) Accessible ground;
+
+> [Mei Yao-ch`en kehte hain: "raaston aur communications ke saadhanon ke sath prachur roop se pradan kiya gaya."]
+
+(2) entangling ground;
+
+> [Wahi commentator kehte hain: "Net-like country, jismein pravesh karke aap entangled ho jaate hain."]
+
+(3) temporizing ground;
+
+> [Zameen jo aapko "stave off" ya "delay" karne ki anumati deti hai.]
+
+(4) narrow passes; (5) precipitous heights; (6) positions at a great distance from the enemy.
+
+> [Is classification ki truti (faultiness) ko ishara karna shayad hi zaroori hai. Logical perception ki ek ajeeb kami Chinaman dwara glaring cross-divisions ke unquestioning swikriti mein dikhayi gayi hai jaise upar.]
+
+2. Zameen jise dono sides dwara swatantra roop se traverse kiya ja sakta hai use ACCESSIBLE kaha jata hai.
+3. Is prakar ke zameen ke sambandh mein, unche aur sunny spots par kabza karne mein dushman se pehle rahein, aur dhyan se apne supplies ki line ko guard karein.
+
+> [Aakhri phrase ka general matlab nischit roop se, jaise Tu Yu kehte hain, "dushman ko aapke communications ko kaatne ki anumati na dena" hai.
+> Napoleon ke dictum ko dekhte hue, "war ka rahasya communications mein nihit hai," hum chahte the ki Sun Tzu ne yahan aur I. ss. 10, VII. ss. 11 mein is mahatvapurna vishay ke edge ko skirt karne se zyada kiya hota. Col. Henderson kehte hain: "Supply ki line ko sena ke astitva ke liye utna hi vital kaha ja sakta hai jitna insaani jeevan ke liye dil. Waise hi jaise duelist jo apne adversary ke point ko nischit maut se threatening paata hai, aur uska apna guard astray, apne adversary ke movements ke anuroop hone ke liye majboor hota hai, aur khud ko uske thrusts ko ward off karne ke sath santusht karta hai, waise hi commander jiske communications achanak threatened hain khud ko ek false position mein paata hai, aur woh bhagyashali hoga agar use apne sabhi plans ko badalna na pade, apni force ko kam ya zyada isolated detachments mein baantna na pade, aur us zameen par kam sankhyaon ke sath ladna na pade jise unhone taiyar karne ka samay nahi mila tha, aur jahan haar koi aam asafalta nahi hogi, balki unki poori sena ka ruin ya surrender shamil karegi."]
+
+Phir aap faayde ke sath ladne mein saksham honge.
+
+4. Zameen jise chhada ja sakta hai lekin dobara kabza karna kathin hai use ENTANGLING kaha jata hai.
+5. Is prakar ki position se, agar dushman a-tai-yaar hai, toh aap sally forth kar sakte hain aur use hara sakte hain. Lekin agar dushman aapke aane ke liye taiyar hai, aur aap use harane mein asafal rehte hain, toh, wapsi asambhav hone par, disaster hoga.
+6. Jab position aisi ho ki pehla move banane se kisi bhi side ko labh nahi hoga, toh ise TEMPORIZING ground kaha jata hai.
+
+> [Tu Mu kehte hain: "Har side ko move karna a-suvidhajanak lagta hai, aur sthiti ek deadlock bani rehti hai."]
+
+7. Is prakar ki position mein, bhale hi dushman humein ek aakarshak baait offer kare,
+
+> [Tu Yu kehte hain, "apni peeth hamari taraf modte hue aur bhaagne ka naatak karte hue." Lekin yeh un lures mein se sirf ek hai jo humein apni position chhodne ke liye induce kar sakta tha.]
+
+yeh salah-yogya hoga ki aage na badhein, balki retreat karein, is tarah badle mein dushman ko lubhaayein; phir, jab uski sena ka hissa baahar aa gaya ho, toh hum faayde ke sath apna hamla deliver kar sakte hain.
+
+8. NARROW PASSES ke sambandh mein, agar aap unpar pehle kabza kar sakte hain, toh unhe majboot roop se garrisoned hone dein aur dushman ke aagman ka intazar karein.
+
+> [Kyunki tab, jaise Tu Yu observe karte hain, "initiative hamare sath hogi, aur achanak aur a-pratyashit hamle karke hum dushman ko apni daya par rakhenge."]
+
+9. Agar sena pass par kabza karne mein aapko forestall karti hai, toh uske peeche mat jayein agar pass poori tarah se garrisoned hai, lekin sirf tabhi jab yeh kamzor roop se garrisoned ho.
+10. PRECIPITOUS HEIGHTS ke sambandh mein, agar aap apne adversary se pehle hain, toh aapko unche aur sunny spots par kabza karna chahiye, aur wahan uske upar aane ka intazar karna chahiye.
+
+> [Ts`ao Kung kehte hain: "Heights aur defiles ko surakshit karne ka vishesh labh yeh hai ki aapke actions tab dushman dwara dictate nahi kiye ja sakte." [Alluded grand principle ke enunciation ke liye, dekhein VI. ss. 2]. Chang Yu P`ei Hsing-chien (A.D. 619-682) ki nimnlikhit anecdote batate hain, jinhe Turkic tribes ke khilaf ek punitive expedition par bheja gaya tha. "Raat ko unhone hamesha ki tarah apna camp lagaya, aur yeh pehle se hi wall aur ditch dwara poori tarah se fortified tha, jab achanak unhone orders diye ki sena ko apne quarters ko paas hi ek hill par shift karna chahiye. Yeh unke officers ke liye atyadhik a-prasannatadayak tha, jinhone mardon par hone wale extra fatigue ke khilaf zor se protest kiya. P`ei Hsing-chien ne, halanki, unke remonstrances par koi dhyan nahi diya aur camp ko jitna ho sake tezi se move karwaya. Usi raat, ek bhayanak storm aaya, jisne unke pehle ke encampment ke sthaan ko barah feet se zyada ki gehrai tak flood kar diya. Recalcitrant officers drishya ko dekhkar hairan the, aur swikar kiya ki woh galat the. 'Aapko kaise pata tha ki kya hone wala tha?' unhone poocha. P`ei Hsing-chien ne jawab diya: 'Ab se bina koi fuzool ke prashn poooche orders ka palan karne se santusht rahein.' Isse yeh dekha ja sakta hai," Chang Yu jaari rakhte hain, "ki high aur sunny places na sirf ladai ke liye labhdayak hain, balki isliye bhi kyunki woh vinashkari floods se immune hain."]
+
+11. Agar dushman ne aapke pehle unpar kabza kar liya hai, toh uska peechha na karein, balki retreat karein aur use door lubhane ki koshish karein.
+
+> [621 A.D. mein do rebels, Tou Chien-te, King of Hsia, aur Wang Shih-ch`ung, Prince of Cheng ke khilaf Li Shih-min ke campaign ka turning point Wu-lao ki heights par unka kabza tha, jiski spike mein Tou Chien-te ne Lo-yang mein apne ally ko relieve karne ke apne prayas mein persist kiya, haraya gaya aur prisoner liya gaya. Dekhein *CHIU T`ANG*, ch. 2, fol. 5 verso, aur ch. 54 bhi.]
+
+12. Agar aap dushman se badi doori par sthit hain, aur do senayon ki taqat barabar hai, toh battle ko provoke karna aasan nahi hai,
+
+> [Point yeh hai ki humein ek lambi aur thakane wali march karne ke baare mein nahi sochana chahiye, jiske ant mein, jaise Tu Yu kehte hain, "hum thake hue honge aur hamara adversary fresh aur keen."]
+
+aur ladna aapke nuksan mein hoga.
+
+13. Yeh chhah Earth se jude siddhant hain.
+
+> [Ya shayad, "ground se sambandhit siddhant." Dekhein, halanki, I. ss. 8.]
+
+General jisine ek responsible post haasil kar li hai use unka adhyayan karne mein saavdhan hona chahiye.
+
+14. Ab ek sena chhah alag-alag calamities se exposed hoti hai, jo praakritik kaaranon se paida nahi hoti hain, balki un faults se jinake liye general zimmedar hai. Yeh hain: (1) Flight; (2) insubordination; (3) collapse; (4) ruin; (5) disorganization; (6) rout.
+15. Doosri sthitiyan barabar hone par, agar ek force ko uske size se das guna bade doosre force ke khilaf hurl kiya jata hai, toh parinaam pehle wale ki FLIGHT hoga.
+16. Jab common soldiers bahut majboot hote hain aur unke officers bahut kamzor, toh parinaam INSUBORDINATION hota hai.
+
+> [Tu Mu T`ien Pu [*HSIN T`ANG SHU*, ch. 148] ke dukhdaai case ko cite karte hain, jinhe 821 A.D. mein Wang T`ing-ts`ou ke khilaf ek sena ka netritv karne ke orders ke sath Wei bheja gaya tha. Lekin poore samay jab woh command mein the, unke sainikon ne unhe atyadhik contempt ke sath treat kiya, aur ek baar mein kai hazaar, camp ke aaspas donkeys par sawar hokar unki authority ka khule taur par flouted kiya. T`ien Pu is vyavhaar ko rokne mein a-saksham the, aur jab, kuch mahine beetne ke baad, unhone dushman ko engage karne ka prayas kiya, toh unke sainik turned tail aur har disha mein bikhair gaye. Iske baad, dukhdaai aadmi ne apna gala kaatkar suicide kar liya.]
+
+Jab officers bahut majboot hote hain aur common soldiers bahut kamzor, toh parinaam COLLAPSE hota hai.
+
+> [Ts`ao Kung kehte hain: "Officers energetic hain aur aage badhna chahte hain, common soldiers feeble hain aur achanak collapse ho jaate hain."]
+
+17. Jab uche officers gusse mein aur insubordinate hote hain, aur dushman se milne par resentment ki bhavna se apne hisaab par battle dete hain, isse pehle ki commander-in-chief bata sake ki woh ladne ki sthiti mein hai ya nahi, toh parinaam RUIN hota hai.
+
+> [Wang Hsi ka note hai: "Iska matlab hai, general bina kisi kaaran gusse mein hai, aur ek hi samay mein apne subordinate officers ki kshamta ko appreciate nahi karta; is tarah woh teevra resentment jaagrata karta hai aur apne sar par ruin ka ek avalanche laata hai."]
+
+18. Jab general kamzor aur bina authority ke hota hai; jab uske orders saaf aur alag nahi hote;
+
+> [Wei Liao Tzu (ch. 4) kehte hain: "Agar commander decision ke sath apne orders deta hai, toh sainik unhe do baar sunne ka intazar nahi karenge; agar uske moves bina vacillation ke kiye jaate hain, toh sainik apni duty karne ke baare mein do dimaagon mein nahi honge." General Baden-Powell kehte hain, shabdon ko italicizing karte hue: "Apne trained mardon se kamyab kaam nikaalne ka rahasya ek hi meenkh mein nihit hai--unhe praapt hone wale instructions ki clearness mein." [3] Cf. Wu Tzu ch. 3 bhi: "Military leader mein sabse fatal defect difference hai; ek sena par aane wali sabse badtar calamities hesitation se paida hoti hain."]
+
+jab officers aur men ko koi fixed duties assigned nahi hoti hain,
+
+> [Tu Mu kehte hain: "Na toh officers na hi men ke paas koi niyamit routine hai."]
+
+aur ranks ek slovenly haphazard tareeqe se form kiye jaate hain, toh parinaam poori DISORGANIZATION hota hai.
+
+19. Jab ek general, dushman ki taqat ka anuman lagane mein a-saksham, ek chhote force ko ek bade force se engage hone ki anumati deta hai, ya ek kamzor detachment ko ek shaktishali force ke khilaf hurl karta hai, aur front rank mein picked sainikon ko rakhne se neglect karta hai, toh parinaam ROUT hona chahiye.
+
+> [Chang Yu sentence ke baad ke hisse ko paraphrase karte hain aur jaari rakhte hain: "Jab bhi ladai ki jaani ho, toh sabse teez spirits ko front ranks mein seva karne ke liye niyukt kiya jana chahiye, dono hamare apne mardon ke resolution ko majboot karne aur dushman ko demoralise karne ke liye." Cf. Caesar ke primi ordines ("De Bello Gallico," V. 28, 44, et al.).]
+
+20. Yeh haar ko courting karne ke chhah tareeqe hain, jinhe us general dwara dhyan se note kiya jana chahiye jisine ek responsible post haasil kar li hai.
+
+> [Dekhein supra, ss. 13.]
+
+21. Desh ka praakritik formation soldier ka sabse behtareen ally hai;
+
+> [Ch`en Hao kehte hain: "Mausam aur mausam ke labh zameen se jude labhon ke barabar nahi hain."]
+
+lekin adversary ka anuman lagane, jeet ki forces ko control karne, aur kathinaaiyon, khatron aur dooriyon ka chaturai se hisaab lagane ki taqat ek bade general ka test banati hai.
+
+22. Woh jo in cheezon ko jaanta hai, aur ladai mein apne gyaan ko abhyas mein laata hai, woh apni battles jeetega. Woh jo unhe nahi jaanta, na hi unka abhyas karta hai, woh nischit roop se haraya jayega.
+23. Agar ladai ka jeet mein badalna pakka hai, toh aapko ladna chahiye, bhale hi ruler ise mana kare; agar ladai ka jeet mein badalna nahi hai, toh aapko ruler ke aadesh par bhi nahi ladna chahiye.
+
+> [Cf. VIII. ss. 3 fin. Ch`in dynasty ke Huang Shih-kung, jinhe Chang Liang ka patron kaha jata hai aur unhone *SAN LUEH* likha tha, unse in shabdon ko aavantit kiya gaya hai: "Ek sena ko motion mein set karne ki zimmedari sirf general par honi chahiye; agar aage badhna aur retreat karna Palace se control kiya jata hai, toh shaandar parinaam shayad hi haasil honge. Isliye god-like ruler aur enlightened monarch apne desh ke kaaran ko aage badhane mein ek namra bhoomika nibhane se santusht hain [shabdash, chariot wheel ko dhakka dene ke liye neeche ghutne tekna]." Iska matlab hai ki "zenana ke baahar sthit maamlon mein, military commander ka faisla absolute hona chahiye." Chang Yu kehne ko quote bhi karte hain: "Son of Heaven se decrees ek camp ki deewaron mein pravesh nahi karte."]
+
+24. General jo fame ka laalach kiye bina aage badhta hai aur disgrace ke darr ke bina retreat karta hai,
+
+> [Yeh Wellington the, mujhe lagta hai, jinhone kaha tha ki ek soldier ke liye sabse kathin cheez retreat karna hai.]
+
+jiska akela vichar apne desh ki raksha karna aur apne sovereign ke liye achhi seva karna hai, woh kingdom ka jewel hai.
+
+> [Chinese "happy warrior" ke thode shabdon mein ek mahaan purvanuman. Aisa aadmi, Ho Shih kehte hain, "bhale hi use saja sahni pade, apne vyavhaar par afsos nahi karega."]
+
+25. Apne sainikon ko apne bachhon ke roop mein dekhein, aur woh sabse gehri ghaatiyon (deepest valleys) mein aapke peeche aayenge; unhe apne khud ke pyare beton ke roop mein dekhein, aur woh maut tak bhi aapke sath khade rahenge.
+
+> [Cf. I. ss. 6. Is sambandh mein, Tu Mu hamare liye prasiddh general Wu Ch`i ki ek aakarshak tasveer khinchte hain, jinake war par treatise se mujhe aksar quote karne ka avsar mila hai: "Woh apne sabhi sainikon mein se sabse mamooli sainik jaise kapde pehente the aur wahi khana khate the, sawaree karne ke liye ghoda ya sone ke liye mat rakhne se inkaar karte the, ek parcel mein lapatte hue apna surplus rations carry karte the, aur apne mardon ke sath har kathinai ko share karte the. Unke sainikon mein se ek abscess se peedit tha, aur Wu Ch`i ne khud virus ko choos kar baahar nikala. Sainik ki maa ne, yeh sunkar, rona aur vilap karna shuru kar diya. Kisi ne unse poocha, kehte hue: 'Aap kyun roti hain? Aapka beta sirf ek aam sainik hai, aur phir bhi commander-in-chief ne khud uske ghaav se poison ko choosa hai.' Aurat ne jawab diya, 'Kai saal pehle, Lord Wu ne mere pati ke liye ek aisa hi seva kiya tha, jo uske baad unhe kabhi nahi chhoda, aur aakhirkar dushman ke haathon apni maut se mila. Aur ab jabki unhone mere bete ke liye bhi wahi kiya hai, woh bhi ladte hue girega mujhe nahi pata kahan.'" Li Ch`uan Viscount of Ch`u ka zikr karte hain, jinhone sardi ke dauran Hsiao ke chhote state par hamla kiya. Duke of Shen ne unse kaha: "Kai sainik sardi se gambhir roop se peedit hain." Toh unhone poori sena ka ek chakkar lagaya, mardon ko comfort aur encourage karte hue; aur turant unhone aisa mahsoos kiya jaise woh floss silk se lined kapdon mein pehne hue hon.]
+
+26. Agar, halanki, aap indulgent hain, lekin apni authority ko mahsoos karane mein a-saksham; kind-hearted, lekin apne commands ko laagu karne mein a-saksham; aur a-saksham, iske alawa, a-vyavastha ko quelling karne mein: toh aapke sainikon ko spoilt children ke samaan maana jana chahiye; woh kisi bhi practical purpose ke liye useless hain.
+
+> [Li Ching ne ek baar kaha tha ki agar aap apne sainikon ko aapne se darne ke liye majboor kar sakte hain, toh woh dushman se nahi darne wale. Tu Mu 219 A.D. mein hone wale sakht military discipline ke ek instance ko yaad karte hain, jab Lu Meng Chiang-ling ke town par kabza kar rahe the. Unhone apni sena ko nivaasiyon ko molest na karne ya unse taqat dwara kuch na lene ke sakht orders diye the. Iske baavjood, unke banner ke tehat seva karne wale ek nishchit officer, jo unka fellow-townsman tha, ne rain ke khilaf protection ke roop mein apne regulation helmet ke upar pehenne ke liye logon mein se ek ke bamboo hat ko appropriate karne ki himmat ki. Lu Meng ne vichar kiya ki unke Ju-nan ka native hone ke tathya ko discipline ke spasht breach ko palliating karne ki anumati nahi di jaani chahiye, aur tadanusaar unhone unke summary execution ka order diya, halanki aisa karte waqt unke chehre par aanso beh rahe the. Severity ke is act ne sena ko ek wholesome awe se bhar diya, aur us samay se aage highway mein chhodi gayi vastuon ko bhi uthaya nahi gaya.]
+
+27. Agar hum jaante hain ki hamare apne mard hamla karne ki sthiti mein hain, lekin is baat se an-jaan hain ki dushman hamle ke liye khula nahi hai, toh hum jeet ki taraf sirf aadhe raaste gaye hain.
+
+> [Yaani, Ts`ao Kung kehte hain, "is case mein issue a-nishchit hai."]
+
+28. Agar hum jaante hain ki dushman hamle ke liye khula hai, lekin is baat se an-jaan hain ki hamare apne mard hamla karne ki sthiti mein nahi hain, toh hum jeet ki taraf sirf aadhe raaste gaye hain.
+
+> [Cf. III. ss. 13 (1).]
+
+29. Agar hum jaante hain ki dushman hamle ke liye khula hai, aur yeh bhi jaante hain ki hamare mard hamla karne ki sthiti mein hain, lekin is baat se an-jaan hain ki zameen ka swabhav ladai ko a-vyavaharik (impracticable) banata hai, toh hum abhi bhi jeet ki taraf sirf aadhe raaste gaye hain.
+30. Isliye anubhavi soldier, ek baar motion mein hone par, kabhi bewildered nahi hota; ek baar jab usne camp tod diya hai, toh woh kabhi loss par nahi hota.
+
+> [Kaaran yeh hone par, Tu Mu ke anusar, ki usne pehle se jeet sunishchit karne ke liye apne measures ko itne dhyan se liya hai. "Woh laaparwahi se move nahi karta," Chang Yu kehte hain, "taaki jab woh move karta hai, toh woh koi galati nahi karta."]
+
+31. Isliye kehna hai: Agar aap dushman ko jaante hain aur khud ko jaante hain, toh aapki jeet shak mein nahi khadi hogi; agar aap Heaven ko jaante hain aur Earth ko jaante hain, toh aap apni jeet ko poora bana sakte hain.
+
+> [Li Ch`uan is tarah sum up karte hain: "Teen cheezon ka gyaan diye jaane par--men ke affairs, heaven ke seasons aur earth ke praakritik labh--, jeet hamesha aapki battles ko crown karegi."]
+
+---
