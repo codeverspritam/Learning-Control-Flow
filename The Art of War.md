@@ -702,3 +702,139 @@ Isliye sahi mardon ko chunne aur combined energy ka upayog karne ki uski kshamta
 23. Is tarah achhe fighting men dwara viksit energy hazaaron feet uanchai ke pahaad se neeche roll kiye gaye ek round stone ke momentum ki tarah hai. Energy ke vishay par itna hi.
 
 [Tu Mu ke opinion mein, is chapter ka mukhya sabak war mein rapid evolutions aur sudden rushes ka atyadhik mahatva hai. "Bade parinaam," woh jodte hain, "chhote forces ke sath is tarah haasil kiye ja sakte hain."]
+
+---
+
+# VI. WEAK POINTS AND STRONG (VI. KAMZOR AUR MAJBOOT POINTS)
+
+[Chang Yu chapters ke kram ko is tarah samjhane ki koshish karte hain: "Chapter IV, Tactical Dispositions par, ne offensive aur defensive ka ilaj kiya; chapter V, Energy par, ne direct aur indirect methods se nipata. Achha general pehle attack aur defense ki theory se khud ko parichit karta hai, aur phir direct aur indirect methods par apna dhyan modta hai. Woh weak aur strong points ke vishay par aage badhne se pehle in do methods ko badalane aur milane ki art ka adhyayan karta hai. Kyunki direct ya indirect methods ka upayog attack aur defense se nikalta hai, aur weak aur strong points ki samajh phir se upar diye gaye methods par nirbhar karti hai. Isliye vartaman chapter Energy par chapter ke turant baad aata hai."]
+
+1. Sun Tzu ne kaha: Jo koi pehle maidaan mein hota hai aur dushman ke aane ka intazar karta hai, woh ladai ke liye fresh hoga; jo koi doosre sthaan par maidaan mein hota hai aur use battle ke liye tezi karni padti hai woh thaka hua pahonchega.
+2. Isliye chatur combatant apne irade (will) ko dushman par thopta hai, lekin dushman ke irade ko khud par thope jaane ki anumati nahi deta.
+
+[Ek bade soldier ka ek nishan yeh hai ki woh apne niyam-sharton par ladta hai ya bilkul nahi ladta.]
+
+3. Use labh (advantages) pakadkar, woh dushman ko apni marzi se paas aane ka kaaran ban sakta hai; ya, nuksan pahonchakar, woh dushman ke liye paas aana asambhav bana sakta hai.
+
+[Pehle maamle mein, woh use ek baait (chare) se lubhayega; doosre mein, woh kisi aise mahatvapurna point par prahar karega jiska dushman ko defence karna padega.]
+
+4. Agar dushman aaram kar raha hai, toh woh use pareshan (harass) kar sakta hai;
+
+[Yeh passage I. ss. 23 ke Mei Yao-Ch`en ke vyakhya ke khilaf sabhoot ke roop mein cite kiya ja sakta hai.]
+
+agar khane ke sath achhi tarah se supplied hai, toh woh use bhookha maar (starve out) sakta hai; agar shanti se encamped hai, toh woh use move karne ke liye majboor kar sakta hai.
+
+5. Un points par pratyaksh hon jinhe dushman ko defence karne ke liye tezi karni chahiye; un jagahon par tezi se march karein jahan aapki umeed na ho.
+6. Ek sena bina kisi sankat ke badi dooriyon tak march kar sakti hai, agar woh aise desh se hokar march karti hai jahan dushman nahi hai.
+
+[Ts`ao Kung bahut achhi tarah se sum up karte hain: "Void (khali-pan) se ubharein [q.d. 'a bolt from the blue' ki tarah], vulnerable points par prahar karein, un jagahon se bachein jinaka defence kiya jata hai, a-pratyashit kshetron mein hamla karein."]
+
+7. Aap apne hamlon mein kamyab hone ka nischit ho sakte hain agar aap sirf un jagahon par hamla karte hain jinaka defence nahi kiya gaya hai.
+
+[Wang Hsi "undefended places" ko "weak points ke roop mein samjhate hain; yaani, jahan general mein kshamta ki kami hai, ya sainikon mein spirit ki; jahan deewarein kaafi majboot nahi hain, ya saavdhaniyan kaafi sakht nahi hain; jahan relief bahut der se aati hai, ya provisions bahut kam hain, ya defenders ke beech aapas mein matbhed hai."]
+
+Aap apne defence ki suraksha sunishchit kar sakte hain agar aap sirf un positions ko sambhalte hain jinpar hamla nahi kiya ja sakta.
+
+[Yaani, jahan upar bataye gaye weak points mein se koi nahi hai. Is baad ke clause ki vyakhya mein shamil ek kaafi achha point hai. Tu Mu, Ch`en Hao, aur Mei Yao-ch`en maanate hain ki matlab yeh hai: "Apne defence ko poori tarah se surakshit banane ke liye, aapko un jagahon ka BHI defence karna chahiye jinpar hamla hone ki sambhavna nahi hai;" aur Tu Mu jodte hain: "Kitna zyada, phir, unka jinpar hamla kiya jayega." Is tarah liya gaya, halanki, clause pehle wale ke sath kam balance karta hai--hamesha uche antithetical style mein ek vichar jo Chinese ke liye praakritik hai. Chang Yu, isliye, yeh kehne mein mark ke zyada paas aate lagte hain: "Woh jo hamle mein kushal hai woh Heaven ki sabse uchi uanchaiyon se chamakta hai [dekhein IV. ss. 7], dushman ke liye usse bachna asambhav banata hai. Aisa hone par, jin jagahon par main hamla karunga woh zaroori roop se wohi hain jinaka dushman defence nahi kar sakta.... Woh jo defence mein kushal hai woh Prithvi ke sabse rahasyamayi ilaqon mein chhipata hai, dushman ke liye uske thikaane ka anuman lagana asambhav banata hai. Aisa hone par, jin jagahon ko main sambhalunga woh zaroori roop se wohi hain jinpar dushman hamla nahi kar sakta."]
+
+8. Isliye woh general hamle mein kushal hai jiska opponent nahi jaanta ki kispe defence karna hai; aur woh defence mein kushal hai jiska opponent nahi jaanta ki kispe hamla karna hai.
+
+[Ek aisa aphorism jo war ki poori art ko ek nutshell mein rakhta hai.]
+
+9. O subtlety aur secrecy ki divine art! Aapke zariya hum a-drishya (invisible) banna seekhte hain, aapke zariya a-shravya (inaudible);
+
+[Shabdash, "form ya sound ke bina," lekin yeh beshak dushman ke sandarbh mein kaha gaya hai.]
+
+aur isliye hum dushman ke bhagya ko apne haathon mein rakh sakte hain.
+
+10. Aap aage badh sakte hain aur poori tarah se a-pratibandhit (irresistible) ho sakte hain, agar aap dushman ke weak points ki taraf badhte hain; aap retire ho sakte hain aur peechha kiye jaane se surakshit ho sakte hain agar aapke movements dushman ke movements se zyada teez hain.
+11. Agar hum ladna chahte hain, toh dushman ko ek engagement ke liye majboor kiya ja sakta hai bhale hi woh ek uchi rampart aur ek gehre ditch ke peeche sheltered ho. Humein sirf kisi aisi doosri jagah par hamla karne ki zaroorat hai jise relieve karne ke liye woh baadhy hoga.
+
+[Tu Mu kehte hain: "Agar dushman hamla karne wala paksh hai, toh hum uske communications ki line ko kaat sakte hain aur un raaston par kabza kar sakte hain jinase use wapas lautna padega; agar hum hamla karne wale hain, toh hum apna hamla khud sovereign ke khilaf nirdeshit kar sakte hain." Yeh saaf hai ki Sun Tzu, late Boer war mein kuch generals ke vipreet, frontal attacks mein vishwas rakhne wale nahi the.]
+
+12. Agar hum ladna nahi chahte, toh hum dushman ko humse shamil hone se rok sakte hain bhale hi hamare encampment ki lines zameen par sirf trace ki gayi hon. Humein sirf uske raste mein kuch ajeeb aur a-samajh-yogya phenkne ki zaroorat hai.
+
+[Yeh atyadhik concise abhivyakti Chia Lin dwara samajhne yogya roop se paraphrased ki gayi hai: "bhale hi humne na toh wall banayi hai na hi ditch." Li Ch`uan kehte hain: "hum use ajeeb aur a-samanya dispositions dwara pareshan karte hain;" aur Tu Mu aakhirkar teen vyakhyatmak anecdotes dwara arth ko pakka karte hain--ek Chu-ko Liang ka, jinhone Yang-p`ing par kabza karte waqt aur Ssu-ma I dwara hamla kiye jaane wale the, achanak apne colors ko struck kiya, dhol bajana band kar diya, aur shehar ke gates ko khol diya, zameen ko saaf karne aur chhidakne mein shamil sirf kuch mardon ko dikhate hue. Is a-pratyashit karrwai ka intended prabhav hua; kyunki Ssu-ma I ne, ek ambush ka sandeh karte hue, vaastav mein apni sena ko khinch liya aur retreat kiya. Sun Tzu yahan jiski vakaalat kar rahe hain, isliye, "bluff" ke samay par upayog se kam ya zyada kuch nahi hai.]
+
+13. Dushman ke dispositions ko khojkar aur khud a-drishya rehkar, hum apne forces ko kendrit rakh sakte hain, jabki dushman ke forces ko baanta jana chahiye.
+
+[Nishkarsh shayad bahut spasht nahi hai, lekin Chang Yu (Mei Yao-ch`en ke baad) sahi dhang se ise is tarah samjhate hain: "Agar dushman ke dispositions visible hain, toh hum ek body mein uske liye badh sakte hain; jabki, hamari apni dispositions ko rahasya rakhe jaane par, dushman har kshetra se hamle ke khilaf guard karne ke liye apne forces ko baantne ke liye baadhy hoga."]
+
+14. Hum ek ekrat united body bana sakte hain, jabki dushman ko fractions mein split hona padega. Isliye ek poore ke alag-alag hisson ke khilaf ek poora pitted hoga, jisaka matlab hai ki hum dushman ke kam ke muqable zyada honge.
+15. Aur agar hum is tarah ek bade force ke sath ek chhote force par hamla karne mein saksham hain, toh hamare opponents bhayanak sthitiyon (dire straits) mein honge.
+16. Jis jagah par hum ladne ka irada rakhte hain use jaana nahi jaana chahiye; kyunki tab dushman ko kai alag-alag points par ek sambhavid hamle ke khilaf taiyar hona padega;
+
+[Sheridan ne ek baar General Grant ki jeet ke kaaran ko yeh kehkar samjaya ki "jabki unke opponents poori tarah se vyast rakhe gaye the yeh sochne mein ki woh kya karne wale the, WOH sabse zyada is baare mein soch rahe the ki woh khud kya karne wale the."]
+
+aur unke forces ko is tarah kai nirdeshon mein distribute kiye jaane par, kisi bhi diye gaye point par jin sankhyaon ka humein samna karna padega woh anupaatik roop se kam hongi.
+
+17. Kyunki agar dushman apne van ko majboot karta hai, toh woh apne rear ko kamzor karega; agar woh apne rear ko majboot karta hai, toh woh apne van ko kamzor karega; agar woh apne left ko majboot karta hai, toh woh apne right ko kamzor karega; agar woh apne right ko majboot karta hai, toh woh apne left ko kamzor karega. Agar woh har jagah reinforcements bheja hai, toh woh har jagah kamzor hoga.
+
+[Frederick the Great ke INSTRUCTIONS TO HIS GENERALS mein hum padhte hain: "Ek defensive war humein bahut aksar detachment mein dhokha dene ke prati majboor karti hai. Un generals ke paas jinke paas kam anubhav raha hai har point ko protect karne ki koshish karte hain, jabki woh jo apne profession se behtar parichit hain, sirf capital object ko dhyan mein rakhte hue, ek nishchayatmak prahar ke khilaf guard karte hain, aur bade se bachne ke liye chhote musibaton ko swikar karte hain."]
+
+18. Numerical kamzori sambhavid hamlon ke khilaf taiyar hone se aati hai; numerical taqat, hamare adversary ko hamare khilaf yeh taiyariyan karne ke liye majboor karne se.
+
+[Col. Henderson ke shabdon mein, sabse uchi generalship, "dushman ko apni sena ko bikhairne ke liye majboor karna hai, aur phir har fraction ke khilaf badle mein superior force ko kendrit karna hai."]
+
+19. Aane wali battle ke jagah aur samay ko jaante hue, hum ladne ke liye sabse badi dooriyon se kendrit ho sakte hain.
+
+[Sun Tzu ke dimaag mein saaf taur par kya hai dooriyon ka woh achha calculation aur strategy ka woh masterly upayog hai jo ek general ko ek lambe aur teez march ke uddeshya ke liye apni sena ko baantne mein saksham banata hai, aur baad mein dushman ka bhayankar taqat mein samna karne ke liye sateek roop se sahi jagah aur sahi ghante par ek junction prabhavit karta hai. Military history dwara record kiye gaye aise kai kamyab junctions mein se, sabse naatakiya aur nishchayatmak mein se ek Waterloo ke maidaan par critical moment par Blucher ka dikhna tha.]
+
+20. Lekin agar na toh samay na hi jagah jaani jaye, toh baaya wing daayein ki sahayata karne mein a-saksham hoga, daaya wing barabar roop se baayein ki sahayata karne mein a-saksham hoga, van rear ko relieve karne mein a-saksham, ya rear van ka samarthan karne mein. Kitna zyada aisa hoga agar sena ke sabse door ke hisse ek sau LI ke neeche kuch hon, aur paas ke bhi kai LI dwara alag hon!
+
+[Is aakhri sentence ka Chinese thoda precision ki kami rakhta hai, lekin jo mental picture humein khinchne ki zaroorat hai woh shayad ek alag columns mein ek diye gaye rendezvous ki taraf badhne wali sena ki hai, jinmein se har ek ko ek fixed date par wahan hone ke orders hain. Agar general vividh detachments ko bina meeting ke samay aur jagah ke baare mein sateek instructions ke bina haphazard aage badhne deta hai, toh dushman detail mein sena ko nasht karne mein saksham hoga. Chang Yu ka note yahan quote karne yogya ho sakta hai: "Agar hum woh jagah nahi jaante jahan hamare opponents kendrit hone ka matlab rakhte hain ya jis din woh battle mein shamil honge, toh hamari ekta defence ke liye hamari taiyariyon ke zariya forfeited ho jayegi, aur jo positions hum sambhalte hain woh a-surakshit hongi. Achanak ek shaktishali foe par hone par, humein ek pareshan sthiti mein battle mein laya jayega, aur wings, vanguard ya rear ke beech koi aapas ka samarthan sambhav nahi hoga, vishesh roop se agar sena ke sabse aage aur sabse peeche ke divisions ke beech koi badi doori hai."]
+
+21. Yadyapi mere anuman ke anusar Yueh ke sainik sankhya mein hamare apne se zyada hain, woh jeet ke maamle mein unhe koi faayda nahi pahonchayega. Main tab kehta hoon ki jeet haasil ki ja sakti hai.
+
+[In bahadur shabdon ke liye afsos! Do states ke beech lamba sangharsh 473 B.C. mein Kou Chien dwara Wu ki poori haar aur Yueh mein iske incorporation ke sath khatam hua. Yeh nischit roop se Sun Tzu ki maut ke lambe samay baad tha. Unke vartaman daave ke sath IV. ss. 4 ki tulna karein. Chang Yu akele hain jo lagne wale antar ko ishara karte hain, jise woh is tarah samjhate hain: "Tactical Dispositions par chapter mein kaha gaya hai, 'Koi jaan sakta hai ki kaise jeetna hai bina ise karne mein saksham hue,' jabki yahan hamare paas bayan hai ki 'jeet haasil ki ja sakti hai.' Vyakhya yeh hai ki, pehle wale chapter mein, jahan offensive aur defensive charcha ke tehat hain, kaha gaya hai ki agar dushman poori tarah se taiyar hai, toh koi use harane ka nishchit nahi kar sakta. Lekin vartaman passage vishesh roop se Yueh ke sainikon ko sandarbhit karta hai jinhe, Sun Tzu ke calculations ke anusar, aane wale sangharsh ke samay aur jagah se an-jaan rakha jayega. Yahi wajah hai ki woh yahan kehte hain ki jeet haasil ki ja sakti hai."]
+
+22. Yadyapi dushman sankhyaon mein zyada majboot ho, hum use ladne se rok sakte hain. Scheme karein taaki unke plans aur unki kamyabi ki sambhavna ko khoja ja sake.
+
+[Chia Lin dwara offer ki gayi ek vaikalpik reading hai: "Pehle se hi hamari kamyabi aur dushman ki asafalta ke liye anukool sabhi plans ko jaanein."]
+
+23. Use uttejit karein, aur uski gatividhi (activity) ya nishkriyata (inactivity) ke siddhant ko seekhein.
+
+[Chang Yu humein batate hain ki is tarah pareshan kiye jaane par dushman dwara dikhayi gayi khushi ya gusse ko note karke, hum nishkarsh nikalne mein saksham honge ki uski policy neeche letna hai ya iska ulat. Woh Chu-ko Liang ke karrwai ka udaharan dete hain, jinhone Ssu-ma I ko unke Fabian tactics se baahar nikalne ke liye ek aurat ke head-dress ka apmaan-janak gift bheja tha.]
+
+Use khud ko reveal karne ke liye majboor karein, taaki uske vulnerable spots ka pata lagaya ja sake.
+
+24. Apni sena ke sath opposing army ki dhyan se tulna karein, taaki aap jaan sakein ki kahan taqat atyadhik (superabundant) hai aur kahan deficient hai.
+
+[Cf. IV. ss. 6.]
+
+25. Tactical dispositions banane mein, sabse uchi pitch jise aap haasil kar sakte hain woh unhe chhipana hai;
+
+[Paradox ka chaska translation mein urh jata hai. Chhipaav shayad itna actual invisibility nahi hai (dekhein supra ss. 9) jitna ki aap jo karne ka matlab rakhte hain, aapke dimaag mein bane plans ka "koi nishan na dikhana".]
+
+apni dispositions ko chhipayein, aur aap sabse subtle spies ki prying se, sabse samajhdar dimaagon ke machinations se surakshit honge.
+
+[Tu Mu samjhate hain: "Yadyapi dushman ke paas chatur aur kushal officers ho sakte hain, woh hamare khilaf koi plans lay karne mein saksham nahi honge."]
+
+26. Dushman ke apne tactics se unke liye jeet kaise produce ki ja sakti hai--woh wahi hai jise jan-samooh (multitude) nahi samajh sakta.
+27. Sabhi mard un tactics ko dekh sakte hain jiske zariya main jeetta hoon, lekin jo koi nahi dekh sakta woh strategy hai jisse jeet viksit (evolved) hoti hai.
+
+[Yaani, har koi satahi taur par dekh sakta hai ki ek battle kaise jeeti jaati hai; jo woh nahi dekh sakte woh plans aur combinations ki lamba series hai jo battle se pehle hui hai.]
+
+28. Un tactics ko mat dohraayein jinhe aapne ek jeet haasil ki hai, balki apne methods ko paristhitiyon ki anant vividhta (infinite variety) dwara regulate hone dein.
+
+[Jaise Wang Hsi buddhimani se tippani karte hain: "Jeet ke neeche sirf ek mool-siddhant hai, lekin jo tactics iski taraf le jaate hain woh sankhya mein anant hain." Iske sath Col. Henderson ki tulna karein: "Strategy ke kanoon chhote aur saral hain. Unhe ek saptah mein seekha ja sakta hai. Unhe parichit illustrations ya ek das diagrams dwara padhaya ja sakta hai. Lekin aisa gyaan kisi aadmi ko Napoleon ki tarah sena ka netritv karna nahi sikhaye ga jitna ki grammar ka gyaan use Gibbon ki tarah likhna sikhaye ga."]
+
+29. Military tactics paani ki tarah hain; kyunki paani apne praakritik kram mein uchi jagahon se door bhaagta hai aur neeche ki taraf tezi karta hai.
+30. Toh war mein, raasta woh hai jo majboot hai usse bachna aur jo kamzor hai uspar prahar karna.
+
+[Paani ki tarah, kam se kam virodh ki line (line of least resistance) lena.]
+
+31. Paani us zameen ke swabhav ke anusar apna raste aakar deta hai jispar woh behta hai; soldier us dushman ke sambandh mein apni jeet par kaam karta hai jiska woh samna kar raha hai.
+32. Isliye, jaise paani koi sthir aakar (constant shape) nahi rakhta, waise hi warfare mein koi sthir sthitiyan (constant conditions) nahi hoti hain.
+33. Woh jo apne opponent ke sambandh mein apne tactics ko modify kar sakta hai aur is tarah jeetne mein kamyab hota hai, use heaven-born captain kaha ja sakta hai.
+34. Paanch tatva (water, fire, wood, metal, earth) hamesha barabar haavi nahi hote;
+
+[Yaani, jaise Wang Hsi kehte hain: "woh baari-baari se haavi hote hain."]
+
+chaar mausam ek ke baad ek ek doosre ke liye rasta banate hain.
+
+[Shabdash, "koi invariable seat nahi rakhte."]
+
+Chhote din aur lambe hote hain; chaand ke paas apne waning aur waxing ke periods hote hain.
+
+[Cf. V. ss. 6. Passage ka matlab simply Nature mein lagatar hone wale badlavon dwara war mein sthirta ki kami ko darshana hai. Tulna halanki bahut khush nahi hai, kyunki Sun Tzu dwara zikr kiye gaye ghatnaon ki niyamitata (regularity) war mein kisi bhi tarah se samantar nahi hai.]
