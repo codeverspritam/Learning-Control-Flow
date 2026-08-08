@@ -1107,4 +1107,235 @@ Ssu-ma Fa ne bhi teevra tippani ki: "Simply kisi ki maut tak jana jeet nahi laat
 
 ---
 
+# IX. THE ARMY ON THE MARCH (IX. MARCH PAR SENA)
 
+[Is aakarshak chapter ki samagri ko ss. 1 mein is heading ki tulna mein behtar dhang se darshaya gaya hai.]
+
+1. Sun Tzu ne kaha: Hum ab sena ke camp lagane, aur dushman ke nishanon ko dekhne ke prashn par aate hain. Pahaadon ke upar se tezi se guzarein, aur ghaatiyon (valleys) ke pados mein rahein.
+
+> [Vichar yeh hai ki banjar unchaaiyon ke beech mat tikein, balki paani aur ghaas ke supplies ke paas rahein. Cf. Wu Tzu, ch. 3: "Praakritik ovens mein mat tikein," yaani "ghaatiyon ke openings."
+> Chang Yu nimnlikhit anecdote batate hain: Wu-tu Ch`iang Later Han ke samay mein ek daku captain tha, aur Ma Yuan ko uski gang ko exterminate karne ke liye bheja gaya tha. Ch`iang ke pahadiyon mein ek sharan paane par, Ma Yuan ne battle ke liye majboor karne ka koi prayas nahi kiya, balki paani aur forage ke supplies ko command karne wali sabhi anukool positions par kabza kar liya. Ch`iang jaldi hi provisions ki kami ke kaaran aisi niraashajanak sthiti mein tha ki woh poori tarah se surrender karne ke liye majboor hua. Woh ghaatiyon ke pados mein rehne ke labh ko nahi jaanta tha.]
+
+2. Unche sthanon par camp lagayein,
+
+> [Unche pahadon par nahi, balki aaspas ke desh se unche knolls ya hillocks par.]
+
+suraj ke samne face karte hue.
+
+> [Tu Mu ise "south facing" ke roop mein lete hain, aur Ch`en Hao "east facing." Cf. infra, SS. 11, 13.
+> Ladne ke liye unchaaiyon par mat chadhein. Mountain warfare ke liye itna hi.]
+
+3. Ek nadi paar karne ke baad, aapko isse door chale jana chahiye.
+
+> ["Dushman ko aapke peeche paar karne ke liye lubhane ke liye," Ts`ao Kung ke anusar, aur yeh bhi, Chang Yu kehte hain, "apne evolutions mein baadhya na hone ke liye." *T`UNG TIEN* padhta hai, "Agar ENEMY ek nadi paar karta hai," etc. Lekin agle sentence ko dekhte hue, yeh lagbhag nischit roop se ek interpolation hai.]
+
+4. Jab koi hamla karne wala force apne aage ke march mein ek nadi paar karta hai, toh mid-stream mein usse milne ke liye aage mat badhein. Sena ke aadhe hisse ko paar karne dena sabse behtar hoga, aur phir apna hamla deliver karein.
+
+> [Li Ch`uan Wei River par Lung Chu par Han Hsin dwara jeeti gayi badi jeet ki taraf ishara karte hain. *CH`IEN HAN SHU*, ch. 34, fol. 6 verso ki taraf mudte hue, hum paate hain ki battle ko is tarah varnit kiya gaya hai: "Dono senayein nadi ke vipreet sides par drawn up thin. Raat mein, Han Hsin ne apne mardon ko ret se bhare das hazaar sacks lene aur upar ek dam construct karne ka order diya. Phir, apni sena ke aadhe hisse ko paar le jaate hue, unhone Lung Chu par hamla kiya; lekin kuch samay baad, apne prayas mein asafal hone ka naatak karte hue, woh tezi se doosre bank par wapas khinch gaye. Lung Chu is a-pratyashit kamyabi se bahut khush the, aur udgar karte hue: 'Mujhe yakin tha ki Han Hsin sach mein ek buzdil tha!' unhone unka peechha kiya aur badle mein nadi paar karna shuru kiya. Han Hsin ne ab sandbags ko kaatne ke liye ek party bheji, is tarah paani ka ek bada volume release hua, jo neeche beh gaya aur Lung Chu ki sena ke bade hisse ko paar karne se roka. Woh phir us force par mude jise kaat diya gaya tha, aur ise nasht kar diya, Lung Chu khud maare gaye logon mein shamil the. Sena ka baaki hissa, further bank par, bikharkal sabhi nirdeshon mein bhaag gaya.]
+
+5. Agar aap ladne ke liye utsukh hain, toh aapko ek nadi ke paas invader se milne nahi jana chahiye jise use paar karna hai.
+
+> [Uske paar karne ko rokne ke darr se.]
+
+6. Apni boat ko dushman se unche sthaan par aur suraj ke samne face karte hue moor karein.
+
+> [Dekhein supra, ss. 2. Paani ke sambandh mein in shabdon ka dohraav bahut a-sahaj hai. Chang Yu ke paas note hai: "River-bank par marshaled sainikon ke baare mein kaha gaya hai, ya khud stream mein anchored boats ke baare mein; kisi bhi maamle mein dushman se unche hona aur suraj ke samne face karna aavashyak hai." Doosre commentators bilkul bhi explicit nahi hain.]
+
+Dushman se milne ke liye up-stream mat badhein.
+
+> [Tu Mu kehte hain: "Jaise paani neeche ki taraf behta hai, humein river ke lower reaches par apna camp nahi lagana chahiye, is darr se ki dushman sluices khol de aur humein flood mein baha le jaye. Chu-ko Wu-hou ne tippani ki hai ki 'river warfare mein humein stream ke khilaf aage nahi badhna chahiye,' jo ki yeh kehne ke barabar hai ki hamare fleet ko dushman ke fleet ke neeche anchor nahi kiya jana chahiye, kyunki tab woh current ka faayda uthane aur hamare chhote kaam karne mein saksham honge." Ek aur khatra bhi hai, jo doosre commentators dwara note kiya gaya hai, ki dushman paani par poison phenk sakta hai jo hum tak baha kar laya jaye.]
+
+River warfare ke liye itna hi.
+
+7. Salt-marshes ko paar karne mein, aapka akela concern unhe bina kisi vilamb ke tezi se paar karna hona chahiye.
+
+> [Fresh water ki kami, herbage ki kharab quality, aur last but not least, kyunki woh low, flat, aur hamle ke liye exposed hain.]
+
+8. Agar salt-marsh mein ladne ke liye majboor hon, toh aapke paas paas mein paani aur ghaas honi chahiye, aur apni peeth ko pedon ke ek clump par rakhein.
+
+> [Li Ch`uan tippani karte hain ki zameen ke treacherous hone ki kam sambhavna hai jahan ped hain, jabki Tu Mu kehte hain ki woh rear ko protect karne ka kaam karenge.]
+
+Salt-marshes mein operations ke liye itna hi.
+
+9. Dry, level country mein, apni daayein aur peeth par rising ground ke sath ek aasaani se sugam position lein,
+
+> [Tu Mu T`ai Kung ko yeh kehte hue quote karte hain: "Ek sena ke paas uske baayein taraf ek stream ya marsh hona chahiye, aur uske daayein taraf ek hill ya tumulus."]
+
+taaki khatra aage ho sakta hai, aur suraksha peeche nihit ho. Flat country mein campaigning ke liye itna hi.
+
+10. Yeh military knowledge ke chaar upayogi branches hain
+
+> [Namatah, (1) mountains, (2) rivers, (3) marshes, aur (4) plains se sambandhit. Napoleon ke "Military Maxims," no. 1 se tulna karein.]
+
+jinne Yellow Emperor ko chaar alag sovereigns ko jeetne mein saksham banaya.
+
+> ["Yellow Emperor" ke sambandh mein: Mei Yao-ch`en kaafi plausibility ke sath poochhte hain ki kya text mein koi galati hai kyunki Huang Ti dwara chaar doosre Emperors ko jeetne ke baare mein kuch nahi jaana jata hai. *SHIH CHI* (ch. 1 ad init.) sirf Yen Ti aur Ch`ih Yu par unki jeet ke baare mein bolta hai. *LIU T`AO* mein yeh zikr kiya gaya hai ki unhone "sattar battles lade aur Empire ko pacified kiya." Ts`ao Kung ka vyakhya yeh hai ki Yellow Emperor vassal princes ke feudal system ko sthapit karne wale pehle the, jinmein se har ek (chaar ki sankhya tak) mool roop se Emperor ka title dharan karta tha. Li Ch`uan humein batate hain ki war ki art Huang Ti ke tehat shuru hui, jinhone ise apne Minister Feng Hou se praapt kiya.]
+
+11. Sabhi senayein low ground ke muqable high ground ko pasand karti hain.
+
+> ["High Ground," Mei Yao-ch`en kehte hain, "na sirf zyada agreeable aur salubrious hai, balki military point of view se zyada convenient hai; low ground na sirf damp aur unhealthy hai, balki ladne ke liye bhi a-suvidhajanak hai."]
+
+aur dark places ke muqable sunny places ko.
+
+12. Agar aap apne mardon ke prati saavdhan hain,
+
+> [Ts`ao Kung kehte hain: "Fresh water aur pasture ke liye banayein, jahan aap apne animals ko charne ke liye nikaal sakte hain."]
+
+aur hard ground par camp lagate hain, toh sena har prakar ki bimari se mukt hogi,
+
+> [Chang Yu kehte hain: "Climate ki dryness bimari ke phatne ko roke gi."]
+
+aur yeh jeet ko spell karega.
+
+13. Jab aap kisi hill ya bank par aate hain, toh daayein rear par dhalan ke sath, sunny side par kabza karein. Is tarah aap ek sath apne sainikon ke labh ke liye kaam karenge aur zameen ke praakritik labhon ka upayog karenge.
+14. Jab, up-country mein bhaari baarish ke parinaamswarup, ek nadi jise aap ford karna chahte hain swollen aur foam se flecked ho, toh aapko iske ghattane tak intazar karna chahiye.
+15. Desh jismein beech mein behne wali torrents ke sath precipitous cliffs hon, gehre natural hollows hon,
+
+> [Baad wale ko "har taraf se steep banks dwara enclosed, bottom mein paani ke pools wale sthanon" ke roop mein paribhashit kiya gaya hai.]
+
+confined places,
+
+> ["Natural pens ya prisons" ya "teen taraf se precipices dwara ghere gaye sthan -- andar ghusna aasan, lekin baahar nikalna kathin" ke roop mein paribhashit.]
+
+tangled thickets,
+
+> ["Aise ghane undergrowth se dhake gaye sthan ki spears ka upayog nahi kiya ja sakta" ke roop mein paribhashit.]
+
+quagmires
+
+> ["Low-lying places, mud ke sath itne bhaari ki chariots aur horsemen ke liye a-paargaamya (impassable) hon" ke roop mein paribhashit.]
+
+aur crevasses,
+
+> [Mei Yao-ch`en dwara "beetling cliffs ke beech ek sankuchit kathin raasta" ke roop mein paribhashit. Tu Mu ka note hai "pedon aur rocks se dhaka hua zameen, aur kai ravines aur pitfalls dwara intersected." Yeh bahut vague hai, lekin Chia Lin ise defile ya sankuchit pass ke roop mein kaafi saaf taur par samjhate hain, aur Chang Yu kaafi hadd tak wahi drishtikon lete hain. Kul milakar, commentators ka weight nischit roop se "defile" rendering ki taraf jhukta hai. Lekin ek jagah par Chinese ka aam matlab "a crack ya fissure" hai aur yeh tathya ki sentence mein kahin aur Chinese ka matlab defile ke swabhav mein kuch ishara karta hai, mujhe sochne par majboor karta hai ki Sun Tzu yahan crevasses ke baare mein bol rahe hain.]
+
+ko sabhi sambhavid speed ke sath chhod diya jana chahiye aur paas nahi aana chahiye.
+
+16. Jabki hum aise sthanon se door rehte hain, humein dushman ko unke paas lana chahiye; jabki hum unka samna karte hain, humein dushman ko unhe apne rear par rakhne dena chahiye.
+17. Agar aapke camp ke pados mein koi hilly country, aquatic ghaas se ghere hue ponds, reeds se bhare hue hollow basins, ya ghane undergrowth wale woods hon, toh unhe dhyan se routed out aur search kiya jana chahiye; kyunki yeh aise sthan hain jahan ambush mein mard ya insidious spies ke lurk hone ki sambhavna hai.
+
+> [Chang Yu ke paas note hai: "Humein un traitors ke khilaf bhi guard par rehna chahiye jo close covert mein late ho sakte hain, gupt roop se hamari kamzorion ko spy karte hue aur hamare instructions ko sunte hue."]
+
+18. Jab dushman paas mein ho aur shant rahe, toh woh apni position ki praakritik taqat par nirbhar kar raha hai.
+
+> [Yahan signs padhne par Sun Tzu ke remarks shuru hote hain, jismein se kaafi kuch itna achha hai ki ise Gen. Baden-Powell ke "Aids to Scouting" jaise modern manual mein lagbhag shamil kiya ja sakta tha.]
+
+19. Jab woh door rehta hai aur battle ko provoke karne ki koshish karta hai, toh woh doosri taraf ke aage badhne ke liye utsukh hai.
+
+> [Shayad kyunki hum ek majboot position mein hain jisse woh humein dislodge karna chahta hai. "Agar woh hamare paas aata, Tu Mu kehte hain, "aur battle ko majboor karne ki koshish karta, toh woh humse nafrat karta hua lagta, aur hamare challenge ka jawab dene ki kam sambhavna hoti."]
+
+20. Agar uske encampment ki jagah aasaani se sugam hai, toh woh ek baait (chara) tender kar raha hai.
+21. Ek forest ke pedon ke beech movement dikhata hai ki dushman aage badh raha hai.
+
+> [Ts`ao Kung ise "raasta saaf karne ke liye ped kaatna" ke roop mein samjhate hain, aur Chang Yu kehte hain: "Har aadmi unche sthanon par chadhne aur dushman ko observe karne ke liye scouts bheja karta hai. Agar ek scout dekhta hai ki forest ke ped move kar rahe hain aur hil rahe hain, toh woh jaan sakta hai ki unhe dushman ke march ke liye raasta saaf karne ke liye kaata ja raha hai."]
+
+Ghane ghaas ke beech kai screens ka dikhna matlab hai ki dushman humein suspicious banana chahta hai.
+
+> [Tu Yu ka vyakhya, Ts`ao Kung se borrow kiya gaya, is tarah hai: "Ghane vegetation ke beech kai screens ya sheds ki maujoodgi is baat ka pakka nishan hai ki dushman bhaag gaya hai aur, peechha kiye jaane ke darr se, usne humein ek ambush ka sandeh karane ke liye in chhipne ke sthanon ko construct kiya hai." Aisa lagta hai ki yeh "screens" kisi bhi lambi ghaas se tezi se ek sath baandhe gaye the jiske samne retreat karne wala dushman aaya tha.]
+
+22. Apni flight mein birds ka uthna ek ambuscade ka nishan hai.
+
+> [Chang Yu ka vyakhya nischit roop se sahi hai: "Jab ek straight line mein udne wale birds achanak upar ki taraf shoot karte hain, toh iska matlab hai ki us jagah ke neeche sainik ambush mein hain."]
+
+Startled beasts ishara karte hain ki ek achanak hamla aane wala hai.
+
+23. Jab ek unche column mein dhool uthti hai, toh yeh chariots ke aage badhne ka nishan hai; jab dhool neeche hoti hai, lekin ek vyapak kshetra mein phali hui, toh yeh infantry ke aagman ko betokens karti hai.
+
+> ["High aur sharp," ya ek peak tak uthna, dhool par laagu hone par beshak thoda exaggerated hai. Commentators mardon se zyada bhaari hone par ghodon aur chariots ke dwara zyada dhool uthane, aur ek hi wheel-track mein ek doosre ka palan karne ke zariya is ghatna ko samjhate hain, jabki foot-soldiers ranks mein march kar rahe honge, kai abreast. Chang Yu ke anusar, "march par har sena ke paas kuch raaste aage scouts hone chahiye, jo dushman dwara uthayi gayi dhool ko dekhne par, wapas gallop karenge aur commander-in-chief ko report karenge." Cf. Gen. Baden-Powell: "Jaise aap aage badhte hain, kehne ke liye, ek hostile desh mein, aapki aankhein dushman ya uske kisi nishan ke liye door dekhni chahiye: figures, dhool ka uthna, birds ka uthna, arms ki chamak, etc." [1]]
+
+Jab yeh alag-alag nirdeshon mein branch out hoti hai, toh yeh dikhati hai ki parties ko firewood ik इकट्ठा karne ke liye bheja gaya hai. Idhar-udhar move karne wale dhool ke kuch baadal ishara karte hain ki sena camp lagayi hui hai.
+
+> [Chang Yu kehte hain: "Ek cantonment ke liye defenses ko apportion karte waqt, light horse ko position ka sarvekshan karne aur iski circumference ke sath-sath weak aur strong points ko ascertian karne ke liye baahar bheja jayega. Isliye dhool ki chhoti matra aur iska motion."]
+
+24. Namra shabd (humble words) aur badhi hui taiyariyan nishan hain ki dushman aage badhne wala hai.
+
+> ["Jaise ki woh hamare bade darr mein khade the," Tu Mu kehte hain. "Unka uddeshya humein contemptuous aur careless banana hai, jiske baad woh humpar hamla karenge." Chang Yu Ch`i-mo ke T`ien Tan ki story ki taraf ishara karte hain Yen forces ke khilaf, jinka netritv Ch`i Chieh kar rahe the. *SHIH CHI* ke ch. 82 mein hum padhte hain: "T`ien Tan ne khule taur par kaha: 'Mera akela darr yeh hai ki Yen sena unke Ch`i prisoners ke naak kaat sakti hai aur unhe hamare khilaf ladne ke liye front rank mein rakh sakti hai; woh hamare shehar ka undoing hoga.' Doosri taraf is bhashan se soochit hone par, turant suggestion par kaam kiya; lekin shehar ke andar ke log apne countrymen ko is tarah mutilated dekhkar gussa ho gaye, aur sirf is darr se ki woh dushman ke haathon mein gir jaayein, unhone pehle se zyada obstinately khud ka defence karne ke liye nerved kiya. Ek baar phir T`ien Tan ne converted spies ko wapas bheja jinhone dushman ko in shabdon ki report ki: 'Mujhe jis cheez se sabse zyada darr hai woh yeh hai ki Yen ke mard town ke baahar ancestral tombs ko khod sakte hain, aur hamare forefathers par is apmaan ko thop kar humein faint-hearted bana sakte hain.' Forthwith besiegers ne sabhi graves ko khod diya aur unme padi corpses ko jala diya. Aur Chi-mo ke nivaasiyon ne, city-walls se is outrage ko dekhte hue, apasionatelly roye aur sabhi baahar jaane aur ladne ke liye impatient the, unka gussa das guna badh gaya tha. T`ien Tan tab jaanta tha ki uske sainik kisi bhi enterprise ke liye taiyar the. Lekin sword ke bajaye, unhone khud bhi apne haathon mein ek mattock liya, aur doosron ko apne sabse behtareen warriors ke beech distribute karne ka order diya, jabki ranks unki wives aur concubines se bhar gaye the. Unhone phir baaki sabhi rations ko serve kiya aur apne mardon ko apna fill khane ke liye kaha. Regular soldiers ko nazar se door rehne ke liye kaha gaya, aur walls ko purane aur kamzor mardon aur mahilaon se manned kiya gaya. Yeh hone par, envoys ko surrender ke terms ko arrange karne ke liye dushman ke camp mein dispatched kiya gaya, jispar Yen sena khushi ke liye chillaane lagi. T`ien Tan ne logon se 20,000 ounces silver bhi ik इकट्ठा kiya, aur Chi-mo ke ameer citizens ko ise Yen general ke paas prarthana ke sath bhejvaya ki, jab town capitulated ho jaye, toh woh unke gharon ko plunder karne ya unki mahilaon ko maltreated karne ki anumati dega. Ch`i Chieh ne, high good humor mein, unki prarthana ko manjoor kiya; lekin uski sena ab tezi se slack aur careless ho gayi. Is beech, T`ien Tan ne ek hazaar oxen ko ek sath laya, unhe red silk ke pieces se decked kiya, unke bodies ko, dragon-like, colored stripes se paint kiya, aur unke horns par sharp blades aur unki tails par well-greased rushes baandhe. Jab raat hui, toh unhone rushes ke ends ko jalaya, aur oxen ko kai holes ke zariya dhakela jinhe unhone walls mein pierce kiya tha, unhe 5000 picked warriors ke force ke sath back up karte hue. Animals, pain se maddened, tezi se dushman ke camp mein ghuse jahan unhone atyadhik confusion aur dismay paida kiya; kyunki unki tails ne torches ke roop mein kaam kiya, unke bodies par hideous pattern dikhate hue, aur unke horns par ke weapons ne kisi ko bhi maar diya ya ghayal kar diya jiske sath woh sampark mein aaye. Is beech, 5000 ke band ne mukh mein gags ke sath creep kiya tha, aur ab khud ko dushman par phenk diya. Usi moment par khud city mein ek bhayanak din utha, baaki bache sabhi logon ne drums ko banging karke aur bronze vessels par hammering karke jitna ho sake utna shor machaya, jab tak ki heaven aur earth uproar se convulsed nahi ho gaye. Terror-stricken, Yen sena disorder mein bhaag gayi, Ch`i ke mard dwara tezi se peechha kiye jaane par, jo unke general Ch`i Chien ko maarne mein kamyab hue.... Battle ka parinaam lagbhag sattar sheharon ki ultimate recovery thi jo Ch`i State se sambandhit the."]
+
+Hinsaatmak bhasha (violent language) aur aise aage badhna jaise hamle ke liye aage badhna nishan hain ki woh retreat karega.
+
+25. Jab light chariots pehle baahar aate hain aur wings par ek position lete hain, toh yeh ek nishan hai ki dushman battle ke liye form kar raha hai.
+26. Ek sworn covenant ke bina Peace proposals ek plot ka ishara karte hain.
+
+> [Yahan reading a-nishchit hai. Li Ch`uan "oaths aur hostages dwara confirmed ek treaty" ka ishara karte hain. Wang Hsi aur Chang Yu, doosri taraf, simply "bina kisi kaaran," "ek mamooli bahane par" kehte hain.]
+
+27. Jab bahut zyada running about hota hai
+
+> [Har aadmi apne regimental banner ke tehat apni uchit jagah par tezi karta hua.]
+
+aur sainik rank mein girte hain, toh iska matlab hai ki critical moment aa gaya hai.
+
+28. Jab kuch ko aage badhte hue aur kuch ko retreat karte hue dekha jata hai, toh yeh ek lure (chara) hai.
+29. Jab sainik apni spears par lean karte hue khade hote hain, toh woh khane ki kami se faint hain.
+30. Agar paani khinchne ke liye bheje gaye log khud peene se shuru karte hain, toh sena pyaas se peedit hai.
+
+> [Jaise Tu Mu tippani karte hain: "Ek single aadmi ke vyavhaar se ek poori sena ki sthiti ko jaana ja sakta hai."]
+
+31. Agar dushman haasil kiye jaane wale ek faayde ko dekhta hai aur ise surakshit karne ka koi prayas nahi karta hai, toh sainik thake hue hain.
+32. Agar birds kisi jagah par gathering karte hain, toh woh un-occupied hai.
+
+> [Dhyan mein rakhne ke liye ek upayogi tathya jab, udaharan ke liye, jaise Ch`en Hao kehte hain, dushman ne gupt roop se apna camp chhod diya hai.]
+
+Raat ko Clamor nervousness ko betokens karta hai.
+
+33. Agar camp mein disturbance hai, toh general ki authority kamzor hai. Agar banners aur flags idhar-udhar shift kiye jaate hain, toh sedition afoot hai. Agar officers gusse mein hain, toh iska matlab hai ki mard thake hue hain.
+
+> [Tu Mu sentence ko alag tarah se samajhte hain: "Agar ek sena ke sabhi officers apne general se gusse mein hain, toh iska matlab hai ki woh thakawat se toote hue hain" un prayason ke kaaran jo unhone unse maange hain.]
+
+34. Jab ek sena apne ghodon ko anaj (grain) khilati hai aur apne maveshiyon (cattle) ko khane ke liye maarti hai,
+
+> [Aam kram mein, mardon ko anaj aur ghodon ko mukhya roop se ghaas khilayi jayegi.]
+
+aur jab mard apne cooking-pots ko camp-fires par nahi latkaate hain, yeh dikhate hue ki woh apne tents mein wapas nahi lautenge, toh aap jaan sakte hain ki woh maut tak ladne ke liye dhrid-sankalpit (determined) hain.
+
+> [Main yahan *HOU HAN SHU*, ch. 71 se vyakhyatmak passage quote kar sakta hoon, jo *P`EI WEN YUN FU* dwara abbreviated form mein diya gaya hai: "Liang ke rebel Wang Kuo Ch`en-ts`ang ke town ka gheraav kar rahe the, aur Huang-fu Sung, jo supreme command mein the, aur Tung Cho ko unke khilaf bheja gaya tha. Baad wale ne hasty measures ke liye press kiya, lekin Sung ne unki salah par kaan nahi dhara. Aakhirkar rebels poori tarah se worn out ho gaye, aur apne aap apne weapons phenkna shuru kar diya. Sung hamle ke liye aage nahi badh rahe the, lekin Cho ne kaha: 'Yeh war ka ek siddhant hai ki niraash mardon ka peechha na karein aur retreat karne wale host ko press na karein.' Sung ne jawab diya: 'Yeh yahan laagu nahi hota. Main jispar hamla karne wala hoon woh ek thaki hui sena hai, retreat karne wala host nahi; anushasit sainikon ke sath main ek disorganized multitude par gir raha hoon, niraash mardon ke band par nahi.' Is par woh apne colleague dwara un-supported hamle ke liye aage badhte hain, aur dushman ko routed karte hain, Wang Kuo maare jaate hain."]
+
+35. Chhote knots mein ek sath whispering karte hue ya subdued tones mein bolte hue mardon ka drishya rank aur file ke beech disaffection ki taraf ishara karta hai.
+36. Bahut aksar rewards darshate hain ki dushman apne resources ke ant par hai;
+
+> [Kyunki, jab ek sena hard pressed hoti hai, jaise Tu Mu kehte hain, hamesha mutiny ka darr hota hai, aur mardon ko achhe temper mein rakhne ke liye lavish rewards diye jaate hain.]
+
+bahut zyada punishments dire distress ki sthiti ko betray karte hain.
+
+> [Kyunki aise case mein discipline relaxed ho jata hai, aur mardon ko unki duty par rakhne ke liye unwonted severity zaroori hoti hai.]
+
+37. Bluster se shuru karna, lekin baad mein dushman ki sankhyaon par darr jana, intelligence ki supreme kami ko dikhata hai.
+
+> [Main Ts`ao Kung ke vyakhya ka palan karta hoon, jise Li Ch`uan, Tu Mu, aur Chang Yu dwara bhi apnaya gaya hai. Tu Yu, Chia Lin, Mei Tao-ch`en aur Wang Hsi dwara set forth ek aur sambhavid matlab hai: "General jo pehle apne mardon ke prati tyrannical hai, aur phir darr mein ki woh mutiny karenge, etc." Yeh sentence ko rewards aur punishments ke baare mein pehle jo hua tha usse jodega.]
+
+38. Jab envoys compliments ke sath unke mukh mein bheje jaate hain, toh yeh ek nishan hai ki dushman aarmistice (truce) chahta hai.
+
+> [Tu Mu kehte hain: "Agar dushman hostages bhejkar friendly relations kholta hai, toh yeh ek nishan hai ki woh ek aarmistice ke liye utsukh hain, ya toh unki taqat thak gayi hai ya kisi doosre kaaran se." Lekin aise spasht inference nikaalne ke liye Sun Tzu ki zaroorat nahi hai.]
+
+39. Agar dushman ke sainik gusse mein march karte hain aur bina battle mein shamil hue ya dobara baahar nikale lambe samay tak hamare samne khade rehte hain, toh sthiti ek aisi hai jo badi vigilance aur circumspection ki maang karti hai.
+
+> [Ts`ao Kung kehte hain ki is tarah ka ek maneuver ek a-pratyashit flank attack ya ambush lagane ke liye samay haasil karne ka sirf ek ruse ho sakta hai.]
+
+40. Agar hamare sainik sankhya mein dushman se zyada nahi hain, toh woh amply sufficient hai; iska matlab sirf yeh hai ki koi direct attack nahi kiya ja sakta.
+
+> [Shabdash, "koi martial advance nahi." Yaani ki, CHENG tactics aur frontal attacks se bacha jana chahiye, aur iske bajaye stratagem ka sahara liya jana chahiye.]
+
+Hum jo kar sakte hain woh simply hamare paas uplabdh saari taqat ko kendrit karna, dushman par gehri nazar rakhna, aur reinforcements haasil karna hai.
+
+> [Yeh ek aspasht sentence hai, aur commentators mein se koi bhi isse bahut achha sense nikaalne mein kamyab nahi hota है. Main Li Ch`uan ka palan karta hoon, jo sabse saral vyakhya offer karte hue dikhte hain: "Sirf wohi side jo zyada mard paata hai jeetega." Kismat se hamare paas Chang Yu hain iske matlab ko ek aisi bhasha mein expound karne ke liye jo khud lucidity hai: "Jab sankhyaayein barabar hon, aur koi anukool opening prastut na ho, yadyapi hum ek sustained attack deliver karne ke liye kaafi majboot nahi ho sakte hain, hum apne sutlers aur camp-followers ke beech additional recruits dhoondh sakte hain, aur phir, apni forces ko kendrit karte hue aur dushman par gehri nazar rakhte hue, jeet ko chheen-ne ka contrive kar sakte hain. Lekin humein hamari madad karne ke liye foreign soldiers ko borrow karne se bachna chahiye." Phir woh Wei Liao Tzu, ch. 3 se quote karte hain: "Mercenary sainikon ki nominal strength 100,000 ho sakti hai, lekin unka asli mulya us figure ke aadhe se zyada nahi hoga."]
+
+41. Woh jo koi forethought nahi dikhata balki apne opponents ko halka leta hai uska unke dwara capture hona pakka hai.
+
+> [Ch`en Hao, *TSO CHUAN* se quote karte hue, kehte hain: "Agar bees aur scorpions poison carry karte hain, toh ek hostile state kitna zyada karega! Ek puny opponent ko bhi, phir, contempt ke sath treat nahi kiya jana chahiye."]
+
+42. Agar sainikon ko aapke prati attached hone se pehle saja di jaati hai, toh woh submissive sabit nahi honge; aur, jab tak submissive nahi honge, woh vyavaharik roop se useless honge. Agar, jab sainik aapke prati attached ho gaye hain, saja laagu nahi ki jaati hai, toh woh abhi bhi useless honge.
+43. Isliye sainikon ko pehle sthaan par humanity ke sath treat kiya jana chahiye, lekin iron discipline ke saadhan dwara control mein rakha jana chahiye.
+
+> [Yen Tzu [B.C. 493] ne Ssu-ma Jang-chu ke baare mein kaha: "Unke civil sadgunon ne unhe logon ke prati pyara banaya; unke martial prowess ne unke dushmanon ko darr mein rakha." Cf. Wu Tzu, ch. 4 init.: "Ideal commander culture ko ek warlike temper ke sath joda hai; arms ka profession hardness aur tenderness ke combination ki maang karta hai."]
+
+Yeh jeet ka ek nischit raasta hai.
+
+44. Agar sainikon ko train karne mein commands ko aadatand laagu kiya jata hai, toh sena achhi tarah se anushasit hogi; agar nahi, toh iska anushasan kharab hoga.
+45. Agar ek general apne mardon mein vishwas dikhata hai lekin hamesha apne orders ka palan kiye jaane par zor deta hai,
+
+> [Tu Mu kehte hain: "Ek general ko shanti ke samay mein apne mardon mein kindly confidence dikhana chahiye aur apni authority ko aadaraniya bhi banana chahiye, taaki jab woh dushman ka samna karne aayein, toh orders ko execute kiya ja sake aur discipline ko banaye rakha ja sake, kyunki woh sabhi unpar vishwas karte hain aur unki taraf dekhte hain." Sun Tzu ne ss. 44 mein jo kaha hai, halanki, koi is tarah ki cheez ki umeed karega: "Agar ek general ko hamesha vishwas hai ki uske orders ko poora kiya jayega," etc.]
+
+toh labh aapas ka (mutual) hoga.
+
+> [Chang Yu kehte hain: "General ko apne command ke tehat mardon mein vishwas hai, aur mard docile hain, unpar vishwas karte hue. Is tarah labh mutual hai" Woh Wei Liao Tzu, ch. 4 se ek pregnant sentence quote karte hain: "Orders dene ka art chhote blunders ko correct karne ki koshish karna nahi hai aur chhotey doubts dwara swayed na hona hai." Vacillation aur fussiness ek sena ke vishwas ko sap karne ke sabse pakke saadhan hain.]
+
+---
