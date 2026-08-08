@@ -1844,3 +1844,105 @@ aur jab tak aap ek decisive battle nahi lad sakte tab tak dushman ke anukool khu
 68. Pehle, phir, ek maiden ki coyness ko exhibit karein, jab tak ki dushman aapko ek opening na de; uske baad ek running hare ki rapidity ki nakal karein, aur dushman ke liye aapka virodh karna bahut der ho jayegi.
 
 > [Kyunki khargosh (hare) apni atyadhik timidity ke liye jana jata hai, tulna shayad hi felicitous lagti hai. Lekin beshak Sun Tzu sirf iski speed ke baare mein soch rahe the. Shabdon ko yeh matlab lene ke liye liya gaya hai: Aapko dushman se utni hi tezi se bhaagna chahiye jitna ki ek escaping hare; lekin ise Tu Mu dwara sahi dhang se kharij kar diya gaya hai.]
+
+---
+
+# XII. THE ATTACK BY FIRE (XII. AAG DWARA HAMLA)
+
+[Aadhe se thoda zyada chapter (SS. 1-13) aag ke vishay par samarpit hai, jiske baad author doosre vishayon mein branch off karta hai.]
+
+1. Sun Tzu ne kaha: Aag se hamla karne ke paanch tareeqe hain. Pehla dushman ke camp mein sainikon ko jalaana hai;
+
+> [Toh Tu Mu. Li Ch`uan kehte hain: "Camp mein aag lagayein, aur sainikon ko maar daalein" (jab woh flames se bhaagne ki koshish karte hain). Pan Ch`ao, King of Shan-shan ke paas ek diplomatic mission par bheje gaye [dekhein XI. ss. 51, note], ne khud ko Hsiung-nu [Chinese ke mortal enemies] se ek envoy ke a-pratyashit aagman dwara atyadhik peril mein sthit paaya. Apne officers ke sath consultation mein, unhone udgar kiya: "Khabhi sahas na karein, kabhi na jeetein! [1] Hamare paas ab khula akela raasta raat ke cover mein barbarians par aag dwara ek assault karna hai, jab woh hamari sankhyaon ko discern karne mein saksham nahi honge. Unke panic se labh uthate hue, hum unhe poori tarah se exterminate kar denge; yeh King ke sahas ko thanda karega aur humein glory se dhak dega, hamare mission ki kamyabi ko sunishchit karne ke alawa.' Officers sabhi ne jawab diya ki pehle Intendant ke sath maamle par charcha karna zaroori hoga. Pan Ch`ao phir ek passion mein gir gaye: 'Yeh aaj hai,' woh chillaaye, 'ki hamare bhagya ka faisla hona chahiye! Intendant sirf ek humdrum civilian hai, jo hamare project ke baare mein sunkar nischit roop se dar jayega, aur sab kuch light mein laya jayega. Ek inglorious maut valiant warriors ke liye koi yogya bhagya nahi hai.' Sabhi phir waise hi karne ke liye sehamat hue jaise woh chahte the. Tadanusaar, jaise hi raat hui, woh aur unka chhota band tezi se barbarian camp ki taraf apna raasta banaye. Us samay ek majboot gale beh raha tha. Pan Ch`ao ne party ke das ko drums lene aur dushman ke barracks ke peeche chhipne ka order diya, yeh arranged kiye jaane par ki jab woh flames ko upar shoot karte hue dekhein, toh unhe apni poori taqat se drumming aur yelling shuru kar deni chahiye. Apne mardon ke baaki hisse ko, bows aur crossbows se armed, unhone camp ke gate par ambuscade mein post kiya. Unhone phir windward side se sthaan par aag laga di, jispar Hsiung-nu ke front aur rear par drums aur shouting ki ek deafening noise uthi, jo frantic disorder mein pell-mell baahar rushed hue. Pan Ch`ao ne apne khud ke haath se unmein se teen ko maar daala, jabki unke doston ne envoy aur uske suite ke tees ke saron ko kaat diya. Baaki, kul milakar ek sau se zyada, flames mein perish ho gaye. Agle din, Pan Ch`ao ne, unke vicharon ko divining karte hue, uthaye hue haath ke sath kaha: 'Yadyapi aap pichhli raat hamare sath nahi gaye the, mujhe nahi sochna chahiye, Sir, hamare kaarname ke liye sole credit lene ka.' Isne Kuo Hsun ko santusht kiya, aur Pan Ch`ao ne, Kuang, King of Shan-shan ko bulakar, unhe barbarian envoy ka sar dikhaya. Poora kingdom darr aur trembling se seized ho gaya tha, jise Pan Ch`ao ne ek public proclamation issue karke allay karne ke steps liye. Phir, king ke beton ko hostage ke roop mein lekar, woh Tou Ku ko apni report dene ke liye laute." *HOU HAN SHU*, ch. 47, ff. 1, 2.]]
+
+doosra stores ko jalaana hai;
+
+> [Tu Mu kehte hain: "Provisions, fuel aur fodder." Kiangnan ki rebellious population ko subdue karne ke liye, Kao Keng ne Sui dynasty ke Wen Ti ko periodic raids karne aur unke grain ke stores ko jalaane ki sifarish ki, ek policy jo lambe daur mein poori tarah se kamyab sabit hui.]
+
+teesra baggage trains ko jalaana hai;
+
+> [Diya gaya ek udaharan 200 A.D. mein Ts`ao Ts`ao dwara Yuan Shao ke wagons aur impedimenta ka vinash hai.]
+
+chautha arsenals aur magazines ko jalaana hai;
+
+> [Tu Mu kehte hain ki "arsenals" aur "magazines" mein maujood cheezein ek hi hain. Woh weapons aur doosre implements, bullion aur clothing ko specify karte hain. Cf. VII. ss. 11.]
+
+paanchvaan dushman ke beech dropping fire hurl karna hai.
+
+> [Tu Yu *T`UNG TIEN* mein kehte hain: "Dushman ke camp mein fire drop karna. Jis method dwara yeh kiya ja sakta hai woh hai arrows ke tips ko ek brazier mein dip karke alight karna, aur phir unhe dushman ki lines mein powerful crossbows se shoot karna."]
+
+2. Hamla karne ke liye, hamare paas saadhan uplabdh hone chahiye.
+
+> [Ts`ao Kung sochte hain ki "dushman ke camp mein traitors" ko sandarbhit kiya gaya hai. Lekin Ch`en Hao ke sahi hone ki zyada sambhavna hai yeh kehne mein: "Hamare paas aam taur par anukool paristhitiyan honi chahiye, na ki sirf hamari madad karne ke liye traitors." Chia Lin kehte hain: "Humein hawa aur dry weather ka faayda uthana chahiye."]
+
+Aag uthane ke liye material ko hamesha readiness mein rakha jana chahiye.
+
+> [Tu Mu aag banane ke liye material ke roop mein sujhav dete hain: "dry vegetable matter, reeds, brushwood, straw, grease, oil, etc." Yahan hamare paas material cause hai. Chang Yu kehte hain: "aag hoarding karne ke liye vessels, aag lighting karne ke liye stuff."]
+
+3. Aag se hamla karne ke liye ek uchit season hota hai, aur conflagration shuru karne ke liye vishesh din.
+4. Uchit season tab hota hai jab mausam bahut dry hota hai; vishesh din woh hain jab chaand Sieve, Wall, Wing ya Cross-bar ke constellations mein hota hai;
+
+> [Yeh, kramashah, Twenty-eight Stellar Mansions ke 7th, 14th, 27th, aur 28th hain, jo lagbhag Sagittarius, Pegasus, Crater aur Corvus se correspond karte hain.]
+
+kyunki yeh chaaron rising wind ke din hain.
+
+5. Aag se hamla karte waqt, paanch sambhavid developments se milne ke liye taiyar rehna chahiye:
+6. (1) Jab dushman ke camp ke andar aag phat ti hai, toh baahar se hamle ke sath turant respond karein.
+7. (2) Agar aag ka phatna hota hai, lekin dushman ke sainik shant rehte hain, toh apna samay bide karein aur hamla na karein.
+
+> [Aag se hamla karne ka mukhya uddeshya dushman ko confusion mein phenkna hai. Agar yeh prabhav produce nahi hota hai, toh iska matlab hai ki dushman humein receive karne ke liye taiyar hai. Isliye saavdhani ki aavashyakta.]
+
+8. (3) Jab flames ki force apne height par pahonch jaye, toh agar yeh practicable ho, toh hamle ke sath iska peechha karein; agar nahi, toh wahin rahein jahan aap hain.
+
+> [Ts`ao Kung kehte hain: "Agar aap ek sambhavid raasta dekhte hain, toh aage badhein; lekin agar aap kathinaaiyon ko bahut bada paate hain, toh retire ho jayein."]
+
+9. (4) Agar baahar se aag se assault karna sambhav hai, toh iske andar phatne ka intazar na karein, balki ek anukool moment par apna hamla deliver karein.
+
+> [Tu Mu kehte hain ki pehle ke paragraphs dushman ke camp ke andar aag phatne (chahe accidentally, hum maan sakte hain, ya incendiaries ke agency dwara) ka sandarbh rakhte the. "Lekin," woh jaari rakhte hain, "agar dushman ghaas ki matra se littered ek waste place mein settled hai, ya agar usne apni camp ko ek aisi position mein pitch kiya hai jise burnt out kiya ja sakta hai, toh humein kisi bhi seasonable opportunity par uske khilaf apni aag carry karni chahiye, aur andar hone wale outbreak ki umeed mein intazar nahi karna chahiye, is darr se ki hamare opponents khud aaspas ke vegetation ko burn up na kar dein, aur is tarah hamare apne prayason ko fruitless na bana dein."
+> Prasiddh Li Ling ne ek baar Hsiung-nu ke leader ko is tarah se baffle kiya tha. Baad wale ne, ek anukool hawa ka faayda uthate hue, Chinese general ke camp mein aag lagane ki koshish ki, lekin paaya ki pados mein combustible vegetation ka har scrap pehle hi burnt down kiya ja chuka tha. Doosri taraf, Po-ts`ai, Yellow Turban rebels ka ek general, 184 A.D. mein is saral saavdhani ke neglect dwara badly defeat hua tha. "Ek badi sena ke head par woh Ch`ang-she ka gheraav kar raha tha, jise Huang-fu Sung dwara held kiya gaya tha. Garrison bahut chhota tha, aur nervous-ness ka ek general ahasas ranks mein phail gaya tha; toh Huang-fu Sung ne apne officers ko ek sath bulaya aur kaha:
+> 'War mein, hamle ke kai indirect methods hain, aur numbers har cheez ke liye count nahi karte. [Commentator yahan Sun Tzu, V. SS. 5, 6 aur 10 ko quote karta hai.] Ab rebels ne ghani ghaas ke beech apna camp pitch kiya hai jo hawa behne par aasaani se jal jayegi. Agar hum raat ko isme aag laga dete hain, toh woh ek panic mein phenk diye jaayenge, aur hum ek sortie bana sakte hain aur har side se ek sath unpar hamla kar sakte hain, is tarah T`ien Tan ke achievement ki emulating karte hue.' [Dekhein p. 90.] Usi shaam, ek majboot breeze sprang up hui; toh Huang-fu Sung ne apne sainikon ko reeds ko torches mein baandhne aur city walls par guard mount karne ka instruction diya, jiske baad unhone daring mardon ke ek band ko baahar bheja, jinhone stealthily lines ke zariya apna raasta banaya aur loud shouts aur yells ke sath aag shuru ki. Simultaneously, light ka ek glare city walls se upar shot hua, aur Huang-fu Sung ne, apne drums sounding karte hue, ek rapid charge led kiya, jisne rebels ko confusion mein phenk diya aur unhe headlong flight par daal diya." [*HOU HAN SHU*, ch. 71.]]
+
+10. (5) Jab aap aag shuru karte hain, toh iske windward side par rahein. Leeward side se hamla na karein.
+
+> [Chang Yu, Tu Yu ka palan karte hue, kehte hain: "Jab aap aag banate hain, toh dushman isse door retreat karega; agar aap uske retreat ka virodh karte hain aur tab uspar hamla karte hain, toh woh desperately ladega, jo aapki kamyabi mein conduce nahi karega." Ek thoda zyada spasht vyakhya Tu Mu dwara diya gaya hai: "Agar hawa east mein hai, toh dushman ke east mein burning shuru karein, aur us side se khud hamle ka peechha karein. Agar aap east side par aag shuru karte hain, aur phir west se hamla karte hain, toh aap apne dushman ki tarah hi peedit honge."]
+
+11. Din ke samay uthne wali hawa lambe samay tak tikti hai, lekin raat ki breeze jaldi hi gir jaati hai.
+
+> [Cf. Lao Tzu ka kehna: "Ek violent wind ek subah ke space tak nahi tikti." (*TAO TE CHING*, chap. 23.) Mei Yao-ch`en aur Wang Hsi kehte hain: "Ek day breeze nightfall par dies down hoti hai, aur ek night breeze daybreak par. Yeh wahi hai jo ek general rule ke roop mein hota hai." Observed ghatna kaafi sateek ho sakti hai, lekin yeh sense kaise praapt kiya jana hai woh apparent nahi hai.]
+
+12. Har sena mein, aag se jude paanch developments ko jaana jana chahiye, stars ke movements ko calculate kiya jana chahiye, aur uchit dinon ke liye ek watch rakhi jaani chahiye.
+
+> [Tu Mu kehte hain: "Humein aag se apna hamla karne se pehle, stars ke paths ke sambandh mein calculations karne chahiye, aur un dinon ke liye watch rakhni chahiye jinpar hawa uthegi." Chang Yu text ka alag vyakhya karte lagte hain: "Humein na sirf apne opponents par aag se assault karna jaanna chahiye, balki unse aisi hi hamlon ke khilaf guard par bhi rehna chahiye."]
+
+13. Isliye jo log hamle ke sahayak ke roop mein aag ka upayog karte hain woh intelligence dikhate hain; jo log hamle ke sahayak ke roop mein paani ka upayog karte hain woh taqat ka ek accession haasil karte hain.
+14. Paani ke saadhan dwara, ek dushman ko intercept kiya ja sakta hai, lekin uske sabhi belongings se rob nahi kiya ja sakta.
+
+> [Ts`ao Kung ka note hai: "Hum merely dushman ke raste ko obstruct kar sakte hain ya uski sena ko divide kar sakte hain, lekin uske sabhi accumulated stores ko sweep away nahi kar sakte." Paani upayogi seva kar sakta hai, lekin isme aag ki bhayanak destructive power ki kami hai. Yahi kaaran hai, Chang Yu nishkarsh nikalte hain, kyunki pehle wale ko do sentences mein dismiss kar diya gaya hai, jabki aag dwara hamla detail mein discuss kiya gaya hai. Wu Tzu (ch. 4) do tatvon ke baare mein is tarah bolte hain: "Agar ek sena low-lying marshy ground par encamped hai, jahan se paani beh nahi sakta, aur jahan rainfall bhaari hai, toh yeh flood dwara submerge ho sakti hai. Agar ek sena wild marsh lands mein encamped hai jo weeds aur brambles se ghane dhake hue hain, aur frequent gales dwara visited hain, toh yeh aag dwara exterminate ho sakti hai."]
+
+15. Unhappy hai us vyakti ka bhagya jo enterprise ki spirit ko cultivate kiye bina apni battles jeetne aur apne attacks mein succeed hone ki koshish karta hai; kyunki parinaam samay ki barbaadi aur aam sthirta (stagnation) hai.
+
+> [Yeh Sun Tzu mein sabse perplexing passages mein se ek hai. Ts`ao Kung kehte hain: "Achhi seva ke liye rewards ek din bhi defer nahi kiye jaane chahiye." Aur Tu Mu: "Agar aap aage badhne aur deserving ko reward karne ka mauqa nahi lete hain, toh aapke subordinates aapke commands ko carry out nahi karenge, aur disaster hoga." Lekin kai kaaranon se, aur doosri taraf scholars ke formidable array ke baavjood, main Mei Yao-ch`en dwara sujhave gaye vyakhya ko pasand karta hoon, jinake shabdon ko main quote karunga: "Jo log apni battles aur assaults mein succeed hona sunishchit karna chahte hain unhe aane wale anukool moments ko pakadna chahiye aur avsar par heroic measures se nahi shrink hona chahiye: yaani ki, unhe aag, paani aur is tarah ke attack ke saadhanon ka sahara lena chahiye. Unhe jo nahi karna chahiye, aur jo fatal sabit hoga, woh hai nishkriya baithna aur simply un labhon ko pakadna jo unhe mile hain."]
+
+16. Isliye kehna hai: Enlightened ruler apne plans kaafi pehle banata hai; achha general apne resources ko cultivate karta hai.
+
+> [Tu Mu *SAN LUEH*, ch. 2 se nimnlikhit quote karte hain: "Warlike prince apne sainikon ko apni authority dwara control karta hai, unhe good faith dwara ek sath kit karta hai, aur rewards dwara unhe serviceable banata hai. Agar faith decay hota hai, toh disruption hoga; agar rewards deficient hain, toh commands ko aadar nahi diya jayega."]
+
+17. Jab tak aapko koi faayda na dikhe tab tak move na karein; jab tak haasil karne ke liye kuch na ho tab tak apne sainikon ka upayog na karein; jab tak position critical na ho tab tak ladai na karein.
+
+> [Sun Tzu kabhi-kabhi over-cautious lag sakte hain, lekin woh is disha mein kabhi itna door nahi jaate jitna *TAO TE CHING*, ch. 69 mein remarkable passage hai. "Main initiative lene ki himmat nahi karta, balki defensive par kaam karne ko pasand karta hoon; main ek inch aage badhne ki himmat nahi karta, balki ek foot retreat karne ko pasand karta hoon."]
+
+18. Kisi bhi ruler ko sirf apne spleen ko gratify karne ke liye sainikon ko maidaan mein nahi utarna chahiye; kisi bhi general ko sirf pique ke kaaran battle nahi ladni chahiye.
+19. Agar yeh aapke faayde mein hai, toh ek forward move karein; agar nahi, toh wahin rahein jahan aap hain.
+
+> [Yeh XI. ss. 17 se dohraaya gaya hai. Yahan mujhe yakin hai ki yeh ek interpolation hai, kyunki yeh saaf hai ki ss. 20 ko ss. 18 ke turant baad aana chahiye.]
+
+20. Gussa samay ke sath khushi mein badal sakta hai; pareshani (vexation) ke baad santosht (content) aa sakta hai.
+21. Lekin ek kingdom jo ek baar nasht ho gaya hai woh kabhi dobara astitva mein nahi aa sakta;
+
+> [Wu State is kehne ka ek melancholy example banne ke liye destined tha.]
+
+na hi mrit logon ko kabhi dobara zinda laya ja sakta hai.
+
+22. Isliye enlightened ruler dhyan-purvak (heedful) hota hai, aur achha general saavdhani se bhara hota hai. Yeh ek desh ko shanti mein aur ek sena ko akhand (intact) rakhne ka raasta hai.
+
+---
