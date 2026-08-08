@@ -1946,3 +1946,150 @@ na hi mrit logon ko kabhi dobara zinda laya ja sakta hai.
 22. Isliye enlightened ruler dhyan-purvak (heedful) hota hai, aur achha general saavdhani se bhara hota hai. Yeh ek desh ko shanti mein aur ek sena ko akhand (intact) rakhne ka raasta hai.
 
 ---
+
+
+# XIII. THE USE OF SPIES ( SPIES / JASOOSON KA UPAYOG)
+
+1. Sun Tzu ne kaha: Ek laakh mardon ki sena khadi karna aur unhe badi dooriyon tak march karwana logon par bhaari nuksan aur State ke resources par ek drain daalta hai. Dainik kharcha ek hazaar ounces silver ke barabar hoga.
+
+> [Cf. II. ss. 1, 13, 14.]
+
+> Ghar par aur videsh mein commotion hoga, aur mard highways par thak kar gir jaayenge.
+
+> [Cf. TAO TE CHING, ch. 30: "Jahan sainikon ko quarter kiya gaya hai, wahan brambles aur thorns ugte hain. Chang Yu ke paas note hai: "Humein is kehne ki yaad dilayi ja sakti hai: 'Serious ground par, plunder mein gather karein.' Phir carriage aur transportation ko highways par exhaustion ka kaaran kyun banna chahiye?--Jawab yeh hai ki, na sirf victuals balki war ke har tarah ke munitions ko sena tak conveyed kiya jana hai. Iske alawa, 'dushman par forage karne' ki injunction ka matlab sirf yeh hai ki jab ek sena hostile territory mein gehrai se engaged hoti hai, toh khane ki kami ka prabandh kiya jana chahiye. Isliye, anaj ke liye poori tarah dushman par nirbhar hue bina, humein forage karna chahiye taaki supplies ka ek uninterrupted flow ho sake. Phir, dobara, salt deserts jaisi jaghein hain jahan provisions unavailable hone par, ghar se supplies ke bina kaam nahi chalaya ja sakta."]
+
+Saat laakh parivaron tak ko unke shram (labor) mein baadhya paida hogi.
+
+> [Mei Yao-ch`en kehte hain: "Plough-tail par mardon ki kami hogi." Ishara zameen ko nau hisson mein baantne ke system ki taraf hai, jismein se har ek mein lagbhag 15 acres shamil hain, center mein plot doosre aath ke tenants dwara State ke nimitt kheti ki jaati hai. Yeh yahan bhi tha, toh Tu Mu humein batate hain, ki unke cottages banaye gaye the aur ek kuen ko koda gaya tha, jiska upayog sabhi dwara aam taur par kiya jana tha. [Dekhein II. ss. 12, note.] War ke samay, parivaron mein se ek ko sena mein seva karni thi, jabki baaki saat ne uske support mein yogdan diya. Is tarah, 100,000 mardon ke levy dwara (har parivar ke liye ek able-bodied soldier ko reckon karte hue) 700,000 parivaron ki husbandry prabhavit hogi.]
+
+2. Hostile armies saalon tak ek doosre ke samne khadi ho sakti hain, us jeet ke liye sangharsh karte hue jiska faisla ek hi din mein hota hai. Aisa hone par, sirf isliye dushman ki sthiti se agyaan rehna kyunki koi honors aur emoluments mein ek sau ounces silver ke kharche par grudges karta hai,
+
+> ["Spies ke liye" beshak matlab hai, yadyapi yeh is curiously elaborate exordium ke prabhav ko barbaad kar dega agar spies ka zikr vaastav mein is point par kiya gaya hota.]
+
+inhumanity ki uanchai hai.
+
+> [Sun Tzu ka agreement nischit roop se ingenious hai. Woh us bhayanak misery aur blood aur treasure ke vishaal kharche ki taraf adverting karke shuruat karte hain jo war hamesha apne train mein laata hai. Ab, jab tak aapko dushman ki sthiti se soochit na rakha jaye, aur sahi moment par prahar karne ke liye taiyar na hon, ek war saalon tak drag on kar sakta hai. Is jaankari ko paane ka akela tareeqa spies ko niyukt karna hai, aur vishwasniya spies praapt karna asambhav hai jab tak unhe unki services ke liye uchit roop se pay na kiya jaye. Lekin yeh nischit roop se jhoothi economy hai is uddeshya ke liye ek aapekshik roop se trifling rakam par grudge karna, jab har din jab war tikta hai ek incalculably badi sum ko kha jata hai. Yeh grievous burden gareebon ke shoulders par girta hai, aur isliye Sun Tzu nishkarsh nikalte hain ki spies ke upayog ko neglect karna humanity ke khilaf ek apradh se kam kuch nahi hai.]
+
+3. Jo aisa karta hai woh mardon ka koi leader nahi hai, apne sovereign ke liye koi vartaman madad nahi hai, jeet ka koi master nahi hai.
+
+> [Yeh vichar, ki war ka asli uddeshya shanti hai, Chinese ke national temperament mein iski jad hai. Yahan tak ki 597 B.C. jitna peeche, in memorable shabdon ko Prince Chuang of the Ch`u State dwara utter kiya gaya tha: "'Prowess' ke liye [Chinese] character 'to stay' aur 'a spear' (hostilities ke cessation) ke characters se bana hai. Military prowess cruelty ke repression, weapons ke calling in, Heaven ke appointment ke preservation, merit ke firm establishment, logon par khushi ke bestowal, princes ke beech samanjasya rakhne, daulat ke diffusion mein dekhi jaati hai."]
+
+4. Is tarah, jo enlightened sovereign aur achhe general ko prahar karne aur conquer karne, aur aam mardon ki pahonch se pare cheezon ko haasil karne mein saksham banata hai, woh FOREKNOWLEDGE hai.
+
+> [Yaani, dushman ki dispositions ka gyaan, aur uske karne ke matlab ka.]
+
+5. Ab yeh foreknowledge spirits se nikaali nahi ja sakti; ise anubhav se inductively praapt nahi kiya ja sakta,
+
+> [Tu Mu ka note hai: "[dushman ka gyaan] doosre anuroop cases se reasoning dwara haasil nahi kiya ja sakta."]
+
+na hi kisi deductive calculation dwara.
+
+> [Li Ch`uan kehte hain: "Length, breadth, distance aur magnitude jaisi quantities exact mathematical determination ke prati sanvedansheel hain; human actions ko is tarah calculate nahi kiya ja sakta."]
+
+6. Dushman ki dispositions ka gyaan sirf doosre mardon se praapt kiya ja sakta hai.
+
+> [Mei Yao-ch`en ke paas thoda aakarshak note hai: "Spirit-world ka gyaan divination dwara praapt kiya jana hai; natural science mein jaankari inductive reasoning dwara khoji ja sakti hai; universe ke kanoon mathematical calculation dwara verify kiye ja sakti hain: lekin ek dushman ki dispositions spies aur sirf spies dwara hi ascertainable hain."]
+
+7. Isliye spies ka upayog, jinaki paanch classes hain:
+(1) Local spies; (2) inward spies; (3) converted spies; (4) doomed spies; (5) surviving spies.
+8. Jab yeh paanchon prakar ke spy sabhi kaam par hote hain, toh koi bhi gupt pranali ko khoj nahi sakta. Ise "threads ka divine manipulation" kaha jata hai. Yeh sovereign ki sabse keemti faculty hai.
+
+> [Cromwell, sabhi cavalry leaders mein se sabse bade aur sabse practical mein se ek, ke paas 'scout masters' styled officers the, jinaka kaam scouts aur spies, etc., ke zariya dushman ke sambandh mein sabhi sambhavid jaankari ik इकट्ठा karna tha, aur war mein unki kaafi kamyabi dushman ke moves ke is tarah praapt purva gyaan se traceable thi." [1]]
+
+9. LOCAL SPIES hone ka matlab ek district ke nivaasiyon ki services ko niyukt karna hai.
+
+> [Tu Mu kehte hain: "Dushman ke desh mein, dayalu vyavhaar dwara logon ko jeetein, aur unhe spies ke roop mein upayog karein."]
+
+10. INWARD SPIES hone ka matlab dushman ke officials ka upayog karna hai.
+
+> [Tu Mu is sambandh mein achhi seva karne ki sambhavna wale nimnlikhit classes ko enumerate karte hain: "Worthy mard jinhe office se degraded kiya gaya hai, apradhi jinhone saja bhog li hai; saath hi, favorite concubines jo gold ke liye laalchi hain, mard jo subordinate positions mein hone par aggrieved hain, ya jinhe posts ke distribution mein pass over kiya gaya hai, doosre jo utsukh hain ki unki side haraye jaye taaki unke paas apni kshamta aur talents pradarshit karne ka mauqa ho, fickle turncoats jo hamesha har boat mein ek pair rakhna chahte hain. In kai prakaron ke officials," woh jaari rakhte hain, "ko gupt roop se approach kiya jana chahiye aur rich presents ke saadhan dwara apne interests se baandha jana chahiye. Is tarah aap dushman ke desh mein maamlon ki sthiti ka pata lagane, aapke khilaf bane plans ko ascertain karne, aur iske alawa samanjasya ko pareshan karne aur sovereign aur uske ministers ke beech ek breach paida karne mein saksham honge." Extreme caution ki aavashyakta, halanki, "inward spies" se nipatne mein, Ho Shih dwara related ek historical incident se dikhti hai: "I-Chou ke Governor Lo Shang ne apne general Wei Po ko P`i mein uske stronghold mein Shu ke rebel Li Hsiung par hamla karne ke liye bheja. Har side dwara kai jeet aur haar anubhav karne ke baad, Li Hsiung ne Wu-tu ke nivaasi ek nishchit P`o-t`ai ki services ka sahara liya. Unhone use tab tak whipped karna shuru kiya jab tak khoon nahi aa gaya, aur phir use Lo Shang ke paas bhej diya, jise unhe shehar ke andar se unke sath cooperate karne ki offering karke, aur general assault karne ke liye sahi moment par aag ka signal dene dwara delude karna tha. Lo Shang ne, in vaadon mein confiding karte hue, apne sabhi sabse behtareen sainikon ko march baahar karwaya, aur Wei Po aur doosron ko P`o-t`ai ke bidding par hamla karne ke orders ke sath unke head par rakha. Is beech, Li Hsiung ke general, Li Hsiang ne, unke march ki line par ek ambuscade taiyar kiya tha; aur P`o-t`ai ne, city walls ke khilaf lambe scaling-ladders raised karke, ab beacon-fire lighted kiya. Wei Po ke mard signal dekhkar upar raced hue aur jitna ho sake tezi se ladders par chadhna shuru kiya, jabki doosron ko upar se lowered ropes dwara khincha gaya. Lo Shang ke ek sau se zyada sainikon ne is tarah shehar mein pravesh kiya, jinhein mein se har ek ko forthwith beheaded kar diya gaya. Li Hsiung ne phir shehar ke andar aur baahar dono jagah apni saari forces ke sath charge kiya, aur dushman ko poori tarah se routed kiya." [Yeh 303 A.D. mein hua tha. Mujhe nahi pata Ho Shih ko story kahan se mili. Yeh Li Hsiung ki biography ya uske father Li T`e, *CHIN SHU*, ch. 120, 121 mein nahi di gayi hai.]]
+
+11. CONVERTED SPIES hone ka matlab dushman ke spies ko pakadna aur unhe hamare apne uddeshyon ke liye upayog karna hai.
+
+> [Bhaari bribes aur liberal promises ke saadhan dwara unhe dushman ki seva se detach karke, aur unhe jhoothi jaankari wapas le jaane ke sath-sath apne khud ke countrymen par badle mein spy karne ke liye induce karke. Doosri taraf, Hsiao Shih-hsien kehte hain ki hum use detected na karne ka naatak karte hain, balki jo chal raha hai uska ek jhootha prabhav le jaane ka contrive karte hain. Commentators mein se kai ise ek vaikalpik definition ke roop mein swikar karte hain; lekin yeh woh nahi hai jo Sun Tzu ka matlab tha converted spy ko generously treat karne ke baare mein unke baad ke remarks dwara conclusively proved hai (ss. 21 sqq.). Ho Shih teen avsaron ko note karte hain jinpar converted spies ka upayog vishisht kamyabi ke sath kiya gaya tha: (1) Chi-mo ke apne defence mein T`ien Tan dwara (dekhein supra, p. 90); (2) O-yu ke apne march par Chao She dwara (dekhein p. 57); aur 260 B.C. mein wily Fan Chu dwara, jab Lien P`o Ch`in ke khilaf ek defensive campaign conduct kar rahe the. King of Chao ne Lien P`o ke cautious aur dilatory methods ko sakhti se disapprove kiya, jo chhote disasters ki series ko avert karne mein a-saksham rahe the, aur isliye unke spies ki reports par ek taiyar kaan diya, jo gupt roop se dushman ki taraf gaye the aur pehle se hi Fan Chu ke pay mein the. Unhone kaha: 'Akeli cheez jo Ch`in anxiety ka kaaran banti hai woh yeh hai ki kahin Chao Kua ko general na banaya jaye. Lien P`o ko woh ek aasan opponent maante hain, jiska lambe daur mein vanquished hona pakka hai.' Ab yeh Chao Kua prasiddh Chao She ka beta tha. Apne bachpan se, woh war aur military maamlon ke adhyayan mein poori tarah se engrossed raha tha, jab tak ki aakhirkar woh yeh vishwās karne nahi aaya ki poore Empire mein koi aisa commander nahi tha jo uske khilaf khada ho sake. Unke pita is overweening conceit, aur jis flippancy ke sath unhone war jaise gambhir cheez ke baare mein baat ki usse bahut disquieted the, aur solemnly ghoshna ki ki agar kabhi Kua ko general niyukt kiya gaya, toh woh Chao ki senayon par ruin layega. Yeh woh aadmi tha jise, uski apni maa aur veteran statesman Lin Hsiang-ju ke earnest protests ke baavjood, ab Lien P`o ko succeed karne ke liye bheja gaya tha. Kehne ki zaroorat nahi, woh redoubtable Po Ch`i aur Ch`in ki badi military power ke liye koi match sabit nahi hua. Woh ek trap mein gir gaya jiske dwara uski sena do mein baanti gayi aur uske communications kaat diye gaye; aur 46 dinon tak chalne wale ek desperate resistance ke baad, jis dauran famished sainikon ne ek doosre ko devouring kiya, woh khud ek arrow dwara mara gaya, aur uski poori force, 400,000 mardon tak ki matra mein, ruthlessly sword par daal di gayi.]
+
+12. DOOMED SPIES hone ka matlab deception ke uddeshyon ke liye khule taur par nishchit cheezein karna, aur hamare spies ko unke baare mein jaan-ne aur dushman ko unki report dene ki anumati dena hai.
+
+> [Tu Yu arth ka sabse behtareen exposition dete hain: "Hum ostentatiously apne khud ke spies ko deceive karne ke liye calculated cheezein karte hain, jinhe yeh vishwās karne ke liye majboor kiya jana chahiye ki unhe un-wittingly disclosed kiya gaya hai. Phir, jab yeh spies dushman ki lines mein capture ho jaate hain, toh woh poori tarah se jhoothi report banayenge, aur dushman tadanusaar measures lega, sirf yeh paane ke liye ki hum kuch bilkul alag karte hain. Spies ko thereupon maut ke ghat utar diya jayega." Doomed spies ke ek udaharan ke roop mein, Ho Shih Yarkand ke khilaf apne campaign mein Pan Ch`ao dwara release kiye gaye prisoners ka zikr karte hain. (Dekhein p. 132.) Woh T`ang Chien ka bhi sandarbh dete hain, jinhe 630 A.D. mein T`ai Tsung dwara Turkish Kahn Chieh-li ko fancied security mein lull karne ke liye bheja gaya tha, jab tak ki Li Ching uske khilaf ek crushing blow deliver karne mein saksham na ho gaye. Chang Yu kehte hain ki Turks ne T`ang Chien ko maar kar badla liya, lekin yeh ek galati hai, kyunki hum purani aur nayi T`ang History dono mein padhte hain (ch. 58, fol. 2 aur ch. 89, fol. 8 kramashah) ki woh escape hue aur 656 tak zinda rahe. Li I-chi ne 203 B.C. mein ek thoda aisa hi part play kiya, jab Han ke King dwara Ch`i ke sath peaceful negotiations kholne ke liye bheja gaya tha. Unke paas "doomed spy" ke roop mein varnit hone ka nischit roop se zyada claim hai, kyunki King of Ch`i, baad mein Han Hsin dwara warning ke bina hamla kiye jaane par, aur Li I-chi ki treachery maane jaane par infuriated hokar, unfortunate envoy ko zinda ubaalne ka order diya.]
+
+13. SURVIVING SPIES, aakhirkar, woh hain jo dushman ke camp se khabar wapas laate hain.
+
+> [Yeh spies ki aam class hai, properly so called, sena ka ek niyamit hissa banati hui. Tu Mu kehte hain: "Aapka surviving spy ek teez intellect ka aadmi hona chahiye, yadyapi baahari appearance mein ek bewakoof; shabby exterior ka, lekin iron ki will ke sath. Use active, robust, physical strength aur courage se endowed hona chahiye; har tarah ke dirty work ka poori tarah se aadi, bhookh aur thand sahne mein saksham, aur shame aur ignominy ko put up karne mein." Ho Shih Sui dynasty ke Ta`hsi Wu ki nimnlikhit story batate hain: "Jab woh Eastern Ch`in ke governor the, Ch`i ke Shen-wu ne Sha-yuan par ek hostile movement banaya. Emperor T`ai Tsu [? Kao Tsu] ne Ta-hsi Wu ko dushman par spy karne ke liye bheja. Unke sath do doosre mard the. Teeno horseback par the aur dushman ki uniform pehne hue the. Jab andhera hua, toh woh dushman ke camp se kuch sau feet door dismounted hue aur stealthily upar creep kiya sunne ke liye, jab tak ki woh sena mein upayog kiye jaane wale passwords ko catch karne mein kamyab nahi ho gaye. Phir woh dobara apne horses par chadhe aur night-watchmen ke guise mein camp se boldly guzar gaye; aur ek se zyada baar, kisi aise sainik se milne par jo discipline ka koi breach kar raha tha, woh vaastav mein apradhi ko ek sound cudgeling dene ke liye ruke! Is tarah woh dushman ki dispositions ke baare mein poori se poori jaankari ke sath wapas lautne mein kamyab hue, aur Emperor se warm commendation praapt ki, jinhone unki report ke parinaamswarup apne adversary par ek sakht haar thopne mein saksham hue."]
+
+14. Isliye yeh hai ki poori sena mein spies ke sath se zyada intimate relations kisi ke sath banaye nahi rakhe jaane hain.
+
+> [Tu Mu aur Mei Yao-ch`en ishara karte hain ki spy ko general ke private sleeping-tent mein bhi pravesh karne ka adhikaar hai.]
+
+Kisi ko bhi zyada liberally rewarded nahi kiya jana chahiye. Kisi doosre business mein zyada secrecy preserved nahi ki jaani chahiye.
+
+> [Tu Mu ek graphic touch dete hain: spies ke sath sabhi communication "mouth-to-ear" carried honi chahiye. Spies par nimnlikhit remarks Turenne se quote kiye ja sakte hain, jinhone pehle ke kisi bhi commander se zyada unka upayog kiya: "Spies unse jude hain jo unhe sabse zyada dete hain, jo unhe kharab pay karta hai uski kabhi seva nahi hoti. Unhe kabhi kisi ke dwara jaana nahi chahiye; na hi unhe ek doosre ko jaan-na chahiye. Jab woh kuch bahut material propose karte hain, toh unke persons ko surakshit karein, ya unki fidelity ke liye hostages ke roop mein unki wives aur children ko apne kabze mein rakhein. Unhe kabhi kisi cheez se communicate na karein sivaay iske ki kya aavashyak hai ki unhe jaan-na chahiye. [2]]
+
+15. Spies ko ek nishchit intuitive sagacity ke bina upayogi roop se niyukt nahi kiya ja sakta.
+
+> [Mei Yao-ch`en kehte hain: "Unka upayog karne ke liye, kisi ko sach aur jhooth mein antar jaan-na chahiye, aur imaandari aur double-dealing ke beech bhed karne mein saksham hona chahiye." Wang Hsi ek alag vyakhya mein "intuitive perception" aur "practical intelligence" ki lines par zyada sochte hain. Tu Mu ajeeb roop se in attributes ko khud spies se refer karte hain: "Spies ka upayog karne se pehle humein charitra ki unki integrity aur unke anubhav aur skill ki matra ke baare mein khud ko assure karna chahiye." Lekin woh jaari rakhte hain: "Ek brazen face aur ek crafty disposition pahaadon ya nadiyon se zyada khatarnak hain; aise mein pravesh karne ke liye ek genius ke aadmi ki zaroorat hoti hai." Toh hum passage par unke asli opinion ke baare mein kuch shak mein chhod diye jaate hain.]
+
+16. Unhe benevolence aur straightforwardness ke bina uchit roop se managed nahi kiya ja sakta.
+
+> [Chang Yu kehte hain: "Jab aapne unhe substantial offers dwara aakarshit kiya hai, toh aapko unhe absolute sincerity ke sath treat karna chahiye; phir woh aapke liye apni poori taqat se kaam karenge."]
+
+17. Dimaag ki subtle ingenuity ke bina, koi unki reports ki sachai ka nischit nahi kar sakta.
+
+> [Mei Yao-ch`en kehte hain: "Spies ke dushman ki seva mein jaane ki sambhavna ke khilaf guard par rahein."]
+
+18. Subtle rahein! subtle rahein! aur har prakar ke business ke liye apne spies ka upayog karein.
+
+> [Cf. VI. ss. 9.]
+
+19. Agar koi secret piece of news samay pakne se pehle ek spy dwara divulged kiya jata hai, toh use us aadmi ke sath maut ke ghat utar diya jana chahiye jise secret bataya gaya tha.
+
+> [Shabd-dar-shabd, translation yahan hai: "Agar spy matters humare plans carried out hone se pehle sune jaate hain," etc. Is passage mein Sun Tzu ka mukhya point hai: Jabki aap spy ko khud "secret baahar aane dene ke liye saja ke roop mein" maarte hain, doosre aadmi ko maarne ka uddeshya sirf, jaise Ch`en Hao ise rakhte hain, "uska mukh band karna" hai aur news ko aage kisi bhi tarah se leak hone se rokna hai. Agar yeh pehle hi doosron ko dohraaya ja chuka tha, toh yeh uddeshya haasil nahi hota. Dono tareeqon se, Sun Tzu khud ko inhumanity ke aarop ke liye kholta hai, yadyapi Tu Mu unka bachao karne ki koshish karte hain yeh kehkar ki aadmi maut ke ghat utare jaane ke yogya hai, kyunki spy nischit roop se secret nahi batata jab tak ki doosra usse ise worm out karne ke dukh mein na hota.]
+
+20. Chahe uddeshya kisi sena ko kuchalna ho, kisi shehar ko storm karna ho, ya kisi vyakti ko assassinate karna ho, hamesha attendants, aides-de-camp,
+
+> [Shabdash "visitors", Tu Yu ke anusar, "un logon ke barabar hai jinaka kartavya general ko jaankari ke sath supplied rakhna hai," jo swabhavik roop se unke sath frequent interviews ko zaroori banata hai.]
+
+aur door-keepers aur sentries ke naamon ka pata lagakar shuruat karna zaroori hai general in command ke. Hamare spies ko inka pata lagane ke liye commissioned kiya jana chahiye.
+
+> [Pehle step ke roop mein, isme koi shak nahi ki yeh pata lagane ki taraf ki kya in mahatvapurna functionaries mein se kisi ko bribery dwara jeeta ja sakta hai.]
+
+21. Dushman ke spies jo humpar spy karne aaye hain unhe dhoondha jana chahiye, bribes se tempted, door le jaya jana chahiye aur comfortably housed kiya jana chahiye. Is tarah woh converted spies ban jaayenge aur hamari seva ke liye uplabdh honge.
+22. Yeh converted spy dwara laayi gayi jaankari ke zariya hai ki hum local aur inward spies ko haasil karne aur niyukt karne mein saksham hote hain.
+
+> [Tu Yu kehte hain: "dushman ke spies ke conversion dwara hum dushman ki sthiti seekhte hain." Aur Chang Yu kehte hain: "Humein converted spy ko apni seva mein tempt karna chahiye, kyunki wohi hai jo jaanta hai ki local inhabitants mein se kaun labh ke laalchi hain, aur officials mein se kaun corruption ke liye khule hain."]
+
+23. Yeh uski jaankari ke kaaran hai, dobara, ki hum doomed spy ko dushman tak jhoothi tidings le jaane ka kaaran ban sakte hain.
+
+> [Chang Yu kehte hain, "kyunki converted spy jaanta hai ki dushman ko sabse behtareen dhang se kaise deceived kiya ja sakta hai."]
+
+24. Aakhirkar, yeh uski jaankari dwara hai ki surviving spy ko appointed avsaron par upayog kiya ja sakta hai.
+25. Sabhi paanchon varieties mein spying ka ant aur aim dushman ka gyaan hai; aur yeh gyaan sirf, pehle sthaan par, converted spy se hi nikala ja sakta hai.
+
+> [Jaise ss. 22-24 mein samjaya gaya hai. Woh na sirf khud jaankari laata hai, balki doosre prakar ke spy ka faayde ke liye upayog karna sambhav banata hai.]
+
+Isliye yeh aavashyak hai ki converted spy ko atyadhik liberality ke sath treat kiya jaye.
+
+26. Praacheen kal mein, Yin dynasty ka utthan
+
+> [Sun Tzu ka matlab Shang dynasty se hai, jo 1766 B.C. mein founded hui thi. Iska naam 1401 mein P`an Keng dwara Yin mein badal diya gaya tha.]
+
+I Chih ke kaaran tha
+
+> [I Yin ke roop mein behtar jaane jaate hain, prasiddh general aur statesman jinhone Ch`eng T`ang ke Chieh Kuei ke khilaf campaign mein bhaag liya.]
+
+jinhone Hsia ke tehat seva ki thi. Isi tarah, Chou dynasty ka utthan Lu Ya ke kaaran tha
+
+> [Lu Shang tyrant Chou Hsin ke tehat uche office tak uthe, jise unhone baad mein overthrow karne mein madad ki. Popularly T`ai Kung ke roop mein jaane jaate hain, jo Wen Wang dwara unhe bestowed ek title tha, unke baare mein war par ek treatise compose karne ke liye kaha jata hai, galat tareeqe se *LIU T`AO* ke sath identified.]
+
+jinhone Yin ke tehat seva ki thi.
+
+> [Chinese mein mere dvaara translation mein prastut karne ke liye jitna uchit samjha gaya hai usse kam precision hai, aur passage par commentaries kisi bhi tarah se explicit nahi hain. Lekin, context par dhyan dete hue, hum shayad hi shak kar sakte hain ki Sun Tzu I Chih aur Lu Ya ko converted spy ke illustrious examples ke roop mein pesh kar rahe hain, ya kaafi hadd tak analogous kuch. Unka sujhav yeh hai ki Hsia aur Yin dynasties unki kamzorion aur kamiyaan ke gehre gyaan ke kaaran upset hui thin jinhe yeh purane ministers doosri side ko impart karne mein saksham the. Mei Yao-ch`en in historic naamon par aise kisi aspersion par resent karte lagte hain: "I Yin aur Lu Ya," woh kehte hain, "Government ke khilaf rebels nahi the. Hsia pehle wale ko niyukt nahi kar saka, isliye Yin ne use niyukt kiya. Yin baad wale ko niyukt nahi kar saka, isliye Hou ne use niyukt kiya. Unki badi uplabdhiyan sabhi logon ke labh ke liye thin." Ho Shih bhi indignant hain: "I aur Lu jaise do divinely inspired mardon ne common spies ke roop mein kaise kaam kiya hoga? Sun Tzu dwara unka zikr karne ka simply matlab yeh hai ki spies ke paanch classes ka uchit upayog ek aisa maamla hai jiske liye I aur Lu jaise uchatam mental caliber ke mardon ki zaroorat hoti hai, jinaki wisdom aur capacity ne unhe task ke liye qualify kiya. Upar ke shabd sirf is point par zor dete hain." Ho Shih tab vishwās karte hain ki do heroes ka zikr spies ke upayog mein unki supposed skill ke kaaran kiya gaya hai. Lekin yeh bahut kamzor hai.]
+
+27. Isliye yeh sirf enlightened ruler aur samajhdar general hain jo spying ke uddeshyon ke liye sena ki uchatam intelligence ka upayog karenge aur is tarah woh bade parinaam haasil karte hain.
+
+> [Tu Mu warning ke ek note ke sath close karte hain: "Waise hi jaise paani, jo ek boat ko bank se bank tak carry karta hai, ise doobane ka saadhan bhi ho sakta hai, waise hi spies par bharosa, jabki bade parinaam pradan karta hai, aksar poore vinash ka kaaran hota hai."]
+
+Spies war mein ek sabse mahatvapurna element hain, kyunki unpar ek sena ki move karne ki kshamta nirbhar karti hai.
+
+> [Chia Lin kehte hain ki spies ke bina ek sena kaanon ya aankhon wale aadmi ki tarah hai.]
+
+---
