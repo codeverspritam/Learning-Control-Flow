@@ -1168,3 +1168,819 @@ Yahan aapke diye gaye Footnotes (1 se 36) ka line-by-line aur exact Hinglish tra
 34. 347e.
 35. Upar 348c ke note 27 ko dekhein jo samjhata hai ki *arete* 'excellence' aur 'virtue' ke beech kaise range karta hai.
 36. 350c–d par.
+
+---
+---
+Here is the complete, line-by-line and paragraph-by-paragraph Hinglish translation of Book 2 from Plato's *Republic*, strictly following all requested parameters:
+
+---
+
+# Book 2
+
+In shabdon ke sath maine socha ki jo mujhe kehna tha woh maine poora kar diya hai [357]. Lekin main galat tha. Apparently (zahir taur par) yeh sirf ek introduction (parichay) tha. Glaucon apne dwara kiye jaane wale har kaam mein ek atyadhik determined (dhrid-sankalpi) character hai, aur is avsar par usne Thrasymachus ke surrender (aatm-samarpan) ko swikar karne se inkaar kar diya [b]. ‘Socrates,’ usne kaha, ‘kya aap sach mein humein convince (raazi) karna chahte hain ki har tareeqe se unjust hone se just hona behtar hai, ya sirf yeh lagna hi kaafi hai ki aapne humein convince kar diya hai?’
+
+‘Main pasand karunga,’ maine kaha, ‘aapko sach mein convince karna, agar mere paas koi vikalp hota.’
+
+‘Us case mein,’ usne kaha, ‘aap apna aim (lakshya) haasil nahi kar rahe hain. Mujhe yeh batayein. Kya aap sochte hain ki koi aisa good (achhai) hai jise hum dharan karna chunenge kyunki hum ise iske apne khatir value karte hain, na ki iske parinaamon ki kisi desire (ichha) se? Enjoyment, udaharan ke liye, aur aise pleasures jo harmless hain aur ise dharan karne wale vyakti ke liye enjoyment se pare bhavishya ke liye koi consequences (parinaam) produce nahi karte.’
+
+‘Haan,’ maine kaha, ‘main sochta hoon ki is tarah ka ek good hai [c].’
+
+‘Us prakar ke baare mein kya jise hum iske apne liye aur iske consequences dono ke liye value karte hain? Cheezein jaise sochne ki kshamta, dekhna, healthy hona. Hum is prakar ke goods ko, main kalpana karta hoon, dono kaaranon se value karte hain.’
+
+‘Haan,’ maine kaha.
+
+‘Aur kya aap good ki ek teesri class ya category mein antar kar sakte hain,’ usne poocha, ‘ek aisi class jismein physical exercise, bimar hone par medical treatment se guzarna, medicine practice karna, aur aam taur par earning a living shamil hai? Inhe hum unpleasant (a-priya) lekin beneficial (labhdayak) ke roop mein varnit karenge [d]. Hum inhe inke apne khatir dharan karna nahi chunenge, balki sirf payment ya doosre benefits ke liye jo inke parinaamswarup hote hain.’
+
+‘Haan,’ maine kaha, ‘yeh teesri class bhi hai. Iska kya?’
+
+‘Inmein se kis class mein,’ usne poocha, ‘aap justice ko rakhte hain?’
+
+‘Meri raaye mein,’ maine jawab diya, ‘yeh sabse finest (shreshth) class mein hai, jise kisi bhi aise vyakti dwara value kiya jana hai jo happy hona chahta hai, iske apne liye bhi aur iske consequences ke liye bhi [358].’
+
+‘Yeh woh nahi hai jo zyadatar log sochte hain,’ usne kaha. ‘Zyadatar log ise unpleasant class mein rakhenge, jise humein payment aur reputation ke badle mein, public opinion ke kaaran cultivate karna chahiye, lekin jise purely iske apne khatir plague (mahamari) ki tarah avoid kiya jana chahiye.’
+
+‘Main jaanta hoon ki woh wahi sochte hain,’ maine kaha. ‘Thrasymachus ne iski criticism ki thi – aur injustice ki tareef ki thi – unhi aadharon par kuch samay pehle. Lekin main zaahir taur par ek slow learner hoon.’
+
+‘Well,’ usne kaha, ‘mujhe bhi suno, aur dekho ki kya aap mere sujhav se sehamat hain [b]. Mujhe lagta hai ki Thrasymachus ne bahut aasaani se khud ko aapke dwara bewitched (sammohit) hone diya, jaise koi saamp kisi snake-charmer (sapere) dwara charm ho raha ho. Jahan tak mera sawaal hai, proof abhi tak convincing nahi hai, chahe justice ke liye ho ya injustice ke liye. Main bataya jana chahta hoon ki inmein se har ek kya hai, aur iska kya effect hota hai, sirf apne aap mein, jab yeh soul mein maujood hoti hai. Main inke dwara laye jaane wale rewards aur results ke baare mein bhoolna chahta hoon. Toh main jo karne wala hoon woh yeh hai, agar aapko koi objection (a आपत्ति) nahi hai [c]. Main Thrasymachus ke argument ko revive (zinda) karne ja raha hoon. Pehle main kahunga ki log kis tarah ki cheez justice ko maante hain, aur woh kaise sochte hain ki yeh paida hoti hai. Doosre main daava karunga ki jo sabhi ise practice karte hain woh ise kisi aisi cheez ke roop mein karte hain jisse bacha nahi ja sakta, apni ichha ke khilaf, aur isliye nahi kyunki woh ise ek good maante hain. Teesre main kahunga ki yeh unke liye behave karne ka ek rational (tark-sangat) tareeqa hai, kyunki unjust man, unke drishtikon mein, just man se kahin behtar jeevan rakhta hai. Yeh mere apne opinions nahi hain, Socrates. Lekin main apne kaanon mein Thrasymachus aur uske jaise hazaaron logon ki kabhi na khatam hone wali aawaz se dismayed hoon, jabki maine abhi tak kisi se bhi, us form mein jismein main ise sunna pasand karunga, justice ke liye argument nahi suna hai, yeh argument ki yeh injustice se behtar koi cheez hai [d]. Main ise simply iske apne khatir praised sunna chahta hoon, aur mujhe uchi umeedon hain ki aap, agar koi kar sakta hai, toh mere liye yeh kar sakte hain. Toh main unjust life ke defence mein jitna ho sake utna powerful speech banane ja raha hoon, aur apni speech mein main aapko dikhaunga ki main badle mein aapko kaise sunna chahta hoon, injustice ki criticism karte hue aur justice ka defence karte hue. Wahan aap hain. Dekhein ki kya aap mere sujhav ko approve karte hain.’
+
+‘Main kisi doosri cheez ko isse behtar pasand nahi karunga,’ maine jawab diya [e]. ‘Kisi bhi samajh wale vyakti ke liye kis doosri cheez ke baare mein baat karne ya sunne ki aadat banana zyada pasandida hoga?’
+
+‘Yeh achha hai,’ usne kaha. ‘Ab, us pehli cheez ko suno jiske baare mein maine kaha tha ki main baat karne wala tha – justice kis tarah ki cheez hai, aur yeh kaise paida hoti hai. Wrong karna, log kehte hain, apne swabhav se ek good hai – aur wronged hona ek evil – lekin wronged hone ka evil wrong karne ke good se zyada bhaari hai. Parinaamswarup, jab log ek doosre ke sath wrong karte hain aur ek doosre dwara wronged hote hain, aur dono ka taste paate hain, toh jo log ek se bachne aur doosre ko haasil karne mein a-saksham hain woh sochte hain ki unke liye ek doosre ke sath ek agreement par aana profitable hoga ki wrong nahi karna hai aur wronged nahi hona hai [359]. Is tarah woh ek doosre ke sath kanoon aur agreements banana shuru karte hain, aur kanoon dwara tay kiye gaye ko lawful aur just kehna shuru karte hain. Woh kehte hain ki yeh justice ka origin (utpatti) aur essential nature hai, ki yeh sabse behtareen case, jo wrong karna aur isse bach nikalna hai, aur sabse badtar case, jo wronged hona aur badla lene mein a-saksham hona hai, ke beech ek compromise (samjhauta) hai [b]. Justice, in do extremes ke beech aadhe raste par hone ke kaaran, ek good ke roop mein prized nahi ki jaati hai; yeh apna mulya merely wrong karne ki logon ki taqat ki kami mein paati hai. Woh vyakti jiske paas wrong karne ki taqat hai – true man – woh kisi ke sath kabhi bhi wrong na karne aur wronged na hone ka agreement nahi karega. Uske liye aisa karna lunatic (paagalpan) hoga. Yeh, kam ya zyada, justice ka nature hai, Socrates. Yeh wahi hai jiske jaisa yeh hai, aur yeh un tarah ke kaaran hain jinhone is theory ke anusar ise janam diya.
+
+1
+‘Jahan tak is daave ka sawaal hai ki jo log justice practice karte hain woh aisa reluctantly (anichha se) karte hain, wrong karne ke liye bahut kamzor hone ke kaaran, ise dekhne ka sabse aasan tareeqa yeh kalpana karna hai ki kuch aisa [c]. Maan lijiye humne unmein se har ek ko – just aur unjust ko – woh sab kuch karne ki aazadi di jo woh pasand karte the, aur phir unka palan kiya aur unpar nazar rakhi, yeh dekhne ke liye ki unki desire (ichha) unmein se har ek ko kis raste le jayegi. Hum jaldi hi just man ko pakad lenge. Greed aur doosron ko outdo karne ki desire dwara aage badhaya gaya, woh usi raste ka palan karega jiska palan unjust man karta hai, woh rasta jise ek good ke roop mein pursue (peechha) karna har kisi ka praakritik jhukav hai, yadyapi woh kanoon dwara equality ko value karne mein forcibly redirected kiye jaate hain [d]. Roughly speaking, unke paas woh aazadi hoti jiski main baat kar raha hoon agar unke paas us tarah ki taqat hoti jise woh kehte hain ki Lydian ke Gyges ke purvaj ke paas ek baar thi. Woh kehte hain ki woh ek shepherd (gaderiya) tha, aur ki woh us aadmi ka serf (gulam) tha jo us samay Lydia ka ruler tha. Ek din wahan ek badi rainstorm aur ek earthquake hua us jagah jahan woh apni bhedon ko charata tha. Zameen ka hissa khul gaya, aur usme ek bada chhed dikha. Jab usne ise dekha toh woh astonished (chakit) hua, lekin usme neeche gaya. Aur legend ke paas yeh hai ki kai marvels (chamatkaron) ke beech usne bronze se bani ek khokali ghoda dekhi, jismein khidkiyan thin [e]. Unse jhaankte hue, usne andar dekha jo ek corpse (laash) lag rahi thi, insaan se badi, apne haath mein ek golden ring ke alawa kuch nahi pehne hue. Woh kehte hain ki usne ring hata di, aur baahar aa gaya.
+
+‘Shepherds apni niyamit meetings mein se ek kar rahe the, taaki woh king ko flocks par apni monthly report de sakein. Aur woh aadmi bhi wahan pahonch gaya, ring pehne hue. Jaise hi woh unke baaki ke sath baitha, usne ring ki setting ko apni taraf, apni hatheli ke andar twist (modna) kar diya [360]. Jab usne yeh kiya, toh woh un logon ke liye invisible (a-drishya) ho gaya jo uske sath baithe the, aur unhone uske baare mein aise baat karna shuru kar diya jaise woh chala gaya ho. Woh amazed hua, aur ring ko phir se twist kiya, setting ko baahar ki taraf modte hue. Jaise hi usne aisa kiya, woh visible ho gaya. Jab usne yeh ehsaas kiya, toh usne ring ke sath experiment karna shuru kar diya, yeh dekhne ke liye ki kya isme yeh taqat thi. Aur usne paaya ki yeh waisa hi tha. Jab usne setting ko andar ki taraf moda, toh woh invisible ho gaya; jab usne ise baahar ki taraf moda, toh woh visible ho gaya. Ek baar jab usne ise sthapit kar liya, toh usne king ko report dene walon mein se ek hone ka intazam karne mein koi samay nahi khoya [b]. Jab woh wahan pahoncha, toh usne king ki patni ko seduce kiya, uske sath king ke khilaf plot kiya, use maar diya aur power par kabza kar liya.
+
+‘Imagine karein ki wahan us tarah ke do rings the, aur ki just man ne ek pehna tha, jabki unjust man ne doosra pehna tha. Log sochte hain ki koi bhi justice ki bounds ke andar rehne ke liye sufficiently iron-willed nahi hoga. Koi bhi khud ko doosron ki possessions se apne haath door rakhne, aur unse door rehne ke liye nahi la sakta tha, agar woh market-place mein bina kisi doosre vichar ke jo kuch bhi pasand karta use lene ke liye free hota, ya logon ke gharon mein jaane aur kisi ke bhi sath sone ke liye jise woh pasand karta; ya agar woh kisi ko bhi maar sakta ya prison se release kar sakta jise usne chuna, aur aam taur par mardon ke beech ek god ki tarah acting karta ghoom sakta [c]. Agar woh is tarah behave karta, toh just man unjust se alag kaam nahi kar raha hota. Dono ek hi raste ka palan kar rahe hote.
+
+‘Yeh ek majboot argument hai, aap keh sakte hain, is daave ke liye ki koi bhi voluntarily (apni marzi se) just nahi hai, balki sirf compulsion (majboori) ke tehat. Justice ko individuals ke liye ek achhi cheez nahi socha jata hai, kyunki jahan bhi koi sochta hai ki woh wrong kar sakta hai, woh wrong karta hai [d]. Har aadmi injustice ko justice se individual ke liye kahin zyada profitable manta hai. Aur woh is sochne ke liye sahi hoga, is drishtikon ko samne rakhne wale vyakti ke anusar. Jo koi bhi maine varnit ki hai us tarah ki aazadi ke kabze mein aaya, aur phir kabhi kuch galat karne se inkaar kiya, aur doosron ki possessions par ek ungli bhi nahi rakhi, use observers dwara sabse pathetic (dayaneey) aur brainless creatures ke roop mein dekha jayega – yadyapi of course public mein woh uski tareef karenge, ek doosre se jhooth bolte hue wronged hone ke apne darr ke kaaran.
+
+‘Mera us daave ke baare mein kehna bas itna hi hai [e]. Jahan tak vicharadhin logon ke lives ke beech chunav ka sawaal hai, akela tareeqa jisse hum ise properly kar sakte hain woh hai completely just man ko completely unjust man ke sath contrast (tulna) karke. Hum unki tulna kaise karenge? Is tarah. Hum na toh unjust man ki injustice se aur na hi just man ki justice se kuch ghatayenge. Hum maanenge ki har ek apne vishesh tareeqe se behave karne ka ek perfect example hai. Toh shuruat ke liye aayein unjust man ke vyavhaar ko kisi profession ke ek skilled practitioner ke jaisa banayein. Ek sach mein achha ship ka captain ya doctor, udaharan ke liye, apni skill ke exercise mein uske beech antar kar sakta hai jo feasible nahi hai aur jo feasible hai [361]. Woh uski koshish karta hai jo feasible hai, aur usse bachta hai jo feasible nahi hai. Isse bhi zyada, agar woh kahin koi galat move banata hai, toh woh ise correct karne ke capable hai. Hamare unjust man ke sath aisa hi ho sakta hai. Aayein maan lein, agar woh sach mein unjust hone wala hai, ki woh sahi tareeqe se apne wrongdoings ke baare mein jata hai, aur isse bach nikalta hai. Jo pakda jata hai use incompetent ke roop mein dekha jana hai, kyunki perfect injustice mein just lagna shamil hai jab aap nahi hote. Humein completely unjust man ko, phir, sabse complete injustice ke sath credit dena chahiye. Us vyakti ko jo sabse bade wrongs karta hai humein deny nahi karna chahiye – vaastav mein, humein grant karna chahiye – justice ke liye sabse bade reputation ka enjoyment [b]. Agar woh koi galat move banata hai, toh humein use ise sahi karne ki ability allow karni chahiye. Woh persuasion ka upayog karne ke capable hona chahiye – taaki agar uske wrongdoings ka koi sabhoot uske khilaf laya jata hai, toh woh apna raasta baat karke nikal sake – lekin jahan force ki zaroorat ho wahan force ka upayog karne ke bhi capable, apne sahas aur taqat par, aur doston aur daulat ke kabze par nirbhar karte hue.
+
+‘Yeh unjust man ka hamara model hai. Uske bagal mein aayein apne kalpanik just man ko rakhein, ek saral aur aadaraniya aadmi jo chahta hai, Aeschylus ke shabdon mein, good lagna nahi, balki good hona.
+2
+Humein use appearance se deprive (vanchit) karna chahiye, kyunki agar woh just lagta hai, toh justice ki appearance uske liye recognition (pehchan) aur rewards layegi, aur phir yeh saaf nahi hoga ki just hone ka uska motive justice ke liye ek desire thi ya rewards aur recognition ke liye desire [c]. Toh humein use justice ke alawa har cheez se strip (nagga) karna chahiye; humein use ek aisi sthiti mein rakhna chahiye jo hamare pehle ke udaharan ke opposite ho. Kuch bhi galat na karne ke baavjood, uske paas injustice ke liye sabse badtar sambhavid reputation honi chahiye. Phir, agar yeh disgrace aur iske consequences se unaffected rehta hai, toh uski justice ki purity ko aag mein test kiya gaya hoga. Use apni zindagi is tarah jeene dein, bina kisi badlav ke, apni maut ke din tak, unjust lagte hue yadyapi vaastav mein just hote hue [d]. Is tarah woh dono extreme – ek justice ka, doosra injustice ka – haasil kar sakte hain, aur judgment kiya ja sakta hai, unmein se kaun zyada happy hai.’
+
+‘Help!’ maine kaha. ‘Yeh ek kaafi vigorous job hai jo aapne kiya hai, mere pyare Glaucon, judgment ke liye unhe taiyar karne ke liye hamare har ek contestant ko saaf karte hue. Kisi statue ko scouring (ragadna) karne ki tarah.’
+
+‘Maine apna sabse behtareen prayas kiya hai,’ usne kaha. ‘Aur agar unki dono sthitiyan waise hi hain jaise maine varnit ki hain, toh yeh hamare liye pare nahi hona chahiye, main kalpana karta hoon, us tarah ki zindagi ka poora vivran dena jo unmein se har ek ka intazar karti hai [e]. Toh mujhe ab wahi karna chahiye. Aur agar meri bhasha thodi crude aur uncivilised hai, Socrates, toh yeh mat kalpana karein ki yeh main bol raha hoon. Nahi, yeh woh log hain jo justice ke muqable injustice ki sifarish karte hain. Woh daava karenge ki is sthiti mein just man ko whipped (chabuk maara) kiya jayega aur rack par rakha jayega, chains mein phenka jayega aur uski aankhein burn out kar di jaayengi [362]. Aakhirkar, in sabhi injuries ke baad, use crucified (sooli par chadhaya) kiya jayega, aur ehsaas hoga ki jis mahatvapurna cheez ka aim karna hai woh just hona nahi, balki just lagna hai.
+3
+Toh Aeschylus ne jo kaha woh unjust man ka kahin zyada accurate description nikalta hai, jo unjust lagna nahi chahta, balki unjust hona chahta hai, appearances aur public opinion ko santusht karne ki koshish karne ke bajaye reality ke sampark mein apni zindagi jeete hue,
+
+> In his mind enjoying the deep furrow’s fruit,
+> From which good counsel grows [b].
+> 4
+
+‘Pehle sthaan par, woh kahenge, woh apne city mein ek ruler ho sakta hai, justice ke apne reputation ke kaaran; doosre, woh jahan pasand karta hai wahan shaadi kar sakta hai, apni betiyon ki shaadi unse karva sakta hai jinhe woh chunta hai, aur kisi ke bhi sath contracts aur partnerships bana sakta hai jiske sath woh chahta hai. Is sabke alawa woh khud ko ek ameer aadmi banana aasan paata hai, kyunki uske paas unjust way mein kaam karne ke baare mein koi compunction (jhijhak) nahi hai. Yahi kaaran hai, woh kehte hain, woh political aur legal disputes mein kamyab hota hai – public aur private dono – aur kyun woh apne dushmanon ko outdo karta hai [c]. Unhe outdo karke woh ameer banta hai, aur apne doston ki madad kar sakta hai aur apne dushmanon ko nuksan pahoncha sakta hai. Woh gods ko poori aur generous sacrifices aur offerings kar sakta hai, aur just man se kahin behtar gods aur manushyata ke us hisse ki seva karne mein saksham hai jise woh seva karne ke liye chunta hai. Parinaamswarup, woh daava karte hain, woh sabhi sambhavnaon mein just man se zyada gods ka favourite hone ki sambhavna rakhta hai. Yeh woh tareeqe hain, Socrates, jinme woh kehte hain ki unjust man gods aur men dono se, just man se behtar deal paata hai.’
+
+Jab Glaucon ne khatam kiya, toh main jawab dene ke liye poori tarah taiyar tha [d]. Lekin uske bhai Adeimantus ne intervene kiya. ‘Mujhe umeed hai ki aap yeh nahi sochte, Socrates,’ usne kaha, ‘ki woh unke case ka poora hissa hai.’
+
+‘Kyun? Aur kya hai?’ maine poocha.
+
+‘Humne us hisse ko chhod diya hai,’ usne kaha, ‘jise shamil karne ki sabse zyada zaroorat hai.’
+
+‘Well,’ maine kaha, ‘brother ko brother ke sath khada hona chahiye, jaise ki kehna jata hai.
+5
+Har tareeqe se shamil hoiye, aur uski sahayata ke liye aayein, agar usne kuch bhi chhod diya hai – yadyapi jahan tak mera sawaal hai, usne jo kaha woh bhi mujhe throw (pareshan) karne ke liye kaafi tha, aur mujhe justice ke defence mein aane ke a-saksham banane ke liye.’
+
+‘Nonsense,’ usne kaha [e]. ‘Aapko is second instalment ko bhi sunna chahiye. Mujhe jo lagta hai ki Glaucon chahta hai use zyada saaf banane ke liye, humein uske contrary (vipreet) arguments se guzarna chahiye – woh jo justice ki sifarish karte hain aur injustice ki criticism karte hain [363]. Fathers apne beton ko salah dete hue, aur woh sabhi jo doosron ke liye responsible hain, unhe just hone ke liye encourage karte hain – isliye nahi, main ise leta hoon, kyunki woh justice ko apne aap mein value karte hain, balki kyunki woh isse milne wale approval (anumodan) ko value karte hain. Agar woh just lagte hain, woh argue karte hain, toh yeh reputation unke liye public office, marriage aur un sabhi benefits ko layegi jinhe Glaucon ne abhi enumerate kiya hai, jinhe just man achha maana jaane se haasil karta hai. Aur yeh sab kuch nahi hai jo unhe reputation ke benefits ke baare mein kehna hai. Ek baar jab woh gods ke approval ko jodna shuru karte hain, toh unke paas pious (pavitra) ko offer karne ke liye rewards ki prachurta hoti hai – gods ke gifts, woh kehte hain [b]. Admirable Hesiod aur Homer
+6
+wahi cheez kehte hain. Hesiod kehta hai ki just ke liye, gods oak trees ko banate hain
+
+> Bear acorns on their lofty tops, and bees
+> Beneath, on lower branches. Weight of wool
+> Burdens their fleecy sheep.
+
+Aur isi tarah ke kai doosre benefits.
+7
+Homer lagbhag wahi kehta hai:
+
+> Or like some worthy king who, fearing god,
+> Supports the right. For him the rich dark earth
+> Bears wheat and barley, while with fruit his trees
+> Bow down [c]. Unfailingly his flocks bear lambs.
+> For him the sea yields fish.
+> 8
+
+Musaeus aur uska beta just ko gods se zyada exciting kind ke rewards receive karvate hain.
+9
+Unke account mein, woh unhe Hades le jaate hain, unhe baithate hain, aur pious ke liye ek party organise karte hain [d]. Woh unhe crown karte hain, aur unhe poora samay drunk (nashil) hone mein bitane dete hain, perpetual drunkenness (lagatar nashe) ko human goodness ke liye sabse finest reward maante hue. Doosre phir gods se aise rewards grant karte hain jo inase bhi zyada extensive hain. Woh kehte hain ki bachhon ke bachhe aur descendants ki ek tribe pious man, us aadmi ki posterity (santati) hain jo apni oaths ko rakhta hai. Yeh, aur is jaisa kuch aur, wahi hai jo woh justice ki praise mein kehte hain. Jahan tak impious aur unjust ka sawaal hai, woh unhe Hades mein, kisi prakar ke mud (keechad) mein dafan karte hain [e]. Woh unse ek sieve (chalni) mein paani carry karvate hain;
+10
+aur woh unhe alive hone par bhi disgrace mein laate hain. Woh unjust par Glaucon ki un just logon ke liye penalties ki list thopte hain jinake paas unjust hone ka reputation hai; yeh sabhi penalties hain jinhe woh soch sakte hain. Yeh, phir, unka recommendation aur criticism hai do lives mein se har ek ka.
+
+‘Iske alawa, Socrates, aapko justice aur injustice ke baare mein baat karne ke ek aur aam tareeqe ko account mein lena chahiye – everyday speech mein aur poets mein dono [364]. Self-discipline aur justice ki apni praise mein, woh sabhi ek aawaz mein gaate hain. Woh unhe ek good ke roop mein dekhte hain, lekin ek aise ke roop mein jo kathin aur laborious (mehnat-sadhya) hai, jabki self-indulgence aur injustice pleasant aur follow karne mein aasan hain; woh sirf reputation mein jo woh laate hain, aur convention dwara shameful hain. Woh kehte hain ki zyadatar part ke liye unjust actions just wale se zyada profitable hain. Woh wicked ko congratulate karne mein kaafi happy hain, agar unke paas daulat hai aur power exercise karte hain, aur public life aur private life dono mein unhe respect pay karte hain [b]. Doosron se woh despise (nafrat) karte hain aur ignore karte hain – unmein se koi bhi jo kamzor aur gareeb hain – yadyapi woh swikar karte hain ki woh wicked se behtar log hain. Halanki, is vishay par sabhi mein sabse ullekhniya statements gods ke human goodness ke prati attitude ke baare mein hain. Woh kehte hain ki gods kai achhe logon ko unhappiness aur ek wretched (dandniya) life dete hain, jabki unke opposites ko woh ek aisi life dete hain jo kaafi alag hai. Mendicant priests aur seers ameer aadmi ke darwaze par dastak dete hain, aur use convince karne ki koshish karte hain ki unke paas ek power hai, jise gods dwara sacrifices aur incantations ke badle mein unhe bestowed kiya gaya hai, feasting ke delights ka upayog karke uske ya uske purvajon dwara kiye gaye kisi bhi wrong ko sahi karne ke liye [c].
+11
+Aur ki agar koi kisi dushman ko nuksan pahonchana chahta hai, toh ek chhote charge ke liye woh charms aur spells se just aur unjust dono ko equally injure kar sakte hain. Woh kehte hain ki woh gods ko apne liye kaam karne ke liye persuade kar sakte hain. In sabhi daavon ke liye woh poets ko witnesses ke roop mein bulate hain. Kuch unhe wrongdoing ki aasaani par quote karte hain.
+
+> There is much wickedness; it is never hard
+> To make that choice [d]. The way is smooth, the goal
+> Lies near at hand. Virtue is out of reach
+> Without much toil. That is the gods’ decree.
+> 12
+
+Yeh ek lamba, uphill road hai. Doosre, mard gods ko kaise prabhavit kar sakte hain is baare mein baat karte hue, Homer ko witness ke roop mein bulate hain, uske is daave ke sath ki
+
+> Even the gods themselves
+> Will hear our prayers. Men who do wrong, and sin,
+> Can thus dissuade them from their purposes
+> With fair entreaty or with sacrifice, With incense or the fat of offered meat [e].
+> 13
+
+Woh Musaeus aur Orpheus dwara books ka ek host samne laate hain, Selene aur Muses ke bachhe, aisa woh daava karte hain. Yeh wahi hain jo unke sacrificial rituals ko govern karte hain, aur woh cities ke sath-sath individuals ko persuade karte hain ki sacrifices aur pleasurable amusements alive hone walon aur pass away hone walon dono ke liye injustice se release aur purification jeet sakte hain [365]. Rites se guzarna, woh ise kehte hain, jo humein afterlife mein evils se release kar sakta hai. Aur agar hum sacrifice nahi karte hain, toh bhayanak cheezein hamara intazar karti hain.
+
+‘Yeh nature aur force hai, Socrates, un sabhi cheezon ka jo goodness aur wickedness ke baare mein kahi jaati hain, aur mardon aur gods dwara unpar rakha gaya mulya. Hum kya sochte hain ki unka naye logon ke dimaag par kya effect hota hai jab woh unhe sunte hain – able wale, woh jo, jaise ki, opinion se opinion tak flitting karne ke capable hain, isbaare mein jaankari ik इकट्ठा karte hue ki kis tarah ka vyakti banna hai, aur kis raste jana hai, sabse behtareen sambhavid life jeene ke liye [b]? Ek naya aadmi khud se poochh sakta hai, Pindar ke shabdon ka upayog karte hue, “Sabse uchi wall kaise chadhein? Kya justice madad karegi? Ya devious deception?”
+14
+Aur is tarah citadel (kile) ki suraksha mein, apni maut tak apni life jeeo? Poets dwaara judge karne ke liye, agar main just hoon bina just lagte hue bhi, toh main isse kathinai aur spasht nuksan ke alawa kuch umeed nahi kar sakta. Agar main unjust hoon, lekin justice ke liye ek reputation haasil kar li hai, toh mujhe ek shaandar life ka vaada kiya gaya hai [c]. Isliye, kyunki “Appearance,” jaise ki samajhdar mardon ne mujhe ishara kiya hai, “truth ko overpower karti hai” aur happiness ko control karti hai,
+15
+mujhe apna saara dhyan uspar modna chahiye. Mujhe apne charon taraf goodness ki ek exact likeness khinchani chahiye, ek front aur façade ke roop mein, apne peeche wise Archilochus ki crafty aur subtle fox ko laate hue.
+16
+
+‘“Iske sath pareshani,” koi kahega, “yeh hai ki evil hona aur hamesha ke liye isse bach nikalna kathin hai.” “Well,” hum kahenge, “kuch bhi bada kabhi aasan nahi tha [d]. Lekin agar hum happy hone wale hain, toh humein wahan follow karna chahiye jahan hamare argument ka trail humein le jata hai. Aur isse bach nikalne ke liye, hum gupt clubs aur societies banayenge,
+17
+aur persuasion ke teachers hain humein assembly aur lawcourts ki wisdom dene ke liye. Unki madad se hum kabhi-kabhi persuasion ka upayog karenge, aur doosre samay force ka, aur is tarah iske liye pay kiye bina top par aayenge.”
+
+‘“Lekin gods ke khilaf stealth ya force ka upayog karna asambhav hai.” “Well, agar gods astitva mein nahi hain, ya agar woh mardon mein bilkul bhi interested nahi hain, toh humein badle mein jo hum karte hain use gupt rakhne mein interested kyun hona chahiye [e]? Agar woh astitva mein hain, aur mardon mein interested hain, toh hamari unki akeli gyaan ya hearsay custom aur poets se aati hai jo gods ke family histories ke baare mein gaate hain. Lekin yeh wohi writers hain jo humein batate hain ki gods ke nature mein ‘fair entreaty aur sacrifice ke sath’ moved aur won over hona hai.
+18
+Humein ya toh poets dwara kiye gaye dono daavon par vishwās karna chahiye ya unmein se kisi par nahi. Aur agar hum unpar vishwās karte hain, toh sabse behtareen policy unjust way mein kaam karna hoga, aur proceeds ka upayog sacrifices ke liye pay karne ke liye karna hoga [366]. Agar hum just way mein kaam karte hain, toh hum gods dwara saja se bachenge, lekin injustice ke rewards bhi khoyenge, jabki agar hum unjust hain toh hum rewards paayenge, aur prayers ke saadhan dwara jab hum mark ko overstep karte hain aur wrong karte hain toh hum gods ko bina kisi penalty ke humein chhodne ke liye persuade kar sakte hain.”
+
+‘“Ah, lekin humein agli duniya mein pay karna padega – ya toh hum khud ya hamare descendants – un wrongs ke liye jo hum yahan karte hain.” “Aisa nahi hai, mere dost,” woh kahega, ek calculating air ke sath [b]. “Mystic rites mein, aur absolution dene wale gods mein badi taqat hai. Aisa sabse bade cities kehte hain, aur gods ke bachhe, woh jo gods ke poets aur mouthpieces banate hain; woh humein assure karte hain ki yeh cheezein aisi hain.”
+
+‘Phir hamare liye sabse complete injustice ke muqable justice ko chunne ke liye kya kaaran bacha hai? Agar hamare paas counterfeit respectability ke sath coupled injustice ho sakti hai, toh hum gods aur men dono ke sath hamare dealings mein apne khud ke inclinations ko follow kar rahe honge, hamari lifetime mein aur hamari maut ke baad bhi. Yeh zyadatar logon ki aur experts ki raaye hai. In sabhi arguments ki roshni mein, Socrates, kya kisi bhi personality ki force, kisi bhi financial resources, kisi bhi physical strength ya family connections wale vyakti ko justice ka respect karne ke liye taiyar hone ke liye induce kar sakta hai, bajaye iske ki jab woh ise recommend hote hue sunta hai toh hanse [c]? Agar koi dikha sakta hai ki jo humne kaha hai woh galat hai, aur poori tarah santusht hai ki justice ek achhi cheez hai, toh main kalpana karta hoon ki woh unjust ke prati bahut forgiving hai, aur unpar gussa nahi hota. Woh jaanta hai ki un logon ke alawa jo injustice ke prati ek tarah ke divine aversion ke sath paida hue hain, ya jo isse refrain karne ke liye gyaan haasil karte hain, koi bhi sach mein just nahi hona chahta [d]. Log cowardice, ya old age, ya kisi doosri tarah ki kamzori ke parinaamswarup, aur ise practice karne ki a-kshamta se injustice ki ninda karte hain. Yeh kaafi spasht hai. Is tarah ke logon mein se ek jis minute power ki position mein aata hai, woh turant jitna ho sake utna unjust way mein kaam karna shuru kar deta hai.
+
+‘Is sabka kaaran simply woh observation hai jisne hum dono ko aap par in lambi speeches ko thopne ke liye prompt kiya, Socrates. Yeh yeh hai. Aapke jaise logon ki koi kami nahi hai, mere shaandar dost, jo justice ke supporters hone ka daava karte hain, early days ke heroes se shuru karte hue, jinake shabd hum tak pahonche hain, right up to vartaman din ke logon tak [e]. Aapme se kisi ne bhi kabhi bhi injustice ki ninda nahi ki hai ya justice ki sifarish nahi ki hai sivaay un reputation, prestige aur rewards ke terms mein jo woh laate hain. Kisi ne bhi abhi tak, chahe poetry mein ya private discussion mein, unmein se har ek ka itself mein sufficiently detailed account nahi diya hai, jab yeh ise dharan karne wale vyakti ki soul mein apni taqat ke sath maujood hoti hai, gods ya men dwara undetected. Kisi ne nahi dikhaya hai ki injustice un evils mein sabse bada hai jo soul ke andar hain, ya ki justice sabse bada good hai [367]. Agar wahi hota jo aap sabhi shuruat se hi keh rahe the, aur agar aap humein hamare sabse shuruati saalon se persuade kar rahe hote, toh hum ab ek doosre par nazar nahi rakh rahe hote, injustice ke khilaf guard karne ke liye. Har aadmi khud par nazar rakh raha hota, darrte hue ki wrong karke woh apne abode ko share karne ke liye evils mein sabse bade ko admit na kar le.
+
+‘Yeh, Socrates, aur shayad isse bhi zyada, woh hai jo Thrasymachus, ya us maamle ke liye koi aur, justice aur injustice ke vishay par keh sakta hai [b]. Woh har ek ko galat value assign karte hain – ek gross mistake, mere drishtikon mein. Kaaran – aur main aapke sath poori tarah khula rahunga – kyun maine unki position ko jitna ho sake utna vigorously set out kiya hai woh yeh hai ki main aapase opposite drishtikon sunna chahta hoon. Sirf argument dwara humein yeh mat demonstrate karein ki justice injustice se zyada powerful koi cheez hai.
+19
+Humein batao ki unmein se har ek ka kya effect hota hai, sirf apne aap mein, ise dharan karne wale vyakti par, jo unmein se ek ko kuch bad aur doosre ko kuch good banata hai. Aapko unhe unki reputations se strip karna chahiye, jaise Glaucon ne sifarish ki thi. Aapko har ek se uski true reputation ko hatana chahiye, aur ise ek false reputation deni chahiye. Warna hum kahenge ki aap justice ka defence nahi kar rahe hain, balki justice ki appearance ka, aur ki aap injustice ki ninda nahi kar rahe hain, balki injustice ki appearance ki [c]. Hum kahenge ki aap humein gupt roop se unjust hone ke liye encourage kar rahe hain, aur ki aap Thrasymachus se sehamat hain jab woh kehta hai ki justice woh hai jo kisi aur ke liye achha hai – jo stronger ke liye achha hai – jabki injustice woh hai jo khud ke liye achha aur profitable hai – jo weaker ke liye bad hai. Aap sehamat hue ki justice un bade goods mein se ek thi jo unke consequences ke liye aanshik roop se dharan karne laayak hain, lekin unke apne khatir kahin zyada, goods jaise sight, hearing, intelligence – aur health, us maamle ke liye – aur goods ke us sabse finest class ka baaki hissa, woh jo apne nature se hi achhe hain, aur isliye nahi kyunki woh reputation laate hain [d].
+20
+Yeh justice ki woh praise hai jo main aapko banana chahta hoon. Sirf apne aap mein, yeh kaise madad karti hai – aur injustice kaise nuksan pahonchati hai – ise dharan karne wale vyakti ko? Aap rewards aur reputation ki praise ko doosron par chhod sakte hain. Main doosre logon dwara in terms mein justice ki praise karne, aur injustice ki ninda karne ko swikar karne ke liye taiyar hoon, aur unhe unse jude reputation aur rewards ki extolling ya criticising karte hue sunne ke liye. Lekin main ise aapase swikar nahi karunga, jab tak ki aap mujhe batate nahi ki mujhe karna chahiye, kyunki yeh sateek roop se woh prashn hai jise aapne apni poori zindagi adhyayan karne mein bitayi hai [e]. Toh please sirf argument dwara humein yeh mat demonstrate karein ki justice injustice se zyada powerful koi cheez hai. Humein woh effect batao jo unmein se har ek ka hota hai, sirf apne aap mein, ise dharan karne wale vyakti par – chahe gods aur men iske baare mein jaante hon ya nahi – woh effect jo unmein se ek ko good aur doosre ko bad banata hai.’
+
+Maine hamesha Glaucon aur Adeimantus ke characters ki uchi raaye rakhi thi, lekin jab maine suna ki unhe kya kehna tha toh main vishesh roop se unse delighted tha [368]. ‘Toh, bade aadmi ke bachhon,’
+21
+maine kaha, ‘Glaucon ka lover sahi tha, jab aapne Megara mein battle mein khud ko distinguish kiya, apne poem ko aapke sammaan mein in shabdon ke sath shuru karne ke liye:
+
+> Ariston’s sons, great father’s godly line . . .
+> 22
+
+Ek fair description, mujhe lagta hai, mere doston. Aapke abhi ke performance ke baare mein nischit roop se kuch inspired tha – injustice ke paksh mein is tarah bolne mein saksham hona bina is baat se convinced hue ki yeh justice se behtar cheez hai [b]. Aur aapki poori life ke tareeqe ke sabhoot dwaara judge karte hue, main aap par vishwās karta hoon jab aap kehte hain ki aap sach mein convinced nahi hain, yadyapi jo aapne vaastav mein kaha usse maine aap par vishwās nahi kiya hota. Pareshani yeh hai, jitna zyada dridhata se main aap par vishwās karta hoon, utna hi kam nischit main hoon ki aage kya karna hai. Main justice ka defence nahi kar sakta. Mujhe nahi lagta ki mere paas ability hai. Main woh kehta hoon kyunki aapne un arguments ko kharij kar diya hai jinse maine socha tha ki maine Thrasymachus ke samne prove kar diya tha ki justice injustice se behtar koi cheez thi [c]. Doosri taraf, main uski defence na bhi nahi kar sakta, kyunki main yeh mahsoos kiye bina nahi reh sakta ki jab main justice ko hamle ke tehat aate hue sunta hoon toh idly khada rehna galat hai, aur jab tak mere body mein breath hai aur mere head mein tongue tab tak uski defence mein na aana. Toh sabse behtareen cheez yeh hai ki main jo defence kar sakta hoon woh karoon.’
+
+Well, Glaucon aur unke baaki logon ne insist kiya ki woh chahte the ki main ek defence karoon, aur argument ko abandon na karoon. Woh chahte the ki main isbaare mein ek poori investigation karoon ki justice aur injustice dono kya the, aur dono ke dwara laye gaye benefit ke sambandh mein true position kya thi. Toh maine woh drishtikon apnaya jo mujhe sabse behtareen laga. ‘Hum jo enquiry kar rahe hain woh koi saral maamla nahi hai [d]. Agar aap mujhse poochhein, toh iske liye teez eyesight ki zaroorat hai. Aur kyunki hum clever log nahi hain, mujhe lagta hai ki humein apni khoj ko usi tarah ke tareeqe se conduct karna chahiye jaise hum karte agar hamari eyesight bahut achhi na hoti, aur humein thodi doori se kuch chhote writing ko padhne ke liye kaha jata, aur phir hum mein se kisi ek ko ehsaas hota ki same writing ki ek badi copy, zaahir taur par, kahin aur milni thi, kisi bade surface par. Hum ise kismat ka ek stroke maaninge, mujhe lagta hai, pehle bade letters ko padhne mein saksham hona, aur phir apna dhyan chhote walon par modna, yeh dekhne ke liye ki kya woh sach mein wahi keh rahe the.’
+
+‘Hum nischit roop se maaninge,’ Adeimantus ne kaha [e]. ‘Lekin aap justice ki hamari khoj mein aisa kuch kahan dekh sakte hain?’
+
+‘Main aapko bataunga,’ maine kaha. ‘Hum kehte hain ki ek individual mein justice hai; lekin yeh bhi, main ise leta hoon, ek poore city mein justice?’
+
+‘Haan.’
+
+‘Aur ek city ek individual se badi cheez hai?’
+
+‘Haan, yeh hai.’
+
+‘Us case mein, shayad justice usme bade paimane par hogi jo bada hai, aur jiske baare mein pata lagana aasan hai [369]. Toh agar aap approve karte hain, toh hum isbaare mein pata lagakar shuruat kyun nahi karte ki cities mein yeh kis tarah ki cheez hai? Iske baad hum individual mein ek aisa hi inquiry kar sakte hain, chhote wale dwara liye jaane wale form mein bade version ki likeness dhoondhne ki koshish karte hue.’
+
+‘Mujhe lagta hai ki yeh ek achha idea hai,’ usne kaha.
+
+‘Maan lijiye phir,’ maine kaha, ‘hum ek city ke theoretical origin ka adhyayan karne wale the, kya hum usme justice aur injustice ka origin bhi dekhenge?’
+
+‘Hum dekh sakte hain,’ usne kaha.
+
+‘Aur agar hum aisa karte hain, toh kya isbaat ka mauqa hai ki hum jo dhoondh rahe hain use paana aasan hoga?’
+
+‘Haan, kahin zyada aasan [b].’
+
+‘Aap sochte hain, phir, ki yeh ek aisa task hai jise poora karne ka humein prayas karna chahiye? Mujhe shak hai ki yeh ek kaafi bada undertaking hai, toh aap faisla karein.’
+
+‘Humne faisla kar liya hai,’ Adeimantus ne kaha. ‘Aage badhein.’
+
+‘Very well,’ maine kaha. ‘Ek city ka origin, mujhe lagta hai, is tathya mein nihit hai ki hum, humme se koi bhi, self-sufficient nahi hain; hamare paas har tarah ki needs hain. Kya aap ek city ki foundation ke liye kisi doosre kaaran ke baare mein soch sakte hain?’
+
+‘Nahi, main nahi soch sakta.’
+
+‘Alag-alag individuals, phir, ek need ko poora karne ke liye ek vyakti ke sath, aur doosri need ko poora karne ke liye doosre vyakti ke sath associations banate hain [c]. Wants ki is variety ke sath woh ek hi habitation ki jagah mein kai partners aur allies ko ik इकट्ठा kar sakte hain, aur is sanyukt habitation ko hum “city” naam dete hain, kya hum nahi dete?’
+
+‘Haan, hum dete hain.’
+
+‘Kya ek vyakti doosre ke sath share karta hai, jab woh share karta hai – ya kya woh ek share accept karta hai – kyunki woh sochta hai ki yeh uske liye vyaktigat roop se behtar hai?’
+
+‘Haan, woh karta hai.’
+
+‘Right phir,’ maine kaha. ‘Aayein shuruat se ek hypothetical (kalpanik) city construct karein. Yeh, zaahir taur par, hamari needs ka product hai.’
+
+‘Of course.’
+
+‘Aur un needs mein se pehli aur sabse mahatvapurna, agar humein astitva mein rehna hai aur zinda rehna hai, toh food ka provision hai [d].’
+
+‘Unquestionably (bina kisi sawaal ke).’
+
+‘Doosra housing ki need aati hai, aur teesra clothing aur us tarah ki cheezon ki need.’
+
+‘Yeh sahi hai.’
+
+‘Well phir,’ maine kaha, ‘hamara city in requirements ko poora karne ke barabar kaise hoga? Kya yeh sirf ek farmer, plus ek builder, plus ek weaver nahi hoga? Ya kya humein ek shoemaker ko bhi jodna chahiye, aur kisi doosre ko jo physical needs ke liye pradan karta hai?’
+
+‘Haan, humein jodna chahiye.’
+
+‘Toh sabse basic city ko chaar ya paanch mardon se milkar banna padega.’
+
+‘Yeh us tareeqe se lagta hai.’
+
+‘Agla prashn [e]. Kya unmein se har ek ko jo woh produce karta hai use sabhi ke liye barabar uplabdh karana chahiye? Kya ek farmer ko, udaharan ke liye, chaar ke liye food pradan karna chahiye? Kya use food ke production mein chaar guna ghante, aur chaar guna prayas daalna chahiye, aur phir ise doosron ke sath share karna chahiye? Ya kya use unke baare mein bhool jana chahiye aur sirf khud ke liye pradan karna chahiye, ek chauthai samay mein sirf food ki matra ka ek chauthai produce karte hue – aur baaki teen-chauthai mein se, ek chauthai har ek ko housing, clothing, aur footwear ke provision ke liye samarpit karna chahiye [370]? Us tareeqe se woh khud ko doosron ke sath share karne ki pareshani se bachayega, aur apne khud ke individual prayason dwara apni needs ke liye pradan karega.’
+
+‘Nahi, Socrates,’ Adeimantus ne jawab diya, ‘doosra tareeqa shayad zyada aasan hai.’
+
+‘Yeh nischit roop se wahi hai jiski aap umeed karenge,’ maine kaha. ‘Aur ek cheez ne mujhe turant struck kiya jab aapne woh kaha, jo yeh hai ki ek individual nature se doosre individual se kaafi alag hai, ki woh apne natural aptitudes mein differ karte hain, aur ki alag-alag log alag-alag tasks perform karne ke liye equipped hain [b]. Kya aap aisa nahi sochte?’
+
+‘Main sochta hoon.’
+
+‘Well, phir. Kya ek single individual multiple skills exercise karte hue behtar karega, ya har ek ek par concentrate karte hue sabse behtareen karega?’
+
+‘Ek par concentrate karte hue,’ usne jawab diya.
+
+‘Aur ek aur cheez. Yeh saaf hai, mujhe lagta hai, ki agar aap kisi task ke liye sahi moment ko guzarne dete hain, toh task suffer karta hai.’
+
+‘Haan, yeh saaf hai.’
+
+‘Yeh isliye hai kyunki haath mein maujood task ise karne wale vyakti ke paas ek spare moment hone ka intazar nahi karega [c]. Toh yeh aavashyak hai ki jo koi bhi ise kar raha hai use ispar concentrate karna chahiye, aur ise ek hobby ke roop mein nahi dekhna chahiye.’
+
+‘Haan, yeh aavashyak hai.’
+
+‘Isse yeh nikalta hai ki kisi bhi enterprise mein zyada produce hota hai – aur ki yeh behtar aur zyada aasaani se produce hota hai – jab ek vyakti ek single task karta hai jo uske nature ke suited hai, aur ise sahi samay par karta hai, khud ko doosre tasks se free rakhte hue.’
+
+‘Yeh nischit roop se nikalta hai.’
+
+‘Phir hamari batayi gayi needs ke liye pradan karne ke liye, Adeimantus, chaar citizens se zyada lagenge. Farmer, aisa lagta hai, apne haathon se khud ek plough nahi banayega – agar yeh ek achha plough hone wala hai – na hi ek hoe, na hi apne farming implements mein se koi doosra [d]. No more builder, jise kai tools ki bhi zaroorat hai. Aur wahi weaver aur shoemaker ke sath bhi jata hai.’
+
+‘True.’
+
+‘Toh carpenters, aur blacksmiths, aur us tarah ke skilled workers ka ek poora lot, hamare chhote city mein partners ban jaayenge, aur jagah ko kaafi crowded bana denge.’
+
+‘Woh banayenge.’
+
+‘Is sabke baavjood, yeh abhi bhi utna bada nahi hoga, bhale hi hum cattlemen, shepherds aur doosre herdsmen ko jodte hain, taaki farmers ke paas ploughing ke liye oxen ho sakein, aur taaki builders ke sath-sath farmers materials carry karne ke liye animals ka upayog karne mein saksham ho sakein, aur taaki weavers aur shoemakers ke paas hides aur wool ho sake [e].’
+
+‘Yeh nischit roop se ek chhota city nahi hoga,’ usne kaha, ‘agar isme woh sab shamil hai.’
+
+‘Yeh sab kuch nahi hai,’ maine kaha. ‘Khas taur par city ko hi ek aisi jagah par locate karna lagbhag asambhav hoga jahan ise imports ki zaroorat na ho.’
+
+‘Poori tarah asambhav.’
+
+‘Toh ise iske alawa aur bhi logon ki zaroorat hogi, iske doosre city se zaroorat ki cheezon ko laane ke liye.’
+
+‘Ise hogi.’
+
+‘Isse bhi zyada, agar unka agent khali haath jata hai, kuch bhi aisa na le jaate hue jo un logon ki needs ko poora karta hai jinse woh un cheezon ko import kar rahe hain jinaki unke paas kami hai, toh woh khali haath wapas aayega, kya woh nahi aayega [371]?’
+
+‘Mujhe lagta hai.’
+
+‘Toh apni khud ki economy mein citizens ko na sirf khud ke liye adequately pradan karna chahiye; unhe sahi tarah ke goods bhi produce karne chahiye – aur kaafi badi quantities mein – un logon ke liye jinaki unhe trade karne ki zaroorat hai.’
+
+‘Haan, unhe karna chahiye.’
+
+‘Toh hamare city ko zyada farmers, aur doosre occupations mein zyada workers ki zaroorat hai.’
+
+‘Haan.’
+
+‘Aur zyada agents ki bhi, presumably, woh jo saara importing aur exporting karne wale hain. Yeh log merchants hain, kya woh nahi hain?’
+
+‘Haan.’
+
+‘Toh humein merchants ki bhi zaroorat hogi.’
+
+‘Definitely.’
+
+‘Aur agar hamara trade sea dwara hai, toh humein kai doosre logon ki bhi zaroorat hogi – seafaring ke experts [b].’
+
+‘Haan, ek badi sankhya.’
+
+‘City mein hi trade ke baare mein kya? Har group doosron ke sath apna production kaise share karega? Aakhirkar wahi ek association banane aur ek city sthapit karne ka hamara kaaran tha.’
+
+‘Obviously,’ usne kaha, ‘buying aur selling dwara.’
+
+‘Yeh ek market-place aur ek currency, transactions ke liye exchange ki ek unit ko janam dega.’
+
+‘Undoubtedly.’
+
+‘Lekin jab farmer, ya doosre occupations mein se kisi ka member, apne dwara produce kiye gaye ka hissa market mein laata hai, toh woh wahan us same moment par nahi pahonch sakta jab un logon ko uske sath goods exchange karne ki zaroorat hoti hai [c]. Kya woh market-place mein idhar-udhar baithne wala hai, apne kaam se samay nikaalte hue?’
+
+‘Certainly nahi,’ usne kaha. ‘Aise log hain jo is need ko identify karte hain, aur is activity ke liye khud ko uplabdh karatte hain. Ek well-run city mein woh physically sabse kamzor hote hain, woh jo kisi bhi doosre tarah ke kaam ke liye useless hain [d]. Unhe wahan market-place mein intazar karna padta hai, bechne ke liye kuch rakhne walon se paise ke badle goods receive karte hue, aur phir dobara khareedna chahte sabhi logon se goods ke badle paisa.’
+
+‘Toh yeh need hai,’ maine kaha, ‘jo dealers ko hamare city mein laati hai. Kya hum logon ko dealers nahi kehte, agar woh wahan market-place mein ek selling aur buying service offer karte hue baithte hain, jabki woh jo cities ke charon taraf travel karte hain unhe hum merchants kehte hain?’
+
+‘Hum kehte hain.’
+
+‘Aur abhi bhi logon ka ek aur group hai, mujhe lagta hai, ek service offer karte hue. Hum nischit roop se unhe unke mental attributes ke liye partners ya associates ke roop mein nahi chahenge, lekin woh manual labour ke liye suitable physical strength dharan karte hain [e]. Ise woh sale ke liye offer karte hain, aur jo price woh ispar rakhte hain use woh apna hire kehte hain. Woh, main kalpana karta hoon, kyun hai ki unhe badle mein hired labourers kaha jata hai. Kya yeh sahi nahi hai?’
+
+‘Haan.’
+
+‘Toh hired labourers, aisa lagta hai, hamare city ko bharne ke liye bhi jaayenge.’
+
+‘Mujhe lagta hai ki woh ja sakte hain.’
+
+‘Well phir, Adeimantus, kya hamara city ab kaafi bada hai? Kya yeh complete hai?’
+
+‘Maybe yeh hai.’
+
+‘Which case mein, sateek roop se justice aur injustice isme kahan milne hain? Jin elements ka humne examination kiya hai unmein se kismein unhone apni appearance banayi hai?’
+
+‘Apne liye bolte hue, Socrates,’ usne kaha, ‘mujhe koi idea nahi hai – jab tak ki, main maanata hoon, yeh kisi tarah ki need mein hai jise in elements ke paas ek doosre ki hai [372].’
+
+‘Mujhe lagta hai ki woh sahi jawab ho sakta hai,’ maine kaha. ‘Humein bina kisi hesitation ke iska examination karna chahiye. Aayein pehle us tareeqe ko dekhein jispar log is tarah ki economy mein apna samay bitayenge. Kya yeh nahi hoga ki woh bread aur wine aur clothing aur shoes produce karte hain? Woh khud ke liye houses banayenge. Summer mein woh halka pehne hue, aur nange pair apne kaam ke baare mein jaayenge, aur winter mein woh properly clothed aur shod honge [b]. Woh barley-meal aur wheat flour par rahenge. Inhe knead aur bake karte hue, unke paas fine barley cakes ya wheat loaves honge jo reeds ya fresh leaves par serve kiye jaayenge. Woh straw beds par lete hue khayenge jo bryony aur myrtle se dhake honge. Woh is tarah bahut achhi tarah jeese sakte hain – woh aur unke bachhe. Apne meals ke baad wine peete hue, apne saron par garlands pehne hue, aur gods ki praises gaate hue, woh ek doosre ke sath kaafi khushi se rahenge [c]. Unke paas jitne woh afford kar sakte hain usse zyada bachhe nahi honge, aur woh poverty aur war se bachenge.’
+
+23
+Is point par Glaucon ne interrupt kiya. ‘Koi art of cookery nahi, zaahir taur par, in logon ke liye jinhe aap itna achhi tarah se jeene ke roop mein varnit karte hain.’
+
+‘Yeh ek achha point hai,’ maine kaha. ‘Main bhool gaya tha ki unke paas cookery ki art hogi. Obviously woh salt, aur olives, aur cheese ka upayog karenge, aur woh wild roots aur vegetables ke usual country dishes ko ubaalenge. Aur dessert ke liye hum unhe figs aur chickpeas aur beans offer kar sakte hain; aur woh aag ke samne myrtle berries aur acorns ko roast karenge, peene ke liye ek modest matra ke sath. Is tareeqe se, lives jeete hue jo peaceful hain aur sabhi sambhavnaon mein healthy, woh old age mein marrenge, apne descendants ko wahi way of life hand down karte hue [d].’
+
+‘Agar aap pigs ka ek city organise kar rahe the, Socrates, kya aap unhe isi tarah khilate?’
+24
+
+‘Well, hum unhe kis tarah ke meals dein, Glaucon?’ maine poocha.
+
+‘Usual kind. Agar woh comfort mein khane wale hain, toh unhe couches par letna chahiye, tables se khana chahiye, aur cooked dishes aur desserts rakhne chahiye jo aaj logon ke paas hain [e].’
+
+‘Main dekhta hoon,’ maine jawab diya. ‘Toh hum sirf ek city ke origin ko nahi dekh rahe hain, zaahir taur par. Hum ek luxurious city ke origin ko dekh rahe hain. Maybe woh utna kharab idea nahi hai. Agar hum us tarah ke city ko bhi dekhte hain, toh hum shayad us point ko dekh sakte hain jahan justice aur injustice cities mein astitva mein aati hain. Mujhe lagta hai true city – healthy version, jaise ki tha – wohi hai jise humne abhi varnit kiya hai. Lekin aayein swollen aur inflamed city ko bhi dekhein, agar aap wahi pasand karte hain. Hum ise aasaani se kar sakte hain. Humein kaun rok raha hai?
+
+‘Yeh sab, aur yeh way of life, kaafi nahi hoga, aisa lagta hai, kuch logon ke liye [373]. Unke paas couches aur tables honge, aur iske alawa doosra furniture, aur cooked dishes of course, aur incense, perfumes, call-girls, cakes – in sabhi cheezon ki har variety. Jahan tak un needs ka sawaal hai jinake baare mein humne shuruat mein baat ki thi, hum ab sirf bare necessities – houses, clothing aur shoes prescribe nahi kar sakte. Humein painting aur decoration introduced karna chahiye, aur gold aur ivory aur un sabhi tarah ki cheezon ka upayog karna shuru karna chahiye, kya humein nahi karna chahiye?’
+
+‘Haan [b].’
+
+‘Toh ek baar phir humein apne city ko enlarge karna chahiye, kyunki hamara pehla, healthy city ab bada nahi raha. Humein ise cheezon ke ek bade mass aur multitude se bharna chahiye jo ab wo nahi hain jo cities ke paas necessity ke maamle ke roop mein hone chahiye. Udaharan ke liye, hamare paas har tarah ke hunters hone chahiye, artists, woh sabhi jo apni imitations ke liye figure aur colour ka upayog kar rahe hain, aur woh jo music ka upayog kar rahe hain, poets aur unke assistants – reciters, actors, dancers, producers – aur har tarah ke goods ke makers, vishesh roop se woh jo mahilaon ko sundar dikhane ke liye upayog kiye jaate hain [c]. Isse bhi zyada, humein service mein zyada logon ki zaroorat hogi. Kya aap nahi sochte ki humein apne beton ke liye attendants, wetnurses, nannies, hairdressers, barbers ki zaroorat hogi, cooks aur chefs ka zikr na karte hue? Aur inke alawa, humein pigs rakhne ke liye bhi logon ki zaroorat hogi. Hamare paas pehle ke city mein woh nahi the, kyunki unki koi zaroorat nahi thi. Lekin is city mein unki zaroorat hogi, jaisa ki har tarah ke doosre livestock ke liye bhi, agar koi unhe khana chahta hai. Kya yeh sahi nahi hai?’
+
+‘Of course [d].’
+25
+
+‘Aur is tarah jeete hue, kya humein pehle se kahin zyada doctors ki zaroorat hogi?’
+
+‘Haan. Kahin zyada.’
+
+‘Isse bhi zyada, main kalpana karta hoon ki woh territory jo originally original population ko khilani ke liye adequate thi ab adequate nahi rahegi. Yeh bahut chhoti hogi. Kya hum use accept karte hain?’
+
+‘Haan.’
+
+‘Kya humein, phir, apne padosiyon ke territory ka ek slice khud ke liye carve karne ki zaroorat hai, agar hamare paas pasturage aur ploughing ke liye paryapt hone wala hai? Aur kya unhe badle mein hamari zameen ke ek slice ki zaroorat hai, agar woh bhi khud ko unlimited wealth ke pursuit ke hawale kar dete hain, khud ko necessities tak seemit nahi karte hue?’
+
+‘Woh hone ke liye baadhy hain, Socrates [e].’
+
+‘Aur kya agla step war hoga, Glaucon? Ya kya?’
+
+‘War.’
+
+‘Aayein moment ke liye kuch na kahein,’ maine kaha, ‘isbaare mein ki war ka effect harmful hai ya beneficial. Aayein merely note karein ki humne, badle mein, war ke origin ko dhoondh liya hai. War un cheezon se paida hota hai jo cities mein evil ke sabse aam kaaran hain, jab evil paida hota hai, private life aur public life dono mein.’
+
+‘Haan.’
+
+‘Hamare city ko aur bhi bada hone ki zaroorat hai, mere dost. Aur sirf thoda bada nahi; humein isme ek poori army jodni chahiye, jo baahar ja sakti hai aur invaders ke khilaf lad sakti hai, aur hamari saari wealth aur un doosri cheezon ko defend kar sakti hai jinake baare mein hum abhi baat kar rahe the [374].’
+
+‘Citizens khud ke baare mein kya? Kya unmein se kaafi nahi hain?’
+
+‘Nahi,’ maine kaha, ‘nahi agar hum sahi the, aap aur humme se baaki, usme jispar humne pehle sehamati di thi, jab hum apna city form kar rahe the. Nischit roop se humne sehamati di thi, agar aapko yaad ho, ki koi bhi individual properly kai arts ya skills practice karne ke capable nahi tha.’
+
+‘True.’
+
+‘Well, battle mein ladne ke baare mein kya [b]?’ maine poocha. ‘Kya aap nahi sochte ki yeh essentially ek art ya skill hai?’
+
+‘Very much so,’ usne kaha.
+
+‘Aur kya humein shoemaking ki art ko war ki art se zyada mahatvapurna maanna chahiye?’
+
+‘Nahi.’
+
+‘Well phir. Humne apne shoemaker ko farmer bhi banne ki koshish karne ki anumati nahi di – ya ek weaver ya builder. Use ek shoemaker hona tha, yeh sunishchit karne ke liye ki shoemaking ka business properly carried out kiya gaya tha. Usi tareeqe se humne doosre occupations ke har member ko ek single task assign kiya – woh task jiske liye woh naturally suited tha, aur jiske liye woh khud ko doosre tasks se free rakhta, apni poori zindagi ispar kaam karte hue, aur achhe results produce karne ke har mauqe ko lete hue [c]. Kya yeh uchatam mahatva ka nahi hai ki warfare ko jitna ho sake utna efficiently carried on kiya jana chahiye? Ya kya war itna aasan hai ki koi bhi farmer, koi bhi shoemaker, ya kisi bhi art ya skill ka koi bhi practitioner, ek soldier bhi ho sakta hai?
+26
+
+‘Yahan tak ki ek decent draughts ya dice player hone ke liye, aapko tabse khelna padta hai jab aap ek bachhe the [d]. Yeh aapke spare time mein nahi kiya ja sakta. Toh aap ek shield – ya war ka koi doosra weapon ya instrument kaise utha sakte hain – aur turant battle-line mein apni jagah lene ke liye equipped ho sakte hain, ya doosre kisi bhi tarah ke fighting mein jo war ke samay mein hota hai? Doosre instruments ke baare mein sochein: unmein se ek bhi aisa nahi hai jo kisi vyakti ko simply uthaye jaane se ek craftsman ya athlete bana dega, ya jo uske liye kisi upayog ka hoga agar uske paas koi expertise nahi hai ya ise sambhalne mein paryapt abhyas nahi raha hai.’
+
+‘Nahi,’ usne kaha, ‘woh atyadhik moolyavan instruments hote agar aap kar sakte.’
+
+‘Kyunki guardians ka job, phir,’ maine kaha, ‘sabse mahatvapurna hai, ise correspondingly doosri gatividhiyon se sabse badi aazadi ke liye aahwan karna chahiye, highest level ki expertise aur training ke sath [e].’
+
+‘Yeh nischit roop se meri raaye hai,’ usne kaha.
+
+‘Aur iske alawa, of course, sateek roop se is way of life ke suited ek natural disposition?’
+
+‘Of course.’
+
+‘Aur yeh hamara job hoga, zaahir taur par, agar hum iske capable hain, chunna ki kaun se dispositions, aur kis tarah ke dispositions, city ke defence ke suited the.’
+
+‘Woh vaastav mein hamara job hoga.’
+
+‘Heavens,’ maine kaha, ‘woh ek bada responsibility hai jo humne apne upar liya hai [375]. Is sabke baavjood, jahan tak hamari abilities permit karti hain, humein isse back out na karne ki koshish karni chahiye.’
+
+‘Haan, humein karni chahiye.’
+
+‘Well, phir,’ maine kaha, ‘jab ek guardian ke roop mein acting karne ki baat aati hai, kya aap nahi sochte ki apne disposition mein achhe birth ka ek naya aadmi ek naye pedigree hound ki tarah hai?’
+
+‘Kis tareeqe se?’
+
+‘Well, udaharan ke liye, unmein se har ek ko acute senses ki zaroorat hoti hai, jo woh detect karte hain uske pursuit mein speed, aur taqat ki bhi, is case mein ki woh ise pakadte hain aur unhe iske sath ladna padta hai.’
+
+‘Haan,’ usne kaha, ‘unhe in sabhi qualities ki zaroorat hai.’
+
+‘Plus courage, of course, agar use achhi tarah se ladna hai.’
+
+‘Of course.’
+
+‘Lekin kya koi bhi living creature brave hone ki sambhavna rakhta hai – chahe ghoda ho ya dog ya kuch bhi aur – agar uske paas ek spirited aur energetic nature na ho [b]? Kya aapne dhyan nahi diya ki spirit kitni irresistible aur unconquerable cheez hai? Spirit ke sath, koi bhi living creature kisi bhi khatre ke samne fearless aur invincible hota hai.’
+
+‘Haan, maine woh dhyan diya hai.’
+
+‘Jahan tak ek guardian ke liye required physical characteristics ka sawaal hai, phir, woh spasht hain.’
+
+‘Haan.’
+
+‘Aur mental requirement yeh hai ki woh spirited, ya energetic hona chahiye.’
+
+‘Haan. Woh bhi.’
+
+‘Us case mein, Glaucon,’ maine kaha, ‘agar unka natural disposition waise hi hai jaise humne varnit kiya hai, toh unhe ek doosre ke sath aur baaki citizens ke sath aggressive hone se kya rokne wala hai?’
+
+‘Precious little,’ usne kaha.
+
+‘Lekin hum chahte hain ki woh apne khud ke logon ke sath unke dealings mein gentle hon, aur dushman ke sath unke dealings mein fierce [c]. Warna unhe kisi doosre ke aane aur unke city ko nasht karne ke intazar mein samay barbaad karne ki zaroorat nahi hogi; woh pehle wahan honge, khud ke liye aisa karte hue.’
+
+‘True,’ usne kaha.
+
+‘Hum kya karenge, phir?’ maine poocha. ‘Hum ek aisa natural disposition kahan pa sakte hain jo gentle bhi ho aur spirit se bhara bhi? Aakhirkar, main ise leta hoon ki ek gentle disposition spirit ka opposite hai.’
+
+‘Aisa lagta hai.’
+
+‘Aur phir bhi agar koi in qualities mein se kisi mein bhi deficient hai, toh woh kahin bhi ek achha guardian nahi ho sakta [d]. Unka combination ek impossibility ki tarah lagta hai, jiska matlab hai ki ek achha guardian ek impossibility hai.’
+
+‘Shayad yeh hai.’
+
+Main tab nahi jaanta tha ki kya kahoon. Maine socha jo humne kaha tha uspar, aur phir dobara koshish ki. ‘Koi hairani nahi ki hum answer nahi dhoondh sakte, mere dost. Hum us example ko bhool gaye hain jo humne khud ke liye set up kiya tha.’
+
+‘Explain karein.’
+
+‘Hum bhool gaye ki vaastav mein us tarah ke natural dispositions hain jinhe humne abhi faisla kiya hai ki astitva mein nahi hain, dispositions jinme yeh opposite qualities hoti hain.’
+
+‘Kahan?’
+
+‘Well, aap unhe kai animals mein pa sakte hain, lekin vishesh roop se usme jise humne apne guardian se compare kiya tha [e]. Aap aware hain, presumably, ki pure-bred dogs ka natural disposition jitna ho sake utna un logon ke prati gentle hona hai jinhe woh jaante hain aur recognise karte hain, aur un logon ke prati bilkul opposite jinhe woh nahi jaante.’
+
+‘Haan, main hoon.’
+
+‘Toh is tarah ki cheez sambhav hai,’ maine kaha. ‘Aur is tarah ke guardian ki talash mein, hum kisi unnatural cheez ki talash nahi kar rahe hain.’
+
+‘Apparently nahi.’
+
+‘Us case mein, kya aap sochte hain ki jo vyakti guardian material banne wala hai use ek aur quality ki bhi zaroorat hai? Kya aap chahte hain ki woh, spirited aur energetic hone ke sath-sath, temperament se wisdom ka lover, ek philosopher bhi ho?
+27
+
+‘Aapka kya matlab hai? Main nahi samajhta [376].’
+
+‘Yeh ek aur cheez hai jo aap dogs mein dekhte hain,’ maine jawab diya.’ Kuch aisa jo aapko animal par wonder karvata hai.’
+
+‘Woh kya hai?’
+
+‘Jab yeh kisi aise vyakti ko dekhta hai jise yeh nahi jaanta, toh ek dog nasty (gussa) ho jata hai, bhale hi past mein uske dwara uske sath ganda vyavhaar na kiya gaya ho. Jab yeh kisi familiar ko dekhta hai, toh yeh uska welcome karta hai, bhale hi uske dwara uske sath kabhi bhi achha vyavhaar na kiya gaya ho. Kya aapne kabhi ise kaafi remarkable nahi paaya?’
+
+‘Maine abhi tak ispar sach mein kabhi nahi socha tha,’ usne kaha. ‘Lekin mujhe lagta hai ki isme koi shak nahi hai ki ek dog waise hi behave karta hai.’
+
+‘Yeh clever lagta hai, iske nature ka yeh side. Yeh wisdom ka ek true love dikhata hua lagta hai.’
+
+‘Kis tareeqe se [b]?’
+
+‘Kyunki,’ maine jawab diya, ‘yeh jo dekhta hai use friendly ya hostile ke roop mein classify karta hai solely is tathya par ki yeh ek ko jaanta hai, aur doosre ko nahi jaanta. Yeh knowledge ka lover hona chahiye agar yeh knowledge aur ignorance ke saadhan dwara friend aur enemy ko define karta hai.’
+
+‘Haan,’ usne kaha, ‘yeh hona chahiye.’
+
+‘Aur kya love of knowledge aur love of wisdom ek hi cheez hain?’
+
+‘Woh hain.’
+
+‘Toh kya hum kisi man ke baare mein bhi kuch confidence ke sath keh sakte hain, ki agar woh koi aisa vyakti banne wala hai jo un logon ke prati gentle hai jinhe woh jaanta hai aur recognise karta hai, toh use apne nature se knowledge ka aur wisdom ka lover hona chahiye [c]?’
+
+‘Hum keh sakte hain.’
+
+‘Phir kya jo vyakti hamare city ka ek achha aur true guardian banne wala hai woh wisdom ka lover, spirited, swift aur strong hoga?’
+
+‘Woh nischit roop se hoga.’
+
+‘Well, uske nature ke liye itna hi. Lekin hamare guardians ke upbringing (paalan-poshan) aur education ke baare mein kya? Woh kis form ko lenge? Kya us prashn ko dekhna hamare mukhya enquiry ke answer ko paane mein hamare liye kuch upayog ka hoga, jo yeh hai ki cities mein justice aur injustice kaise paida hoti hain [d]? Hum topic ko properly cover karna chahte hain, bina bahut lambai tak jaane.’
+
+Glaucon ke bhai ne jawab diya. ‘Apne liye bolte hue,’ usne kaha, ‘mujhe poora yakin hai ki ise dekhna hamare mukhya aim mein upayogi hoga.’
+
+‘Us case mein, mere pyare Adeimantus,’ maine kaha, ‘humein ise nischit roop se bahar nahi chhodna chahiye, bhale hi yeh hamari umeed se zyada samay le.’
+
+‘Nahi, humein nahi chhodna chahiye.’
+
+‘Very well, phir. Aayein kalpana karein ki hum ek story bata rahe hain, aur ki hamare paas duniya mein saara samay hai. Aayein hamare in mardon ke liye ek education design karein.’
+
+‘Haan, wahi hai jo humein karna chahiye [e].’
+
+‘Unki education kya honi chahiye, phir? Kya kisi aisi education se behtar education paana kathin nahi hai jise saalon se viksit kiya gaya hai? Isme body ke liye physical education, aur mind ya soul ke liye music aur poetry shamil hain
+28
+.’
+
+‘Isme hai.’
+
+‘Aur kya humein unki physical education se pehle music aur poetry mein unki education shuru nahi karni chahiye?’
+
+‘Humein karni chahiye.’
+
+‘Kya aap stories ko music aur poetry ka hissa maante hain, ya nahi?’
+
+‘Haan, main manta hoon.’
+
+‘Aur kya stories do tarah ki hoti hain – ek true, doosri false?’
+
+‘Haan.’
+
+‘Kya humein unhe dono mein educate karna chahiye, false se shuru karte hue?’
+
+‘Main nahi samajhta ki aapka kya matlab hai,’ usne kaha [377].
+
+‘Aapka matlab hai ki aap nahi samajhte ki hum bachhon ko legends batakar shuruat karte hain? Inhe, main ise leta hoon, broadly speaking false hain, yadyapi unme kuch sachai hai. Aur hum bachhon ko unki physical education shuru karne se pehle in legends par shuru karte hain.’
+
+‘Yeh sahi hai.’
+
+‘Wahi mera matlab tha jab maine kaha tha ki humein unki physical education se pehle music aur poetry mein unki education shuru karni chahiye.’
+
+‘Aap sahi the,’ usne kaha.
+
+‘Very well, phir [b]. Aap aware hain ki yeh kisi bhi undertaking ki shuruat hai jo sabse mahatvapurna hissa hai – vishesh roop se kisi bhi cheez ke liye jo young aur tender hai? Yeh woh samay hai jab har individual cheez ko sabse aasaani se moulded kiya ja sakta hai, aur jo bhi mark aap ispar impress karna chahte hain use receive kar sakti hai.’
+
+‘Haan, of course.’
+
+‘Kya hum poori tarah santusht honge, phir, hamare bachhon ko kisi bhi purani stories ko sunne dene ke liye, kisi bhi purane storytellers dwara banayi gayi? Kya hum unhe un beliefs ke liye apne dimaag kholne denge jo opposite hain, zyadatar part ke liye, un logon ke jinhe hum sochte hain ki unhe bade hone par dharan karna chahiye?’
+
+‘Nahi. Hum nischit roop se uski anumati nahi denge.’
+
+‘Shuruat ke liye, phir, aisa lagta hai, humein apne storytellers ko supervise karna chahiye. Jab woh ek achhi story batate hain, toh humein iske paksh mein faisla karna chahiye; aur jab woh ek kharab story batate hain, toh humein iske khilaf faisla karna chahiye [c].
+29
+Hum nurses aur mothers को approved stories bachhon ko batane ke liye persuade karenge, aur unhe batayenge ki stories ke sath bachhon ke dimaag ko shape karna unke haathon se unke bodies ko shape karne ki koshish karne se kahin zyada mahatvapurna hai.
+30
+Humein zyadatar un stories ko reject karna chahiye jo woh vartaman mein batate hain.’
+
+‘Kaun si waliyan?’
+
+‘Agar hum hamari sabse badi stories ko dekhte hain, toh hum dekhenge ki lesser examples se kaise nipatna hai,’ maine jawab diya. ‘Greate aur lesser ke paas same standard hona chahiye, aur same effect. Kya aap aisa nahi sochte [d]?’
+
+‘Haan, main sochta hoon,’ usne kaha. ‘Lekin main un “great” stories ke baare mein bhi nischit nahi hoon jinaki aap baat karte hain.’
+
+‘Woh jinhe Hesiod aur Homer dono humein bataya karte the – aur doosre poets. Unhone untrue stories banayi thin, jinhe woh logon ko bataya karte the – aur abhi bhi batate hain.’
+
+‘Kaun si stories? Unpar aapka kya objection hai?’
+
+‘Woh jo hamara pehla aur sabse majboot objection hona chahiye – vishesh roop se agar untruth ek ugly (baddhi) ho [e].’
+
+‘Yeh objection kya hai?’
+
+‘Jab ek storyteller humein gods aur heroes ke nature ka galat impression deta hai. Yeh kisi artist dwara aise pictures produce karne ki tarah hai jo un cheezon jaisi nahi lagti jinhe woh draw karne ki koshish kar raha tha.’
+
+‘Haan,’ usne kaha, ‘us tarah ki story par aam taur par object karna sahi hai. Lekin sateek roop se hamara kya matlab hai? Kaun si stories?’
+
+‘Main shuru karunga,’ maine kaha, ‘ek mahatvapurna subject par ek mahatvapurna falsehood ke sath. Ouranos ne Hesiod dwara bataayi gayi cheezon ko kaise kiya, aur kaise Kronos ne badle mein uspar apna revenge liya, isbaare mein bataayi gayi bahut ugly falsehood hai [378].
+31
+Jahan tak Kronos ne jo kiya, aur uske bete ne uske sath jo kiya, bhale hi woh true the main nahi sochta ki events ke normal course mein yeh stories un logon ko batayi jaani chahiye jo young aur uncritical hain. Sabse behtareen cheez unke baare mein kuch na kehna hogi. Agar unhe batane ki koi overriding necessity hoti, toh jitna ho sake kam logon ko unhe sunna chahiye, aur strict secrecy mein. Unhe sacrifice karna padega. Ek pig nahi, balki koi bada aur unobtainable sacrificial animal, yeh sunishchit karne ke liye ki sabse chhoti sambhavid sankhya mein logon ne unhe suna.’
+
+‘Haan,’ usne kaha. ‘Woh stories lene ke liye kaafi hard hain.’
+
+‘Hum unhe hamare city mein nahi batne denge, Adeimantus [b]. Jab young sun rahe hon, toh unhe yeh nahi bataya jana hai ki agar unhone sabse bhayanak crimes kiye hain toh woh ordinary se baahar kuch nahi kar rahe honge, tab bhi nahi agar unhone unke sath ganda vyavhaar karne wale pita par har tarah ki punishment inflicted ki hoti. Hum unhe nahi batayenge ki woh merely gods ke pehle aur sabse bade ki tarah act kar rahe honge.’
+
+‘Good heavens, nahi. Personally, main nahi sochta ki yeh unhe batane ke liye bilkul bhi sahi stories hain.’
+
+‘Na hi, aam taur par, koi bhi stories – jo waise bhi true nahi hain – gods ke gods par war karne, unke khilaf plot karne, ya unke sath fight karne ke baare mein [c]. Nahi agar hum chahte hain ki jo log hamare city ko protect karne wale hain woh bina kisi bahut achhe kaaran ke ek doosre ke sath fall out hone ko ek crime maanein. Aakhri cheez jinaki unhe zaroorat hai woh hai unhe batayi gayi stories, aur unke liye banaye gaye pictures, giants ke beech battles ke, aur gods aur heroes ke unke kinsmen aur families ke prati kai aur varied enmities ke. Agar hum unhe convince karne ka koi tareeqa dhoondhna chahte hain ki kisi bhi citizen ne kabhi doosre citizen ke sath quarrel nahi kiya hai, ki quarrelling galat hai, toh yeh us tarah ki cheez hai jo purane mardon aur mahilaon ko hamare bachhon ko batani chahiye, right from the start [d]. Aur jaise-jaise bachhe bade hote hain, humein apne poets ko inke jaisi stories batane ke liye compel karna chahiye. Jahan tak Hera ko uske bete dwara binding ka sawaal hai, Hephaestus ko uske pita dwara heaven se baahar phenka jana, apni maa ko protect karne ki koshish karne ke liye jab use peeta ja raha tha, aur gods ke battles jinake baare mein Homer humein batata hai,
+32
+chahe yeh stories allegories ke roop mein batayi jayein ya allegories ke roop mein nahi, humein unhe hamare city mein allow nahi karna chahiye. Young yeh judge karne ke a-saksham hain ki kya allegory hai aur kya nahi, aur jo opinions woh us umar mein form karte hain woh ineradicable aur unchangeable hone ke prati jhukte hain [e].
+33
+In kaaranon se, shayad, humein ise uchatam mahatva ka maanna chahiye ki pehli cheezein jo woh sunte hain woh improving stories honi chahiye, jitni ho sake utni beautiful.’
+
+‘Iska sense banta hai,’ usne kaha. ‘Lekin maan lijiye koi aage badhta aur humse poochhta ki yeh cheezein kya hain, aur humein kaun si stories batani chahiye, humein kaun si kahni chahiye?’
+
+‘Adeimantus,’ maine kaha, ‘hum moment par poets ke roop mein act nahi kar rahe hain, aap aur main [379]. Hum ek city ke founders hain. Yeh founders ka job hai un patterns ko jaan-na jinpar poets ko apni stories model karni chahiye, ya permission refused kar di jaani chahiye agar woh alag walon ka upayog karte hain. Yeh unka job nahi hai khud stories create karna shuru karna.’
+
+‘True,’ usne kaha. ‘Lekin gods ke baare mein stories ke liye patterns ke is prashn ke baare mein kya? Yeh patterns kya hone chahiye?’
+
+‘Kuch is tarah ka, mujhe sochna chahiye. Unhe hamesha, main ise leta hoon, god vaastav mein kaisa hai iska ek true picture dena chahiye, chahe poet epic mein kaam kar raha ho, ya lyric mein, ya tragedy mein.’
+
+‘Haan, unhe dena chahiye.’
+
+‘Well phir, kya god vaastav mein good nahi hai? Kya use is roop mein represent nahi kiya jana chahiye?’
+
+‘Of course [b].’
+
+‘Agla point yeh hai ki jo kuch bhi good hai woh harmful nahi hai, kya hai?’
+
+‘Nahi, main nahi sochta.’
+
+‘Kya jo harmful nahi hai woh koi harm karta hai?’
+
+‘Nahi.’
+
+‘Kya jo koi harm nahi karta woh koi evil ka kaaran ho sakta hai?’
+
+‘Nahi, woh woh bhi nahi kar sakta.’
+
+‘Lekin agar koi cheez koi evil nahi karti, toh woh kisi evil ka cause nahi ho sakti, kya ho sakti hai?’
+
+‘Of course nahi.’
+
+‘Very well. Ab, kya good beneficial hai?’
+
+‘Haan.’
+
+‘Doosre shabdon mein well-being ke liye responsible?’
+
+‘Haan.’
+
+‘Us case mein good har cheez ke liye responsible nahi hai. Yeh uske liye responsible hai jo achha jata hai, lekin uske liye responsible nahi hai jo kharab jata hai.’
+
+‘Absolutely.’
+
+‘Which case mein,’ maine kaha, ‘god, kyunki woh good hai, har cheez ke liye responsible nahi ho sakta, jaise ki zyadatar log daava karte hain [c]. Mardon ke sath hone wali kuch cheezein uski responsibility hain, lekin zyadatar nahi hain; aakhirkar, hamari zindagiyon mein hamare paas bad cheezon se kahin kam good cheezein hain. Hamare paas kisi doosre ko good cheezon ke liye responsible manne ka koi kaaran nahi hai, jabki bad cheezon ke liye humein kisi doosre cause ko dhoondhna chahiye, aur god ko blame nahi karna chahiye.’
+
+‘Mujhe lagta hai ki aap bilkul sahi hain.’
+
+‘Us case mein,’ maine kaha, ‘humein Homer ya kisi doosre poet ko gods ke baare mein itni stupid mistake karne ki anumati nahi deni chahiye, aur humein yeh batane ki ki do jars
+
+> Stand in the hall of Zeus, full filled with fates [d].
+> One of the two holds good, the other ill.
+
+Na hi us vyakti ke baare mein jise Zeus dono ka ek mixture deta hai
+
+> Sometimes encounters evil, sometimes good,
+
+jabki us vyakti ke liye jise woh mixture nahi deta, balki evil ko uske pure form mein deta hai,
+
+> Dread famine drives him over earth’s fair face.
+> 34
+
+Na hi Zeus ko is roop mein describe karein
+
+> Of good and evil steward and dispenser [e].
+> 35
+
+Jahan tak Pandarus ke oaths aur truce ke violation ka sawaal hai, hum kisi bhi aise vyakti ko disapprove karenge jo kehta hai ki Athena aur Zeus iska cause the,
+36
+ya ki Themis aur Zeus goddesses ke quarrel, aur unke beech ke judgment ka cause the [380].
+37
+Na hi dobara humein young ko us tarah ki story sunne deni chahiye jo Aeschylus batata hai, jab woh kehta hai:
+
+> For god implants the fatal cause in men,
+> When root and branch he will destroy a house.
+
+Agar koi Niobe ke sufferings ke baare mein likhta hai – jaise ki yahan
+38
+– ya Pelops ke house ke baare mein,
+39
+ya Trojan War, ya us jaisa kuch bhi, humein ya toh unhe yeh kehne ki anumati nahi deni chahiye ki yeh events ek god ka kaam hain, ya agar poet daava karta hai ki woh ek god ka kaam hain, toh use us tarah ka vyakhya dhoondhna padega jo hum moment par dhoondh rahe hain [b]. Use kehna padega ki god jo karta hai woh right aur good hai, aur ki in logon ke punishments unke liye achhe the. Humein poet ko yeh kehne ki anumati nahi deni chahiye ki jo log penalty pay karte the woh wretched banaye gaye the, aur ki responsible vyakti ek god tha. Agar poets kehte ki wicked ko wretched banaya gaya tha kyunki unhe punishment ki zaroorat thi, aur ki penalty pay karne mein unki god dwara madad ki ja rahi thi, toh humein use allow karna chahiye. Lekin yeh daava ki god, jo good hai, kisi par evil laane ke liye responsible hai, ek aisa hai jiska humein apne paas maujood har weapon se virodh karna chahiye. Humein kisi ko bhi hamare city mein yeh daava karne nahi dena chahiye, agar ise well governed hona hai, na hi humein kisi ko ise sunne dena chahiye, chahe hearer young ho ya old, aur chahe storyteller apni story verse mein batata ho ya nahi [c]. Yeh daave, agar kiye gaye the, na toh holy honge, na hamare liye achhe, na hi ek doosre ke sath consistent.’
+
+‘Aapke paas is kanoon ke liye mera vote hai,’ usne kaha. ‘Main poori tarah approve karta hoon.’
+
+‘Wahan aap hain, phir,’ maine kaha. ‘Woh gods ke baare mein kanoonon mein se ek hoga, un patterns mein se ek jinpar storytellers ko apni stories, aur poets ko apni poems base karni chahiye – ki god har cheez ke liye responsible nahi hai, balki sirf uske liye jo good hai.’
+
+‘Haan,’ usne kaha, ‘woh ise kar dega.’
+
+‘Doosre kanoon, ya pattern ke baare mein kya [d]? Kya aap sochte hain ki god ek magician hai? Kya woh deliberately alag-alag guises mein alag-alag samay par dikhega? Kya aise samay hain jab woh vaastav mein alag ho jata hai, aur apni shape ko kai forms mein badal deta hai, aur doosre samay jab woh humein yeh sochne mein deceive karta hai ki wahi hai jo woh kar raha hai? Ya kya aap sochte hain ki uske paas ek single form hai, aur sabhi creatures mein se sabse kam sambhavna rakhta hai apni khud ki shape se depart karne ki?’
+
+‘Mujhe yakin nahi hai ki main abhi, moment par iska jawab dene ki position mein hoon.’
+
+‘Ek alag prashn ke baare mein kya? Jab cheezein apni khud ki shape se depart karti hain, toh kya yeh necessarily true nahi hai ki woh ya toh khud ko badalti hain ya kisi doosre dwara badali jaati hain?’
+
+‘Haan, yeh hai [e].’
+
+‘Kya change ya motion ka ek external cause sabse finest specimens par sabse kam effect rakhta hai? Ek body ke baare mein sochein, udaharan ke liye, aur ispar food, drink aur exertion ka effect. Ya plants, aur unpar sun aur wind aur us tarah ki cheezon ka effect. Kya sabse healthiest aur strongest specimen sabse kam affected nahi hota?’
+
+‘Haan, of course [381].’
+
+‘Aur kya sabse bravest aur wisest soul ek outside influence dwara sabse kam disturbed aur altered nahi hogi?’
+
+‘Haan.’
+
+‘Wahi, presumably, kisi bhi manufactured cheez ke liye jata hai – furniture, houses aur clothes. Jo achhi tarah se bana hai aur achhi condition mein hai woh samay aur doosre influences dwara sabse kam affected hota hai.’
+
+‘Yeh aisa hai.’
+
+‘Toh koi bhi cheez jo ek fine example hai, chahe apne nature dwara ya apne design dwara, ya dono dwara, ek external agency dwara badale jaane ke prati sabse resistant hai [b].’
+
+‘Yeh us tareeqe se lagta hai.’
+
+‘Lekin god aur uske attributes har tareeqe se perfect hain.’
+
+‘Of course.’
+
+‘Toh god external causes ke parinaamswarup kai shapes lene ki sabse kam sambhavna rakhega.’
+
+‘Most unlikely.’
+
+‘Kya woh, us case mein, khud ko change aur transform kar sakta hai?’
+
+‘Obviously woh karta hai,’ usne kaha. ‘Agar woh bilkul bhi change hota hai, toh.’
+
+‘Kya woh phir khud ko kisi behtar aur zyada beautiful cheez mein badalta hai, ya khud se kisi badtar aur uglier cheez mein?’
+
+‘Agar woh change hota hai, toh ise necessarily kisi badtar cheez mein hona chahiye [c]. Main kalpana nahi karta ki hum kehne wale hain ki god beauty ya goodness mein lacking hai.’
+
+‘Nahi, aap bilkul sahi hain,’ maine kaha. ‘Aur aisa hone par, kya aap sochte hain ki koi bhi, Adeimantus, chahe god ho ya man, kisi bhi tareeqe se khud ko badtar banane ke liye taiyar hai?’
+
+‘Nahi, woh asambhav hai,’ usne kaha.
+
+‘Which case mein,’ maine jawab diya, ‘god ke liye khud ko change karne ki koi desire rakhna bhi asambhav hai. Nahi, gods mein se har ek, aisa lagta hai, jitna ho sake utna beautiful aur good hai, aur hamesha ke liye simply apni khud ki form mein rehta hai.’
+
+‘Haan,’ usne kaha, ‘mujhe lagta hai ki ise nischit roop se follow karna chahiye.’
+
+‘Well, phir, mere dost, hum nahi chahte ki koi bhi poets humein batayein,’ maine kaha, ‘ki
+
+> Disguised as strangers from afar, the gods
+> Take many shapes, and visit many lands [d].
+> 40
+
+Hum Proteus aur Thetis ke baare mein unki koi falsehoods nahi chahte,
+41
+na hi hum tragedies ya doosri poems chahte hain jo Hera ko, ek priestess ke guise mein transformed, alms (bheekh) collect karte hue introduced karti hain
+
+> The life-giving sons of Argive Inachus.
+### 42
+
+Aur isi tarah ke kai doosre falsehoods hain jinhe hum unhe humein batate hue nahi chahte – kisi bhi tarah se hum nahi chahte ki mothers unpar vishwās karein, aur apne bachhon ko raat mein ghoomne wale gods ke baare mein wicked stories se terrify karein, har tarah ke outlandish foreigners ke appearance ko dharan karte hue [e]. Us tareeqe se hum unhe gods ke khilaf blaspheming karne se rok sakte hain, aur unke bachhon ko cowards mein badalne se bhi rok sakte hain.’
+
+‘Nahi, hum usme se kuch nahi chahte.’
+
+‘Well phir,’ maine suggest kiya, ‘yadyapi gods khud ko change nahi karenge, maybe woh nevertheless hamare liye aisa lagne dete hain ki woh har tarah ke alag-alag guises mein dikhte hain? Perhaps woh humein deceive karte hain, aur humpar tricks play karte hain.’
+
+‘Possibly.’
+
+‘What! Kya ek god humein deceive karne ke liye taiyar hoga, apne shabdon ya apne actions mein, humein woh offer karke jo sirf ek appearance hai [382]?’
+
+‘Main nahi jaanta.’
+
+‘Aap nahi jaante,’ maine kaha, ‘ki true falsehood – agar koi ise woh keh sakta hai – god aur man dono dwara equally hated hai?’
+
+‘Aapka kya matlab hai?’
+
+‘Mera matlab yeh hai. Koi bhi deliberately falsehood ko apne khud ke sabse mahatvapurna hisse mein, aur sabse mahatvapurna subjects par nahi chunta. Nahi, woh woh jagah hai, kisi doosri se zyada, jahan woh falsehood se darte hain.’
+
+‘Main abhi bhi nahi samajhta,’ usne kaha [b].
+
+‘Yeh isliye hai kyunki aap sochte hain ki main kisi profound cheez ke baare mein baat kar raha hoon,’ maine kaha. ‘Lekin mera saara matlab yeh hai ki jis cheez ko har koi sabse upar avoid karna chahta hai woh apni soul mein cheezon ke hone ke tareeqe ke baare mein deceived hona hai, ya yeh paana ki woh deceived hua hai, aur ab ignorance mein hai, ki woh falsehood ko wahan apni soul mein dharan karta hai aur rakhta hai. Woh woh jagah hai jahan log falsehood se sabse zyada nafrat karte hain.’
+
+‘Main poori tarah sehamat hoon,’ usne kaha.
+
+‘Jaise main abhi keh raha tha, soul mein yeh ignorance, us vyakti ki ignorance jo deceived hua hai, use absolute accuracy ke sath true falsehood kaha ja sakta hai, jabki verbal falsehood soul ki is condition ka ek tarah ka imitation hai [c]. Yeh baad mein astitva mein aata hai; yeh ek image hai, poori tarah se unmixed falsehood nahi. Kya aap sehamat nahi hain?’
+
+‘Main hoon.’
+
+‘Real falsehood se na sirf gods balki men dwara bhi nafrat ki jaati hai.’
+
+‘Haan, mujhe aisa lagta hai.’
+
+‘Verbal falsehood ke baare mein kya? Yeh kab upayogi hai, aur kiske liye? Yeh kab nafrat ke laayak nahi hai? Kya yeh enemies ke khilaf upayogi nahi hai, ya un logon ko rokne ke liye jo hamare friends maane jaate hain, agar madness ya ignorance ke parinaamswarup woh kuch wrong karne ki koshish kar rahe hain [d]? Kya ek lie un sthitiyon mein upayogi nahi hai, usi tareeqe se jaise medicine upayogi hai? Aur myths mein jinaki hum abhi charcha kar rahe the, pehle ke lambe samay ke events ke sambandh mein sachai kya hai yeh na jaan-ne ke parinaamswarup, kya hum falsehood ko jitna ho sake utna truth ke jaisa banate hain, aur is tareeqe se ise upayogi banate hain?’
+
+‘Haan,’ usne kaha, ‘yeh sateek roop se waisa hi hai jaisa yeh hai.’
+
+‘Inmein se kis tareeqe se, phir, falsehood god ke liye upayogi hai? Kya woh falsehood ke resemblance ko truth ke jaisa banata hai kyunki woh pehle ke lambe samay ke events ke baare mein nahi jaanta?’
+
+‘Nahi, woh absurd hoga,’ usne kaha.
+
+‘Toh god mein false poet ka kuch nahi hai.’
+
+‘Mujhe aisa nahi lagta.’
+
+‘Kya woh apne enemies se darta hai [e]? Kya woh us kaaran se lies batayega?’
+
+‘Far from it.’
+
+‘Ya apne doston ki ignorance ya madness ke kaaran, perhaps?’
+
+‘Nahi,’ usne kaha. ‘Koi bhi jo ignorant aur mad hai woh gods ka friend nahi hai.’
+### 43
+
+‘Koi kaaran nahi hai, phir, god ke liye ek falsehood batane ka.’
+
+‘Nahi, koi nahi.’
+
+‘Toh supernatural aur divine poori tarah se falsehood ke bina hain.’
+
+‘Absolutely.’
+
+‘Us case mein, god nischit roop se form mein single hai aur true hai, dono mein jo woh karta hai aur jo woh kehta hai. Woh khud mein change nahi hota, aur woh doosron ko deceive nahi karta – waking ya sleeping – chahe apparitions ke sath, ya shabdon ke sath, ya signs bhejkar.’
+
+‘Yeh waise hi lagta hai mujhe bhi,’ usne kaha, ‘jaise main sunta hoon jo aap kehte hain [383].’
+
+‘Kya aap sehamat hain phir,’ maine poocha, ‘ki gods ke baare mein stories batane ya poems likhne ke liye yeh doosra pattern hona chahiye? Woh magicians nahi hain jo apni shape badalte hain, chahe apne shabdon mein ya apne actions mein, aur woh humein falsehoods ke sath astray nahi le jaate.’
+
+‘Haan, main sehamat hoon.’
+
+‘Toh jabki Homer mein bahut kuch hai jise hum approve karte hain, hum Zeus ke Agamemnon ko ek dream bhejne ko approve nahi karenge;
+### 44
+na hi Aeschylus ko, jab Thetis kehti hai ki Apollo, uski wedding par gaate hue, “children par dwelt hua” jo uske paas honge,
+
+> Their length of life, their freedom from disease,
+> And summing up, sang me a hymn of blessing
+> For my good luck and favour with the gods [b].
+> My hope was high, for Phoebus was a god,
+> And Phoebus’ mouth, brimming with mantic art,
+> Must speak the truth, I thought. But he who sang,
+> He who was present at the feast, the one
+> Who said these things, is now the one who killed
+> My son.
+> 45
+
+Jab koi gods ke baare mein is tareeqe se baat karta hai, toh hum usse gussa ho jaayenge, aur use ek chorus grant nahi karenge [c].
+46
+Na hi hum teachers ko young ki education ke liye uske works ka upayog karne denge – nahi agar hum chahte hain ki hamare guardians god-fearing aur godlike banein, ek human being ke liye sabse badi sambhavid extent tak.’
+
+‘Main poori tarah sehamat hoon,’ usne kaha, ‘in patterns ke sath, aur main unhe kanoon banate hue dekhna chahunga.’
