@@ -1124,3 +1124,47 @@ Aayein unhi udaharanon par wapas chalein. Aankhon ke paas, hum kehte hain, ek fu
 ‘Aage badho, Socrates,’ usne kaha. ‘Yeh Bendis’ Day hai. Iska ek asli feast (dawat) banao.’
 
 ‘Aapka dhanyavaad, Thrasymachus,’ maine kaha, ‘ab jabki aap friendly ho gaye hain, aur gussa hona band kar diya hai [b]. Aur tab bhi mere paas ek proper treat nahi tha, yadyapi woh meri ghalti hai, aapki nahi. Mujhe lagta hai ki main un gluttons (pataukon) mein se ek ki tarah raha hoon jo unke paas se guzari jaane wali har cheez par grab karte hain, aur pehle jo hua use kabhi properly enjoy kiye bina ise taste karte hain. Hum jo pehli cheez dhoondh rahe the uspar intazar kiye bina – justice vaastav mein kya hai – maine ise drop kar diya hai, aur iske baare mein prashn poochhne mein charging off gaya hoon – kya yeh wickedness aur ignorance hai, ya wisdom aur goodness. Aur phir thodi der baad, jab yeh daava utha ki injustice justice se zyada profitable thi, toh main pehle ke prashn se uspar jaane se resist nahi kar saka [c]. Toh hamari discussion ka parinaam yeh hai ki main bilkul samajhdar nahi hoon. Aakhirkar, agar mujhe nahi pata ki justice kya hai, toh main shayad hi yeh jaan-ne wala hoon ki kya yeh vaastav mein kisi tarah ki excellence ya virtue hai ya nahi, ya jo vyakti isey dharan karta hai woh unhappy hai ya happy.’
+
+---
+Yahan aapke diye gaye Footnotes (1 se 36) ka line-by-line aur exact Hinglish translation hai:
+
+---
+
+### Footnotes
+
+1. Antiquity (prateek kal) se hi *Republic* ko das 'books' mein baantna ek tradition (parampara) raha hai. Har book papyrus ke ek single roll ke corresponding (samaan) hai, jis format mein Plato ke writings ko ancient world mein archive, distribute aur padha jata tha. Hum nahi jaante ki das books mein yeh division khud Plato dwara kiya gaya tha ya kisi baad ke editor dwara. Margin mein diye gaye numbers aur letters Stephanus dwara Plato ke sixteenth-century edition ke pagination ka palan karte hain. Yeh woh pagination hai jiska upayog aam taur par baad ke editions aur translations ke beech format ke antar se bachne ke liye kiya jata hai.
+2. Bendis, jaisa ki humein aakhirkar Book 1 ke ant (354a) mein bataya gaya hai.
+3. Hum is avsar ki date sirf 431 aur 411 BC ke beech ke time window tak hi tay kar sakte hain.
+4. Athens ke territory aur uske aaspas ke countryside ko 'demes' namak districts mein subdivide kiya gaya tha, jinme se har ek ke paas self-government ki kuch degree thi.
+5. Cephalus ka garland (mala) sacrificial uniform ka ek item hai.
+6. Yaani, maut ki threshold (dehleez). Yeh phrase Homer aur doosre epic poets mein aam hai.
+7. Proverb (kahavat) shabdash chaltee hai, 'Ek hi umar ke log ek doosre ko pasand aate hain' aur English mein iska koi exact proverbial match nahi hai – lekin 'birds of a feather flock together' se tulna karein.
+8. Jis poem se yeh quotation aata hai woh khogayi hai.
+9. Aisa koi sentiment nahi hai jo Simonides ki poetry ke bache hue thode se hisse mein milta ho.
+10. 'Draughts' (American 'checkers') suvidha ka ek translation hai. Greek shabd *petteia* aisa lagta hai ki kai board-games par laagu hota tha. Group mein battle aur capture ke strategic games shamil hain lekin uni tak seemit nahi hain.
+11. Bankers ke paas ya temple treasuries mein deposit kiye gaye paise par koi interest nahi milta tha.
+12. Odyssey 19.395–396. Autolycus ek notorious trickster (kuchhi) tha; uske naam mein 'wolf' ke liye shabd shamil hai. 'Swearing oaths' mein sandarbh nafe ke liye perjury (jhoothi qasam) se hai.
+13. Greek ka matlab yeh bhi ho sakta hai 'kya justice human excellence nahi hai?'
+14. Yeh ek popular superstition (andhvishwās) tha jo proverbial ban gaya (jaise hamare 'Cat got your tongue?' mein).
+15. Athenian legal procedure mein doshi paaye gaye defendant ko jury ke samne apne accuser dwara maangi gayi penalty se alag penalty propose karne ka mauqa diya jata tha.
+16. 'Right' aur 'just' dono Greek *dikaion* ka anuvaad karte hain.
+17. Sandarbh ya toh doctor aur captain se ho sakta hai ya bimar aur sailors se. Toh Thrasymachus Socrates ke agle prashn ko un labhon ke sandarbh mein samajh sakta hai jo artisan apni art se nikaalta hai.
+18. Ruler ki shepherd se tulna Homer tak jaati hai, jo supreme king Agamemnon ko 'peoples ka shepherd' kehta hai, is term ka upayog ek benign sense mein karte hue. Plato Book 1 ki seemaon se aage is tulna ko viksit karega, ideal city ke rulers aur unke sheepdog-like auxiliaries (440d, 459e) ke beech ke sambandh mein. Yeh unki political theory *Statesman* ya *Politicus* (271d–272b, 275a) mein bhi mahatvapurna hai.
+19. *Eisphora* military uddeshyon ke liye capital wealth par ek emergency levy thi. Audits conduct karne ke liye koi investigative bureaucracy nahi thi.
+20. Athens mein public offices aam taur par career politicians ya bureaucrats ke kshetra hone ke bajaye frequent rotation mein aam citizens dwara sambhale jaate the. Zyadatar un-paid committee work the. Apne term of office ke ant mein, magistrates ne apne records ko public scrutiny ke liye prastut kiya. Unke khilaf charges aur kisi bhi citizen ki shikayaton par ek vishesh board dwara vichar kiya jata tha aur aksar penalties ki taraf le jata tha.
+21. Temples na sirf sacred places the balki wealth ke depositories bhi the. Unhone treasuries aur, kuch mamlon mein, banks ka kaam kiya.
+22. 338e.
+23. 342a–e.
+24. Yeh Greek mein utna hi ajeeb lagta hai jitna English mein lagta hai. Socrates iske liye jis shabd ka upayog karta hai woh shayad ek neologism (naya shabd) hai.
+25. Ek conventional ya aasaani se declarable moral sentiment nahi, agar doosron ke behalf par prayas ke bachaav ke roop mein construed kiya jaye. Generosity aur benefaction sarahaniya the aur un logon se umeed ki jaati thi jo ise dene ki sthiti mein the (GPM 175–180).
+26. Kuch tarah ke court-cases mein litigants do-do speeches interleaved karne ke haqdaar the. Yeh ABAB pattern hamare liye Antiphon ke Tetralogies mein surakshit hai.
+27. *Arete* ke translation ke roop mein 'Virtue' ko superior functionality ke connotation ko combine karte hue samjha jana chahiye (jaise jab e.g. ek ghar ke baare mein kaha jata hai ki usme summer mein thanda aur winter mein garam rehne ki 'badi virtue' hai) moral rectitude ke sath. Isliye Thrasymachus injustice ko – us masterful trait ko – virtue ke alawa kuch bhi varnit karne mein anichhuk hai. Isliye 335c aur 353b–c ke arguments mein bhi is shabd ka anuvaad 'excellence' kiya gaya hai.
+28. Verbal phrase jiska anuvaad 'to outdo' kiya gaya hai, shabdash uska matlab hai 'zyada hona', jisse meanings ki range nikalati hai 'laalchi hona', 'a-nyaypoorn faayda uthana', saath hi bina a-nyaypoornata ke connotations ke ek sthiti mein 'faayda hona'. In sabhi arthon ko is argument mein play mein laya gaya hai. Thrasymachus ne 344a par discussion mein is term ko introduced kiya jab usne unjust ruler ko ek aise vyakti ke roop mein varnit kiya jo 'bade paimane par selfish' hone ke capable tha.
+29. 349d par.
+30. Hamare calendar dwara, Bendis ka festival June mein hua tha.
+31. 344c par.
+32. Traditional Greek pantheon ke gods ko attributed gatividhiyon ko dekhte hue, is prashn ka jawab bina kahe nahi jayega.
+33. Yaani, 344c par kiya gaya bayan aur 350d par yaad kiya gaya.
+34. 347e.
+35. Upar 348c ke note 27 ko dekhein jo samjhata hai ki *arete* 'excellence' aur 'virtue' ke beech kaise range karta hai.
+36. 350c–d par.
