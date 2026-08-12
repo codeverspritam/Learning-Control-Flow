@@ -2034,3 +2034,1243 @@ Yahan aapke diye gaye **Book 2 ke Footnotes (1 se 46)** ka line-by-line aur exac
 44. *Iliad* 2.1–34: Zeus Agamemnon ko ek dream bhejta hai usse Trojans par jeet ka vaada karte hue agar woh unpar turant assault ka netritv karta hai, lekin uska asli irada ek Greek defeat laana hai jo Achilles ke wounded pride ko soothe karega.
 45. Goddess Thetis Achilles ki mother thi. Achilles ko Trojan Paris ke ek arrow dwara mara gaya tha, jise Apollo (jise Phoebus bhi kaha jata hai) dwara guide kiya gaya tha. Humne Aeschylus ka woh play kho diya hai jisse yeh lines aati hain.
 46. Yaani, use apna play stage karne ki anumati na dena.
+
+---
+
+Plato’s *Republic* Book 3 continues the discussion on the education of the guardians ($\phi\acute{\upsilon}\lambda\alpha\kappa\epsilon\varsigma$, *phylakes*) in the ideal city ($\kappa\alpha\lambda\lambda\acute{\iota}\pi\circ\lambda\iota\varsigma$, *Kallipolis*). Socrates and Adeimantus (and later Glaucon) establish the moral, literary, musical, and physical parameters necessary to cultivate proper virtue in the state's defenders.
+
+---
+
+### Key Themes and Arguments in Book 3
+
+#### 1. Purification of Poetry & Myths (386a–392c)
+
+Continuing from Book 2, Socrates critiques the content of traditional poetry (Homer, Hesiod, and the tragedians) to ensure guardians develop courage and self-discipline (*sophrosyne*).
+
+* **Eliminating the Fear of Death (386a–388d):**
+* Descriptions of Hades as dark, gloomy, or terrifying must be expunged. The guardians must prefer death in battle over defeat or slavery.
+* Excessive lamentation and weeping by heroes (like Achilles or Priam) or gods must be censored. Good men do not view death as a disaster, and self-sufficiency implies emotional stability.
+
+
+* **Prohibiting Excessive Laughter and Insolence (388e–390e):**
+* Violent laughter is associated with loss of self-control. Gods and heroes must never be depicted as overcome by uncontrollable laughter.
+* Stories showing disobedience to authority, gluttony, drunkenness, or sexual indulgence among leaders/gods must be banned.
+
+
+* **The Ruler's Privilege to Lie (389b–d):**
+* While citizens must be truthful, rulers may use falsehood as a "medicinal" device (*pharmakon*) for the benefit of the city—to manage enemies or maintain domestic harmony.
+
+
+* **Rejection of Avarice and Impious Deeds (390e–391e):**
+* Heroes like Achilles must not be portrayed as greedy (taking bribes or ransom for bodies), arrogant toward gods, or cruel (dragging Hector's body).
+
+
+
+---
+
+#### 2. The Style and Mode of Narrative (392c–398b)
+
+Socrates shifts from *what* is said (content) to *how* it is said (form/style).
+
+* **Three Modes of Storytelling:**
+1. **Pure Narrative (*haple diegesis*):** The poet speaks in their own voice without imitating characters (e.g., dithyrambs).
+2. **Imitation (*mimesis*):** The poet/performer adopts the persona of a character, speech, and gesture (e.g., tragedy and comedy).
+3. **Mixed Mode:** A combination of narrative and direct character speech (e.g., epic poetry like Homer).
+
+
+* **The Danger of *Mimesis*:**
+* Based on the principle of **specialization** (one person, one task), guardians cannot perform multiple roles effectively.
+* Habitual imitation of inferior behaviors (women in lamentation, slaves, villains, madmen, or physical objects/animals) shapes the performer's soul and creates bad habits.
+* **Conclusion on Poets:** Unrestricted, versatile poets who imitate everything will be treated with honor, crowned with wool, and **expelled from the city** (398a–b). The city permits only austere poets who imitate the speech of decent, virtuous men.
+
+
+
+---
+
+#### 3. Musical Modes and Rhythms (398c–403c)
+
+Music directly penetrates the inner soul, making it graceful if trained properly.
+
+* **Permissible Harmonic Modes:**
+* **Banned Modes:** Soft, doleful, or relaxed modes associated with lamentation and luxury (e.g., Mixolydian, Syntonolydian, Ionian, Lydian).
+* **Allowed Modes:** The **Dorian** (imitating the steadfast voice of a brave warrior in danger) and the **Phrygian** (imitating peaceful, voluntary, prudent activity).
+
+
+* **Instruments:** Complex, multi-stringed, or wide-ranged instruments (harps, flutes/reed-pipes) are banned. Only the **lyre**, **cithara**, and rural **panpipes** are permitted.
+* **Beauty and Love (*Eros*):** True musical education leads naturally to a proper, temperate love of beauty—devoid of wild or insane sexual pleasure (*402d–403c*).
+
+---
+
+#### 4. Physical Education (*Gymnastike*) and Medical Policy (403c–410b)
+
+* **Physical Training:** Must be simple and disciplined, not overly specialized or soporific like professional athletic training.
+* **Medical Practice:**
+* Medicine should treat acute injuries or temporary illnesses to restore a citizen to their functional duty (*ergon*).
+* Asclepius’ true medical art does not prolong the lives of chronically ill, unproductive individuals who cannot contribute to the community.
+
+
+* **Harmony of Soul:**
+* Physical education alone produces harshness and savagery.
+* Musical/artistic education alone produces softness and effeminacy.
+* The goal is to **balance the spirited (*thumoeides*) and philosophical/wisdom-loving (*philosophon*) parts of the soul**.
+
+
+
+---
+
+#### 5. Selection of Rulers and the Noble Lie (412b–417b)
+
+* **Selection of Rulers:** Rulers must be selected from the oldest and best guardians—those who have proven through tests (hardship, pain, pleasure, and temptation) that they will always preserve the conviction that the city's interest is their own.
+* **Complete Guardians (*teleioi phylakes*):** The rulers.
+* **Auxiliaries (*epikouroi*):** The younger warriors who enforce the decisions of the rulers.
+
+
+* **The Noble Lie / Myth of the Metals (*Gennaios Pseudos*) (414b–415d):**
+A foundational myth designed to foster civic unity and maintain class structure:
+1. **Autochthony:** Citizens are told they were formed inside the earth (their mother), making all citizens brothers and duty-bound to defend their land.
+2. **Metals in the Soul:**
+* **Gold:** Soul of those fit to rule.
+* **Silver:** Soul of the auxiliaries/defenders.
+* **Iron & Bronze:** Souls of the farmers and artisans.
+
+
+
+
+* Social mobility is strictly meritocratic based on soul-type: if a golden parent produces an iron child, that child is relegated to the artisan class, and vice versa.
+
+
+* **Living Conditions of Guardians (416d–417b):**
+To prevent the guardians from becoming oppressive "wolves" rather than protective "dogs":
+* **No Private Property:** Guardians hold no land or private wealth.
+* **Communal Living:** They live in open barracks and eat in common messes (*syssitia*).
+* **Prohibition of Gold and Silver:** They are forbidden from handling physical gold or silver, relying instead on the "divine gold" within their souls.
+
+
+
+---
+
+### Full Line-by-Line Hinglish Translation
+
+# Book 3
+
+‘Jab gods ke baare mein stories ki baat aati hai, phir,’ maine kaha, ‘yeh zaahir taur par us tarah ki cheez hai jise unki sabse shuruati childhood se logon ko bataya jana chahiye – aur nahi bataya jana chahiye – agar unhe gods aur apne parents ke prati respect dikhana hai, aur ek doosre ke sath friendship par ek uchi value rakhni hai [386].’
+1
+
+‘Haan, mujhe lagta hai ki ispar hamare views correct hain,’ usne kaha.
+
+‘Courage ke baare mein kya? Agar hum chahte hain ki woh brave hon, kya yeh woh stories nahi hain jo humein unhe batani chahiye, plus us tarah ki stories jo unke death ke fear ko minimise karengi [b]? Kya aap sochte hain ki koi bhi kabhi brave ho sakta hai agar uske andar yeh fear ho?’
+
+‘Good heavens, nahi.’
+
+‘Underworld aur uske horrors (khatron) mein belief (vishwas) ke baare mein kya? Kya aap sochte hain ki woh logon ko death ke samne fearless banata hai, unhe defeat ya slavery ke muqable death chunne par majboor karta hai?’
+
+‘Of course nahi.’
+
+‘Yeh storytelling ki ek aur branch hai, phir, jahan aisa lagta hai jaise humein un logon par nazar rakhni chahiye jo yeh stories batana chahte hain. Humein unse underworld ke baare mein itna negative hona band karne ke liye kehna padega, aur iske bajaye iske baare mein kuch positive kehne ko dhoondhna padega [c]. Jo woh moment par kehte hain woh na toh true hai, na hi un logon ke liye helpful jinhe hum warlike banana chahte hain.’
+
+‘Haan, humein unpar nazar rakhni padegi,’ usne kaha.
+
+‘Phir hum us tarah ke sabhi descriptions ko eliminate (hata) kar denge, isse shuruat karte hue:
+
+> I had rather labour as a common serf,
+> Serving a man with nothing to his name,
+> Than be the lord of all the dead below.
+> 2
+
+Ya:
+
+> His halls revealed to mortals and immortals,
+> Grim, dank, abhorrent even to the gods [d].
+> 3
+
+Ya:
+
+> Alas, there is then, in the house of Hades,
+> A spirit and a phantom, but no mind
+> Within it dwells.
+> 4
+
+Ya:
+
+> Alone possessed of thought, the rest but shadows.
+> 5
+
+Ya:
+
+> Leaving his limbs, his soul to Hades flew,
+> Its fate lamenting, and lost youth and strength.
+> 6
+
+Ya:
+
+> Like smoke his soul departed, crying shrill,
+> Beneath the earth [387].
+> 7
+
+Ya:
+
+> As in dark corners of mysterious caves
+> The squeaking bats take flight when, from the bunch
+> That clings together on the rock, one falls –
+> So, shrilly crying, did these souls depart.
+> 8
+
+Hum Homer aur poets ke baaki logon se kehne wale hain ki woh hamse angry na hon agar hum in passages ko, aur inke jaise kisi bhi doosre ko strike out (kaat) dete hain [b]. Aisa nahi hai ki unme poetic merit ki kami hai, ya ki woh zyadatar logon ko pleasure nahi dete. Woh dete hain. Lekin unke paas jitna zyada merit hai, woh un boys aur men ke liye utne hi kam suitable hain jinse free hone ki expectation ki jaati hai, aur jo death se zyada slavery se darte hain.’
+
+‘Absolutely.’
+
+‘Toh humein underworld ke baare mein use hone wali sabhi weird aur terrifying language ko bhi discard (kharij) kar dena chahiye [c]. No more wailing Cocytus, ya hateful Styx,
+9
+ya worms ke liye food, ya mouldering corpses, ya is tarah ki koi bhi doosri language jo ise sunne wale har vyakti ko shudder (kaampne) par majboor karti hai. Yeh kisi doosre context mein fine ho sakti hai, lekin jab hamare guardians ki baat aati hai, toh humein chinta hai ki yeh shuddering unhe hamari needs ke liye bahut soft aur impressionable bana sakti hai.’
+
+‘Hum chintit hone mein sahi hain,’ usne kaha.
+
+‘Us tarah ki language ko jaana padega, phir?’
+
+‘Haan.’
+
+‘Aur hamare storytellers aur poets ko aisi language ka upayog karna chahiye jo opposite pattern ka palan karti hai?’
+
+‘Obviously.’
+
+‘Phir hum prasiddh mardon dwara weeping aur wailing se chhutkara paayenge [d].’
+
+‘Humein paana padega,’ usne kaha. ‘Hum doosri cheezon se chhutkara nahi pa sakte, aur isse nahi.’
+
+‘Aapko khud se jo poochhna chahiye, halanki,’ maine kaha, ‘woh yeh hai ki kya hum unse chhutkara paane mein sahi honge ya nahi. Hamara view yeh hai ki ek achha aadmi death ke kisi doosre achhe aadmi, uske dost ke paas aane ko disaster nahi manta.’
+
+‘Haan, woh hamara view hai.’
+
+‘Toh woh nischit roop se apne dost ke account par lament (shok) nahi karega, jaise ki kuch awful hua ho.’
+
+‘Nahi, woh nahi karega.’
+
+‘Lekin hum yeh bhi kehte hain ki jab ek achhi life jeene ki baat aati hai, toh ek achha aadmi apni needs ko poora karne mein sabse zyada capable hota hai, aur use kisi doosre aadmi ki zaroorat kisi bhi doosre vyakti se kam hoti hai [e].’
+
+‘True.’
+
+‘Toh woh sabse kam kisi son, ya brother, ya kuch paise, ya is tarah ki kisi cheez ko khone ko misfortune maana karega.’
+
+‘Haan.’
+
+‘Aur woh sabse kam is loss par grieve (dukh) karega. Woh kisi bhi doosre se zyada ise apne stride mein le sakta hai jab is tarah ka koi accident uske sath hota hai.’
+
+‘Woh vaastav mein le sakta hai.’
+
+‘Hum sahi honge, phir, heroes ke lamentation ke songs se chhutkara paane mein, unhe women ke mukh mein rakhte hue – aur us par sabse behtareen women ke nahi – aur cowards ke [388]. Hum chahte hain ki jin logon ke baare mein hum kehte hain ki hum unhe hamare country ke guardians ke roop mein la rahe hain woh is tarah behave karne ke idea se hi appalled (dara hua) hon.’
+
+‘Haan, hum sahi honge,’ usne kaha.
+
+‘Toh hamare paas Homer aur poets ke baaki logon se karne ke liye ek aur request hai: Achilles, ek goddess ke son ko na dikhane ki,
+
+> First lying on his side, then on his back,
+> Then on his front,
+
+aur phir jab woh uthta hai,
+
+> Drifting, distraught and aimless, on the shore
+> Of the unharvested sea.
+> 10
+
+Na hi, jaise woh ise rakhta hai, “dono haathon mein black, burnt dust lete hue, aur ise apne head par daalte hue” [b].
+11
+Hum usse un sabhi tears aur laments ko bakshne ke liye kahenge jinhe woh usse utter karvata hai. Hum usse Priam, gods ke close kinsman ko, uski entreaties mein na dikhane ke liye kahenge:
+
+> Rolling in dung, calling each man by name.
+> 12
+
+Kahin zyada mahatvapurna, hum usse gods ko lament karte hue, aur yeh kehte hue na dikhane ke liye kahenge:
+
+> Ah! Woe is me,
+> Unhappy mother of a noble son [c].
+> 13
+
+Agar use gods ko is tarah behave karte hue dikhana hi hai, toh kam se kam uske paas gods ke sabse bade ka itna false picture dene ka nerve (himmat) na ho, jab woh use yeh kehte hue banata hai:
+
+> How dear to me the man my eyes now see
+> Pursued around the city. My heart grieves.
+> 14
+
+Ya:
+
+> And must Sarpedon, that most dear of men,
+> Fall to Patroclus, son of Menoetius [d]?
+> 15
+
+Agar hamare young men in tarah ki cheezon ko seriously lete hain, mere pyare Adeimantus, agar woh storytellers ke unworthy offerings ke roop mein unpar hanste nahi hain, toh, kyunki woh sirf human hain, woh shayad hi ise khud is tarah behave karne ke neeche sochne wale hain. Woh is tareeqe se bolne ya acting karne ke idea par appalled nahi honge. Nahi, woh kaafi unashamed honge, ispar ek brave face rakhne ka thoda sa bhi prayas nahi karte hue, jaise woh trivial misfortunes par grief aur lamentation ke bade songs ko aawaz dete hain.’
+
+‘Aap bilkul sahi hain,’ usne kaha [e].
+
+‘Lekin woh aise behave karne wale nahi hone chahiye, jaise hamare reasoning ne abhi dikhaya. Aur jab tak koi humein kuch alag vishwās karne ke liye ek achha kaaran nahi deta, humein hamare reasoning mein faith rakhna chahiye.’
+
+‘Nahi, woh aise behave karne wale nahi hone chahiye.’
+
+‘Doosri taraf, unhe laughter ke bahut shauqeen bhi nahi hona chahiye. Violent laughter ke prati abandonment, generally speaking, change ke liye ek violent agent hai.’
+
+‘Main sehamat hoon,’ usne kaha.
+
+‘Toh humein ise accept nahi karna chahiye agar humein kisi mahatva ke mardon ko – aur bhi kam gods ko – laughter dwara overcome hote hue dikhaya jata hai [389].’
+
+‘Particularly gods ko nahi.’
+
+‘Toh hum Homer se gods ke baare mein is tarah ki cheez ko accept nahi karenge:
+
+> Unquenchable the laughter that arose
+> Among the blessed gods. They sat and watched
+> Hephaestus bustling up and down the hall.
+> 16
+
+Humein ise accept nahi karna chahiye, aapke reasoning ke anusar.’
+
+‘Ise mera kahein, agar aap pasand karte hain,’ usne kaha [b]. ‘Humein ise nischit roop se accept nahi karna chahiye, waise bhi.’
+
+‘Phir dobara, truth ek aur cheez hai jise humein highly value karna chahiye. Agar hum abhi sahi the,
+17
+agar lies vaastav mein gods ke liye useless hain, aur men ke liye sirf us tareeqe se upayogi hain jaise medicine upayogi hai, toh saaf taur par lying ek aisa task hai jise specialists ko sonpa jana hai. Ordinary logon ko isse koi lena-dena nahi hona chahiye.’
+
+‘Clearly.’
+
+‘Toh agar koi lies batane ka entitled (haqdaar) hai, toh city ke rulers hain. Woh city ke benefit ke liye aisa kar sakte hain, enemies ya citizens ke actions ke response mein [c]. Kisi doosre ko lying se koi lena-dena nahi hona chahiye, aur ek ordinary citizen ke liye hamare in rulers se lie bolna itna bada mistake hai – bada, in fact – jitna aapke doctor ya trainer se aapke body ki condition ke baare mein lies bolna jab aap bimar hon ya training mein hon, ya ship ke captain ko ship aur uske crew ke baare mein misleading information dena, aur aap ya aapke fellow-sailors kaise manage kar rahe hain.’
+
+‘Very true,’ usne kaha.
+
+‘Toh agar ek ruler city mein kisi doosre ko lying karte hue pakadta hai – inmein se kisi ko bhi “jo artisans ke roop mein kaam karte hain,”
+
+> A prophet, healer of ills, or worker of wood,
+> 18
+
+woh use ek aisi practice ko introduce karne ke liye punish karega jo ek city mein utni hi subversive aur destructive hai jitni yeh ek ship mein hoti hai [d].’
+
+‘Haan, agar actions shabdon ke prati true hone wale hain,’ usne kaha.
+
+‘Aur phir self-discipline ke baare mein kya? Kya hamare young men ko iski zaroorat nahi hogi?’
+
+‘Of course unhe hogi.’
+
+‘General population ke liye, kya self-discipline mukhya roop se apne masters ke prati obedient hone mein, aur khud drink, sex aur food ke pleasures ke masters hone mein nihit nahi hai [e]?’
+
+‘Haan, mujhe lagta hai ki yeh hai.’
+
+‘Hum approve karenge, mujhe lagta hai, us tarah ki cheez jo Diomedes Homer mein kehta hai:
+
+> Be seated, friend, in silence. Hear my advice.
+> 19
+
+Aur woh lines jo agle aati hain:
+
+> The Achaeans now moved forward, breathing fire.
+> Silent they marched, in awe of their commanders.
+> 20
+
+Aur inke jaise koi bhi doosre passages.’
+
+‘Haan, hum unhe approve karenge.’
+
+‘Inke jaisi lines ke baare mein kya?
+
+> You wine-dulled dolt,
+> With spaniel eyes, and courage of a deer.
+> 21
+
+Aur woh speech jo follow karti hai [390]? Kya hum unhe approve karenge, aur insolence ke kisi bhi doosre piece ko, storytellers ya poets ke works mein, ek ordinary citizen dwara apne rulers ko addressed kiye gaye?’
+
+‘Nahi, hum nahi karenge.’
+
+‘Nahi. Agar hum chahte hain ki young self-discipline viksit karein, mujhe nahi lagta ki yeh unke sunne ke liye sahi cheezein hain – yadyapi isme koi surprise nahi hai agar woh doosre tareeqon se entertaining hain. Kya aap sehamat hain?’
+
+‘Haan,’ usne kaha.
+
+‘Ek bahut samajhdar aadmi se yeh kehlaane ke baare mein kya ki woh sochta hai ki sabhi sights mein sabse finest yeh hai:
+
+> With bread and meat the tables laden full,
+> And pourers drawing wine from mixing-bowls
+> To fill the waiting cups [b].
+> 22
+
+Kya aapsochte hain ki yeh sunna ek young man ko khud ka master hone mein madad karne wala hai? Ya yeh?
+
+> Nothing so wretched as to meet one’s fate
+> Dying of hunger.
+> 23
+
+Aur Zeus ko akele awake rehte hue dikhane ke baare mein kya jab doosre gods aur mankind sote hain, lekin phir happily apne sabhi plans ko sex ke liye apni desire mein bhool jaate hue, aur Hera ke sight se itna carried away hote hue ki woh andar jaane se inkaar karta hai, aur right wahan ground par love karna chahta hai [c]? Woh gripped hai, woh kehta hai, desire dwara jo pehle se bhi badi hai jab woh pehli baar ek doosre ke sath soye the, apne pyare parents ko deceive karte hue.
+24
+Na hi hum Ares aur Aphrodite ke binding ko Hephaestus dwara same kind ke behaviour ke liye dikhana chahte hain.’
+25
+
+‘Nahi, main nischit roop se nahi sochta ki woh dikhane ke liye sahi sort ki cheez hai,’ usne kaha.
+
+‘Doosri taraf,’ maine kaha, ‘agar distinguished mardon ke speeches ya actions mein, har cheez ke samne endurance ke koi examples hain, toh yeh unke observe karne aur sunne ke liye models hain [d]. Udaharan ke liye:
+
+> He smote his chest, and thus rebuked his heart.
+> Bear up, my heart. You have borne yet worse than this.’
+> 26
+
+‘Haan, woh unquestionably sahi models hain,’ usne kaha.
+
+‘Phir dobara, humein apne citizens ko corrupt ya avaricious (laalchi) hone ki anumati nahi deni chahiye.’
+
+‘Nahi.’
+
+‘Hum unhe ise recited nahi sunne denge, phir:
+
+> With gifts can gods, with gifts can noble kings
+> Be swayed [e].
+> 27
+
+Hum Achilles ke tutor Phoenix ki tareef nahi karenge use sound advice dene ke liye, Achaeans ke defence mein aane ke liye agar use gifts se rewarded kiya gaya tha, lekin gusse ko aside na rakhne ke liye agar koi gifts nahi the.
+28
+Na hi hum ise sahi sochenge – in fact, hum ispar vishwās nahi karenge – khud Achilles ke itna avaricious hone par, Agamemnon se gifts lete hue, ya kisi doosre avsar par payment ke badle ke alawa burial ke liye Hector ke body ko release karne se inkaar karte hue [391].’
+29
+
+‘Nahi,’ usne kaha, ‘is tarah ke behaviour ki tareef karna poori tarah galat hoga.’
+
+‘Yeh sirf Homer ke baare mein meri uchi raaye hai,’ maine kaha, ‘jo mujhe is tarah baat karne, ya logon ko unke baat karne par kaan dene ko impious kehne se rokti hai, Achilles ke baare mein. Ya yeh suggest karne se ki usne Apollo se kaha:
+
+> Thou most destructive out of all the gods,
+> Archer Apollo, thou hast injured me.
+> I’d swiftly take revenge, had I the power.
+> 30
+
+Ya ki usne river-god ka palan karne se inkaar kar diya, aur usse ladne ki offering ki [b].
+31
+Ya ki woh Patroclus ko, uski maut ke baad, apne hair ke locks offer karna chahta tha jo doosre river, Spercheius ke liye sacred the:
+
+> Now let me give Patroclus, noble hero,
+> This lock of hair, to take with him.
+> 32
+
+Humein vishwās nahi karna chahiye ki Achilles ne aisa kiya. Jahan tak uske Patroclus ke tomb ke charon taraf Hector ko drag karne, aur uske funeral pyre par live prisoners ko slaughter karne ka sawaal hai,
+33
+hum admit nahi karenge ki inmein se koi bhi true stories hain [c]. Achilles ek goddess aur Peleus ka son tha – ek sabse sensible man aur Zeus ka grandson – aur use wise Cheiron dwara paala gaya tha. Hum apne logon ko yeh vishwās nahi karne denge ki woh itna poori tarah disturbed tha ki uske paas do poori tarah contradictory faults the – spirit ka ek avaricious meanness, aur gods aur men ke prati badi arrogance.’
+
+‘Aap sahi hain,’ usne kaha.
+
+‘Which case mein,’ maine kaha, ‘aayein hum dono par vishwās na karein – aur aayein logon ko yeh kehne ki anumati na dein – ki Poseidon ke son Theseus aur Zeus ke son Peirithous in disgraceful abductions ko carry out karne ke liye nikal pade, ya ki god ka koi doosra hero aur child khud ko us tarah ke terrible godless deeds karne ke liye la sakta tha jinhe aaj kal galat tareeqe se unse attributed kiya jata hai [d].
+34
+Aayein poets se yeh kehne ki requirement karein ki ya toh yeh unke actions nahi the ya ki woh gods ke children nahi the. Unhe dono nahi kehna chahiye, aur unhe hamare young men ko yeh persuade karne ki koshish nahi karni chahiye ki gods evil deeds ko father kar sakte hain, ya ki heroes men se behtar nahi hain [e]. Jaise humne pehle kaha tha, yeh beliefs impious aur untrue dono hain. Humne prove kiya, kya humne nahi, ki gods se evil ka astitva mein aana asambhav hai?’
+35
+
+‘Humne kiya.’
+
+‘Isse bhi zyada, yeh beliefs un logon ke liye damaging hain jo unhe sunte hain. Koi bhi wrong karne ke liye khud ko forgive kar dega agar woh vishwās karta hai ki is tarah ki cheez typical thi aur hai inke liye bhi:
+
+> The gods’ close kin, those near to Zeus, who have
+> An altar sacred to ancestral Zeus
+> On Ida’s mountain, high among the clouds,
+> And in their veins the blood of demigods
+> Has not run dry.
+> 36
+
+Yahi kaaran hai ki humein is tarah ki stories ko roknay padega, isse pehle ki woh hamare young men mein wickedness ke prati ek poori tarah casual attitude produce karein.’
+
+‘Haan, humein roknay padega,’ usne kaha [392].
+
+‘Well, phir,’ maine poocha, ‘stories ke kind ki hamari definition mein jo batayi ja sakti hain aur nahi batayi ja sakti hain, stories ka kaun sa class bacha hai? Humne gods ke baare mein, aur demigods, heroes aur dead ke baare mein stories se deal kar liya hai.’
+
+‘Humne kar liya hai.’
+
+‘Final class, phir, mankind ke baare mein stories hogi.’
+
+‘Clearly.’
+
+‘Aur hum moment par uske liye rules lay down karne ki position mein nahi hain, mere dost.’
+
+‘Kyun nahi?’
+
+‘Kyunki hum kahenge, main kalpana karta hoon, ki poetry aur prose dono ke writers mankind ke baare mein bahut serious errors karte hain [b]. Woh kehte hain ki bahut se log unjust hain lekin happy hain, ya just hain lekin miserable, aur ki injustice pays agar aap isse bach sakte hain, jabki justice woh hai jo kisi aur ke liye achha hai, lekin aapke liye damaging. Hum unhe inke jaisi cheezein kehne se rokenge, aur unse unki poems aur stories mein bilkul opposite kehne ke liye kahenge. Kya aap aisa nahi sochte?’
+
+‘Main poori tarah yakin rakhta hoon ki hum karenge,’ usne kaha.
+
+‘Lekin agar aap admit karte hain ki main us baare mein sahi hoon, kya main daava nahi kar sakta ki aapne admit kar liya hai jise hum sabhi se prove karne ki koshish kar rahe the?’
+
+‘Haan,’ usne kaha, ‘main dekh sakta hoon ki argument kaise jayega.’
+
+‘Toh hum mankind ke baare mein, aur stories ke kind ke baare mein jo batayi jaani chahiye tab tak ek agreement par nahi pahonch sakte, jab tak ki humne yeh pata nahi laga liya ki justice kis tarah ki cheez hai, aur yeh dikha nahi diya ki iska nature ise dharan karne wale vyakti ke liye profitable hona hai, chahe log sochte hon ki woh just hai ya nahi [c].’
+
+‘Very true.’
+
+‘Us par stories kaafi hone dein. Unka telling, main suggest karta hoon, hamare liye sochne ke liye agli cheez hai. Phir humne poori tarah se cover kar liya hoga dono kya bataya jana chahiye aur ise kaise bataya jana chahiye.’
+
+‘Main nahi samajhta,’ Adeimantus ne is point par kaha. ‘Aapka kya matlab hai?’
+
+‘Yeh mahatvapurna hai ki aap samajhte hain, halanki,’ maine kaha [d]. ‘Yahan ise dekhne ka ek tareeqa hai jo aapko ek behtar idea de sakta hai. Kya storytellers aur poets dwara batayi gayi sabhi stories vaastav mein ek narrative nahi hain – uski jo past mein hua hai, uski jo ab ho raha hai, ya uski jo future mein hone wala hai?’
+
+‘Well, obviously.’
+
+‘Kya woh apna purpose ya toh simple narrative dwara, ya imitation ke zariya expressed narrative dwara, ya dono ke combination dwara haasil nahi karte?’
+
+‘Wahan dobara, mujhe darr hai, mujhe abhi bhi ek clearer explanation ki zaroorat hai.’
+
+‘Ek teacher ke roop mein,’ maine kaha, ‘mere paas apne meaning ko clear karne ki ek laughable inability lagti hai. Main wohi karun jo bolne mein achhe nahi log karte hain – generalisations se bachen, ek particular example lein, aur aapko dikhane ke liye iska upayog karne ki koshish karein ki mera kya matlab hai [e]. Aap Iliad ki shuruat jaante hain, jahan poet kehta hai ki Chryses Agamemnon se apni daughter ko jaane dene ke liye kehta hai, aur Agamemnon apna temper kho deta hai, aur phir Chryses, jab uski request turn down kar di jaati hai, Achaeans ke khilaf Apollo se ek prayer utter karta hai [393]?’
+
+‘Haan. Main jaanta hoon.’
+
+‘Us case mein, aapko aware hona chahiye ki neeche lines tak
+
+> He implored the Achaean lords, but most of all
+> Atreus’ two sons, the marshals of the host,
+> 37
+
+poet person mein bolta hai. Woh hamare imagination ko kisi aur ki taraf direct karne ka prayas nahi karta, ya suggest nahi karta ki uske alawa koi aur bol raha hai [b]. Lekin agle aane wali lines mein woh aise baat karta hai jaise woh khud Chryses hai, aur woh sab kuch karta hai jo woh humein kalpana karwane ke liye kar sakta hai ki yeh Homer nahi bol raha hai, balki priest. Woh ek purane aadmi ki tarah baat karta hai. Uske narrative ka baaki poora hissa kam ya zyada unhi lines ke sath constructed hai – na sirf Troy ke events, balki Ithaca ke events bhi, aur poori Odyssey.’
+
+‘Exactly,’ usne kaha.
+
+‘Lekin yeh sab narrative hai – dono individual speeches jo woh deliver karta hai aur woh bits jo woh speeches ke beech mein kehta hai?’
+
+‘Haan, of course.’
+
+‘Aur jab woh kisi aur ke character mein ek speech banata hai, kya hum keh sakte hain ki woh hamesha apni style ko us vyakti ki style ke jitna ho sake paas banata hai jiske baare mein woh humein batata hai ki bol raha hai [c]?’
+
+‘Isme koi sawaal nahi.’
+
+‘Lekin khud ko kisi aur ke resemble karwana – chahe aapke bolne ke tareeqe mein ya aapke look ke tareeqe mein – kya woh us vyakti ki imitation nahi hai jiske aap khud ko resemble karwate hain?’
+
+‘Of course yeh hai.’
+
+‘Is tarah ke passages mein, zaahir taur par, Homer aur poets ke baaki log apne narrative ko construct karne ke liye imitation ka upayog karte hain.’
+
+‘Haan.’
+
+‘Agar aise koi passages na hote jahan poet apne person ko conceal karta, toh uska poora work, uska poora narrative, imitation ka upayog kiye bina create kiya gaya hota [d]. Aapko mujhe dobara yeh kehne se bachane ke liye ki aap nahi samajhte ki yeh kaise ho sakta hai, main explain karunga. Kalpana karein Homer ne humein bataya ki Chryses aaya, apni daughter ke ransom ko laate hue, Achaeans ke paas ek suppliant ke roop mein, aur vishesh roop se unke kings ke paas, lekin phir Chryses ke person mein nahi, balki abhi bhi Homer ke roop mein story batane ke liye aage badha. Aapko ehsaas hai ki woh simple narrative hoga, imitation nahi. Story kuch is tarah jaayegi [e]. Main koi poet nahi hoon, toh main ise verse mein nahi bataunga: “Priest aaya aur prayer ki ki gods Achaeans ko grant karein ki woh Troy ko capture karein, aur ghar surakshit lautein, lekin usne unse ransom ke badle apni daughter ko release karne ke liye kaha, aur god ke prati reverence se. Jab usne khatam kiya, toh Achaeans ke baaki logon ne use respect dikhaya, aur uski request par agree ho gaye hote, lekin Agamemnon ne apna temper kho diya, use turant depart hone ke liye kehte hue, aur dobara wapas na aane ke liye; warna uska priest’s staff aur god ke garlands uske liye koi protection nahi honge. Priest ki daughter Agamemnon ke sath Argos mein rehne wali ek purani woman hogi isse pehle ki use release karne ka koi sawaal uthe [394]. Usne priest ko door jaane aur use bother karna band karne ke liye kaha, agar woh ghar surakshit pahonchana chahta tha. Purana aadmi Agamemnon ke threats se alarmed tha, aur silence mein door chala gaya. Lekin uske camp chhodne ke baad usne Apollo ko kai prayers addressed kiye, god ke cult-names ko call karte hue, use past favours ki yaad dilate hue, aur badle mein uski madad maangte hue agar usne kabhi, temples ke building mein ya victims ke sacrifice mein, god ko koi gift diya tha jo uske liye pleasure ka source raha tha. In favours ke badle mein, usne prayer ki ki Apollo ke arrows Achaeans ko uske tears ke liye pay karayein [b].” Woh, mere dost, simple narrative hai, imitation ke bina.’
+
+‘Main dekhta hoon,’ usne kaha.
+
+‘Us case mein,’ maine kaha, ‘aap yeh bhi dekh sakte hain ki aapko bilkul opposite milta hai agar aap use omit (chhod) dete hain jo poet speeches ke beech mein kehta hai, aur dialogue ko chhod dete hain.’
+
+‘Haan, main woh bhi dekh sakta hoon,’ usne kaha. ‘Woh us tarah ki cheez hai jo aapko tragedy mein milti hai.’
+
+‘Exactly,’ maine kaha. ‘Ab mujhe lagta hai ki main aapko saaf kar sakta hoon jo main pehle saaf nahi kar saka, ki ek type ki poetry aur storytelling purely imitative hai – yeh tragedy aur comedy hai, jaise aap kehte hain [c]. Ek doosre type mein, poet apni story batata hai. Main kalpana karta hoon ki aap ise mukhya roop se dithyramb mein paayenge. Teesra type, imitation aur narrative dono ka upayog karte hue, epic poetry mein paaya ja sakta hai, aur kai doosri jagahon par bhi.
+38
+Kya aap mujhe follow kar rahe hain?’
+
+‘Haan. Main ab dekhta hoon ki aap kya keh rahe the.’
+
+‘Ab, mujhe aapko yaad dilane dein ki hum abhi kya keh rahe the. Humne kaha tha ki humne faisla kar liya tha ki kaun si stories batayi jaani chahiye, lekin abhi bhi is prashn ko dekhna tha ki unhe kaise bataya jana chahiye.’
+
+‘Haan, mujhe woh yaad hai.’
+
+‘Toh jis cheez ke baare mein main sach mein kehne ki koshish kar raha tha ki humein apna dimaag banana chahiye woh yeh thi [d]. Kya hum poets ko unke works mein imitation ka upayog karne ki anumati denge? Ya partly imitation aur partly narrative? Which case mein, unhe kab ek ka upayog karna chahiye, aur kab doosre ka? Ya kya unhe imitation ka bilkul bhi upayog nahi karna chahiye?’
+
+‘Mujhe ek prediction karne dein,’ usne kaha. ‘Aap poochhne wale hain ki kya humein hamare city mein tragedy aur comedy ko allow karna chahiye ya nahi.’
+
+‘Possibly,’ maine kaha. ‘Possibly isse bhi zyada, even. Main abhi nahi jaanta. Lekin humne sail set kar diya hai, aur jahan wind, ya argument, humein le jata hai wahan jana padega.’
+
+‘Aap sahi hain,’ usne kaha [e].
+
+‘Yahan aapke liye ek prashn hai, phir, Adeimantus. Kya hum chahte hain ki hamare guardians imitation ke aadi hon, ya nahi? Ya kya wahi principle yahan laagu hota hai jo pehle laagu hua tha?
+39
+Principle yeh tha ki har individual sirf ek cheez achhi tarah kar sakta hai. Woh bahut saari cheezein nahi kar sakta. Agar woh koshish karta hai, toh woh sabhi trades ka jack hoga, aur kisi ka master nahi.’
+
+‘Haan, yeh laagu hota hai. Yeh kyun nahi laagu hoga?’
+
+‘Kya yeh imitation par bhi laagu hota hai? Kya wahi vyakti kai cheezon ko itna achhi tarah imitate karne mein a-saksham hai jitna woh ek ko imitate kar sakta hai?’
+
+‘Of course.’
+
+‘Toh uski worthwhile occupations mein se ek ka palan karne aur ek versatile imitator hone, aur imitation ke aadi hone dono ki kam sambhavna hai [395]. Aakhirkar, same log do apparently kaafi similar forms of imitation jaise comedy aur tragedy mein bhi kamyab hone mein saksham nahi hain. Aapne abhi un dono ko classify kiya tha, imitation ke types ke roop mein?’
+
+‘Maine kiya tha. Aur aap sahi hain. Same log dono mein achhe nahi ho sakte.’
+
+‘Na hi reciters aur actors ke roop mein bhi.’
+40
+
+‘True.’
+
+‘Same log tragedy ke sath-sath comedy mein bhi actors nahi ho sakte [b]. Yeh sabhi imitation ke examples hain, kya yeh nahi hain?’
+
+‘Haan, yeh hain.’
+
+‘Isse bhi zyada, Adeimantus, mujhe lagta hai man’s nature ek currency hai jo inase bhi chhote denominations mein minted ki gayi hai. Iska matlab hai ki woh kai alag-alag cheezon ko imitate karne mein achha nahi ho sakta, na hi un kai real cheezon ko karne mein achha jinaki imitations copies hain.’
+
+‘Very true,’ usne kaha.
+
+‘Toh agar hum apne original plan par tike rehte hain, jo yeh tha ki hamare guardians ko sabhi doosre occupations se release kiya jana chahiye, aur hamare city ke liye freedom ke true architects hona chahiye, aur ki jo kuch bhi woh karte hain use is end mein contribute karna chahiye, toh yeh essential hai ki woh kisi aur cheez ko na karein ya imitate na karein [c]. Agar woh kisi cheez ko imitate karte hain, toh unki earliest childhood se unhe imitate karne ke liye suitable models chunne chahiye – aise log jo brave, self-disciplined, godfearing, free hain, us tarah ki cheez. Unhe na toh karna chahiye, na hi imitate karne mein achha hona chahiye, jo illiberal hai, na hi kisi doosre tarah ke shameful behaviour mein, is case mein ki imitation ka enjoyment reality ke enjoyment ko janam deta hai. Kya aapne kabhi dhyan nahi diya ki imitation, agar early age se lambe samay tak jaari rahe, toh vyakti ke nature ka hissa ban jaati hai, body, speech aur mind ki habits mein badal jaati hai [d]?’
+
+‘Maine nischit roop se dhyan diya hai,’ usne kaha.
+
+‘Toh ek woman ko imitate karna, young ya old, maybe apne husband ko abuse karti hui, ya gods ke sath compete karti hui aur apni good fortune ke baare mein boast karti hui, ya disaster, ya grief, ya mourning ke grip mein, un logon ke liye ek legitimate activity nahi hogi jinme humne kaha tha ki hum interested hain – woh jinhe hum right sort ke men ke roop mein bada hote hue dekhna chahte the [e]. Woh, aakhirkar, men hain. Aur isse bhi kam hum chahte hain ki woh kisi aise woman ko imitate karein jo ill hai, ya love mein, ya childbirth mein.’
+
+‘Absolutely nahi,’ usne kaha.
+
+‘Na hi unhe female ya male slaves ko slaves ke behave karne ke tareeqe mein behave karte hue imitate karna chahiye.’
+
+‘Nahi. Woh bhi nahi.’
+
+‘Na hi wrong sort ke men ko, presumably: cowards, aur woh jinaka behaviour uska opposite hai jise humne abhi kaha tha ki unhe imitate karna chahiye – aise men jo ek doosre ko insult ya ridicule karte hain, ya bad language ka upayog karte hain, drunk ya us maamle ke liye sober, aur woh sabhi doosre faults jinake ke liye is sort ke men apne aur doosron ke prati apni language aur behaviour mein guilty hain [396]. Na hi, meri raaye mein, unhe logon par apni language ya behaviour mein khud ko model karne ki aadat daalni chahiye jo mad hain. Unhe men aur women mein madness aur wickedness ko recognise karna chahiye, lekin isme se kuch bhi unke adopt karne ya imitate karne ke liye behaviour nahi hai.’
+
+‘Very true,’ usne kaha.
+
+‘Bronze mein kaam karne wale logon ke baare mein kya?’ maine poocha. ‘Ya kisi doosre art ya skill ko practice karne wale? Ya triremes ko row karne wale, ya rowers ko time call karne wale,
+41
+ya is type ki koi doosri activity? Kya hamare guardians ko unhe imitate karna chahiye [b]?’
+
+‘Woh kaise kar sakte hain,’ usne kaha, ‘agar unhe unme se kisi mein bhi interested hone ki anumati nahi hai?’
+
+‘Ghodon ke neighing aur bulls ke bellowing ke baare mein kya? Kya woh unhe imitate karenge? Ya rivers ki sound, ya shore par break hone wale sea ki, ya thunder ki, ya us tarah ki kisi cheez ki?’
+
+‘Nahi. Unhe na toh mad hone ki anumati hai aur na hi un logon ki tarah behave karne ki jo mad hain.’
+
+‘Agar main aapko sahi samajhta hoon, phir,’ maine kaha, ‘toh speech aur narrative ka ek form hai jo right sort ke man dwara niyukt kiya jayega jab use kuch kehne ki zaroorat hoti thi, aur phir dobara speech ka ek doosra form, pehle wale se kaafi alag, jo opposite kind ke nature aur upbringing wale man ko appeal karega, aur jise woh niyukt karega [c].’
+
+‘Speech ke yeh forms kya hain?’
+
+‘Mujhe lagta hai decent man, jab woh apne narrative mein kisi achhe aadmi ke kehne ya action par aata hai, toh ise report karne ke liye taiyar hoga jaise ki woh khud vaastav mein vicharadhin vyakti tha. Woh is tarah ke imitation se ashamed nahi hoga [d]. Woh good man ko sabse zyada imitate karega jab woh ek responsible aur wise manner mein act karta hai, aur use kam imitate karega, aur kam poori tarah se, jab good man disease ya passion dwara, ya drunkenness ya kisi tarah ke misfortune dwara astray led kiya jata hai. Jab woh kisi aise vyakti par aata hai jo uske unworthy hai, mujhe lagta hai ki woh kisi aise vyakti ke resemble hone ka koi serious attempt karne se inkaar karega jo uska inferior hai – sivaay shayad briefly, jab character kuch achha kar raha ho – dono kyunki uske paas is tarah ke logon ko imitate karne mein koi training nahi rahi hai, aur kyunki woh apne inferiors ke pattern par khud ko shape aur model karne se resent karta hai [e]. Inwardly woh is tarah ke behaviour ko apne neeche ke roop mein treat karta hai – jab tak ki of course yeh jest mein na ho.’
+
+‘Very likely,’ usne kaha.
+
+‘Toh woh us tarah ke narrative ka upayog karega jise humne kuch moments pehle varnit kiya tha, jab hum Homer ke epics ke baare mein baat kar rahe the. Jis tareeqe se woh stories batata hai woh dono styles ko combine karega, imitation aur doosri tarah ka narrative, lekin ek lambi story mein bhi imitation ki sirf ek chhoti matra ke sath. Ya kya maine ise galat pakda hai?’
+
+‘Nahi,’ usne kaha, ‘is tarah ke speaker ka style yeh hona tay hai.’
+
+‘Ab, jahan tak us speaker ka sawaal hai jo is sort ka nahi hai, woh jitna badtar hoga, utna hi zyada poora samay imitation ka upayog karne ke liye taiyar hoga [397].
+42
+Aisa kuch nahi hai jise woh apne neeche maana karega, aur isliye woh ise apne upar lega, poori seriousness mein, aur public performances mein, un sabhi cheezon ko imitate karne ke liye jinake baare mein hum abhi baat kar rahe the – thunder, wind aur hail ki din, wheels aur pulleys ki, trumpet, pipe, panpipe, aur har musical instrument ki sound, yahan tak ki dogs, ya sheep, ya birds ki noise bhi [b]. Kya jis tareeqe se yeh man stories batata hai woh poori tarah imitation par consist karega, word aur gesture mein, shayad narrative ke ek chhote element ke sath?’
+
+‘Again, yeh hona tay hai.’
+
+‘Wahan aap hain, phir,’ maine kaha. ‘Wahi mera matlab tha jab maine kaha tha ki storytelling ke do styles the.’
+
+‘Main ise accept karta hoon,’ usne kaha. ‘Do hain.’
+
+‘In do styles mein se pehla sirf slight variations shamil karta hai. Agar woh ek musical mode aur rhythm ka upayog karta hai jo uske style ke liye sahi hain, toh sahi tareeqe se stories batane wale vyakti ke liye – kyunki uske style mein variations bahut slight hain – musical consistency haasil karna kaafi hadd tak sambhav hai, ek single mode aur of course ek similarly appropriate rhythm ka upayog karte hue [c].’
+
+‘Yeh nischit roop se true hai.’
+
+‘Doosre storyteller ke style ke baare mein kya? Isme shamil variations ki vishaal range ke kaaran, kya ise bilkul opposite treatment ki zaroorat nahi hogi – sabhi musical modes, aur har tarah ke rhythm की – agar ise bhi iske appropriate tareeqe se bataya jana hai?’
+
+‘Undoubtedly.’
+
+‘Kya sabhi poets, phir, aur sabhi tarah ke storytellers, in styles mein se kisi ek ya doosre par, ya dono ke kisi combination par hit karte hain?’
+
+‘Unhe karna chahiye,’ usne kaha.
+
+‘Us case mein,’ maine poocha, ‘hamari policy kya honi chahiye [d]? Kya hum unhe sabhi ko hamare city mein allow karenge? Ya pure styles mein se ek ya doosre ko? Ya mixed style ko?’
+
+‘Agar mera view prevails hota hai,’ usne kaha, ‘hum sirf good man ke pure imitator ko allow karenge.’
+
+‘And yet mixed style bhi enjoyable hai, Adeimantus. In fact, woh jo aapke dwara select kiye ja rahe ke bilkul opposite hai woh kahin zyada sabse enjoyable hai, children aur unke attendants ki raaye mein, aur large scale par population ki.’
+
+‘Haan, yeh sabse enjoyable hai.’
+
+‘Possibly, halanki, aap kahenge ki yeh style hamare regime ke sath tune mein nahi hai [e]. Hamare men ke paas ek dual ya manifold nature nahi hai, kyunki unmein se har ek sirf ek task perform karta hai.’
+
+‘Nahi, yeh tune mein nahi hai.’
+
+‘Kya yeh kaaran hai, phir, kyun hamara akela city hai jismein humein ek aisa shoemaker milega jo sirf ek shoemaker hai, aur shoemaker ke sath-sath ship ka captain nahi, ek farmer jo sirf ek farmer hai, aur farmer ke sath-sath juryman nahi, ek soldier jo sirf ek soldier hai, aur soldier ke sath-sath businessman nahi, aur doosre wahi?’
+
+‘Haan,’ usne kaha.
+
+‘Maan lijiye, phir, wahan ek aadmi tha jo itna wondrous wise tha ki poori tarah versatile ho, kisi bhi cheez ko imitate karne mein saksham [398]. Agar woh hamare city mein apne poems ko person mein perform karna chahte hue aaya, toh aisa lagta hai jaise hum uske samne gir jaayenge, usse kahenge ki woh sacred, exceptional aur delightful tha, lekin phir usse explain karenge ki hamare city mein uske jaise men nahi hain, ki unke liye wahan hona sahi nahi hai. Hum uske head par myrrh daalenge, use woollen garlands se garland karenge, aur use kisi doosre city ke liye uske raste par bhej denge.
+43
+Hamare apne good ke liye, hum khud ko ek simpler, agar kam enjoyable nahi, poet aur storyteller ke sath content karenge, jo decent man ke bolne ke tareeqe ko imitate kar sakta hai, aur apni stories ko un patterns par model kar sakta hai jinhe humne hamare soldiers ke liye ek education pradan karne ke apne prayas ke shuruat mein laid down kiya tha [b].’
+
+‘Haan, woh nischit roop se wahi hai jo humein karna chahiye, agar yeh hamare upar hota.’
+
+‘Well, mere dost,’ maine kaha, ‘hamari education ke poetic aur musical side par aisa lagta hai jaise humne stories aur myths par section se kaafi poori tarah se deal kar liya hai. Humne laid down kar diya hai dono kaun si stories batayi jaani hain aur unhe kaise bataya jana hai.’
+
+‘Haan, main sehamat hoon,’ usne kaha. ‘Mujhe lagta hai ki humne usse deal kar liya hai.’
+
+‘Well phir, kya woh songs aur music ke styles ke prashn ko chhodta hai [c]?’
+
+‘Obviously yeh chhodta hai.’
+
+‘Presumably koi bhi ab us tarah ke character ko work out kar sakta hai jise humein unke liye prescribe karne ki zaroorat hai, pehle se laid down kiye gaye ke sath harmony mein hone ke liye.’
+
+Glaucon ne hasa. ‘Aisa lagta hai, us case mein, Socrates, jaise main “koi bhi” nahi hoon. Mujhe yakin nahi hai ki main moment ke spur par, us tarah ki cheez ke baare mein guess karne ke liye khud par trust karunga jise humein prescribe karna chahiye. Yadyapi mere paas ek kaafi achha idea hai.’
+
+‘Jo aap nischit roop se kuch confidence ke sath keh sakte hain, main kalpana karta hoon, woh yeh hai ki music essentially teen elements se composed hai: words, harmonic mode
+44
+aur rhythm [d].’
+
+‘Haan, main woh keh sakta hoon,’ usne kaha.
+
+‘Jahan tak words ka sawaal hai, phir, woh un shabdon se alag nahi hain jo music par set nahi hain. Kya unhe unhi patterns ke conform nahi hona chahiye jinhe humne abhi laid down kiya tha, aur same style mein hona chahiye?’
+
+‘Haan, unhe hona chahiye.’
+
+‘Isse bhi zyada, mode aur rhythm ko words se follow karna chahiye.
+45
+’
+
+‘Of course.’
+
+‘Aur mourning aur lamentation woh cheezein thin jinake baare mein humne kaha tha ki hum apni stories mein inke bina kaam chala sakte hain.’
+
+‘Woh thin.’
+
+‘Which then mourning modes hain [e]? Aap musical hain. Aap mujhe batayein.’
+
+‘Mixolydian,’ usne kaha. ‘Syntonolydian. Us tarah ki cheez.’
+
+‘Kya inpar ban lagaya jana chahiye, phir?’ maine poocha. ‘Aakhirkar, woh women ke liye bhi kisi upayog ke nahi hain – agar hum chahte hain ki woh achhi women hon – men ke liye toh door ki baat hai.’
+46
+
+‘Unpar nischit roop se lagaya jana chahiye.’
+
+‘Drunkenness bhi ek aisi cheez hai jo hamare guardians ke liye poori tarah unsuitable hai. Aur waise hi luxury aur laziness bhi.’
+
+‘Of course woh hain.’
+
+‘Modes mein se kaun sa, phir, luxury aur parties ke liye appropriate hai?’
+
+‘Kuch Ionian modes hain,’ usne kaha, ‘aur dobara Lydian, jinhe relaxed kaha jata hai.’
+
+‘Kya yeh warlike disposition ke men ke liye kisi upayog ke honge [399]?’
+
+‘Nahi,’ usne kaha. ‘Toh aisa lagta hai jaise woh aapko Dorian aur Phrygian ke sath chhodta hai.’
+
+‘Main modes ke baare mein nahi jaanta,’ maine kaha. ‘Mujhe woh mode chhod do jo war ke samay mein, ya kisi externally imposed crisis mein ek brave man ki voice aur accents ko sabse fittingly imitate kar sakta hai. Jab cheezein galat jaati hain, aur woh death aur wounds ka samna karta hai, ya kisi doosre danger se encounters karta hai, in sabhi situations mein woh end tak ek disciplined aur steadfast manner mein hold out karta hai [b]. Plus ek aur mode kisi aise vyakti ke liye jo kisi peaceful, voluntary, freely chosen activity mein engaged hai. Woh kisi ko kisi cheez ke baare mein persuade karne ki koshish kar raha ho sakta hai, koi request karte hue – god se prayer karte hue, ya kisi man ko instructions ya advice dete hue. Ya bilkul opposite. Woh kisi doosre dwara request karne par patiently sun raha ho sakta hai, ya usse kuch explain kar raha ho sakta hai, ya use apna mind badalne ke liye kehne ki koshish kar raha ho sakta hai, aur us aadhar par acting kar raha ho sakta hai jaise woh sabse behtar sochta hai – arrogance ke bina, in sabhi situations mein prudently aur calmly act karte hue, aur outcome ke sath content hote hue [c]. Yeh do modes, phir. Ek adversity ke liye aur ek freely chosen activity ke liye, woh modes jo failure aur success mein prudent aur brave ki voices ko sabse behtar imitate karenge. Mujhe woh chhod do.’
+
+‘Aapko chhod do, doosre shabdon mein, sateek roop se un do ke sath jinhe maine abhi suggest kiya tha,’ usne kaha.
+47
+
+‘Iska matlab hai ki hum apne songs aur melodies mein strings ki ek vishaal range, aur har sambhavid mode nahi chahenge.’
+
+‘Nahi, mujhe lagta hai nahi,’ usne kaha.
+
+‘Which case mein hum in triangular harps, ya regular harps, ya in sabhi many-stringed instruments ke kisi bhi makers ko produce nahi karenge jo kai modes play kar sakte hain [d].’
+48
+
+‘Apparently nahi.’
+
+‘Reed instruments ke makers aur players ke baare mein kya? Kya aap unhe apne city mein allow karenge? Kya reed instrument play karna kisi bhi doosri cheez se zyada “many-stringed” nahi hai? Aur kya woh instruments jo kai modes play kar sakte hain vaastav mein reed-pipe ke imitations hi hain?’
+
+‘Haan, obviously woh hain.’
+
+‘Yeh aapko lyre aur cithara chhodta hai,’ maine kaha.
+49
+‘Woh city ke liye sahi honge. Countryside mein, by contrast, hamare herdsmen ke liye kisi tarah ka panpipe ho sakta hai.’
+
+‘Well, woh nischit roop se woh tareeqa hai jis taraf hamara reasoning point karta hai,’ usne kaha [e].
+
+‘Kuch bhi bahut radical nahi hai,’ maine kaha, ‘our preferring Apollo aur Apollo ke instruments ko Marsyas aur uske instruments par.’
+
+‘Good heavens, nahi,’ usne kaha. ‘Mujhe yakin hai ki nahi hai.’
+
+‘Ye dogs!’ maine kaha.
+50
+‘Chahe bina matlab ke, humne us city ko purge (shuddh) kar diya hai jise humne kaha tha ki bahut luxurious tha.’
+
+‘Yeh hamare liye sensible tha,’ usne kaha.
+
+‘Aao, phir,’ maine kaha. ‘Aayein iske baaki hisse ko purge karein. Mode ke baad hamari agli concern rhythm hogi. Humein complexity ka peechha nahi karna chahiye, na hi humein har tarah ke metres chaahiye [400]. Humein dekhna chahiye ki ek self-disciplined aur courageous life ke rhythms kya hain, aur unhe dekhne ke baad, metre aur melody ko us jaisi kisi vyakti ki speech ke conform banana chahiye. Hum speech ko rhythm aur melody ke conform nahi banayenge. Yeh rhythms kaun se hain yeh aapke kehne ke liye hai, jaise yeh modes ke sath tha.’
+
+‘Main sach mein nahi jaanta ki us baare mein kya kahoon,’ usne kaha. ‘Mere experience mein, rhythm ke teen types hain jinse metres ek sath woven kiye jaate hain, waise hi jaise jab tones ki baat aati hai, toh chaar elements hain jinse sabhi modes derive kiye jaate hain. Lekin mujhe koi idea nahi hai ki kaun se types kis lives ko imitate karte hain.’
+
+‘Woh kuch aisa hai jiske baare mein hum Damon se poochh sakte hain,’ maine kaha [b]. ‘Woh humein bata sakta hai ki kaun se metres spirit ki meanness, arrogance, madness aur character ke doosre faults ke liye appropriate hain, aur kaun se rhythms un logon ke liye chhode jaane chahiye jinaka character opposite hai. Mujhe yaad lagta hai, yadyapi main nischit nahi ho sakta, use “composite enoplion” jaise terms ka upayog karte hue sunte hue; phir wahan “dactyls” the, aur “heroic metre,” jise usne arrange kiya, kisi tarah ya doosri tarah, taaki upbeat aur downbeat barabar banaye gaye the jab yeh end mein short ya long mein badalta hai [c]. Phir wahan “iambic” tha, mujhe yaad lagta hai, aur ek doosra jise usne “trochaic” kaha, unke long aur short syllables ke sath. Unmein se kuch ke liye, mujhe lagta hai usne metrical feet ke pulse ko utna hi condemn ya approve kiya jitna khud rhythms ko.
+51
+Ya possibly woh dono ek sath the, main nischit nahi ho sakta. Yeh sabhi questions, jaise main kehta hoon, Damon ko referred kiye ja sakte hain. Inhe decide karne mein humein lamba samay lagega. Ya kya aap sochte hain ki humein koshish karni chahiye?’
+
+‘God forbid.’
+
+‘Lekin woh gracefulness aur want of grace usse follow kar sakti hai jo rhythmical aur unrhythmical hai, woh kuch aisa hai jise aap decide kar sakte hain [d].’
+
+‘Of course.’
+
+‘Lekin phir agar rhythm aur mode language ko follow karte hain, jaise humne abhi kaha, aur doosre tareeqe se nahi, toh jo rhythmical hai use fine language ko follow aur imitate karna chahiye, jabki jo rhythmical nahi hai woh opposite ko follow karta hai. Same harmony aur discord ke sath.’
+
+‘Haan, rhythm aur mode ko nischit roop se language ko follow karna chahiye,’ usne kaha.
+
+‘Speaking ke manner ke baare mein kya,’ maine poocha, ‘aur vaastav mein kya kaha jata hai? Kya woh speaker ki soul ke nature se follow nahi karte?’
+
+‘Of course.’
+
+‘Aur doosri cheezein speaking ke manner se follow karti hain?’
+
+‘Haan.’
+
+‘Us case mein, yeh sabhi cheezein – speaking ka sahi tareeqa, sahi attunement, grace aur rhythm – ek achhe nature se follow karti hain [e]. Mera matlab woh achha nature nahi hai jo polite naam hai jise hum stupidity ko dete hain,
+52
+balki true intelligence jo ek aise character mein nihit hai jo rightly aur properly constituted hai.’
+
+‘Exactly,’ usne kaha.
+
+‘Toh agar young ko apna proper function perform karna hai, kya yeh woh qualities nahi hain jinaka unhe har jagah aim karna chahiye?’
+
+‘Woh hain.’
+
+‘Painting in qualities se bhari hai, main kalpana karta hoon, jaise same sort ki koi bhi skill hai [401]. So are weaving, embroidery, building – kisi bhi household object ki manufacture, in fact – yahan tak ki hamari bodies ki aur ugne wali sabhi cheezon ki condition bhi. Yeh sabhi gracefulness aur want of grace dharan karti hain. Grace ya rhythm ki want, aur wrong attunement, wrong speech aur wrong nature ke close relatives hain, jabki unke opposites close relatives aur imitations hain opposite, self-disciplined aur good nature ke.’
+
+‘Precisely,’ usne kaha.
+
+‘Kya yeh sirf poets hain jinpar humein nazar rakhni hai, phir, unhe apni poems mein good nature ki likeness daalne ke liye compel karte hue, ya phir jaakar kahin aur poems likhne ke liye [b]? Kya humein doosre craftsmen par bhi nazar nahi rakhni hai, aur unhe living things ke unke representations mein, ya buildings mein, ya kisi bhi manufactured object mein jo wrong nature ka hai, jo undisciplined, slavish ya grace mein wanting hai use daalne se rokna hai? Jo koi bhi ise asambhav paata hai use hamare city mein craftsman banne ki anumati nahi di jaani hai. Us tareeqe se hamare guardians ko bad cheez ke images ke beech nahi paala jayega, jaise animals bad pasture par graze karne ke liye baahar rakhe gaye hain [c]. Hum nahi chahte ki woh har din browse aur feed karein – thoda yahan aur thoda wahan lete hue – aur iska ehsaas kiye bina apni souls mein ek single large evil accumulate karte hue. Nahi, humein fine cheez ke, grace rakhne wali cheez ke nature ko track down karne ke gift wale craftsmen ko seek out karna chahiye, taaki hamare young ek healthy environment mein reh sakein, har side se improvement draw karte hue, jab bhi beautifully fashioned cheezein unki eyes ya ears ko healthy regions se kisi wholesome breeze ke samne expose karti hain aur unhe imperceptibly, earliest childhood se, affinity, friendship aur harmony mein lead karti hain beauty of speech aur thought ke sath [d].’
+
+‘Haan, woh unke paale jaane ke liye sabse behtareen tareeqa hoga,’ usne kaha.
+
+‘Kya do kaaran nahi hain, Glaucon, kyun musical aur poetic education itni mahatvapurna hai? Pehle kyunki rhythm aur mode inner soul mein kisi doosri cheez se zyada deeply penetrate karte hain; unka ispar sabse powerful effect hota hai, kyunki woh apne sath gracefulness laate hain [e]. Woh ek person ko graceful banate hain, agar woh rightly brought up hai, aur opposite, agar woh nahi hai. Aur doosre kyunki is area mein right kind ki education wale kisi bhi vyakti ko un cheezon ki sabse clearest perception hogi jo unsatisfactory hain – cheezein jo badly made hain ya naturally defective. Unse poori tarah rightly disgusted hote hue, woh uski tareef karega jo beautiful aur fine hai. Isme delight karte hue, aur ise apni soul mein receive karte hue, woh ispar feed karega aur is tarah noble aur good banega [402]. Jo ugly hai uski woh rightly ninda karega aur hate karega, isse pehle ki woh rational thought ke liye kaafi old ho. Aur jab rationality apni appearance banati hai, kya is tareeqe se paala gaya person iski familiarity ke kaaran ise recognise nahi karega, aur isse particularly delighted nahi hoga?’
+
+‘Haan,’ usne kaha. ‘Agar aap mujhse poochhein, toh woh nischit roop se musical aur poetic education ka point hai.’
+
+‘Yeh bilkul padhna seekhne jaisa hai,’ maine kaha. ‘Hum ise jaise hi humne ehsaas kiya kar sakte the ki wahan sirf kuch letters hain, aur ki woh un sabhi words mein recurring karte rehte hain jo unhe dharan karte hain. Humne unhe apni attention ke unworthy ke roop mein kabhi dismiss nahi kiya, chahe short words mein ya long mein, balki har jagah unhe recognise karne ke liye keen the, is vishwās mein ki hum tab tak padhne mein saksham nahi honge jab tak hum yeh nahi kar sakte [b].’
+
+‘True.’
+
+‘Well, phir. Hum letters ke copies ko recognise nahi karenge – maan lijiye unke reflections water mein, ya mirror mein dikhne wale the – jab tak ki hum khud letters ko recognise nahi kar sakte. Kya dono mein same skill aur expertise shamil nahi hai?’
+
+‘Of course woh karte hain.’
+
+‘Aur kya yeh nahi hai, jaise main kehta hoon, musical aur poetic education ke sath bilkul same [c]? Properly educated banne ka sabse remotest chance bhi nahi hai – chahe hamare apne liye ya un logon ke liye jinhe humne kaha hai ki humein apne guardians banne ke liye educate karna chahiye – jab tak ki hum us tarah ki cheez ko recognise nahi karte jo self-discipline hai. Likewise courage, liberality aur generosity of spirit, jo har jagah recurring karte rehte hain, plus woh sabhi qualities jo unse closely related hain, aur unke opposites. Humein un sabhi cheezon mein unki aur unke likenesses ki presence dono ko dekhna chahiye jinme woh present hain, aur humein kabhi unhe dismiss na karna seekhna chahiye, context trivial ho ya mahatvapurna, balki unhe same skill aur expertise ka hissa maanna chahiye.’
+
+‘Haan,’ usne kaha, ‘yeh absolutely essential hai ki hum yeh seekhein.’
+
+‘Toh agar koi itna lucky hai ki ek aisi soul possess karta hai jismein ek achha character hai, aur ek physical form jo us character ke sath matches aur harmonises karti hai, jo same pattern par modelled hai, kya woh dekhne ke liye eyes wale kisi bhi vyakti ke liye sights mein sabse fairest nahi hoga [d]?’
+
+‘Very much so.’
+
+‘Lekin jo fairest hai woh sabse desirable hai.’
+
+‘Naturally.’
+
+‘Toh well educated man jitna ho sake is jise logon ke sath love mein gir jayega. Lekin woh kisi aise vyakti ke sath love mein nahi girega jiski soul aur body tune se baahar hain.’
+
+‘Nahi agar defect soul mein hai,’ usne kaha. ‘Agar yeh body mein hai, toh woh isey put up kar sakta hai, aur usse love karne ke liye taiyar ho sakta hai.’
+
+‘Ah, haan, of course,’ maine kaha [e]. ‘Kya main yeh sochne mein sahi hoon ki aap hain – ya the – is jise boy ke lover? Anyway, be that as it may, mujhe lagta hai ki aap sahi hain. Ab, agla prashn. Kya bahut zyada pleasure ka self-discipline se koi lena-dena hai?’
+
+‘Yeh kaise ho sakta hai? Bahut zyada pleasure aapko utna hi irrational banati hai jitna pain banati hai.’
+
+‘Kya iska kisi doosri good quality se koi lena-dena hai?’
+
+‘Nahi.’
+
+‘Arrogance aur indiscipline ke baare mein kya [403]? Kya iska unse koi lena-dena hai?’
+
+‘Haan, sab kuch.’
+
+‘Kya aap sexual pleasure se badi ya keener kisi pleasure ke baare mein soch sakte hain?’
+
+‘Nahi,’ usne kaha. ‘Na hi kisi doosre insane pleasure ke baare mein, either.’
+
+‘Jabki right sort ka love apne nature se uski self-controlled aur harmonious love hai jo self-disciplined aur beautiful hai?’
+
+‘Precisely,’ usne kaha.
+
+‘Toh humein right sort ke lover ko woh offer nahi karna chahiye jo insane hai, ya jo discipline ki kami se related hai?’
+
+‘Nahi, humein nahi karna chahiye.’
+
+‘Which case mein humein use sexual pleasure offer nahi karna chahiye, kya humein karna chahiye [b]? Na toh lover aur na hi boy ko isse koi lena-dena hona chahiye, agar woh right way mein love kar rahe hain aur loved ho rahe hain.’
+
+‘Good heavens, nahi, Socrates. Humein nischit roop se unhe woh offer nahi karna chahiye.’
+
+‘Aap us effect ke liye ek kanoon pass karenge, presumably, is city mein jise aap found kar rahe hain. Ek lover apne boy friend ko kiss kar sakta hai, uske sath samay bita sakta hai aur use touch kar sakta hai, jaise woh ek son ko karega – beauty ke sake ke liye, aur agar boy “haan” kehta hai. Iske alawa, us boy ke sath uska relationship jismein woh interested hai use kabhi kisi ko yeh kalpana karne ki anumati nahi deni chahiye ki woh usse aage kahin gaya hai [c]. Warna use uneducated ke roop mein condemn kiya jayega, aur beauty ke prati blind.’
+
+‘Haan, main us effect ke liye ek kanoon pass karunga,’ usne kaha.
+
+‘Well, phir, kya aap sochte hain ki musical aur poetic education par hamari discussion ek end par aa gayi hai?’ maine poocha. ‘Yeh nischit roop se wahan end hui hai jahan ise end hona chahiye tha. Music aur poetry ko, main ise leta hoon, beauty ke love mein end hona chahiye.’
+
+‘Main sehamat hoon,’ usne kaha.
+
+‘Aur musical aur poetic education ke baad, hamare young men ko ek physical education di jaani chahiye.’
+
+‘Naturally.’
+
+‘Yahan bhi, unki earliest childhood se aur unki poori lives mein, unhe bahut dhyan se paala jana chahiye [d]. Situation kuch is tarah ki hai, mera vishwās hai, lekin dekhein ki aap kya sochte hain. Yeh meri raaye hai ki agar body achhi shape mein hai, toh yeh apni khud ki excellence dwara soul ko achha nahi banati. Doosri taraf, ek achhi soul apni khud ki excellence dwara ek body ko utna achha bana sakti hai jitna yeh hone ke capable hai. Aapki kya raaye hai?’
+
+‘Main aapase sehamat hoon,’ usne kaha.
+
+‘Aayein maan lein ki humne mind ke liye adequate provision kar diya hai. Agar hum ab ise body ke liye detailed prescriptions banane ka kaam sonpte hain, brevity ke sake ke liye general guidelines pradan karne ke sath khud ko content karte hue, kya hum right way mein cheezon ke baare mein ja rahe honge [e]?’
+
+‘Hum honge.’
+
+‘Well, drunkenness ek aisi cheez thi jise humne kaha tha ki unhe avoid karna chahiye. Ek guard aakhri person hai jise drunk hone ki, aur yeh na jaan-ne ki anumati di ja sakti hai ki woh earth par kahan hai.’
+
+‘Haan,’ usne kaha, ‘ek guardian ke liye ek guardian ki zaroorat hona absurd hai.’
+
+‘Unke food ke baare mein kya? Aakhirkar, yeh men hamare liye compete kar rahe hain, kya woh nahi kar rahe hain, sabhi competitions mein sabse mahatvapurna mein?’
+
+‘Haan.’
+
+‘Us case mein, kya vartaman din ke athletes ka diet unke liye sahi cheez hoga [404]?’
+
+‘Yeh well ho sakta hai.’
+
+‘Yeh ek kaafi soporific diet hai,’ maine kaha, ‘aur health point of view se unreliable. Kya aapne dhyan nahi diya ki yeh athletes apni zindagiyon ka zyadatar hissa asleep bitate hain, aur ki agar woh apne prescribed regime se thoda sa bhi depart karte hain, toh woh serious aur acute diseases contract karte hain?’
+
+‘Haan, maine woh dhyan diya hai.’
+
+‘Humein hamare warrior-athletes ke liye regimen ke roop mein thoda kam crude kuch chahiye. Yeh vital hai ki unhe alert hona chahiye, hounds ki tarah, sight aur hearing mein jitna ho sake utna keen, aur capable, jab woh active service par hon, drink aur food ki variety ko tolerate karne ke, extremes of heat, storms, unki health par kisi adverse effect ke bina [b].’
+
+‘Haan, mujhe lagta hai main sehamat hoon.’
+
+‘Well, phir, kya sabse behtareen physical education sister nahi hogi, ek tareeqe se, musical aur poetic education ke jise humne abhi outline kiya hai?’
+
+‘Aapka kya matlab hai?’
+
+‘Yeh physical education hogi, main ise leta hoon, ek simple aur judicious type ki – vishesh roop se kyunki yeh un logon ke liye intended hai jo soldiers hain.’
+
+‘Simple aur judicious kis tareeqe se?’
+
+‘Yeh us tarah ki cheez hai jise aap Homer se seekh sakte the, actually. Heroes ke feasts mein jab woh campaign par hote hain, aapko yaad hai, woh unhe fish par feast nahi karvata – is tathya ke baavjood ki woh Hellespont par hain, right sea ke paas – na hi stewed meat par, balki sirf roast par, jo wahi hai jisse cope karna soldiers sabse aasan paayenge [c]. Aap jahan bhi hon, kam ya zyada, apne sath pots aur pans carry karne se sirf aag ka upayog karna aasan hai.’
+
+‘Yeh nischit roop se hai.’
+
+‘Jahan tak seasonings ka sawaal hai, Homer kabhi bhi, jahan tak mujhe yaad hai, unke baare mein kuch nahi kehta. Sabhi athletes jaante hain, kya woh nahi jaante, ki agar aap chahte hain ki aapki body achhi shape mein ho toh aapko is tarah ki kisi bhi cheez se bachna chahiye?’
+
+‘Woh is baare mein sahi hain,’ usne kaha, ‘aur woh us tarah ki cheez se bachkar achha karte hain.’
+
+‘Phir agar aap sochte hain ki yeh sahi hai, mere dost, Syracusan cuisine aur Sicilian à la carte zaahir taur par aisi cheezein nahi hain jinhe aap approve karte hain [d].
+53
+
+‘Nahi, mujhe nahi lagta ki main unhe approve karta hoon.’
+
+‘Phir aap Corinthian girl friends ko bhi disapprove karte hain un mardon ke liye jo physically achhi shape mein hone wale hain.
+54
+
+‘Definitely.’
+
+‘Attic pastries ke, so-called, delights ke baare mein kya?’
+
+‘Mere paas unhe bhi condemn karne ke alawa koi vikalp nahi hai.’
+
+‘Mujhe shak hai ki agar humne in foods ko, aur is poore regimen ko, us music aur song se likened kiya jo har mode aur sabhi rhythms ka upayog karta hai, toh woh ek accurate comparison hoga [e].’
+
+‘Indeed woh hoga.’
+
+‘Wahan, variety aur luxury ne indiscipline ko bred kiya. Yahan yeh disease ko breed karta hai. Aur jaise music aur poetry mein simplicity ne souls ko self-discipline diya, waise hi physical training mein simplicity bodies ko health deti hai, kya yeh nahi deti?’
+
+‘Yeh absolutely right hai,’ usne kaha.
+
+‘Jaise-jaise lawlessness aur disease ek city mein multiply hote hain, kya lawcourts aur clinics poori jagah khulna shuru nahi ho jaate [405]? Aur jab free men bhi, badi sankhya mein, unhe seriously lena shuru karte hain, kya yeh disciplines atyadhik self-important nahi ban jaate?’
+
+‘Woh kaise fail ho sakte hain?’
+
+‘Aap ek city mein bad, inferior education ka koi clearer evidence nahi pa paayenge, kya aap paayenge, skilled doctors aur judges ki zaroorat se. Aur sirf ordinary manual workers ke beech nahi, balki un logon ke beech bhi jinaki pretensions ek free aur enlightened upbringing ki hain [b]? Kya aap nahi sochte ki yeh ek disgrace hai, aur poor education ka ek sure sign, ek extraneous justice par rely karne ke liye majboor hona – masters ya judges ki – apni khud ki justice ke sense ki kami ke liye?’
+55
+
+‘Sabse bada disgrace possible,’ usne kaha.
+
+‘And yet, kya yeh vaastav mein koi zyada disgraceful hai, kya aap kahenge, us vyakti se jo lawcourts mein defendant ya plaintiff ke roop mein apni life ka bada hissa bitane ke alawa, yeh bhi convinced hai, aisi uski ignorance hai ki kya achha hai, ki crimes commit karne mein uski cleverness, aur uske baad conviction se escape hone aur penalty pay karne se bachne ke liye har evasion aur loophole ka upayog karne ki koshish, vaastav mein self-congratulation ka maamla hai? Aur sab uske sake ke liye jo trivial hai aur kisi mahatva ka nahi, kyunki usne ehsaas nahi kiya ki yeh dekhna kitna finer aur behtar hai ki uski life ek aise juror ko dhoondhne par nirbhar nahi karti jo aadhi-soyi ho [c].’
+
+‘Aap sahi hain,’ usne kaha. ‘Yeh pehle ke example se badtar hai.’
+
+‘Aur kya aap nahi sochte ki yeh ek disgrace hai,’ maine poocha, ‘medical attention ki zaroorat hona, injuries ya kisi seasonal illness ke onset ke parinaamswarup nahi, balki kyunki hamari inactivity, aur ek routine jaise humne varnit kiya hai, ne humein gas aur ooze se bhar diya hai, ek marsh ki tarah, aur Asclepius ke school ke un clever doctors ko hamari diseases ke liye “wind” aur “flux” jaise names invent karne par majboor kiya hai [d]?’
+
+‘Haan, unke paas diseases ke liye sach mein kuch extraordinary new names hain,’ usne kaha.
+
+‘Yeh aisa nahi tha, mera vishwās hai, Asclepius ke samay mein [e]. Main Troy mein uske sons ke baare mein soch raha hoon. Jab Eurypylus wounded hota hai, aur use bahut saare barley sprinkled ke sath Pramnian wine di jaati hai aur uspar cheese grated ki jaati hai – jo vaastav mein ek fever cause karne ki sambhavna rakhti hai – woh us woman ko criticise nahi karte jo use drink deti hai, na hi woh Patroclus mein fault dhoondhte hain, jo treatment ke liye responsible hai [406].’
+
+‘Haan, yeh nischit roop se us condition mein kisi ko dene ke liye ek surprising drink hai.’
+
+‘Jab tak ki aapko yaad na aaye,’ maine kaha, ‘ki yeh Herodicus ke samay tak nahi tha, ya aisa woh kehte hain, ki Asclepius ke school ne modern medicine ko apnaya jo disease ki slave hai. Herodicus ek athletics coach tha jo ek invalid ban gaya [b]. Physical regimen aur medicine ke combination ke sath, usne apni khud ki life ko ek misery banakar shuruat ki, aur phir doosre logon ki lives ko bhi ek misery banane ke liye graduate hua – unke lots ko.’
+
+‘Usne woh kaise kiya?’
+
+‘Apni khud ki death ko itna long-drawn-out business banakar,’ maine kaha. ‘Usne khud ko apni terminal illness ke hawale kar diya – bina kabhi sach mein khud ko cure karne mein manage kiye – aur apni poori life ko patient hone ke business mein poori tarah wrapped up bitaya. Uske paas ek wretched time tha agar woh kisi bhi tareeqe se apne normal routine se depart hota tha, lekin apne gyaan ka upayog khud ko ek hard death dene ke liye karte hue, woh old age tak pahoncha.’
+
+‘Uski skill ke liye ek fine reward,’ usne kaha.
+
+‘Usse zyada nahi jiska woh deserved tha, yeh ehsaas na karne ke liye ki Asclepius ka apne sons ko medicine ki is branch ko explain karne mein failure ignorance ya lack of experience ka result nahi tha [c]. Yeh isliye tha kyunki woh jaanta tha ki kisi bhi well-run society mein har citizen ke paas state mein perform karne ke liye uska apna appointed function hota hai, aur ki koi bhi apni poori life ill hone aur invalid hone mein bitana afford nahi kar sakta. Hum ise recognise karte hain jab yeh street par man hota hai, lekin phir rather absurdly ise un logon ke case mein recognise karne mein fail ho jaate hain jo ameer hain aur supposedly fortunate.’
+
+‘Aapka kya matlab hai?’
+
+‘Jab ek carpenter bimar padta hai,’ maine kaha, ‘toh use doctor se disease ko purge karne ke liye kuch medicine lene mein koi objection nahi hota, ya emetic, ya cauterisation, ya surgery ke saadhan dwara isse chhutkara paane mein [d]. Lekin agar use treatment ka ek lamba course prescribe kiya jata hai, aur use special caps pehenne padte hain,
+56
+us sabke sath jo shamil hai, woh jaldi hi aapko batayega ki woh bimar hona afford nahi kar sakta, aur ki life jeene laayak nahi hai agar use apna saara samay apni illness ke baare mein sochne mein bitana padta hai, aur apne business ko neglect karne mein [e]. Phir woh is tarah ke doctor ko good day kahega, aur apna normal routine resume karega. Agar woh apni health regain karta hai, toh woh apni life ke sath aage badh sakta hai, aur apna kaam kar sakta hai. Agar woh physically bahut kamzor hai, toh woh mar jayega, aur is tarah apni pareshaniyon se escape karega.’
+
+‘Haan, mujhe lagta hai ki us jise kisi ke liye medicine ke prati woh right kind ka attitude hai.’
+
+‘Kyunki uske paas perform karne ke liye ek nishchit function tha,’ maine kaha, ‘aur uski life uske liye kuch bhi worth nahi thi agar woh ise perform nahi kar sakta tha [407]?’
+
+‘Clearly.’
+
+‘Jabki ameer aadmi, hamare drishtikon mein, us tarah ka koi prescribed function nahi rakhta jo life ko jeene laayak nahi banata agar woh ise chhodne ke liye majboor hota hai.’
+
+‘Nahi agar humein un logon par vishwās karna hai jo kehte hain.’
+
+‘Aap obviously Phocylides ke kehne se aware nahi hain, ki ek baar jab aapke paas subsistence ke saadhan hon toh aapko goodness practice karna shuru kar dena chahiye.’
+
+‘Main isse aware hoon,’ usne kaha, ‘lekin mujhe nahi lagta ki logon ko itna lamba intazar karna chahiye.’
+
+‘Well, hum usse us baare mein argue nahi karenge,’ maine kaha. ‘Halanki, yahan ek prashn hai jise hum khud ke liye settle kar sakte hain [b]. Kya goodness practice karna kuch aisa hai jise ameer aadmi ko khud ko devote karna chahiye, aur kya life ek aise ameer aadmi ke liye jeene laayak nahi hai jo khud ko isme devote nahi kar sakta? Ya kya invalid hona carpentry ke liye ek handicap hai, ya kisi doosre art ya skill ke liye, kyunki yeh logon ko unpar concentrate karne se rokti hai, aur phir bhi Phocylides ki advice ko follow karne mein ek impediment nahi hai?’
+
+‘Yeh nischit roop se ek impediment hai,’ usne kaha. ‘In fact, body ke liye yeh exaggerated concern, normal physical exercise se aage jaate hue, sabhi mein se sabse bada impediment hai. Yeh difficulties create karta hai jab aap ek household chala rahe hon, ya military service par hon, ya public office holding karne wale kisi sedentary job mein bhi.’
+
+‘Worst of all,’ maine kaha, ‘yeh ek problem hai jab learning, thought ya self-development ke kisi bhi form ki baat aati hai [c]. Body ke liye concern hamesha ke liye headaches ya dizziness kalpana kar raha hai, aur keh raha hai ki woh philosophy dwara caused hain, taaki jahan bhi yeh dikhta hai, yeh har tareeqe se virtue ke practice aur study ke liye ek impediment hai. Yeh logon ko apna saara samay yeh sochne mein bitane par majboor karta hai ki woh bimar hain. Woh apne bodies ke baare mein worry karna band nahi kar sakte.’
+
+‘Woh mujhe surprise nahi karega,’ usne kaha.
+
+‘Kya hum kehne wale hain, phir, ki yeh bhi kuch aisa hai jisse Asclepius aware tha? Kuch log hain jinaki constitution aur regimen unhe achhi physical health dete hain, lekin jinhone koi identifiable illness contract ki hai [d]. Yeh unke benefit ke liye tha, aur unki situation mein logon ke liye, ki usne medicine ki art sikhayi, unhe unki diseases se rid karne ke liye drugs aur surgery ka upayog karte hue, lekin phir unka normal daily routine prescribe karte hue, civic life mein disruption se bachne ke liye, jabki usne un logon ke liye prescribe karne ki koshish nahi ki jinake bodies internally disease se riddled hain. Usne yahan thoda sa draw off karne, wahan thoda sa pour in karne, aur is tareeqe se mardon ko long aur unpleasant lives dene, aur unhe bachhe produce karne mein saksham banane ki koshish nahi ki, sabhi sambhavnaon mein, khud se alag nahi [e]. Usne un logon ko treat karna galat socha jo daily round mein apni jagah lene mein a-saksham the, in aadharon par ki woh na toh khud ke liye aur na hi city ke liye kuch worth the.’
+
+‘A bit of a statesman, aapka Asclepius.’
+
+‘Woh obviously tha. Aur jahan tak uske children ka sawaal hai – us jise father ke sath – aap dono dekh sakte hain ki unhone field of battle par Troy mein khud ko distinguish kiya, aur ki unhone medicine ko us tareeqe se niyukt kiya jise maine varnit kiya hai [408]. Kya aapko yaad hai ki unhone Menelaus ko us wound ke liye kaise treat kiya jise usne Pandarus se receive kiya tha?
+
+> They sucked the blood,
+> And to the wound applied their soothing herbs.
+> 57
+
+Unhone use yeh batane ki koshish nahi ki ki use baad mein kya khana ya peena chahiye, Eurypylus ko batane ki koshish karne se zyada [b]. Unhone socha ki un mardon ke liye jo wounded hone se pehle achhi health mein the aur ek sober life jee rahe the, unke drugs ek sufficient cure the. Woh turant baad barley aur cheese ka ek posset bhi peete the. Lekin agar koi naturally unhealthy tha, aur ek dissolute life jee raha tha, toh woh uski life ko na toh khud ke liye aur na hi kisi doosre ke liye koi value ka maante the. Woh vishwās nahi karte the ki unki art is tarah ke logon ke liye intended thi, aur unhone unhe treat karne se inkaar kar diya, bhale hi woh Midas se zyada ameer the.’
+
+‘Very enlightened, jis tareeqe se aap unhe describe karte hain, Asclepius ke in sons ko.’
+
+‘Toh unhe hona chahiye,’ maine kaha. ‘Is sabke baavjood, Pindar aur tragedians hamari baat par vishwās nahi karte [c]. Woh kehte hain ki Asclepius Apollo ka son tha, ki gold ke badle usne ek ameer aadmi ko cure kiya jo death ke door par tha, aur ki iske liye use lightning dwara struck kiya gaya tha. Humne abhi tak jo kaha hai woh uske story ke dono parts par vishwās karne ki anumati nahi deta. Agar woh ek god ka son tha, hum kahenge, toh woh mercenary nahi tha. Agar woh mercenary tha, toh woh ek god ka son nahi tha.’
+
+‘Main aapase poori tarah sehamat hoon,’ usne kaha, ‘jahan tak woh jata hai. Lekin ek aur prashn hai jo main aapase poochhna chahunga, Socrates. Humein hamare city mein achhe doctors ki zaroorat hai, kya humein nahi hai? Aur main kalpana karta hoon ki sabse behtareen doctors woh honge jinhone healthy aur sick logon ki sabse badi sankhya ko treat kiya hai [d]. Similarly, sabse behtareen judges woh honge jinhone har tarah ke characters ke sath associate kiya hai.’
+
+‘Humein nischit roop se doctors ki zaroorat hai,’ maine kaha. ‘Achhe walon ki, yaani. Aur kya aap jaante hain ki mujhe kaun lagta hai ki achhe wale hain?’
+
+‘Main jaanunga agar aap mujhe batayenge,’ usne kaha.
+
+‘Main koshish karunga. Lekin aap ek hi prashn mein do kaafi alag cheezon ke baare mein poochh rahe hain.’
+
+‘Aisa kyun hai?’
+
+‘Doctors sabse skilled banenge,’ maine kaha, ‘agar unke earliest years se woh na sirf medicine ki art seekhte hain, balki sabse diseased bodies ki sabse badi sambhavid sankhya ke sath contact mein bhi aate hain, aur agar unhone khud sabhi illnesses se suffer kiya hai, aur apne nature se health se door hain [e]. Iska kaaran, mera vishwās hai, yeh hai ki woh body ko treat karne ke liye body ka upayog nahi karte. Agar woh aisa karte, toh ek doctor ke body ke liye kabhi bhi ek bad condition mein hona, ya khud ko usme lana allowable nahi hota. Nahi, woh body ko treat karne ke liye mind ka upayog karte hain, aur ek aise mind ke liye jo diseased ban gaya hai, aur abhi bhi bad shape mein hai, kisi cheez ko successfully treat karna permitted nahi hai.’
+
+‘True,’ usne kaha.
+
+‘Ek judge, doosri taraf, mind ko rule karne ke liye mind ka upayog karta hai [409]. Toh ek judge ke mind ke liye, uske earliest years se, aise minds ke sath close contact mein paala jana allowable nahi hai jo koi achhe nahi hain, ya iske liye khud ke liye wrongdoings ke sabhi forms mein ek poora course kiya hona, taaki yeh doosron ke wrongdoings se nipatne mein apne khud ke anubhav par aasaani se draw kar sake, ek doctor ki tarah jo body ke apne anubhav par draw karta hai jab woh disease ko treat karta hai. Nahi, agar ise fine aur noble hona hai, aur ek healthy way mein right aur wrong ke questions ko judge karne ke saksham, toh iske paas evil natures ka koi anubhav – koi taint – nahi hona chahiye jab yeh young tha. Yahi kaaran hai ki, jab woh young hote hain, toh jo log morally good hain woh humein naïve lagte hain, aur wrongdoers dwara aasaani se fooled [b]. Unke paas un logon ke behaviour ke corresponding koi internal model nahi hota jo koi achhe nahi hain.’
+
+‘Haan, wahi sateek roop se unke sath hota hai,’ usne kaha.
+
+‘Is kaaran se,’ maine kaha, ‘good judge ko old hona chahiye, young nahi, ek late developer jab injustice ke nature ko discover karne ki baat aati hai. Usne ise kisi internal cheez ke roop mein nahi dekha hoga, apni khud ki soul mein, balki kisi external cheez ke roop mein, doosron ki souls mein. Usne lamba samay ke period mein khud ko us tarah ke evil ko dekhne ke liye train kiya hoga jo injustice hai, theoretical knowledge par rely karte hue, personal experience par nahi.’
+
+‘Haan, woh nischit roop se judges mein sabse noblest kind lagta hai [c].’
+
+‘Aur ek good judge, isse bhi zyada. Woh aapka prashn tha. Aakhirkar, ek good soul ek good person banati hai. Jo person knowing aur distrustful hai, apni khud ki wrongdoing ki ek lambi history ke sath, jo khud ko ek criminal maanta hai, lekin ek clever one, woh apne jaise logon se nipat sakta hai jab woh unse milta hai. Uski wariness usse knowing lagwati hai, kyunki uske paas refer karne ke liye apne khud ke behaviour ka model hai. Lekin jab woh un logon ke contact mein aata hai jo good hain, older people, toh woh kaafi silly lagta hai [d]. Woh bina kaaran distrustful hai, aur ek healthy nature ko recognise nahi kar sakta, kyunki uske paas iska koi model nahi hai. Lekin kyunki woh good se zyada un logon se encounters karta hai jo koi achhe nahi hain, use, khud dwara aur doosron dwara, foolish ke bajaye wise maana jata hai.’
+
+‘Yeh absolutely true hai,’ usne kaha.
+
+‘Us case mein,’ maine kaha, ‘agar hum ek good aur wise judge ki talash kar rahe hain, toh woh hamara man nahi hai. Hum doosra sort chahte hain. Evil kabhi bhi goodness ya khud ko nahi samajh sakta, jabki goodness, agar uske natural gifts education dwara improve kiye jaate hain, toh samay ke sath khud ka aur evil dono ka gyaan haasil kar legi [e]. Toh yadyapi good man wise ban sakta hai, mere drishtikon mein, bad man nahi ban sakta.’
+
+‘Mera drishtikon bhi wahi hai,’ usne kaha.
+
+‘Which case mein, yeh us tarah ki art of judging hai jiske liye aap apne city mein legislate karenge, kya aap nahi karenge, ek art of medicine ke sath us tarah ki jise humne pehle describe kiya tha [410]? Unke beech woh un citizens ke souls aur bodies ki care karenge jo naturally good hain. Jahan tak un logon ka sawaal hai jo good nahi hain, woh physically defective ko marne denge, jabki un logon ko jinaki soul ke incurable faults hain woh khud maut ke ghat utar denge.’
+
+‘Haan. Aakhirkar, ise vicharadhin individuals aur city dono ke liye sabse behtareen cheez dikhaya gaya hai.’
+58
+
+‘Of course, hamare young people clearly law ka sahara lene mein reluctant honge, agar woh simple musical aur poetic education receive karte hain jise humne describe kiya tha, woh jise humne daava kiya tha ki self-discipline bred karti hai.’
+
+‘Haan. Iska kya?’
+
+‘Well, kya right musical aur poetic education wala person physical education ke liye apni hunt mein wahi approach nahi lega [b]? Kya woh end up nahi karega, agar woh aisa chunta hai, emergencies ke alawa medicine se independence haasil karne mein?’
+
+‘Haan, mujhe lagta hai woh karega.’
+
+‘Uski actual physical training, uski exercises, aisi cheezein hain jinhe woh apni nature ke spirited part ko arouse karne ke view se karega apni strength ko develop karne ke bajaye – zyadatar athletes ke vipreet, jinaki diet aur exercise ka aim apni physique ko improve karna hai.’
+
+‘Exactly,’ usne kaha.
+
+‘Us case mein, Glaucon,’ maine kaha, ‘jab log artistic aur physical education ka ek system establish karte hain, kya unka aisa karne ka kaaran usse alag nahi hai jo aam taur par unse attributed kiya jata hai – ki ek body ki care karta hai, aur doosra soul ki [c]?’
+
+‘Kaaran kya hai, phir?’ usne poocha.
+
+‘Mujhe shak hai ki dono mukhya roop se soul ke benefit ke liye establish kiye gaye hain.’
+
+‘Explain karein.’
+
+‘Kya aapne un logon ki mentality ko kabhi observe nahi kiya jo apna saara samay physical education par bitate hain, musical aur poetic education ke exclusion tak? Ya woh jinaka way of life opposite hai?’
+
+‘Aapka dhyan mein kya hai?’
+
+‘Savagery aur hardness, ek case mein [d]. Weakness aur gentleness, doosre mein.’
+
+‘Haan,’ usne kaha, ‘maine dhyan diya hai ki jinaki education purely physical hai woh jitna unhe hona chahiye usse zyada savage nikalte hain. Jo log sirf ek musical aur moral education rakhte hain, doosri taraf, woh unke liye jitna achha hai usse zyada soft ban jaate hain.’
+
+‘Isse bhi zyada,’ maine kaha, ‘fierce element unke nature ke spirited part se aata hai. Correctly brought up, yeh brave hoga, lekin jab ise zaroori se uche pitch tak develop kiya jata hai, toh iske harsh aur unmanageable banne ki sambhavna hoti hai.’
+
+‘Haan, mujhe lagta hai ki woh sahi hai,’ usne kaha.
+
+‘Gentle element ke baare mein kya [e]? Kya yeh wisdom-loving ya philosophical nature ki ek property nahi hai? Undue relaxation ise bahut soft bana deti hai, kya nahi banati, jabki right upbringing ise gentle aur well-behaved banati hai.’
+
+‘Haan.’
+
+‘Guardians ke paas yeh dono natural attributes hone chahiye, hum kehte hain.’
+59
+
+‘Haan, unke paas hone chahiye.’
+
+‘Aur inhein ek doosre ke sath harmonised kiya jana chahiye?’
+
+‘Of course.’
+
+‘Is tareeqe se harmonised person ki soul self-disciplined aur brave hoti hai, kya nahi hoti?’
+
+‘Haan.’
+
+‘Jabki discordant person ki soul cowardly aur uncivilised hoti hai [411]?’
+
+‘Exactly.’
+
+‘Toh agar aap music ko apni soul par play karne ka chance dete hain, aur apne ears ke funnel mein sweet, soft, lamenting modes ko pour karte hain jinake baare mein hum thodi der pehle baat kar rahe the, agar aap apni poori life unhe humming karte hue bitate hain, song dwara bewitched, toh kisi bhi spirit wale nature par pehla effect ise soften karna hota hai, iron ko heat karne ki tarah, ise brittle aur unworkable ke bajaye malleable banate hue [b]. Lekin agar aap regardless press on karte hain, aur isse seduced ho jaate hain, toh agla stage melting hai aur liquid mein badalna – spirit ka complete dissolution. Yeh aapki soul se sinews ko cut kar deta hai, aur ise ek “feeble warrior” mein badal deta hai.’
+60
+
+‘Haan,’ usne kaha.
+
+‘Agar aap ek aisi soul se shuru karte hain jo nature dwara bahut spirited nahi hai,’ maine kaha, ‘toh yeh kaafi jaldi hota hai. Agar aapke paas ek spirited soul hai, toh aap spirit ko weaken karte hain aur ise unstable banate hain – chhotey cheezon dwara aasaani se aroused, aur utne hi aasaani se extinguished [c]. Is jise log spirited hone ke bajaye hot-tempered aur quick to anger ban jaate hain; woh discontent se bhare hote hain.’
+
+‘Woh nischit roop se hote hain.’
+
+‘Us person ke baare mein kya jo apni physical training mein bahut prayas daalta hai, aur ek horse ki tarah khata hai, lekin jiska music ya philosophy se koi lena-dena nahi hai? Pehle, kyunki uski body achhi shape mein hai, kya woh decision aur spirit se bhara nahi hai? Kya woh pehle se zyada brave nahi banta?’
+
+‘Kahin zyada brave.’
+
+‘Lekin maan lijiye wahi sab hai jo woh karta hai. Maan lijiye uska Muse ke sath koi contact nahi hai [d]. Bhale hi uske paas apni soul mein learning ka kuch love tha, ise learning ya enquiry ka koi taste nahi milta, aur uske paas rational argument ya kisi artistic pursuit ka koi anubhav nahi hota. Parinaamswarup, kyunki yeh kabhi nahi jaagta aur iske paas feed karne ke liye kuch nahi hai, aur kyunki iske senses ko purify karne ke liye kuch nahi hai, yeh weak, aur deaf, aur blind ban jata hai, kya yeh nahi banta?’
+
+‘Haan, yeh banta hai,’ usne kaha.
+
+‘Is jisa koi person rational argument ka enemy ban jata hai, mujhe shak hai, aur music aur literature ka enemy. Woh rational argument ka upayog karte hue persuasion ke kisi bhi prayas ko abandon karta hai, aur sab kuch savage violence ke sath karta hai, ek wild animal ki tarah [e]. Woh ignorance aur stupidity mein apni life jeeta hai, grace ya rhythm ke bina.’
+
+‘Haan,’ usne kaha, ‘woh sateek roop se waisa hi hai jaisa woh hai.’
+
+‘Agar aap meri raaye chahte hain, phir, woh do elements jinake liye kisi god ne mankind ko do arts diye hain – ek musical aur poetic, doosra physical – mind aur body lagte hain, ya sirf incidentally, balki unke nature ka spirited part aur philosophical part, taaki inhein appropriate tension aur relaxation ke zariya ek doosre ke sath harmony mein laya ja sake [412].’
+
+‘Haan, woh do elements lagte hain,’ usne kaha.
+
+‘Which case mein, hum perfectly musical aur harmonious ke roop mein us vyakti ko describe karne ke entitled honge jo physical ko musical aur poetic education ke sath sabse behtar combine karta hai, aur jo unhe sabse balanced way mein apni soul mein introduce karta hai. Us vyakti se kahin zyada musical aur harmonious jo kisi instrument ke strings ko tune karta hai.’
+
+‘Very likely, Socrates.’
+
+‘Well phir, Glaucon, kya humein hamare city mein cheezon par nazar rakhne ke liye hamesha is jise kisi ki zaroorat nahi hogi, agar hamara state secure hona hai [b]?’
+
+‘Haan, humein hogi. Yeh hamari sabse badi need hogi.’
+
+‘Education aur upbringing ke patterns ke liye itna hi. Humein unke sath jaane wale dances, hunting aur coursing ke modes, athletic events ya horse races se guzarna nahi padega. Yeh kaafi obvious hai ki inhein patterns se follow karna chahiye, toh inhein discover karne mein ab koi difficulty nahi ho sakti.’
+
+‘Nahi, yeh bataana bahut difficult nahi hoga,’ usne kaha.
+
+‘Very well, phir,’ maine kaha. ‘Agla prashn kya hai jise humein decide karna hai? Kya yeh nahi hai ki in logon mein se kiske dwara rule kiya jana hai, aur kiske dwara ruled hona hai?’
+
+‘Unquestionably.’
+
+‘Kya yeh obvious hai ki rulers older hone chahiye, aur jo ruled hain woh younger [c]?’
+
+‘Haan, yeh hai.’
+
+‘Aur ki rulers unke beech sabse behtareen hone chahiye?’
+
+‘Woh bhi.’
+
+‘Farmers ke beech, kya sabse behtareen wale woh nahi hain jo farmer ke attributes ko sabse zyada possess karte hain?’
+
+‘Haan.’
+
+‘Toh is context mein, kyunki hum guardians mein se sabse behtareen ki talash kar rahe hain, kya unhe woh nahi hona chahiye jo city ke guardian ke attributes ko sabse zyada possess karte hain?’
+
+‘Haan.’
+
+‘Aur is purpose ke liye, kya unhe wise, powerful aur sabse upar city ke prati devoted hona padega?’
+
+‘Unhe padega [d].’
+
+‘Aur log us cheez ke prati sabse zyada devoted hote hain jise woh love karte hain.’
+
+‘Bound to be.’
+
+‘Aur woh us cheez ko sabse zyada love karte hain jise woh apne jaisi same interests rakhne wali vishwās karte hain, woh cheez jiska success ya failure woh sochte hain ki unke apne success ya failure mein result karta hai.’
+
+‘True,’ usne kaha.
+
+‘Phir humein guardians mein se un mardon ke kind ko select karna chahiye jo examination par humpar sabse strongly strike karte hain, unki poori lives ke zariya, city ke interests mein jo hai use karne ke liye poori tarah determined ke roop mein, aur iske interests ke khilaf kisi bhi tareeqe se act karne se inkaar karne wale ke roop mein [e].’
+
+‘Haan, woh woh log hone chahiye jinhe hum chahte hain.’
+
+‘Mujhe lagta hai humein sabhi ages mein unhe observe karna chahiye, yeh sunishchit karne ke liye ki woh is belief ke guardians aur defenders hain, aur ki na toh magic na hi force unhe bhula sakti hai, aur unke is conviction ke jettison karne par majboor kar sakti hai ki unhe wahi karna chahiye jo city ke liye sabse behtar hai.’
+
+‘Aapka is jettisoning se kya matlab hai?’ usne poocha.
+
+‘Main aapko bataunga,’ maine kaha. ‘Mujhe lagta hai hamari minds ek belief ko ya toh hamari consent ke sath ya hamari consent ke bina khoyegi [413]. Hamari consent ke sath jab yeh ek false belief hai aur hum behtar seekhte hain. Hamari consent ke bina sabhi true belief ke case mein.’
+
+‘Main us loss ko samajhta hoon jo hamari consent ke sath hai, lekin woh loss jo hamari consent ke bina hai mujhe unke dwara explain kiye jaane ki zaroorat hai.’
+
+‘Really? Kya aap mujhse sehamat nahi hain ki jo good hai woh logon se sirf unki consent ke bina chhina ja sakta hai, jabki jo bad hai woh unki consent ke sath chhina jata hai? Kya truth ke baare mein deceived hona kuch bad nahi hai, aur truth ko jaan-na kuch good? Aur kya aap nahi sochte ki ek aisa belief rakhna jo cheezon ke hone ke tareeqe se agree karta hai truth ko jaan-na hai?’
+
+‘Aap sahi hain. Jab log ek true belief khote hain, toh yeh unki consent ke bina hota hai.’
+
+‘Aur kya woh theft, ya magic, ya force ka prashn hai [b]?’
+
+‘Once again, mujhe darr hai, mujhe nahi dikhta ki aapka kya matlab hai.’
+
+‘Main khud ko ek tragic poet jitna clear bana raha lagta hoon,’ maine kaha. ‘Theft se mera matlab un logon se hai jinhe apna mind badalne ke liye baat ki jaati hai, aur jo log bhool jaate hain. Ya toh time ka passage ya argument ka koi process unke belief ko unke ehsaas ke bina le jata hai. Aap ab dekhte hain ki mera kya matlab hai, mujhe umeed hai?’
+
+‘Haan.’
+
+‘Force se mera matlab un logon se hai jinhe pain ya grief unke beliefs ko badalne ka kaaran banta hai.’
+
+‘Haan, main use bhi samajhta hoon,’ usne kaha. ‘Aur main sehamat hoon.’
+
+‘Jahan tak magic ka sawaal hai, aap accept karenge, main kalpana karta hoon, ki aise log hain jinake beliefs badalte hain kyunki woh pleasure dwara seduced hote hain, ya kyunki wahan koi aisi cheez hai jisse woh darte hain [c].’
+
+‘Haan, sabhi cheezein jo humein deceive karti hain woh magic ka ek form lagti hain.’
+
+‘Toh jaise maine abhi kaha tha,
+61
+humein un logon ki talash karni chahiye jo apne conviction ke sabse behtareen defenders hain ki kisi bhi situation mein unhe wahi karna chahiye jo woh sochte hain ki unke dwara kiye jaane ke liye city ke best interests mein hai. Unki earliest childhood se humein unhe watch karna chahiye, aur unhe us tarah ke tasks set karne chahiye jo unhe is aim se sabase aasaani se sight lose karwa sakein, aur astray lead kar sakein [d]. Phir humein un logon ko chunna chahiye jo apne aim ko yaad rakhte hain aur aasaani se astray led nahi hote. Jo astray led hote hain unhe humein reject kar dena chahiye, kya humein nahi karna chahiye?’
+
+‘Haan.’
+
+‘Second type ke test ke roop mein humein unhe hardship, pain, aur trials dene chahiye, aur un sabhi mein un characteristics ki talash karni chahiye jinhe hum chahte hain.’
+
+‘Correct,’ usne kaha.
+
+‘Phir hamare paas ek third type ka test hona chahiye – magic ke liye ek test – aur unke unpar reactions ko watch karna chahiye. Unche aur confused noises ke paas young colts ko le jaane wale logon ki tarah, yeh pata lagane ke liye ki kya woh aasaani se frightened hote hain, humein apne guardians ko, jab woh young hon, pehle danger aur phir pleasure se expose karna chahiye [e]. Humein unhe fire mein gold ki tarah test karna chahiye, sirf usse zyada. Kya yeh person har situation mein magic se immune aur grace se endowed ke roop mein stand out karta hai? Kya woh apna aur receive kiye gaye musical education ka ek achha guardian hai? Kya woh un sabhi tests mein rhythm aur harmony ki qualities dikhata hai jinhe hum uske liye set karte hain? Kya woh us tarah ka person hai jo khud ke liye aur city ke liye sabse bada use hoga? Hamare children se, hamare young aur grown men se, woh jo constant testing ke tehat pure ke roop mein emerge hota hai wohi hai jise hamare city ke ruler aur guardian ke roop mein appoint kiya jana chahiye [414]. Humein uspar honours heap karne chahiye, life mein aur death mein, aur jab burial aur doosre memorials ki baat aati hai toh use sabse bade tributes receive karne chahiye. Jo tests mein fail hota hai use humein reject kar dena chahiye. Well, Glaucon, rulers aur guardians ke selection aur appointment par mere views ke liye itna hi. Yeh sirf ek general outline hai, of course, precise specification nahi.’
+
+‘Mujhe lagta hai mere views aapke jaisi hi hain,’ usne kaha.
+
+‘Us case mein, kya yeh log vaastav mein woh log nahi hain jinhe sabse accurately full guardians kaha ja sakta hai – yeh sunishchit karte hue ki andar ke friends ise harm nahi karna chahte, aur baahar ke enemies ise harm karne mein saksham nahi hain [b]? Young people jinhe hum abhi tak guardians keh rahe the hum auxiliaries keh sakte hain,
+62
+rulers ke beliefs ke defenders.’
+
+‘Main sehamat hoon.’
+
+‘Us case mein,’ maine kaha, ‘hum un necessary falsehoods mein se ek ka upayog karne ka contrive kaise kar sakte hain jinake baare mein hum thodi der pehle baat kar rahe the? Hum ek single, grand lie chahte hain jispar har kisi dwara vishwās kiya jayega – ideally rulers dwara bhi, lekin usme fail hone par city ke baaki dwara [c].’
+63
+
+‘Aapka kis tarah ki cheez se matlab hai?’
+
+‘Phoenician origin ki ek bahut hi familiar story. Yeh past mein hua hai, kai jagahon par. Toh poets humein batate hain, aur unhe believers mile hain. Lekin yeh hamare samay mein nahi hua hai, aur main yeh bhi nahi jaanta ki kya yeh ho sakta tha. Log bahut saare persuading lenge.’
+
+‘Aap apni story batane ke liye thode reluctant lagte hain,’ usne kaha.
+
+‘Good reason ke sath – jaise aap dekhenge jab main aapko batata hoon.’
+
+‘Don’t worry,’ usne kaha. ‘Isse batao.’
+
+‘Very well [d]. Main bataunga. Yadyapi main nahi jaanta ki mere paas nerve kaise hogi, ya sahi shabd kaise paunga. Mujhe sabse pehle khud rulers aur soldiers ko persuade karne ki koshish karni hai, aur phir city ke baaki logon ko, ki poora upbringing aur education jo humne unhe diya, unka iska poora experience unke sath hone ka, aakhirkar merely ek dream tha, kuch aisa jise unhone kalpana kiya, aur ki reality mein unhone woh samay earth ke andar gehrai mein formed aur raised hone mein bitaya – khud, unke weapons aur equipment ka baaki hissa jo unke liye banaya gaya tha [e]. Jab unhe banane ka process complete hua, toh earth unki mother ne unhe release kar diya, aur ab yeh unka duty hai us country ko defend karne ke liye responsible hona jismein woh rehte hain kisi bhi attack ke khilaf – jaise woh apni mother ya nurse ko defend karenge – aur city ke baaki logon ko earth se born apne brothers ke roop mein maanna.’
+
+‘Koi hairani nahi ki aap humein apni lie batane ke baare mein itne embarrassed the.’
+
+‘Haan, mere paas achha kaaran tha,’ maine kaha [415]. ‘Lekin aapko story ke second half ko bhi sunna chahiye. “Aap sabhi brothers hain,” hamari story unhe batayegi, “city mein aap sabhi. Lekin jab god ne aapko banaya, toh usne aapme se unke creation mein gold ka ek mixture upayog kiya jo rulers banne ke liye fit the, yahi kaaran hai ki woh sabse moolyavan hain. Usne un logon ke liye silver ka upayog kiya jo auxiliaries banne wale the, aur farmers aur skilled workers ke baaki logon ke liye iron aur bronze. Zyadatar samay aap apne jaisi same type ke children father karenge, lekin kyunki aap sabhi related hain, kabhi-kabhi ek silver child ek golden parent se paida ho sakta hai, ya ek golden child ek silver parent se, aur likewise kisi bhi type se koi bhi doosra type [b]. Pehla aur sabse mahatvapurna instruction jo god rulers ko deta hai woh yeh hai ki jis cheez ke woh sabse behtareen guardians hone chahiye, jis cheez par unhe sabse dhyan se nazar rakhni chahiye, woh children ki souls mein in metals ka compound hai [c]. Agar unka apna child usme bronze ya iron ke mixture ke sath paida hota hai, toh unhe uske liye kisi tarah ki pity feel nahi karni chahiye, balki use society mein woh position deni chahiye jiska uska nature deserves karta hai, use skilled workers ya farmers mein shamil hone ke liye baahar dhakelte hue. Doosri taraf, in groups se gold ya silver ke mixture ke sath paida hone wale kisi bhi children ko recognition di jaani chahiye, aur ya toh guardian ki position par promote kiya jana chahiye ya auxiliary ki position par. Wahan ek prophecy hai, god unhe batata hai, ki city ka end tab aayega jab iron ya bronze iska guardian ban jayega.”
+64
+Well, woh story hai. Kya aap logon ko ispar vishwās karvane ka koi sambhavid tareeqa soch sakte hain?’
+
+‘Nahi,’ usne kaha [d]. ‘Un actual logon ko nahi jinhe aap yeh batate hain. Lekin unke children kar sakte hain, aur unke baad unke children, aur baad ke generations mein population ka baaki hissa.’
+
+‘Yeh bhi unhe city aur ek doosre ke baare mein zyada care karne mein madad kar sakta hai. Mujhe lagta hai main dekh sakta hoon ki aap kya keh rahe hain. Anyway, ise popular belief aur tradition ki tarah hone dein. Hamara job ab hamare in earth-born warriors ko arm karna hai, aur unhe aage le jana hai, rulers ke unke head par hone ke sath. Unhe jaane dein aur city mein unke camp ko rakhne ke liye sabse behtareen jagah dhoondhne dein, ek aisi jagah jahan se woh apne khud ke citizens ko sabse aasaani se control kar sakein, agar unmein se koi laws ka palan karne se inkaar karta hai, ya kisi external threats ko repel kar sakein, kisi enemy ke unpar aane ke event mein “fold par wolf ki tarah [e].” Jab unhone apna camp set up kar liya hai, toh woh appropriate gods ko sacrifice kar sakte hain, aur phir apne sleeping accommodation ko organise kar sakte hain. Kya woh sahi lagta hai?’
+
+‘Haan,’ usne kaha.
+
+‘Kya yeh us tarah ka accommodation hona chahiye jo unhe winter aur summer dono mein adequate shelter dega?’
+
+‘Of course. Yeh unka home hai jiske baare mein aap baat kar rahe hain, main ise leta hoon.’
+
+‘Haan,’ maine kaha [416]. ‘Lekin soldiers ke liye fit ek home, businessmen ke liye nahi.’
+
+‘Aapke drishtikon mein antar kya hai?’
+
+‘Main aapko batane ki koshish karunga. Jab shepherds apne flocks ke protectors ke roop mein dogs breed kar rahe hote hain, toh sabse badtar sambhavid disaster aur disgrace, main kalpana karta hoon, aise dogs breed karna hai jinaka nature aur training aisi hai ki indiscipline, hunger ya character ka koi fault unhe khud sheep par attack karne ki koshish karne par le jata hai, aur dogs ke bajaye wolves ki tarah behave karna shuru karwa deta hai.’
+
+‘Haan, of course woh ek disaster hai.’
+
+‘Us case mein humein har tareeqe se guard karna chahiye hamare auxiliaries ke citizens ke sath same sort ki cheez karne ke khilaf [b]. Aakhirkar, woh citizens se zyada strong hain. Hum nahi chahte ki woh friendly allies ke bajaye savage masters ki tarah behave karein.’
+
+‘Haan, humein uske khilaf guard karna chahiye,’ usne kaha.
+
+‘Kya unke liye iske khilaf sabse behtareen insurance sach mein ek achha education receive karna nahi hoga?’
+
+‘Lekin unhone ek receive kiya hai,’ usne kaha.
+
+Aur maine kaha, ‘Hum us baare mein sure nahi ho sakte, mere pyare Glaucon. Jis baare mein hum sure ho sakte hain woh wahi hai jo hum abhi keh rahe the, jo yeh hai ki jab gentleness ki baat aati hai – dono khud ke prati aur unke protection ke tehat walon ke prati – toh right education, jo kuch bhi woh ho sakti hai, key hai [c].’
+
+‘Haan, hum us baare mein sure hone mein sahi hain.’
+
+‘Is education ke alawa, ek intelligent observer keh sakta hai, guardians ko housing aur living ke ek general standard ke sath furnished kiya jana chahiye jo unhe sabse behtareen sambhavid guardians banne se nahi roke ga, aur jo unhe citizens ke baaki ke sath unke dealings mein wrong karne ke liye koi encouragement nahi dega [d].’
+
+‘Woh woh keh sakta hai. Aur woh kaafi sahi hoga.’
+
+‘Well, phir,’ maine kaha, ‘kya aap jis tareeqe se unhe rehna aur housed hona chahiye us baare mein kuch suggestions se agree karte hain agar hum chahte hain ki woh is jise hon? Pehle sthaan par, kisi ke paas koi private property nahi honi chahiye usse pare jo absolutely essential hai. Doosre, kisi ke paas us tarah ka house ya storeroom nahi hona chahiye jismein koi bhi pravesh na kar sake jo aisa feel karta hai. Unke subsistence ke liye, jo self-disciplined aur courageous warrior-athletes ke needs ko poora karna chahiye, unhe citizens ke baaki par ek levy thopna chahiye, aur guardians ke roop mein apni role ke liye ek annual payment receive karni chahiye jo unhe na toh surplus aur na hi deficiency ke sath chhodti hai [e]. Unhe ek communal life jeeni chahiye, camp mein soldiers ki tarah ek sath khate hue. Jahan tak gold aur silver ka sawaal hai, unhe bataya jana chahiye ki unke paas pehle se hi apni souls mein, poora samay, gods dwara unhe diya gaya divine gold aur silver hai. Unhe iske alawa human gold ki koi zaroorat nahi hai, aur unke paas maujood divine gold ko perishable gold ka mixture jodkar contaminate karna sacrilege hai, kyunki ordinary logon ke beech circulation mein gold kai evil ka kaaran raha hai, jabki unka apna gold pure hai [417]. Unhe akele, city ki population mein se, gold ya silver ko handle ya touch karne, ya same roof ke neeche hone, ya ise jewellery ke roop mein pehenne, ya gold ya silver cups se peene se forbidden hai. Is tareeqe se woh safe rakhe jaayenge, aur woh city ko safe rakhenge. Ek baar jab woh apni khud ki land, houses, aur money acquire karna shuru karte hain, toh woh guardians ke bajaye householders aur farmers ban chuke honge. Doosre citizens ke allies hone se woh hostile masters mein badal jaayenge. Woh apni poori lives hating aur hated hone mein bitayenge, plotting aur plotted against hone mein [b]. City ke andar ke enemies ke unke fears outside ke enemies ke unke fears se kahin zyada numerous aur zyada acute honge. Woh khud aur city dono imminently destruction ki taraf poori speed se head kar rahe honge. In sabhi kaaranon se, kya hum kehne wale hain ki hamare guardians ko us housing aur way of life se provided kiya jana hai jise humne describe kiya hai? Kya yeh woh laws hain jinhe humein enact karna chahiye, ya nahi?’
+
+‘Woh nischit roop se hain,’ Glaucon ne kaha.
