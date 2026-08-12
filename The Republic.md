@@ -1,14 +1,14 @@
 # Book 1
 
-### 1
+  1
 
 Main kal Ariston ke bete Glaucon ke sath Piraeus gaya tha, goddess [327] se prayer karne ke liye.
 
-### 2
+  2
 
 Saath hi main festival dekhna chahta tha, yeh dekhne ke liye ki woh ise kaise conduct (aayojit) karenge, kyunki yeh pehli baar tha jab ise celebrate kiya ja raha tha.
 
-### 3
+  3
 
 Athenians ki parade mujhe bahut excellent lagi, aur Thracians dwara lagaya gaya show bhi utna hi impressive (prabhavshali) tha, maine socha. Humne apni prayers offer kin, festival dekha, aur phir town [b] ki taraf apni wapsi ki journey shuru ki. Hum pehle se hi apne ghar ke raste par the jab humein Cephalus ke bete Polemarchus ne dekha. Usne apne slave ko hamare peeche daudne aur humse unka intazar karne ke liye bolne ko kaha. Slave ne peeche se mere cloak ko khincha, aur kaha, ‘Polemarchus kehta hai ki aap unka intazar karein.’ Main peeche muda, aur usse poocha ki uska master kahan hai.
 
@@ -46,11 +46,11 @@ Kuch hi moments mein Polemarchus Glaucon ke bhai Adeimantus, Nicias ke bete Nice
 
 Toh hum Polemarchus ke ghar wapas gaye, jahan humein Polemarchus ke bhai Lysias aur Euthydemus mile – saath hi Chalcedon ke Thrasymachus, Paeania deme
 
-### 4
+  4
 
 ke Charmantides, aur Aristonymus ke bete Cleitophon. Wahan, ghar mein, Polemarchus ke pita Cephalus [c] bhi the. Mujhe unhe dekhe hue bahut samay ho gaya tha, aur maine unhe kaafi boorha paaya. Woh ek garland (mala) pehne hue the, aur ek cushioned stool par baithe the. Woh abhi courtyard mein ek sacrifice conduct (aayojan) karke hate the.
 
-### 5
+  5
 
 Unke charon taraf stools ka ek circle tha, toh hum unke sath baith gaye.
 
@@ -58,13 +58,13 @@ Jaise hi unhone mujhe dekha, Cephalus ne mera welcome (swagat) karna shuru kiya.
 
 ‘Badi khushi ke sath, Cephalus,’ maine jawab diya [e]. ‘Mujhe bahut boorhe logon se baat karna pasand hai. Yeh aisa hai jaise woh us raste par humse bahut aage hain jispar humein bhi shayad travel (yatra) karna padega. Mujhe lagta hai ki humein unse seekhna chahiye ki rasta kaisa hai – kya yeh steep (dhalandar) aur rough (khardura) hai, ya gentle (saamanya) aur easy (aasan). Vishesh roop se, main yeh sunna bahut pasand karunga ki yeh aapko kaisa lagta hai, ab jabki aap vaastav mein jeevan ke us samay par pahonch gaye hain jise poets “old age, the threshold (dehleez)” kehte hain.
 
-### 6
+  6
 
 Ispar aapki kya report hai? Kya aap ise jeevan ka ek kathin samay kahenge?’
 
 ‘Main aapko sateek roop se bataunga ki yeh mujhe kaisa lagta hai, Socrates [329]. Hamara ek group hai jo kaafi aksar milta hai. Hum sabhi lagbhag ek hi umar ke hain, toh hum purani proverb (kahavat) ke shabdon ka palan kar rahe hain.
 
-### 7
+  7
 
 Jab hum milte hain, toh unmein se zyadatar complain (shikayat) karna shuru kar dete hain; woh kehte hain ki woh un cheezon ko miss karte hain jinhe woh jawani mein enjoy karte the, aur woh apne sexual exploits (kaarnamon), apne drinking, apne feasting (daawaton), aur un pleasures se judi har cheez ko recall (yaad) karte hain. Woh upset ho jaate hain, jaise ki unhe koi bada loss (nuksan) hua ho – jaise tab unhone ek shaandar jeevan jiya tha, jabki ab woh zinda hi nahi hain [b]. Unmein se kuch old age ke prati unke families dwara dikhaye gaye respect ki kami ke baare mein bhi complain karte hain, aur is heading ke tehat woh old age ke khilaf grievances (shikayaton) ki ek litany (lambi list) recite karte hain. Mujhe lagta hai ki woh galat jagah par blame (dosha) laga rahe hain, Socrates. Agar old age blame ke laayak hoti, toh na sirf maine old age ke baare mein waisa hi mahsoos kiya hota, balki har us vyakti ne bhi kiya hota jo kabhi is umar tak pahoncha hai. Aur phir bhi main kai aise logon se mila hoon jo aise nahi hain – sabse vishesh roop se poet Sophocles. Main wahan ek baar tha jab kisi ne unse poocha, “Aapki sex life kaisi hai, Sophocles [c]? Kya aap abhi bhi kisi mahila se love karne ke capable (saksham) hain?”
 
@@ -92,7 +92,7 @@ Main unke kahe se bahut impressed (prabhavit) hua, aur main chahta tha ki woh bo
 > Men’s wayward minds, accompanies his heart
 > And so protects him.
 
-### 8
+  8
 
 Woh sahi hain – isse zyada sahi nahi ho sakte the. Aur yahi wajah hai ki main paise ke kabze ko sabse bada importance (mahatva) deta hoon [b]. Har kisi ke liye nahi, balki achhe character ke logon ke liye. Agar aap logon ko defraud (dhokha) karne, ya unse jhooth bolne se bachna chahte hain, chahe kitne bhi reluctantly (ani chha se), ya apni denadariyon ko chukaane mein asafal hone ke baad terror (darr) ki sthiti mein neeche ki duniya mein jaane se – chahe kisi god ko sacrifices hon, ya kisi man ko paisa – toh paise ka kabza is end (lakshya) mein koi chhote paimane par yogdan nahi deta hai. Beshak iske kai doosre upayog bhi hain, lekin ek cheez ko doosri ke khilaf weigh (tole) karte hue main ise kisi bhi samajh wale vyakti ki aankhon mein, paise ke sabse mahatvapurna upayogon mein se ek rate (dharadharit) karunga.’
 
@@ -114,7 +114,7 @@ Woh sahi hain – isse zyada sahi nahi ho sakte the. Aur yahi wajah hai ki main 
 
 ‘Ki har kisi ko woh chukaana just (nyaypoorn) hai jo uska baaki hai.
 
-### 9
+  9
 
 Wahi woh kehta hai, aur mujhe lagta hai ki woh sahi hai.’
 
@@ -212,7 +212,7 @@ Wahi woh kehta hai, aur mujhe lagta hai ki woh sahi hai.’
 
 ‘All right [b]. Kya just man draughts
 
-### 10
+  10
 
 mein moves banane ki baat aane par ek achha aur upayogi partner hai? Ya kya koi aisa vyakti jo draughts kheilta hai zyada upayogi hoga?’
 
@@ -244,7 +244,7 @@ mein moves banane ki baat aane par ek achha aur upayogi partner hai? Ya kya koi 
 
 ‘Toh yeh tab hai jab paisa useless (bakar) hai ki justice isse nipatne ke liye upayogi hai [d]
 
-### 11
+  11
 
 ?’
 
@@ -287,7 +287,7 @@ mein moves banane ki baat aane par ek achha aur upayogi partner hai? Ya kya koi 
 > In swearing oaths and thieving he surpassed
 > All men.
 
-### 12
+  12
 
 Justice, aapke aur Homer aur Simonides ke anusar, zaahir taur par chori karne ki ek tarah ki art hai – lekin apne doston ki madad karne aur apne dushmanon ko nuksan pahonchane ke drishtikon se. Kya aapne wahi nahi kaha tha?’
 
@@ -363,7 +363,7 @@ Justice, aapke aur Homer aur Simonides ke anusar, zaahir taur par chori karne ki
 
 ‘Lekin kya justice ek manav excellence nahi hai?’
 
-### 13
+  13
 
 ‘Dobara, ise hona padega.’
 
@@ -427,7 +427,7 @@ Oonchi aur saaf aawaz mein bolte hue, Thrasymachus ne kaha: ‘Yeh kya nonsense 
 
 Main is intervention (hakshep) se dismayed tha. Maine use dekha, aur panic karne laga. Aur mujhe yakin hai, agar maine wolf (bhediye) ko use mere dekhne se pehle na dekha hota, toh main dumb (be-aawaz) ho gaya hota.
 
-### 14
+  14
 
 Jaisa ki yeh tha, halanki, maine vaastav mein use pehle dekha tha – us point par jahan woh discussion se infuriated (gussa) hona shuru hua tha [e]. Parinaamswarup, main jawab dene mein saksham tha. ‘Hamse gussa mat ho, Thrasymachus,’ maine kaha, kuch apprehension ke sath. ‘Agar Polemarchus aur main arguments ke hamare examination mein mistakes kar rahe hain, main aapko assure karta hoon ki hum unhe uddeshya se nahi kar rahe hain. Agar hum gold dhoondh rahe hote, toh hum khoj mein ek doosre ko jaan-boojhkar rasta nahi dete, aur is tarah ise paane ke apne chances ko nasht nahi karte. Toh kyunki hum vaastav mein jo dhoondh rahe hain woh justice hai, gold ki ek badi matra se zyada moolyavan cheez, aap kalpana nahi kar sakte ki hum itne stupid hain ki ek doosre ko concessions dein, aur ise jitna ho sake saaf taur par view mein lane ke liye dhrid-sankalpit na hon. Humpar vishwas karo, mere dost. Pareshani yeh hai ki humme ability (kshamta) ki kami hai [337]. Toh jab aap chatur log hamare prayason ko dekhte hain, toh pity (daya) vaastav mein annoyance (chidchidahat) se kahin zyada appropriate reaction hai.’
 
@@ -445,7 +445,7 @@ Yeh Thrasymachus se ek a-priya hasi laya. ‘Oh mere god,’ usne kaha, ‘main 
 
 ‘Kya hoga agar main aapko justice ke baare mein ek aisa jawab doon jo un sabhi doosre jawabon se poori tarah alag hai, unse kahin behtar jawab [d]? Aap kya sochte hain ki aapka penalty (dand) kya hona chahiye?’
 
-### 15
+  15
 
 ‘Well, obviously, kisi aise vyakti ke liye appropriate penalty jo nahi jaanta. Ise seekhna chahiye, main ise leta hoon, us vyakti se jo jaanta hai.’
 
@@ -467,7 +467,7 @@ Is appeal ke baad, Glaucon aur baaki ne unse waisa hi karne ki bheekh maangi jai
 
 ‘Haan, main doonga – jaise hi main samajhta hoon ki aapka kya matlab hai. Vartaman mein main abhi bhi nahi jaanta. Stronger ke liye kya achha hai, aap kehte hain, just hai. Aapka isse kya matlab hai, Thrasymachus? Agar Polydamas all-in wrestler humse stronger hai, aur beef khana uski body ko build karne ke liye achha hai, toh aap zaahir taur par yeh matlab nahi rakhte ki yeh khana hamare liye bhi achha – aur right
 
-### 16
+  16
 
 – hai jo usse weaker hain [d].’
 
@@ -575,7 +575,7 @@ Is appeal ke baad, Glaucon aur baaki ne unse waisa hi karne ki bheekh maangi jai
 
 ‘Aur inmein se har ek ke liye, kya koi cheez hai jo uske liye achhi hai?’
 
-### 17
+  17
 
 ‘Certainly.’
 
@@ -633,27 +633,27 @@ Argument mein is point par har kisi ko spasht tha ki justice ki definition iske 
 
 ‘Aap aisa kalpana karte lagte hain ki shepherds, ya herdsmen, apni bhedon ya unke maveshiyon ke achhe ke baare mein soch rahe hain – ki woh unhe apne masters aur khud ke achhe ke alawa kisi doosre end ke sath fatten up kar rahe hain aur unki dekhbhal kar rahe hain [b]. Vishesh roop se, aapko ehsaas nahi hota lagta ki cities mein rulers – true sense mein rulers – apne subjects ko apni bhedon ke roop mein dekhte hain, aur ki akeli cheez jismein woh interested hain, din aur raat, woh yeh hai ki woh khud unse kya benefit nikaalne wale hain [c].
 
-### 18
+  18
 
 Just aur justice mein, aur unjust aur injustice mein aap aise expert hain, ki aapne yeh bhi nahi pakda hai ki justice aur just vaastav mein kisi aur ke liye kya achha hai – stronger, ruler ke liye achha – jabki jo palan karta hai aur follow karta hai uske liye, unka matlab khud ke liye nuksan hai. Injustice opposite hai. Yeh un logon par rule karti hai jo truly simple-minded hain, just, aur iske subjects woh karte hain jo us doosre vyakti ke liye achha hai – jo stronger hai. Woh uski seva karte hain, aur use khush karte hain [d]. Woh khud ko bilkul khush nahi karte.
 
 ‘Aap is nishkarsh se bach nahi sakte, mere simple-minded Socrates, ki ek just man har sthiti mein ek unjust se badtar nikalta hai. Contracts ko lein, shuruat ke liye, jahan ek just man ek unjust ke sath partnership mein jata hai. Jab partnership dissolve hoti hai, toh aap kabhi bhi just man ko unjust se behtar sthiti mein nahi paayenge. Nahi, woh badtar sthiti mein hoga. Ya public life ke baare mein sochein. Jab state ko pay kiye jaane wale vishesh levies hote hain, toh just man same resources se zyada contribute karta hai, aur unjust man kam.
 
-### 19
+  19
 
 Jab state dwara distributions kiye jaane wale hote hain, toh just man ko kuch nahi milta, jabki unjust man ek fortune (daulat) banata hai [e]. Ya maan lijiye unmein se har ek koi public office sambhalta hai. Just man ke liye outcome, bhale hi woh koi doosra nuksan na sahe,
 
-### 20
+  20
 
 yeh hai ki uski apni financial position deteriorate (kharab) ho jaati hai, kyunki woh ispar dhyan nahi de sakta, jabki yeh tathya ki woh ek just man hai use public funds se kuch bhi paane se rokta hai. Iske upar, woh apne doston aur acquaintances ke sath bahut unpopular ho jata hai jab woh unhe koi favour karne ke liye unjust way mein kaam karne se inkaar karta hai. Unjust man ke liye outcome bilkul opposite hai [344]. Mera matlab, of course, us aadmi se hai jise main abhi varnit kar raha tha, woh aadmi jiske paas bade paimane par selfish hone ki ability hai. Woh sochne ke liye ek hai, agar aap is extent ka moolyankan karna chahte hain jispar uske liye, ek private individual ke roop mein, just hone se unjust hona behtar hai.
 
 ‘Sabse aasan jagah dekhne ke liye yeh hai agar aap injustice ke sabse complete form ko dekhte hain, jo use abhyas karne wale vyakti ke liye sabse badi khushi laata hai, aur un logon ke liye sabse badi misery (dukh) jo ise anubhav karte hain, woh log jo ise khud abhyas karne ke liye taiyar nahi honge. Isse mera matlab tyranny hai, jo doosre logon ke kabze ko leti hai – cheezein jo sacred hain aur cheezein jo nahi hain – gupt roop se aur khule force dwara dono. Yeh ise piecemeal nahi balki wholesale karti hai, yadyapi jo koi bhi in crimes mein se kisi ek ko apne aap karte hue pakda jata hai use saja di jaati hai aur poori tarah se disgraced kiya jata hai [b]. Temple-robbers,
 
-### 21
+  21
 
 kidnappers, burglars, pickpockets aur thieves, agar woh wrongdoing ke individual acts karte hain, toh unke crimes ke naamon se jaane jaate hain. Lekin jo khud citizens ko seize aur enslave karte hain, aur sirf unki property ko nahi, unhe reproach ke in terms dwara nahi bulaya jata. Unhe blessed aur happy kaha jata hai, unke fellow-citizens dwara aur har kisi dwara jo unke dwara abhyas ki gayi wholesale injustice ke baare mein sunta hai [c]. Jo log injustice ki ninda karte hain woh ise abhyas karne ke darr se nahi, balki ise anubhav karne ke darr se karte hain. Wahan aap hain, Socrates. Injustice ek aisi cheez hai jo justice se zyada majboot, zyada free aur zyada powerful hai, jab tak ki ise kaafi bade paimane par abhyas kiya jata hai. Toh jaise maine pehle sthaan par kaha tha,
 
-### 22
+  22
 
 justice vaastav mein stronger ke liye kya achha hai woh hai, jabki injustice khud ke liye kya profitable aur achha hai woh hai.’
 
@@ -667,7 +667,7 @@ Thrasymachus is outburst ke baad jaane ki planning kar raha tha, hamare kaanon k
 
 ‘God forbid,’ maine jawab diya. ‘Nahi, lekin pehle sthaan par, agar aap kuch kehte hain, toh jo aapne kaha hai uspar tike rahein. Ya agar aap apna ground badalte hain, toh khule taur par aisa karein [c]. Hamare dhyan diye bina aisa karne ki koshish mat karein. Vartaman mein, Thrasymachus, agar hum apni pehle ki discussion par ek aur nazar daal sakte hain, toh aap dekh sakte hain ki yadyapi aapne true sense mein doctor ko define karke shuruat ki thi, aapne phir true sense mein shepherd par sakhti se tikna zaroori nahi socha. Toh aap shepherd ke baare mein nahi sochte, us extent tak ki woh ek shepherd hai, bhedon ke liye kya sabse behtar hai uske drishtikon se apne flocks ko tend karne ke roop mein. Aap sochte hain ki uske paas apne khud ke enjoyment ke liye ek drishtikon hai – kisi guest ki tarah jise dinner ke liye baahar invite kiya gaya hai – ya sambhavid roop se dobara unki sale ke liye ek drishtikon, ek businessman ki tarah, shepherd ki nahi [d]. Shepherd hone ki art, halanki, nischit roop se uske direction ke tehat kya hai uske liye sabse behtareen provision banane ke alawa kisi doosri cheez se chintit nahi hai. Uski apni excellence ka prashn, main ise leta hoon, sufficiently provided hai jab tak ki yeh shepherd ki art ki requirements ko poori tarah se meeta karti hai. Yahi wajah hai ki maine socha, ek moment pehle,
 
-### 23
+  23
 
 ki humein aavashyak roop se sehamat hona chahiye ki koi bhi power ya authority, us extent tak ki yeh ek power ya authority hai, sirf uske control mein aur uski care mein kya sabse behtar hai uske baare mein sochti hai – aur yeh public life mein aur private life dono mein power ya authority par laagu hota hai [e]. Aap, doosri taraf, sochte hain ki cities ke rulers – precise sense mein rulers – rulers banne ke liye keen hain, kya aap nahi sochte?’
 
@@ -683,7 +683,7 @@ ki humein aavashyak roop se sehamat hona chahiye ki koi bhi power ya authority, 
 
 ‘Aur kya earning a living ki art
 
-### 24
+  24
 
 payment laati hai [b]? Kya yeh iska function hai? Ya kya aap keh rahe hain ki medicine aur seamanship ek hi hain? Precise sense mein shabdon ka upayog karte hue, please, jaise aapne instruct kiya, agar koi ship ke captain ke roop mein kaam karte waqt apni health recover karta hai kyunki sea voyages uske liye achhe hain, toh kya yeh aapke liye seamanship ko medicine kehne ka koi kaaran hai?’
 
@@ -727,7 +727,7 @@ Usne ise concede kiya, yadyapi unwillingly.
 
 ‘Well, woh kaaran hai,’ maine kaha, ‘kyunki achhe log paise ya prestige ke badle rule karne ke liye taiyar nahi hain. Woh apni taqat se ek legitimate profit nahi banana chahte, aur mercenary nahi kehlaana chahte. Na hi woh gupt roop se paisa lene ke liye apni taqat ka upayog karna chahte hain, aur thieves nahi kehlaana chahte. Woh prestige ke liye rule nahi karenge, kyunki woh ambitious nahi hain. Toh agar woh rule karne ke liye sehamat hone wale hain, toh unpar koi additional compulsion hona chahiye, koi penalty [c]. Yahi wajah hai ki ise hamesha logon ke liye voluntarily office seek karne ko ek disgrace ke roop mein dekha gaya hai, bajaye iske ki woh ise seek karne ke liye majboor hone tak intazar karein. Jahan tak penalty ki baat hai, isme mukhya roop se kisi badtar dwara rule kiya jana shamil hai, agar woh khud rule karne se inkaar karte hain. Mujhe lagta hai ki yeh darr hai jo decent logon ko rule karvata hai, jab woh rule karte hain, aur yeh woh sthitiyan hain jismein woh power seek karte hain. Woh vishwās nahi karte ki woh kisi achhi cheez par pravesh kar rahe hain, ya ki yeh unhe koi benefit laayega. Woh ise kisi aisi cheez ke roop mein approach karte hain jisse bacha nahi ja sakta, aur kyunki unke paas khud se koi behtar nahi hai, ya khud jitna achha nahi hai, jise woh job delegate kar sakein [d]. Agar kabhi achhe mardon ka ek city hota, toh wahan rule na karne ke liye utna hi competition hota jitna hamare beech rule karne ke liye hai. Woh is baat ka proof hota ki vaastav mein true ruler ke swabhav mein khud ke liye kya achha hai uske baare mein sochne ka nahi hai, balki sirf apne subject ke liye kya achha hai uske baare mein. Parinaam yeh hota ki kisi bhi samajh wale vyakti ko doosre ko apne liye achha karne dene ka chunav karna padta, bajaye iske ki doosron ke liye achha karne mein bahut saari pareshani mein jana padta [e].
 
-### 25
+  25
 
 Yeh woh jagah hai jahan main Thrasymachus se poori tarah a-sehamat hoon jab woh kehta hai ki justice stronger ke liye kya achha hai woh hai. Lekin hum us prashn par kisi doosre samay ek aur nazar daalenge. Kahin zyada mahatvapurna, mujhe lagta hai, woh hai jo Thrasymachus ab keh raha hai, ki unjust ka jeevan just ke jeevan se behtar hai. Aapke baare mein kya, Glaucon? Aap kise chunte hain? Aap kis drishtikon ko sabse accurate ke roop mein dekhte hain?’
 
@@ -743,7 +743,7 @@ Yeh woh jagah hai jahan main Thrasymachus se poori tarah a-sehamat hoon jab woh 
 
 ‘Well,’ maine kaha, ‘agar hum uski speech ke opposition mein ek speech banate hain, arguments ko parallel mein set karte hue, aur batate hue ki kya advantages hain, contrast mein, just hone mein, aur agar woh phir dobara bolta hai, aur phir hum speeches ka ek second pair banate hain, toh humein advantages ka hisaab rakhna padega, aur unhe naapna padega, jaise hum dono speeches ke apne pairs banate hain [b]. Aur humein kisi tarah ke judges ki zaroorat hogi, hamare beech ek decision par aane ke liye. Lekin agar hum prashn ko dekhte hain, jaise humne abhi kiya, ek doosre ke sath sehamati ke aadhar par, toh hum khud ek hi samay mein judges aur advocates dono honge.’
 
-### 26
+  26
 
 ‘Hum vaastav mein honge.’
 
@@ -763,7 +763,7 @@ Yeh woh jagah hai jahan main Thrasymachus se poori tarah a-sehamat hoon jab woh 
 
 ‘Socrates, aap ek innocent hain,’ usne kaha. ‘Kya mere aisa kehne ki sambhavna hai, agar main daava karta hoon ki injustice pays aur justice nahi karta?’
 
-### 27
+  27
 
 ‘Phir aap unhe kya kehte hain?’
 
@@ -815,7 +815,7 @@ Yeh woh jagah hai jahan main Thrasymachus se poori tarah a-sehamat hoon jab woh 
 
 ‘Good. Toh unjust man ek unjust man aur ek unjust action ko outdo karne ki koshish karega, aur apne liye har cheez ka sabse bada share lene ke liye strive karega?’
 
-### 28
+  28
 
 ‘Haan, woh karega.’
 
@@ -905,7 +905,7 @@ Yeh woh jagah hai jahan main Thrasymachus se poori tarah a-sehamat hoon jab woh 
 
 ‘Lekin humne sehamati di ki unmein se har ek ke paas us vyakti ki qualities thin jiske jaisa woh tha.’
 
-### 29
+  29
 
 ‘Haan, humne di.’
 
@@ -913,11 +913,11 @@ Yeh woh jagah hai jahan main Thrasymachus se poori tarah a-sehamat hoon jab woh 
 
 Thrasymachus ne in sabhi points ko concede kiya, lekin us easy-going way mein nahi jise maine abhi varnit kiya hai [d]. Use har step par dragged kiya jana pada, profuse sweeting (pasina) bahate hue, jaise ki aap summer mein expect kar sakte hain.
 
-### 30
+  30
 
 Yeh woh avsar tha jab maine kuch aisa dekha jise maine pehle kabhi nahi dekha tha – Thrasymachus blushing (laal hona). Anyway, jab humne sehamati di ki justice virtue aur wisdom tha, aur ki injustice vice aur ignorance tha, maine kaha, ‘Well, aayein us prashn ko chhod dein. Lekin humne yeh bhi kaha tha ki injustice ek powerful cheez thi.
 
-### 31
+  31
 
 Ya kya aap use bhool gaye hain, Thrasymachus?’
 
@@ -979,7 +979,7 @@ Ya kya aap use bhool gaye hain, Thrasymachus?’
 
 ‘Woh ho sakte hain,’ usne kaha [b].
 
-### 32
+  32
 
 ‘Us case mein, Thrasymachus, unjust man gods ka bhi ek enemy hoga, jabki just man ek friend hoga.’
 
@@ -987,11 +987,11 @@ Ya kya aap use bhool gaye hain, Thrasymachus?’
 
 ‘Aao, phir,’ maine kaha. ‘Agar aap humein ek asli treat dena chahte hain, toh bas us tarah ke answers dena jaari rakhein jo aap ab de rahe hain. Main dekh sakta hoon ki just saaf taur par wiser aur better aur action ke zyada capable hain, jabki unjust kisi bhi cheez mein co-operating karne ke a-saksham hain; yadyapi jab hum unke baare mein unjust ke roop mein bolte hain, aur phir bhi kabhi-kabhi kisi vigorous joint action ko carry out karte hue, toh hum ise sateek roop se sahi nahi pa rahe hain [c]. Agar woh poori tarah se unjust hote, toh woh ek doosre par hamla karne se resist nahi kar sakte the. Toh wahan unke beech saaf taur par kuch justice thi, jisne unhe ek doosre ke aur unke adversaries ke khilaf ek hi samay mein unjust way mein kaam karne se roka, aur jisne unhe woh haasil karne mein saksham banaya jo unhone haasil kiya. Unhone semi-injustice ki sthiti mein apne unjust actions par set kiya, kyunki jo poori tarah se wicked hain, aur poori tarah se unjust hain, woh kuch bhi karne ke poori tarah se a-saksham hain [d]. Mujhe vishwās hai ki cheezein kaise hain, aur ki aapka pehla statement galat hai.
 
-### 33
+  33
 
 Lekin kya just unjust se behtar aur happier life jeete hain – jo doosra prashn tha jise humne jaanch ke liye samne rakha tha
 
-### 34
+  34
 
 – ise abhi bhi examine kiya jana baaki hai. Agar aap meri raaye chahte hain, toh woh nischit roop se lagte hain, yahan tak ki humne abhi tak jo kaha hai usse bhi. Phir bhi, humein ise zyada paas se dekhna chahiye. Aakhirkar, hamari discussion kisi incidental cheez ke baare mein nahi hai, balki is baare mein hai ki humein apni zindagiyan kaise jeeni chahiye.’
 
@@ -1035,7 +1035,7 @@ Lekin kya just unjust se behtar aur happier life jeete hain – jo doosra prashn
 
 ‘Right,’ maine kaha [b]. ‘Aur kya aap sochte hain ki har cheez jise koi function assign kiya gaya hai uske paas ek excellence bhi hai?
 
-### 35
+  35
 
 Aayein unhi udaharanon par wapas chalein. Aankhon ke paas, hum kehte hain, ek function hai?’
 
@@ -1095,7 +1095,7 @@ Aayein unhi udaharanon par wapas chalein. Aankhon ke paas, hum kehte hain, ek fu
 
 ‘Aur humne sehamati di ki justice soul ki excellence thi, aur ki injustice vice ya soul ka defect tha?’
 
-### 36
+  36
 
 ‘Humne di.’
 
@@ -1126,7 +1126,7 @@ Yahan aapke diye gaye Footnotes (1 se 36) ka line-by-line aur exact Hinglish tra
 
 ---
 
-### Footnotes
+  Footnotes
 
 1. Antiquity (prateek kal) se hi *Republic* ko das 'books' mein baantna ek tradition (parampara) raha hai. Har book papyrus ke ek single roll ke corresponding (samaan) hai, jis format mein Plato ke writings ko ancient world mein archive, distribute aur padha jata tha. Hum nahi jaante ki das books mein yeh division khud Plato dwara kiya gaya tha ya kisi baad ke editor dwara. Margin mein diye gaye numbers aur letters Stephanus dwara Plato ke sixteenth-century edition ke pagination ka palan karte hain. Yeh woh pagination hai jiska upayog aam taur par baad ke editions aur translations ke beech format ke antar se bachne ke liye kiya jata hai.
 2. Bendis, jaisa ki humein aakhirkar Book 1 ke ant (354a) mein bataya gaya hai.
@@ -1889,7 +1889,7 @@ Hum Proteus aur Thetis ke baare mein unki koi falsehoods nahi chahte,
 na hi hum tragedies ya doosri poems chahte hain jo Hera ko, ek priestess ke guise mein transformed, alms (bheekh) collect karte hue introduced karti hain
 
 > The life-giving sons of Argive Inachus.
-### 42
+  42
 
 Aur isi tarah ke kai doosre falsehoods hain jinhe hum unhe humein batate hue nahi chahte – kisi bhi tarah se hum nahi chahte ki mothers unpar vishwās karein, aur apne bachhon ko raat mein ghoomne wale gods ke baare mein wicked stories se terrify karein, har tarah ke outlandish foreigners ke appearance ko dharan karte hue [e]. Us tareeqe se hum unhe gods ke khilaf blaspheming karne se rok sakte hain, aur unke bachhon ko cowards mein badalne se bhi rok sakte hain.’
 
@@ -1942,7 +1942,7 @@ Aur isi tarah ke kai doosre falsehoods hain jinhe hum unhe humein batate hue nah
 ‘Ya apne doston ki ignorance ya madness ke kaaran, perhaps?’
 
 ‘Nahi,’ usne kaha. ‘Koi bhi jo ignorant aur mad hai woh gods ka friend nahi hai.’
-### 43
+  43
 
 ‘Koi kaaran nahi hai, phir, god ke liye ek falsehood batane ka.’
 
@@ -1961,7 +1961,7 @@ Aur isi tarah ke kai doosre falsehoods hain jinhe hum unhe humein batate hue nah
 ‘Haan, main sehamat hoon.’
 
 ‘Toh jabki Homer mein bahut kuch hai jise hum approve karte hain, hum Zeus ke Agamemnon ko ek dream bhejne ko approve nahi karenge;
-### 44
+  44
 na hi Aeschylus ko, jab Thetis kehti hai ki Apollo, uski wedding par gaate hue, “children par dwelt hua” jo uske paas honge,
 
 > Their length of life, their freedom from disease,
@@ -1986,7 +1986,7 @@ Yahan aapke diye gaye **Book 2 ke Footnotes (1 se 46)** ka line-by-line aur exac
 
 ---
 
-### Footnotes
+  Footnotes
 
 1. Yeh passage 'state of nature' par thope gaye ek 'social contract' ke concept ki ek shuruati aavirbhav (appearance) hai, jiska enlightenment ke classic political aur moral theories mein bada mahatva hona tha. Yeh aspasht hai ki kya Plato ke dimaag mein is concept ka koi vishesh samkaalin (contemporary) version tha.
 2. Samrajya ke chatur aur god-fearing seer Amphiaraus ke varnan ka hissa (Seven against Thebes 592), yeh samjhate hue ki woh apni shield par koi blazon (chinh) na rakhna kyun chunta hai.
@@ -2041,9 +2041,9 @@ Plato’s *Republic* Book 3 continues the discussion on the education of the gua
 
 ---
 
-### Key Themes and Arguments in Book 3
+  Key Themes and Arguments in Book 3
 
-#### 1. Purification of Poetry & Myths (386a–392c)
+ # 1. Purification of Poetry & Myths (386a–392c)
 
 Continuing from Book 2, Socrates critiques the content of traditional poetry (Homer, Hesiod, and the tragedians) to ensure guardians develop courage and self-discipline (*sophrosyne*).
 
@@ -2068,7 +2068,7 @@ Continuing from Book 2, Socrates critiques the content of traditional poetry (Ho
 
 ---
 
-#### 2. The Style and Mode of Narrative (392c–398b)
+ # 2. The Style and Mode of Narrative (392c–398b)
 
 Socrates shifts from *what* is said (content) to *how* it is said (form/style).
 
@@ -2087,7 +2087,7 @@ Socrates shifts from *what* is said (content) to *how* it is said (form/style).
 
 ---
 
-#### 3. Musical Modes and Rhythms (398c–403c)
+ # 3. Musical Modes and Rhythms (398c–403c)
 
 Music directly penetrates the inner soul, making it graceful if trained properly.
 
@@ -2101,7 +2101,7 @@ Music directly penetrates the inner soul, making it graceful if trained properly
 
 ---
 
-#### 4. Physical Education (*Gymnastike*) and Medical Policy (403c–410b)
+ # 4. Physical Education (*Gymnastike*) and Medical Policy (403c–410b)
 
 * **Physical Training:** Must be simple and disciplined, not overly specialized or soporific like professional athletic training.
 * **Medical Practice:**
@@ -2118,7 +2118,7 @@ Music directly penetrates the inner soul, making it graceful if trained properly
 
 ---
 
-#### 5. Selection of Rulers and the Noble Lie (412b–417b)
+ # 5. Selection of Rulers and the Noble Lie (412b–417b)
 
 * **Selection of Rulers:** Rulers must be selected from the oldest and best guardians—those who have proven through tests (hardship, pain, pleasure, and temptation) that they will always preserve the conviction that the city's interest is their own.
 * **Complete Guardians (*teleioi phylakes*):** The rulers.
@@ -2149,7 +2149,7 @@ To prevent the guardians from becoming oppressive "wolves" rather than protectiv
 
 ---
 
-### Full Line-by-Line Hinglish Translation
+  Full Line-by-Line Hinglish Translation
 
 # Book 3
 
@@ -3277,7 +3277,7 @@ Aur maine kaha, ‘Hum us baare mein sure nahi ho sakte, mere pyare Glaucon. Jis
 
 ---
 
-### Footnotes
+  Footnotes
 
 1. Parents ke prati respect: 378b; ek doosre ke sath friendship: 378c–d.
 2. Homer, *Odyssey* 11.489–491. Achilles ka ghost underworld mein Odysseus se bol raha hai.
