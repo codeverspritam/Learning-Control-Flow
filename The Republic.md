@@ -3274,3 +3274,72 @@ Aur maine kaha, ‘Hum us baare mein sure nahi ho sakte, mere pyare Glaucon. Jis
 ‘Well, phir,’ maine kaha, ‘kya aap jis tareeqe se unhe rehna aur housed hona chahiye us baare mein kuch suggestions se agree karte hain agar hum chahte hain ki woh is jise hon? Pehle sthaan par, kisi ke paas koi private property nahi honi chahiye usse pare jo absolutely essential hai. Doosre, kisi ke paas us tarah ka house ya storeroom nahi hona chahiye jismein koi bhi pravesh na kar sake jo aisa feel karta hai. Unke subsistence ke liye, jo self-disciplined aur courageous warrior-athletes ke needs ko poora karna chahiye, unhe citizens ke baaki par ek levy thopna chahiye, aur guardians ke roop mein apni role ke liye ek annual payment receive karni chahiye jo unhe na toh surplus aur na hi deficiency ke sath chhodti hai [e]. Unhe ek communal life jeeni chahiye, camp mein soldiers ki tarah ek sath khate hue. Jahan tak gold aur silver ka sawaal hai, unhe bataya jana chahiye ki unke paas pehle se hi apni souls mein, poora samay, gods dwara unhe diya gaya divine gold aur silver hai. Unhe iske alawa human gold ki koi zaroorat nahi hai, aur unke paas maujood divine gold ko perishable gold ka mixture jodkar contaminate karna sacrilege hai, kyunki ordinary logon ke beech circulation mein gold kai evil ka kaaran raha hai, jabki unka apna gold pure hai [417]. Unhe akele, city ki population mein se, gold ya silver ko handle ya touch karne, ya same roof ke neeche hone, ya ise jewellery ke roop mein pehenne, ya gold ya silver cups se peene se forbidden hai. Is tareeqe se woh safe rakhe jaayenge, aur woh city ko safe rakhenge. Ek baar jab woh apni khud ki land, houses, aur money acquire karna shuru karte hain, toh woh guardians ke bajaye householders aur farmers ban chuke honge. Doosre citizens ke allies hone se woh hostile masters mein badal jaayenge. Woh apni poori lives hating aur hated hone mein bitayenge, plotting aur plotted against hone mein [b]. City ke andar ke enemies ke unke fears outside ke enemies ke unke fears se kahin zyada numerous aur zyada acute honge. Woh khud aur city dono imminently destruction ki taraf poori speed se head kar rahe honge. In sabhi kaaranon se, kya hum kehne wale hain ki hamare guardians ko us housing aur way of life se provided kiya jana hai jise humne describe kiya hai? Kya yeh woh laws hain jinhe humein enact karna chahiye, ya nahi?’
 
 ‘Woh nischit roop se hain,’ Glaucon ne kaha.
+
+---
+
+### Footnotes
+
+1. Parents ke prati respect: 378b; ek doosre ke sath friendship: 378c–d.
+2. Homer, *Odyssey* 11.489–491. Achilles ka ghost underworld mein Odysseus se bol raha hai.
+3. Homer, *Iliad* 20.64–65. 'Halls' Hades, dead ke god ka realm hai.
+4. *Iliad* 23.103–104. Yeh Achilles ka lament hai jab usne apne dost Patroclus ke ghost ko pakadne ki koshish ki aur asafal raha.
+5. *Odyssey* 10.495: underworld mein wise prophet Tiresias ki soul ka varnan, pechhle quote mein Achilles dwara voiced rule ka single exception.
+6. *Iliad* 16.856–857: Hector dwara maare gaye Patroclus ka varnan.
+7. *Iliad* 23.100–101: phir se Patroclus ka, jaise woh Achilles ki pakad se phisalta hai.
+8. *Odyssey* 24.6–9: Odysseus dwara maare gaye suitors ki souls ka varnan.
+9. 'Wailing' aur 'hateful' underworld rivers ke in names ke etymological meanings hain.
+10. *Iliad* 24.10–12: Achilles mrit Patroclus ko miss karne aur ek sath unke anubhavon ko yaad karne ke kaaran sone mein a-saksham hai.
+11. *Iliad* 18.23–24: Patroclus ki maut ki khabar laane par Achilles ka reaction.
+12. *Iliad* 22.414–415. Priam, Troy ka king, gods ke king Zeus se line mein seventh tha. Yahan woh apne logon se use Achilles ke paas jaane dene ki vinti karta hai taaki woh apne bete Hector ki corpse ke liye bheekh maang sake, jo Patroclus ke badle mein Achilles dwara mara gaya tha.
+13. *Iliad* 18.54: Patroclus ki maut par apne bete Achilles ke dukh ko sunne par Thetis ka reaction, jisse 388b par quotation aata hai.
+14. *Iliad* 22.168–169: Zeus Hector ke behalf par apna dukh vyakt karta hai, jo Achilles dwara maare jaane wala hai.
+15. *Iliad* 16.433–434: Sarpedon Zeus ka ek mortal son tha, jo yahan shok karta hai ki Patroclus use maarne wala hai.
+16. *Iliad* 1.599–600. Hephaestus, lame aur ugly god, wine-pourer ke role mein clowning kar raha hai, ek aisa role jo aam taur par youthful aur attractive ko assigned kiya jata hai, apne fellow-gods ko amuse aur pacify karne ke liye.
+17. 382c.
+18. *Odyssey* 17.383–384. Sentence conclude hota hai: 'ya ek inspired poet, jo apne song se please karta hai'.
+19. *Iliad* 4.412: hero Diomedes apne companion Sthenelus ko rebuke karta hai.
+20. In fact yeh do lines na toh pehle ke quotation ko follow karti hain na hi ek doosre ko, balki Trojans dwara kiye gaye racket ke sath Greek advance ki silence ko contrast karne wale alag-alag descriptions se hain (*Iliad* 3.8 aur 4.431).
+21. *Iliad* 1.225: Achilles Greek army ke commander-in-chief Agamemnon ko insult kar raha hai.
+22. *Odyssey* 9.8–10: bard Demodocus ko gaate hue sunne ke baad proverbially clever Odysseus ke actual remark ka ek selective quotation, jo ki balki yeh hai ki koi bhi sthiti usse zyada delightful nahi hai jab banqueters laden tables ke beech ek singer ko khushi se sunte hue baithte hain.
+23. *Odyssey* 12.342. Speaker Odysseus ke shipwrecked crew mein se ek hai, Eurylochus, apne fellows ko Sun god ke sacred cattle ko khane ke liye urge karte hue. Odysseus ne abhi unhe apni hunger ko resist karne ka command diya hai.
+24. Episode *Iliad* 14.292–353 mein narrated hai. Hera, Zeus ki consort, shameless behaviour par protest karti hai; lekin usne vaastav mein poore samay seduction ki planning ki thi.
+25. *Odyssey* 8.266–366. Hephaestus apni consort Aphrodite aur uske lover Ares ko ek invisible mesh ke tehat trap karke punish karta hai jab woh ek sath bed par hote hain, phir doosre gods ko unki embarrassment witness karne ke liye bulata hai.
+26. *Odyssey* 20.17–18. Odysseus, apni maidservants ko un sab par apna vengeance lene se pehle ki raat suitors ke sath flirt karte hue sunte hue, immediate slaughter ke vicharon ko banish karta hai.
+27. Quotation Hesiod se ho sakta hai. Sentiment Euripides, *Medea* 964 mein proverbial ke roop mein cited hai.
+28. *Iliad* 9.515–523. Gifts king Agamemnon se hain, jiske sath Achilles ka quarrel hai.
+29. *Iliad* 24.501–2, 552–562, 592–595.
+30. *Iliad* 22.15, 20. Apollo ne Achilles ko trick karke Trojans ko apni city walls ke andar dobara phisalne ki anumati di hai.
+31. Achilles *Iliad* 21.222 ff mein river-god Scamander ko challenge karta hai.
+32. *Iliad* 23.151. Kyunki woh ab Troy mein marne ke liye doomed hai, Achilles apne pita dwara Spercheius, Achilles ke homeland ke river ko sacrifice ke liye lock reserve karne ke liye kiye gaye vow se khud ko release karta hai, apni return par.
+33. Hector ko drag karna: *Iliad* 24.14–21; prisoners ko slaughter karna: *Iliad* 23.175–176.
+34. Apne cousin Peirithous ke sath collusion mein, Theseus, Athens ke king ne, Helen ko Sparta se apni bride banne ke liye abduct kiya, is tarah Sparta ke sath ek war provoke kiya. Pair ne phir underworld se Persephone goddess ko Peirithous ki bride banne ke liye abduct karne ka prayas kiya.
+35. 379a–380c.
+36. Aeschylus ke khogaye play *Niobe* ka ek fragment. Niobe apni divine ancestry ke baare mein bol rahi hai. Uska father Tantalus Zeus ka son tha.
+37. *Iliad* 1.15–16. Socrates jis passage par charcha kar raha hai woh line 8 se line 42 tak chalta hai. Chryses, Apollo ka ek priest, apni daughter ko ransom karne aata hai. Woh Greeks (Achaeans) dwara ek raid mein capture ki gayi hai aur Atreus ke son supreme commander Agamemnon ke kabze mein hai.
+38. Tragedy aur comedy Socrates aur Plato ke dinon mein literature ke pre-eminent forms the. Dithyramb choral lyric ka ek type tha, jo mool roop se Dionysus ke cult se juda tha. 'Other places' jismein imitation aur narrative dono milte hain usme Pindar ke victory odes aur kai doosri lyric poetry shamil hogi.
+39. 369e–370c, 374a–d.
+40. 'Reciters' (ya 'rhapsodes') epic poetry ke performance mein specialise karte the, sabse upar Homer ke. Woh drama mein act nahi karte the.
+41. Yeh military tasks Athenian society ke sabse poorest class dwara perform kiye jaate the.
+42. Plato ke text ka ek alternative version translation deta hai: 'woh kisi bhi aur har cheez ko narrate karne ke liye utna hi prepared hoga'.
+43. Myrrh aur garlands ke sath lavish treatment deity ki statues ko diya jata tha. Lekin in statues ko phir city se expel nahi kiya jata tha; yeh balki community se impurities ko hatane ke liye ek sacred scapegoat ke expulsion ka sujhav deta hai, jaise Thargelia ke annual festival mein.
+44. Greek music ke kai harmonic modes (*harmoniai*) shabdash 'attunements' hain. Har mode ka chief component tonal intervals ki ek fixed series thi, lekin scale ke bare notes se pare doosre maamle bhi specified kiye gaye lagte hain, jaise niyukt kiye jaane wale notes ki relative frequency, aur tessitura (required high ya low singing ki degree). Is tarah mode ka choice musical piece ki style ko determine kar sakta tha, aur early times se mode mein antar poetic genre, occasion aur mood mein antar ke sath chalta tha. Aage ke details ke liye M. L. West, *Ancient Greek Music* (Oxford: Oxford University Press, 1992) consult karein.
+45. Ek conventional lekin conservative opinion, jo fourth century ke dauran virtuoso instrumental playing ke rise se badhte dabaav ke tehat aaya.
+46. Funerals par ritualised keening men ke bajaye women ka kshetra tha.
+47. Dorian mode ka dignified aur manly ke roop mein classification lambe samay se established tha, lekin Phrygian ka standard association balki excitement mein dikhayi gayi freedom ke sath tha, jaise ecstatic religious ritual mein.
+48. Harps Lydian origin ke the aur foreignness ke associations dharan karte the.
+49. Reed-pipe (*aulos*) flute (word ka traditional translation) jaisa kuch nahi tha balki oboe ya clarinet jaisa tha. Iska ek majboot aur un-compromising tone tha, aur yeh wilder sorts ke religious ritual ka favoured instrument tha. Ek single hole ke manipulation se kai notes produce kiye ja sakte the, jabki lyre ka har string sirf ek single note produce karta tha. Lyre aur cithara fundamental stringed instruments the. Unka principal service sung melody ko duplicate karna tha. Reed-pipe, by contrast, solos ke liye lend karta tha.
+50. 'Dog dwara' swear karna Socrates ki vishishtata hai – ek euphemistic oath, hamare 'God!' ke liye 'gosh!' ke substitution ke comparable.
+51. Greek metre stress-accent ke bajaye syllable ki length par aadharit tha. Ek long syllable do short ke barabar tha. Poetic metre ke fundamental rhythm ke teen types metrical foot ke divisions (upbeat aur downbeat) ke beech alag-alag proportions se correspond karte hain: 2:2 ya equal jaise dactyl ( ˘˘), spondee (~ ~) aur anapaest (˘˘ ); 2:1 ya double jaise iamb (˘ ~) aur trochee (~ ˘); 3:2 jaise cretic (˘ ). Enoplion (ya 'martial') processional aur marching songs ke liye upayog kiya jaane wala ek rhythm tha; heroic metre Homeric epic ka dactylic hexameter hai, jismein dactyl aur spondee ek doosre ke liye substitute kiye ja sakte hain.
+52. *Eu-ëtheia*, 'good nature', ka zyada aam taur par matlab disparaging sense mein 'simplicity' tha.
+53. Aam taur par Sicily, aur vishesh roop se Syracuse mein Dionysius ka court, elaborate cuisine ke liye noted the.
+54. Corinth *hetairai* ka ek noted supplier tha - female dining companions, professionals Japanese geisha jaisa kuch, sivaay iske ki sex ko service ke hisse ke roop mein grant kiya jata tha.
+55. Athenian law courts vaastav mein amateurs dwara staffed the – citizen volunteers ke pool se lot dwara chune gaye jurymen, aur ek judge jo presiding magistrate se zyada kuch nahi tha, woh bhi lot dwara chuna gaya, aur sirf ek saal ke liye office hold karta tha. Isliye 405a par 'judges' ke roop mein translated shabd ka matlab 'jurors' bhi hai.
+56. Head ke liye felt caps, aam taur par long-term invalids dwara pehne jaane wale – ek treatment nahi, balki apni dressing-gown mein poora din couch par rehne jaisa kuch.
+57. *Iliad* 4.218.
+58. 407e par yeh nishkarsh un logon ke sambandh mein nikaala gaya tha jinaki physical ill-health manual ya intellectual sort ki upayogi activity ko preclude karti thi. Pehle koi charcha nahi hui hai, halanki, incurably criminal ke treatment ki.
+59. 375c–376c.
+60. Homer (*Iliad* 17.588) mein Menelaus ke baare mein kaha gaya.
+61. 412e.
+62. Iske general meaning ke alawa, term ka upayog mercenary troops ko refer karne ke liye kiya ja sakta hai (tulna karein 419a par Adeimantus ki complaint), saath hi ek tyrant ke bodyguard ko bhi, jo aam taur par aise mercenaries se composed hota tha.
+63. Falsehoods ki zaroorat 382c–d par explain ki gayi thi. Lie iske civic purpose ke virtue dwara grand ya noble (*gennaios*) hai, lekin Greek word ka upayog colloquially bhi kiya ja sakta hai, 'a true-blue lie' ka matlab dete hue, yaani ek massive, no-doubt-about-it lie (tulna karein term 'grand larceny').
+64. Story ka yeh hissa ek alag mythical tradition ka upayog karta hai, woh jo Hesiod ki men ke alalag races ki story mein milti hai – gold, silver, aur ityaadi (*Works and Days* 109–201). Lekin Hesiod ki races successive generations hain, aur uski story time ke sath decay ki hai. Tradition ka yeh aspect Book 8 (546a–547a) mein fore par aayega.
