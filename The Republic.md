@@ -3343,3 +3343,1023 @@ Aur maine kaha, ‘Hum us baare mein sure nahi ho sakte, mere pyare Glaucon. Jis
 62. Iske general meaning ke alawa, term ka upayog mercenary troops ko refer karne ke liye kiya ja sakta hai (tulna karein 419a par Adeimantus ki complaint), saath hi ek tyrant ke bodyguard ko bhi, jo aam taur par aise mercenaries se composed hota tha.
 63. Falsehoods ki zaroorat 382c–d par explain ki gayi thi. Lie iske civic purpose ke virtue dwara grand ya noble (*gennaios*) hai, lekin Greek word ka upayog colloquially bhi kiya ja sakta hai, 'a true-blue lie' ka matlab dete hue, yaani ek massive, no-doubt-about-it lie (tulna karein term 'grand larceny').
 64. Story ka yeh hissa ek alag mythical tradition ka upayog karta hai, woh jo Hesiod ki men ke alalag races ki story mein milti hai – gold, silver, aur ityaadi (*Works and Days* 109–201). Lekin Hesiod ki races successive generations hain, aur uski story time ke sath decay ki hai. Tradition ka yeh aspect Book 8 (546a–547a) mein fore par aayega.
+
+---
+
+### Summary of Book 4
+
+1. **The Happiness of the Guardians:** Adeimantus worries that the guardians are deprived of personal wealth and luxuries. Socrates explains that the goal of the state (*Kallipolis*) is the maximum happiness of the **entire city**, not one specific class.
+2. **Unity and Wealth/Poverty:** Extreme wealth breeds luxury/idleness, while extreme poverty breeds poor workmanship/revolution. The guardians must preserve unity by limiting extreme wealth, maintaining optimal city size, and ensuring strict adherence to the educational system (especially music/rhythm).
+3. **The Four Civic Virtues:**
+* **Wisdom (*Sophia*):** Located in the small class of true guardians (rulers) who possess knowledge about governance as a whole.
+* **Courage (*Andreia*):** Located in the military/auxiliary class; it is the preserved belief about what is truly to be feared.
+* **Self-Discipline / Temperance (*Sophrosyne*):** An agreement and harmony across all classes that the naturally better element should rule over the worse.
+* **Justice (*Dikaiosyne*):** The principle that **everyone performs their own natural function** without interfering in the work of others (*mind your own business*).
+
+
+4. **The Tripartite Soul (*Psyche*):** Socrates argues by the Principle of Non-Contradiction that the human soul mirrors the city and has three distinct parts:
+* **Rational Element (*Logistikon*):** Loves truth and seeks the good of the whole soul.
+* **Spirited Element (*Thumoeides*):** Loves honor, courage, and indignation; acts as a natural ally to reason when uncorrupted.
+* **Appetitive/Desiring Element (*Epithumetikon*):** Craves physical pleasures (food, drink, sex, wealth).
+
+
+5. **Justice in the Individual:** Individual justice occurs when reason rules, spirit aids reason, and appetite obeys—creating inner harmony. Injustice is internal faction and rebellion among these parts.
+
+---
+
+# Book 4
+
+Is point par Adeimantus ne humein interrupt kiya [419]. ‘Aap apna defence kaise karenge, Socrates, is charge ke khilaf ki aap in mardon ko bahut happy nahi bana rahe hain, aur ki iske liye woh sirf khud ko blame kar sakte hain? City vaastav mein unki hai, phir bhi woh isse koi benefit derive nahi karte. Doosre logon ne land acquire kar li hai, apne liye beautiful bade ghar banaye hain, aur ab unke sath jaane ke liye furniture collect kar rahe hain; woh gods ke liye apne khud ke sacrifices karte hain; woh foreign visitors ko entertain karte hain; aur woh un cheezon ke bhi owners hain jinake baare mein aapne abhi baat ki hai – gold, silver aur har cheez jise un logon ke liye zaroori maana jata hai jo happy hone wale hain [420]. Hamare men bas city mein baithe hue lagte hain, hired bodyguards ki tarah. Woh jo kuch karte hain woh sirf iski rakhwali karna hai.’
+
+‘Haan,’ maine kaha, ‘aur us par sirf apne keep ke liye kaam karte hue. Doosron ke vipreet, unhe unke food ke upar koi pay nahi milti, toh agar woh private individuals ke roop mein abroad jaane ka feel karte hain, toh woh saksham nahi honge. Woh mistresses ko presents nahi de sakte, ya kisi doosri cheez par paisa kharch nahi kar sakte jise woh chunte hain, un cheezon par jinpar aam taur par happy maane jaane wale log paisa kharch karte hain. Aapne use, aur usi tarah ki ek poori lot ko, apne accusation se baahar chhod diya.’
+
+‘Very well,’ usne kaha, ‘aap inhein bhi accusation ka hissa hone ke roop mein le sakte hain.’
+
+‘Hamara defence kya hai, phir [b]? Kya woh aapka prashn hai?’
+
+‘Haan.’
+
+‘Hum apna answer paayenge, mujhe lagta hai, agar hum usi road par aage badhte hain. Hum kahenge ki humein bilkul bhi surprise nahi hoga agar hamare guardians bhi is tarah sabse behtar sthiti mein hon, lekin kisi bhi case mein hamara aim city ko found karne mein kisi ek group ko outstandingly happy banana nahi hai, balki poore city ko jitna ho sake utna happy banana hai. Humne socha tha ki humein is tarah ke city mein justice milne ki sabse zyada sambhavna hogi, aur sabse badtar institutions wale city mein injustice milne ki sabse zyada sambhavna, aur ki inhein dekhna humein hamare original question ka answer dega [c]. Hum abhi jo kar rahe hain, hum vishwās karte hain, woh inhabitants ke kuch logon ko alag karna, aur unhe happy banana nahi hai, balki ek complete city construct karna hai, aur use happy banana hai. Hum iske opposite ko baad mein dekhenge. Imagine karein ki hum ek man ke statue par colours daal rahe the, aur koi aaya aur usne humse kaha ki hum ise galat kar rahe the, kyunki hum living creature ke sabse beautiful parts ke liye sabse beautiful colours ka upayog nahi kar rahe the [d].
+1
+Eyes, sabse beautiful feature, ko black colour kiya gaya tha, purple nahi. Hum usse yeh kehna ek kaafi reasonable defence maaninge: “Ek minute ruko. Aap nischit roop se aisa nahi sochte, kya aap sochte hain, ki humein eyes ko – ya body ke kisi doosre part ko – itna beautiful banana chahiye ki woh eyes jaisi bhi na lagein. Jis cheez ko aapko khud se poochhna hai woh yeh hai ki kya har cheez ko sahi colours dekar hum poori cheez ko beautiful bana rahe hain [e].” Hamare sath bhi wahi hai. Aapko humein guardians ko us tarah ki happiness dene ke liye majboor karna shuru nahi karna chahiye jo unhe guardians ke alawa kuch aur bana dega. Hum apne farmers ko purple robes pehna sakte hain, aur unhe pehenne ke liye gold jewellery de sakte hain, aur unse zameen par kaam karne ke liye keh sakte hain jab woh aisa feel karein. Hum apne potters ko banqueting couches par recline karne de sakte hain, right taraf wine pass karte hue aur apni aag ke samne feasting karte hue, unke potters’ wheels unke bagal mein hone ke sath jab woh sach mein kuch pottery karne ka feel karein. Hum har kisi ko usi tarah happy bana sakte hain, taaki poora city happy ho sake [421]. Aapko humse woh karne ke liye nahi poochhna chahiye. Agar hum waise karte hain jaise aap suggest karte hain, toh farmer farmer nahi rahega, potter potter nahi rahega, na hi koi aur un roles mein se kisi ko poora karna jaari rakhega jo ek sath ek city ko janam dete hain.
+
+‘Zyadatar population ke liye yeh utna mahatvapurna nahi hai. Agar hamare cobblers koi achhe nahi hain, agar woh proper cobblers hona band kar dete hain aur sirf hone ka naatak karte hain jab woh nahi hain, toh city ko koi bada harm nahi pahonchega. Lekin agar hamare laws aur hamare city ke guardians guardians hone ka impression dete hain, bina sach mein guardians hue, toh aap dekh sakte hain ki woh poore city ko poori tarah destroy kar dete hain, kyunki woh akele iske correct management aur prosperity ke liye opportunity pradan karte hain [b]. Agar hum real guardians bana rahe hain, aise log jo city ko harm pahonchane mein a-saksham hain, jabki jo vyakti hamari criticism karta hai woh unhe kisi tarah ke farmers mein badal raha hai, jo city chala nahi rahe hain balki ek public festival mein ek jolly banquet par preside kar rahe hain, toh woh city ke baare mein bilkul baat nahi kar raha hai. Jo prashn humein khud se poochhna hai woh yeh hai. Guardians ko appoint karne mein hamara aim kya hai? Kya unke liye sabse badi sambhavid happiness pradan karna hai? Ya hamara aim poore city se sambandhit hai? Kya hum yeh nahi dekh rahe hain ki kya hum uske liye sabse badi degree ki happiness pradan kar sakte hain? Kya wahi nahi hai jise karne ke liye humein in auxiliaries aur guardians ko compel karna chahiye [c]? Kya humein unhe – aur har kisi ko likewise – unke apne particular task ke sabse behtareen possible practitioners banne ke liye persuade nahi karna chahiye? Aur jab parinaamswarup city prosper hota hai aur well established hota hai, toh kya hum tab ise har group ke apne nature par chhod sakte hain ise happiness ka ek share dene ke liye?’
+
+‘Mujhe yakin hai ki aap sahi hain,’ usne kaha.
+
+‘Us case mein,’ maine kaha, ‘main ek aur prashn poochhna chahta hoon, aakhri wale se closely related. Kya aap use bhi reasonable sochne wale hain?’
+
+‘Kaun sa prashn, sateek roop se?’
+
+‘Main sochta hoon ki kya kuch aisi cheezein nahi hain jo doosre skilled workers ko bhi corrupt kar sakti hain, taaki woh bhi bad mein badal jaayein [d].’
+
+‘Kis tarah ki cheezein?’
+
+‘Wealth aur poverty,’ maine kaha.
+
+‘Aur woh unhe kaise corrupt karti hain?’
+
+‘Is tarah. Kya aap sochte hain ki ek potter jo rich ban jata hai woh abhi bhi apni craft ko practice karne ke liye taiyar hoga?’
+
+‘Nahi.’
+
+‘Kya woh pehle se zyada lazy aur careless ho jata hai?’
+
+‘Haan. Kahin zyada.’
+
+‘Woh ek badtar potter ban jata hai, in fact?’
+
+‘Again, kahin badtar.’
+
+‘Doosri taraf, agar poverty use apne business ke liye required tools ya kisi aur cheez se khud ko equip karne se rokti hai, toh kya uske dwaara produce kiye gaye par prabhav padega [e]? Aur kya uske sons, ya koi aur jise woh sikhata hai, uski teaching ke parinaamswarup badtar craftsmen nikalenge?’
+
+‘Of course.’
+
+‘Toh dono cheezein, poverty aur wealth, craftsmen dwara produce kiye gaye par aur khud craftsmen par damaging effect rakhti hain.’
+
+‘Yeh us tareeqe se lagta hai.’
+
+‘Humne items ka ek aur class dhoondh liya hai, zaahir taur par, hamare guardians ke liye watch out karne ke liye. Unhe woh sab kuch karna chahiye jo woh kar sakte hain unhe hamare dhyan diye bina city mein creep karne se rokne ke liye.’
+
+‘Aapka kis tarah ki cheezon se matlab hai?’
+
+‘Wealth aur poverty,’ maine kaha [422]. ‘Ek luxury, idleness aur revolution produce karti hai, doosra spirit ki meanness aur poor workmanship – aur of course revolution bhi.’
+
+‘Exactly. Lekin yahan aapke liye ek prashn hai, Socrates. Kyunki hamare city ke paas koi paisa nahi hai, woh war ladne ke capable kaise hoga – vishesh roop se agar ise ek bade, wealthy city ke sath war mein majboor kiya jata hai?’
+
+‘Well, obviously ek bade, wealthy city se ladna do se ladne se zyada difficult hoga.’
+
+‘Aapka kya matlab hai [b]?’ usne kaha.
+
+‘Well, shuruat ke liye,’ maine kaha, ‘agar unhe ladna hai, main ise leta hoon ki unke opponents rich men honge. Woh by contrast warrior-athletes honge, kya woh nahi honge?’
+
+‘Haan,’ usne kaha. ‘Uske liye jo worth hai.’
+
+‘Boxing ke baare mein sochein, Adeimantus. Kya aap nahi sochte ki ek single boxer, sabse finest possible training ke sath, do rich, fat logon se aasaani se lad sakta hai jo boxers nahi the?’
+
+‘Possibly dono se ek hi samay par nahi,’ usne kaha.
+
+‘Bhale hi use apne heels par bhaagne ki anumati di gayi ho, aur phir mudne aur us samay unmein se jo paas tha use hit karne ki [c]? Bhale hi woh ise dohraata raha, ek sunny day par, stifling heat mein? Kya aap nahi sochte ki is tarah ka ek boxer us sort ke opponents ki ek badi sankhya ko bhi beat kar sakta hai?’
+
+‘Yeh nischit roop se koi surprise nahi hoga agar usne kiya.’
+
+‘Aur kya aap nahi sochte ki rich ke paas war ki art se zyada boxing ki art ka gyaan aur anubhav hai?’
+
+‘Main nischit roop se sochta hoon,’ usne kaha.
+2
+
+‘Toh hamare trained warriors ko apni sankhya ke do ya teen guna ke khilaf ladne mein koi difficulty nahi hogi.’
+
+‘Main aapase argue nahi karne wala hoon,’ usne kaha. ‘Mujhe lagta hai ki aap sahi hain.’
+
+‘Kya hoga agar unhone doosre do cities mein se ek mein ek embassy bheji, aur unse kaha, kaafi truthfully, “Gold ya silver hamare kisi kaam ke nahi hain [d]. Humein unki anumati nahi hai. Lekin aapko hai. Is war mein hamare allies banein, aur aap hamare opponents ki wealth le sakte hain.” Kya aap sochte hain ki is offer ko sunne wala koi bhi person fat, tender sheep ke khilaf dogs ka side lene ke bajaye lean aur fit dogs par war karna chunega?’
+
+‘Nahi, main nahi sochta. Lekin agar doosre cities ki wealth ek city ke haathon mein concentrated hoti hai, toh aap behtar hoga saavdhan rahein ki yeh us city ke liye threat pose na kare jispe koi wealth nahi hai [e].’
+
+‘Well, agar aap sochte hain ki hamare dwara establish kiye ja rahe city ke alawa kisi cheez ko “a city” kehne mein koi point hai, toh aapko best of luck.’
+
+‘Humein unhe kya kehna chahiye?’ usne poocha.
+
+‘Doosron ko kisi grander name ki zaroorat hai,’ maine kaha. ‘Unmein se har ek “cities upon cities, but no city” hai, jaise quip chalti hai.
+3
+Kam se kam do, ek doosre ke opposed [423]. Poor ka ek city, aur rich ka ek city. Inmein se har ek mein kai aur shamil hain, aur agar aap unhe ek single city ke roop mein treat karte hain, toh aap kuch haasil nahi karenge, jabki agar aap unhe kai cities ke roop mein treat karte hain, ek group ko doosre group ka paisa aur power – ya khud logon ko bhi offer karte hue, toh aapke paas hamesha prachur allies aur kam enemies honge. Jab tak aapka city disciplined life jeeta hai jise humne abhi iske liye laid down kiya hai, yeh ek bada city hoga. Reputation mein nahi, mera matlab nahi hai, balki fact mein bada, bhale hi yeh iske liye ladne ke liye sirf ek hazaar mardon wala city ho [b]. Aapko is tareeqe se bade ek single city ko dhoondhne ke liye ek job karna padega, chahe Greeks ya non-Greeks ke beech, yadyapi aapko prachur milenge, is wale ke size se kai guna, jo greatness ka illusion dete hain. Kya aap sehamat nahi hain?’
+
+‘Emphatically,’ usne kaha.
+
+‘Us case mein,’ maine kaha, ‘yeh hamare rulers ke liye ek excellent marker, ya limit bhi ho sakta hai, unhe yeh dikhane ke liye ki unhe city ko kitna bada banana chahiye, aur zameen ki matra jo unhe is size ke city ke liye mark out karni chahiye, kisi aur ko “no” kehne se pehle.’
+
+‘Limit kya hai?’ usne poocha.
+
+‘Yeh, main guess karunga. Jab tak size mein kisi bhi increase se city ke united rehne ko rokne ki sambhavna nahi hai, unhe ise badhte rehne dena chahiye. Lekin us point se aage nahi.’
+
+‘Haan, woh ek achha approach hai,’ usne kaha.
+
+‘Which case mein hum apne guardians ko ek further instruction denge [c]. Unhe har tareeqe se guard karna hai city ke chhota hone ke khilaf, lekin iske greatness ka appearance dene ke khilaf bhi. Yeh size mein adequate se zyada nahi hona chahiye, aur united.’
+
+‘Unke liye ek trivial task, no doubt.’
+
+‘Haan,’ maine kaha. ‘Lagbhag utna hi trivial jitna requirement humne pehle zikr kiya tha,
+4
+guardians ke ek inferior child ko doosre classes mein shamil hone ke liye bheje jaane ke liye, aur un classes se ek outstanding child ko guardians mein shamil hone ke liye [d]. Yeh yeh dikhane ke liye intended tha ki citizen body ke baaki logon ke beech unhe har individual ko us ek task ke liye assign karna chahiye jiske liye woh naturally fitted hai, taaki apne khud ke ek task par khud ko laagu karke har ek person ek many people ke bajaye ek single person ban sake, aur is tareeqe se poora city kai cities ke bajaye ek single city ban sake.’
+
+‘Oh, fine,’ usne kaha. ‘Hamare pehle directive se bhi simpler.’
+
+‘Aap soch rahe honge, mere pyare Adeimantus, ki hum unhe weighty instructions ki ek badi lambi list dete hain [e]. Lekin hum aisa nahi karte. Instructions sabhi trivial hain, provided woh “first and great commandment” par dhyan se nazar rakhte hain.
+5
+yadyapi “great” sach mein sahi shabd nahi hai. Minimum requirement se zyada.’
+
+‘Aur woh requirement kya hai?’ usne poocha.
+
+‘Education aur upbringing,’ maine kaha. ‘Agar guardians well educated hain, aur sound judgment ke men ke roop mein bade hote hain, toh unhe is sabhi ko khud ke liye dekhne mein koi difficulty nahi hogi, plus doosri cheezein jinake baare mein hum kuch nahi keh rahe hain – jaise wives lena, marriage, aur children hona [424]. Woh proverb ke shabdon mein har cheez ko jitna ho sake utna “friends ke beech shared” banane ki necessity ko dekhenge.’
+6
+
+‘Haan, woh sabse behtar hoga,’ usne kaha.
+
+‘Ek baar jab yeh ek achhi start par aata hai,’ maine kaha, ‘hamara regime ek tarah ka virtuous circle hoga. Agar aap upbringing aur education ke ek achhe system ko rakh sakte hain, toh woh naturally good specimens produce karte hain. Yeh badle mein, agar unhe ek achhi education milti hai, apne predecessors se bhi behtar specimens mein viksit hote hain [b]. Aam taur par behtar, aur reproduction ke liye vishesh roop se behtar. Animal kingdom mein bhi wahi true hai.’
+
+‘Mujhe yakin hai ki aap sahi hain,’ usne kaha.
+
+‘Ise briefly put karne ke liye, phir, hamare city ke overseers ko hamare education ke system par ek firm grip rakhni chahiye, ise sabhi se upar protect karte hue, aur ise accidentally destroy hone ki anumati na dete hue. Unhe physical ya musical education mein kisi bhi radical innovation ko reject karna chahiye, unhe jahan tak ho sake unchanged preserve karte hue. Unhe kisi bhi aise vyakti ko apprehension ke sath dekhna chahiye jo unse kehta hai ki
+
+> The latest song, fresh from the singer’s lips,
+> Has most appeal to men.
+> 7
+
+Jo log ise approve karte hain woh aasaani se soch sakte hain ki poet ka matlab song ka ek new style tha, bajaye sirf new songs ke [c]. Lekin woh us tarah ki cheez nahi hai jise unhe approve karna chahiye, aur unhe nahi sochna chahiye ki poet ka wahi matlab tha. Unhe music ke new forms se beware hona chahiye, jinaki poore education system ko affect karne ki sambhavna hai. Music ke styles mein badlav hamesha politically revolutionary hote hain. Wahi Damon kehta hai, aur main uspar vishwās karta hoon.’
+
+‘Which case mein, aap mujhe bhi believers ke beech count kar sakte hain,’ Adeimantus ne kaha.
+
+‘Presumably yeh woh jagah hai jahan hum sochte hain ki guardians ko apna watchtower build karna chahiye [d]. Music mein.’
+
+‘Yeh nischit roop se ek aisi jagah hai jahan rules todna aasaani se bina kisi ke ehsaas kiye ek aadat ban sakta hai,’ usne kaha.
+
+‘Haan, log nahi dekhte ki entertainment ke realm mein rules todna kaise koi harm kar sakta hai.’
+
+‘Yeh nahi kar sakta,’ usne kaha. ‘Except ki ek baar jab rules todne ka idea gradually khud ko establish kar leta hai, toh yeh imperceptibly logon ke characters aur habits mein seep kar jata hai. Wahan se yeh brim over karta hai, jaise jaise yeh jata hai badhte hue, ek doosre ke sath unke contracts mein [e]. Aur contracts se, Socrates, yeh laws aur political institutions tak wanton disruption ka apna course extend karta hai, jab tak ki aakhirkar yeh private aur public life mein har cheez ko destroy nahi kar deta.’
+
+‘Main dekhta hoon. Toh is tarah yeh hai, kya yeh hai?’
+
+‘Mujhe lagta hai,’ usne kaha.
+
+‘Us case mein, jaise hum shuruat mein keh rahe the, hamare children ke paas ek zyada disciplined kind ka entertainment hona chahiye.
+8
+Jab entertainment undisciplined hota hai – aur children likewise – toh children ke liye disciplined aur responsible men ke roop mein bada hona asambhav hai [425].’
+
+‘Of course,’ usne kaha.
+
+‘Agar woh children ke roop mein right sort ke entertainments ke sath shuruat karte hain, toh woh apni musical education ke zariya discipline acquire karenge. Is discipline ka unpar opposite effect hota hai us effect se jise aap abhi describe kar rahe the. Yeh unke sabhi actions mein unke sath chalta hai, aur unhe grow karne mein madad karta hai, city ke kisi bhi part ko correct karte hue jo pehle galat gaya ho sakta tha.’
+
+‘Yeh true hai,’ usne kaha.
+
+‘Jab yeh hota hai,’ maine kaha, ‘toh yeh log khud ke liye un apparently trivial rules ka pata lagate hain jo unke predecessors dwara destroy kar diye gaye the.’
+
+‘Woh kaun se rules hain?’
+
+‘Cheezein jaise young ka apne elders ki presence mein quiet rehna, jaise unhe hona chahiye; unhe apni seats chhodna; jab woh andar aayein toh khade hona; apne parents ke prati respect; unke hair-styles, clothes, shoes aur general appearance [b]. Us tarah ki sabhi cheezein. Kya aap sehamat nahi hain?’
+
+‘Haan, main hoon.’
+
+‘Mujhe lagta hai in cheezon ke baare mein laws banana absurd hai. Woh spoken ya written rules ka result nahi hain. Aur bhale hi woh hote, woh nahi tikenge.’
+
+‘Of course nahi.’
+
+‘Yeh nischit roop se lagta hai, Adeimantus, jaise har cheez us direction se follow karti hai jise ek person ki education leti hai [c]. Like hamesha like produce karta hai, kya nahi karta?’
+
+‘Naturally.’
+
+‘Aur main kalpana karta hoon ki hum kahenge ki final result, better ya worse ke liye, kuch unique, complete aur vigorous hai.’
+
+‘Aur kya?’
+
+‘Well, mere part ke liye,’ maine kaha, ‘is situation mein main is tarah ki cheez ke baare mein laws try karne aur pass karne ke liye itna aage nahi jaunga.’
+
+‘Mujhe yakin hai ki aap sahi hain,’ usne kaha.
+
+‘Lekin phir business dealings ke baare mein hum kya karne wale hain?’ maine poocha.
+
+‘Various parties market-place mein ek doosre ke sath jo contracts banati hain, udaharan ke liye [d]? Ya builders ke sath contracts, slander ya assault ke cases, lawsuits lana aur juries ka selection, markets ya ports mein due kisi bhi tariffs ka payment ya collection, aur markets, city ya harbours ka general regulation? Kya hum sach mein khud ko inmein se kisi ke liye legislate karne ke liye la sakte hain?’
+
+‘Nahi,’ usne kaha. ‘Agar hamare paas right sort ke citizens hain, toh unhe yeh batane mein samay barbaad karna hai ki kya karna hai. Main kalpana karta hoon ki woh apne liye zyaadatar zaroori legislation aasaani se viksit kar sakte hain [e].’
+
+‘Haan, mere dost,’ maine kaha. ‘Provided, yaani, god unhe un laws ka safe preservation grant karta hai jinhe humne abhi tak describe kiya hai.’
+
+‘Alternative,’ usne kaha, ‘unke liye is tarah ke detailed legislation ko enact aur amend karne mein apni poori lives bitana hai, is vishwās mein ki woh ideal solution par hit karenge.’
+
+‘Aapka matlab hai unki lives un logon jaisi hongi jo ill hain, aur jinme apne unhealthy way of life ko chhodne ke liye required self-discipline ki kami hai.’
+
+‘Precisely.’
+
+‘Woh log kitni delightful life jeete hain! Unka medical treatment kuch haasil nahi karta, sivaay unke ailments ki complications aur severity ko badhane ke, phir bhi woh constant hope mein jeete hain ki recommend ki gayi har new medicine wohi hogi jo unhe healthy banayegi [426].’
+
+‘Haan, us sort ke patients ke liye life sateek roop se waisi hi hai,’ usne kaha.
+
+‘Aur unki equally charming habit ke baare mein kya jo apni sabse badi hostility ko us person ke liye reserve karti hai jo unhe truth batata hai, jo yeh hai ki jab tak woh drinking, over-eating, sex aur idleness nahi chhodte, koi medicine, cauterisation ya surgery, koi charms, amulets ya us tarah ki koi cheez, unka thoda sa bhi good nahi karegi [b].’
+
+‘Yeh bilkul bhi ek charming habit nahi hai,’ usne kaha. ‘Aapko truth batane wale logon se angry hone ke baare mein kuch bhi charming nahi hai.’
+
+‘Aap is jise logon ke bade admirer nahi lagte,’ maine kaha.
+
+‘Emphatically nahi.’
+
+‘Toh aap impressed nahi honge agar, jaise hum abhi keh rahe the, poora city is tarah behave karta hai. Kya aap nahi sochte ki cities wahi kar rahe hain jab woh badly governed hote hain, aur phir bhi apne citizens ko constitution mein koi bhi badlav karne se forbid karte hain, unse kehte hue ki agar woh aisa karte hain toh unhe maut ke ghat utar diya jayega [c]? Balki woh person jo city ko waisa hi leta hai jaise yeh hai, jo logon ka sabse beguiling servant aur flatterer hai, jo unke good graces mein creep karta hai, jo unki wishes ko anticipate karta hai aur unhe satisfy karne mein adept hai – is person ko woh ek fine man declare karenge, ek man profoundly wise. Is man ko woh honour karenge.’
+9
+
+‘Haan, mujhe lagta hai ki cities sateek roop se wahi kar rahe hain. Aur main iske liye kahe jaane ke liye kuch nahi dekh sakta.’
+
+‘Un logon ke baare mein kya jo is jise cities ke servants banne ke liye willing aur eager hain [d]? Kya aap unke courage aur readiness ki tareef nahi karte?’
+
+‘Haan, main karta hoon,’ usne kaha. ‘Un logon se alag jo majority ke approval ko unhe yeh sochne mein fool karne dete hain ki woh sach mein statesmen hain.’
+
+‘Kya aap keh rahe hain ki aap in logon ke liye koi excuse nahi pa sakte? Agar ek man measurement ke baare mein kuch nahi jaanta, aur bahut se log jo kuch nahi jaante use batate hain ki woh six feet tall hai, kya aap suppose karte hain ki uske liye yeh sochne se bachna sambhav hai ki wahi hai jo woh hai [e]?’
+
+‘Nahi, main nahi sochta.’
+
+‘Ise aapko annoy na karne dein, phir. Aakhirkar, nischit roop se is jise log sabhi mein sabse entertaining hain, us tarah ke laws ko pass aur amend karte hue jinhe hum abhi describe kar rahe the, is constant belief mein ki woh business dealings mein dishonesty aur un sabhi areas mein ek answer paayenge jinake baare mein maine abhi baat ki hai. Woh ehsaas nahi karte ki woh Hydra ke head ko kaat rahe hain.’
+
+‘Yadyapi woh sateek roop se wahi kar rahe hain,’ usne kaha [427].
+
+‘Well, agar yeh mere upar hota,’ maine kaha, ‘toh maine nahi socha hota ki true lawgiver ko laws aur constitution ke in details se khud ko concern karna chahiye – chahe ek badly-governed ya ek well-governed city mein. Ek mein yeh pointless hai, aur kuch haasil nahi karta; doosre mein, kuch legislation bilkul kisi bhi vyakti dwara devise ki ja sakti hai, jabki baaki hamare previous arrangements se automatically follow karta hai.’
+
+‘Us case mein,’ usne poocha, ‘lawmaking ka kaun sa area hamare paas abhi bhi bacha hai [b]?’
+
+Aur maine kaha, ‘Hamare paas koi nahi hai. Lekin Delphi mein Apollo ke paas hai – legislation ke sabse mahatvapurna, sabse finest aur sabse fundamental pieces.’
+
+‘Woh kaun se hain?’
+
+‘Temples ki foundation. Sacrifices. Gods, demigods aur heroes ke liye perform kiye gaye service ke doosre acts. Dead ke burial places, aur woh observance jise unhe favourable rakhne ke liye neeche walon ko pay kiya jana chahiye [c]. Hum is tarah ki cheez ke baare mein nahi jaante, aur jab hum apna city found karte hain, agar hamare paas koi sense hai, toh akeli advice jise hum follow karenge, akeli authority jise hum recognise karenge, traditional authority hai. Aur main ise leta hoon ki in maamlon mein Apollo, stone par seated apne pronouncements banate hue jo earth ke navel ko form karta hai, poore mankind ke liye ancestral authority hai.’
+10
+
+‘Aap sahi hain,’ usne kaha. ‘Woh hamara approach hona chahiye.’
+
+‘Us case mein, Ariston ke son, aapka city ab founded maana ja sakta hai [d]. Agla step iske andar dekhna hai, aur uske liye aapko ek kaafi powerful light ki zaroorat hone wali hai. Aap apni khud ki pradan kar sakte hain, ya apne brother aur Polemarchus aur doosron ko apni madad karne ke liye le sakte hain. Phir shayad hum city mein sateek roop se wahan justice dekhne ka koi tareeqa paayenge jahan justice hai, jahan injustice hai, dono ke beech kya difference hai, aur unmein se kise un logon ko possess karna chahiye jo happy hone wale hain, chahe sabhi gods aur poora mankind ehsaas karein ki woh ise possess karte hain ya nahi.’
+
+‘Oh, nahi, aap aisa nahi karenge,’ Glaucon ne kaha [e]. ‘Aapne humse kaha tha ki aap justice ki talash karne wale the. Aapne kaha tha ki justice ko support karne ke liye jo kuch bhi aap possibly kar sakte the woh na karna impious tha.’
+
+‘Yeh true hai,’ maine kaha. ‘Mujhe yaad dilane ke liye thank you. Maine jo promise kiya tha mujhe woh karna chahiye. Lekin aapko apna bit bhi karna chahiye.’
+
+‘Hum karenge.’
+
+‘Us case mein,’ maine kaha, ‘yahan hai ki mujhe answer paane ki umeed kaise hai. Main ise leta hoon ki hamara city, agar ise correctly found kiya gaya hai, poori tarah good hai.’
+
+‘Yeh hone se bach nahi sakta.’
+
+‘Clearly, phir, yeh wise, courageous, self-disciplined aur just hai.’
+
+‘Clearly.’
+
+‘Phir jaise hum isme in elements mein se har ek ko paate hain, jinhe humne abhi tak nahi paaya hai woh remainder constitute karenge.’
+
+‘Of course.’
+
+‘Kinhin chaar cheezon ke sath, agar hum unmein se kisi ek ko kisi jagah ya doosre mein dhoondh rahe the, aur woh pehli cheez thi jispar hamari nazar padi, toh woh hamare liye kaafi hota [428]. Lekin agar humne pehle doosre teen ko identify kar liya, toh jise hum dhoondh rahe the woh ipso facto identify ho chuka hota, kyunki saaf taur par woh tab sirf wohi ho sakta tha jo bacha tha.’
+
+‘Aap sahi hain,’ usne kaha.
+
+‘Yeh hamare liye ab same hai. Kyunki vaastav mein chaar elements hain, kya humein apni search ko same way mein conduct karna chahiye?’
+
+‘Haan. Obviously.’
+
+‘Well, mujhe lagta hai ki nazar padne wala pehla element wisdom hai [b]. Aur isme ek unusual feature lagta hai.’
+
+‘Woh kya hai?’
+
+‘Yeh truly wise hai, mujhe lagta hai, yeh city jise humne describe kiya hai. Iske paas good judgment hai, kya nahi hai?’
+
+‘Haan.’
+
+‘Ab yeh cheez, judgment, clearly kisi tarah ka gyaan hai. Good decisions, main ise leta hoon, gyaan ka result hain, ignorance ka nahi.’
+
+‘Obviously.’
+
+‘Lekin hamare city mein kai types ke gyaan hain, bahut alag-alag kinds ke.’
+
+‘Of course hain.’
+
+‘Kya yeh iske carpenters dwara possessed gyaan hai jo humein apne city ko wise kehne ke entitled karta hai, aur kehne ke ki yeh good judgment possess karta hai [c]?’
+
+‘Certainly nahi,’ usne kaha. ‘Woh merely humein ise carpentry mein achha kehne ke entitled karta hai.’
+
+‘Toh ek city ko best possible wooden furniture banane mein uske gyaan aur judgment ke kaaran wise nahi kaha jana hai.’
+
+‘Absolutely nahi.’
+
+‘Bronze se cheezein banane ke uske gyaan ke baare mein kya, ya us tarah ka koi doosra gyaan?’
+
+‘Nahi, us jisa kuch nahi,’ usne kaha.
+
+‘Na hi soil se crops grow karne ka gyaan, kyunki use farming kaha jata hai.’
+
+‘Toh main vishwās karta hoon.’
+
+‘Kya wahan hai, phir,’ maine poocha, ‘is city ke citizens mein se kisi ke beech jise humne abhi found kiya hai, gyaan ka koi shakha jo poore city ke baare mein decisions leta hai – khud ke prati aur doosre cities ke prati sabse behtareen approach par decide karte hue – aur city mein kisi ek particular element ke baare mein nahi [d]?’
+
+‘Wahan sabse nischit roop se hai.’
+
+‘Yeh gyaan kya hai, aur yeh kis group mein milna hai?’
+
+‘Yeh guardians dwara possessed gyaan hai,’ usne kaha. ‘Aur yeh rulers mein milna hai, jinhe humne abhi perfect guardians kaha hai.’
+11
+
+‘Aur kya label hai jo aap apne city ko is gyaan ki strength par dete hain?’
+
+‘Main ise judgment mein sound, aur truly wise kehta hoon.’
+
+‘Toh aap kya sochte hain ki hamare city ke paas kiski matra zyada hogi [e]? Metalworkers, ya yeh true guardians?’
+
+‘Metalworkers,’ usne kaha. ‘Kahin zyada.’
+
+‘Un sabhi groups mein se jinake paas apne khud ka gyaan ka ek branch hai, aur jo ek group ke roop mein identified hain, kya guardians sabse chhote nahi honge?’
+
+‘Easily sabse chhote.’
+
+‘Which case mein, natural principles par founded city ki wisdom poori tarah se uske sabse chhote group aur element par nirbhar karti hai – leading aur ruling element – aur us gyaan par jo woh element possess karta hai [429]. Woh class jisse gyaan ke is branch mein share karne ki umeed ki ja sakti hai, jo gyaan ke sabhi branches mein se akela ek hai jise hum wisdom keh sakte hain, apne nature se, zaahir taur par, sabse chhoti class hai.’
+
+‘Yeh bahut true hai,’ usne kaha.
+
+‘Well, woh chaar cheezon mein se ek hai jinhe hum dhoondh rahe the. Aur humne ise na sirf paaya hai, mujhe poori tarah pata nahi kaise, balki city mein yeh kahan located hai ise bhi dhoondha hai.’
+
+‘Jahan tak mera sawaal hai, jis tareeqe se ise dhoondha gaya usme kuch galat nahi hai,’ usne kaha.
+
+‘Courage, agla. Ise dekhna hard nahi hai na toh khud cheez ko na hi city ke us hisse ko jismein yeh located hai, woh hissa jo city ko “courageous” naam deta hai.’
+
+‘Explain karein.’
+
+‘Ek city ko cowardly ya brave ke roop mein classify karne wala koi bhi person iske kisi doosre hisse ko nahi dekhega us hisse ke alawa jo city ke defence mein war karta hai, aur iski army mein serve karta hai [b].’
+
+‘Haan, wohi akela hissa hai jise koi dekhega,’ usne kaha.
+
+‘Mujhe lagta hai ki iska kaaran,’ maine kaha, ‘yeh hai ki population ke baaki hisse ka cowardice ya bravery khud city ko cowardly ya brave banane ke liye kaafi nahi hoga.’
+
+‘Nahi, woh nahi hoga.’
+
+‘Kya iska matlab hai ki ek city ka courage, iski wisdom ke sath-sath, uske ek part mein nihit hai, kyunki us part mein ek aisi power hai jo har situation mein is opinion ko preserve karne ke capable hai ki jise feared kiya jana hai woh wahi hai jise lawgiver ne unki education ke course mein list aur classify kiya tha [c]? Ya kya aap ise courage nahi kehte?’
+
+‘Maine use poori tarah follow nahi kiya. Phir se kaho.’
+
+‘Mera matlab hai ki courage ek tarah ka preservation hai,’ maine kaha.
+
+‘Preservation? Kisks?’
+
+‘Education dwara formed opinion ka, law ke influence ke tehat, un cheezon ke baare mein jinhe feared kiya jana hai. Jab maine sabhi situations mein iske preservation ke baare mein baat ki thi, mera matlab tha ise intact rakhna, pains, pleasures, desires aur fears ke zariya, ise reject kiye bina [d]. Main aapko ek analogy de sakta hoon, agar aap pasand karein.’
+
+‘Main pasand karunga.’
+
+‘Jab dyers wool ko purple dye karna chahte hain,’ maine kaha, ‘aap jaante hain ki woh various colours ke wools se unhe select karke shuruat karte hain jo naturally white hain. Woh inhein ek lengthy preliminary preparation dete hain, taaki woh jitna ho sake utna colour absorb karein [e]. Uske baad hi woh dyeing karte hain. Is tareeqe se dye ki gayi koi bhi cheez colour-fast hoti hai. Koi washing, detergent ke sath ya bina, isse colour ko remove nahi kar sakti. Lekin jab cheezein kisi doosre tareeqe se dye ki jaati hain, chahe wool koi doosra colour ho, ya chahe woh white ho lekin bina preparation ke dye ki gayi ho, aap jaante hain kya hota hai.’
+
+‘Haan,’ usne kaha. ‘Woh faded aur ridiculous lagti hain.’
+
+‘Yeh us tarah ki cheez hai jise aapko kalpana karni chahiye ki hum bhi kar rahe the, apni ability ke best par, jab humne apne soldiers ko select kiya aur unhe unki musical, poetic aur physical education di [430]. Aapko ehsaas hona chahiye ki hum jo kuch karne ki koshish kar rahe the woh cheezon ko organise karna tha taaki woh hamare laws ko jitna ho sake utna poori tarah absorb karein, ek dye ki tarah. Hum chahte the ki woh right character aur upbringing possess karein, taaki danger aur doosri cheezon par unke views colour-fast hon, kisi bhi detergent dwara washed out hone ke a-saksham jo itne achhe solvents hain [b]. Pleasure dwara nahi, jo kisi bhi soda ya lye se behtar solvent hai. Na hi pain, fear ya desire dwara, jo kisi bhi doosre detergent se zyada strong hain. Is tarah ki power aur preservation ko main courage kehta hoon – sahi aur lawful belief ka sabhi situations mein preservation ki kya feared kiya jana hai aur kya nahi. Yeh meri definition hai, jab tak ki aapko isse koi objection na ho.’
+
+‘Nahi, mujhe koi objection nahi hai,’ usne kaha. ‘Main ise leta hoon ki jab ek slave ya ek animal ke paas in subjects par ek correct opinion hai, ek aisa opinion jo education ka result nahi hai, aap ise properly lawful ke roop mein nahi dekhte,
+12
+aur aap ise courage ke alawa koi naam dete hain [c].’
+
+‘Precisely,’ maine kaha.
+
+‘Us case mein, main courage ki aapki definition accept karta hoon.’
+
+‘Ise ek city mein courage ki definition ke roop mein lein,’ maine kaha, ‘aur aap sahi honge. Hum kisi doosre samay courage ka ek behtar account de sakte hain, agar aap pasand karein. Vartaman mein, halanki, hum justice ki investigation kar rahe hain, courage ki nahi. Aur us purpose ke liye mujhe lagta hai ki yeh kaafi hai.’
+
+‘Haan. Aap sahi hain.’
+
+‘Yeh hamare city mein identify karne ke liye do cheezon ko chhodta hai,’ maine kaha [d]. ‘Ek self-discipline hai. Doosra hamari poori investigation ka object, justice.’
+
+‘Haan.’
+
+‘Well, kya koi aisa tareeqa hai jisse hum self-discipline ke baare mein bother kiye bina justice pa sakte hain?’
+
+‘Main nahi jaanta,’ usne kaha. ‘Main nahi chahenga ki yeh bahut jaldi apni appearance banaye, agar iska matlab self-discipline ki search ko chhodna hai. Agar mera is maamle mein koi say hai, please pehle self-discipline ko examine karein.’
+
+‘Well, agar yeh mere liye galat nahi hai, main woh karne ke liye kaafi happy hoon?’
+
+‘Dhoondhna shuru karein, phir [e].’
+
+‘Mujhe karna padega,’ maine kaha. ‘Mera pehla impression yeh hai ki yeh doosron ke muqable ek harmony ya musical mode ki tarah zyada hai.’
+
+‘Kis tareeqe se?’
+
+‘Self-discipline, main ise leta hoon, ek tarah ka order hai. Woh kehte hain ki yeh pleasures aur desires ka ek mastery hai, aur ek person ko kisi na kisi tareeqe se khud ka master ke roop mein describe kiya jata hai. Aur same sort ke doosre clues hain jis tareeqe se iske baare mein baat ki jaati hai, kya nahi hain?’
+
+‘Indeed hain,’ usne kaha.
+
+‘Lekin kya phrase “master of himself” ek absurdity nahi hai?
+13
+Master of himself ko nischit roop se slave to himself bhi hona chahiye, aur slave to himself ko master of himself hona chahiye [431]. Yeh same person hai jiske baare mein poora samay baat ki ja rahi hai.’
+
+‘Of course.’
+
+‘Jo bolne ka yeh tareeqa mujhe indicate karta hua lagta hai woh yeh hai ki ek single person ki soul mein ek better part aur ek worse part hota hai. Jab naturally better part worse ke control mein hota hai, toh yeh wohi hai jiska matlab “master of himself” se hai. Yeh approval ka ek term hai. Lekin jab bad upbringing ya bad company ke result ke roop mein better element, jo chhota hai, worse element ki mass dwara overwhelmed hota hai, toh yeh reproach ka maamla hai [b]. Woh is condition mein person ko a slave to himself, undisciplined kehte hain.’
+
+‘Haan, mujhe lagta hai ki yeh wahi indicate karta hai,’ usne kaha.
+
+‘Ab, agar aap hamare is naye city par ek look dete hain, toh aapko in situations mein se ek prevail hoti hui milegi. Aap admit karenge ki ise quite legitimately master of itself kaha ja sakta hai, agar koi cheez jismein better worse ko rule karta hai use self-disciplined aur master of itself kaha ja sakta hai.’
+
+‘Haan, jab main hamare city par ek look leta hoon,’ usne kaha, ‘aap sahi hain.’
+
+‘Lekin aap desires, pleasures aur pains ki poori range aur variety bhi paate hain [c]. Particularly children, women, slaves mein, aur so-called free men ke beech, ordinary logon ki majority mein.’
+
+‘Aap nischit roop se paate hain.’
+
+‘Jabki simple, moderate desires, jo rational calculation dwara guided hoti hain, intelligence aur correct belief ka upayog karte hue, aisi cheezein hain jinse aap sirf kuch logon ke beech milte hain, sabse behtareen natural endowment aur sabse behtareen education wale.’
+
+‘True,’ usne kaha.
+
+‘Well, kya aap apne city mein same qualities dekhte hain? Aur kya ordinary majority ki desires discerning minority ki desires aur wisdom dwara controlled hain [d]?’
+
+‘Haan, woh hain.’
+
+‘Toh agar koi city apne pleasures aur desires ka master, aur master of itself kaha ja sakta hai, toh yeh ek kaha ja sakta hai.’
+
+‘Yeh nischit roop se kaha ja sakta hai,’ usne kaha.
+
+‘Which case mein, kya hum ise in sabhi respects mein self-disciplined bhi nahi keh sakte?’
+
+‘Very much so.’
+
+‘Isse bhi zyada, agar kisi city mein rulers aur ruled ke beech is baare mein agreement milna hai ki unmein se kise rule karna hai, toh yeh is wale mein milna hai, kya aap nahi sochte [e]?’
+
+‘Main isse zyada sehamat nahi ho sakta tha.’
+
+‘Well phir, jab woh is tareeqe se agree karte hain, toh citizens ke do groups mein se kis mein aap kahenge ki self-discipline located hai? Rulers mein? Ya ruled mein?’
+
+‘Dono mein, main suppose karta hoon.’
+
+‘Dekhein ki humne abhi kitna plausible prediction kiya tha,’ maine kaha, ‘jab humne self-discipline ko kisi sort ke harmony se compare kiya tha?’
+14
+
+‘Explain karein.’
+
+‘Yeh courage aur wisdom ke jaisa nahi hai. Unmein se har ek ek particular part mein located tha, aur phir bhi ek ne poore city ko wise banaya, aur doosre ne ise brave banaya [432]. Self-discipline same way mein operate nahi karta. Yeh literally poore city mein extend karta hai, poore scale par, un logon ko dwara jo sabse weakest hain – intelligence mein, agar aap pasand karein, ya strength mein, ya dobara numbers, wealth ya us jaisa kisi cheez mein – un logon ke sath jo sabse strongest hain aur un logon ke jo beech mein hain, unison mein sing karvane ka kaaran banta hai. Toh hum yeh kehne mein kaafi justified honge ki self-discipline unmein se kise rule karna chahiye isbaare mein yeh agreement hai – worse aur better ka ek natural harmony, city mein aur har individual mein dono.’
+
+‘Main poori tarah sehamat hoon,’ usne kaha [b].
+
+‘Very well. Hamare city mein teen qualities identify ki ja chuki hain. Ya hamara impression aisa hai, kisi bhi rate par. Remaining quality kya ho sakti hai, jo ek city ko excellence mein share karne ki anumati deti hai? Kyunki clearly, yeh justice hone wali hai.’
+
+‘Clearly.’
+
+‘Ab, Glaucon, yeh hamare liye moment hai thicket ke charon taraf, huntsmen ki tarah, khud ko position karne ka. Humein concentrate karna chahiye, aur sunishchit karna chahiye ki justice escape na kare [c]. Hum nahi chahte ki yeh vanish ho jaye aur view se disappear ho jaye. Yeh obviously yahan kahin hai, toh apni eyes khuli rakhein, aur yeh dekhne ke liye apni hardest koshish karein ki yeh kahan hai. Agar aap ise pehle dekhte hain, toh mujhe ek shout dein.’
+
+‘Some hope,’ usne kaha. ‘Nahi, mujhe darr hai ki main aapke liye akela help tab hone wala hoon agar aap ek follower chahte hain, koi aisa jo cheezon ko dekh sakta hai jab woh uske samne point out ki jaati hain.’
+
+‘Ek prayer kaho, phir, aur mujhe follow karo.’
+
+‘Main karunga. Aap bas rasta dikhayein,’ usne kaha.
+
+‘Jagah impenetrable hai,’ maine kaha, ‘aur shadows se bhari hai. Aur yeh nischit roop se dark hai. Hamare quarry ko wahan se dislodge karna ek aasan jagah nahi hai. Phir bhi, humein aage badhna chahiye.’
+
+‘Haan, humein badhna chahiye.’
+
+Aur phir maine iski jhalak paayi [d]. ‘Aha! Idhar, Glaucon,’ maine chillaaya. ‘Yeh trail ki tarah lagta hai. Mujhe lagta hai hamara quarry humse escape nahi karne wala hai, aakhirkar.’
+
+‘Yeh achhi khabar hai,’ usne kaha.
+
+‘Hum poore idiots rahe hain.’
+
+‘Kis tareeqe se?’
+
+‘Hum fine ones hain! Yeh yahan hamare naakon ke neeche pada raha hai is poore samay. Right shuruat se, yadyapi hum ise dekh nahi sake. Hum khud ko fools bana rahe hain [e]. Aap jaante hain kaise kabhi-kabhi aap kisi cheez ko dhoondhte hain jab aap ise apne haath mein pakde hue hote hain. Well, wahi hai jo hum kar rahe hain. Hum sahi direction mein nahi dekh rahe hain. Hum miles door opposite direction mein dekh rahe hain, aur wahi shayad kaaran hai ki humne ise nahi dekha hai.’
+
+‘Aapka kya matlab hai?’
+
+‘Mera saara matlab,’ maine kaha, ‘yeh hai ki mujhe lagta hai hum iske baare mein baat kar rahe hain, aur khud ko iske baare mein baat karte hue sun rahe hain, yeh ehsaas kiye bina ki yeh kisi tareeqe se wahi tha jiske baare mein hum baat kar rahe the.’
+
+‘Yeh ek bahut lamba introduction hai,’ usne kaha. ‘Aapki audience impatient ho rahi hai.’
+
+‘Very well [433]. Dekhein ki kya main sense ki baat kar raha hoon, phir. Principle jo humne right shuruat mein laid down kiya tha, jab humne pehli baar apna city found kiya tha, kisi aisi cheez ke roop mein jisse humein poore samay stick karna chahiye – yeh, mujhe lagta hai, ya iska koi form, justice hai. Jo humne laid down kiya – aur aksar dohraaya, agar aapko yaad ho – woh yeh tha ki har individual ko, city mein uplabdh occupations mein se, us wale ko follow karna chahiye jiske liye uska natural character use sabse behtar fit karta tha.’
+15
+
+‘Haan, humne woh kaha tha.’
+
+‘Aur humne doosron ko kehte hue aksar suna hai, aur khud aksar kaha hai, ki apna khud ka job karna, aur doosron ke jobs unke liye karne ki koshish na karna, justice hai [b].’
+16
+
+‘Haan, humne woh kaha hai.’
+
+‘Well, yeh lagta hai, mere dost, jaise kisi na kisi tareeqe se justice har kisi ka apna task perform karne ka yeh business hai. Kya aap jaante hain ki mujhe kya lagwata hai ki aisa hai?’
+
+‘Nahi. Mujhe batayein.’
+
+‘Mujhe lagta hai city mein remaining element, virtues ke alawa jinhe hum dekh rahe the – self-discipline, courage aur wisdom – woh cheez hai jisne doosron sabhi ko astitva mein aane ki power di, aur woh cheez jiska continued presence unhe safe rakhta hai ek baar jab woh astitva mein aa jaati hain. Humne pehle kaha tha ki justice wohi hogi jo bach gayi hai, agar hum sirf doosre teen ko pa sakein [c].’
+17
+
+‘Haan, ise hona padega,’ usne kaha.
+
+‘Ab, agar humein decide karna hota,’ maine kaha, ‘ki in elements mein se kaun sa hamare city ko iske inclusion dwara good banane ke liye sabse zyada karega, toh woh ek difficult decision hota. Kya yeh rulers aur ruled ka agreement hai? Ya warriors ke ranks mein, law dwara approved ek opinion ka preservation ki kaun si cheezein feared ki jaani hain aur kaun si nahi? Ya rulers mein paaye jaane wali wisdom aur protectiveness? Ya sabse bada contribution ek city ko good banane mein child aur woman, slave aur free man mein, skilled craftsman, ruler aur ruled mein is principle ki presence se aata hai ki har single individual ko apna task perform karna hai khud ko doosron ke tasks ke baare mein trouble kiye bina [d]?’
+
+‘Haan, woh ek difficult decision hoga,’ usne kaha. ‘Bound to be.’
+
+‘Toh ek excellent city produce karne ke ek saadhan ke roop mein, har kisi ki apna function perform karne ki ability zaahir taur par city ki wisdom, self-discipline aur courage ke sath ek strong competitor hai.’
+
+‘Very much so.’
+
+‘Aur kya aap nahi kahenge ki jo cheez ek excellent city produce karne ki baat aane par unke sath ek strong contender hai woh justice hai?’
+
+‘Definitely [e].’
+
+‘Yahan ise dekhne ka ek aur tareeqa hai. Dekhein ki kya aap abhi bhi agree karte hain. Kya aap apne city mein rulers ko lawcourts mein cases sunne ka task denge?’
+
+‘Of course.’
+
+‘Jab woh cases sunte hain, kya unka mukhya aim yeh sunishchit karna hoga ki koi class na toh doosre se sambandhit kuch le, na hi usse sambandhit kuch kisi doosre dwara chheen liya jaye?’
+
+‘Haan, woh unka mukhya aim hoga.’
+
+‘Kyunki yeh just hai?’
+
+‘Haan.’
+
+‘Toh is point of view se bhi, logon ka unse sambandhit, aur unka apna jo hai uska ownership aur use, justice hone ke roop mein agreed kiya ja sakta hai [434].’
+
+‘Yeh aisa hai.’
+
+‘Ab, dekhein ki kya aap agle step ke baare mein mujhse agree karte hain. Agar ek carpenter ek shoemaker ka job karne ki koshish karta hai, ya ek shoemaker ek carpenter ka job, ya toh kyunki unhone society mein tools aur positions exchange kiye, ya kyunki ek person dono jobs karne ki koshish karta hai, kya aap sochte hain generally ki is sort ke changes city ko bahut harm karenge?’
+
+‘Nahi, sach mein nahi,’ usne kaha.
+
+‘Lekin main kalpana karta hoon ki yeh alag hota hai jab koi jo naturally ek craftsman ya kisi doosre kind ka moneymaker hai wealth, popularity, strength, ya us jaisa kisi cheez dwara puffed up hota hai, aur warrior class mein enter karne ki koshish karta hai, ya jab warriors mein se ek decision-making aur guardian class mein enter karne ki koshish karta hai, uske up to hue bina [b]. Agar yeh log society mein tools aur positions exchange karte hain, ya agar ek person same time par in sabhi jobs ko karne ki koshish karta hai, toh main sochta hoon ki aap mere sath agree karenge ki unke part par yeh change aur interference city ke liye destructive hai.’
+
+‘Haan, yeh nischit roop se hai.’
+
+‘Yeh hamare teen classes ka ek doosre ke sath interference hai, phir, aur unke beech interchange, jo city ko sabse bada harm karta hai, aur rightly iske khilaf sabse badtar crime kaha ja sakta hai [c].’
+
+‘Absolutely.’
+
+‘Kya “injustice” kisi ke apne city ke khilaf sabse bade crime ka naam nahi hai?’
+
+‘Of course.’
+
+‘Woh, phir, woh hai jo injustice hai. Conversely, iska opposite – commercial, auxiliary aur guardian classes ki apna kaam se kaam rakhne ki ability, unmein se har ek ke city mein apna function perform karne ke sath – yeh justice hoga, aur city ko just banayega.’
+
+‘Haan, mujhe lagta hai sateek roop se yeh waisa hi hai jaisa yeh hai,’ usne kaha [d].
+
+‘Mujhe nahi lagta ki hum abhi isbaare mein bahut sure ho sakte hain,’ maine kaha. ‘Agar wahi characteristic har individual human being mein milta hai, aur wahan bhi justice hone ke roop mein agreed kiya jata hai, toh hum ise accept karenge, kyunki wahan koi alternative nahi hoga. Agar nahi, toh humein kuch aur dhoondhna padega. Moment ke liye, halanki, aayein hamare original enquiry ko complete karein. Humne socha tha agar hum kisi bade object se shuruat karte hain jismein justice thi, aur wahan justice ko observe karne ki koshish karte hain, toh woh individual mein justice kaisa tha ise dekhna aasan bana dega [e].
+18
+Humne is bade object ke roop mein ek city ko chuna, aur yahi kaaran hai ki humne jitna ho sake utna behtareen city found kiya, is confident belief mein ki yeh good city mein hai jahan justice milna hai. Ab aayein wahan ki hamari findings ko individual par apply karein. Agar woh agree karte hain, well and good. Agar hum individual ke baare mein kisi doosre conclusion par aate hain, toh hum dobara city par wapas jaayenge, aur uspar ise test karenge [435]. Agar hum dono ko side by side dekhte hain, toh shayad hum unse ek spark pa sakte hain. Dry sticks ko ek sath rubbing karne ki tarah. Agar woh justice ko appear karwata hai, toh humne ise apni satisfaction ke liye confirm kar liya hoga.’
+
+‘Aap right road par hain,’ usne kaha. ‘Wahi hai jo humein karna chahiye.’
+
+‘Very well, phir,’ maine kaha. ‘Agar aapke paas do cheezein hain – ek badi, ek chhoti – aur aap unhe same name se bulate hain, kya woh us respect mein like ya unlike hain jo unhe same name deta hai?’
+
+‘Like,’ usne kaha.
+
+‘Toh just man apne turn mein, simply apni justice ke terms mein, ek just city se alag nahi hoga [b]. Woh just city ke jaisa hoga.’
+
+‘Woh hoga.’
+
+‘City ke case mein, humne dekha ki yeh just tha kyunki isme teen types ke nature mein se har ek apna function perform kar raha tha. Aur humne dekha ki yeh self-disciplined, brave aur wise tha inhi teen types ke doosre conditions aur states ke result ke roop mein.’
+
+‘True.’
+
+‘Which case mein, mere admirable dost, agar individual ke paas bhi uski soul mein yeh same elements hain, toh hum entitled feel karenge expect karne ke liye ki yeh isliye hai kyunki yeh elements usme same condition mein hain jaise woh city mein the ki use properly unhi names dwara titled kiya gaya hai jo humne city ko diye the [c].’
+
+‘Haan, inevitably,’ usne kaha.
+
+‘Well! Yahan ek aur simple chhota question hai jismein hum blunder kar gaye lagte hain,’ maine kaha. ‘Soul ke baare mein, is baar. Kya isme in teen elements ko dharan karti hai? Ya nahi karti?’
+
+‘Utna chhota question nahi, agar aap mujhse poochhein. Maybe, Socrates, is kehne mein kuch truth hai ki good kabhi aasaani se nahi aata.’
+
+‘Aisa lagta hai [d]. Aur mujhe aapko batana padega, Glaucon, ki mere drishtikon mein hum nischit roop se hamare argument mein moment par jis tarah ke methods ka upayog kar rahe hain unse hamare enquiry ka precise answer nahi paane wale hain. Wahan pahonchne ka ek tareeqa hai, lekin woh lamba aur zyada time-consuming hai.
+19
+Phir bhi, hum ek aisa answer paane mein saksham ho sakte hain jo hamare pehle ke answers aur investigations se badtar nahi hai.’
+
+‘Kya hum usse content nahi ho sakte?’ usne kaha. ‘Mere part ke liye, main reckon karunga ki woh going on karne ke liye kaafi tha.’
+
+‘Haan,’ maine kaha, ‘main bhi usse kahin zyada satisfied hota.’
+
+‘No weakening, phir,’ usne kaha. ‘Enquiry ke sath carry on karein.’
+
+‘Very well [e]. Kya hamare paas yeh agree karne ke alawa koi vikalp nahi hai ki humme se har ek mein wahi same elements aur characteristics paaye jaate hain jo city mein paaye jaate hain? Aakhirkar, city ise kahan se pa sakta tha? Yeh imagine karna ludicrous hoga ki cities mein spirited element individual citizens ke alawa kahin aur se astitva mein aaya hai – jahan citizens vaastav mein is reputation ko possess karte hain. Thrace mein log, udaharan ke liye, ya Scythia, ya North mein kahin bhi. Wahi learning ke love ke sath jata hai, jise hamare region ka outstanding characteristic maana ja sakta hai [436].
+20
+Ya commercial instinct, jise aap keh sakte hain mukhya roop se Phoenicians aur Egypt mein logon ke beech milne wala tha.’
+
+‘Haan, yeh imagine karna poori tarah ludicrous hoga ki yeh qualities kahin aur se aayi hain.’
+
+‘Yeh wahi tareeqa hai jisse yeh hai, phir,’ maine kaha. ‘Ise recognise karne mein koi problem nahi.’
+
+‘Bilkul koi nahi.’
+
+‘Jo problem hai, halanki, woh yeh hai. Kya hum in cheezon mein se har ek ko apne khud ke same part se karte hain? Ya, kyunki teen elements hain, kya hum alag-alag parts se alag-alag cheezein karte hain? Kya hamare andar learning ke liye ek element hai, spirited feel karne ke liye doosra, aur food, sex, aur us tarah ki cheezon ke pleasures ke liye hamari desire ke liye teesra [b]? Ya kya hum in cheezon mein se har ek ko karte hain, jab hum unpar embark karte hain, apni poori soul ke sath? Yeh woh questions hain jinaka ek convincing answer dena hard hoga.’
+
+‘Main sehamat hoon,’ usne kaha.
+
+‘Toh, aayein ascertain karne ki koshish karein ki kya woh ek doosre ke jaisey hain ya alag. Aur aayein is baare mein is tarah jaayein.’
+
+‘Kis tarah?’
+
+‘Yeh obvious hai ki koi cheez do opposite cheezein nahi kar sakti, ya do opposite states mein nahi ho sakti, apne same part mein, same time par, same object ke relation mein. Toh agar yeh woh hai jo hum in examples mein hote hue paate hain, toh hum jaan jaayenge ki wahan sirf ek element shamil nahi tha, balki ek se zyada [c].’
+
+‘Fair enough.’
+
+‘Ab, concentrate karein.’
+
+‘Main kar raha hoon,’ usne kaha. ‘Carry on.’
+
+‘Kya yeh sambhav hai,’ maine poocha, ‘ek cheez ke liye same time par, aur apne same part ke sath, rest par aur motion mein hona?’
+
+‘Nahi.’
+
+‘Kya hum isbaare mein aur bhi precise ho sakte hain jispar hum agree kar rahe hain, baad mein argument se bachne ke liye? Imagine karein ek man khada hai, lekin apne head aur apne hands ko move kar raha hai. Agar kisi ne kaha ki same man same time par rest par aur motion mein dono tha, toh mujhe nahi lagta ki hum ise ek legitimate claim ke roop mein dekhenge. Use jo kehna chahiye woh yeh hai ki uska ek part rest par hai, aur doosra part motion mein hai, kya use nahi kehna chahiye [d]?’
+
+‘Haan, use kehna chahiye.’
+
+‘Woh ek aur bhi ingenious example ke sath khud ko amuse kar sakta tha. Agar usne kaha, ek spinning top ke baare mein jiska centre ek jagah par fixed hai, ya same spot par rotate hone wali kisi doosre cheez ke baare mein, ki poori cheez rest par aur motion mein dono hai, toh hum ise accept nahi karenge [e]. In cases mein, jin parts ke respect mein woh stationary aur motion mein dono hain woh same parts nahi hain. Hum kahenge ki woh vertical axis aur circumference dono dharan karte hain. Axis ke respect mein woh rest par hain, kyunki woh upright rehte hain. Circumference ke respect mein woh rotate kar rahe hain. Aur agar, jabki woh abhi bhi revolve kar rahe hain, vertical axis right ya left, ya front ya back incline karti hai, toh woh rest par bilkul nahi ho sakte.’
+
+‘True,’ usne kaha.
+
+‘Toh hum is kind ke examples dwara bilkul bhi intimidated nahi hone wale hain. Yeh humein kisi bhi tareeqe se persuade karne ke liye kuch nahi karega ki ek cheez ke liye, apne same part mein, same object ke respect mein, same time par do opposite states mein hona, ya do opposite cheezein hona ya karna sambhav hai [437].’
+
+‘Yeh nischit roop se mujhe persuade nahi karega,’ usne kaha.
+
+‘Is sabke baavjood,’ maine kaha, ‘hum is kind ke har objection se apna rasta work out nahi karna chahte, yeh establish karte hue ghanton bitate hue ki woh valid nahi hain. Toh aayein yahan se is assumption par proceed karein ki yeh situation hai, is proviso ke sath ki agar cheezein is tarah nahi nikalti hain, toh is assumption par aadharit hamare sabhi conclusions destroy ho gaye honge.’
+
+‘Haan, wahi hai jo humein karna chahiye,’ usne kaha.
+
+‘Very well [b]. Ab, cheezon ke baare mein sochein jaise “yes” kehna aur “no” kehna, desire aur rejection, ya attraction aur repulsion. Kya aap un sabhi ko pairs of opposites ke roop mein classify nahi karenge? Chahe woh activities hon ya states hamare purposes ke liye irrelevant hoga.’
+
+‘Haan, opposites ke roop mein.’
+
+‘Hunger aur thirst ke baare mein kya,’ maine kaha, ‘aur general mein desires? Ya wanting aur willing hona? Kya aap un sabhi ko un categories mein ek jagah nahi paayenge jinaka humne abhi zikr kiya [c]? Kya aap nahi kahenge, udaharan ke liye, ki jis person ki soul kisi cheez ko desire karti hai woh ya toh us cheez ke liye reach out karti hai jise woh desire karti hai, ya jo woh chahti hai use apni taraf draw karti hai? Ya us extent tak ki woh uske liye provided ki gayi kisi cheez ko rakhne ke liye willing hai, ki woh mentally usse “yes” kehti hai, jaise ek question ke reply mein, jaise woh apni desire ke realisation ki taraf stretch out karti hai?’
+
+‘Haan.’
+
+‘Not wanting, unwilling hone, aur desire na karne ke baare mein kya? Kya hum unhe rejection aur refusal ke sath classify nahi karenge, sabhi corresponding opposites ke sath, in fact?’
+
+‘Of course.’
+
+‘Aisa hone par, kya hum keh sakte hain ki desires ek class banati hain, aur ki unmein se sabse striking woh hain jinhe hum thirst aur hunger kehte hain [d]?’
+
+‘Hum keh sakte hain.’
+
+‘Aur ki ek drink ke liye desire hai, doosra food ke liye desire?’
+
+‘Haan.’
+
+‘Well, phir, kya thirst, simply thirst ke roop mein considered, soul mein kisi cheez ke liye desire hai usse zyada jise humne abhi kaha hai? Udaharan ke liye, kya thirst warm drink ke liye thirst hai ya cold drink ke liye? Ek bade drink ke liye ya chhote ke liye? Ya, ise briefly put karne ke liye, kya yeh kisi bhi particular kind ke drink ke liye hai [e]? Ya kya thirst mein thodi si warmth ka addition cold ke liye desire produce karta hai? Aur kya cold ka addition warmth produce karta hai? Agar largeness ki presence thirst ko ek bada बनाती hai, kya yeh bade drink ke liye desire produce karegi? Aur kya ek chhoti thirst chhote ke liye desire produce karegi? Lekin thirst itself kisi doosre cheez ke liye desire nahi ho sakti sivaay uske natural object ke, jo purely aur simply drink hai – hunger kisi doosre cheez ke liye desire nahi ho sakti sivaay food ke.’
+
+‘Yeh sahi hai,’ usne kaha. ‘Har ek aur sabhi desire, apne aap mein, sirf us cheez ke liye desire hai jo iska natural object hai. Har case mein additional element woh hai jo ise is ya us particular kind ke object ke liye desire banata hai.’
+
+‘Hum un objections dwara interrupt nahi hona chahte jinpar humne vichar nahi kiya hai,’ maine kaha [438]. ‘Toh yahan ek hai. Koi bhi drink desire nahi karta, balki good drink. Koi bhi food desire nahi karta, balki good food, kyunki har koi good cheezon ko desire karta hai. Toh agar thirst ek desire hai, toh yeh kisi good cheez ke liye desire honi chahiye. Ya toh ek drink, ya jo kuch bhi yeh desire karti hai. Wahi doosri desires ke sath jata hai.’
+
+‘Well,’ usne kaha, ‘aap soch sakte hain ki is objection mein kuch tha.’
+
+‘Haan,’ maine kaha, ‘lekin agar aap un sabhi cheezon ko lete hain jo aisi hain ki kisi doosre cheez se related hon, mujhe lagta hai ki qualified instances qualified objects se related hain, jabki cheezein khud har ek sirf ek aise object se related hain jo bas khud hai [b].’
+
+‘Main nahi samajhta,’ usne kaha.
+
+‘Aap kya nahi samajhte? Ki yeh uski nature hai jo greater hai kisi doosre cheez se greater hona?’
+
+‘Nahi, main use samajhta hoon.’
+
+‘Usse greater jo smaller hai?’
+
+‘Haan.’
+
+‘Aur jo much greater hai usse jo much smaller hai?’
+
+‘Haan.’
+
+‘Aur jo ek baar greater tha usse jo ek baar smaller tha, aur jo greater hoga usse jo smaller hoga?’
+
+‘Obviously,’ usne kaha.
+
+‘Aur wahi more in relation to less, double in relation to half, aur un sabhi kinds ke cheezon ke sath [c]? Ya heavier in relation to lighter, faster in relation to that which is slower? Ya hot in relation to cold, for that matter, ya us kind ki koi cheez?’
+
+‘Certainly.’
+
+‘Knowledge ke branches ke baare mein kya? Kya same principle laagu nahi hota? Knowledge itself hai, jo simply knowledge hai uski jise seekha ja sakta hai – ya jiska bhi hum suppose karte hain ki knowledge knowledge hai. Phir yeh ya woh branch of knowledge hai, jo is ya us specific subject ka knowledge hai [d]. Jis kind ki cheez mera matlab hai woh yeh hai. Jab housebuilding ka ek gyaan astitva mein aaya, kya yeh knowledge ke doosre branches se differ karta tha? Kya yahi kaaran tha ki ise building ka knowledge kaha gaya tha?’
+
+‘Haan, of course.’
+
+‘Kyunki yeh knowledge ka ek specific branch tha, sabhi doosre branches se alag?’
+
+‘Haan.’
+
+‘Aur kya yeh isliye nahi tha kyunki yeh kisi specific subject ka knowledge tha ki yeh knowledge ka ek specific branch ban gaya? Aur same doosre skills aur knowledge ke branches ke sath?’
+
+‘True.’
+
+‘Well, agar aapne ise is baar samjha,’ maine kaha, ‘toh wahi hai jise aapko mera matlab lena chahiye abhi. Maine kaha tha ki jab cheezein aisi hoti hain ki kisi doosre cheez ke relation mein khadi hon, cheezein just by themselves objects just by themselves se related hoti hain, jabki qualified instances qualified objects se related hoti hain [e]. Woh kisi bhi tareeqe se yeh kehna nahi hai ki woh un cheezon ke jaisi hain jinake relation mein woh hain – ki health aur disease ka knowledge healthy ya diseased hai, ya ki good aur bad ka knowledge good ya bad hai. Balki, kyunki knowledge yahan uski nahi hai jo knowledge ka object hai, balki kisi qualified object ki – is case mein jo healthy ya diseased hai – knowledge itself ek specific branch of knowledge ke roop mein bhi nikala. Yahi kaaran hai ki ise simply knowledge nahi kaha gaya tha, balki, is specific addition ke kaaran, medical knowledge.’
+
+‘Main samajhta hoon,’ usne kaha. ‘Aur mujhe lagta hai aap sahi hain.’
+
+‘Aayein thirst par wapas chalein, phir,’ maine kaha [439]. ‘Kya aap ise un cheezon ki category mein nahi rakhenge jo woh hain jo woh kisi doosre cheez ke relation mein hain? Thirst, phir, of course thirst hai . . .’
+
+‘Haan. Drink ke liye.’
+
+‘Toh kisi particular kind ke drink ke liye, kya particular kind ki thirst nahi hoti? Jabki thirst as such bada drink ya chhote drink ke liye thirst nahi hai, na hi good drink ya bad drink ke liye – na hi, ise briefly put karne ke liye, kisi specific drink ke liye. Nahi, thirst as such ka object, cheezon ke nature mein, simply drink as such hai, kya nahi hai?’
+
+‘Absolutely.’
+
+‘Phir thirsty person ki soul jo chahti hai, in so far as he is thirsty, drink karna hai. Wahi hai jiske liye yeh reach out karti hai, aur make karti hai.’
+
+‘Clearly [b].’
+
+‘Aur agar wahan use hold back karne ke liye kuch bhi hai jab woh thirsty hai, kya ise uski soul mein ek alag element hona padega us actual part se jo thirsty hai, aur jo use ek animal ki tarah drink karne ke liye drive karta hai? Aakhirkar, same cheez, hamare view mein, do opposite cheezein nahi kar sakti, apne same part mein, same object ke respect mein, same time par.’
+
+‘Nahi, woh nahi kar sakti.’
+
+‘Usi tareeqe se, mujhe lagta hai ki ek archer ke baare mein yeh kehna galat hai ki uske hands bow ko same time par push aur pull kar rahe hain. Jo humein kehna chahiye woh yeh hai ki ek hand push kar raha hai, jabki doosra pull kar raha hai.’
+
+‘Precisely,’ usne kaha.
+
+‘Ab, kya hum keh sakte hain ki kuch thirsty लोग kabhi-kabhi drink karne se inkaar karte hain [c]?’
+
+‘Haan, unme se bahut se,’ usne kaha. ‘Often.’
+
+‘In logon ke baare mein kya kaha ja sakta hai, phir? Kya hum nahi keh sakte ki unki soul mein kuch hai jo unse drink karne ke liye kehta hai, aur kuch roknay wala bhi? Kuch alag, aur stronger us cheez se jo unse kehti hai ki unhe drink karna chahiye?’
+
+‘Haan, mujhe lagta hai hum woh keh sakte hain,’ usne kaha.
+
+‘Jo cheez unhe in cases mein rokti hai – kya yeh, jab yeh paida hoti hai, rational calculation ke result ke roop mein paida nahi hoti, jabki jo cheezein unhe drink ki taraf drive ya draw karti hain woh feelings aur disorders ke products hain [d]?’
+
+‘Apparently.’
+
+‘Yeh ek reasonable inference hoga, phir,’ maine kaha, ‘ki woh do poori tarah alag cheezein hain. Soul ke us part ko jisse hum rationally sochte hain hum rational element keh sakte hain. Us part ko jisse hum sexual desire, hunger, thirst, aur doosri desires ka turmoil feel karte hain irrational aur desiring element kaha ja sakta hai, indulgence aur pleasure ka companion.’
+
+‘Haan,’ usne kaha, ‘woh hamare liye aane ke liye ek perfectly natural conclusion hoga [e].’
+
+‘Aayein ise lein, phir, ki humne soul mein in do elements ki presence establish kar li hai. Spirit ke baare mein kya, woh cheez jo humein ek spirited way mein behave karvati hai? Kya woh ek third element hai? Agar nahi, toh iska nature doosron mein se ek ke jaisa hona chahiye. Kaun sa?’
+
+‘Second, maybe. Desiring element.’
+
+‘Iske khilaf,’ maine kaha, ‘ek story hai jo maine ek baar suni thi jo mujhe lagta hai yahan humein guide kar sakti hai. Leontius, Aglaeon ka son, Piraeus se town ki taraf apne raste par tha. Jaise woh north wall ke neeche chal raha tha, outside par, usne public executioner ko dekha jiske bagal mein kuch dead bodies padi thin. Woh bodies ko dekhna chahta tha, lekin same time par usne disgust feel kiya aur khud ko hold back kiya [440]. Kuch samay ke liye usne struggle kiya, aur apni eyes cover kin. Phir desire ne uspar control pa liya. Woh wahan bhaga jahan bodies thin, aur apni eyes ko wide open forced kiya, kehte hue, “There you are, curse you. Ek sach mein achha look lo. Kya yeh ek lovely sight nahi hai?”’
+
+‘Haan, maine woh story bhi suni hai,’ usne kaha.
+
+‘Yeh dikhata hai ki anger kabhi-kabhi desires ke sath war mein ho sakta hai, jiska matlab hai ki woh do distinct aur separate cheezein hain.’
+
+‘Haan, yeh woh dikhata hai,’ usne kaha.
+
+‘Kya wahan kai doosri situations bhi nahi hain – jab bhi log desires dwara unki reason ki advice ke khilaf cheezein karne ke liye forced hote hain – jab woh khud ko curse karte hain, aur us bit se furious hote hain jo unhe in cheezon ko karne ke liye force karta hai? Yeh aisa hai jaise is jise kisi ke andar ek civil war chal raha ho, spirit reason ke ally ke roop mein act karte hue [b]. Spirit ka desires ka side lena, doosri taraf, jab reason ne apna opposition declare kar diya hai, us sort ki cheez nahi hai jise main kalpana karta hoon ki aapne kabhi claim kiya ho apne andar ya kisi aur mein dekhne ka.’
+
+‘Nahi, maine nischit roop se nahi dekha,’ usne kaha.
+
+‘Kisi aise vyakti ke baare mein sochein jo ehsaas karta hai ki woh wrong mein hai [c]. Kya yeh case nahi hai ki jitna behtar uska character, utna hi kam woh hunger, ya cold, ya us kind ki kisi cheez ko kisi aise person ke haathon endure karne par anger feel karne ke capable hota hai jise woh in cheezon को inflict karne ke entitled ke roop mein dekhta hai? Kya yeh uska spirit nahi hai, jaise main kehta hoon, jo koi objection raise karne se inkaar karta hai?’
+
+‘Haan, yeh true hai.’
+
+‘Us vyakti ke baare mein kya jo sochta hai ki uske sath wrong kiya ja raha hai? Jab yeh chal raha hota hai, kya woh hunger, cold aur is kind ki kisi bhi hardships par rage se boil nahi karta [d]? Kya woh khud ko uske sath ally nahi karta jise woh just sochta hai, aur in sabhi cheezon ko endure karta hai jab tak ki woh win through na kar le, apne justified indignation ko chhodne se inkaar karte hue jab tak ki woh ya toh apna aim haasil na kar le, ya mar na jaye, ya uske andar ki reason dwara wapas called aur pacified na kiya jaye, ek shepherd dwara recall kiye jaane wale dog ke jaisa?’
+
+‘Haan, yeh uske sath ek bahut close parallel hai jiske baare mein aap baat kar rahe the. Isse bhi zyada, hamare city mein humne specify kiya tha ki auxiliaries city ke shepherd rulers ke obedient dogs hone chahiye.’
+21
+
+‘Good,’ maine kaha. ‘Aap sateek roop se samajhte hain ki main kis baare mein baat kar raha hoon. Lekin ek aur point bhi hai jise aap is baare mein notice kar sakte hain.’
+
+‘Woh kya hai?’
+
+‘Yeh kuch moments pehle spirited element ke baare mein hamare suggestion ke opposite hai [e]. Humne tab socha tha ki yeh character mein desirous tha, jabki ab hum ise kisi bhi cheez ke roop mein dekhte hain par desirous nahi. Soul ke civil war mein, iska rational part ke side par arms take up karne ki kahin zyada sambhavna hai.’
+
+‘Absolutely,’ usne kaha.
+
+‘Kya yeh rational element se independent kuch hai, ya kya yeh rational element ka koi form hai? Kya soul mein teen elements nahi hain, balki sirf do, rational aur desiring? Ya kya soul city ke jaisi hai? City teen classes dwara ek sath held tha, commercial, auxiliary aur decision-making [441]. Kya soul bhi is third, spirited element ko dharan karti hai, jo by nature rational element ke liye auxiliary hai, provided yeh ek poor upbringing dwara corrupt nahi hota?’
+
+‘Haan, yeh ek third element dharan karti hai,’ usne kaha. ‘Ise karna chahiye.’
+
+‘Haan, provided ise rational element se distinct kuch ke roop mein dikhaya ja sakta hai, waise hi jaise ise desiring element se distinct kuch ke roop mein dikhaya gaya tha.’
+
+‘Woh aasaani se dikhaya jata hai,’ usne kaha. ‘Aap ise young children mein dekh sakte hain. Right unke born hone ke time se, woh spirit se bhare hote hain, yadyapi unmein se zyadatar, agar aap mujhse poochhein, sirf life mein late rationality ki kuch degree haasil karte hain [b]. Aur kuch kabhi nahi.’
+
+‘Aap kitne sahi hain. Animals mein bhi aap dekh sakte hain ki jis baare mein aap baat kar rahe hain woh laagu hota hai. Aur in examples se alag, Homer ka sabhoot hai, line mein jise mujhe lagta hai humne pehle quote kiya tha:
+
+> He smote his chest, and thus rebuked his heart.
+> 22
+
+Us passage mein Homer clearly do alag-alag elements portray karta hai. Woh part jisne rationally reflect kiya hai ki kya behtar hai aur kya badtar hai ke paas us element se kehne ke liye kuch sharp words hain jo irrationally angry hai [c].’
+
+‘Aap nischit roop se sahi hain,’ usne kaha.
+
+‘Wahan hum hain, phir,’ maine kaha. ‘Humne dry land tak pahonch gaya hai – bina kisi difficulty ke nahi – aur hum kaafi hadd tak agree karte hain ki har individual ki soul same sorts ki cheez dharan karti hai, aur unka same number, jitna ek city dharan karta hai.’
+
+‘True.’
+
+‘Immediate aur inescapable conclusion yeh hai ki individual waisi hi wise hai, aur apne same part ka upayog karte hue, jaise city tha jab woh wise tha.’
+
+‘Of course.’
+
+‘Yeh bhi ki jo cheez individual ko brave banati hai, aur jis tareeqe se woh brave hai, wahi cheez hai jo city ko brave banati hai, aur jis tareeqe se woh brave hai [d]. Ki virtue se do-char hone wali har cheez mein dono same hain.’
+
+‘Haan, woh inescapable hai.’
+
+‘Toh ek just man just hai, mujhe lagta hai hum kahenge, Glaucon, same way mein ek city just tha.’
+
+‘Woh bhi complete certainty ke sath follow karta hai.’
+
+‘Hum kisi bhi point par bhool nahi gaye hain, mujhe umeed hai, ki city just tha jab isme teen elements mein se har ek apna function perform kar raha tha.’
+
+‘Nahi, mujhe nahi lagta ki hum bhool gaye hain,’ usne kaha.
+
+‘Which case mein, humein yeh bhi yaad rakhna chahiye ki humme se har ek just hoga, aur apna proper task perform karega, jab uske andar elements mein se har ek apna proper task perform kar raha hoga [e].’
+
+‘Haan, humein woh nischit roop se yaad rakhna chahiye.’
+
+‘Kya rational element ke liye rule karna appropriate nahi hai, kyunki yeh wise hai aur poori soul ke liye thought leta hai, aur spirited element ke liye subordinate hona appropriate hai, rational element ka ally?’
+
+‘Haan.’
+
+‘Kya ek combination, jaise humne kaha,
+23
+artistic aur physical education ka in do elements ko concordant nahi banayega [442]? Woh rational part ko ek higher pitch par laayenge, improving stories aur studies ke unke diet ke sath, jabki same time par spirited part ko gentle encouragement dwara tone down karte hue, ise harmony aur rhythm ke saadhan dwara calm karte hue.’
+
+‘Woh nischit roop se karenge,’ usne kaha.
+
+‘Jab yeh do elements is kind ke diet par paale jaate hain, jab woh truly unke appropriate teaching aur education receive karte hain, toh woh do desirous element par control exercise karenge, jo kisi bhi individual mein soul mein sabse bada element hai aur, left to itself, material goods ke maamle mein sabse insatiable. Woh ispar ek close eye rakhenge, yeh sunishchit karne ke liye ki body ke so-called pleasures ki satisfaction ise bada aur strong banne ke liye encourage na kare, apna function perform karna band na kare, aur un sabhi ki life ko confusion mein na phenke un elements par enslave aur rule karne ke apne attempt dwara jinpar rule karne ke liye yeh naturally equipped nahi hai [b].’
+
+‘Woh karenge indeed,’ usne kaha. ‘A very close eye.’
+
+‘Kya yeh do elements body aur soul ke liye unki entirety mein external enemies ke khilaf sabse behtareen defenders bhi nahi hain? Ek decisions leta hai, doosra fighting karta hai, ruling element ki leadership ke tehat, apne courage ka upayog in decisions ko effect mein daalne ke liye karte hue.’
+
+‘True.’
+
+‘Title “brave,” mujhe lagta hai, ek aisa hai jo hum kisi bhi individual ko is part ke kaaran dete hain, jab usme spirited element, pleasures aur pains se ghera hone ke baavjood, reason dwara use di gayi instructions ko intact rakhta hai ki kya feared kiya jana hai aur kya nahi [c].’
+
+‘Rightly so,’ usne kaha.
+
+‘Aur title “wise” us chhote part ke kaaran jisne ek internal ruler ke roop mein act kiya aur woh instructions di, apne andar teen ke poore community ke liye kya good tha uski ek corresponding knowledge rakhte hue.’
+
+‘Exactly.’
+
+‘Self-disciplined ke baare mein kya? Kya woh in teen ke friendship aur harmony ka result nahi hai [d]? Ruling element aur do elements jo ruled hain agree karte hain ki jo rational hai use rule karna chahiye, aur iske khilaf rebel nahi karte.’
+
+‘Haan. Sateek roop se wahi self-discipline hai,’ usne kaha, ‘dono ek city ke liye aur ek individual ke liye.’
+
+‘Aur ek person just hoga, finally, us principle ke virtue dwara jise humne kai baar state kiya hai.
+24
+Yeh his fact aur uski justice ke manner dono ko determine karta hai.’
+
+‘Haan, inevitably.’
+
+‘Us case mein,’ maine kaha, ‘kya hum justice ko edges ke charon taraf bilkul blurred lagte hue paate hain? Kya yeh humein usse kisi alag lagti hai jaisi yeh thi jab yeh city mein show up hui thi?’
+
+‘Mujhe toh nahi lagti.’
+
+‘Agar hamari soul mein kuch aisa hai jo abhi bhi is par dispute karne ke prati inclined hai,’ maine kaha, ‘toh hum final confirmation ke liye everyday life par appeal kar sakte hain [e].’
+
+‘Aapka kya matlab hai, everyday life?’
+
+‘Well, imagine karein hum is city ke baare mein aur us man ke baare mein discuss kar rahe the jo apne nature aur upbringing dwara iske jaisa hai, aur humein agree karna tha ki kya humne socha ki is jisa man safe keeping ke liye uske paas deposited gold ya silver ke sum ko embezzle karega. Kya koi, aap suppose karte hain, possibly is jise man ko un logon se zyada aisa karne ki sambhavna wala imagine kar sakta hai jo usse alag the [443]?’
+
+‘Nahi,’ usne kaha. ‘Mujhe nahi lagta ki koi kar sakta hai.’
+
+‘Kya is man ka temple-robbery, theft aur betrayal se koi lena-dena hoga? Chahe private life mein apne friends ke, ya public life mein apne city ke?’
+
+‘Nahi, uska nahi hoga.’
+
+‘Isse bhi zyada, woh oaths aur agreements ke doosre sorts ko rakhne mein utterly reliable hoga.’
+
+‘Of course.’
+
+‘Phir dobara adultery, parents ka neglect, religious observance mein failure – woh aakhri person hoga jise aap in faults ke sath paane ki umeed karenge.’
+
+‘Absolutely the last,’ usne kaha.
+
+‘Kya is sabka kaaran yeh hai ki jab ruling aur ruled hone ki baat aati hai, toh uske andar elements mein se har ek apna function perform karta hai [b]?’
+
+‘Haan, wahi kaaran hai. Sole kaaran.’
+
+‘Which case mein, kya aap abhi bhi justice ko is power se zyada kuch hona chahte hain jo in calibre ke men aur cities dono produce kar sakti hai?’
+
+‘Nahi, woh mere liye kaafi se zyada hai,’ usne kaha.
+
+‘Us case mein, humne hamare dream ka final realisation dekha hai – hamara suspicion ki hamare city ko found karne par hamare pehle attempt ne kisi divine guidance ke sath, justice ke origin, aur kisi sort ke model dono par hit kiya ho sakta hai [c].’
+
+‘Haan, humne nischit roop se iska realisation dekha hai.’
+
+‘Toh yeh principle, Glaucon – ki agar aap nature se ek shoemaker hain, toh aapko khud ko shoes banane tak seemit rakhna chahiye, agar aap ek carpenter hain toh aapko khud ko carpentry tak seemit rakhna chahiye, aur ityaadi – sach mein justice ka ek tarah ka image tha. Yahi kaaran hai ki yeh hamare liye itna useful tha.’
+
+‘Apparently so.’
+
+‘Lekin truth yeh hai ki yadyapi justice apparently is sort ki cheez thi, yeh a man’s own function ke external performance se concerned nahi thi, balki iske internal performance se, uski true self aur uski apni true function ke sath, uske andar elements mein se har ek ko apne alawa doosre tasks perform karne se forbid karte hue, aur uski soul ke andar ke classes of thing ko ek doosre ke sath interfere karne ki anumati na dete hue [d]. Use, quite literally, apne ghar ko order mein rakhna hai, khud apna ruler, mentor aur friend hote hue, aur teen elements ko tune karte hue bilkul ek musical scale mein teen fixed points ki tarah – top, bottom aur intermediate [e]. Aur agar koi intervening elements nikalte hain, toh use un sabhi ko combine karna chahiye, aur diverse elements ke ek perfect unity ke roop mein emerge hona chahiye, self-disciplined aur khud ke sath harmony mein. Tabhi woh act karta hai, chahe yeh paise banane ka question ho, ya apne body ki care lene ka, ya koi political action, ya private individuals ke sath contractual agreements. In sabhi situations mein woh vishwās karta hai aur declare karta hai ki ek just aur good action woh hai jo mind ki is state ko preserve karta hai ya laata hai, aur ki wisdom woh gyaan hai jo action ko direct karta hai [444]. Ki ek unjust action, apne turn mein, koi bhi aisa action hai jo mind ki is state ko destroy karne ke prati jhukta hai, aur ki ignorance woh opinion hai jo unjust action ko direct karta hai.’
+
+‘Aap bilkul sahi hain, Socrates.’
+
+‘Well phir,’ maine kaha, ‘agar humein yeh kehna hota ki humne just man aur just city ko dhoondh liya hai, aur unme justice vaastav mein kya thi, toh humein poori tarah mark se door nahi kaha ja sakta tha, mere drishtikon mein.’
+
+‘Hum most certainly nahi kahe ja sakte the,’ usne kaha.
+
+‘Kya wahi hai jo hum kehne wale hain, phir?’
+
+‘Hum hain.’
+
+‘Aayein ise wahan chhod dein, phir,’ maine kaha, ‘kyunki agli cheez jise humein dekhna hai, main kalpana karta hoon, injustice hai.’
+
+‘Obviously.’
+
+‘Injustice, is definition par, in teen elements ke beech kisi sort ka civil war hona chahiye, apne khud ke business se mind karne se inkaar, aur ek doosre ke mind karne ka dhrid-sankalp, poore ke khilaf soul ke ek part dwara ek rebellion [b]. Jo part rebel karta hai woh usme ruler banne par bent hota hai jab woh be hone ke liye equipped nahi hota, uska natural role ruling class ke slave ka hone ke roop mein. Is jisa kuch wahi hai jo hum kahenge, mujhe lagta hai. Aur hum jodenge ki teen elements ka disorder aur straying injustice, indiscipline, cowardice, ignorance produce karta hai – har kind ka evil, in fact.’
+
+‘Hum is jisa kuch nahi kahenge,’ usne kaha [c]. ‘Hum sateek roop se yeh kahenge.’
+
+‘Very well,’ maine kaha. ‘Ab jabki hamare paas injustice aur justice ka ek clear picture hai, kya hamare paas unjust actions aur acting unjustly ka bhi ek clear picture hai? Aur similarly just actions ka?’
+
+‘Explain karein.’
+
+‘Well,’ maine kaha, ‘just aur unjust actions ka soul par effect physical health aur unhealthy actions ka body par effect se vaastav mein alag nahi hai.’
+
+‘Kis tareeqe se?’
+
+‘Cheezein jo healthy hain woh health produce karti hain, presumably. Aur cheezein jo unhealthy hain woh disease produce karti hain.’
+
+‘Haan.’
+
+‘Toh kya justly act karna justice produce karta hai, aur unjustly act karna injustice produce karta hai [d]?’
+
+‘Yeh hone se bahar nahi hai.’
+
+‘Health produce karna body mein elements ko is tarah arrange karne ka question hai ki woh ek doosre ko control karein – aur controlled hon – us tareeqe se jise nature intend karti hai.
+25
+Disease produce karna unke rule karne aur ruled hone ka question hai, ek doosre dwara, ek aise tareeqe mein jise nature intend nahi karti.’
+
+‘True.’
+
+‘Kya yeh follow karta hai, phir,’ maine poocha, ‘ki justice produce karna apne turn mein soul mein elements ko arrange karne ka question hai taaki woh ek doosre ko control karein – aur controlled hon – us tareeqe se jise nature intend karti hai? Kya injustice produce karna unke rule karne aur ruled hone ka question hai, ek doosre dwara, ek aise tareeqe mein jise nature intend nahi karti?’
+
+‘Indeed yeh hai,’ usne kaha.
+
+‘Which case mein, virtue apparently soul mein health, beauty aur vigour ka koi sort hoga, jabki vice disease, ugliness aur weakness hogi [e].’
+
+‘Yeh aisa hai.’
+
+‘Kya yeh follow nahi karta ki good behaviour virtue ke acquisition ki taraf le jata hai, aur bad behaviour vice ke acquisition ki taraf?’
+
+‘Inevitably.’
+
+‘Akela question jo ab hamare liye answer karne ke liye remaining hai, aisa lagta hai, yeh hai ki kaun sa zyada profitable hai [445]. Just actions, good behaviour aur just hona – chahe just person just hone ke roop mein jaana jata ho ya nahi? Ya unjust actions, aur unjust hona – bhale hi unjust person isse bach nikalta hai, aur punishment ke result ke roop mein kabhi reform nahi hota?’
+
+‘Ab jabki justice aur injustice us sort ki cheezon ke roop mein nikali hain jinhe humne describe kiya hai, woh ek absurd question lagta hai, agar aap meri raaye chahte hain, Socrates. Jab body ka natural constitution ruined hota hai, toh life jeene laayak nahi lagti, food aur drink ki har variety ke sath bhi, aur wealth aur power ke har manner ke sath. Kya kisi ki life jeene laayak hone wali hai jab us cheez ka natural constitution jiske zariya woh jeeta hai upset aur ruined hai, bhale hi assume karte hue ki woh tab jo chahe kar sakta hai – usse alag jo use evil aur injustice se release karega, aur use justice aur virtue jeetayega [b]?’
+
+‘Aap sahi hain,’ maine kaha. ‘Yeh ek absurd question hai. Still, ab jabki hum us point par pahonch gaye hain jahan jitna ho sake utna clearly dekhne ke capable hain ki yeh waise hi hai jaise cheezein hain, yeh rest lene ka moment nahi hai.’
+
+‘Nahi,’ usne kaha. ‘Aakhri cheez jo humein karni chahiye woh koi hesitation dikhana hai.’
+
+‘Is tareeqe se, phir, agar aap dekhna chahte hain jise main vice dwara liye gaye forms ke roop mein vishwās karta hoon [c]. Woh wale jo dekhne laayak hain, anyway.’
+
+‘Main aapke bilkul peeche hoon,’ usne kaha. ‘Aage bolein.’
+
+‘Well, ab jabki hum apne discussion mein itna door pahonch gaye hain,’ maine kaha, ‘yeh mere vantage-point se lagta hai jaise virtue ka ek single form hai, aur vice ke forms ki koi bhi number, jinmein se chaar zikr karne laayak hain.’
+
+‘Please explain karein,’ usne kaha.
+
+‘Agar aap sochein ki political regime ke kitne types hain unke apne specific form ke sath,’ maine kaha, ‘woh shayad soul ke kitne types hain woh hoga.’
+
+‘Aur woh kitne hain?’
+
+‘Political regime ke paanch types,’ maine kaha, ‘aur soul ke paanch types [d].’
+
+‘Mujhe batayein woh kaun se hain,’ usne kaha.
+
+‘All right. Main kahunga ki regime ka ek type yeh wala hai jise humne abhi describe kiya hai, yadyapi do names hain jo ise diye ja sakte hain. Ise monarchy kaha ja sakta hai, agar rulers ke beech ek exceptional individual emerge hota hai, ya aristocracy agar kai emerge hote hain.’
+
+‘True.’
+
+‘Yeh wala, phir, main ek single form ke roop mein class karta hoon,’ maine kaha [e]. ‘Isse koi difference nahi padta ki yeh kai hain jo emerge hote hain, ya ek individual. Upbringing aur education di gayi jise humne describe kiya hai, woh city ke kisi bhi mahatvapurna laws ko disturb nahi karenge.’
+
+‘Nahi. Woh sensible nahi hoga,’ usne kaha.
+
+---
+
+### Footnotes for Book 4
+
+1. Respect for parents: 378b; friendship with one another: 378c–d.
+2. Homer, *Odyssey* 11.489–491. Underworld mein Achilles ka ghost Odysseus se bol raha hai.
+3. Homer, *Iliad* 20.64–65. 'Halls' Hades, dead ke god ka realm hai.
+4. *Iliad* 23.103–104. Yeh Achilles ka lament hai jab usne apne dost Patroclus ke ghost ko pakadne ki koshish ki aur asafal raha.
+5. *Odyssey* 10.495: underworld mein wise prophet Tiresias ki soul ka varnan, pechhle quote mein Achilles dwara voiced rule ka single exception.
+6. *Iliad* 16.856–857: Hector dwara maare gaye Patroclus ka varnan.
+7. *Iliad* 23.100–101: phir se Patroclus ka, jaise woh Achilles ki pakad se phisalta hai.
+8. *Odyssey* 24.6–9: Odysseus dwara maare gaye suitors ki souls ka varnan.
+9. 'Wailing' aur 'hateful' underworld rivers ke in names ke etymological meanings hain.
+10. *Iliad* 24.10–12: Achilles mrit Patroclus ko miss karne aur ek sath unke anubhavon ko yaad karne ke kaaran sone mein a-saksham hai.
+11. *Iliad* 18.23–24: Patroclus ki maut ki khabar laane par Achilles ka reaction.
+12. *Iliad* 22.414–415. Priam, Troy ka king, gods ke king Zeus se line mein seventh tha. Yahan woh apne logon se use Achilles ke paas jaane dene ki vinti karta hai taaki woh apne bete Hector ki corpse ke liye bheekh maang sake, jo Patroclus ke badle mein Achilles dwara mara gaya tha.
+13. *Iliad* 18.54: Patroclus ki maut par apne bete Achilles ke dukh ko sunne par Thetis ka reaction, jisse 388b par quotation aata hai.
+14. *Iliad* 22.168–169: Zeus Hector ke behalf par apna dukh vyakt karta hai, jo Achilles dwara maare jaane wala hai.
+15. *Iliad* 16.433–434: Sarpedon Zeus ka ek mortal son tha, jo yahan shok karta hai ki Patroclus use maarne wala hai.
+16. *Iliad* 1.599–600. Hephaestus, lame aur ugly god, wine-pourer ke role mein clowning kar raha hai, ek aisa role jo aam taur par youthful aur attractive ko assigned kiya jata hai, apne fellow-gods ko amuse aur pacify karne ke liye.
+17. 382c.
+18. *Odyssey* 17.383–384. Sentence conclude hota hai: 'ya ek inspired poet, jo apne song se please karta hai'.
+19. *Iliad* 4.412: hero Diomedes apne companion Sthenelus ko rebuke karta hai.
+20. In fact yeh do lines na toh pehle ke quotation ko follow karti hain na hi ek doosre ko, balki Trojans dwara kiye gaye racket ke sath Greek advance ki silence ko contrast karne wale alag-alag descriptions se hain (*Iliad* 3.8 aur 4.431).
+21. *Iliad* 1.225: Achilles Greek army ke commander-in-chief Agamemnon ko insult kar raha hai.
+22. *Odyssey* 9.8–10: bard Demodocus ko gaate hue sunne ke baad proverbially clever Odysseus ke actual remark ka ek selective quotation, jo ki balki yeh hai ki koi bhi sthiti usse zyada delightful nahi hai jab banqueters laden tables ke beech ek singer ko khushi se sunte hue baithte hain.
+23. *Odyssey* 12.342. Speaker Odysseus ke shipwrecked crew mein se ek hai, Eurylochus, apne fellows ko Sun god ke sacred cattle ko khane ke liye urge karte hue. Odysseus ne abhi unhe apni hunger ko resist karne ka command diya hai.
+24. Episode *Iliad* 14.292–353 mein narrated hai. Hera, Zeus ki consort, shameless behaviour par protest karti hai; lekin usne vaastav mein poore samay seduction ki planning ki thi.
+25. *Odyssey* 8.266–366. Hephaestus apni consort Aphrodite aur uske lover Ares ko ek invisible mesh ke tehat trap karke punish karta hai jab woh ek sath bed par hote hain, phir doosre gods ko unki embarrassment witness karne ke liye bulata hai.
