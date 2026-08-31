@@ -5613,3 +5613,869 @@ Aapke examples sabhi ambiguous hain, in that isme unka koi definite conception f
 40. Capacities (*dynameis*) are defined solely by their domain/objects and their functional results.
 41. Belief must have an object; one cannot have a belief about "nothing."
 42. The riddle of the eunuch: A famous ancient riddle (a eunuch threw a pumice stone at a bat sitting on a reed). It illustrates the ambiguous nature of sensible particulars that possess contradictory qualities simultaneously.
+
+---
+
+# Book 6
+
+‘Well, Glaucon,’ maine kaha, ‘yeh ek lambi discussion rahi hai, aur bina kisi difficulty ke nahi [484]. Lekin ab yeh saaf ho gaya hai ki kaun se wisdom ke lovers hain, philosophers, aur kaun se nahi hain.’
+
+‘Shayad ek chhoti discussion mein bhi aasan nahi tha.’
+
+‘Apparently nahi. Personally, halanki, mujhe lagta hai ki ise abhi bhi kaafi zyada clear banaya ja sakta tha agar yahi akeli cheez hoti jiske baare mein humein baat karni thi, aur agar topics ki ek badi sankhya ko abhi bhi explanation ki zaroorat na hoti isse pehle ki hum dekh sakein ki just life unjust life se kaise differ karti hai.’
+
+‘All right. Humein aage kya dekhna hai [b]?’
+
+‘Woh question jo naturally follow karta hai, of course. Yeh dekhte hue ki jo log hamesha same aur unchanging rehne wali cheez ko grasp karne ke capable hain woh philosophers hain, jabki jo log iske capable nahi hain, jo un cheezon ke beech drift karte hain jo many hain aur widely varying hain, woh philosophers nahi hain, dono groups mein se kise ek city mein leaders hona chahiye?’
+
+‘Well, us question ka ek reasonable answer kya hoga?’
+
+‘Jo bhi group clearly ek city ke laws aur way of life ko protect karne ke able ho use uska guardians banaya jana chahiye.’
+
+‘Correct [c].’
+
+‘Ek alag question lein,’ maine kaha. ‘Agar ek guard kisi cheez par nazar rakh raha hai, toh kya yeh obvious hai ki use blind hona chahiye ya achhi eyesight wala?’
+
+‘Of course yeh obvious hai.’
+
+‘Kya aap un logon mein jo blind hain aur un logon mein jo genuinely us har cheez ke knowledge mein lacking hain jo exist karti hai, koi difference dekh sakte hain? Unki soul mein koi clear pattern ya model nahi hai. Woh uspar us tareeqe se nahi dekh sakte jo most real hai jaise painters dekhte hain, iske sath constant comparisons banate hue aur ise jitna ho sake utne closely observe karte hue, aur is tareeqe se everyday life mein beauty, justice aur goodness ke baare mein rules establish karte hue – agar unhe establish kiye jaane ki zaroorat hai – ya un rules ko defend aur preserve karte hue jo pehle se exist karte hain [d].’
+
+‘Nahi, main nahi dekh sakta,’ usne kaha. ‘In logon aur blind logon ke beech kehne laayak koi difference nahi hai.’
+
+‘Kya yeh woh log hain jinhe hum guardians ke roop mein appoint karenge, phir? Ya woh jo har us cheez ke baare mein jaante hain jo exist karti hai, jo practical affairs ke experience mein doosron ke barabar hain, aur human excellence ke kisi bhi doosre area mein inferior nahi hain?’
+
+‘Agar woh doosre maamlon mein barabar hain, toh is second group ko na chunna absurd hoga, kyunki knowledge ke grounds par – jo ki single most important cheez hai – woh top par aate hain.’
+
+‘Kya humein tab yeh explain nahi karna chahiye, ki same logon ke liye na sirf philosophical knowledge rakhna, balki practical experience aur baaki human excellence bhi rakhna kaise possible ho sakta hai [485]?’
+
+‘Haan, humein karna chahiye.’
+
+‘Us case mein, jaise humne is discussion ke beginning mein kaha tha, unka natural character pehli cheez hai jiske baare mein humein pata lagana hai. Agar hum us baare mein ek satisfactory conclusion par aa sakte hain, toh mujhe lagta hai hum agree karenge ki same log in sabhi qualities ko possess kar sakte hain, aur ki yeh akele log hain jinhe cities ke rulers hona chahiye.’
+
+‘Explain karein.’
+
+‘Aayein assume karein ki philosopher ke nature ka ek element hamare beech agreed hai [b]. Woh hamesha kisi bhi aisi learning ke sath love mein hota hai jo us reality ko reveal karne mein madad karti hai jo hamesha exist karti hai, aur jo becoming aur ceasing to be dwara idhar-udhar nahi bhatkaayi jaati.’
+
+‘Haan, aayein use agreed ke roop mein lein.’
+
+‘Further, woh us reality ke poore hisse se love karta hai. Woh iske kisi bhi part ko aasaani se give up nahi karega, chahe small ho ya large, zyada valuable ho ya kam valuable. Humne pehle use explain kiya tha jab hum un logon ke baare mein baat kar rahe the jo ambitious hain ya woh jo lovers hain.’
+
+‘That’s right,’ usne kaha.
+
+‘Us case mein khud se poochhein, ki kya koi second, additional attribute hai jise un logon ko zaroor possess karna chahiye jo us sort ke log banne wale hain jinake baare mein hum baat kar rahe the.’
+
+‘Kis tarah ka attribute [c]?’
+
+‘Truthfulness. Kisi bhi form mein falsehood ko willingly accept na karna. Falsehood se ek hatred, aur truth se ek love.’
+
+‘Haan, woh probably ek second attribute hai,’ usne kaha.
+
+‘Sirf “probably” nahi, mere dost. Agar aap nature se ek lover hain, toh aap necessarily us boy se related ya belong karne wali har cheez se love karte hain jisse aap love karte hain.’
+
+‘Correct.’
+
+‘Kya aap kisi aisi cheez ke baare mein soch sakte hain jo wisdom se truth se zyada belong karti ho?’
+
+‘Of course nahi.’
+
+‘Which case mein, kya same nature ke liye wisdom ka lover aur falsehood ka lover dono hona possible hai [d]?’
+
+‘Nahi.’
+
+‘Learning ke genuine lover ko, phir, earliest childhood se hi, har tarah ke truth tak reach out karne ke liye har possible effort karna chahiye.’
+
+‘Absolutely.’
+
+‘Besides, hum sure ho sakte hain, main ise leta hoon, ki ek direction mein ek person ki desires jitni stronger hoti hain, doosri directions mein woh utni hi weaker hongi. Ek stream ki tarah jab yeh divert ho jaati hai.’
+
+‘True. Iska kya?’
+
+‘Kisi aise vyakti mein jiska stream learning aur us jaisi har cheez ki direction mein flow karta hai, main imagine karta hoon ki desires mind ke akele pleasure se concerned hongi, just by itself. Woh body se nikalne wale pleasures ko give up kar denge. Yeh assume karte hue hai ki woh person ek true philosopher hai, wisdom ka ek genuine lover, pretend lover nahi.’
+
+‘Yeh necessarily aisa hona chahiye [e].’
+
+‘Is tarah ka person self-disciplined hoga, aur woh nischit roop se avaricious nahi hoga. Jo cheezein logon ko money mein interested banati hain, aur lavish expenditure jo iske sath jata hai, woh doosre logon ke interest ki ho sakti hain, lekin uske interest ki nahi hongi.’
+
+‘True.’
+
+‘Aur main suppose karta hoon ki ek aur question hai poochhne ke liye jab aap yeh decide karne aate hain ki kya ek philosophical nature hai aur kya nahi [486].’
+
+‘Woh kya hai?’
+
+‘Aapko ek aise nature ki lookout par hona chahiye jo mean-spirited hai. Small-mindedness, main imagine karunga, aakhri cheez hai jise aap ek aisi soul mein chahte hain jo apna saara samay cheezon ki wholeness aur totality ke liye reach out karne mein bitane wali hai – divine aur human.’
+
+‘Yeh bahut true hai,’ usne kaha.
+
+‘Kya aap sochte hain, phir, ki jo mind great cheezon se darta nahi hai, aur poore time aur poori reality ko contemplate kar sakta hai, kya uske human life ko kisi bade importance ke roop mein regard karne ki sambhavna hai?’
+
+‘Nahi, woh impossible hai [b].’
+
+‘Death bhi is jise kisi ko frightening nahi lagegi, kya lagegi?’
+
+‘Certainly nahi.’
+
+‘Ek cowardly aur mean-spirited nature ka true philosophy se koi lena-dena nahi ho sakta, apparently.’
+
+‘Nahi, mujhe nahi lagta ki ho sakta hai.’
+
+‘Well, phir, kya koi tareeqa hai jisse yeh well-ordered person – jo avaricious nahi hai, mean-spirited nahi hai, charlatan ya coward nahi hai – ek contract-breaker, ya unjust nikal sake?’
+
+‘Nahi, wahan nahi hai.’
+
+‘Toh agar aap jaan-na chahte hain ki kya ek soul wisdom ki lover hai ya nahi, toh earliest years se hi dekhne ke liye ek aur cheez yeh hai ki kya yeh just aur gentle hai ya unsociable aur savage.’
+
+‘Very much so.’
+
+‘Aur mera jhukav yeh sochne ki taraf hai ki kuch aur bhi hai jise overlook na karna aapke liye behtar hoga.’
+
+‘Woh kya hai [c]?’
+
+‘Kya woh learn karne mein quick hai ya slow? Aap kisi se bhi kabhi aisi activity ke liye bahut saara enthusiasm dikhane ki expect nahi karenge jise usne unpleasant paaya ho, aur jismein use kabhi kuch accomplish karne mein difficulty hui ho.’
+
+‘Nahi, woh aisi cheez nahi hai jo ho sakti thi.’
+
+‘Kya hoga agar uske paas ek hopeless memory ho, aur woh jo kuch learn karta hai usme se kuch bhi retain na kar sake? Woh knowledge se empty hone se khud ko kaise bacha sakta hai?’
+
+‘Woh nahi bacha sakta.’
+
+‘Aur agar woh bina kisi purpose ke toil kar raha hai, kya aap nahi sochte ki end mein woh khud se aur poore enterprise se nafrat karne par majboor ho jayega?’
+
+‘Of course woh ho jayega.’
+
+‘Which case mein, jab hum yeh decide kar rahe hain ki kaun si souls truly philosophical hain, toh aayein poor memory wali kisi bhi soul ko chhod dein [d]. Aayein insist karein ki iske paas ek achhi memory honi chahiye.’
+
+‘By all means.’
+
+‘Ab, ek unmusical ya unrefined nature wali soul ke baare mein sochein. Yeh sirf lack of proportion ki taraf lead kar sakti hai, hum kahenge.’
+
+‘Of course.’
+
+‘Aur kya aap sochte hain ki truth proportion ke akin hai, ya lack of proportion ke?’
+
+‘Proportion ke.’
+
+‘Us case mein, ek natural proportion aur ek pleasant nature additional qualities hain jinhe humein ek aise mind mein dhoondhna chahiye jiska innate disposition har case mein what is ke character ki taraf aasaani se lead ho jayega.’
+
+‘Unquestionably [e].’
+
+‘Aap kya reckon karte hain? Ek aisi soul ke liye jo what is mein poori tarah aur completely share karne wali hai, kya woh sabhi qualities jinhe humne outline kiya hai essential aur interconnected nahi hain?’
+
+‘Absolutely essential,’ usne kaha [487].
+
+‘Which case mein, kya aap kisi aisi activity mein koi fault dhoondh sakte hain jise koi bhi person tab tak properly follow nahi kar sakta jab tak ki uske paas naturally retentive memory, learning ke liye aptitude, great cheezon ko undertake karne ki willingness, ek pleasant nature na ho – aur bina truth, justice, courage aur self-discipline ka ek friend aur kinsman hue?’
+
+‘Khud Momus bhi is kind ki activity par object nahi kar sakta tha.’
+
+‘Aur ek baar jab woh bade ho gaye hain aur apni education complete kar chuke hain, toh aap apna city is jise logon ko entrust karne ja rahe hain – aur kisi doosre ko nahi – kya aap nahi ja rahe?’
+
+Is point par Adeimantus ne intervene kiya [b]. ‘Koi bhi possibly uske khilaf argue nahi kar sakta jo aapne abhi tak kaha hai, Socrates. Lekin main jaanta hoon ki un logon ke sath kya hota hai jinhone kisi na kisi samay un cheezon ko suna hai jo aap abhi keh rahe the. Jaise woh ise dekhte hain, question aur answer ke unke experience ki kami unhe har stage par argument dwara bas thoda sa bhatakne deti hai. Lekin phir jab unke dwara kahi gayi sabhi chhoti cheezon ko end mein ek sath collect kiya jata hai, toh yeh ek major error aur unke originally kahe gaye ka contradiction reveal karta hai. Woh experts ke khilaf draughts khelne wale beginners ki tarah hain [c]. Game ke end tak woh paate hain ki woh trapped hain, aur unke paas koi move nahi hai jo woh chal sakein. Same way mein yeh log paate hain, argument ke end tak, ki woh trapped hain aur unke paas kehne ke liye kuch nahi hai is thode alag kind ke draughts mein jo pieces ke bajaye words ka upayog karta hai. Lekin yeh unhe convince karne ke liye kuch nahi karta ki truth waisi hi hai jaise aap kehte hain. Main yeh hamari present discussion ko mind mein rakhkar kehta hoon. Main imagine kar sakta hoon ki koi is point par keh raha ho ki yadyapi woh aapke questioning ke kisi particular step ke answer ko challenge nahi kar sakta, real life mein woh dekh sakta hai ki jo log philosophy mein jaate hain unmein se majority – woh nahi jo apni education ke part ke roop mein isme dabble karte hain aur phir early age mein ise give up kar dete hain, balki woh jo ispar kahin zyada samay bitate hain – extremely odd nikalte hain, thoroughly bad na kehne ke liye [d]. Yahan tak ki jinhe hum unmein se best maante hain unke liye bhi, jis way of life ko aap recommend karte hain uska effect unhe unke cities ke liye useless banana hai.’
+
+Maine ise suna, aur phir kaha: ‘Kya aap sochte hain ki jo woh kehte hain woh galat hai?’
+
+‘Main nahi jaanta. Main aapka opinion sunkar khush hoonga.’
+
+‘Jo answer aapko milega woh yeh hai ki main sochta hoon jo woh kehte hain woh true hai [e].’
+
+‘Us case mein,’ usne poocha, ‘yeh kehna kaise right ho sakta hai ki cities ko apni troubles se tab tak koi release nahi milegi jab tak philosophers, jinhe hum agree karte hain ki unke liye useless hain, unke rulers na ban jaayein?’
+
+‘Woh question ek analogy ke saadhan dwara answer ki maang karta hai.’
+
+‘Kuch aisa jise use karne ki aapko kabhi aadat nahi rahi hai, of course.’
+
+‘Main samajhta hoon. Pehle aap mujhe kuch aisa prove karne mein phansa dete hain jise prove karna extremely difficult hai [488]. Phir aap mera mazaak udaate hain. Well, agar aapko is baat ka koi aage proof chahiye ki main analogies se kitni mazbooti se chipakta hoon, toh ise suno. Best of philosophers khud ko, apne cities ke vis-à-vis, ek aisi situation mein paate hain jo itni awkward hai ki duniya mein is jisa kuch nahi hai. Unke defence mein ek analogy construct karne ke liye, aapko kai sources se draw karna padega, jaise painters composite creatures paint karte hain – half-goat, half-deer – aur us jaisi cheezein. Kuch ships, ya ek ship ko imagine karein, aur board par maamlon ki sthiti kuch is tarah ki [b]. Wahan shipowner hai, ship mein sabhi se larger aur stronger, lekin thoda deaf aur kaafi short-sighted, uski eyesight se match karta hua sailing ka gyaan. Sailors ship ki captaincy par aapas mein jhagad rahe hain, har ek yeh soch raha hai ki use captain hona chahiye, yadyapi usne kabhi woh skill nahi seekhi hai, na hi woh us person ki taraf point kar sakta hai jisne use sikhaya ya kisi aise samay ki jab woh ise seekh raha tha. Jiske upar woh kehte hain ki ise sikhaya nahi ja sakta [c]. In fact woh kisi ko bhi pieces mein cut karne ke liye taiyar hain jo kehta hai ki ise sikhaya ja sakta hai. Shipowner khud hamesha unse ghera rehta hai. Woh usse beg karte hain aur tiller ko unhe hand over karne ke liye use manane ke liye har cheez karte hain. Kabhi-kabhi, agar doosre log use persuade kar sakte hain aur woh nahi kar sakte, toh woh un doosron ko maar dete hain ya unhe overboard phenk dete hain. Phir woh apne worthy shipowner ko drugs ya drink ya kisi doosre means dwara immobilise kar dete hain, aur ship ka control le lete hain, jo kuch yeh carry kar raha hai usme khud ki madad karte hue. Drinking aur feasting karte hue, woh us tareeqe se sail karte hain jis tareeqe se aap expect karenge ki us jise log sail karenge. Isse bhi zyada, agar koi shipowner ko persuade ya compel karne ke tareeqe dhoondhne mein achha hai taaki woh unhe control lene de, toh woh use ek real seaman, ek real captain kehte hain, aur kehte hain ki woh sach mein ships ke baare mein jaanta hai [d]. Jo koi bhi yeh nahi kar sakta use woh contempt ke sath treat karte hain, use useless kehte hue. Woh yeh samajhna shuru bhi nahi karte ki agar use sach mein ek ship ki command lene ke fit hona hai toh ek real ship ke captain ko necessity ke roop mein year ke seasons, sky mein stars, winds, aur apni art se judi har cheez se thoroughly familiar hona chahiye [e]. Jahan tak iska sawaal hai ki woh ship ko kaise steer karne wala hai – bina is baat ki parwah kiye ki koi chahta hai ki woh kare ya nahi – woh ise ek additional skill ya study ke roop mein regard nahi karte jise ek ship ka captain hone ki art ke upar aur pare acquire kiya ja sakta hai. Agar board par yeh situation hai, kya aap nahi sochte ki jo person genuinely captain banne ke liye equipped hai use ek stargazer, ek chatterer, unke kisi kaam ka nahi kaha jayega, un logon dwara jo is kind ke crew wale ships mein sail karte hain [489]?’
+
+‘Absolutely,’ Adeimantus ne jawab diya.
+
+‘Main imagine nahi karta ki aapko true philosophers ke prati cities ke attitude ke sath similarity ko detail mein spell out karwane ki zaroorat hai. Aap probably dekh sakte hain ki main kis taraf ishara kar raha hoon.’
+
+‘Indeed main dekh sakta hoon.’
+
+‘Toh is character ke prati aapka pehla response jo surprise express karta hai ki philosophers ko cities mein respect ke sath treat nahi kiya jata hai, use yeh analogy suggest karna ho sakta hai. Aap use persuade karne ki koshish kar sakte hain ki yeh kahin zyada surprising hoga agar unhe respect ke sath treat kiya jata [b].’
+
+‘Main ise suggest karunga,’ usne kaha.
+
+‘Haan, aur aap use yeh bhi suggest kar sakte hain ki jo woh kehta hai woh true hai. Majority of people ke liye philosophy karne walon mein se best useless hain. Aapko use yeh point out karna chahiye, halanki, ki unki uselessness ka blame philosophers par nahi hai, balki un logon par hai jo unka koi use nahi karte. Captain ke liye sailors se apni command ke tehat aane ke liye beg karna, ya wise man ke liye rich man ke door par jana unnatural hai. Jis kisi ne bhi us saying ko dream up kiya woh galat tha. Truth yeh hai ki na toh ek rich man jo ill hai aur na hi ek poor man jo ill hai ke paas doctor ke door par jaane ke alawa koi choice hai, aur ki jo koi bhi ruled hona chahta hai uske paas us person ke door par jaane ke alawa koi choice nahi hai jo rule karna jaanta hai [c]. Yeh ruler par depend nahi karta, agar woh sach mein koi achha hai, un logon se beg karna jinhe woh rule kar raha hai ruled hone ke liye. Aap bahut door galat nahi jaayenge agar aap hamare present political leaders ko un sailors se compare karte hain jinka description humne abhi diya hai, aur un logon ko jinhe politicians dwaara useless stargazers ke roop mein describe kiya gaya hai true ship ke captains se.’
+
+‘Quite right,’ usne kaha.
+
+‘In reasons se, aur in conditions ke tehat, best way of life ko value karna aasan nahi hai – un sabhi logon ke sath jo ek completely different way of life follow kar rahe hain [d]. Lekin philosophy ke prati far and away sabse bada aur sabse powerful objection un logon dwara provide kiya jata hai jo claim karte hain ki woh is way of life ko follow kar rahe hain. Aapne unke baare mein kaha tha ki philosophy ka opponent isme jaane walon mein se zyadatar ko villains ke roop mein describe karega, jabki best useless the. Aur maine agree kiya tha ki aap sahi the, kya maine nahi kiya tha?’
+
+‘Haan.’
+
+‘Well, phir, kya humne us reason ko explain kiya hai kyun achhe wale useless hain?’
+
+‘Humne kiya hai. Very clearly.’
+
+‘Kya aap chahte hain ki hum aage yeh explain karein ki yeh kyun inevitable hai ki philosophy mein jaane walon mein se zyadatar villains nikalenge? Kya hum try karein aur demonstrate karein, agar hum kar sakte hain, ki philosophy iske liye bhi blame par nahi hai [e]?’
+
+‘Yes, please.’
+
+‘Aayein apni discussion ko us point ki yaad dilakar shuru karein jahan hum us nature ko describe kar rahe the jiske sath kisi ko bhi jo ek outstanding individual banne wala tha necessarily born hona padta tha. Woh guided tha, agar aapko recall ho, sabse pehle truth dwara, jise use har tareeqe se, har situation mein follow karna tha [490]. Warna woh ek charlatan hoga, aur true philosophy ke touch se poori tarah out.’
+
+‘Haan, wahi hai jo humne kaha tha.’
+
+‘Kya yeh ek characteristic nahi hai jo normally uske baare mein rakhe jaane wale opinions ke completely counter chalta hai?’
+
+‘Haan, completely,’ usne kaha.
+
+‘Kya hamare liye use yeh kehkar defend karna reasonable nahi hoga ki yeh, aakhirkar, learning ke true lover ka nature tha what is ki taraf struggle karte rehna, aur ki usne uspar time waste nahi kiya jise opinion, har case mein, many ke roop mein dekhta hai [b]? Kabhi apna edge na khote hue, kabhi apna passion na abandon karte hue, woh tab tak aage badhta raha jab tak ki usne apni soul ke us part ke sath – jo part iske akin hai – jo is kind ki cheez ko grasp karne ke liye equipped hai, har cheez ke nature ko grasp nahi kar liya. Aur yeh tabhi tha jab usne apni soul ke is part ka upayog kiya jo sach mein hai uske close aane aur intimate hone ke liye, is tarah understanding aur truth ko engender karte hue, ki usne knowledge, true life, nourishment, aur soul ke childbirth ke pains se relief paaya?’
+
+‘Woh sabse reasonable defence hoga jo imagine kiya ja sake,’ usne kaha.
+
+‘Very well. Kya falsehood ka love is person ke character ka koi part form karega? Ya iska exact opposite – falsehood ka ek hatred?’
+
+‘Falsehood ka ek hatred [c].’
+
+‘Aur jahan truth lead karta tha, hum possibly yeh nahi keh sakte the, main imagine karta hoon, ki evils ka ek chorus follow karta tha.’
+
+‘Of course nahi.’
+
+‘Jo follow karta tha woh ek healthy aur just character tha, jiske bilkul peeche self-discipline tha.’
+
+‘Correct.’
+
+‘Aur philosophic cast ko banane wala chorus ka baaki hissa? Kya unhe dobara parade par rakhne par insist karne ki koi zaroorat hai? Aapko yaad hai, presumably, ki jin virtues ka maine mention kiya hai unke appropriate companions courage, greatness of spirit, learn karne ka disposition aur ek achhi memory hone wale the. Aur ispar aapka objection yeh tha ki yadyapi hum theory mein sabhi ko hamare dwara kahe gaye par agree karwa sakte the, jaise hi hum argument se un logon ki taraf mude jinake baare mein argument tha, jo woh kahenge woh yeh tha ki kuch philosophers useless the, jabki unmein se zyadatar utne bad the jitna bad ho sakte the [d]. Is accusation ka reason poochhna hi humein us question tak laya jo is moment par humein occupy karta hai – zyadatar philosophers bad kyun hain? Yahi kaaran hai ki humne ek baar phir un logon ke nature ko liya hai jo true philosophers hain, aur ise define karne ke liye obliged feel kiya hai.’
+
+‘Yeh aisa hai,’ usne kaha [e].
+
+‘Humein un ways ko examine karna chahiye jinme yeh nature corrupt hota hai aur zyadatar cases mein destroy ho jata hai – yadyapi ek chhoti sankhya escape ho jaati hai, jinhe hum wicked ke bajaye useless kehte hain. Uske baad ka agla step un natures ko dekhna hai jo philosophical nature ko imitate karte hain aur philosophical way of life ko adopt karte hain [491]. Humein khud se poochhna chahiye ki woh kis tarah ki souls hain jo ek unsuitable way of life mein finish up hoti hain jo unke liye bahut zyada hai, aur ki constantly wrong note strike karke unhone philosophy ko har jagah, aur sabhi ki aankhon mein, woh reputation di hai jiske baare mein aap baat kar rahe hain.’
+
+‘Woh kaun se ways hain jinse woh corrupt hote hain?’
+
+‘Main explain karne ki koshish karunga, agar main kar sakta hoon. Wahan ek point hai jahan mujhe lagta hai hum general agreement par count kar sakte hain. Human race ke beech, is kind ke natures, jo un sabhi qualities ko possess karte hain jinhe humne abhi true philosopher ke development ke liye essential ke roop mein laid down kiya hai, few and far between hain [b]. Kya aap agree nahi karte?’
+
+‘Absolutely.’
+
+‘Aur in few ke liye, sochein ki kitne fatal dangers hain.’
+
+‘Jaise ki?’
+
+‘Woh jo sabse surprising sound karega woh yeh hai ki har ek quality jise humne philosophical nature mein praise kiya tha – mera matlab courage, self-discipline aur un sabhi virtues se hai jinhe humne describe kiya tha – us soul ko corrupt kar sakti hai jo ise possess karti hai, aur ise philosophy se distract kar sakti hai.’
+
+‘Haan, woh odd sound karta hai,’ usne kaha.
+
+‘Aur inke alawa, har cheez jise aam taur par ek good ke roop mein regard kiya jata hai uska bhi ek corrupting aur distracting influence ho sakta hai [c]. Cheezein jaise beauty, wealth, physical strength, influential family connections, aur woh sabhi advantages jo woh apne sath laate hain. Aap jaante hain ki mera kis sort ki cheez se matlab hai.’
+
+‘Haan, main jaanta hoon. Lekin agar aap ise aur detail mein spell out karein toh main mind nahi karunga.’
+
+‘Ek baar jab aapko general idea mil jata hai,’ maine kaha, ‘toh aap ise kaafi straightforward paayenge. Maine abhi jo kaha hai woh aapko bilkul odd nahi lagega.’
+
+‘All right, phir. Mujhe batayein ki is baare mein kaise jana hai.’
+
+‘Koi bhi seed ya living thing lein, plant ya animal [d]. Hum jaante hain ki agar yeh apne liye appropriate nourishment, climate aur habitat nahi pa sakta hai, toh yeh jitna stronger hota hai, utna hi completely yeh apne potential ko develop karne mein fail hota hai. In other words, bad us cheez ka worse enemy hai jo good hai bajaye uske jo good nahi hai.’
+
+‘Obviously.’
+
+‘Toh yeh reason ke sath stand karta hai ki ek adverse environment mein best nature inferior nature ke muqable worse come off karega.’
+
+‘Haan, yeh karta hai.’
+
+‘Kya wahi souls par laagu nahi hota, Adeimantus [e]? Kya hum keh sakte hain ki naturally best souls particularly badly turn out hongi agar unhe ek bad education milti hai? Kya aap nahi sochte ki great crimes aur sheer wickedness ek vigorous nature ke product hain jo uske upbringing dwara corrupt hua hai, na ki ek inferior nature ke? Kya aap sochte hain ki ek weak nature kabhi kisi great cheez ke liye responsible ho sakti hai – good ya evil?’
+
+‘Nahi,’ usne kaha, ‘main sochta hoon yeh vigorous nature hai, jaise aap kehte hain.’
+
+‘Toh agar jise humne philosophical nature ke roop mein define kiya hai use studies ka woh course milta hai jiski ise zaroorat hai, main assume karta hoon ki yeh grow karne aur har tarah ki excellence tak aane mein madad kiye bina nahi reh sakta [492]. Lekin agar seed galat jagah par girta hai, agar wahi hai jahan yeh grow hota hai aur nourished hota hai, toh kisi god ki assistance ke bina yeh exact opposite nikalega. Ya kya aap bhi general view ke sath chalte hain? Kya aap sochte hain ki kuch young people sophists dwara corrupt kiye jaate hain? Kya koi individual sophists hain jo baat karne laayak koi corrupting karte hain? Kya aap nahi sochte ki jo log yeh kehte hain woh khud sabhi mein worst sophists hain? Kya woh sabse complete education offer nahi karte? Kya woh young aur old ko, men aur women ko, kisi bhi cheez mein badal nahi sakte jise woh chunte hain [b]?’
+
+‘Woh aisa kab karte hain?’ usne poocha.
+
+‘Jab woh sabhi badi sankhya mein ek sath baithe hote hain,’ maine jawab diya. ‘Assembly mein, ya lawcourts mein, theatre mein, ya active service par, ya badi sankhya mein logon ki kisi doosri general gathering mein. Woh ek tremendous din karte hain, shor machaate hue ya apne disapproval aur approval ko hammer karte hue – dono cases mein grossly exaggerated – un cheezon par jo kahi aur ki jaati hain. Unme add hokar aapko rocks aur woh jagah milti hai jismein woh hain approval aur disapproval ke din ko echo karte hue, aur ise double loud banate hue [c].
+8
+Un surroundings mein ek young man ka “hath no stomach,” jaise kehne chalti hai, fight ke liye hota hai. Kaun si individual tuition iske khilaf firm khadi ho sakti hai bina is disapproval aur approval ke torrent dwara baha le jaaye bina, aur gayab ho jaaye, baha le jaate hue jahan bhi flood ise le jata hai? Woh crowd ke sath good aur bad ke baare mein agree karne se, crowd ke same way of life ko follow karne se, aur crowd ke jaisa hone se kaise bach sakta hai?’
+
+‘Woh nahi bach sakta, Socrates [d]. Uska unke sath agree karna bound hai.’
+
+‘Haan,’ maine kaha, ‘aur humne abhi tak us strongest compulsion ka mention nahi kiya hai jise woh use karte hain.’
+
+‘Woh kya hai?’
+
+‘Woh compulsion jise woh apne actions dwara apply karte hain – yeh teachers aur sophists – agar woh use apne words se convince karne mein fail hote hain. Aap aware hain, kya aap nahi hain, ki agar woh unhe nahi sunta hai, toh woh use citizen rights ke loss, fines aur death penalty ke sath punish karte hain?’
+
+‘Woh indeed karte hain,’ usne kaha. ‘With a vengeance.’
+
+‘Kaun sa doosra sophist, ya kaun se individual arguments, unke khilaf khade ho sakte hain aur unpar behtar pa sakte hain?’
+
+‘Unmein se koi nahi, main imagine karta hoon [e].’
+
+‘Nahi, woh nahi kar sakte. Try karna bhi madness hogi. Koi alag type ka character kabhi astitva mein nahi aata, na hi kabhi aaya hai, na hi kabhi aayega, jo in sophists dwara provide ki jaane wali education ke defiance mein virtue ke liye trained ho. Koi human character, yaani. Divine ya godlike character woh hai jise woh exception kehte hain jo rule ko prove karta hai. Aap kaafi sure ho sakte hain ki agar aapko ek aisa character milta hai jo survive karta hai aur is sort ke political systems mein sahi tareeqe se turn out hota hai, toh aap yeh kehne mein galat nahi honge ki yeh ek divine dispensation tha jisne ise preserve kiya [493].’
+
+‘Main isse zyada agree nahi kar sakta tha.’
+
+‘Us case mein,’ maine kaha, ‘ek second point hai jispar main chahunga ki aap agree karein.’
+
+‘Woh kya hai?’
+
+‘Ki sabhi highly paid individuals jinhe public sophists kehti hai, aur competitors ke roop mein sochti hai, sateek roop se wahi opinions teach kar rahe hain jo general public dwara uski gatherings mein express kiye jaate hain. Yeh wahi hain jinhe woh wisdom kehte hain. Yeh kaafi hadd tak kisi ke ek bade, powerful animal ko rakhne jaisa hai, uske moods aur wants ko jaan-na, use kaise approach karna hai, use kaise handle karna hai, kab aur kyun woh sabse awkward aur sabse amenable hota hai, various sounds jinhe nikaalne ki use alag-alag situations mein aadat hai, aur woh sounds jo use soothe karti hain ya infuriate karti hain jab koi aur unhe nikaalta hai [b]. Imagine karein ki usne yeh sab ek lambe samay tak animal ke sath rehne ke result ke roop mein seekha tha. Woh tab jo usne seekha tha use wisdom keh sakta hai, apne findings ko ek art ya science mein organise kar sakta hai, aur teaching shuru kar sakta hai, yadyapi truth mein use bilkul idea nahi hoga ki in opinions aur desires mein se kaun sa beautiful ya ugly, good ya bad, just ya unjust tha, aur woh in sabhi names ko huge animal ke opinions ke accordance mein assign karega [c]. Cheezein jo animal ko pleasure deti thin unhe woh good kahega. Cheezein jo use annoy karti thin unhe woh bad kahega. Unhe judge karne ke liye uske paas koi doosra standard nahi hoga, aur isliye woh cheezon ko right aur good kahega jab woh merely necessary thin. Usne kabhi nahi dekha hoga, na hi woh kisi aur ko explain karne ke capable hoga, woh vishaal difference jo in fact what is necessary ke nature aur what is good ke nature ke beech exist karta hai. Agar yeh waisa tha jaise usne behave kiya, kya aap nahi sochte ki woh ek kaafi odd teacher hoga?’
+
+‘Haan, main sochta hoon,’ usne kaha.
+
+‘Kya aap usme aur us person mein koi difference dekh sakte hain jo vishwās karta hai ki painting ya music, ya indeed politics mein, wisdom general public ke uski gatherings mein diverse moods aur pleasures ko identify karne mein consist karti hai [d]? Isme koi shak nahi hai ki agar koi public ko ek poem ya art ka work present kar raha hai, ya city ke liye koi service kar raha hai, aur public ko uspar need se zyada kehne ka haq deta hai jo woh karta hai, toh yeh “needs must when the devil drives” ka question hai.
+9
+Uske paas koi option nahi hai sivaay us har cheez ko karne ke jise public approve karti hai. Lekin jab woh yeh claim karna shuru karte hain ki jo public pasand karti hai woh sach mein good hai ya sach mein beautiful hai, toh kya aapne kabhi unmein se kisi ko is claim ko ek aise argument ke sath support karte hue suna hai jo laughable nahi tha?’
+
+‘Nahi, mujhe nahi lagta,’ usne kaha [e]. ‘Na hi meri kabhi aisi sambhavna hai.’
+
+‘Us sabhi ko dhyan mein rakhte hue, hamare pehle ke question ke baare mein dobara sochein. Kya masses ke liye beauty itself ko accept ya vishwās karna possible hai, as opposed to many beautiful things [494]? Ya kisi cheez ko “itself,” as opposed to its many examples?’
+
+‘Nahi.’
+10
+
+‘Toh yeh impossible hai,’ maine kaha, ‘masses ke liye philosophical hona.’
+
+‘Haan.’
+
+‘Aur jo log philosophers hain unka unke beech unpopular hona inevitable hoga.’
+
+‘Inevitable.’
+
+‘Aur un private individuals ke sath bhi jo crowds ke beech apna samay bitate hain, unhe please karne ki koshish karte hue.’
+
+‘Obviously.’
+
+‘Aisa hone par, philosophical nature ke liye aap kya hope dekh sakte hain? Yeh apne chosen way of life mein end tak kaise persevere kar sakta hai, aur khud ko preserve kar sakta hai [b]? Jab aap answer karein toh hamare pehle ke conclusions ke baare mein sochein. Humne agree kiya hai ki learn karne ka disposition, ek achhi memory, courage aur greatness of spirit philosophical nature ke hallmarks the.’
+11
+
+‘Haan.’
+
+‘Well, kya is kind ka person childhood mein bhi crowd ke upar stand out nahi karega, vishesh roop se agar uska appearance aur physique uske mind aur character se match karta hai?’
+
+‘Woh kaise fail ho sakta hai?’
+
+‘Aur jab woh bada hota hai, main imagine karta hoon ki uski family aur fellow-citizens apne affairs ke conduct mein uska use karna chahenge.’
+
+‘Naturally.’
+
+‘Woh uske feet par lay karenge, use apni prayers aur plaudits present karte hue, aur advance mein thodi flattery ke saadhan dwara us power par ek option paane ki koshish karte hue jo ek din uski hogi [c].’
+
+‘Haan,’ usne kaha, ‘woh nischit roop se wahi hai jo hone ki sambhavna hai.’
+
+‘Aap kya sochte hain ki is jisa koi in circumstances mein kaise react karega – particularly agar woh in fact ek bade city se aata hai, aur agar, us city mein, woh rich aur well-born hai, tall aur good-looking hone ke alawa? Kya woh impossible ambitions se fill nahi ho jayega, aur khud ko Greece aur barbarians dono ke affairs ko handle karne ke capable vishwās nahi karega [d]? Kya yeh use khud ka ek bahut exalted idea nahi dega, aur use empty pride aur vain display ke sath – kaafi irrationally – puffed up nahi karega?’
+12
+
+‘Yeh nischit roop se karega,’ usne kaha.
+
+‘Suppose aap use quietly ek side le jaate hain, jab uske sath yeh hota hai, aur use truth batate hain, jo yeh hai ki usme saari rationality ki kami hai, desperately yadyapi use iski zaroorat hai, aur ki ise acquire karne ka akela tareeqa khud ko iske acquisition ka slave banana hai. Kya aap sochte hain ki uske liye in sabhi distractions ke shor ke upar ise sunna aasan hai?’
+
+‘Nahi. Aasan hone se bahut door.’
+
+‘Aur dobara suppose karein,’ maine kaha, ‘ki uske natural endowments aur in arguments ki uske liye appeal ke result ke roop mein woh kisi tarah philosophy ke importance ko dekh leta hai [e]. Suppose woh iski taraf attracted aur drawn hota hai. Hum kya sochte hain ki un logon ka reaction kya hoga jo sochte hain ki woh uski help aur friendship kho rahe hain? Kya koi aisa argument hai jise woh use nahi karenge, koi aisa action hai jise woh nahi lenge, apne un efforts mein dono use persuaded hone se rokne ke liye aur us person ke liye jo use persuade kar raha hai cheezon ko impossible banane ke liye – chahe private intrigue dwara ya use publicly court le jaakar?’
+
+‘Haan, unka is tarah behave karna bound hai,’ usne kaha [495].
+
+‘Kya is jise kisi ke liye philosophy ko pursue karna possible hoga?’
+
+‘Certainly nahi.’
+
+‘Which case mein aap dekh sakte hain, kya aap nahi dekh sakte, ki hum aakhirkar utne galat nahi the jab humne kaha tha ki yeh philosophical nature ke actual elements the, jab galat tarah ke upbringing ke subject hote the, jo kisi tareeqe se logon ke philosophical way of life ko give up karne ka kaaran bante the? Woh, plus wealth aur uske sath jaane wale saare paraphernalia jaise supposed advantages?’
+
+‘Nahi, hum itne galat nahi the,’ usne kaha. ‘In fact, hum absolutely right the.’
+
+‘Wahan aap hain, phir [b]. Aisa finest natures ka death aur destruction hota hai, jo pehle se hi kaafi rare hain, hum kehte hain, isse poori tarah alag. Yeh waisa hai jaisa yeh hai, aur yeh itna powerful hai. Yeh unhe us finest way of life ke liye ruin kar deta hai jo exist karta hai. Yeh is jise logon se hi hai ki woh log aate hain jo cities aur individuals ko sabse bada harm pahonchate hain, aur yeh bhi, agar stream unhe us taraf le jaati hai, woh jo great good karte hain. Ek nonentity ka kabhi kisi individual ya city par koi great effect nahi hota.’
+
+‘Very true.’
+
+‘Well, jab woh log jinse philosophy properly belong karti hai is tarah give up kar dete hain, toh woh use barren aur unfulfilled chhod dete hain [c]. Unki apni life unke liye untrue aur unsuited hoti hai, jabki philosophy, ek orphan ki tarah apne relatives dwara abandoned, logon ke ek alag collection dwara accosted hoti hai, jo uske unworthy hain aur uspar shame laate hain, us sort ke reproaches ke sath jinhe aap khud agree karte hain ki log uske khilaf laane ke prati jhukte hain – ki jo uske sath associate karte hain unmein se kuch worthless hain, jabki unmein se zyadatar woh deserve karte hain jo unhe milta hai.’
+
+‘Haan, woh generally held view hai.’
+
+‘Aur achhe reason ke sath,’ maine kaha. ‘Aapko tab iske bajaye inferior log milte hain, jo field ko wide open dekhte hain, aur philosophy se attached fine titles aur prestige ko [d]. Yeh temples mein refuge lene wale escaped prisoners ki tarah hai. Apne trivial occupations mein sabse badi ingenuity wale log in occupations se break out karke philosophy mein aane mein khush hote hain. Aakhirkar, jis tareeqe se ise practice kiya jata hai uske baavjood, philosophy ke paas abhi bhi ek bahut hi impressive reputation hai, kam se kam doosre occupations ke comparison mein. Yeh wahi hai jiska aim kai log kar rahe hain, aise log jinme koi natural excellence nahi hai, jinake minds menial tasks dwara usi tarah stunted aur maimed hain jaise unke bodies unke occupation ya profession dwara deformed hain. Kya yeh inevitable nahi hai?’
+
+‘Yeh nischit roop se hai.’
+
+‘Aur yeh spectacle,’ maine poocha, ‘kya aap sochte hain ki yeh kisi short, balding blacksmith ke spectacle se kisi tareeqe se differ karta hai jiske paas thoda paisa aa gaya hai? Chains se released hote hi woh baths par khud ko clean karta hai, ek naya cloak pehanta hai aur apne master ki penniless aur neglected daughter se shaadi karne ki umeed mein khud ko ek bridegroom ke roop mein dress up karta hai.’
+
+‘Nahi, main koi difference nahi dekh sakta [496].’
+
+‘Is jise parents probably kis kind ke offspring produce karne wale hain? Kya woh inferior cross-breeds nahi honge?’
+
+‘Haan, unka hona bound hai.’
+
+‘Aur in logon ke sath kya hota hai jo educate hone ke laayak nahi hain, jab woh philosophy ke close aate hain aur uske sath ek undeserved association form karte hain? Hum kis kind ke thoughts aur opinions kehne wale hain ki woh produce karte hain? Kya woh use produce nahi karenge jise sach mein sirf sophistries kaha ja sakta hai – kuch bhi legitimate nahi, true wisdom se belong karne wala kuch nahi?’
+
+‘Absolutely.’
+
+‘Yeh sirf ek bahut chhota fraction chhodta hai, Adeimantus, un logon ka jo apna samay philosophy par as of right bitate hain [b]. Noble birth aur achhe upbringing ka koi character, shayad, jiska career exile dwara interrupt ho gaya hai, aur jisne corrupting influences ki kami ke kaaran apne nature ko follow kiya hai aur philosophy ke sath raha hai. Ya ek small city mein born ek great mind, jo apne city ke political affairs ko apne neeche samajhta hai, aur unke liye koi samay nahi rakhta. Aur main suppose karta hoon ki wahan ek chhota element ho sakta hai jismein woh log shamil hain jo kisi doosri discipline ko reject karte hain – rightly, kyunki woh iske liye bahut achhe hain – aur us tareeqe se philosophy mein aate hain. Hamare dost Theages ke paas ek bridle hai jo logon ko check mein rakhne mein kaafi achhi hai [c]. Theages ke paas philosophy se drop out hone ke sabhi qualifications hain, lekin physical ill-health use check mein rakhti hai, aur use politics mein jaane se rokti hai. Phir mera apna case hai – mera divine sign – yadyapi woh mention karne laayak shayad hi hai. Past mein practically kisi ke sath, main imagine karta hoon, aisa nahi hua hai.
+13
+Jo log is chhote group ke members ban gaye hain unhone taste kiya hai ki philosophy kitni sweet aur blessed possession hai. Woh, contrast dwara, many ke madness ko bhi kaafi clearly dekh sakte hain [d]. Woh dekh sakte hain ki politics mein koi bhi jo kuch karta hai usme se virtually kuch bhi kisi tareeqe se healthy nahi hai, aur ki unke paas koi aisa ally nahi hai jiske sath woh justice ke rescue ke liye ja sakein aur tale tell karne ke liye zinda reh sakein. Philosopher wild animals ke ek den mein girne wale ek man ki tarah hoga, unki vicious activities mein join hone se inkaar karte hue, lekin unki combined ferocity ko single-handed resist karne ke liye bahut weak. Use apne city ya apne friends ki help karne ka chance nahi milega. Woh isse pehle hi maar diya jayega ki woh ya toh khud ke liye ya kisi aur ke liye koi use ho sake. Is sabhi ko apne calculations mein lete hue, woh quiet rahega, aur apne kaam se kaam rakhega, kisi aise person ki tarah jo driving dust aur rain ke storm mein phansne par ek wall ke peeche shelter leta hai. Woh baaki sabhi ko lawlessness se brimful dekhta hai, aur khud ko lucky maanta hai agar woh kisi tarah yahan apni life pure jee sake, injustice aur unholy actions se free, aur high hopes ke sath depart kar sake, kindness aur goodwill ke spirit mein, isse apne release par [e].’
+
+‘Well,’ usne kaha, ‘agar woh apne departure se pehle use accomplish kar sakta tha, toh yeh koi chhota achievement nahi hoga [497].’
+
+‘Aur phir bhi sabse bada achievement bhi nahi – bina apne worthy ek political system ko paaye. Ek aise mein jo uske worthy hai uska apna growth greater hoga, aur woh apne country ke sath-sath khud ka salvation hoga. Well, wahan aap hain. Mujhe lagta hai humne is question se satisfactorily deal kiya hai ki philosophy ko itna bad name kyun mila hai, aur dikhaya hai ki yeh undeserved hai. Ya kya aapke paas abhi bhi add karne ke liye kuch hai?’
+
+‘Nahi, mere paas add karne ke liye kuch nahi hai. Lekin jab aap us political system ke baare mein baat karte hain jo philosophy ke worthy hai, toh present-day systems mein se aapka kaun sa matlab hai?’
+
+‘Unmein se koi nahi,’ maine jawab diya [b]. ‘Sateek roop se wahi meri complaint hai. Aisa koi present-day political regime nahi hai jo philosopher ke nature ke anuroop jeeta ho. Yahi kaaran hai ki uska nature twisted aur transformed hai. Yeh kisi exotic plant ke seed ki tarah hai. Jab ise iski native land ke baahar sow kiya jata hai, toh yeh apni distinguishing properties aur vigour ko lose karne ke prati jhukta hai, aur indigenous variety mein degenerate ho jata hai. Same way mein, jaise cheezein present mein khadi hain, philosophic type apni distinctive power ko preserve nahi karne ke prati jhukta hai. Yeh kisi doosre sort ke character mein degenerate ho jata hai [c]. Agar yeh kabhi best regime paata hai – jaise yeh khud best hai – toh yeh dikhayega ki yeh ek truly divine type tha, jabki nature ya life ke sabhi doosre types merely human hain. Aur agla question jo aap poochhne wale hain, obviously, yeh hai ki yeh regime kya hai.’
+
+‘Nahi, aap galat hain,’ usne kaha. ‘Woh nahi tha jo main poochhne wala tha. Jo main poochhne wala tha woh yeh tha ki kya yeh wahi regime tha jise humne hamare city ko found karne ke course mein describe kiya hai, ya koi doosra regime.’
+
+‘Zyaadatar respects mein, woh regime jise humne describe kiya hai. Lekin wahan ek proviso tha jise humne tab bhi banaya tha, jo yeh tha ki city mein hamesha koi aisa element present hona chahiye jo un principles ko embody kare jo regime ke underlying hain – wahi principles jinpar aapne, lawgiver ne, laws ko base kiya tha [d].’
+
+‘Haan, wahan woh proviso tha.’
+
+‘Lekin ise utna clear nahi banaya gaya tha jitna banaya ja sakta tha,’ maine kaha. ‘Main un points se darta tha jinhe aapne in fact hold seize kiya hai, aur jinka clarification itna lamba aur difficult prove hua hai. Aur ek part hai jisse humne abhi tak deal nahi kiya hai jo straightforward ke alawa kuch bhi hai.’
+
+‘Woh kaun sa part hai?’
+
+‘Ek city philosophy ko destroy hue bina kaise handle kar sakti hai. Kisi bhi great enterprise mein risk shamil hota hai, aur proverb ke shabdon mein, jo good hai woh kabhi aasaani se nahi aata.’
+
+‘All the same, hum is question ko resolve kiye bina apni explanation ko close par nahi la sakte [e].’
+
+‘Yeh ability ki kami hogi jo humein rokegi, agar kuch rokta hai, will ki kami nahi. Aap mere enthusiasm ko khud judge kar sakte hain. Yahan, for instance. Us claim mein reckless enthusiasm dekhein jise main ab make karne ke liye taiyar hoon, ki jis tareeqe se ek city ko is pursuit ko tackle karna chahiye woh bilkul reverse hai jis tareeqe se ise present mein tackle kiya jata hai.’
+
+‘Aapka kis tareeqe se matlab hai?’
+
+‘Moment par,’ maine kaha, ‘jo log philosophy ko bilkul tackle karte hain woh adolescents ke roop mein iski taraf aate hain, childhood ke turant baad, us period mein isse pehle ki woh households chalana aur apni living earn karna shuru karein [498]. Lekin jaise hi woh subject ke sabse difficult part ke paas kahin pahonchte hain – woh part jiska lena-dena reasoned argument ke sath hai – woh ise give up kar dete hain, aur unhe promptly philosophy mein experts ke roop mein regard kiya jata hai. Later life mein, woh khud par immensely proud hote hain agar woh reasoning mein engaged doosre logon ko sunne ke liye ek invitation accept karne ke liye bhi taiyar hote hain. Woh ise ek spare-time activity ke roop mein regard karte hain. Aur jaise-jaise old age approach karti hai, unke ek handful ke alawa sabhi ke liye, aag Heraclitus ke sun ki tarah out ho jaati hai. More so, in fact, kyunki woh kabhi relighted nahi hote.’
+
+‘Unhe is baare mein kaise jana chahiye [b]?’
+
+‘Bilkul opposite way mein. Jab woh adolescents aur children hain, toh unhe adolescents ke liye appropriate education aur philosophy mein engage hona chahiye. Jab unke bodies grow ho rahe hain aur manhood tak pahonch rahe hain, toh unhe unpar bahut dhyan dena chahiye, aur is tareeqe se philosophy ko ek useful servant gain karwana chahiye. Unhe soul ke exercises ki severity ko tab tak nahi badhana chahiye jab tak ki woh samay nahi aata jismein yeh maturity tak pahonchna shuru karti hai. Aur jab unki strength fail hoti hai, aur woh politics aur military service se release ho jaate hain, toh woh will par sacred fields mein roam kar sakte hain, aur philosophy ke alawa kuch nahi kar sakte, sivaay apne spare time mein [c]. Us tareeqe se woh happy lives jeeyenge, aur apni deaths par yahan unke dwara jee gayi life mein other world mein ek fitting reward add karenge.’
+
+‘Well, Socrates, woh nischit roop se mere upar ek strongly held view ke roop mein strike karta hai. Lekin mujhe lagta hai yeh zyadatar listeners ko aapke khilaf aur bhi strongly opposed banata hai. Woh iske ek word par bhi vishwās nahi karne wale hain. Thrasymachus ko dekhein, shuruat ke liye.’
+
+‘Thrasymachus aur mere beech trouble create karna shuru mat karein, ab jabki hum bas friends bane hain [d]. Aisa nahi hai ki hum pehle enemies the, of course. Hum apne efforts ko tab tak relax nahi karne wale hain jab tak ki hum ya toh use aur doosron ko persuade nahi kar lete, ya unhe kisi future life mein us moment ke liye ek helping hand nahi de dete jab woh khud ko same sort ki discussion mein paate hain.’
+
+‘Main samajhta hoon. Phir intazar karne ke liye lamba samay nahi.’
+
+‘Koi time nahi,’ maine kaha, ‘eternity ke comparison mein. Mind you, yeh koi bada surprise nahi hai agar log usse convinced nahi hain jo kaha gaya hai, kyunki unhone philosophy ke baare mein hamari prophecy ka fulfilment kabhi nahi dekha hai – unhone words par plays dekhe honge, us sort ki verbal similarities jo artificially create ki jaati hain, lekin woh nahi jo naturally occur hoti hain, jaise isne kiya [e]. Lekin men words se different hain. Ek man jo jitna ho sake utna completely virtue ko word aur deed mein match karta hai, jo maano virtue ke sath rhyme karta hai, aur jo apne jaise city ka ruler hai, ek man – ya men – is jisa kuch aisa hai jise unhone kabhi nahi dekha hai. Ya kya aap sochte hain ki unhone dekha hai?’
+
+‘Nahi, main nahi sochta [499].’
+
+‘Na hi dobara, mere excellent friend, unhone us fine, free talk ko sunte hue paryapt time bitaya hai jo knowledge ke liye apni desire mein har tareeqe se truth ke liye determinedly dekhta hai, aur jo safe distance se un clever, combative arguments ko salute karta hai jinka sole aim prestige aur competition hai, chahe lawcourts mein ya private gatherings mein.’
+
+‘Nahi, unke paas woh experience bhi nahi raha hai,’ usne kaha.
+
+‘Yeh in reasons ke liye tha, aur in difficulties ko anticipate karte hue, ki hum pehle sthaan par apprehensive the [b]. Truth ne nevertheless humein yeh kehne par compel kiya ki koi city ya regime, aur likewise koi man bhi, kabhi perfect nahi ho sakta jab tak ki woh few philosophers jinaka humne mention kiya tha – woh jo bad nahi hain, yadyapi moment par unhe useless label kiya gaya hai – kisi chance event dwara compel nahi kiye jaate, chahe woh ise pasand karein ya nahi, apne city ka charge lene ke liye, aur jab tak ki city obey karne par compel nahi hota. Ya toh woh, ya kisi divine inspiration ke result ke roop mein authority ya sole rule ki positions mein logon ke sons, ya un positions ke actual holders, true philosophy ke true love ke sath seized hone chahiye [c]. Mera apna personal view yeh hai ki in events mein se kisi ek ya dono ko impossible regard karne ka koi reason nahi hai. Agar woh impossible hote, toh hum quite rightly ek laughing-stock hote, kyunki hamari suggestions bas wishful thinking hoti. Kya aisa nahi hai?’
+
+‘Yeh hai.’
+
+‘Very well. Chahe boundless past mein philosophy ke experts kabhi apne city ka charge lene ke liye compelled hue hon, ya chahe woh ab kisi compulsion ke tehat hon – kisi outlandish country mein, presumably, hamare view se door – ya kabhi future mein astitva mein aayein, wahan ek cheez hai jiske upar hum cudgels lene ke liye taiyar honge: yeh tab hota hai jab Muse of Philosophy city mein mistress hoti hai ki woh regime jise humne describe kiya hai ya toh exist kar chuka hai, ya exist karta hai, ya exist karega [d]. Uske liye mistress hona impossible nahi hai, toh hum impossibilities ke baare mein baat nahi kar rahe hain. Ki yeh difficult hai, hum mein se koi bhi deny nahi karega.’
+
+‘Main agree karta hoon,’ usne kaha.
+
+‘Aur kya aap aage yeh kahenge ki zyadatar log agree nahi karte?’
+
+‘Main keh sakta hoon.’
+
+‘Woh aapke liye kaafi well hai, lekin “most people” par itne hard mat bano [e]. Agar aap unke prati antagonistic hone se bach sakte hain, agar aap unhe encourage karte hain, aur philosophy ke khilaf prejudice ko remove karte hain, toh woh kaafi differently sochenge [500]. Aapko un logon ko point out karna hoga jinhe aap philosophers kehte hain, aur philosophical character aur way of life ko us tareeqe se define karna hoga jaise humne abhi ise define kiya hai, taaki woh yeh na sochein ki aap un logon ke baare mein baat kar rahe hain jinhe woh philosophers maante hain. Ya kya aap kehne wale hain ki agar woh cheezon ko is tareeqe se dekhte bhi hain, toh bhi woh kaafi differently nahi sochenge, ya kaafi different answers nahi denge? Kya aap kisi ko bina kisi provocation ke aggression ya malice dikhane ki kalpana kar sakte hain – koi easy-going aur unmalicious person, yaani? Main aapke liye answer doonga, aur kahunga ki jabki main suppose karta hoon ki is jisa unfriendly nature kuch individuals mein occur ho sakta hai, yeh majority mein occur nahi hota.’
+
+‘Main aapke sath agree karta hoon [b]. Of course.’
+
+‘Which case mein, kya aap yeh bhi agree karte hain ki philosophy ke prati zyadatar logon ki hostility ke liye responsible log uninvited outsiders hain jinhone party ko gate-crash kiya hai? Kya woh hamesha ek doosre ke sath loggerheads par nahi hote, hamesha ek fight ke liye spoiling? Kya unke endless ad hominem arguments philosophy ke liye completely alien nahi hain?’
+
+‘Haan. Completely.’
+
+‘Aakhirkar, Adeimantus, main imagine nahi karta ki us person ke paas time hai jiska mind truly what is par fixed hai men ke affairs par neeche glance karne ke liye, ya unke sath compete karne ke liye, aur envy aur ill-will se fill hone ke liye [c]. Nahi, woh apna view aur apna gaze un cheezon par fix karta hai jo properly arranged hain, jo hamesha same hain, jo na toh ek doosre ke sath wrong karti hain aur na hi ek doosre dwara wronged hoti hain, aur jo sabhi ek rational plan ke according ordered hain. Yeh wahi hain jinhe woh imitate karta hai, aur koshish karta hai, jahan tak ho sake, resemble karne ki. Kya aap sochte hain ki kisi cheez ko admire karna, aur uske sath samay bitana, use imitate karne ki ichha ke bina bilkul possible hai?’
+
+‘Nahi, woh impossible hai,’ usne kaha.
+
+‘Toh philosopher, divine aur ordered cheez ke sath apna samay bitate hue, in fact utna ordered aur divine ban jata hai jitna ek human being ke liye hona possible hai [d]. Yadyapi mind you, wahan charon taraf hamesha kaafi prejudice hoti hai, jahan bhi aap dekhein.’
+
+‘Precisely.’
+
+‘Aur agar uspar kuch compulsion hota jo kuch woh wahan dekhta hai use human behaviour mein effect mein laane ke liye, private aur public dono mein, simply khud ko mould karne ke bajaye, kya aap sochte hain ki self-discipline, justice aur popular virtue ke poore hisse ke craftsman ke roop mein usme kuch galat hoga?’
+
+‘Certainly nahi.’
+
+‘Aur agar many ehsaas karte hain ki hum philosopher ke baare mein jo keh rahe hain woh true hai, kya woh uske prati hostile honge [e]? Kya woh hamara vishwās karne se inkaar karenge jab hum kehte hain ki city ke kabhi happy hone ka koi rasta nahi hai jab tak ki ise is divine pattern ka upayog karne wale artists dwara design na kiya jaye?’
+
+‘Nahi, woh uske prati hostile nahi honge. Agar woh ehsaas karte hain ki hum truth bata rahe hain [501]. Lekin yeh design jiske baare mein aap baat kar rahe hain, yeh kaun sa form lega? Woh is baare mein kaise jaayenge?’
+
+‘Woh apne slate ke roop mein ek city, aur human beings ke character ko lenge. Woh ise clean wipe karke shuruat karenge, jo aasan hone se bahut door hoga. Is sabke baavjood, aapko isme koi shak nahi hona chahiye ki woh doosre draftsmen se differ karenge, right start se, kisi bhi individual ya city ke sath kuch bhi lena-dena rakhne se, ya kisi laws ko draft karne se inkaar karne mein, jab tak ki unhe ya toh ek clean slate na diya jaye ya unhone ise khud ke liye clean na kiya ho.’
+
+‘Quite right too,’ usne kaha.
+
+‘Uske baad, kya woh constitution ka outline draw karenge, aap kya sochte hain?’
+
+‘Of course.’
+
+‘Aur phir main imagine karta hoon ki woh kaam karenge, aage-peeche frequent glances ke sath [b]. Pehle uski taraf jo apne nature mein just, noble, self-disciplined hai, aur us sort ki har cheez, aur phir dobara uski taraf jo woh mankind mein daal rahe hain, true human likeness produce karne ke liye institutions ko mingle aur blend karte hue us model par aadharit jise Homer ne kaha tha, jab yeh mankind ke beech appear hua, ek “godlike form and likeness.”’
+
+‘Woh kitna sahi tha.’
+
+‘Main suppose karta hoon ki woh ek bit ko rub out karenge, aur ise replace karne ke liye doosra bit draw karenge, human characters ko god ke liye utna pleasing banane ke liye jo kuch woh kar sakte the jitna human characters ho sakte hain [c].’
+
+‘Yeh nischit roop se ek bahut beautiful picture hoga.’
+
+‘Well, phir,’ maine kaha, ‘yeh log jinhe aapne kaha tha ki humpar attack karne par hell-bent the, kya hum unhe convince karne mein manage kar rahe hain ki jis person ki praises hum pehle gaa rahe the, woh jiske prati woh hostile the kyunki hum use cities entrust kar rahe the, is kind ka ek constitution-painter hai? Kya woh thoda calm down ho rahe hain jab woh sunte hain jo humein kehna hai?’
+
+‘Haan,’ usne kaha, ‘agar woh sensible hain toh woh kaafi calm down ho rahe honge.’
+
+‘Disagree karne ke liye unke paas kya possible reason hoga [d]? Kya woh yeh kehne ja rahe hain ki philosophers truth aur reality ke lovers nahi hain?’
+
+‘Nahi, woh absurd hoga.’
+
+‘Ya ki philosopher ka nature jaise humne ise describe kiya hai uske akin nahi hai jo best hai?’
+
+‘Nahi, woh use bhi kehne nahi ja rahe hain.’
+
+‘Is claim ke baare mein kya ki yeh truth-loving nature, jab yeh way of life paata hai jo iske liye right hai, sabse completely good aur philosophical nahi hai jise aap possibly pa sakte hain? Kya woh un logon ko prefer karenge jinhe humne rule out kiya tha?’
+
+‘Main mushkil se aisa sochta hoon [e].’
+
+‘Which case mein, kya woh abhi bhi hamse angry honge jab hum kehte hain ki jab tak philosophic type ek city mein control nahi leta, na toh city ke liye aur na hi iske citizens ke liye suffering ka koi end hoga, aur fairy-tale regime jise hum theory mein construct kar rahe hain practice mein koi realisation nahi paayega?’
+
+‘Less angry, perhaps.’
+
+‘“Less angry” ki parwah mat karo [502]. Kya hum keh sakte hain ki woh poori tarah amenable aur persuaded ho gaye hain? Us tareeqe se woh shame ke kaaran hamse agree karenge, agar kisi doosre reason ke liye nahi.’
+
+‘By all means aayein yeh kahein.’
+
+‘Aayein ise lein, phir,’ maine kaha, ‘ki in logon ko is point par convince kar liya gaya hai. Ab, kya koi hamare is contention ko challenge karega ki kings aur rulers ke sons ke liye actually philosophical natures ke sath born hona possible hai?’
+
+‘Nahi,’ usne kaha. ‘Duniya mein koi bhi use challenge nahi karega.’
+
+‘Aur agar woh philosophical natures ke sath born hote hain, toh kya koi claim kar sakta hai ki unka corrupt hona certain hai? Yahan tak ki hum admit karte hain ki unke liye survive karna difficult hai [b]. Lekin kya koi yeh contend karne ja raha hai ki poore time mein, un sabhi mein se jo born hote hain, ek bhi kabhi survive nahi karne wala hai?’
+
+‘Woh kaise kar sakte the?’
+
+‘Lekin use bas ek hone ki zaroorat hai, surely, ek aise city ke sath jo uske obedient ho, un sabhi cheezon ko laane ke liye jinhe ab impossible regard kiya jata hai.’
+
+‘Haan, ek kaafi hai,’ usne kaha.
+
+‘Aakhirkar, agar ek ruler un laws aur way of life ko establish karta hai jinhe humne describe kiya hai, toh yeh presumably impossible nahi hai ki citizens unhe follow karne ke liye taiyar honge.’
+
+‘Thoda sa bhi impossible nahi.’
+
+‘Kya yeh astonishing ya impossible hai ki jo arrangements hamare liye ek achha idea lagte hain woh doosre logon ke liye bhi ek achha idea lagein?’
+
+‘Well, mujhe aisa nahi lagta [c].’
+
+‘Ki woh best arrangements hain, yeh assume karte hue ki woh possible hain, hamari pehle ki discussion dwara satisfactorily dikhaya gaya hai, mujhe lagta hai.’
+
+‘Haan, yeh dikhaya gaya hai.’
+
+‘Toh lawgiving par jis position par hum pahonche lagte hain woh yeh hai. Hamare arrangements best hain, agar sirf unhe effect mein daala ja sake, aur jabki unhe effect mein daalna difficult hai, yeh impossible nahi hai.’
+
+‘Haan,’ usne kaha, ‘wahi position hai jispar hum pahonche hain.’
+
+‘Well, phir, kyunki woh topic ek conclusion tak struggle kar gaya hai, hamare liye behtar hoga unse deal karne ke liye aage badhna jo bache hain. Hamare city ke yeh saviours – kya unhe unke task ke liye prepare karega [d]? Studies ka kaun sa course aur kaun sa way of life? Aur har age-group ko har subject ko kab tackle karna chahiye?’
+
+‘Haan, hamare liye usse deal karna behtar hoga.’
+
+‘Hamari discussion ke pehle part mein meri cleverness ke liye itna hi,’ maine kaha. ‘Maine wives ke acquisition, children ke production aur rulers ke selection ke awkward business ko sidestep kar diya, jab maine ehsaas kiya ki ek perfectly true arrangement invidious hoga aur lana hard [e]. Ab in topics se deal karne ki need ne mujhe waisi hi catch kar liya hai. Women aur children ka hamara account complete ho chuka hai, lekin rulers ka selection kuch aisa hai jise humein kam ya zyada square one se tackle karne ki zaroorat hai [503]. Humne jo kaha tha, agar aapko yaad ho, woh yeh tha ki unhe pleasure aur pain ki fire mein test hokar apni patriotism prove karni chahiye. Yeh clear hona chahiye ki woh hardship, fear ya fortune ke kisi doosre twist ke zariya apne convictions ko surrender nahi karenge. Jo test mein fail hote hain unhe disqualify kiya jana chahiye, jabki jo pure emerge hote hain, fire mein tested gold ki tarah, unhe rulers appoint kiya jana chahiye, aur unki lifetimes mein aur unki deaths ke baad dono rewards aur prizes diye jaane chahiye. Wahi us sort ki cheez thi jo hum keh rahe the, jabki argument ne apna veil pehna aur hamare paas se phisal gaya, us trouble ko stir up karne se darte hue jismein hum ab khud ko paate hain.’
+
+‘Aap absolutely right hain,’ usne kaha [b]. ‘Mujhe yaad hai ki humne woh kaha tha.’
+
+‘Haan, hum un cheezon ko kehne se reluctant the jinhe kehne ke liye ab hum bold enough rahe hain. Anyway, aayein ab apni new-found boldness ke sath khade rahein, aur kahein ki agar hum word ke most precise sense mein guardians chahte hain, toh humein philosophers ki zaroorat hai.’
+
+‘Very well. Aayein yeh kehte hue record par jaayein.’
+
+‘Aap ehsaas karte hain ki unmein se probably bahut saare nahi honge. Nature ke elements jinhe humne describe kiya hai, aur jinhe hum kehte hain ki unhe possess karna chahiye, unke same individual mein combined hone ki seldom sambhavna hai. Zyadatar logon mein is kind ka nature fragmented hota hai.’
+
+‘Aapka kya matlab hai [c]?’
+
+‘Well, aap aware hain ki jinke paas learning ka love, ek achhi memory, intelligence, wit ki quickness aur har woh cheez hai jo un qualities se follow karti hai – aur jo same time par energy aur greatness of spirit develop kar rahe hain – unke us kind ke log banne ki kam sambhavna hai jo naturally ek orderly, sober aur steadfast life lead karne ke inclined hote hain. Wit ki quickness logon ko har jagah carry karti hai, aur steadfastness window se baahar chali jaati hai.’
+
+‘True,’ usne kaha.
+
+‘Steadfast characters, contrast dwara, change hone mein slow, us sort ke log jinpar aap kahin zyada depend kar sakte hain, jo war ke time danger ke face mein immovable hote hain, likewise steadfast hote hain aur change hone mein slow tab bhi jab learning ki baat aati hai [d]. Woh immovable aur unteachable hote hain, jaise ki unhe drugged kiya gaya ho. Jab bhi unhe is sort ki kisi cheez par hard work karna padta hai toh woh sleep aur yawns se bhare hote hain.’
+
+‘Haan, woh true hai.’
+
+‘Lekin humne kaha tha hamare guardians ko dono sets of qualities ke sath liberally endowed hona chahiye. Warna unhe fullest education, respect ya power nahi di jaani thi.’
+
+‘Quite right, too.’
+
+‘Which case mein, kya aap nahi sochte ki philosophical character ek rare hoga?’
+
+‘Of course yeh hoga.’
+
+‘Ise hardships, fears aur pleasures mein test kiya jana chahiye jinake baare mein hum pehle baat kar rahe the [e]. Aur kya hai, hum ab kuch add kar sakte hain jise humne tab omit kiya tha, jo yeh hai ki humein ise study ke kai branches mein exercise karwana chahiye, yeh dekhne ke liye ki kya yeh most demanding ones ko endure karne ke capable hoga, ya agar yeh ek intellectual coward hai, jaise kuch log doosre tareeqon se cowards hote hain [504].’
+
+‘Haan,’ usne kaha. ‘Woh pata lagana ek achha idea hai. Lekin aapke yeh most demanding studies kaun se hain?’
+
+‘Aapko yaad hoga humne soul ke teen elements ko distinguish kiya tha, justice, self-discipline, courage aur wisdom ke baare mein conclusions draw karne ke view se – is baare mein ki in cheezon mein se har ek kya thi.’
+
+‘Agar mujhe woh yaad na hota toh main is discussion ke baaki hisse ko miss karna deserve karta.’
+
+‘Kya aapko yaad hai jo uske bilkul pehle aaya tha?’
+
+‘Nahi. Kya?’
+
+‘Humne jo kaha tha, mera vishwās hai, woh yeh tha ki hum ya toh unka best possible view pa sakte the, lekin sirf ek long detour ke baad, jiske end par woh clearly revealed hote, ya hum discussion ke sath ek level par abhi tak ek explanation de sakte the [b]. Aapne kaha tha ki woh good enough tha, aur as a result jo tab kaha gaya tha woh complete accuracy se short fall hua, meri raaye mein, yadyapi kya yeh aapke purposes ke liye good enough tha yeh aapke kehne ke liye hai.’
+
+‘Jahan tak mera sawaal hai,’ usne kaha, ‘aapne humein good measure diya. Aur wahi doosron ke sath jata hai, mujhe lagta hai [c].’
+
+‘In jise maamlon mein, mere dost, ek measure jo kisi bhi tareeqe se what really is se short fall hota hai, koi measure nahi hai. Jo incomplete hai woh kabhi kisi cheez ka measure nahi ho sakta, yadyapi kuch logon ke liye aise samay hote hain jab woh usse satisfied hote hain, aur feel karte hain ki unhe aage dekhne ki zaroorat nahi hai.’
+
+‘Haan, bahut se log hain jo aisa feel karte hain. Yeh laziness hai.’
+
+‘Well,’ maine kaha, ‘yeh ek aisa feeling nahi hai jise hum hamare city aur laws ke ek guardian ke paas chahte hain.’
+
+‘Fair enough.’
+
+‘Which case mein, mere dost, hamare guardian ko longer road se chakkar lagana chahiye [d]. Use studying par utna hi hard work karna chahiye jitna woh physical training par karta hai. Warna, jaise hum abhi keh rahe the, woh study ke most important aur appropriate subject ko end tak kabhi nahi dekhega.’
+
+‘Maine socha tha humne most important subject se deal kar liya tha. Kya justice aur jin cheezon ko hum describe kar rahe the unse bhi zyada important koi subject hai?’
+
+‘Haan,’ maine kaha, ‘kuch zyada important hai. Saath hi, in virtues ke sath khud, humein unke mere outline ko nahi dekhna chahiye jis tareeqe se hum ab dekh rahe hain. Hum jo chahte hain woh har detail mein unka realisation hai. Humein use neglect nahi karna chahiye [e]. Kya little significance ki cheezon par greatest possible precision aur clarity tak pahonchne ke liye har effort karna, aur jo kuch hum kar sakte hain woh karna, aur phir yeh decide karna ki most important cheezein total precision se kam deserve karti hain absurd nahi hai?’
+
+‘Utterly absurd. Lekin yeh cheez jise aap most important kehte hain – aur iska subject-matter, jo kuch bhi aap kehte hain ki woh hai – kya aap imagine karte hain ki koi aapko yeh poochhe bina jaane dega ki yeh kya hai?’
+
+‘Of course main nahi karta. Aap mujhse kyun nahi poochhte? Aapne answer pehle kaafi aksar suna hai, lekin ab aap ya toh ise bhool gaye hain, ya phir yeh meri life ko difficult banane ka ek aur plan hai mujhe kisi cheez se get away na karne dekar [505]. Yeh second reason hona chahiye, mujhe lagta hai. Aapne mujhe aksar yeh kehte hue suna hai ki study ka most important branch the form or character of the good hai – woh jiska just cheezon ko aur kisi doosri cheez ko zaroor use karna chahiye agar unhe useful aur beneficial hona hai. Aapko zaroor pata hona chahiye ki wahi hai jo main ab kehne ja raha hoon, aur aapko yeh bhi pata hona chahiye ki yeh aisi cheez nahi hai jiska hamare paas adequate knowledge hai. Lekin agar hum ise nahi jaante, toh chahe hum doosri har cheez ke baare mein kitna bhi jaante hon, uske bina, jaise aap well aware hain, hamara knowledge hamare liye kisi cheez ko good ke bina possess karne se zyada benefit ka nahi hoga [b]. Kya aap sochte hain ki hamare liye jo kuch hai use own karna aur phir bhi kisi good cheez ko own na karna kisi use ka hai? Ya good ke alawa har cheez mein wise hona, aur us baare mein koi wisdom na hona jo beautiful aur good hai?’
+
+‘Good heavens, nahi. Main certainly nahi sochta.’
+
+‘Ek aur cheez jisse aap well aware hain woh yeh hai ki jabki zyadatar log sochte hain ki good pleasure hai, zyada sophistication wale log sochte hain ki yeh knowledge hai.’
+
+‘Of course.’
+
+‘Aur further, mere dost, ki jo log is view ko hold karte hain woh yeh dikhane mein unable hain ki yeh kaun sa knowledge hai. Woh end mein yeh kehne par compelled hote hain ki yeh good ka knowledge hai.’
+
+‘Ek kaafi absurd definition,’ usne kaha.
+
+‘Yeh absurd hone se kaise fail ho sakti hai [c]? Woh humein good kya hai yeh na jaan-ne ke liye criticise karte hain, aur phir immediately assume karte hain ki hum jaante hain ki yeh kya hai. Woh kehte hain ki good good ka knowledge hai, jaise ki hum unki baat samajhne ke liye bound hain jaise hi woh bas “good” shabd utter karte hain.’
+
+‘Absolutely true.’
+
+‘Un logon ke baare mein kya jo good ko pleasure ke roop mein define karte hain? Surely woh doosron ki tarah hi mark se utne hi wide hain? Kya woh badle mein yeh admit karne par compelled nahi hote ki bad pleasures hote hain?’
+
+‘Very much so.’
+
+‘Hence, main imagine karta hoon, woh khud ko yeh admit karte hue paate hain ki same cheezein good aur bad hain, kya woh nahi paate [d]?’
+
+‘Of course.’
+
+‘Kya yeh clear hai, phir, ki yeh ek aisa subject hai jispar kai serious disagreements hain?’
+
+‘Haan, yeh hai.’
+
+‘Aur kya kuch aur clear nahi hai? Justice ya beauty ke sath, bahut se log unke appearance ke sath settle ho sakte hain. Bhale hi cheezein sach mein just ya beautiful na hon, woh unhe anyway karna, possess karna ya sochna chun sakte hain. Jab un cheezon ki baat aati hai jo good hain, doosri taraf, koi bhi abhi tak appearance se satisfied nahi hua hai. Woh aisi cheezein chahte hain jo sach mein good hon; woh sabhi iske appearance ko contempt ke sath treat karte hain.’
+
+‘Haan, woh bhi bahut clear hai,’ usne kaha.
+
+‘Yeh wahi hai jise har soul follow karti hai [e]. Iske sabhi actions ispar directed hain. Iske paas ek tarah ka divine intuition hai ki good kuch hai, lekin yeh doubt mein hai, isbaare mein ek firm grasp paane mein unable ki yeh kya hai, ya koi firm belief dhoondhne mein unable us kind ka jaisa iske paas doosri cheezon ke baare mein hai. As a result yeh jo kuch bhi benefit in doosri cheezon se pa sakta tha use lose kar deta hai. Kya humein yeh accept karna hai ki city ke un best logon ko bhi, jinhe hum har cheez entrust karne ki planning kar rahe hain, is nature aur importance ki kisi cheez ke baare mein dark mein rehna chahiye [506]?’
+
+‘Certainly nahi.’
+
+‘Lekin agar yeh known nahi hai,’ maine kaha, ‘ki kis tareeqe se just aur beautiful cheezein good hain, aur agar particularly ek guardian yeh nahi jaanta, toh justice aur beauty ne khud ke liye kis kind ka guardian paaya hoga tab? Ek jo meri raaye mein unke liye zyada asset nahi hai. Aur mere paas ek intuition hai ki koi bhi ise pehle jaane bina justice aur beauty ka satisfactory knowledge nahi rakhega.’
+
+‘Ek kaafi sound intuition.’
+
+‘Well, phir, kya humein hamari society ke liye best arrangements milenge agar ise supervise karne wala guardian us kind ka person hai jo in cheezon ko jaanta hai [b]?’
+
+‘Hum bound hain. Lekin aapke baare mein kya, Socrates? Kya aap kehte hain ki good knowledge hai? Ya pleasure? Ya dobara kuch aur?’
+
+‘Well, aap ek fine one hain,’ maine kaha. ‘Aap kaafi samay se yeh kaafi clear bana rahe hain ki aap is subject par doosre logon ke opinions ko sunne ke liye taiyar nahi hain.’
+
+‘Main bas yeh right nahi sochta, Socrates, kisi aise person ke liye jo subject par itna samay bitata hai doosre logon ke opinions ke sath bahar aane ke liye taiyar hona, lekin apne nahi.’
+
+‘Kisi ke liye aisi cheezon ke baare mein baat karne ko right sochne ke baare mein kya jaise woh jaanta ho jinhe woh nahi jaanta [c]?’ maine poocha.
+
+‘Nahi, of course main usse aise bolne ki expect nahi karta jaise woh jaanta hai. Lekin main usse kuch thoughts rakhne ki expect karta hoon, aur main sochta hoon ki use yeh kehne ke liye taiyar hona chahiye ki woh thoughts kya hain.’
+
+‘Really? Kya aapko kabhi yeh nahi laga ki knowledge ke bina sabhi opinions hideous hote hain? Ya at best blind? Kya aap un logon ke beech jo understanding ke bina ek true opinion rakhte hain aur un logon ke beech jo, yadyapi blind hain, sahi road par ja rahe hain, koi difference dekh sakte hain?’
+
+‘Nahi, main nahi dekh sakta,’ usne kaha.
+
+‘Us case mein, kya aap use dekhna prefer karte hain jo hideous hai – jo blind aur maimed hai – jab aapke paas doosre logon se illuminating aur beautiful sunne ka chance hai [d]?’
+
+‘Heaven ke sake ke liye, Socrates,’ Glaucon ne kaha, ‘ab mat ruko. Right end par. Hum kaafi happy honge agar aap humein good ka ek explanation de sakte hain jaise aapne humein justice, self-discipline aur doosre virtues ke diye the.’
+
+‘Main bhi hounga, mere dost. More than happy. Lekin mujhe darr hai ki main iske capable nahi hounga. Main koshish karte hue khud ko humiliate karunga, aur khud ko ek complete fool banaunga. Moment ke liye aap content rahenge, kya aap nahi rahenge, agar hum is question ko ek side chhod dein ki good itself kya hai [e]. Mere opinions tak pahonchna hamari present discussion ke momentum ke liye bahut zyada lagta hai. Nahi, main kisi aisi cheez ke baare mein baat karna chahta hoon jo good ka ek child hai, aur iske kaafi similar, agar woh aapke sath all right hai. Agar yeh nahi hai, toh aayein iske baare mein bhool jaayein.’
+
+‘Har tareeqe se us baare mein baat karein,’ usne kaha. ‘Aap father ke description ko humpar owe kar sakte hain, aur humein kisi doosre samay pay kar sakte hain.’
+
+‘Kaash main kar sakta. Aur kaash aap father ko receive kar sakte – full payment ko – bajaye sirf child ko interest ke roop mein [507]. Anyway, yahan interest payment hai, good ka child, aapke apne sath le jaane ke liye. Lekin aapko saavdhan rehna chahiye ki main unintentionally aapko kisi tareeqe se defraud na karoon. Aap nahi chahte ki child ka jo account main aapko doon woh counterfeit ho.’
+
+‘Hum jitna ho sake utna careful rahenge,’ usne kaha. ‘Bas humein apna account dein.’
+
+‘Tab tak nahi jab tak ki mujhe aapka agreement na mil jaye – aur aapko yaad na dila doon – un cheezon ke baare mein jo discussion mein pehle kahi gayi thin, aur jo past mein kai avsaron par kahi gayi hain.’
+
+‘Woh kaun si cheezein ho sakti hain?’
+
+‘Hum kehte hain ki wahan kai beautiful cheezein hain, aur kai good cheezein hain [b]. Aur baaki sabhi ke sath wahi. Wahi tareeqa hai jisase hum unhe unke bolne mein classify karte hain.’
+
+‘Haan, hum woh kehte hain.’
+
+‘Hum yeh bhi kehte hain ki ek beautiful itself hai aur ek good itself hai. Aur wahi un sabhi cheezon ke sath jinhe humne tab “many” kaha tha. Procedure ko reverse mein apply karte hue, hum unhe har ek ke ek single form ya character se relate karte hain – kyunki hum vishwās karte hain ki yeh single hai – aur ise “what each is” kehte hain.’
+
+‘Yeh aisa hai.’
+
+‘Many cheezein, hum kehte hain, dekhi ja sakti hain lekin sochi nahi ja sakti, jabki cheezon ke forms ya characters soche ja sakte hain lekin dekhe nahi ja sakte.’
+
+‘Exactly [c].’
+
+‘Very well. Hum jin cheezon ko dekhte hain unhe dekhne ke liye hum apni faculties mein se kiska upayog karte hain?’
+
+‘Hamari sight,’ usne kaha.
+
+‘Aur jin cheezon ko hum sunte hain unke liye hamari hearing, aur har us cheez ke liye jise hum perceive karte hain hamari doosri senses?’
+
+‘Of course.’
+
+‘Kya aapne kabhi notice kiya hai,’ maine poocha, ‘senses ke creator ne doosri senses ke muqable dekhne aur dekhe jaane ki power ko kitna zyada extravagantly banaya hai?’
+
+‘Nahi, maine nahi kiya.’
+
+‘Ise is tarah dekhein. Hearing ke sunne ke liye, aur sound ke sune jaane ke liye, kya unhe kisi doosri class of thing ki bhi zaroorat hoti hai [d]? Is third cheez ke bina, kya hearing sunne mein fail hogi, aur sound sune jaane mein fail hogi?’
+
+‘Nahi, unhe kisi doosri class of thing ki zaroorat nahi hai,’ usne kaha.
+
+‘Mujhe shak hai ki kai doosri faculties – main un sabhi ko nahi kahunga – ko is sort ki kisi further cheez ki koi zaroorat nahi hai. Kya aap kisi ke baare mein soch sakte hain?’
+
+‘Nahi, main nahi soch sakta.’
+
+‘Sight ki faculty, aur dekhi jaane wali cheez ke baare mein kya? Kya aapko kabhi yeh laga hai ki unhe is sort ki kisi cheez ki zaroorat hai?’
+
+‘Aapka kya matlab hai?’
+
+‘Agar eyes mein sight hai, aur iska possessor iska upayog karne ki koshish kar raha hai, aap surely ehsaas karte hain ki colour ki presence mein bhi sight kuch nahi dekhegi, aur colours unseen rahenge, jab tak ki ek further cheez unse join na ho jaye, ek third sort of thing jo sateek roop se is purpose ke liye exist karti hai [e].’
+
+‘Aap kis cheez ka matlab lete hain?’
+
+‘Woh cheez jise aap light kehte hain.’
+
+‘True,’ usne kaha.
+
+‘Us case mein, kyunki isme is important character ki ek third cheez shamil hai, sight ki faculty aur dekhe jaane ki ability ke beech ka link doosri faculties aur unke objects ke beech ke links se zyada valuable cheez hai [508]. Jab tak ki of course light ki koi value na ho.’
+
+‘Well, iski nischit roop se ek value hai.’
+
+‘Heavenly gods mein se kise, phir, aap iske liye responsible agent maante hain? Kiski light hamari sight ki faculty ko dekhne mein, aur dekhi jaane wali cheezon ko dekhe jaane mein sabse behtar enable karti hai?’
+
+‘Wahi jise aap ya koi aur responsible maanta,’ usne kaha. ‘Jiske baare mein aap poochh rahe hain woh obviously sun hai.’
+
+‘Ab, kya aap is god ke sath sight ke natural relationship ke baare mein mujhse agree karte hain?’
+
+‘Aap is baare mein kya keh rahe hain?’
+
+‘Sight sun nahi hai – na toh sight itself, aur na hi woh jagah jismein yeh occur hoti hai, aur jise hum eye kehte hain.’
+
+‘Nahi [b]. Yeh nahi hai.’
+
+‘Lekin perception ke sabhi organs mein se, main kahunga, eye sabse sun-like hai.’
+
+‘Much the most.’
+
+‘Toh jo power iske paas hai – dekhne ki ability – yeh ise sun se receive karti hai, ek overflowing treasury se ek tarah ke grant ke roop mein?’
+
+‘Exactly.’
+
+‘Toh waise hi, sun sight nahi hai, lekin yeh sight ka cause hai aur ise sight dwara dekha ja sakta hai?’
+
+‘Yeh aisa hai,’ usne kaha.
+
+‘Yeh wahi hai jise aapko good ke child dwara mera matlab lena chahiye, jise good ne apne analogue ke roop mein produce kiya [c]. Thought ki world mein good thinking aur sochi ja sakne wali cheezon ke sath sateek roop se wahi relation rakhta hai jo sun, sight ki world mein, seeing aur dekhi ja sakne wali cheezon ke sath rakhta hai.’
+
+‘Aapka kya matlab hai?’ usne kaha. ‘Please use thoda aage explain karein.’
+
+‘Aap jaante hain ki jab eyes un objects par directed hona band ho jaati hain jinake colours daylight mein hain, aur unki taraf turn karti hain jinake colours night ki lights dwara lit hain, toh woh dim ho jaati hain, aur virtually blind ban jaati hain, jaise ki unme koi clear sight na ho.’
+
+‘Woh nischit roop se hoti hain.’
+
+‘Jabki jab woh aisi cheezon par directed hoti hain jinake colours par sun ki light shine kar rahi hoti hai, toh woh distinctly dekhti hain [d]. Same eyes mein ab manifestly sight hoti hai.’
+
+‘Of course.’
+
+‘Aap soul ko same way mein dekh sakte hain. Jab yeh wahan focus karti hai jahan truth aur that which is shine forth karte hain, toh yeh samajhti hai aur jaanti hai jo yeh dekhti hai, aur intelligence possess karti hui appear hoti hai. Lekin jab yeh uspar focus karti hai jo darkness ke sath mingled hai, uspar jo astitva mein aata hai aur destroy ho jata hai, toh yeh opinion ka sahara leti hai aur dim ho jaati hai, jaise iske opinions pehle ek taraf aur phir doosri taraf swing karte hain. Ab, contrast dwara, yeh bina understanding wali kisi cheez jaisi lagti hai.’
+
+‘None at all.’
+
+‘Aap keh sakte hain ki yeh cheez jo known cheezon ko unka truth deti hai, aur jisse knower know karne ki apni ability draw karta hai, the form or character of the good hai [e]. Kyunki yeh knowledge aur truth ka cause hai, ise har tareeqe se ek known cheez ke roop mein sochein. Lekin aap ise knowledge aur truth se different, aur unse bhi zyada beautiful regard karne mein right honge, beautiful yadyapi yeh dono hain [509]. Jaise hamare example mein light aur vision ko sun-like sochna correct hai, lekin yeh sochna incorrect hai ki woh sun hain, same way mein yahan knowledge aur truth ko good-like sochna correct hai, lekin yeh sochna incorrect hai ki unmein se koi bhi good hai. Good ek aisi cheez hai jise aur bhi highly prize kiya jana chahiye.’
+
+‘Yeh ek incredible beauty hai jiske baare mein aap baat kar rahe hain,’ usne kaha, ‘agar yeh knowledge aur truth ka cause hai, lekin khud beauty mein unhe surpass karta hai. Aur aap sabhi logon mein se, presumably, yeh nahi kehne wale hain ki yeh pleasure hai.’
+
+‘Be silent,’ maine kaha. ‘Shabd ka mention bhi mat karo. Nahi, hamare good ke image ko closer look do.’
+
+‘Aap mujhe ise kaise dekhna chahte hain [b]?’
+
+‘Sun dekhi jaane wali cheez ko deta hai, mujhe lagta hai aap kahenge, na sirf iski dekhe jaane ki ability, balki birth, growth aur sustenance bhi – yadyapi yeh khud birth ya generation nahi hai.’
+
+‘Of course yeh nahi hai.’
+
+‘Jo cheezein known hain unke liye, na sirf yeh kahein ki unka known hona good se aata hai, balki yeh bhi ki woh apna existence aur apna being bhi isse paati hain – yadyapi good being nahi hai, balki rank aur power mein being ko kahin surpass karne wali cheez hai.’
+
+‘Ye gods,’ Glaucon ne claim kiya, hum sabhi ko hasaate hue [c]. ‘Kya miraculous transcendence hai.’
+
+‘Mujhe blame mat karo,’ maine kaha. ‘Aap wahi the jisne mujhe aapko batane par compel kiya tha ki main subject ke baare mein kya sochta hoon.’
+
+‘Main tha. Aur aap jo bhi karein, ab mat rukein. Agar kuch aur nahi, toh kam se kam sun ke sath apne comparison se guzarein, yeh sunishchit karne ke liye ki aapne kuch chhod nahi diya hai.’
+
+‘Maine har tarah ki cheezein chhod di hain,’ maine kaha.
+
+‘Well, mat chhodo. Chhote se chhota detail bhi omit mat karo.’
+
+‘Mujhe yakin hai main kuch omit karunga. Kaafi kuch, probably. All the same, jahan tak is jise occasion par possible hai, main purpose par kuch nahi chhodunga [d].’
+
+‘Nahi, mat chhodna,’ usne kaha.
+
+‘Very well. Aapko aware hona chahiye, jaise humne kaha, ki yeh do cheezein hain. Unmein se ek us category aur realm ka ruler hai jise samjha ja sakta hai. Doosra uska ruler hai jise dekha ja sakta hai – heavenly scene ka, main keh sakta hoon, sirf main nahi chahta ki aap sochein ki main words ke sath play kar raha hoon. Anyway, be that as it may, aap accept karte hain ki cheezon ke yeh do forms hain, the seen aur the understood?’
+
+‘Haan, main karta hoon.’
+
+‘Ek aisi line lene ki kalpana karein jise do unequal sections mein divide kiya gaya hai, aur har section ko – ek seen ki category ko represent karne wala aur ek understood ki category ko represent karne wala – dobara same proportion mein divide karein. Line ke sections ki clearness ya obscurity, relative to one another, aap nimnlikhit paayenge [e]. Seen ki category mein pehla section images hai, jisse mera matlab pehle sthaan par shadows hai, aur doosre sthaan par reflections water mein, ya kisi bhi dense, smooth, shiny surface mein [510]. Us sort ki har cheez, agar aap dekhte hain ki mera kya matlab hai.’
+
+‘Haan, main samajhta hoon.’
+
+‘Second section ko aapko us roop mein regard karna chahiye jiska first section ek image hai – animals jinhe hum har din dekhte hain, poori plant world, aur human artefacts ki poori class.’
+
+‘Very well. Main ise waise hi regard karta hoon.’
+
+‘Ab, truth aur iske opposite ke terms mein hamare division ko dekhte hue, kya aap yeh kehne ke liye taiyar honge ki likeness aur us cheez jiska yeh likeness hai ke beech ka relation opinion ke object aur knowledge ke object ke beech ke relation ke equivalent hai?’
+
+‘Haan, main hounga,’ usne kaha. ‘Most emphatically.’
+
+‘Khud se agla poochhein ki jo section understood ko represent karta hai use kaise divide kiya jana chahiye [b].’
+
+‘Ise kaise hona chahiye?’
+
+‘Is tarah. First part mein soul images ke roop mein un cheezon ko treat karti hai jo line ke doosre section mein originals thin. Yeh assumptions se kaam karne par compelled hoti hai, ek end-point ki taraf proceed karte hue, bajaye ek origin ya first principle ki taraf wapas jaane ke. Second part mein, contrast dwara, yeh ek assumption se ek origin ya first principle ki taraf jaati hai jo assumptions se free hai. Yeh un images ka upayog nahi karti jinhe first part use karta hai, balki forms ke zariya akele, unke through akele investigation mein apna rasta banati hai.’
+
+‘Maine poori tarah follow nahi kiya jo aapne abhi kaha.’
+
+‘Aayein dobara koshish karein [c]. Jab aapne suna hoga jo mujhe introduction ke way mein kehna hai toh aap ise easier paayenge. Aap aware hain, main imagine karta hoon, ki jab log geometry aur arithmetic jaisi cheezein kar rahe hote hain, toh kuch aisi cheezein hoti hain jinhe woh apne respective disciplines mein for granted lete hain. Odd aur even, figures aur three types of angle. Us sort ki cheez. Inhe known ke roop mein lete hue, woh inhe assumptions bana dete hain. Woh na toh khud ko aur na hi kisi aur ko inhe justify karne ki koi zaroorat dekhte hain [d]. Woh inhe kisi ke liye bhi plain regard karte hain. Inse shuru karte hue, woh phir apne baaki argument se guzarte hain, aur aakhirkar, agreed steps dwara, us tak pahonchte hain jise woh investigate karne ke liye nikale the.’
+
+‘Haan, main isse aware hoon,’ usne kaha.
+
+‘Aur aap isse bhi aware honge ki woh visible forms ki assistance ko summon karte hain, aur apni discussion ko unpar refer karte hain, yadyapi woh inke baare mein nahi soch rahe hain, balki un cheezon ke baare mein jinaki yeh images hain. Toh unki reasoning ke view mein square itself hai, aur diagonal itself, woh diagonal nahi jise unhone draw kiya hai [e]. Aur wahi doosre examples ke sath. Models jo woh construct karte hain, ya figures jo woh draw karte hain, jinaki apni shadows hain, aur water mein images – inhe woh badle mein images ke roop mein treat karte hain, corresponding cheezon ko khud dekhne ke apne attempt mein jinhe sirf thinking ke zariya dekha ja sakta hai.’
+
+‘True [511].’
+
+‘Yahi kaaran hai ki maine is category ko understanding dwara grasped ke roop mein describe kiya, lekin iski investigation ke liye soul ko assumptions ka use karne ki requirement ke roop mein. Soul ek first principle ki taraf koi progress nahi kar sakti, kyunki yeh in assumptions se escape karne aur ek upwards direction mein move karne mein unable hai. Iske bajaye yeh un cheezon ko images ke roop mein treat karti hai jinhe originals ke roop mein treat kiya gaya tha, aur copied, unke neeche ke section mein jo tha uske dwara, aur jinhe in images ke comparison mein clear socha jata hai, aur unki clarity ke liye value kiya jata hai.’
+
+‘Main samajhta hoon,’ usne kaha [b]. ‘Aapka matlab geometry aur iske related disciplines ka realm hai.’
+
+‘Finally, line ke doosre section dwara jo objects of understanding ko represent karta hai aapko mera matlab woh lena chahiye jise reason itself dialectic ki power dwara grasp karti hai, jab yeh assumptions ko first principles ke roop mein nahi, balki true “bases” ke roop mein use karti hai – points take off karne ke liye, entry-points – jab tak ki yeh us tak na pahonch jaye jo assumptions se free hai, aur har cheez ke origin ya first principle tak arrive na ho jaye. Ise yeh hold seize karti hai, phir turn around karti hai aur un cheezon ko follow karti hai jo is first principle se follow karti hain, aur is tarah ek end-point tak apna rasta banati hai [c]. Yeh senses ke kisi bhi object ka bilkul use nahi karti, balki sirf pure forms ka – unke through aur unki taraf work karte hue. Aur yeh forms mein end hoti hai.’
+
+‘Main thoda-bahut samajhta hoon,’ usne kaha, ‘yadyapi utna achha nahi jitna main chahunga. Mujhe lagta hai ki aap jis baare mein baat kar rahe hain woh ek enormous task hai, lekin main kam se kam yeh samajhta hoon ki aap us cheez ko lena chahte hain jo exist karti hai, aur samjhi jaati hai, aur iske us part ko distinguish karna chahte hain jo us knowledge dwara study kiya jata hai jo dialectic se aati hai us part se zyada clearer kuch ke roop mein jo unke dwara study kiya jata hai jinhe sciences kaha jata hai. Yeh assumptions ko first principles ke roop mein use karti hain, aur yadyapi jo log unhe study karte hain woh aisa karne ke liye apne senses ke bajaye thinking ka use karne par compelled hain, still, kyunki unki investigation ek first principle ki taraf upward rasta nahi banati hai, balki assumptions se proceed karti hai, aap unhe apne subjects ki ek intelligent understanding rakhne wale ke roop mein regard nahi karte, yadyapi ek first principle ke sath unhe samjha ja sakta tha [d]. Main yeh bhi sochta hoon ki jab log geometry jaise subjects kar rahe hote hain, toh aap unke state of mind ko understanding ke bajaye thinking kehte hain, kyunki aap thinking ko opinion aur understanding ke beech ek halfway house regard karte hain.’
+
+‘Aapne mere meaning ko kaafi achhi tarah grasp kiya hai,’ maine kaha. ‘Aur please samjhein ki soul mein arise hone wali chaar conditions hain, jo line ke chaar sections se correspond karti hain [e]. Understanding highest section se correspond karti hai, thinking second se, belief third se, aur conjecture aakhri se. Unhe tadanusaar classify karein, yeh vishwās karte hue ki clarity ki jo degree woh possess karti hain woh unke objects dwara possessed truth ke proportional hai.’
+
+‘Main samajhta hoon. Main agree karta hoon. Aur main unhe us tareeqe se classify karta hoon jaise aap suggest karte hain.’
+
+---
+
+### Footnotes for Book 6
+
+1. 474b.
+2. 474d–475b.
+3. Momus: Blame ya censure ka personification.
+4. Yeh comparison Athenian democracy ki ek image ke roop mein intended lagti hai, jismein logon (shipowner/captain) ki authority ko political stage par un leading figures (crew) dwara subvert kiya jata hai jo yeh sabse behtar jaante hain ki logon ki compliance ko apne designs ke sath kaise secure kiya jaye. State ke ship ka metaphor Greek poetry mein common tha.
+5. Greek ka sense unclear hai. Iska matlab yeh bhi ho sakta hai, for example, ‘Na hi woh is possibility ko accept karte hain ki, navigation ki art ke sath-sath, woh instruction ya practice dwara, helm ka control rakhne ki skill gain kar sakta tha chahe koi chahe ya na chahe.’
+6. Simonides ke baare mein report kiya jata hai ki usne kaha tha ki wise hone se rich hona behtar hai, kyunki wise men rich logon ke courts mein paaye jaate hain.
+7. 485a–487a.
+8. Athenian assembly ki meetings aur zyadatar theatrical performances open-air auditoria mein held kiye jaate the. Law ke courts kai public spaces aur buildings mein milte the, kuch doosron ke muqable zyada enclosed.
+9. Greek proverb ‘Diomedean necessity’ ko refer karta hai. Iska origin uncertain hai.
+10. Pehle 476b par agree hua tha.
+11. 490c.
+12. Is paragraph mein aur unme jo follow karte hain description Athenian statesman Alcibiades ke person aur life ke sath closely fit baithta hai, jinki ambition ko partially Sicily ke expedition (415–413BC) ke imperialistic disaster ke liye blame maana gaya tha, jo Athens ke liye ek traitor ban gaya, aur jise Socratic literature mein Socrates ke sath intimately involved portray kiya gaya hai.
+13. Socrates ka divine sign ek inner voice thi jo use action ke nishchit courses se door rehne ki warning deti thi, lekin kabhi positive instruction nahi deti thi. Gods se communications Greek culture ka ek part the, lekin typically dreams ya portents ya seers aur diviners se official proclamations ke form mein aate the, inner voices ke roop mein nahi.
+14. 473c–e.
+15. 489b–d, 496b–e.
+16. ‘Godlike’ Homeric heroes ko pay kiya jaane wala ek standard compliment tha.
+17. Dekhein 474a, 487c–d, 485a–487a.
+18. 495a.
+19. 427e, 457a, 466c–d, 471c.
+20. Wives aur children: 423e–424a; rulers ka selection: 412b–414a.
+21. 487a, 490c–d, 494b.
+22. 484d–485a.
+23. 435c–d.
+24. Greek word *tokos* ka matlab dono ‘child’ aur ‘loan par interest’ hota hai.
+25. 476a.
+26. Heavenly bodies ko gods ke roop mein treat karna normal Greek religious practice thi.
+27. Ek aur possible translation yeh hoga: ‘jab yeh uspar focus karti hai jo truth dwara aur that which is dwara illuminated hai’.
+28. Yeh phrase religious rites ki silence ko refer karta hai.
+29. Greek mein Glaucon exclaim karta hai ‘Apollo ki qasam!’, ek god jo sun ke sath associated tha, yadyapi Plato ke din mein primarily philosophers dwara bajaye official cult ke.
+30. Alternatively, is sentence ke aakhri clause ka translation kiya ja sakta tha ‘yadyapi unke subjects us realm se belong karte hain jise samjha ja sakta hai, aur unke paas first principles hain’.
+31. Jaise 510e par.
+32. Line ke description (509d) se ek mathematician yeh prove karne ke capable hoga ki do middle sections, jo thought aur belief se correspond karte hain, invariably length mein equal hain, regardless line ki total length aur iske pehle cut ke location ke. Kya Plato ne is fact ko significant hona intend kiya tha yeh kaafi disputed hai. Imagine karein, for example, ki line nine units long hai, aur pehle three-unit mark par cut ki jaati hai. Ise tab one-unit aur five-unit marks par cut kiya jana chahiye, description ke sath comply karne ke liye, dono central sections ko two units long banate hue.
