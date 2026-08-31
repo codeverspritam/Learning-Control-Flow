@@ -4363,3 +4363,1253 @@ Disease produce karna unke rule karne aur ruled hone ka question hai, ek doosre 
 23. *Odyssey* 12.342. Speaker Odysseus ke shipwrecked crew mein se ek hai, Eurylochus, apne fellows ko Sun god ke sacred cattle ko khane ke liye urge karte hue. Odysseus ne abhi unhe apni hunger ko resist karne ka command diya hai.
 24. Episode *Iliad* 14.292–353 mein narrated hai. Hera, Zeus ki consort, shameless behaviour par protest karti hai; lekin usne vaastav mein poore samay seduction ki planning ki thi.
 25. *Odyssey* 8.266–366. Hephaestus apni consort Aphrodite aur uske lover Ares ko ek invisible mesh ke tehat trap karke punish karta hai jab woh ek sath bed par hote hain, phir doosre gods ko unki embarrassment witness karne ke liye bulata hai.
+
+---
+
+# Book 5
+
+‘Very well, phir [449]. “Good” aur “correct” woh labels hain jinhe main is tarah ke city aur political regime se, aur is tarah ke man se attach karta hoon. Aur agar yeh city correct hai, toh main doosre cities ke faulty aur bad kehta hoon, dono tareeqon se jis tarah woh run kiye jaate hain aur jab individual soul ke character ko form karne ki baat aati hai. Bad wale chaar categories mein girte hain.’
+
+‘Woh kya hain?’
+
+Main is baat ka ek systematic account embark karne wala tha ki maine kaise socha ki various categories ek doosre se viksit hui hain, jab Polemarchus, jo Adeimantus se thoda door baitha tha, ne apna haath aage badhaya aur uske shoulder par uske cloak ko pakad liya [b]. Adeimantus ko apni taraf khinchte hue, woh aage jhuka aur usse phusphusana shuru kiya. Hum isme se jo sun sake woh bas yeh tha: ‘Hum kya karenge? Kya hum ise jaane dein?’
+
+‘Nahi,’ Adeimantus ne jawab diya, out loud.
+
+‘Vishesh roop se kya,’ maine poocha, ‘aap jaane nahi dena chahte?’
+
+‘Aapko.’
+
+‘Vishesh roop se kya jo maine kaha hai [c]?’
+
+‘Hum sochte hain ki aap aasan raasta chun rahe hain. Argument mein thought ki ek poori line – aur ek mahatvapurna – se humein short-change karte hue, ise explain karne ki pareshani se khud ko bachane ke liye. Aap sochte hain ki jab women aur children ki baat aati hai toh aap is effect ke ek casual remark se bach nikal sakte hain ki friends ke paas cheezein common mein hongi, jaise ki isbaare mein koi shak mein nahi ho sakta tha.’
+1
+
+‘Kya maine jo kaha woh correct nahi tha, phir, Adeimantus?’
+
+‘Haan, woh tha,’ usne kaha. ‘Lekin hamare baaki ke correct statements ki tarah, ise kuch explanation ki zaroorat hai. “Common” se aapka kya matlab hai? Wahan bahut saari possibilities hain, aur aap humein bataye bina ki aapka kaun sa matlab hai bach kar nahi nikalne wale hain [d]. Hum yahan patiently baith rahe hain, yeh assume karte hue ki aap children ke production ke baare mein kuch kehne ke liye bound the – is regard mein unka practice kya hoga, aur bachhe paida hone ke baad woh unhe kaise paalenge, aur women aur children ke “in common” hone ka yeh poora business jise aapne suggest kiya hai. Hum sochte hain ki yeh hamare state ke liye bahut, indeed crucial, mahatva ka hai ki yeh sahi tareeqe se kiya gaya hai ya galat tareeqe se. Toh jab aapne in questions ko ek satisfactory way mein settle kiye bina ek aur regime se deal karna shuru kiya, toh humne woh decision liya jise aapne humein karte hue suna, aapko tab tak na jaane dene ka jab tak ki aapne doosre topics ki tarah is topic ka ek poora description na diya ho [450].’
+
+‘Mujhe bhi count karein,’ Glaucon ne kaha, ‘is motion ke joint proposer ke roop mein.’
+
+‘Ise ek unanimous decision ke roop mein lein, Socrates,’ Thrasymachus ne joda.
+
+‘Mujhe umeed hai ki aap ehsaas karte hain,’ maine kaha, ‘aap mujhe task par lene mein kya kar rahe hain. Aap humein bilkul square one par wapas le ja rahe hain, hamare state ke baare mein ek doosri major discussion shuru karne ke liye, jaise hi main iske apne account ko complete karne par khud ko congratulate karna shuru kar raha tha. Main kaafi khush hua hota agar woh remarks waise hi accept kar liye gaye hote jaise woh khade the [b]. Iske bajaye aapne unhe examination ke liye uthaya hai, bina thoda sa bhi idea ke ki aap shabdon ke kis hornet’s nest ko stir up kar rahe hain. Main ise pehle dekh sakta tha, yahi kaaran tha ki maine socha tha ki main tab question se bachkar humein bahut saari pareshani se bachaunga.’
+
+‘Kya aap sochte hain,’ Thrasymachus ne poocha, ‘ki yeh sabhi log yahan rainbow ke end ko dhoondhne aaye hain?
+2
+Ya kya woh ek discussion sunne aaye hain?’
+
+‘Ek discussion sunne ke liye. Lekin ise ek reasonable length ka hona padega.’
+
+‘Well, Socrates,’ Glaucon ne kaha, ‘samajh wale logon ke liye is sort ki discussion ko sunne ke liye reasonable length of time unki poori life hai. Toh hamare baare mein worry mat karein [c]. Us question ke baare mein worry karein jo hum aapse poochh rahe hain. Aapke paas apna kaam cut out hoga humein yeh explain karne ke liye ki aap kya sochte hain ki hamare guardians ke beech cheezon ke “in common” hone ka yeh business kaisa hoga, kyunki yeh women aur children aur children ke upbringing ko affect karta hai jab woh abhi young hain, birth aur formal education ke beech ke intervening period mein. Usi ko aam taur par unke upbringing ka sabse demanding part maana jata hai, toh aapko koshish karni chahiye aur humein batana chahiye ki ise kis form mein hona chahiye.’
+
+‘Kitna innocent request! Lekin yeh explain karne ke liye ek aasan maamla nahi hai. Yeh kai points par objection ke liye khula hai – un suggestions se bhi zyada jinhe humne abhi tak banaya hai. Isbaare mein doubts ho sakte hain ki kya yeh practicable hai, aur chahe yeh jitna bhi possible ho, iski wisdom ke baare mein doubts honge [d]. Isliye meri isme involved hone se reluctance, is case mein ki meri suggestions aapko, mere pyare dost, bas wishful thinking ki tarah lagein.’
+
+‘Reluctance ki koi zaroorat nahi hai. Aapki audience na toh ignorant hai, na sceptical, na hostile.’
+
+‘Kya aap sach mein sochte hain,’ maine usse poocha, ‘ki aap woh kehkar mujhe encourage kar rahe hain?’
+
+‘Haan,’ usne jawab diya.
+
+‘Kyunki effect bilkul opposite hai. Agar maine socha hota ki main jaanta tha ki main kis baare mein baat kar raha tha, toh aapka encouragement welcome hota [e]. Intelligent aur congenial logon ki ek gathering mein, mahatvapurna aur congenial topics ke baare mein baat karte hue, is gyaan ki jo koi keh raha hai woh true hai security aur confidence ke grounds deta hai. Lekin agar aap answer ke baare mein sure nahi hain aur jab aap baat karna shuru karte hain tab bhi ise dhoondh rahe hain – jaise main ab hoon – toh woh ek alarming aur unsettling experience hai [451]. Yeh khud ko fool banane ka darr nahi hai – woh childish hoga. Nahi, mujhe worry hai ki agar main truth ke path par ek false step leta hoon, toh main sirf khud nahi girunga, balki apne friends ko bhi apne sath neeche khinchunga – aur ek aisi jagah par jahan ek false step sabse disastrous hai. Toh main jo kehne wala hoon uske liye Adrasteia se apni apologies maangta hoon, Glaucon, kyunki mera vishwās hai ki jab involuntary crimes ki baat aati hai, toh homicide fine, good aur just institutions ke vishay par wrong directions dene se kam serious hai, aur ki is sort ke chances apne friends ke bajaye apne enemies ke sath lena behtar hai [b]. Toh aapke encouragement ke liye bahut-bahut dhanyavaad.’
+
+Glaucon ne hasa. ‘Well, Socrates, agar aapka kaha humein koi harm pahonchata hai, toh hum ise ek homicide case ki tarah treat karenge. Hum aapko humein mislead karne se acquit karte hain, aur aap apne character par bina kisi stain ke court chhod sakte hain. Toh relax karein. Humein batao jo aapko kehna hai.’
+
+‘Well, kanoon kehta hai ki agar aap acquit ho jaate hain, toh aap pollution se free hain. Chances hain agar yeh homicide ke case mein true hai, toh yeh yahan bhi true hai.’
+3
+
+‘Woh all right hai, phir. Say on.’
+
+‘Us case mein,’ maine kaha, ‘mera behtar hoga wapas jana aur ab kisi aisi cheez se deal karna jisse mujhe shayad pehle deal karna chahiye tha, iske rightful place mein [c]. Yadyapi shayad ise karne ka sahi tareeqa yeh hai. Men ke performance ko pehle well aur truly finished karein, women ke performance par jaane se pehle.
+4
+Aur bhi zyada kyunki wahi hai jiske liye aap itne keen hain. Un logon ke liye jinaka nature aur education waisa hai jaise humne describe kiya hai, phir, women aur children ko possess karne aur unse deal karne ka akela correct way, meri raaye mein, woh hai jo us original starting-point par aadharit hai jo humne unhe shuruat mein diya tha. Hamara intention, main ise leta hoon, hamare hypothetical city mein men ko herd ka kisi tarah ka guardians banana tha.’
+5
+
+‘Haan [d].’
+
+‘Kya hum phir is role ke sath consistent ek birth aur upbringing unhe dekar iska follow-up karein? Kya hum dekhein ki kya woh hamare purpose ko suit karta hai ya nahi?’
+
+‘Aapka kya matlab hai?’
+
+‘Mera matlab yeh hai. Kya hum sochte hain ki female watchdogs ko watching ka apna share karna chahiye, usi tareeqe se jaise male watchdogs? Kya unhe hunting ka apna share karna chahiye, aur doosri activities mein join karna chahiye? Ya kya hum sochte hain ki puppies ko bear aur raise karna unhe unka share karne mein a-saksham banata hai? Kya hum expect karte hain ki females andar ghar par rahein jabki males kaam karein aur flocks ke liye poori responsibility rakhein?’
+
+‘Hum sochte hain ki unhe har cheez mein join karna chahiye,’ usne kaha. ‘Hum females ko weaker ke roop mein treat karte hain, halanki, aur males ko stronger ke roop mein [e].’
+
+‘Well phir, kya ek animal ko doosre ke same tasks ke liye same upbringing aur training diye bina niyukt karna sambhav hai?’
+
+‘Nahi, yeh sambhav nahi hai.’
+
+‘Toh agar hum women ko men ke same tasks ke liye niyukt karne wale hain, toh humein unhe same teaching deni chahiye.’
+
+‘Haan.’
+
+‘Education jo humne men ko di usme ek musical aur poetic element tha, aur ek physical element [452].’
+
+‘Haan.’
+
+‘Toh women ko bhi in do disciplines ko receive karna chahiye, plus military training. Aur unhe same way mein treat kiya jana chahiye.’
+
+‘Yeh us tareeqe se lagta hai,’ usne kaha, ‘jo aap keh rahe the usse.’
+
+‘Hum abhi jo keh rahe hain usme se bahut kuch kaafi unconventional hai. Yeh well absurd lag sakta hai, agar hamari suggestions ko sach mein practice mein daala jaane wala hai.’
+
+‘Indeed yeh lag sakta.’
+6
+
+‘Aapko is baare mein sabse absurd cheez kya lagti hai? Kya yeh obviously wrestling-schools mein men ke sath women ke naked exercise lene ka idea nahi hai?
+7
+Sirf young women nahi, balki older ones bhi, gymnasiums mein milne wale old men ki tarah [b]. Woh sabhi wrinkled hain, aur kisi bhi tarah se ek pretty sight nahi hain, lekin woh abhi bhi exercise lene ke liye ek enthusiasm retain karte hain.’
+
+‘Haan,’ usne jawab diya. ‘Woh nischit roop se kaafi absurd lagega – kam se kam jis tareeqe se cheezein present mein hain.’
+
+‘Well, ab jabki humne topic ko up laya hai, humein un sabhi standard jokes se darna nahi chahiye jinhe hum humorists se sunenge agar humne physical exercise mein, musical aur poetic education mein, aur particularly arms carry karne mein aur horseback par ride karne mein us sort ke changes introduce kiye [c].’
+
+‘Aap sahi hain,’ usne kaha.
+
+‘Aur kyunki humne ise up laya hai, humein legislation ke difficult business par aage badhna chahiye, in comedians se serious hone ki request ke sath. Hum mind nahi karte unhe apna proper function perform na karte hue. Hum unhe yaad dila sakte hain ki yeh itna lamba samay nahi hua hai jabse Greeks ne ise immoral aur absurd socha tha, jaise zyadatar foreigners abhi bhi sochne hain, men ke liye naked dekhe jana [d]. Jab pehle Cretans ne, aur phir Spartans ne, naked exercise karna shuru kiya, toh woh sabhi din ke humorists ke liye ek legitimate target ban gaya. Kya aap sehamat nahi hain?’
+
+‘Main hoon.’
+
+‘Main ise leta hoon ki ek baar jab experience ne dikhaya ki aap in sabhi activities ko clothes pehenne ke bajaye stripped hokar behtar kar sakte hain, toh absurdness ki perception rational calculation dwara revealed best ke samne evaporate ho gayi. Yeh clear ho gaya ki sirf ek fool bad ke alawa kisi doosri cheez ko laughable maanta hai [e]. Koi bhi jo folly aur wickedness ke spectacle ke alawa kisi doosre spectacle par point karke amusing hone ki koshish karta hai use khud ke liye good ke alawa beauty ka koi doosra standard set kiya hona chahiye.’
+
+‘Exactly,’ usne kaha.
+
+‘Us case mein, kya humein yeh agree karke shuruat nahi karni chahiye ki hamari suggestions feasible hain ya nahi? Aayein kisi ko bhi jo humein challenge karna chahta hai – chahe jest mein ya earnest mein – in questions ko raise karne ka opportunity dein: Kya human female naturally male ki sabhi activities ko share karne ke capable hai [454]? Ya unmein se kisi ko nahi? Ya kya woh kuch ke capable hai lekin doosron ke nahi? Agar aisa hai, toh kis class mein military activity aati hai? Kya woh hamare liye shuru karne ka – aur kalpana ke roop mein finish karne ka bhi sabse behtareen way nahi hai?’
+
+‘Much the best.’
+
+‘Kya aap chahenge ki hum apna khud ka challenge mount karein, phir?’ maine poocha. ‘Hum nahi chahte ki doosri side ki position ko ek struggle ke bina abandon kar diya jaye.’
+
+‘Why not [b]? Humein rokne ke liye kuch nahi hai.’
+
+‘All right. Aayein unke liye bolein. “Socrates aur Glaucon, kisi aur ke liye aapko challenge karne ki koi zaroorat nahi hai. Aap khud agree hue the, jab aapne pehli baar apna city found karna shuru kiya tha, ki cheezon ke natural order mein har individual ko ek task carry out karna chahiye, woh jiske liye woh fitted tha.”’
+8
+
+‘Haan, mujhe lagta hai humne woh agree kiya tha. Hum disagree kaise kar sakte the?’
+
+‘“Kya aap deny kar sakte hain ki ek woman ka nature ek man ke nature se poori tarah alag hai?”’
+
+‘Nahi. Of course yeh alag hai.’
+
+‘“Us case mein, kya har ek ko uske nature ke appropriate ek task bhi assign nahi kiya jana chahiye?”’
+
+‘Of course [c].’
+
+‘“Phir aap ab galat honge. Aapko khud ko contradict karna chahiye jab aap kehte hain ki men aur women ko same tasks perform karne chahiye, widely differing natures hone ke baavjood.” Wahi hai jo woh kahenge. Aur aap kya kahenge? Kya aapke paas is objection ke khilaf koi defence hoga?’
+
+‘Yeh bahut hard hai,’ usne kaha, ‘bas is tarah ek ke baare mein sochana. Nahi, main aapase poochhunga – in fact, main abhi aapase poochhta hoon – hamare argument ki side prastut karne ke liye, jo kuch bhi yeh hai, as well.’
+
+‘Wahi tha jisse main darta tha, Glaucon. Main is tarah ke question ko aate hue dekh sakta tha – aur us jise kai doosron ko bhi [d]. Yahi kaaran tha ki main women aur children ke acquisition aur upbringing se related law ko touch karne se reluctant tha.’
+
+‘Main aapko blame nahi karta,’ usne kaha. ‘Yeh aasan nahi lagta.’
+
+‘Nahi, yeh nahi lagta. Lekin chahe aap ek chhote swimming-pool mein girein ya sabse bade sea ke middle mein, aapko abhi bhi waisi hi swim karni padegi. Yeh life ka ek fact hai.’
+
+‘Yeh nischit roop se hai.’
+
+‘Toh humein bhi swim karni padegi, aur khud ko is objection se save karne ki koshish karni padegi. Aayein umeed karein ki humein ek dolphin dwara pick up kiya jaye, ya rescue ka koi equally unlikely agent.’
+9
+
+‘Haan, aisa lagta hai jaise humein iske liye swim karna padega [e].’
+
+‘Come on phir,’ maine kaha. ‘Aayein dekhein ki kya hum ek escape route dhoondh sakte hain. Humne agree kiya ki alag-alag natures ko alag-alag occupations pursue karne chahiye, aur ki ek woman ka nature ek man ke nature se alag tha. Lekin ab hum keh rahe hain ki in alag-alag natures ko same occupations pursue karne chahiye. Kya wahi hai jiska humpar accusation lagaya ja raha hai?’
+
+‘Indeed wahi hai.’
+
+‘Extraordinary, Glaucon, hai na, disputation ke paas jo power hai [454]?’
+
+‘Kyun?’
+
+‘Kyunki mujhe lagta hai ki bahut saare log isme poori tarah involuntarily girte hain. Woh vishwās karte hain ki woh ek discussion hold kar rahe hain, jabki in fact woh ek competition kar rahe hain. Kyunki woh distinctions draw karke jis baare mein baat kar rahe hain use examine karne ke a-saksham hain, woh iske bajaye jo kaha gaya hai uske purely verbal contradictions ki talash karte hain. Yeh ek competition hai jo woh ek doosre ke sath kar rahe hain, discussion nahi.’
+
+‘True,’ usne kaha. ‘Woh bahut saare logon ke sath hota hai. Kya yeh hampar bhi laagu hota hai, jis baare mein hum abhi baat kar rahe hain?’
+
+‘Very much so,’ maine jawab diya [b]. ‘Aisa lagta hai jaise hum disputation mein lapse ho gaye hain.’
+
+‘Kis tareeqe se?’
+
+‘Hamare poori tarah courageous aur competitive, lekin literal-minded way mein, hum is statement ko pursue kar rahe hain ki alag-alag natures ko same occupations mein engage nahi hona chahiye. Humne khud se yeh poochhna shuru nahi kiya hai ki hum kis tarah ki natural difference ya sameness specify kar rahe the, ya hamara distinction kisse laagu hota tha jab humne alag-alag natures ko alag-alag occupations assign kiye, aur same natures ko same occupations.’
+
+‘Nahi,’ usne kaha, ‘humne khud se woh nahi poochha [c].’
+
+‘Which case mein aisa kuch nahi hai, jahan tak main dekh sakta hoon, humein khud se yeh poochhne se rokne ke liye ki kya bald men aur hair wale men ke paas same nature hai ya alag natures. Aur jab hum agree karte hain ki unke paas alag natures hain, toh hum keh sakte hain ki agar bald men shoemakers hain, toh hair wale men ko shoes banane ki anumati nahi honi chahiye. Ya agar hair wale men shoemakers hain, toh bald men ko anumati nahi honi chahiye.’
+
+‘Woh ludicrous hoga.’
+
+‘Haan, woh ludicrous hoga – ek bahut hi simple kaaran se. Jab humne apna rule banaya, toh hum un natures ke baare mein baat nahi kar rahe the jo har sambhavid tareeqe se same ya alag thin [d]. Humne khud ko difference aur sameness ki ek relevant kind tak seemit rakha jo vicharadhin occupations ke liye relevant tha. Hamara matlab tha, udaharan ke liye, ki medicine ke talent wale do logon ke paas same nature tha.’
+
+‘Haan.’
+
+‘Jabki medicine mein achhe logon aur carpentry mein achhe logon ke paas alag natures hain?’
+
+‘Absolutely.’
+
+‘Toh agar ya toh male sex ya female sex clearly superior dikhta hai jab kisi skill ya occupation ki baat aati hai, toh hum kahenge ki yeh occupation is sex ko assign kiya jana chahiye. Lekin agar akela difference yeh dikhta hai ki female children bear karti hai, jabki male female ko mount karta hai, toh hum kahenge ki yeh kisi bhi tareeqe se prove nahi karta ki hamare purposes ke liye ek woman man se kisi bhi tareeqe se alag hai [e]. Hum abhi bhi sochenge ki guardians aur unki women ko same occupations follow karne chahiye.’
+
+‘Aur rightly.’
+
+‘Agla step un logon se kehna hai jo hamse disagree karte hain ek simple question ka answer dene ke liye [455]. City ke management se jude kis skill ya occupation ke liye women’s aur men’s natures same nahi hain, balki alag hain?’
+
+‘Ek fair question.’
+
+‘Aur woh keh sakte hain, jaise aapne kuch moments pehle kaha tha, ki is tarah bas ek satisfactory answer paana aasan nahi hai, yadyapi thode bit of thought ke sath yeh utna hard nahi hoga.’
+
+‘Woh keh sakte hain.’
+
+‘Kya aap chahte hain ki hum is issue par apne opponent se humein follow karne ke liye kahein, aur dekhein ki kya hum kisi tarah usse demonstrate kar sakte hain ki city ke management mein aisa koi occupation nahi hai jo women ka exclusive preserve ho [b]?’
+
+‘Haan.’
+
+‘Come on phir, hum usse kahenge. Humein yeh batao. Jab aapne kaha ki ek man naturally kisi cheez ke liye suited tha, aur doosra naturally unsuited, toh kya aapka matlab tha ki ek ise aasaani se seekhta tha, aur doosra difficulty ke sath? Kya ek, instruction ke ek brief period ke baad, us cheez ke baare mein apne liye bahut kuch discover karne ke capable tha jo woh seekh raha tha, jabki doosra, instruction aur practice ki kisi bhi matra ke sath, un cheezon ko yaad bhi nahi rakh sakta tha jinhe use sikhaya gaya tha? Unmein se ek ke liye, kya body mind ka useful assistant tha, jabki doosre ke liye yeh uska opponent tha [c]? Jab aapne logon ke various cheezon ke liye well ya ill suited hone ki baat ki, toh kya aapka distinction iske alawa kisi doosri cheez ke barabar tha?’
+
+‘Nahi. Mujhe nahi lagta ki koi ise challenge karega.’
+
+‘Kya aap kisi bhi human activity ke baare mein soch sakte hain jismein male sex female sex se in sabhi tareeqon mein superior nahi hai? Ya kya humein weaving, cookery aur cakes bake karne ka ek lamba account dena padega – cheezein jinme female sex ko kaafi achha socha jata hai, aur jahan unke liye second-best hona particularly absurd hai [d]?’
+
+‘Nahi,’ usne kaha. ‘Agar aap keh rahe hain ki ek sex lagbhag har cheez mein doosre se behtar hai, toh aap sahi hain. Yeh true hai ki wahan bahut saari individual women hain jo individual men se har tarah ki cheezon mein behtar hain, lekin general mein aap sahi hain.’
+
+‘Us case mein, mere dost, city chalaane se judi gatividhiyon mein se koi bhi ek woman se belongs nahi karti kyunki woh ek woman hai, na hi ek man se kyunki woh ek man hai. Natural attributes dono sexes ke beech evenly distributed hain, aur ek woman naturally equipped hai sabhi activities mein apna part play karne ke liye, jaise ek man hai – yadyapi un sabhi mein woman man se weaker hai [e].’
+
+‘Exactly.’
+
+‘Kya iska matlab hai ki humein har cheez men ko entrust kar deni chahiye, aur ek woman ko kuch nahi dena chahiye?’
+
+‘Of course nahi.’
+
+‘Nahi. Hum kahenge, presumably, ki ek woman ek natural doctor hai, jabki doosri nahi hai, ki ek naturally musical hai, aur doosri unmusical.’
+
+‘Certainly.’
+
+‘Kya ek warlike aur physical training ke liye fitted nahi hai, jabki doosri unwarlike hai aur training ki koi lover nahi [456]?’
+
+‘Yeh nischit roop se mera vishwās hai.’
+
+‘Wisdom-loving aur wisdom-hating ke baare mein kya? Ya spirited aur spirit mein lacking?’
+
+‘Haan, woh bhi.’
+
+‘Which case mein, aise women hain jo guardians banne ke suited hain, aur aise women jo nahi hain. Kya woh attributes nahi the jinhe humne un men ke liye chuna tha jo guardians banne ke suited the?’
+
+‘Woh the.’
+
+‘Toh jab ek city ki guarding ki baat aati hai, toh ek woman aur ek man dono same natural attributes possess karte hain. Woh sirf strength aur weakness mein differ karte hain.’
+
+‘Yeh us tareeqe se lagta hai.’
+
+‘Isse follow karta hai ki in abilities wale women ko bhi in abilities wale men ke sath rehne ke liye select kiya jana chahiye, aur unke sath fellow-guardians hona chahiye [b]. Woh iske kaafi capable hain, aur unke natures men ke natures se closely related hain.’
+
+‘Precisely.’
+
+‘Aur same natures ko same occupations diye jaane chahiye, kya nahi diye jaane chahiye?’
+
+‘Haan, unhe diye jaane chahiye.’
+
+‘Hum ek circle mein poore ghoom kar wapas aaye hain, jahan se humne shuruat ki thi.
+10
+Hum agree karte hain ki guardians mein se jo women hain unhe ek musical education aur ek physical education dene mein kuch bhi unnatural nahi hai.’
+
+‘Hum nischit roop se karte hain.’
+
+‘Toh yeh koi impossibility nahi thi, kisi tarah ka dream, hamara yeh lawgiving [c]. Humne jo law pass kiya uske liye ek natural justification tha. Yeh aaj society hai, zaahir taur par, jo step se baahar aur unnatural hai.’
+
+‘Apparently.’
+
+‘Very well. Ab, hamara question yeh tha ki kya hamari suggestions feasible thin aur best ke liye.’
+11
+
+‘Yeh tha.’
+
+‘Kya isbaare mein agree kiya gaya hai ki woh feasible hain?’
+
+‘Haan.’
+
+‘Toh kya agla step yeh agree karna hona chahiye ki woh best ke liye hain?’
+
+‘Obviously.’
+
+‘Well phir, agar hum chahte hain ki ek woman guardian material bane, toh hamare paas men ko guardians banane ke liye ek education, aur women ko guardians banane ke liye doosri education nahi hogi, kya hamare paas hogi [d]? Particularly jab unke paas shuruat karne ke liye same natural attributes hain.’
+
+‘Nahi, hamare paas dono ke liye same education hogi.’
+
+‘Ab, yahan ek aur point hai jiske baare mein main aapki raaye chahenga.’
+
+‘Woh kya hai?’
+
+‘Chahe aap feel karein, apne khud ke mind mein, ki ek man behtar hai aur doosra man badtar. Ya kya aap sochte hain ki sabhi men same hain?’
+
+‘Nahi, main nischit roop se nahi sochta.’
+
+‘Well, phir. City mein jise humne found kiya, aap kya sochte hain ki hum kaun se behtar men nikalte hue paayenge? Guardians jinhone hamare dwaara describe ki gayi education receive ki hai? Ya shoemakers jo shoemaking ki art mein trained hain?’
+
+‘Yeh ek fatuous question hai,’ usne kaha.
+
+‘Main dekhta hoon [e]. Citizens ke baaki ke baare mein kya? Kya guardians un sabhi se behtar nahi hain?’
+
+‘Much better.’
+
+‘Women ke baare mein kya? Kya women guardians women mein sabse behtareen nahi hongi?’
+
+‘Again,’ usne kaha, ‘much the best.’
+
+‘Kya ek city ke liye isse behtar kuch hai ki uske paas uski women aur uske men alike jitna ho sake utna behtar banein?’
+
+‘Nahi, wahan nahi hai.’
+
+‘Aur kya yeh hamare dwaara describe kiye gaye kind ki musical aur physical education ki availability dwara laya jayega [457]?’
+
+‘Of course.’
+
+‘Toh hamare arrangements na sirf feasible hain, balki hamare city ke best interests mein bhi hain.’
+
+‘Haan.’
+
+‘Unhe strip karna chahiye, phir, hamare guardians ke beech ki women ko. Virtue unka cloak hoga. Unhe war mein aur general mein city ke guardians hone mein dono mein apna part play karna chahiye. Woh, aur kuch nahi. Aur in tasks mein se, women ko men se lighter ones diye jaane chahiye, kyunki unka sex weaker hai [b]. Koi bhi man jo naked women ke idea par hansta hai, agar woh excellence ke pursuit mein naked exercise kar rahi hain, woh “laughter ke unripe fruit ko pluck kar raha hai.”
+12
+Uske paas koi idea nahi hai, zaahir taur par, ki woh kis par hans raha hai, ya woh kya kar raha hai. Yeh ek achha kehna hai – aur hamesha rahega – ki jo hamare liye achha hai woh beautiful hai, aur jo hamare liye bad hai woh ugly hai.’
+
+‘Absolutely.’
+
+‘Kya hum keh sakte hain, phir, ki women ke legal position ke liye hamare provisions mein hum criticism ke pehle wave se survive kar gaye hain? Yeh laying down karne mein ki hamare male aur female guardians ko sabhi respects mein ek common life lead karni chahiye, hum poori tarah overwhelmed nahi hue hain [c]. Argument mein kuch consistency hai ki yeh feasible aur beneficial dono hai.’
+
+‘Yeh nischit roop se koi chhota wave nahi hai jisse aap survive kar gaye hain,’ usne kaha.
+
+‘Aap aisa nahi sochenge jab aap agla wala dekhenge.’
+
+‘Go on, phir. Mujhe ise dekhne dein.’
+
+‘Mera vishwās hai ki yeh law, aur doosre jo isse pehle aaye, ek further law imply karte hain.’
+
+‘Kaun sa law?’
+
+‘Ki yeh sabhi women in sabhi men ke liye common mein wives hongi [d]. Ki unmein se koi bhi men mein se kisi ke sath individuals ke roop mein nahi rahegi. Ki children badle mein un sabhi se belongs karenge. Ki koi parent apne khud ke child ko nahi jaanega, koi child apne khud ke parent ko nahi.’
+
+‘Haan,’ usne kaha. ‘Jab is proposal ki feasibility ya utility ke baare mein scepticism ki baat aati hai, toh woh pehle wale se kahin bada wave hai.’
+13
+
+‘Main kalpana nahi karta ki iski utility ke baare mein koi disagreement ho sakta hai. Koi bhi deny nahi karega ki agar yeh possible hai, toh wives in common aur children in common rakhna ek major benefit hai. Lekin iski feasibility ya otherwise ke question par mujhe shak hai ki bahut saara disagreement hoga.’
+
+‘Wahan prachur disagreement hoga,’ usne jawab diya, ‘dono counts par [e].’
+
+‘Do arguments partnership mein ja rahe hain, aapka matlab hai. Maine socha tha ki main unmein se ek se escape karne wala tha. Agar aap agree karte ki yeh useful tha, toh main merely iski feasibility ya otherwise ke baare mein argument ke sath chhod diya jata.’
+
+‘Well, aap isse bach kar nahi nikale, aur aap escape nahi hue hain. Toh aapko dono counts par khud ko defend karna chahiye.’
+
+‘Haan, mujhe woh penalty pay karni padegi [458]. Lekin mere liye ek favour karein, please. Mujhe ek chhota break allow karein. Un idle minds wale logon ki tarah jo khud ko daydreams se entertain karte hain jab woh apne aap walk par baahar hote hain. In logon ki tarah, mera vishwās hai, woh yeh pata lagane ki pareshani nahi uthate ki koi cheez jo woh chahte hain woh kaise ho sakti hai. Woh kuch aisa hai jise woh bhool jaate hain, khud ko yeh sochne ki pareshani se bachane ke liye ki kya feasible hai ya otherwise. Woh assume karte hain ki jo woh chahte hain woh aasaani se haasil kiya ja sakta hai, aur seedhe future ki planning par jaate hain, aur un cheezon ki rehearsal ka enjoyment lete hain jo woh karne wale hain ek baar jab unhe woh mil jata hai jo woh chahte hain, is tarah ek pehle se lazy mind ko aur bhi lazier banate hue. Main abhi khud thoda short of energy feel kar raha hoon, toh main feasibility ke question ko postpone karna chahta hoon, aur ise baad mein consider karna chahta hoon [b]. Moment ke liye main assume karunga ki hamari suggestions feasible hain. Aapki permission ke sath, main us tareeqe ko examine karna chahta hoon jisey rulers in cheezon ko organise karenge jab woh hote hain, aur dikhana chahta hoon ki unhe practice mein daalna city aur uske guardians ke liye sabse bade possible benefit ka hoga. Main chahta hoon ki aap pehle in questions ka ek thorough examination karne mein meri madad karein, aur doosre questions ko baad ke liye chhod dein, agar woh aapke sath all right hai toh.’
+
+‘Yeh all right hai,’ usne kaha. ‘Apna enquiry shuru karein.’
+
+‘Very well [c]. Agar hamare rulers name ke worthy hone wale hain, aur unke auxiliaries likewise, toh mujhe lagta hai ki auxiliaries orders carry out karne ke liye taiyar honge, aur rulers in orders ko ya toh law ke letter ki obedience mein issue karenge, ya, un jagahon par jahan humne law ke interpretation ko unpar chhod diya hai, iske spirit ki obedience mein.’
+
+‘Yeh fair enough hai,’ usne kaha.
+
+‘Yeh aapka job hoga, phir, unke lawgiver ke roop mein, jaise aapne men ko select kiya, waise hi ab women ko bhi select karna, nature mein jitna ho sake utna similar, aur unhe men ko allocate karna. Kyunki houses aur dining-halls communal honge, aur koi bhi is kind ki koi private property possess nahi karega, sexes close proximity mein rahenge, aur universal proximity ki is state mein, unke physical education mein aur unke upbringing ke baare mein baaki mein dono mein, unke natural instincts inevitably, mujhe lagta hai, unhe ek doosre ke sath sex karne mein lead karenge [d].
+14
+Ya kya aap ise inevitable ke roop mein nahi dekhte?’
+
+‘Well, yeh ek mathematical inevitability nahi hai. Lekin yeh ek sexual inevitability hai, aur zyadatar logon ke liye woh shayad persuasion aur attraction ka ek keener agent hai.’
+
+‘Much keener,’ maine kaha. ‘Ab agle point ke liye, Glaucon. Blessed ke city mein, haphazard sexual intercourse unholy hai [e]. Kisi bhi kind ke haphazard behaviour ki tarah. Rulers iski anumati nahi denge.’
+
+‘Nahi, kyunki yeh galat hai.’
+
+‘Clearly agla step hamare liye woh sab kuch karna hai jo hum kar sakte hain marriages ko jitna ho sake utna sacred banane ke liye. Aur yeh sabse useful marriages honge jo sacred honge.’
+15
+
+‘Absolutely.’
+
+‘Kya cheez unhe sabse useful banayegi [459]? Mujhe kuch batayein, Glaucon. Maine notice kiya hai ki hunting dogs ke sath-sath aapke paas apne ghar mein pure-bred birds ki ek fair number hai. Kya wahan koi ek cheez nahi hai jise aapne unke unions aur offspring ke production ke baare mein nischit roop se notice kiya hoga?’
+
+‘Kis tarah ki cheez?’ usne poocha.
+
+‘Shuruat ke liye, yadyapi woh sabhi pure-bred hain, kya unmein se kuch nahi hain – kya woh khud ko prove nahi karte – sabse behtareen hone ke roop mein?’
+
+‘Haan, woh karte hain.’
+
+‘Kya aap us case mein un sabhi se alike breed karte hain? Ya kya aap jitna ho sake utna best se breed karne ke liye saavdhan hain?’
+
+‘Main best se breed karta hoon.’
+
+‘Age ke baare mein kya [b]? Kya aap sabse youngest se breed karte hain? Ya sabse oldest se? Ya kya aap breed karte hain, jahan tak ho sake, unse jo apne prime mein hain?’
+
+‘Unse jo apne prime mein hain.’
+
+‘Agar breeding ko is tarah handle nahi kiya jata hai, kya aap sochte hain ki aapka birds aur dogs ka stock greatly deteriorate ho jayega?’
+
+‘Haan, mujhe lagta hai.’
+
+‘Horses, aur doosre animals ke baare mein kya?’ maine poocha. ‘Kya aap sochte hain ki woh kisi bhi tareeqe se alag hain?’
+
+‘Nahi. Woh absurd hoga.’
+
+‘Help!’ maine udgar kiya. ‘Humein kuch extremely expert rulers ki zaroorat hone wali hai, mere pyare dost, agar same human race par bhi laagu hota hai.’
+
+‘Well, yeh nischit roop se laagu hota hai [c]. Lekin unhe expert kyun hona padega?’
+
+‘Kyunki unhe kuch kaafi strong medicine ka upayog karne ki zaroorat hone wali hai,’ maine jawab diya. ‘Doctors ke sath, main ise leta hoon ki jab aapka body ek prescribed regimen ko respond karne ke liye taiyar hota hai, aur use medicines ki zaroorat nahi hoti, toh ek second-rate doctor chalega. Lekin agar yeh medicines prescribe karne ka bhi question hai, toh hum jaante hain ki ek zyada resolute physician ki zaroorat hai.’
+
+‘True. Lekin woh relevant kyun hai?’
+
+‘Main aapko bataunga. Probability yeh hai ki hamare rulers ko jinhe woh rule kar rahe hain unke benefit ke liye falsehood aur deception ka ek achha deal employ karne ki zaroorat hogi [d]. Aur humne kaha tha, agar mujhe sahi se yaad hai, ki us kind ki useful cheezein sabhi medicine ki category mein aati thin.’
+16
+
+‘Hum kitne sahi the,’ usne kaha.
+
+‘Well, aisa lagta hai jaise ek jagah jahan yeh sach mein matter karta hai ki hum ispar sahi the ya nahi woh tab hai jab hum unke unions, aur children ke production par aate hain.’
+
+‘Kis tareeqe se?’
+
+‘Un principles par jinpar hum agree hue hain, best men ko best women ke sath jitna ho sake utna aksar sex karna chahiye, jabki worst men aur worst women ke liye yeh reverse hona chahiye [e]. Humein best ke children ko paalna chahiye, lekin worst ke children ko nahi, agar hamare herd ki quality utni uchi honi hai jitni hum ise bana sakte hain. Aur yeh sab kuch actual rulers ke alawa kisi ke ehsaas kiye bina hona hai, agar hamare guardians ka herd bhi dissension se jitna ho sake utna free hona hai.’
+
+‘Quite right.’
+
+‘Us case mein humein kuch festivals ke liye legislate karna chahiye, jinme hum brides aur unke grooms ko ek sath laayenge. Hamare paas sacrifices hone chahiye, aur hamare poets ko hone wale unions ke appropriate hymns compose karne chahiye [460]. Hum marriages ki number ko rulers par chhod denge, taaki woh men ki number ko jitna ho sake utna same level par rakh sakein, war, disease aur us tarah ki cheezon ko account mein lete hue. Woh hamare city ko na toh bahut bada aur na hi bahut chhota hone se rokega, agar ise prevent kiya ja sakta hai.’
+
+‘That’s right,’ usne kaha.
+
+‘Humein lotteries rakhni chahiye, mujhe lagta hai – aur kaafi ingenious ones – taaki har baar jab koi marriage hoti hai toh inferior type jise hum exclude karna chahte hain woh rulers ke bajaye chance ko blame karega.’
+
+‘Unhe extremely ingenious hona padega, aapki in lotteries ko.’
+
+‘Presumably young men mein se jo war ya kisi doosri sphere mein outstanding hain unhe various prizes aur rewards diye jaane hain, aur particularly women ke sath sone ki zyada generous permission, taaki jitne ho sake utne children plausibly is sort ke young men dwara fathered kiye ja sakein [b].’
+
+‘That’s right.’
+
+‘Jahan tak un children ka sawaal hai jo samay-samay par paida honge, unhe in cheezon ke liye responsible officers dwara le jaya jayega. Yeh officers men ya women ho sakte hain, ya men aur women, kyunki offices, main ise leta hoon, women aur men ke liye alike open hain.’
+
+‘Haan.’
+
+‘Good parents ke children ko le jaya jayega, mujhe lagta hai, aur nursing-pen mein transfer kiya jayega, jahan special nurses alag se reh rahi hongi, city ke ek special part mein [c]. Inferior parents ke children, doosri taraf, ya doosre group se paida hone wala koi bhi deformed specimen, sight se hata diya jayega kisi secret aur hidden place mein, jaise ki right hai.’
+17
+
+‘Haan,’ usne kaha, ‘kisi bhi rate par agar guardians ka breed pure rehne wala hai.’
+
+‘Kya yeh officers feeding ke in-charge bhi honge? Woh mothers ko nursing-pen mein laayenge jab unke breasts full honge, yadyapi har unke dwara soche gaye saadhan ka upayog karte hue unmein se kisi ko bhi apne khud ke child ko recognise karne se rokne ke liye, aur woh yeh sunishchit karenge ki milk wali doosri women hain, is case mein ki actual mothers ke paas paryapt na ho [d]. Kya woh mothers par khud nazar rakhenge, yeh sunishchit karne ke liye ki woh ek moderate time ke liye suckle karein, aur ki broken nights, aur baaki ka hard work, nurses aur nannies ko delegate kiya jaye?’
+
+‘Yeh children ko raise karne ka ek bahut relaxed way hai jo aap hamari women guardians ke liye propose kar rahe hain.’
+
+‘Yeh waise hi hai jaise ise hona chahiye,’ maine kaha. ‘Ab, aayein ek systematic way mein us task ke sath continue karein jise humne apne liye set kiya tha. Humne kaha tha ki children un logon se paida hone chahiye jo apne prime mein hain.’
+
+‘True [e].’
+
+‘Well, kya aap agree karte hain ki ek woman ke prime ke liye ek reasonable span twenty years hai, aur ek man ke liye thirty?’
+
+‘Kaun se twenty? Aur kaun se thirty?’ usne poocha.
+
+‘Ek woman ke liye iska matlab twenty par shuru karna hai, aur forty tak city ke liye children bear karte rehna hai. Ek man ke liye, jab ek sprinter ke roop mein uske din uske peeche hon, toh use us umar se fifty-five tak city ke liye children father karna chahiye.’
+
+‘Haan,’ usne agree kiya [461]. ‘Dono ke liye woh life ka prime hai, physically aur mentally dono.’
+
+‘Agar isse older ya younger koi state ke liye children produce karne mein part leta hai, toh hum ise gods ke khilaf aur justice ke khilaf ek offence kahenge, kyunki jo child woh city ke liye father kar raha hai, agar woh detection se escape karta hai, toh un sacrifices aur prayers ke bina astitva mein aayega jinhe priestesses aur priests aur poora city har marriage festival par offer karenge – ki good parents se aur bhi behtar children aane chahiye, aur useful parents se still more useful children [b]. Child darkness mein paida hoga, self-control ke ek dangerous lack ka product.’
+
+‘Haan, hum ise offence kehne mein sahi honge.’
+
+‘Aur same law laagu hota hai,’ maine kaha, ‘agar ek man jo abhi bhi children father karne ke entitled hai ek ruler ke union ko promote kiye bina appropriate age ki woman tak access paata hai. Hum kahenge ki woh city ko ek illegitimate, unauthorised aur unholy child present kar raha hai.’
+
+‘Aur hum absolutely right honge,’ usne kaha.
+
+‘Of course, jab women aur men children produce karne ki age ko pass kar jaate hain, toh hum unhe free declare karenge, presumably, kisi ke bhi sath sex karne ke liye jise woh pasand karte hain, ek daughter, ya ek mother, ya unki daughters’ daughters ya unki mother’s mothers ke alawa [c]. Ek woman ke liye, ek son ya father, ya unke sons’ sons ya father’s fathers ke alawa koi bhi. Aur yeh sab tabhi jab humne pehle unpar impress kar diya ho ki unhe kitna saavdhan hona chahiye. Agar koi pregnancy hoti hai, toh ideally embryo ko kabhi day ki light nahi dekhni chahiye. Agar koi astitva mein apna rasta force karta hai, toh parents ko is understanding par isse deal karna chahiye ki woh is sort ke child ko paal nahi sakte.’
+
+‘Woh sab kaafi reasonable lagta hai,’ usne kaha [d]. ‘Lekin fathers aur daughters ka yeh business, aur woh relationships jinake baare mein aap abhi baat kar rahe the – woh apne ko kisi aur se kaise bataayenge?’
+
+‘Woh nahi bataayenge. Jab ek man kisi marriage mein part leta hai, toh woh un sabhi ko apne children ke roop mein maane ga jo festival ke din se tenth – ya indeed seventh – month mein paida hue hain. Woh male children ko apne sons kahega, aur female children ko apni daughters. Woh use father kahenge. Similarly woh children ke offspring ko apne grandchildren kahega, aur woh badle mein uski generation ko grandfathers aur grandmothers kahenge. Us period ke dauran paida hue jab unke mothers aur fathers children produce kar rahe the unhe woh apni sisters aur brothers kahenge [e]. Is tareeqe se woh ek doosre se bache sakte hain, jaise hum abhi suggest kar rahe the. Halanki, law brothers aur sisters ke beech unions ki anumati dega, agar lot is tarah girta hai, aur agar Pythian priestess apni consent bhi deti hai.’
+
+‘Quite right.’
+
+‘Wahan aap hain, Glaucon. Wahi hai aapke city ke guardians ke beech women aur children ke “in common” hone ka matlab. Wahi hai yeh kaisa hai. Agla kaam jo humein karna hai woh inase establish karna hai jo kaha gaya hai ki yeh constitution ke baaki hisse ke sath consistent hai, aur ki yeh far and away sabse behtareen arrangement hai. Ya kya humein kisi doosre tareeqe se cheezon ke baare mein jana chahiye?’
+
+‘Nahi, aayein us tareeqe se jaayen [462]. By all means.’
+
+‘Agar hum ise settle karna chahte hain, kya hamare city ke organisation mein sabse bade good ke baare mein khud se poochhna ek achha starting-point nahi hai – woh cheez jiska lawgiver ko aim karna chahiye jaise woh apne laws frame karta hai – aur sabse bada evil kya hai? Phir hum poochh sakte hain “Kya hamari suggestions jinhe humne abhi describe kiya hai is good ke features se match karti hain? Kya woh is evil ke features se match karne mein fail hoti hain?”’
+
+‘Haan, woh sabse behtareen possible starting-point hai,’ usne kaha.
+
+‘Well, phir, kya hum ek city ke liye usse bade kisi evil ke baare mein soch sakte hain jo ise apart tear karta hai aur ise one ke bajaye kai cities mein badal deta hai [b]? Ya kisi greater good ke baare mein jo ise unite karta hai aur ise one banata hai?’
+
+‘Nahi, hum nahi soch sakte.’
+
+‘Kya yeh pleasure aur pain ka community hai jo ise unite karta hai, jab far as possible sabhi citizens kisi bhi particular gain ya loss par joy ya grief se equally affected hote hain?’
+
+‘Yeh nischit roop se hai.’
+
+‘Aur kya in feelings mein individual variation divisive hai? City ke sath ya iske inhabitants ke sath cheezein hoti hain jo kuch logon ko distraught aur doosron ko delighted banati hain [c]?’
+
+‘Of course yeh divisive hai.’
+
+‘Kya yeh isliye hai kyunki “mine” aur “not mine” jaise shabdon ko city mein logon dwara same cheezon par apply nahi kiya jata hai? Same “somebody else’s” ke sath?’
+
+‘Yeh nischit roop se hai.’
+
+‘Kya iska matlab hai ki best-regulated city woh hai jismein sabse badi sankhya mein log is phrase “mine” ya “not mine” ka upayog same way mein karte hain, same cheez ke baare mein?’
+
+‘Much the best.’
+
+‘Aur woh jo sabse zyada ek individual person ke jaisi hai? Ek person ke uski finger hurt karne ke example ko lein. Yeh poora community hai jo body se hote hue extend karta hai aur soul se connect karta hai, soul ruling element hone ke naate jo community ko ek single system mein organise karti hai – yeh poora community hurt ko notice karta hai aur ek sath part ke pain ko feel karta hai jo hurt hota hai, yahi kaaran hai ki hum kehte hain “man ke paas uski finger mein pain hai [d].” Wahi human body ke kisi bhi doosre part par laagu hota hai, us pain par jo feel hota hai jab uska ek part hurt hota hai ya us pleasure par jo feel hota hai jab part behtar ho jata hai.’
+
+‘Haan,’ usne kaha, ‘wahi laagu hota hai. Aur aapke question ke reply mein, sabse behtareen constitution wala city is ke kaafi similar way mein organised hai.’
+
+‘Jab kuch bhi – good ya bad – iske citizens mein se kisi ke sath hota hai, toh is kind ka city yeh kehne ke prati sabse zyada inclined hoga ki jo affected hai woh uska ek part hai [e]. Poora city ek sath rejoice karega ya ek sath grieve karega.’
+
+‘Haan, yeh hone ke liye bound hai. Good laws wala city, yaani.’
+
+‘Yeh hamare liye hamare city par wapas lautne ka moment hai,’ maine kaha, ‘aur un characteristics ko dhoondhne ka jinpar hamare argument ne humein agree karvaya hai. Hum jaan-na chahte hain ki kya yeh city unhe ek outstanding degree tak possess karta hai, ya agar koi doosra city karta hai.’
+
+‘Haan, humein wapas jaakar woh karne ki zaroorat hai.’
+
+‘Very well [463]. Presumably rulers aur common people hain, kya nahi hain, doosre cities mein bhi aur hamare city mein bhi?’
+
+‘Hain.’
+
+‘Kya woh sabhi ek doosre ko citizens kehte hain?’
+
+‘Of course.’
+
+‘Lekin doosre cities mein, common people rulers ko aur kya kehte hain, unhe citizens kehne ke alawa?’
+
+‘Zyadatar cities mein woh unhe apne masters kehte hain. Democratic cities mein woh bas unhe rulers kehte hain.’
+18
+
+‘Hamare city mein common people ke baare mein kya? Woh kya kehte hain ki unke rulers kya hain, citizens hone ke alawa?’
+
+‘Saviours aur defenders,’ usne kaha [b].
+
+‘Aur rulers common people ko kya kehte hain?’
+
+‘Paymasters aur providers.’
+
+‘Doosre cities mein rulers apne common people ko kya kehte hain?’
+
+‘Slaves.’
+
+‘Aur rulers ek doosre ko kya kehte hain?’
+
+‘Fellow-rulers.’
+
+‘Khabar humare waale ek doosre ko kya kehte hain?’
+
+‘Fellow-guardians.’
+
+‘Kya aap iska answer de sakte hain, phir? Kya doosre cities mein rulers mein se koi bhi apne fellow-rulers mein se kisi ek ko ek relative ke roop mein, aur doosre ko unrelated ke roop mein address karne ke capable paayega?’
+
+‘Haan. Unmein se bahut se use possible paayenge.’
+
+‘Kya aisa person apne relative ke baare mein “his” ke roop mein nahi sochta aur bolta hai, aur ek jo unrelated hai use “not his” ke roop mein [c]?’
+
+‘Haan.’
+
+‘Aapke guardians ke baare mein kya? Kya unmein se koi bhi apne fellow-guardians mein se kisi ek ke baare mein soch sakta hai, ya use address kar sakta hai, jaise ki woh unrelated tha?’
+
+‘Nahi,’ usne kaha. ‘Har baar jab woh unmein se kisi se milta hai, woh assume karega ki woh apne brother, ya sister, ya father, ya mother, ya son, ya daughter se mil raha hai – ya inmein se kisi ke child ya parent se.’
+
+‘Woh ise bahut clearly rakhta hai. Ab, yahan ek aur question hai. Kya aapke laws merely unhe in names of relationships ka upayog karne ki requirement karenge, ya kya aap us sabhi behaviour ki bhi requirement karenge jo name ke sath jata hai [d]? Jab unke fathers ki baat aati hai, kya aap unse us har cheez ki requirement nahi karenge jo law aur custom respect, care, aur parents ke prati obedience ki duty ke way mein enjoin karti hai? Warna yeh unke liye dono gods ki aankhon mein aur men ki aankhon mein badtar hoga, kyunki unka behaviour irreligious aur unjust hoga. Kya yeh us tarah ki cheez hai jise aap unke kaanon mein unki earliest childhood se ring hote hue chahte hain, citizens ke ek chorus ke sath apne fathers ke prati, ya un logon ke prati jinhe woh apne fathers ke roop mein maanna sikhaye jaate hain, aur unke doosre relatives ke prati unke duty ko point out karte hue? Ya kya aap unhe kuch alag sunte hue chahte hain?’
+
+‘Nahi, bas woh [e]. Unke liye merely names of relationships ka upayog karna, ek verbal convention ke roop mein, corresponding behaviour ke bina ridiculous hoga.’
+
+‘Us case mein, is city mein kisi bhi doosre se zyada agreement hoga un terms ke baare mein jinaka hum zikr kar rahe the ek moment pehle. Woh kisi bhi individual ki success ya failure ke baare mein kahenge, “yeh success meri hai,” ya “yeh failure meri hai.”’
+
+‘Very true,’ usne kaha.
+
+‘Aur kya humne kaha tha ki pleasures aur pains ko common mein feel karna is way of thinking aur speaking se follow hota tha [464]?’
+
+‘Humne kaha tha. Aur hum sahi the.’
+
+‘Phir kya hamare citizens, kisi bhi doosre se zyada, one aur same cheez ko – jise woh “mine” kahenge – common mein dharan karenge? Aur kyunki woh iske baare mein same feel karte hain, kya woh pain aur pleasure ki sabse badi community feel karenge?’
+
+‘Haan, much the greatest.’
+
+‘Aur iska kaaran, city ke general organisation ke upar aur pare, hamare guardians ke beech women aur children ke in common hone ka business hai?’
+
+‘Haan, wahi main kaaran hai,’ usne kaha. ‘Kisi bhi doosri cheez se kahin zyada mahatvapurna.’
+
+‘Lekin humne yeh bhi agree kiya tha ki yeh ek city ke liye sabse bada good hai [b]. Humne kaha tha ek well-regulated city ek body ki tarah tha jis tareeqe se yeh apne parts mein se ek ke pain ya pleasure se relate karti hai.’
+
+‘Rightly.’
+
+‘Which case mein hamare city ka sabse bada good hamare logon ke defenders ke beech women aur children ke in common hone se result hone ke roop mein prove hua hai.’
+
+‘Precisely.’
+
+‘Yeh of course usse tie karta hai jo humne originally kaha tha. Hamara view tha, mujhe lagta hai, ki agar woh true guardians banne wale the toh unke paas private houses, ya land, ya kisi kind ki property nahi honi chahiye, balki unhe doosre citizens se apni guardianship ke payment ke roop mein apni livelihood receive karni chahiye, aur sabhi ko in resources ka jointly use karna chahiye [c].’
+19
+
+‘Yeh tha. Aur hum correct the.’
+
+‘Well, phir, jaise main kehta hoon, kya woh arrangements jinpar humne pehle agree kiya tha, jab in present ones ke sath combine kiye jaate hain, unhe true guardians mein badalne mein aur bhi effective nahi honge? Kya yeh unhe same cheezon ko “mine” naam dene par majboor nahi karega, sabhi dwaara ise alag-alag cheezon par apply karne ke bajaye, aur is tarah city ko apart tear karne ke bajaye? Yeh unmein se ek ko apne ghar le jaane se roke ga, doosron se independently, jo kuch bhi woh apne liye pa sakta hai; aur doosre ko wahi karte hue, apne ghar, ek wife aur children ke sath, aur private pleasures aur pains jo woh private matters mein apne sath laate hain [d]. Kya hamare arrangements unhe isbaare mein ek single opinion nahi denge ki unse kya belongs karta hai, unhe aim karne ke liye same goal nahi denge, aur unhe sabhi ko jitna ho sake utna same pains aur pleasures ke subject nahi banayenge?’
+
+‘Woh nischit roop se karenge,’ usne kaha.
+
+‘Ek doosre par directed lawsuits aur prosecutions ke baare mein kya? Kya woh unke beech virtually disappear nahi ho jaayenge, kyunki unke paas apne bodies ke alawa koi private property nahi hai, har cheez jointly owned hone ke naate [e]? Kya yeh unhe un sabhi disputes se free nahi karega jinme log money, children aur families ke possession ke zariya run karte hain?’
+
+‘Haan, woh unse rid hone ke liye absolutely certain hain.’
+
+‘Na hi unke beech violence ya assault ke liye legal actions ke liye koi justification hoga. Presumably hum kahenge ki logon ke liye apne peers ke khilaf apni battles khud ladna right aur proper hai, kyunki yeh unhe physically achhi shape mein rakhne par compel karega.’
+
+‘Quite right, too.’
+
+‘Haan,’ maine kaha, ‘aur is law mein ek aur benefit bhi hai, too [465]. Agar unmein se ek doosre par angry ho jata hai, aur is kind ke way mein apni anger ke liye ek outlet pa sakta hai, toh iske ek serious dispute mein lead hone ki sambhavna kam hogi.’
+
+‘Much less likely.’
+
+‘Ek older person of course younger sabhi logon ko orders aur punishments dene ka entitled hoga.’
+
+‘Obviously.’
+
+‘Aur yeh equally obvious hai ki rulers ki authority ke bina younger person ke older person par violence karne ki koshish karne ka, ya use strike karne ka bahut kam chance hai. Na hi woh usse kisi doosre way mein disrespectfully treat karega, mujhe shak hai, kyunki wahan do guardians honge – fear aur shame – jo use rokne ke kaafi capable honge [b]. Shame use un logon par ungli uthane se roke gi jinhe woh parents ke roop mein maanta hai. Fear yeh hoga ki doosre uske victim ke aid ke liye aayenge – kuch unki capacity mein sons ke roop mein, doosre brothers ke roop mein, aur doosre fathers ke roop mein.’
+
+‘Haan, wahi hone ke prati jhukta hai,’ usne kaha.
+
+‘Toh kya hamare laws ke result ke roop mein men sabhi situations mein ek doosre ke sath peace par rahenge?’
+
+‘Very much so.’
+
+‘Aur agar yeh log aapas mein fall out nahi hote hain, toh city ke baaki ke divided hone ka koi danger nahi hoga, ya toh unke khilaf ya ek doosre ke khilaf.’
+
+‘Nahi, wahan nahi hoga [c].’
+
+‘Main un evils mein se sabse trivial ka zikr karne mein bhi embarrassed hoon jinse woh release kiye jaayenge. Mera matlab poor dwara rich ki flattery, unhe children ko paalne aur household maintain karne ki need ke kaaran livelihood earn karne mein anubhav hone wali difficulties aur hardships – ab borrowing, ab unke debts par defaulting, ab kisi bhi tareeqe se pradan karte hue jo woh kar sakte hain, paise ko apni wives aur slaves ke hawale karte hue, aur iske management ko unhe entrust karte hue. Is kind ke cheez par logon ko hone wali sabhi difficulties, mere dost, familiar, demeaning aur mention karne laayak nahi hain [d].’
+
+‘Haan, woh familiar hain,’ usne kaha. ‘Ek blind man unhe miss nahi kar sakta tha.’
+
+‘Hamare guardians in sabhi worries se free honge, aur kisi bhi Olympic victor se zyada happy life jeeyenge.’
+
+‘Happier kis tareeqe se?’
+
+‘Olympics mein victors ko hamare guardians ko offer kiye jaane wale ke sirf ek fraction ke sath happy maana jata hai, jinaka victory finer hai aur jinaka public expense par maintenance zyada complete hai.
+20
+Victory jo woh jeette hain woh poore city ki safety hai, aur victory ka crown, unke aur unke children ke liye, unka upkeep aur life ki sabhi necessities hai [e]. City se jo unse belongs karta hai woh apni lifetime mein privileges receive karte hain aur marne par ek honourable burial.’
+
+‘Very fine privileges, too.’
+
+‘Kya aapko yaad hai,’ maine poocha, ‘hum thodi der pehle kitne dismayed the
+21
+is suggestion dwara – main kalpana nahi kar sakta ki kisne ise banaya – ki hum apne guardians ko happy nahi bana rahe the, kyunki unke paas citizens ki saari property possess karne ka opportunity tha, aur phir bhi kuch possess nahi karte the [466]? Humne kaha tha, agar mujhe sahi se yaad hai, ki yeh ek aisa question tha jise hum baad mein consider karenge, agar opportunity aati hai. Time being ke liye hum apne guardians ko guardians bana rahe the, aur city ko utna happy jitna hum ise banane ke capable the. Hum city ke andar ek class ko nahi dekh rahe the, us class ki happiness ko shape karne ke view se.’
+
+‘Haan, mujhe woh yaad hai.’
+
+‘Good. Agar ab yeh nikalta hai ki hamare defenders ki life Olympic games mein victors ki life se clearly kahin zyada finer aur behtar hai, toh yeh clearly kisi bhi tareeqe se hamare shoemakers, kisi doosre skilled occupation ke members, ya hamare farmers ki life ke par nahi hai, kya yeh hai [b]?’
+
+‘Nahi, mujhe lagta hai nahi.’
+
+‘Is sabke baavjood, maine tab jo kaha tha use ab dohraana worth hai. Agar ek guardian ek aise tareeqe se happy banne ki koshish karta hai jo use guardian hone se rokta hai, agar woh is restrained aur secure way of life se satisfied nahi hai – sabse behtareen way of life, hamare drishtikon mein – agar uske head mein happiness ka koi idiotic adolescent notion aata hai, jo use, simply kyunki uske paas power hai, city mein saari property par apne haath daalna shuru karne ke liye drive karta hai, toh use Hesiod ke is kehne ki true wisdom ka ehsaas hoga ki half kuch arth mein whole se greater hai [c].’
+22
+
+‘Agar woh meri advice leta hai,’ usne kaha, ‘toh woh hamare dwaara outline kiye gaye way of life se stick karega.’
+
+‘Kya iska matlab hai,’ maine poocha, ‘ki aap women aur men ke beech hamare dwaara describe ki gayi partnership se agree karte hain – education mein, children raise karne mein aur doosre citizens ke guardians ke roop mein act karne mein? Kya aap agree karte hain ki chahe woh city mein rahein ya war mein baahar jaayein, women ko joint guardians aur joint hunters ke roop mein act karna chahiye, jaise dogs karte hain, aur ki jahan tak ho sake unhe men ke sabhi duties mein har tareeqe se share karna chahiye [d]? Kya aap agree karte hain ki unka yeh behaviour best ke liye hoga, aur ek woman ke nature ke sath conflict nahi karega as compared with a man, sexes ki ek doosre ke sath natural partnership?’
+
+‘Haan, main agree karta hoon.’
+
+‘Phir jo bacha hai woh hamare liye yeh decide karna hai ki kya is case mein is partnership ka men ke beech hone ke sath-sath doosre animals ke beech hona possible hai – aur kis tareeqe se yeh possible hai.’
+
+‘Wahi sateek roop se hai jo main abhi suggest karne wala tha.’
+
+‘Aakhirkar, jab war karne ki baat aati hai, toh mujhe lagta hai ki yeh obvious hai ki woh iske baare mein kaise jaayenge [e].’
+
+‘Kaise?’
+
+‘Woh ek sath campaign par jaayenge, active service par children ke sabse robust ko apne sath laate hue, taaki doosre skilled occupations mein logon ke children ki tarah woh us occupation ko observe kar sakein jise unhe bade hone par follow karna padega [467]. Observing ke alawa, unhe war se judi har cheez mein assistants aur servants ke roop mein act karna chahiye, aur apne fathers aur mothers ke liye kuch help hona chahiye.
+23
+Kya aapne dhyan nahi diya ki log ek skill kaise seekhte hain? Potters ke children, udaharan ke liye, ek lamba samay assistants ke roop mein bitate hain, watching karte hue, isse pehle ki unhe kisi pot ke paas aane ki anumati di jaye.’
+
+‘Ek bahut lamba samay.’
+
+‘Aur kya potters hamare guardians se zyada careful hone wale hain jab apne khud ke children ko educate karne ki baat aati hai, unhe zaroori experience aur observe karne ka opportunity dete hue?’
+
+‘Nahi, woh ludicrous hoga,’ usne kaha.
+
+‘Isse bhi zyada, koi bhi living creature apne khud ke young ki presence mein behtar ladega [b].’
+
+‘Yeh true hai. Lekin agar woh defeat ho jaate hain – aur yeh cheezein war ke samay mein hoti hain – wahan ek bahut hi real danger hai, Socrates, ki guardians ke khud ke sath-sath children bhi lost ho jaayenge, aur ki yeh city ke baaki logon ke liye recovery asambhav bana dega.’
+
+‘True,’ maine kaha. ‘Lekin ispar aapka kya view hai? Kya aap sochte hain, for instance, ki aim sabhi possible risk se bachne ka hona chahiye?’
+
+‘Nahi.’
+
+‘Well phir, agar woh risks lene wale hain, kya yeh un situations mein nahi hona chahiye jahan success unhe behtar log banayegi?’
+
+‘Obviously.’
+
+‘Kya aap sochte hain ki un men ke liye jo warlike hone wale hain yeh bahut kam difference banata hai – aur isliye risk ke laayak nahi hai – chahe woh children ke roop mein war ki art ko observe kar sakein ya nahi [c]?’
+
+‘Nahi, yeh ek difference banata hai, us tareeqe se jise aap suggest karte hain.’
+
+‘Hum jo lana chahte hain, phir, woh children ko war ka observers banane ka ek tareeqa hai, jabki same time par unki safety sunishchit karne ke kuch clever means ke baare mein sochate hue. Woh ideal hoga, kya nahi hoga?’
+
+‘Haan.’
+
+‘Well phir,’ maine kaha, ‘ek cheez ke liye unke fathers experience ke bina nahi honge [d]. Woh human beings ke roop mein expert honge yeh judge karne mein ki kaun se campaigns dangerous hain aur kaun se nahi.’
+
+‘Fair enough.’
+
+‘Toh woh unhe kuch campaigns par le jaayenge, lekin doosron ke baare mein do baar sochenge.’
+
+‘Haan, woh right approach hoga.’
+
+‘Aur unhe command karne ke liye unke fathers presumably unhe un logon ko nahi denge jo sabse kam able hain, balki un logon ko jo age aur experience dwara well qualified hain guides aur tutors hone ke liye.’
+24
+
+‘Haan, woh right people honge.’
+
+‘Kya yeh kaafi hoga?’ maine poocha. ‘Aakhirkar, events unpredictable hain, jaise har tarah ke log constantly pata laga rahe hain.’
+
+‘Woh nischit roop se hain.’
+
+‘Toh unpredictable situations se milne ke liye humein unhe wings dene chahiye, mere dost, unki earliest childhood se. Phir woh flight le sakte hain agar unhe lena pade.’
+
+‘Aapka kya matlab hai?’
+
+‘Humein unhe youngest possible age mein horseback par daalna chahiye [e]. Ek baar jab humne unhe ride karna sikhaya, toh hum unhe observers ke roop mein le ja sakte hain, aise horses par mounted jo spirited aur warlike nahi hain, balki sabse swiftest aur most obedient jinhe hum pa sakte hain. Is tareeqe se woh uska ek excellent view pa sakte hain jo unka occupation hoga, aur phir bhi apni escape safely bana sakte hain, agar need paida hoti hai, un guides ko follow karte hue jo unse older hain.’
+
+‘Mujhe lagta hai ki yeh ek achha suggestion hai,’ usne kaha [468].
+
+‘Actual fighting ke baare mein kya?’ maine poocha. ‘Aap kya sochte hain ki ek doosre ke prati aur enemy ke prati soldiers ka behaviour kya hona chahiye? Kya aap mere ideas se agree karte hain, ya nahi?’
+
+‘Mujhe apne ideas batao.’
+
+‘Aayein ek doosre ke prati unke behaviour se shuruat karein. Jo koi bhi cowardice ke kaaran line mein apni jagah chhodta hai, apne weapons phenk deta hai, ya us tarah ka kuch bhi karta hai use skilled worker ya farmer ki rank mein reduce kiya jana chahiye, kya use nahi kiya jana chahiye?’
+
+‘Use nischit roop se kiya jana chahiye.’
+
+‘Jo koi bhi enemy ke haathon mein alive girta hai use gift ke roop mein unhe sonpa ja sakta hai jo use capture karte hain [b]. Woh apni catch ke sath jo chahein kar sakte hain.’
+
+‘By all means.’
+
+‘Jahan tak kisi aise person ka sawaal hai jo valour ke liye prize jeetta hai, aur khud ko distinguish karta hai, kya aap nahi sochte ki pehle sthaan par use field mein hi crown kiya jana chahiye adolescents aur children dwara – unmein se har ek dwara in turn – jo uske sath campaign par hain?’
+25
+
+‘Main sochta hoon.’
+
+‘Hand dwara shaken hone ke baare mein kya?’
+
+‘Haan, woh bhi.’
+
+‘Aap mere agle suggestion se agree nahi karenge, main suppose nahi karta.’
+
+‘Yeh kya hai?’
+
+‘Ki use unmein se har ek ko kiss karna chahiye, aur unke dwara kiss kiya jana chahiye.’
+
+‘That above all [c]. Aur main is law mein ek amendment propose karta hoon. Campaign ke duration ke liye jise woh vaastav mein kiss karna chahta hai use inkaar karne ki anumati nahi di jaayegi. Yeh kisi ko bhi jo in fact kisi aur ke sath love mein hai – chahe woh someone male ho ya female – prize jeetne ke liye aur bhi determined banana chahiye.’
+
+‘Excellent,’ maine kaha. ‘Aakhirkar, yeh pehle hi decide kiya ja chuka hai ki good man ko doosre logon se zyada marriages milne wali hain, aur ki good ko baaki logon se zyada frequently select kiya jana chahiye – taaki jitne ho sake utne children is sort ke parents se paida ho sakein.’
+
+‘Haan, humne woh decide kiya tha.’
+26
+
+‘Homer mein bhi, young mein se excel karne walon ko same kind ke rewards dena right hai [d]. Homer kehta hai ki Ajax, jab usne battle mein khud ko distinguish kiya, “fillet se meat ke best cuts se rewarded kiya gaya tha”
+27
+– ek appropriate reward kisi young aur courageous person ke liye, use same time par honoured hone aur apni strength badhane ki anumati dete hue.’
+
+‘Quite right, too,’ usne kaha.
+
+‘Is point par kam se kam, phir, hum Homer ko follow karenge. Hamare sacrifices mein aur us sort ki har cheez mein, hum bhi good men ko us excellence ke proportion mein honour karenge jo unhone dikhayi hai, praise ke songs ke sath aur un tareeqon mein jinhe humne describe kiya hai dono, aur uske upar
+
+> The seats of honour, cuts of meat, and cups
+> More often filled [e].
+> 28
+
+Is tareeqe se hum apne good men aur women ko train karne ki umeed karenge as well as unhe reward karne ki.’
+
+‘An excellent plan.’
+
+‘Very well. Phir hum active service par maare gaye logon par aate hain. Agar koi khud ko glory se cover karne ke baad marta hai, toh kya hum sabse pehle yeh nahi kahenge ki woh golden class ka ek member hai?’
+
+‘Hum nischit roop se kahenge.’
+
+‘Hum Hesiod ke view ko accept karenge, kya hum nahi karenge? Jab is class ke log marte hain,
+
+> They dwell upon the earth as noble spirits,
+> Holy, averters of evil, guardians
+> Of humans blessed with speech articulate [469].’
+> 29
+
+‘Haan, hum Hesiod ke view ko accept karenge.’
+
+‘Kya hum us case mein Apollo se enquire karenge ki humein in superhuman, in divine logon ko kaise bury karna chahiye, aur unhe kaun sa mark of distinction dena chahiye? Aur kya hum phir unhe us tareeqe se bury karenge jise woh recommend karta hai?’
+
+‘Hum nischit roop se karenge.’
+
+‘Rest of time ke liye, kya hum unki graves ki dekhbhal superhumans ki graves ke roop mein karenge, aur unke samne bow down karenge [b]? Kya hum apni life mein outstandingly good hone ke roop mein judged kisi bhi person ki death par same observance ko follow karenge, chahe woh old age se marta hai ya kisi doosre cause se?’
+30
+
+‘Haan,’ usne kaha, ‘woh karne ke liye right cheez hogi.’
+
+‘Ab, enemy ke baare mein kya? Hamare soldiers unhe kaise treat karenge?’
+
+‘Aapka kya matlab hai?’
+
+‘Enslavement ko lein, shuruat ke liye. Kya aap sochte hain ki Greeks ke liye Greek cities ko enslave karna right hai? Ya kya unhe kisi doosre city ko aisa karne se rokne ke liye woh sab kuch karna chahiye jo woh kar sakte hain [c]? Kya unhe doosre cities ko hamesha Greek race ko spare karne ke liye encourage karna chahiye, aur is tarah khud ko barbarians dwara enslavement se protect karna chahiye?’
+
+‘Haan. Unhe spare karna far and away best policy hai.’
+
+‘Kya sabse behtareen cheez, phir, unke liye khud Greek slaves own karne se bachna, aur doosre Greeks ko bhi slaves own na karne ki advice dena dono hai?’
+
+‘Yeh nischit roop se hai,’ usne kaha. ‘Us tareeqe se unki barbarians ki taraf zyada attention turn karne ki sambhavna hai, aur ek doosre ko akele chhodne ki.’
+31
+
+‘Dead ko plunder karne ke baare mein kya,’ maine poocha, ‘victory ke baad? Unke weapons ke alawa, yaani. Kya woh karne ke liye right cheez hai? Kya yeh cowards ko un logon ke peeche na jaane ka ek excuse nahi deta jo resistance offer kar rahe hain [d]? Jaise ki woh apne hands aur knees par body ke charon taraf grubbing karne mein koi useful task perform kar rahe the? Kya armies aksar this kind of looting ke result ke roop mein lost nahi hui hain?’
+
+‘Haan. Very often.’
+
+‘Besides, kya corpses ko plunder karna aapko demeaning aur mercenary ke roop mein strike nahi karta? Kya yeh petty aur womanish nahi hai dead person ke body ko hostile ke roop mein regard karte rehna ek baar jab enemy fly kar chuka hai, apne peeche woh instrument chhodte hue jisse woh fight kar raha tha [e]? Kya aap kisi person ke is tarah behave karne aur un dogs ke beech koi difference dekh sakte hain jo un stones se angry hote hain jinse woh hit hote hain, lekin unhe throw karne wale person mein koi interest nahi dikhate?’
+
+‘Nahi,’ usne kaha. ‘No difference at all.’
+
+‘Toh kya humein corpses ko plunder karne par stop lagana chahiye? Aur enemy ko burial ke liye dead ko take up karne dene se inkaar karne par?’
+
+‘Hum most certainly karna chahiye.’
+
+‘Hum, main kalpana karta hoon, unke weapons ko apne temples mein offerings ke roop mein present karne ke liye nahi le jaayenge. Particularly Greeks ke weapons ko nahi, agar hum rest of Greece ke sath good relations maintain karne mein thode bhi interested hain [470]. Hamare isbaare mein afraid hone ki zyada sambhavna hai ki hamare fellow-Greeks se this kind of offerings ko ek temple mein laane mein koi pollution ho sakta hai – jab tak ki of course god humein kuch alag nahi kehta.’
+
+‘Quite right.’
+
+‘Greek territory ko devastate karne, aur houses burn karne ke baare mein kya?’ maine poocha. ‘Hamare soldiers enemy ke prati kaise behave karenge jab yeh ispar aata hai?’
+
+‘Aap kya sochte hain? Main subject par aapka opinion sunkar khush hoonga.’
+
+‘Mera opinion yeh hai ki unhe un cheezon mein se koi bhi nahi karni chahiye [b]. Unhe sirf current year’s crop lena chahiye. Kya aap chahte hain ki main aapko bataoon kyun?’
+
+‘By all means.’
+
+‘Mujhe lagta hai ki jaise hamare paas yeh do names hain, war aur civil war, waise hi do realities hain, do alag areas mein two kinds of conflict se correspond karti hui. Pehla area jiske baare mein main baat kar raha hoon woh hai jo kisi ka apna hai, ya related. Doosra woh hai jo kisi ka apna nahi hai, ya alien. “Civil war” us conflict ka naam hai jo apne khud ke ke sath hai. “War” us conflict ka naam hai jo uske sath hai jo kisi ka apna nahi hai.’
+
+‘Wahan wide of the mark kuch nahi hai,’ usne kaha.
+
+‘Kya aap sochte hain ki mera agla shot bhi target par hai [c]? Main maintain karta hoon ki ek Greek ke liye, poora Greek race “his own” hai, ya related, jabki barbarian race ke liye yeh alien hai, aur “not its own.”’
+
+‘A fair claim.’
+
+‘Jab Greeks barbarians se fight karte hain, phir, aur barbarians Greeks se, hum kahenge ki woh war par hain. Hum kahenge ki woh natural enemies hain, aur ki this sort of hostilities ko war kaha jana hai. Lekin un cases mein jahan Greeks Greeks se fight karte hain, hum kahenge ki woh natural friends hain, lekin ki is situation mein Greece sick hai, aur divided against itself [d]. Hum kahenge ki this kind of hostilities ko civil war kaha jana hai.’
+
+‘Personally,’ usne kaha, ‘main is view ko lene ke liye content hoon.’
+
+‘Ab us cheez ke baare mein sochein jise hum moment par civil war kehte hain, jahan is sort ki koi cheez ek city mein paida hoti hai, jo divided against itself ho jaati hai. Agar har side doosre ki land ko devastate karti hai, aur unke houses burn karti hai, toh civil war ko ek abomination ke roop mein dekha jata hai, aur dono sides ko unpatriotic ke roop mein. Warna woh apni nurse aur mother ko savage karne ke liye khud ko kabhi la nahi sakte the [e]. Jo reasonable socha jata hai woh winners ke liye losers ke crops lena hai, unhe aise logon ke roop mein treat karte hue jinake sath woh ek din apne differences settle karenge, un logon ke roop mein nahi jinake sath woh hamesha war par rahenge.’
+
+‘Haan, woh ek kahin zyada humane attitude hai.’
+
+‘Us city ke baare mein kya jise aap found kar rahe hain?’ maine poocha. ‘Kya yeh ek Greek city nahi hoga?’
+
+‘Haan, ise hona chahiye.’
+
+‘Which case mein, kya citizens good aur humane people honge?’
+
+‘Very much so.’
+
+‘Kya woh Greece ke lovers nahi honge? Kya woh Greece ko unse belongs karne wale ke roop mein nahi dekhenge? Kya woh sabhi Greeks ke religion mein share nahi karenge?’
+
+‘Again, very much so.’
+
+‘Which case mein, kya woh Greeks ke sath dispute ko civil war ke roop mein nahi dekhenge, given ki Greeks unke apne people hain [471]? Kya woh ise “war” naam dene se bhi inkaar nahi karenge?’
+
+‘Woh karenge.’
+
+‘Kya woh apne disagreement ko un logon ki tarah handle nahi karenge jo ek din apne differences settle karenge?’
+
+‘Unquestionably.’
+
+‘Correction jo woh employ karenge woh ek gentle kind ka hoga. Kyunki woh correction ke agents hain, enemies nahi, woh slavery ya death ko punishments ke roop mein upayog nahi karenge.’
+
+‘Exactly,’ usne kaha.
+
+‘Aur kyunki woh Greeks hain, woh Greece ko devastate nahi karenge, ya houses burn nahi karenge, ya accept nahi karenge ki ek city ke sabhi inhabitants – men, women aur children alike – unke enemies hain [b].
+32
+Woh kisi particular time par apne enemies ko few ke roop mein dekhenge, un logon ko jo dispute ke liye responsible hain. In sabhi kaaranon se woh land ko devastate karne, ya houses ko destroy karne se inkaar karenge, un logon ke jinhe woh zyadatar apne friends ke roop mein dekhte hain. Woh apne dispute ko sirf us point tak pursue karenge jahan responsible logon ko un logon dwara compels kiya jata hai jo responsible nahi hain, aur jo result ke roop mein suffer kar rahe hain, amends karne ke liye.’
+
+‘Mere part ke liye,’ usne kaha, ‘main agree karta hoon ki hamare citizens ko apne enemies ko is tarah treat karna chahiye. Jahan tak barbarians ka sawaal hai, unhe unhe us tareeqe se treat karna chahiye jis tareeqe se Greeks moment par ek doosre ko treat karte hain.’
+
+‘Kya humein phir apne guardians ke liye ek aur law lay down karna chahiye, unhe land devastate karne ya houses burn karne se forbid karte hue [c]?’
+
+‘Haan, humein karna chahiye. Aur aayein har tareeqe se ise lay down karein ki hum in arrangements aur hamare pehle walon dono ke sath satisfied hain. Fact yeh hai, Socrates, agar aapko is kind ki cheez ke baare mein baat karte rehne diya jata hai, toh mujhe nahi lagta ki aap kabhi us question par wapas aayenge jise aapne originally postpone kiya tha in sabhi details mein jaane ke liye, question ki kya yeh possible hai – aur sateek roop se yeh kaise possible hai – is kind ke political arrangements ko introduce kiya jana.
+33
+Ki unka introduction us city ke liye ek bada benefit hoga jismein woh introduce kiye gaye the – well, main ek ya do points bhi jod sakta hoon jinhe aapne mention nahi kiya [d]. Woh war ke samay mein outstanding honge ek doosre ko desert karne se unke refusal ke kaaran. Woh khud ko brothers, fathers aur sons ke roop mein dekhenge, aur khud ko in names se bulayenge. Agar women unke sath army mein serve karti hain, ya toh front line mein ya reserve mein enemy ko unnerve karne aur reinforcements ke liye kisi bhi possible need ko meet karne ke liye, mujhe yakin hai ki army poori tarah invincible hogi. Aur main ghar par bhi in benefits ko dekh sakta hoon jinhe aapne mention nahi kiya hai [e]. Toh aap ise le sakte hain ki main agree karta hoon ki in political arrangements ko introduce karna unhe yeh sabhi benefits layega, aur countless others. Aapko arrangements par discuss karte rehne ki zaroorat nahi hai. Iske bajaye hum khud ko in questions ka ek convincing answer dene par concentrate kar sakte hain, kya woh possible hain aur woh kaise possible hain? Hum baaki ke baare mein bhool sakte hain.’
+
+‘Yeh ek bahut hi direct assault hai,’ maine kaha, ‘cheezon ko explain karne ke mere way par [472]. Aapke paas meri misgivings ke sath bahut saari sympathy nahi hai. Aap shayad kya ehsaas nahi karte, criticism ke pehle do waves se mere narrowly escape hone ke baad, yeh hai ki aap ab mujhe ek third par expose kar rahe hain – teeno mein se sabse bada aur sabse threatening. Lekin aapke paas bahut saari sympathy hogi jab aap ise dekhenge aur sunenge. Aap dekhenge ki main kyun hesitate hua, main examination ke liye is tarah ka ek unlikely-sounding answer samne rakhne se kyun darta tha.’
+
+‘Jitne zyada excuses aap banate hain, utna hi kam chance hai ki hum aapko humein yeh batane se chhod denge ki yeh political arrangements kaise possible hain [b]. Time ke liye play karna band karein, aur humein batao.’
+
+‘Well, sabse pehle yaad rakhne wali cheez,’ maine kaha, ‘yeh hai ki hum justice aur injustice ke nature mein ek enquiry ke course mein is point par pahonche hain.’
+
+‘Fair enough. Usse kya follow hota hai?’
+
+‘Sirf yeh. Agar hum discover karte hain ki justice kis sort ki cheez hai, kya hum tab yeh decide karne wale hain ki just man ko khud justice se kisi bhi tareeqe se alag nahi hona chahiye, balki har tareeqe se justice ke jaisa [c]? Ya kya hum content honge agar woh iske jitna ho sake utna paas aata hai, aur kisi bhi doosre se zyada iska ek bada measure dharan karta hai?’
+
+‘Hum usse content honge,’ usne kaha.
+
+‘Toh jab humne poocha ki justice khud dwara kis sort ki cheez thi, aur perfectly just man ko dhoondha, agar woh astitva mein tha, aur poocha ki woh kaisa hoga agar woh astitva mein tha, toh jo hum dhoondh rahe the woh ek model tha. Injustice aur unjust man ke sath wahi. Hum perfectly just aur unjust man ko dekhna chahte the, dekhna ki humne kaise socha ki woh happiness aur iske opposite ke respect mein placed the, aur khud ke liye bhi agree karne par compelled hona, ki jo koi bhi in examples ke sabse paas aaya uske paas happiness ka ek share hoga jo unke sabse paas aaya [d]. Yeh demonstrate karna hamara aim nahi tha ki yeh cheezein possible thin.’
+
+‘True enough.’
+
+‘Suppose ek painter ek picture paint karta hai jo outstandingly beautiful man ka ek model hai. Suppose woh apne painting ke har detail ko perfectly render karta hai, lekin yeh dikhane mein a-saksham hai ki aise man ke liye astitva mein hona possible hai. Kya aap sochte hain ki woh use koi badtar painter banata hai?’
+
+‘Good heavens, nahi.’
+
+‘Phir hamare baare mein kya [e]? Kya hum same position mein nahi hain? Kya hum claim nahi kar sakte ki ek good city ka ek theoretical model construct kar rahe hain?’
+
+‘Hum nischit roop se kar sakte hain.’
+
+‘Which case mein, kya aap sochte hain ki hamari in-ability yeh dikhane mein ki us tareeqe se ek city found karna possible hai jise humne describe kiya hai hamare kehne ko thoda sa bhi kam valid banati hai?’
+
+‘Nahi,’ usne kaha.
+
+‘Well, wahi tareeqa hai jisse cheezein hain. Toh agar aap mujhe chahte hain, aapke liye ek favour ke roop mein, apna best karne ke liye yeh dikhane ke liye ki kaise, sateek roop se, aur kis circumstances ke tehat, yeh sabse zyada possible hoga, toh aap badle mein, is demonstration ke purposes ke liye, mere liye same allowances banane chahiye.’
+
+‘Kaun se allowances?’
+
+‘Kya kisi bhi cheez ke liye practice mein daala jana possible hai sateek roop se waise hi jaise ise describe kiya gaya hai [473]? Ya kya practice ke liye theory ke paas truth par kam hold hona natural hai? Mujhe parwah nahi hai ki kuch log kya soch sakte hain. Aapke baare mein kya? Kya aap agree karte hain, ya nahi?’
+
+‘Main agree karta hoon,’ usne kaha.
+
+‘Phir mujhe us sort ki cheez ko demonstrate karne ke liye compel karne ki koshish karte rehna band karein jise humne ek theoretical way mein describe kiya hai practice mein bhi poori tarah realised kiya ja sakta hai. Agar hum ek city ko us tareeqe se chalaaye jaane ka tareeqa dhoondhne ke capable nikalte hain jo uske kaafi paas hai jise humne describe kiya hai, toh aap keh sakte hain ki humne dhoondh liya hai ki jo aap poochh rahe hain use practice mein kaise daala ja sakta hai [b]. Ya kya aap usse satisfied nahi honge? Main jaanta hoon main hota.’
+
+‘So would I.’
+
+‘Agla step, zaahir taur par, hamare liye discovering karne, aur point out karne ki koshish karna hai, ki nowadays cities mein failings kya hain, jo unhe is tareeqe se chalaaye jaane se rokti hain, aur sabse kam change kya hai jo ek city ko is kind ke political arrangements tak pahonchne mein madad kar sakta hai. Ideally ek single change. Usme fail hone par, two. Aur usme fail hone par, jitna ho sake utne kam number mein aur jitna ho sake utna chhote impact mein.’
+
+‘Absolutely,’ usne kaha [c].
+
+‘All right, phir. Wahan ek change hai jise mujhe lagta hai ki humein dikhane ki anumati dega ki cheezein alag ho sakti thin. Yeh ek chhota change ya ek aasan nahi hai, lekin yeh possible hai.’
+
+‘Yeh kya hai?’
+
+‘Hum waves ki analogy ka upayog kar rahe hain. Well, ab main sabse bade wave par aa raha hoon. Lekin main phir bhi apna suggestion banaunga, bhale hi yeh literally waves ka laughter ho jo mujhe ridicule aur humiliation mein engulf karne wala hai. Dhyan se suno jo main kehne wala hoon.’
+
+‘Mujhe batao.’
+
+‘Hamare cities ke liye suffering ka koi end nahi hai, Glaucon, aur human race ke liye koi nahi, mujhe shak hai, jab tak ki ya toh philosophers hamare cities mein kings na ban jaayein, ya jo log ab kings aur rulers kahe jaate hain woh real, true philosophers na ban jaayein – jab tak ki political power aur philosophy ka yeh amalgamation na ho, un sabhi logon ke sath jinaka inclination exclusively ek ya doosre ko pursue karna hai unhe aisa karne se forcibly prevent kiye bina [d]. Warna isbaare mein sabse remotest chance nahi hai ki hamare dwara describe kiye gaye political arrangements aane wale hain – us extent tak ki woh kar sakte hain – ya day ki light dekhne wale hain [e]. Yeh woh claim hai jiske baare mein main put forward karne mein itna hesitant tha, kyunki main dekh sakta tha ki yeh kitna extremely startling claim hoga. Logon ke liye yeh dekhna hard hai ki yeh happiness ka akela possible route hai, chahe private life mein ya public life mein.’
+
+Aur Glaucon ne kaha, ‘Really, Socrates! Yahan woh hai jiska aap is jise suggestion ke baad expect kar sakte hain [474]. Aap ek badi aur ugly crowd ka samna kar rahe hain. Cloaks nikal aate hain – practically thrown off. Woh action ke liye stripped hain. Sab jo zaroori hai woh ek weapon hai, koi bhi weapon, aur woh aap par khud ko launch kar chuke honge, mayhem par bent. Kya aap unhe hold off kar sakte hain, escape karne ke liye ek argument pa sakte hain? Agar aap nahi kar sakte, toh aapko woh milega jiske aap deserved hain: utter humiliation.’
+
+‘Yeh aapki ghalti hai. Aapne mujhe isme daala.’
+
+‘Mujhe khushi hai ki maine kiya,’ usne kaha. ‘Lekin main aapko abandon nahi karunga. Main aapko woh help doonga jo main kar sakta hoon – jiska matlab support, encouragement, aur maybe answers hain jo kisi doosre ke dwara aapko diye jaane wale se zyada sympathetic hain [b]. Toh is gyaan mein ki aapke paas is sort ka ek ally hai, sceptics ko convince karne ki koshish karein ki truth waisi hi hai jaise aap kehte hain.’
+
+‘Well, is jise ally ke sath,’ maine kaha, ‘mujhe koshish karni chahiye. Yeh essential hai, mujhe lagta hai, agar hum un opponents se escaping ka koi tareeqa paane wale hain jinake baare mein aap baat kar rahe hain, ki humein unhe in philosophers ki ek definition deni chahiye, aur unhe batana chahiye ki yeh log kaun hain jinhe hum kehne ki nerve rakhte hain ki city mein rulers hona chahiye. Unka yeh portrait ek defence possible banayegi jo demonstrate karta hai ki kuch log naturally fitted hain city mein philosophy ko grasp karne aur leaders banne dono ke liye, jabki doosre log ise grasp karne ke liye equipped nahi hain [c]. Unke liye ek leader ko follow karna behtar hai.’
+
+‘Haan,’ usne kaha, ‘yeh definition ke liye ek achha moment hoga.’
+
+‘Come on, phir. Mujhe follow karein. Aayein dekhein ki kya kisi na kisi tareeqe se hum ek satisfactory explanation de sakte hain.’
+
+‘Lead on.’
+
+‘Kya mujhe aapko yaad dilane ki zaroorat hai – ya kya aapko yaad hai – ki jab hum kehte hain ki koi kisi cheez ka lover hai, toh use, strictly speaking, ek bit se love nahi karna chahiye aur doosre bit se nahi? Yeh clear hona chahiye ki woh poori cheez se love karta hai.’
+
+‘Aisa lagta hai jaise mujhe yaad dilane ki zaroorat hai,’ usne kaha [d]. ‘Mujhe woh bilkul yaad nahi hai.’
+
+‘Woh kuch logon ke liye ek reasonable position ho sakti thi, Glaucon, lekin ek lover ke liye nahi. Aapko sabhi logon mein se yaad dilane ki zaroorat nahi honi chahiye ki ek way ya doosre mein ek lover, ya young boys ka ek admirer, sahi age ke kisi se bhi smitten aur aroused hota hai. Woh un sabhi ko apni attention aur affection ke worthy paata hai. Kya wahi attitude nahi hai jo aap sabhi ke paas beautiful boys ke prati hai? Ek ke paas snub nose hai, toh aap use cute kehte hain, aur uske liye uski tareef karte hain. Beak wale ke baare mein aap kehte hain ki woh kingly hai [e]. Jo doosro ke beech ek cross hai use aap perfectly proportioned kehte hain. Dark walon ke baare mein aap kehte hain ki unka ek manly look hai. White gods ke children hain. Aur jahan tak honey-pale ka sawaal hai – name bhi ek lover dwara dreamed up euphemism se zyada kuch nahi hai jo pallor ko put up karne mein kaafi happy hai, provided yeh youth ke cheek par ho [475]. Short mein, aap koi bhi excuse banayenge, phrase ke kisi bhi turn ka upayog karenge, youth ke bloom mein hone walon mein se ek single ko bhi reject karne se bachne ke liye.’
+
+‘Agar aap mujhe apne example ke roop mein lena chahte hain, aur lovers ke baare mein kehna chahte hain ki wahi hai jaise woh behave karte hain, toh argument ke sake ke liye main agree karta hoon.’
+
+‘Wine ke lovers ke baare mein kya?’ maine poocha. ‘Kya aap unhe bilkul same way mein behave karte hue nahi paate? Kya woh kisi bhi wine se, kisi bhi kaaran se love nahi karte?’
+
+‘Woh nischit roop se karte hain.’
+
+‘Aur aap same cheez dekhte hain, mujhe lagta hai, un logon ke sath jo ambitious hain aur honour se love karte hain [b]. Agar woh generals nahi ban sakte, toh woh captains ban jaate hain. Agar woh great aur good se recognition nahi jeet sakte, toh woh un logon se recognition jeetne mein happy hote hain jo lesser aur inferior hain, kyunki yeh recognition hai, short mein, jispar unke hearts set hain.’
+
+‘Absolutely.’
+
+‘Mujhe yeh batao, phir. Yes ya no. Jab hum kehte hain ki koi kisi cheez ko desire karta hai, kya hum kahenge ki woh cheezon ke us poore class ko desire karta hai? Ya kya woh iske ek particular example ko desire karta hai, lekin doosre ko nahi?’
+
+‘Cheezon ka poora class,’ usne kaha.
+
+‘Kya hum kahenge, phir, ki philosopher sabhi wisdom ka lover hai? Woh ek kind ki wisdom ka lover nahi hai, lekin doosri ka nahi.’
+34
+
+‘True.’
+
+‘Toh agar ek man isbaare mein choosy hai ki woh kya study karta hai – vishesh roop se agar woh young hai, aur usne abhi tak in principles ko viksit nahi kiya hai jinpar judge kiya ja sake ki kya worth-while hai aur kya nahi – hum use learning ka lover ya wisdom ka lover nahi kahenge, kisi bhi zyada se zyada hum kehne se ki jo man apne food ke baare mein choosy hai woh hungry hai, ya ki woh food chahta hai [c]. Hum use ek good eater nahi kehte. Hum use ek poor eater kehte hain.’
+
+‘Aur hum kaafi sahi hain.’
+
+‘Jabki woh man jo sabhi learning ko taste karne ke liye wholeheartedly ready hai, jo gladly aur ek insatiable appetite ke sath learning ko approach karta hai – is man ko hum philosopher kehne mein justified honge, kya aap nahi kahenge?’
+
+‘Us case mein,’ Glaucon ne kaha, ‘bahut saare surprising people is category mein aayेंगे [d]. Woh sabhi jo spectators hone se love karte hain, udaharan ke liye – mujhe lagta hai ki kaaran kyun woh spectators hone se love karte hain kyunki woh learning enjoy karte hain. Aur jo log audience ke members hone se love karte hain woh philosophers ke ranks mein milne ke liye ek unlikely group hain. Woh aise behave karte hain jaise unhone har chorus ko sunne ke liye apne ears rent par diye the jinhe woh pa sakte hain. Toh woh Dionysus ke festivals ke apne round karte hain, kabhi ek miss nahi karte, chahe town mein ya country mein.
+35
+Lekin woh kisi philosophical discussion ya is sort ki kisi activity ke paas willingly nahi jaayenge. Kya hum kahenge ki yeh sabhi log, aur koi bhi jo kisi cheez ka student hai similar, ya handicrafts ka – kya hum kahenge ki yeh sabhi philosophers hain [e]?’
+36
+
+‘Nahi,’ maine kaha. ‘Lekin hum keh sakte hain ki woh philosophers ke prati kuch resemblance bear karte hain.’
+
+‘Real philosophers kaun hain, phir, aapke drishtikon mein?’
+
+‘Woh spectators hain, lekin truth ke spectators.’
+
+‘Woh sabhi jahan tak yeh jata hai kaafi well hai,’ usne kaha. ‘Lekin kis sense mein aapka matlab hai?’
+
+‘Yeh explain karna bilkul aasan nahi hai – kisi aur ke liye. Lekin aap, mujhe lagta hai, nimnlikhit argument ko accept karenge.’
+
+‘Yeh kaise jata hai?’
+
+‘Kyunki beautiful ugly ka opposite hai, woh ek pair form karte hain [476].’
+
+‘Of course.’
+
+‘Aur kyunki woh ek pair form karte hain, aap yeh bhi agree karenge ki unmein se har ek one hai.’
+
+‘Haan. Woh bhi.’
+
+‘Wahi just aur unjust, good aur bad, aur cheezon ke sabhi forms ya characters par laagu hota hai.
+37
+Har ek apne aap mein one hai, lekin kyunki woh har jagah appear hote hain, various activities aur bodies ke sath aur ek doosre ke sath unke association ke zariya, har ek many hone ka appearance deta hai.’
+
+‘Correct,’ usne kaha.
+
+‘Yeh, phir, hai kaise main un logon ko distinguish karta hoon jinake baare mein aap abhi baat kar rahe the – woh jo spectators hone mein pleasure lete hain, woh jo kisi art ya skill mein pleasure lete hain, log jo active hain – hamare present discussion ke subjects se, woh log jinhe akele hum truly philosophers keh sakte hain [b].’
+
+‘Explain karein.’
+
+‘Well, main kalpana karta hoon ki audiences aur spectators beautiful sounds aur colours aur shapes mein, aur us har cheez mein jo in elements se create ki jaati hai pleasure le sakte hain, lekin unke minds beauty itself ke nature ko dekhne, aur isme pleasure lene mein a-saksham hain.’
+
+‘True.’
+
+‘Jabki woh jo beauty itself ko approach karne, aur ise sirf apne aap mein dekhne ke capable hain, woh number mein few honge, kya woh nahi honge [c]?’
+
+‘Very few.’
+
+‘Us man ko lein jo beautiful objects mein vishwās karta hai, phir, lekin beauty itself mein vishwās nahi karta, aur follow nahi kar sakta agar aap use iske knowledge ki taraf direct karte hain. Kya uski life ek dream hai, aap kya sochte hain, ya woh awake hai? Isbaare mein sochein. Kya dreaming is tarah nahi hai? Suppose ek cheez, A, doosri cheez, B, ko resemble karti hai. Kya dreaming woh state nahi hai, chahe sleep mein ya waking mein, yeh sochne ka nahi ki A B ko resemble karta hai, balki ki A B hai?’
+
+‘Well, main nischit roop se kahunga ki koi person jo is tarah ka mistake karta hai woh dreaming kar raha tha.’
+
+‘Us person ke baare mein kya jo bilkul opposite hai, jo beauty itself mein vishwās karta hai, jo dono ko dekh sakta hai ise bhi aur un cheezon ko bhi jo isme share karti hain ise unke liye mistake kiye bina ya unhe iske liye [d]? Kya uski life, apne turn mein, aapko waking ya dreaming ke roop mein strike karti hai?’
+
+‘Waking,’ usne kaha. ‘Very much so.’
+
+‘Us case mein, kya hum yeh claim karne mein justified honge ki is man ka state of mind, kyunki woh jaanta hai, knowledge hai, aur doosre man ka state of mind, kyunki woh merely vishwās karta hai, opinion ya belief hai?’
+38
+
+‘Haan, hum honge.’
+
+‘Suppose second man hamse angry ho jata hai, woh man jise hum kehte hain ki vishwās karta hai aur nahi jaanta [e]. Suppose woh humein challenge karta hai, aur kehta hai ki hum galat hain. Kya hamare paas use win over karne aur use gently persuade karne ka koi tareeqa hoga, bina use bataye ki woh kitna unhealthy hai?’
+
+‘Humein able hona chahiye,’ usne kaha.
+
+‘Come on phir, sochein ki hum usse kya keh sakte hain. Kya aap chahte hain ki hum usse question karein, is tarah? Hum usse keh sakte hain ki humein uske cheezon ko jaan-ne par koi objection nahi hai. Agar woh kuch jaanta tha, hum usse keh sakte the, hum ise dekhkar delighted hote. Same time par hum usse yeh question poochh sakte the. “Kya woh man jo jaanta hai kuch jaanta hai ya kuch nahi?” Kya aap uske liye answer denge, please?’
+
+‘Mera answer yeh hai ki woh kuch jaanta hai.’
+
+‘Kuch aisa jo hai? Ya kuch aisa jo nahi hai?’
+
+‘Kuch aisa jo hai. Koi cheez kaise jaani ja sakti thi, agar yeh kuch aisa hota jo nahi hai?’
+39
+
+‘Kya hum ise certain ke roop mein regard karte hain, phir, chahe hum kitni bhi baar question ko re-examine karein, ki jo kuch poori tarah se hai woh poori tarah se knowable hai, jabki jo kisi bhi tareeqe se nahi hai woh poori tarah se unknowable hai [477]?’
+
+‘Absolutely certain.’
+
+‘Very well. Lekin suppose wahan kuch hai jiska nature exist hona aur exist na hona dono hai. Kya yeh us ke beech ek intermediate position occupy nahi karega jo purely aur simply hai aur uske opposite jo kisi bhi tareeqe se nahi hai?’
+
+‘Haan, yeh karega.’
+
+‘Toh agar knowledge uspar directed hai jo exist karta hai, aur ignorance, necessarily, uspar jo exist nahi karta, toh humein uske liye bhi look karna chahiye jo is intermediate class par directed hai – jo ignorance aur knowledge ke beech ek intermediate position occupy karta hai – agar indeed is tarah ki koi cheez hai [b].’
+
+‘Humein karna chahiye.’
+
+‘Kya hum kehte hain ki belief ya opinion jaisi koi cheez hai?’
+
+‘Of course.’
+
+‘Kya yeh knowledge se different ek capacity hai, ya same?’
+
+‘Different.’
+
+‘Toh belief ek object par directed hai, aur knowledge doosre par, har ek apni khud ki particular capacity ke anusar.’
+
+‘Haan.’
+
+‘Toh jabki knowledge apne nature dwara uspar directed hai jo exist karta hai, par knowing par ki cheezein kaise hain . . . Ya balki, mujhe lagta hai ki wahan ek mahatvapurna distinction hai jise humein pehle karna chahiye.’
+
+‘Woh kya hai?’
+
+‘Kya hum kahenge ki capacities cheezon ki ek class hain jo humein woh karne ke capable banati hain jo hum karne ke capable hain, aur kisi doosri cheez ko woh karne ke capable banati hain jo woh karne ke capable hai? Udaharan ke liye, main sight aur hearing ko capacities ke roop mein classify karunga, agar aap samajhte hain ki mera category se kya matlab hai [c].’
+
+‘Haan, main samajhta hoon,’ usne kaha.
+
+‘Phir mujhe batane dein ki main unke baare mein kya sochta hoon. Ek capacity ke paas mere dekhne ke liye koi colour ya shape nahi hai, na hi koi aisi property jiska main aam taur par apne mind mein doosri class of things se ek class of things ko distinguish karne ke liye doosri situations mein zikr karunga. Ek capacity ka akela element jise main consider karta hoon woh yeh hai ki yeh kispar directed hai aur iska effect kya hai.
+40
+Yeh kaise hai main har capacity ko classify karta hoon [d]. Koi bhi capacity jo same object par directed hai aur same effect rakhti hai, main use same capacity kehta hoon, aur koi bhi capacity jo ek alag object par directed hai aur ek alag effect rakhti hai, main use ek alag capacity kehta hoon. Aapke baare mein kya? Kya woh aapka method hai?’
+
+‘Haan,’ usne kaha.
+
+‘Phir aayein argument ko resume karein jahan humne chhod tha, mere achhe dost. Kya aap kahenge ki knowledge ek capacity hai [e]? Agar nahi, toh aap ise kis category mein rakhenge?’
+
+‘Main ise is category mein rakhunga. Main kahunga ki yeh sabhi mein sabse powerful capacity hai.’
+
+‘Belief ke baare mein kya? Kya hum ise ek capacity kahenge, ya ise koi doosri description denge?’
+
+‘Nahi, ek capacity. Jo cheez humein beliefs form karne ke capable banati hai woh belief honi chahiye.’
+
+‘Aur ek moment pehle aap agree hue the ki knowledge aur belief same cheez nahi the.’
+
+‘Of course. Koi bhi samajh wala person kaise us vyakti ko same maana sakta hai jo infallible hai us vyakti ke sath jo infallible nahi hai?’
+
+‘Excellent,’ maine kaha. ‘Clearly hum agree karte hain ki belief knowledge se alag kuch hai [478].’
+
+‘Haan.’
+
+‘Toh yeh capacities, alag capabilities rakhte hue, apne nature dwara alag objects par directed hain.’
+
+‘Necessarily.’
+
+‘Knowledge, main ise leta hoon, uspar directed hai jo exist karta hai, aur cheezon ko jaise woh hain jaan-ne mein consist karta hai?’
+
+‘Haan.’
+
+‘Jabki belief, hamare anusar, opinions form karne ka ek maamla hai, kya yeh nahi hai?’
+
+‘Haan.’
+
+‘Kya iske opinions us same cheez ke baare mein honge jise knowledge jaanti hai? Kya knowledge ka object aur belief ka object same cheez hogi? Ya kya woh asambhav hai?’
+
+‘Haan, yeh asambhav hai, hamare agree kiye gaye se – yaani, agar yeh alag capacities ka nature hai alag objects par directed hona, aur agar knowledge aur belief dono capacities hain, aur agar har ek doosre se alag hai, jaise hum claim karte hain [b]. In premises par yeh ek contradiction hai ki knowledge ka object aur belief ka object same cheez ho.’
+
+‘Toh agar jo exist karta hai woh knowledge ka object hai, toh belief ka object kuch aur hona chahiye?’
+
+‘Haan, yeh hona chahiye.’
+
+‘Kya belief, phir, uske baare mein opinion form karta hai jo exist nahi karta? Ya kya uske baare mein opinion rakhna bhi asambhav hai jo exist nahi karta? Ise is tarah dekhein. Jab ek man ke paas ek opinion hota hai, kya uska belief kisi cheez ki taraf directed nahi hota? Ya kya aisa belief rakhna sambhav hai jo kisi bhi cheez ke baare mein belief nahi hai?’
+41
+
+‘Nahi, yeh sambhav nahi hai.’
+
+‘Toh jab uske paas ek belief hota hai, toh yeh kisi ek cheez ke baare mein belief hota hai?’
+
+‘Haan.’
+
+‘Lekin jo exist nahi karta use properly some one thing nahi kaha ja sakta [c]. Ise most properly nothing kaha jayega.’
+
+‘Quite true.’
+
+‘Aur humne necessarily ignorance ko usse associate kiya jo exist nahi karta, aur knowledge ko usse jo exist karta hai.’
+
+‘Rightly so,’ usne kaha.
+
+‘Toh belief na toh uske baare mein opinions form karta hai jo exist karta hai aur na hi uske baare mein jo exist nahi karta.’
+
+‘Nahi.’
+
+‘Toh belief na toh ignorance ho sakta hai aur na hi knowledge.’
+
+‘Apparently nahi.’
+
+‘Kya yeh phir in do dwara set kiye gaye limits se pare hai? Kya yeh clarity mein knowledge ko surpass karta hai, ya lack of clarity mein ignorance ko?’
+
+‘Nahi.’
+
+‘Kya aap sochte hain, phir,’ maine poocha, ‘ki belief knowledge se zyada obscure cheez hai, lekin ignorance se clearer?’
+
+‘Sateek roop se wahi hai jo main sochta hoon.’
+
+‘Yeh in limits ke andar pait-ta hai [d]?’
+
+‘Haan.’
+
+‘Toh belief doosron do ke beech hoga.’
+
+‘Yeh nischit roop se hoga.’
+
+‘Very well. Kya humne kuch moments pehle kaha tha ki agar koi aisi cheez hoti jiska nature exist hona aur exist na hona dono tha, toh aisi cheez us ke beech ek intermediate position occupy karti thi jo purely aur simply exist karta tha aur jo kisi bhi tareeqe se exist nahi karta tha? Humne kaha tha ki na toh knowledge na hi ignorance ko aise object par directed kiya ja sakta tha, balki sirf kisi aisi cheez ko jo clearly ignorance aur knowledge ke beech ek intermediate position occupy karti thi.’
+
+‘Humne kaha tha. Aur hum sahi the.’
+
+‘Aur ab yeh nikalta hai ki jise hum belief, ya opinion kehte hain, clearly is intermediate position ko occupy karta hai.’
+
+‘Haan, yeh clearly karta hai.’
+
+‘Yeh hamare liye discover karne ke liye bacha hai, zaahir taur par, woh kya hai jo dono mein share rakhta hai – exist hone mein, aur exist na hone mein – lekin ise pure form mein dono mein se koi nahi kaha ja sakta [e]. Phir agar yeh apni appearance banata hai, toh hum ise belief ya opinion ka object kehne mein justified honge. Hum extremes ko extremes, aur intermediates ko intermediates assign kar sakte hain, kya hum nahi kar sakte?’
+
+‘Hum kar sakte hain.’
+
+‘In definitions ko establish karne ke baad, mere paas us fine fellow se poochhne ke liye ek question hai jo sochta hai ki beauty in itself mein koi beauty nahi hai, beauty ka koi form ya character nahi jo hamesha same aur unchanging rehta hai, jo sochta hai ki beauty plural hai – woh born spectator jo kisi ke yeh kehne ko tolerate nahi kar sakta ki beauty one hai, ya justice one hai, ya us jisa kuch bhi [479]. “Well, mere dost,” hum usse poochhenge, “kya in numerous beautiful cheezon mein se koi aisi hai jo avsar par ugly nahi dikh sakti? Kuch bhi just jo unjust nahi dikh sakta? Kuch bhi holy jo unholy nahi dikh sakta?”’
+
+‘Nahi,’ usne kaha [b]. ‘Woh necessarily beautiful aur ugly dono dikhne ke liye bound hain. Aur same sabhi doosre examples ke sath jiske baare mein aap poochhte hain.’
+
+‘Un sabhi cheezon ke baare mein kya jinhe hum “double” kehte hain? Kya woh half dikhne ke prati utna hi nahi jhukte jitna woh double dikhne ke prati jhukte hain?’
+
+‘Woh jhukte hain.’
+
+‘Aur big cheezein aur small cheezein, light cheezein aur heavy cheezein? Unhe in names dwara nahi kaha jayega jinhe hum unhe unke opposites se zyada dete hain, kya kaha jayega?’
+
+‘Nahi,’ usne kaha. ‘Unmein se har ek hamesha dono labels par claim lay kar sakta hai.’
+
+‘Yeh sabhi examples, phir – kya woh hain jo unhe described kiya gaya hai unke opposites se zyada?’
+
+‘Yeh un logon ki tarah hai jo dinner parties mein ambiguities ke sath khelte hain [c]. Ya child's riddle, eunuch ke baare mein ek, bat par kuch phenkne ke baare mein, riddles kya kehta hai ki usne uspar kya phenka, aur woh kispar baitha tha.
+42
+Aapke examples sabhi ambiguous hain, in that isme unka koi definite conception form karna asambhav hai chahe kisi cheez ke roop mein hone ke, ya kisi cheez ke roop mein na hone ke, ya dono ke roop mein, ya kisi ke roop mein nahi.’
+
+‘Kya aapke paas unse deal karne ka koi tareeqa hai, phir?’ maine poocha. ‘Kya aapke paas unhe exist hone aur exist na hone ke beech mid-point ke bajaye kahin behtar rakhne ke liye jagah hai? Woh usse zyada obscure nahi hain jo exist nahi karta, main ise leta hoon, toh woh usse zyada degree tak exist na hone wale nahi ho sakte. Na hi woh usse clearer hain jo exist karta hai, toh woh usse zyada kuch exist hone wale nahi ho sakte [d].’
+
+‘Very true.’
+
+‘Toh humne discover kiya hai, zaahir taur par, ki zyadatar logon ke beauty ke varying standards aur us tarah ki cheezein middle mein kahin rattling around kar rahe hain, uske beech jo exist nahi karta aur uske beech jo purely aur simply exist karta hai.’
+
+‘Humne kiya hai.’
+
+‘Aur humne pehle agree kiya tha ki agar is kind ki koi cheez apni appearance banati hai, toh humein ise belief ka object kehna chahiye, knowledge ka object nahi. Yeh intermediate capacity ke liye hai jise intermediate position mein shift hone wale ko grasp karna hai.’
+
+‘Haan, wahi hai jispar humne agree kiya tha.’
+
+‘Toh kya hum kahenge ki jo log bahut saari beautiful cheezon ko dekhte hain, lekin beauty itself ko dekhne mein fail hote hain, aur jo kisi aur ko follow nahi kar sakte jo unhe iski taraf direct karta hai – ya jo bahut saari just cheezon ko dekhte hain, lekin justice itself ko dekhne mein fail hote hain, aur same sabhi doosre examples ke sath – kya hum kahenge ki unke paas in sabhi cheezon ke baare mein beliefs ya opinions hain, lekin un cheezon ka koi knowledge nahi jinake baare mein unke beliefs hain [e]?’
+
+‘Haan, wahi hai jo humein kehna chahiye.’
+
+‘Un logon ke baare mein kya jo har case mein cheezon ko khud dekhte hain, uspar jo hamesha same aur unchanging hai? Kya hum nahi kahenge ki unke paas knowledge hai, aur merely belief nahi?’
+
+‘Again, humein karna chahiye.’
+
+‘Well, phir. Kya hum kahenge ki yeh log un cheezon mein pleasure lete hain aur enjoy karte hain jinpar knowledge directed hai, jabki doosre un cheezon mein pleasure lete hain aur enjoy karte hain jinpar belief directed hai [480]? Kya humein yaad nahi hai kehna ki yeh log beautiful sounds aur colours, aur us sort ki cheezon ko enjoy karte hain, ki yeh wahi hai jise woh dekhte hain, lekin ki woh is idea ke sath cope nahi kar sakte ki beauty itself jaisi koi cheez ho sakti hai?’
+
+‘Hum karte hain.’
+
+‘Toh hum offence nahi de rahe honge agar hum unhe opinion ya belief ke lovers kehte hain, wisdom ke lovers ke bajaye? Yeh unhe bahut angry nahi banayega agar hum unhe is tarah describe karte hain?’
+
+‘Nahi agar woh mujhe sunte hain,’ usne kaha. ‘Aakhirkar, kisi ko bhi truth par angry nahi hona chahiye.’
+
+‘Aur jo har case mein usme pleasure lete hain jo exist karta hai, purely by itself, unhe wisdom ke lovers ya philosophers kaha jana chahiye, opinion ke lovers nahi, kya unhe nahi kaha jana chahiye?’
+
+‘Unhe nischit roop se kaha jana chahiye.’
+
+---
+
+### Footnotes for Book 5
+
+1. Friends will hold things in common: 424a.
+2. The rainbow's end: literally, "to melt down gold," an ancient proverbial expression similar to searching for a pot of gold at the end of the rainbow.
+3. Pollution: In ancient Greek law, homicide carried spiritual pollution (*miasma*), from which a person declared innocent was legally acquitted and cleansed.
+4. "The women's performance": A theatrical metaphor referring to the staging of plays where female roles followed male roles.
+5. Guardians of the herd: Reiterating the sheepdog/shepherd metaphor introduced in Books 2 & 3.
+6. Glaucon recognizes the shocking, radical nature of women exercising alongside men in public.
+7. Exercise naked: The word *gymnasium* comes from *gymnos* (naked). In ancient Greece, men exercised completely unclothed.
+8. Recalling the principle of specialization/division of labor from 369e–370c.
+9. Dolphin: A reference to the legend of the poet Arion, who was rescued from the sea by a dolphin.
+10. The argument comes full circle back to the principle that education must match natural aptitude.
+11. Re-evaluating the criteria established in Book 4 (427d).
+12. "Plucking the unripe fruit of laughter": Quoting a lost fragment of Pindar.
+13. Glaucon notes that community of wives/children will face intense skepticism on both moral/practical grounds.
+14. Sexual inevitability: Plato distinguishes between mathematical/logical necessity and biological/erotic drive.
+15. Sacred marriages: "Sacred" here means utilitarian and eugenically beneficial for the state, sanctioned by state-sanctioned rituals.
+16. Medicinal lie: Referring back to the ruler's privilege to use noble lies/medicinal falsehoods (389b, 414b).
+17. Exposure/Infanticide: Deformed or unregistered children were "removed to a secret place," a standard Greek euphemism for exposure/infanticide or relegation to lower classes.
+18. Democratic cities vs. Kallipolis: In democracies, rulers are called "rulers"; in Kallipolis, "saviours and defenders."
+19. Re-affirming the living conditions of the guardians laid down in Book 3 (416d–417b).
+20. Olympic victors: In ancient Greece, Olympic winners received free meals for life at public expense (*sitēsis*). Guardians receive even greater honor.
+21. Referring back to Adeimantus' opening objection at the beginning of Book 4 (419a).
+22. Hesiod, *Works and Days* 40.
+23. Children of guardians serving as apprentices in war: Mirroring the artisan training mentioned earlier.
+24. Veteran commanders act as mentors to keep youth safe during military campaigns.
+25. Military rewards for bravery mirror both heroic epic honors and real Greek military customs.
+26. Referencing 459e.
+27. Homer, *Iliad* 7.321.
+28. Homer, *Iliad* 8.162.
+29. Hesiod, *Works and Days* 122–123.
+30. Cult of heroes: Deified guardians receive worship as demigods/daimones after death.
+31. Greek pan-Hellenism: Plato explicitly restricts the harshness of war to non-Greeks (*barbaroi*).
+32. Restraint in Greek inter-city warfare (*stasis*): Prohibiting enslavement and devastation against fellow Hellenes.
+33. Glaucon pulls Socrates back to the fundamental question: Is *Kallipolis* actually achievable in practice?
+34. The definition of a lover (*philomaths* / *philosophos*) as someone who loves the entire category, not just selective parts.
+35. Festivals of Dionysus: Celebrated with theatrical performances, drawing large crowds of "spectators" (*philotheamon*).
+36. Distinguishing lovers of sights/sounds (*philotheamones*) from true philosophers (*philosophoi*).
+37. Theory of Forms (*Eide* / *Ideai*): Introducing the ontological distinction between sensible particulars and eternal intelligible Forms.
+38. Ontological and epistemological hierarchy: Knowledge (*Episteme*) corresponds to Being (*What Is*), Opinion (*Doxa*) corresponds to Becoming (*What Is and Is Not*), and Ignorance (*Agnoia*) corresponds to Non-Being (*What Is Not*).
+39. Non-Being cannot be an object of knowledge.
+40. Capacities (*dynameis*) are defined solely by their domain/objects and their functional results.
+41. Belief must have an object; one cannot have a belief about "nothing."
+42. The riddle of the eunuch: A famous ancient riddle (a eunuch threw a pumice stone at a bat sitting on a reed). It illustrates the ambiguous nature of sensible particulars that possess contradictory qualities simultaneously.
