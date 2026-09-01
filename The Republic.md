@@ -7283,3 +7283,1011 @@ Exhaustion aur sleep study ke enemies hain. Besides, physical training mein har 
 22. Plato ke time mein Athens mein eighteen-year-old males frontier posts par compulsory military training aur guard duty ke two-year period mein enter karte the.
 23. 451c–466d.
 24. Population ke elements ko ek city se surrounding countryside mein banish karna historic parallel ke bina nahi tha, aur Greek world mein general mein populations alarmingly frequent tareeqe se relocate ki jaati thin. Lekin parents ki ek poori class ko unke children ke bina countryside mein remove karne ka koi historic parallel nahi tha.
+
+---
+
+# Book 8
+
+‘Very well, Glaucon [543]. City ke agreed characteristics jise political organisation ki peak tak pahonchna hai woh hain community of women, community of children aur poora system of education, likewise community everyday life ki, dono wartime aur peacetime mein, aur unke beech se unki kingship jo best philosophers ke roop mein develop hue hain, aur best jab war ki baat aati hai.’
+
+‘Haan,’ usne kaha, ‘woh agreed characteristics hain.’
+
+‘Isse bhi zyada, humne yeh bhi agree kiya tha ki jab rulers power assume karenge, toh woh soldiers ko lenge aur unhe us kind ke housing mein move karenge jise humne pehle describe kiya tha – un sabhi ke liye common, aur kisi ko koi private property offer na karne wala [b].
+1
+Aur unke housing ke nature ke addition mein, humne, agar aapko recall ho, is baat par bhi agreement reach kiya tha ki unke paas kis kind ki possessions hongi.’
+2
+
+‘Mujhe recall hai. Humne socha tha ki unmein se kisi ke paas bhi koi aisi possession nahi honi chahiye jo nowadays zyadatar logon ke paas hoti hai [c]. Unhe guardians aur kisi sort ke warrior-athletes hona chahiye, rest of the citizens se, apni guardianship ke liye annual pay ke roop mein, utna hi maintenance receive karte hue jitna unhe is purpose ke liye zaroorat hai. Unka duty khud ko aur baaki city ko protect karna hoga.’
+
+‘Aap right hain,’ maine kaha. ‘Lekin us sabhi se deal karne ke baad, kya hum us point ko yaad kar sakte hain jahan humne yeh digression shuru kiya tha, taaki hum same place se carry on kar sakein?’
+
+‘Woh kaafi easy hai,’ usne kaha [d]. ‘Aap baat kar rahe the, kaafi hadd tak usi way mein jaise aap ab baat kar rahe hain, jaise ki aapne city ke apne account ko complete kar liya tha. Aap keh rahe the ki aap us kind ke city ko – aur us individual ko jo ise resemble karta tha – jise aapne abhi describe kiya tha ek good one ke roop mein regard karte the, is fact ke baavjood ki apparently aapke paas humein batane ke liye ek aur bhi finer city aur individual tha [544]. Aapne certainly kaha tha ki agar yeh right sort of city tha, toh doosron mein zaroor kuch galat hona chahiye. Aur aapne kaha tha, agar mujhe sahi se yaad hai, ki four doosre kinds ke regimes the – ya four doosre worthy of discussion, kisi bhi rate par. Aapne kaha tha humein unke faults ko dekhna chahiye, aur un individuals ko jo unhe resemble karte hain, taaki jab humne sabhi individuals ko examine kar liya ho, aur isbaare mein agreement par reach ho gaye hon ki kaun sa best tha aur kaun sa worst, toh hum poochh sakein ki kya best individual happiest hai aur worst most wretched, ya kya woh sab ek mistake hai [b]. Maine aapse poochha tha ki aapka kaun se four regimes se matlab tha, lekin tab Polemarchus aur Adeimantus ne interrupt kiya, aur usne aapko us discussion par start kiya jo aapko yahan tak le aayi hai.’
+3
+
+‘Kya ek excellent memory!’
+
+‘Which case mein, kya aap wahi kar sakte hain jo ek wrestler karta hai jab woh apne opponent ko dobara same hold offer karta hai? Agar main dobara same question poochhta hoon, toh mujhe woh answer dene ki koshish karein jo aap mujhe tab dene wale the.’
+
+‘Certainly,’ maine kaha. ‘Yeh assume karte hue ki main kar sakta hoon, yaani.’
+
+‘Kisi doosri cheez se alag, mere paas yeh jaan-ne ke mere apne reasons hain ki aapka kaun se four regimes se matlab tha.’
+
+‘Aapko woh batane mein koi difficulty nahi hogi [c]. Unke paas names bhi hain, jinake baare mein main baat kar raha hoon. Wahan ek hai jise kaafi generally approved kiya jata hai, Cretan ya Spartan.
+4
+Next – aur general approval ke scale mein next – woh hai jise oligarchy kaha jata hai, government ka ek form jo har sort ke evils se bhara hua hai. Oligarchy ke contrast mein, aur government ka form jo next arise hota hai, woh democracy hai. Aur phir tyranny ka wonderful institution hai, baaki sabhi ke upar head aur shoulders stand karta hua, city ki fourth aur aakhri diseased state [d]. Kya aap kisi doosre kind ke regime ke baare mein soch sakte hain jo apna ek distinct category form karta ho? Main ise leta hoon ki families dwara hereditary rule, kingships jo highest bidder ke paas jaati hain, aur doosre similar regimes, jinhe aap paayenge ki Greeks ke beech ke muqable barbarians ke beech kam common nahi hain, sabhi un forms ke beech intermediate hain jinaka maine mention kiya hai.’
+
+‘Haan,’ usne kaha, ‘hum certainly prachur extraordinary regimes ke baare mein sunte hain.’
+
+‘Well, phir, kya aap aware hain ki individuals ke liye bhi necessarily utne hi kinds ke character hone chahiye jitne kinds ke regimes hain? Ya kya aap sochte hain ki regimes kisi tarah “oak ya stone se” astitva mein aate hain [e]?
+5
+Kya yeh balki city mein logon ke characters se nahi hai, jo scale ko tip karte hain, maano, baaki ko apne sath le jaate hue?’
+
+‘Nahi, mujhe lagta hai yeh entirely inhabitants ka character hai.’
+
+‘Which case mein, agar five types ke city hain, toh individuals ke liye likewise soul ke five dispositions honge.’
+
+‘Of course.’
+
+‘Well, humne us person ko describe karna finish kar liya hai jo aristocracy ko resemble karta hai. Aur hum kehte hain, quite rightly, ki woh good aur just hai.’
+
+‘Haan [545]. Humne use describe kar liya hai.’
+
+‘Kya agli cheez, phir, unhe describe karna hai jo kam good hain – victory aur honour ka lover, jo Spartan regime se correspond karta hai, aur phir turn mein oligarchic character, democratic, aur tyrannical? Us tareeqe se hum most unjust ko, jab hum use paate hain, most just ke sath contrast kar sakte hain. Hamari investigation is baare mein ki pure justice kaise fare karti hai, relative to pure injustice, us person ke happiness ya wretchedness ke terms mein jo ise possess karta hai, complete ho jayegi. Aur hum ya toh Thrasymachus ki advice ko follow kar sakte hain aur injustice ko pursue kar sakte hain, ya us argument ko follow kar sakte hain jo ab hamare samne unfold ho raha hai, aur justice ko pursue kar sakte hain [b].’
+
+‘Haan,’ usne kaha, ‘wahi sateek roop se hai jo humein karna hai.’
+
+‘All right, phir. Hamari pehle ki enquiry mein humne individuals ke character ke bajaye regimes ke character se start kiya tha, kyunki humne socha tha ki woh clearer hoga.
+6
+Same way mein ab, kya hum honour-loving regime par ek look lekar start karein? Main general use mein kisi doosre term ke baare mein nahi soch sakta jo ispar apply hoga [c]. Iska name “timocracy” ya “timarchy” hona chahiye.
+7
+Phir hum us regime ke relation mein timocratic individual ko dekh sakte hain – oligarchy aur oligarchic individual dwara followed. Uske baad hum democracy ki taraf turn kar sakte hain aur democratic individual ko study kar sakte hain, aur fourthly hum us city ki taraf turn kar sakte hain jo ek tyrant dwara ruled hai, aur use dekh sakte hain, tyrannical soul ko study karne se pehle. Kya yeh khud se poochhe gaye question ke competent judges banne ki koshish karne ka ek way hoga?’
+
+‘Yeh hamare observations aur judgments ke baare mein jaane ka certainly ek logical way hoga.’
+
+‘Very well. Aayein us way ko describe karne ki koshish karein jismein timocracy aristocracy se arise ho sakti hai [d]. Kya yeh ek general rule hai ki kisi bhi regime mein change ka cause sovereign body itself mein paaya jana hai – jab is group ke andar civil war arise hoti hai? Ki jab tak yeh group, chahe yeh kitna bhi small ho, united rehta hai, regime ka alter hona impossible hai?’
+
+‘Haan, woh true hai.’
+
+‘Us case mein, Glaucon, hamare city ka regime kaise alter hoga? Kaise civil war break out hogi ya toh hamare auxiliaries aur hamare rulers ke beech, ya unke aapas mein [e]? Kya aap chahte hain ki hum, Homer ki tarah, Muses ko invoke karein humein yeh batane ke liye ki “kaise pehle dissension unpar gira”?
+8
+Kya hum imagine karein ki woh hamse high-flown, tragic tones mein bolte hain, jaise ki woh chhote children ke sath khel rahe the aur seriously bolne ka pretend karke unhe tease kar rahe the?’
+
+‘Woh kya kahenge [546]?’
+
+‘Kuch is tarah ka. “Is tareeqe se founded city ke liye alter hona koi aasan maamla nahi hai. Lekin kyunki destruction har us cheez ka wait karti hai jo astitva mein aayi hai, is kind ka ek foundation bhi poore time ke liye survive nahi karega. Yeh fall apart ho jayega, aur yeh iske girne ka manner hoga. Dono ground mein plants ke liye aur ground ke upar animals ke liye yeh ek fact hai ki souls aur bodies produce hoti hain ya produce nahi hoti hain jab har species ke liye begetting ke cycles apne revolutions complete karte hain – short-lived species ke liye short revolutions, aur long-lived species ke liye opposite. Aapki species ke case mein, wise yadyapi woh log hain jinhe aapne city ke leaders ke roop mein educate kiya hai, still woh mark ko bilkul hit nahi karenge jab woh calculation apply karte hain – observation ke sath – breeding aur birth-control ke apne programme par [b]. Success unhe elude karegi, aur woh kabhi-kabhi aise children produce karenge jinhe unhe produce nahi karna chahiye. Ek divine being ke birth ke liye ek period hai jo ek perfect number dwara embraced hai,
+9
+jabki ek human being ke liye yeh pehla number hai jismein squares ke sath combined roots ki power tak increase – teen dimensions aur chaar defining limits ko take on karte hue – un numbers ka jo likeness aur unlikeness create karte hain, aur jo wax aur wane karte hain, sabhi cheezon ko ek doosre ke sath conversable aur rational banata hai [c]. In numbers mein se woh jo musical fourth ka basis form karte hain, jab five ke sath coupled aur three times increased hote hain, toh do harmonies produce karte hain. Pehli harmony ek square hai, equals ka product, so many times 100. Doosri harmony ek taraf equal length ki hai, lekin ek rectangle. Ek side five-by-five square ke rational diagonal ka square hai, minus one, times 100, ya five-by-five square ke irrational diagonal ka square, minus two, times 100. Doosri side three cubed times 100 hai. Ek whole ke roop mein liya gaya, yeh geometrical number is domain ka master hai – better aur worse births ka [d]. Jab aapke guardians in births ko understand karne mein fail hote hain, aur brides aur grooms ke injudicious unions banate hain, toh children ke paas right nature nahi hoga, aur woh fortunate nahi honge. Previous generation office ke liye unmein se best ko select karegi, lekin woh selection deserve nahi karenge, aur jab woh badle mein apne fathers ki powers ko inherit karenge, toh pehli cheez jise woh guardians ke roop mein neglect karenge woh hum, Muses, honge, kyunki woh musical aur literary education par bahut low value rakhenge. Aur doosri cheez jise woh neglect karenge woh physical education hogi. Result ek aisi younger generation hogi jo hamare liye aur bhi kam regard rakhti hai. Aur unke number se rulers appoint kiye jaayenge jinme Hesiod ke classes, ya aapke city ke classes – gold, silver, bronze aur iron – ke beech discriminate karne ki ek guardian ki ability poori tarah lack karegi [547][e].
+10
+Jab iron silver ke sath compound hota hai, aur bronze gold ke sath, toh aapko unlikeness aur discordant inequality milegi. Aur jab aap unhe paate hain, jahan kahin bhi woh occur hote hain, woh hamesha war aur hostility ko breed karte hain. Yeh sedition ki noble line hai,
+11
+humein kehna padega – hamesha, aur jahan kahin bhi yeh arise hoti hai.”’
+
+‘Haan, wahi answer hai jo Muses denge. Aur hum deny nahi kar sakte ki woh right hain.’
+
+‘Unhe right hona chahiye,’ maine kaha, ‘agar woh Muses hain.’
+
+‘Which case mein,’ usne poocha, ‘Muses ko aur kya kehna hai?’
+
+‘Jab civil war break out hoti hai, toh classes ya natures do mein divide ho jaate hain [b]. Iron aur bronze state ko commerce ki taraf, aur land aur housing, gold aur silver ke possession ki taraf draw karte hain. Doosra pair, contrast dwara, gold aur silver, kyunki apni souls mein woh poor nahi hain, balki naturally wealthy hain, state ko virtue aur traditional order ki taraf lead karte hain. Ek doosre ke khilaf fighting aur struggling karte hue woh ek compromise par pahonchte hain [c]. Land aur housing ko divide kiya jana hai aur privately own kiya jana hai, aur woh unhe enslave karne par agree karte hain jinhe pehle unke dwara free men, friends aur providers ke roop mein watch over kiya jata tha. Woh ab unhe serfs aur slaves ke roop mein hold karte hain, jabki unka role unhe watch karna, aur warfare conduct karna hai.’
+
+‘Haan,’ usne kaha, ‘mujhe lagta hai ki is sort ke change ka origin wahi hai.’
+
+‘Which case mein,’ maine kaha, ‘kya yeh regime aristocracy aur oligarchy ke beech ek kind of halfway-house hoga?’
+
+‘Yeh certainly hoga.’
+
+‘Us tareeqe se change take place karega, phir. Lekin change ke baad state kaise organise hoga [d]? Yeh obvious hai, kya yeh nahi hai, kyunki yeh dono ke beech midway hai, ki yeh kuch ways mein original regime par modelled hoga, aur doosre ways mein oligarchy par, lekin isme ek aisa element bhi hoga jo iska apna peculiar hai?’
+
+‘Haan,’ usne kaha.
+
+‘Very well. Kya woh points jo iske original regime ke sath common hain yeh honge: rulers ke liye respect; state mein warrior element ka agriculture, manual employment ya kisi doosre kind ke business se disqualification; communal living quarters ka establishment; aur war ke liye physical education aur training par concentration?’
+
+‘Haan [e].’
+
+‘Jabki wise logon ko power ki positions mein daalne ka fear – kyunki jo wise men iske paas hain woh ab complex hain, simple aur direct nahi rahe – un logon ki taraf ek leaning jo spirited hain, zyada straightforward aur naturally peace ke bajaye war ke liye cut out hain, military deceptions aur stratagems par jo value yeh place karta hai, aur jis tareeqe se yeh apna poora time war mein bitata hai – kya inmein se zyadatar characteristics iske apne peculiar honge [548]?’
+
+‘Haan.’
+
+‘Ab jabki woh apne treasuries aur strongrooms possess karte hain jahan woh apna gold aur silver rakh sakte hain, aur ise hidden rakh sakte hain, is jise log avaricious honge, ek oligarchy ke members ki tarah, gold aur silver ke liye ek fierce aur secret passion ke sath. Aur is sabhi ko protect karne ke liye unke paas apne houses ke charon taraf walls honge – real private nests jahan woh women par ya kisi aur par jise woh fancy karte hain ek fortune spend kar sakte hain [b].’
+
+‘Very true,’ usne kaha.
+
+‘Money par jo value woh rakhte hain, aur ise openly acquire karne ki unki inability, unhe apne khud ke money ke sath mean banayegi, jabki unki desires aur secret pleasures jo woh enjoy karte hain woh unhe doosre logon ke money ke sath extravagant banayenge. Woh law se bhaag jaayenge jaise children apne father se bhaagte hain, kyunki unki education conviction ka maamla nahi rahi hogi, balki force dwara unpar imposed kuch. Yeh turn mein true Muse, argument aur philosophy ki Muse ko neglect karne ka result hai, aur arts mein education ke muqable physical education par ek higher value set karne ka [c].’
+
+‘Yeh certainly ek mixed regime hai jise aap describe kar rahe hain – partly bad aur partly good.’
+
+‘Haan, yeh ek mixture hai,’ maine kaha. ‘Lekin iske paas ek striking characteristic hai, jo spirited element ke dominance se aati hai. Love of victory and honour.’
+
+‘Absolutely.’
+
+‘Is regime ke liye itna hi, phir. Yeh waisa hai jaise yeh astitva mein aaya hoga, aur yeh waisa hai jaisa yeh hoga [d]. Yeh regime ka bas ek outline sketch hai, details ko fill in kiye bina, lekin ek sketch bhi humein completely just man aur completely unjust man ka ek kaafi achha picture dega. Har regime aur har character ko bina kisi cheez ko chhode describe karna ek impossibly long task hai.’
+
+‘Quite right,’ usne kaha.
+
+‘Well, phir, is regime ke corresponding man kaun hai? Woh astitva mein kaise aaya, aur woh kaisa hai?’
+
+Aur Adeimantus ne reply kiya, ‘Jab love of victory ki baat aati hai, mujhe lagta hai woh yahan Glaucon ke kaafi close hai.’
+
+‘Maybe woh hai,’ maine kaha, ‘jahan tak woh jata hai. Lekin kuch ways hain jinme mujhe lagta hai uska nature different hai [e].’
+
+‘Woh kaun se ways hain?’
+
+‘Use zyada self-willed hona padega, aur arts mein kam education ke sath, yadyapi abhi bhi unka ek lover [549]. Speeches ko sunne mein interested, lekin koi speaker nahi. Woh un logon mein se ek hoga jo apne slaves par hard hain, is jisa man, kyunki woh us superiority ko feel nahi karta jo truly educated man apne slaves ke prati feel karta hai. Woh free men ke prati courteous hoga, aur uska love of power and success use authority mein logon ke prati extremely deferential banayega. Woh ek avid hunter hai aur physical exercise se love karta hai, aur woh rule karne ke entitled feel karta hai isliye nahi jo woh kehta hai, ya us jaisa kuch, balki apne warlike deeds aur war mein achievements ke kaaran.’
+
+‘Haan, kyunki yeh us regime ka character hai.’
+
+‘Jahan tak money ka sawaal hai,’ maine kaha, ‘is jisa koi apni youth mein use despise karega, lekin woh jitna older hota jayega, utna hi zyada uska fond banta jayega [b]. Yeh isliye hai kyunki woh money-loving temperament mein share karta hai, aur purely virtue ki taraf directed nahi hai, kyunki usne finest of all guardians par miss out kar diya hai.’
+
+‘Woh kaun sa guardian hai?’ Adeimantus ne poocha.
+
+‘Reason, musical aur artistic education ke sath blended. Reason akeli cheez hai jo ek baar jab yeh ek man mein paida hoti hai, toh uski poori life mein virtue ke protector ke roop mein uske sath rehti hai.’
+
+‘Aap right hain.’
+
+‘Well,’ maine kaha, ‘timocratic man apni youth mein undoubtedly waisa hi hota hai. Woh timocratic city ke kaafi similar hai.’
+
+‘Absolutely.’
+
+‘Jis tareeqe se woh astitva mein aata hai woh kuch is tarah hai [c]. Aapko kabhi-kabhi ek good man ka young son milta hai jo ek badly governed state mein rehta hai. Father success, public office, lawcourts, aur us sabhi kind ke minding other people’s business se avoid karta hai. Woh ek quiet life ke interests mein, apne due se kam par settle hone ke liye taiyar hai.’
+
+‘Son timocratic kaise banta hai, phir?’
+
+‘Yeh tab hota hai jab woh apni mother ko apne husband ke ruling group mein se ek na hone ke baare mein complain karte hue sunna shuru karta hai, aur iske consequence mein, doosri women se us respect ko receive karne mein uski apni failure jiska woh entitled hai [d]. Woh dekh sakti hai ki uska husband money par particularly keen nahi hai, ki woh fight nahi karta, woh argumentative nahi hai – chahe lawcourts mein ek private citizen ke roop mein, ya public life mein – ki woh is sabhi kind ki cheez ke prati indifferent hai. Woh notice karti hai ki uska attention constantly khud ki taraf directed rehta hai, jabki uske liye woh na toh marked respect feel karta hai aur na hi marked disrespect. Boy use in sabhi counts par complain karte hue sunta hai, aur yeh kehte hue ki uska father ek coward hai, bahut zyada easy-going, aur baaki sab kuch [e]. Aap us kind ki litany jaante hain jise women in occasions par recite karne ke prati jhukti hain.’
+
+‘Main indeed jaanta hoon,’ Adeimantus ne kaha. ‘Yeh ek lambi litany hai, aur all too typical.’
+
+‘Aur aap yeh bhi aware hain,’ maine kaha, ‘ki in jise men ke servants bhi, supposedly loyal servants, kabhi-kabhi father ke peeche son se is kind ki cheez kahenge. Agar woh kisi ko father par money owe karte hue dekhte hain, ya uske sath koi doosra wrong karte hue, aur father use prosecute nahi kar raha hai, toh woh son se kehte hain ki use bada hone par in sabhi kinds ke logon par apna get back lena chahiye, aur apne father se zyada of a man banna chahiye [550]. Jab woh baahar jata hai, toh woh same kind ki cheez ko aur sunta aur dekhta hai. Jo log city mein apne kaam se kaam rakhte hain unhe simpletons kaha jata hai, aur little account ka regard kiya jata hai, jabki jo log apne kaam se kaam nahi rakhte unhe respect aur admire kiya jata hai. Young man constantly is kind ki cheez ko sun raha hai aur dekh raha hai, lekin same time par woh use sunta hai jo uska father kehta hai. Woh uske way of life ko close to observe kar sakta hai, aur doosre logon ke way of life ke sath compare kar sakta hai [b]. Us point par woh dono ke beech torn ho jata hai, uska father uski soul mein rational element ko feed karte hue, aur ise grow karwate hue, jabki doosre desiring aur spirited elements ko feed karte hain. Kyunki woh naturally bad man nahi hai, balki us bad company se influenced hai jise woh keep karta hai, woh in do extremes ke beech torn ho jata hai, aur middle mein kahin finish up hota hai. Woh compromise candidate ko, competitive aur spirited element ko power hand over kar deta hai, aur is tareeqe se arrogant aur ambitious ban jata hai.’
+
+‘Haan, main us explanation ke sath happy hoon jis tareeqe se yeh man astitva mein aata hai.’
+
+‘Us case mein,’ maine kaha, ‘hamare paas hamara second regime aur hamara second individual dono hain [c].’
+
+‘Haan, hamare paas hain.’
+
+‘Kya humein aage badhna chahiye, phir, Aeschylus se apologies ke sath, “another man before another state” par?
+12
+Ya kya hum balki, apne original plan par stick karte hue, pehle state se deal karenge?’
+
+‘By all means,’ usne kaha.
+
+‘Main imagine karta hoon ki humne abhi jise describe kiya hai uske baad agla regime oligarchy hoga.’
+
+‘Aur oligarchy se aapka political organisation ka kaun sa form matlab hai?’
+
+‘Property qualifications par based regime,’ maine kaha [d]. ‘Woh jahan rich rule karte hain, aur ek poor man power se excluded hota hai.’
+
+‘Main samajhta hoon.’
+
+‘Kya humein explain karna hai ki timarchy se oligarchy mein change pehle kaise take place karta hai?’
+
+‘Haan.’
+
+‘Mind you,’ maine kaha, ‘ek blind man bhi dekh sakta tha ki yeh kaise hota hai.’
+
+‘Yeh kaise hota hai?’
+
+‘Regime jise humne describe kiya woh gold se bhare strongroom dwara destroy ho jata hai jise har man possess karta hai. Woh apne liye extravagances invent karke shuruat karte hain, aur phir woh laws ko us direction mein bend karte hain, kyunki na toh woh aur na hi unki wives unhe obey karne ke liye taiyar hoti hain [e].’
+
+‘Woh likely enough hai.’
+
+‘Agla step, main suppose karta hoon, unke liye ek doosre ko eye karna aur ek doosre ke sath compete karna shuru karna raha hoga, aur is tareeqe se woh poori population ko apne level par reduce kar denge.’
+
+‘Very likely.’
+
+‘Uske baad, presumably, woh money make karne mein aur bhi aage involved ho jaayenge. Aur jitni higher value woh uspar rakhenge, utni hi lower value woh virtue par rakhenge. Kya virtue is tareeqe se hamesha wealth ke sath odds par nahi hoti? Jaise ki woh ek balance ke do scales mein hon, hamesha opposite directions mein move karne ki koshish karte hue?’
+
+‘Exactly,’ usne kaha.
+
+‘Aur jaise wealth aur wealthy ko ek city mein zyada value kiya jata hai, waise hi goodness aur good ko kam value kiya jata hai [551].’
+
+‘Obviously.’
+
+‘Jo kisi particular time par value kiya jata hai woh common practice ban jata hai. Jo value nahi kiya jata use neglect kiya jata hai.’
+
+‘Haan.’
+
+‘Eventually, phir, woh competitive aur ambitious hona stop kar dete hain, aur mercenary aur money-loving ban jaate hain. Woh rich man ko praise aur admire karte hain, aur use power ki positions mein admit karte hain. Poor man ko woh contempt ke sath treat karte hain.’
+
+‘Absolutely.’
+
+‘Us point par woh oligarchic regime ko define karne wala ek law pass karte hain [b]. Woh ek wealth qualification establish karte hain – ek extreme oligarchy mein larger, ek moderate oligarchy mein smaller – aur declare karte hain ki jo koi bhi property prescribed value tak nahi pahonchti use government se debar kiya jata hai. Ya toh woh ise arms ke force dwara effect mein daalte hain, ya phir unhone is kind ke regime ko pehle intimidation dwara establish kar liya hota hai. Kya yeh waise nahi kiya jata?’
+
+‘Yeh hai.’
+
+‘Toh woh, kam ya zyada, hai kaise yeh established ho jata hai.’
+
+‘Haan,’ usne kaha. ‘Lekin is regime ke characteristics kya hain? Aur kis kind ke faults hain jinhe humne kaha tha ki yeh possess karta hai [c]?’
+
+‘Well,’ maine kaha, ‘pehla fault yahi cheez hai jo iske nature ko define karti hai. Sochein ki kaisa hoga agar aap ships ke captains ko is tareeqe se appoint karein, ek property qualification ke basis par, aur ek poor man ko command dene se inkaar karein bhale hi woh behtar qualified ho.’
+
+‘Mujhe lagta hai yeh ek sorry voyage hoga jise woh khud ko banate hue paayenge,’ usne kaha.
+
+‘Aur same kisi bhi cheez par command ki kisi bhi position ke sath?’
+
+‘Woh certainly meri opinion hai.’
+
+‘Ek city ke exception ke sath? Ya ek city ko include karte hue?’
+
+‘Yeh especially ek city ke baare mein true hai,’ usne kaha, ‘kyunki jo responsibility ek city laati hai woh sabse greatest aur most demanding hai.’
+
+‘Yeh ek bada failing hoga, phir, jo oligarchy dwara possessed hai [d].’
+
+‘Aisa lagta hai.’
+
+‘Iske second failing ke baare mein kya? Kya woh thoda sa bhi kam serious hai?’
+
+‘Yeh second failing kya hoga?’
+
+‘Ki is kind ka city do cities hone ke liye bound hai, one nahi: poor ka ek city aur rich ka ek city, same place mein rehte hue, lekin constantly ek doosre ke khilaf scheming karte hue.’
+
+‘Woh, god knows, pehle jitna hi bada failing hai.’
+
+‘Na hi yeh koi bada recommendation hai ki unke kisi bhi kind ki war ladne ke capable hone ki kam sambhavna hai. Unhe necessarily ya toh apne common people ko arm karna hoga aur unhe use karna hoga, which case mein woh unse enemy se zyada darenge, ya phir unhe use nahi karna hoga, aur actual fighting aane par khud ko true oligarchs show karna hoga, apni command ke tehat few ke sath [e].
+13
+Isse bhi zyada, unka love of money unhe war ki cost mein contribute karne ke liye reluctant banata hai.’
+
+‘Nahi, woh koi bada recommendation nahi hai.’
+
+‘Us criticism ke baare mein kya jo humne kuch samay pehle ki thi,
+14
+ki is kind ke regime mein same log farmers, businessmen aur soldiers same time par hote hain – ki woh jacks of all trades aur masters of none hote hain [552]? Kya aap sochte hain ki cheezon ka is tarah hona right hai?’
+
+‘Not in the least.’
+
+‘Aapko khud se poochhna chahiye, halanki, agar yeh city in sabhi se bade ek evil ko introduce karne wala pehla city nahi hai.’
+
+‘Woh kaun sa evil hai?’
+
+‘Ek person ko apni saari property sell karne se, aur ek second person ko ise acquire karne se rokne ke liye kuch nahi hai.
+15
+First person ko apni property sell karne ke baad bhi city mein rehne se rokne ke liye kuch nahi hai, bina un elements mein se ek hue jo city ko banate hain. Woh na toh businessman hai na skilled worker, na cavalryman na infantryman
+16
+– bas ek poor man, jise woh bina means ka man kehte hain [b].’
+
+‘Haan,’ usne kaha, ‘yeh city is evil ko introduce karne wala pehla hai.’
+
+‘Certainly oligarchical regimes wale cities mein is kind ki cheez ko kisi bhi tareeqe se prohibit nahi kiya jata hai. Agar kiya jata, toh aapko logon ka ek group nahi milta jo bahut rich hai, aur baaki complete poverty mein rehta hua.’
+
+‘That’s right.’
+
+‘Aur yahan ek aur question hai jise aap khud se poochh sakte hain. Us point par jahan is jisa koi rich tha, aur apna saara money spend kar raha tha, kya woh us samay bhi city ke liye un purposes ke liye koi use tha jinake baare mein hum baat kar rahe the? Ya kya yeh ek illusion tha, uska rulers mein se ek hona? Kya woh truth mein na toh ek ruler tha aur na hi city ka servant, balki merely ek spendthrift?’
+
+‘Haan,’ usne kaha, ‘yeh ek illusion tha [c]. Woh ek spendthrift se zyada kuch nahi tha.’
+
+‘Kya aap chahte hain ki hum kahein, phir, ki jaise ek cell mein born ek drone hive par ek blight hota hai, waise hi is jisa man ek household mein drone ke roop mein born hota hai, aur city par ek blight hai?’
+
+‘By all means, Socrates.’
+
+‘Well, phir, Adeimantus, kya aisa hai ki god ne drone ki winged variety ko sabhi stingless banaya hai, jabki in two-legged drones mein se kuch stingless hain, lekin doosron ke paas bahut nasty stings hain [d]? Kya woh jo apni old age mein beggars ke roop mein finish up hote hain stingless class se aate hain, aur woh sabhi jinhe criminals label kiya jata hai stings wali class se aate hain?’
+
+‘Haan, woh true hai,’ usne kaha.
+
+‘Yeh obvious hai, phir, ki city mein jahan kahin bhi aap beggars dekhte hain, wahan aap thieves, pickpockets, temples ke robbers, aur in sabhi sorts ke malefactors ka ek secret nest paane ki expect kar sakte hain.’
+
+‘Haan, woh obvious hai.’
+
+‘Aur kya aap oligarchic regimes wale cities mein beggars nahi paate?’
+
+‘Haan. Rulers ke alawa practically poori population.’
+
+‘Kya hum is conclusion ko avoid kar sakte hain, phir, ki in cities mein stings wale criminals ki ek badi number hai, aur ki authorities systematically aur forcibly unhe control mein rakhti hain [e]?’
+
+‘Nahi, hum nahi kar sakte,’ usne kaha.
+
+‘Aur kya hum yeh nahi keh sakte ki wahan is jise logon ke astitva mein aane ka cause education ki kami hai, poor upbringing aur constitutional arrangements ke sath?’
+
+‘Haan, hum keh sakte hain.’
+
+‘Well, oligarchic city roughly waisa hi hoga. Aur woh woh evils hain jo isme contain honge – plus kuch doosre besides, perhaps.’
+
+‘Haan, yeh lagbhag wahi hai [553].’
+
+‘Toh woh ek aur regime hai jise hum dealt with regard kar sakte hain – woh jise oligarchic ke roop mein jaana jata hai, jiske rulers ek property qualification ke basis par choose kiye jaate hain. Aayein next us man ko dekhein jo ise resemble karta hai – woh kaise astitva mein aata hai, aur jab woh aata hai toh kaisa hota hai.’
+
+‘By all means,’ usne kaha.
+
+‘Kya timocratic character se oligarchic mein change kam ya zyada is tarah take place nahi karta?’
+
+‘Kis tarah?’
+
+‘Uske paas ek son hota hai, jo apne father ke achievements ko emulate karke aur uske footsteps mein follow karke shuru karta hai [b]. Lekin phir ek din woh use achanak city ke foul fall hote hue dekhta hai, ek ship ke reef strike karne ki tarah. Woh apne father ki saari possessions ko, aur yahan tak ki uski life ko bhi, waves ke upar spilled out dekhta hai. Woh general raha ho sakta hai, ya koi doosra high office hold kiya ho, lekin phir lawcourts mein dragged kiya gaya ho, aur informers ke evidence dwara injured hua ho. Use death par put kiya gaya ho sakta hai, exiled ya disfranchised, aur jo kuch uske paas tha woh sab kho diya ho . . .’
+17
+
+‘More than likely,’ usne kaha.
+
+‘Jab son ise dekhta hai, mere dost, jab woh iske through jeeta hai, aur jo kuch woh possess karta hai use lose kar deta hai, toh woh fear dwara grip kiya jata hai, main imagine karta hoon. Woh promptly honour ke love aur us spirited element ko jiske baare mein hum baat kar rahe the apni soul mein unke throne se headlong tumble kar deta hai [c]. Poverty dwara demeaned hokar, woh money banane ki taraf turn karta hai. Greedily aur gradually woh save karta hai aur work karta hai, aur is tarah wealth amass karta hai. Agla step, kya aap nahi sochte, is jise kisi ke liye, desiring aur avaricious element ko enthrone karna hai, aur use apni soul ke andar great king ke roop mein crown karna hai, use chains aur ceremonial swords aur tiaras ke sath gird karte hue?’
+18
+
+‘Haan,’ usne kaha.
+
+‘Jahan tak soul ke rational aur spirited parts ka sawaal hai, woh unhe ground par baithata hai, desiring element ke neeche har side par ek, unhe slavery mein reduce karte hue [d]. Rational part ko woh calculation ya inquiry ke sabhi subjects se ban kar deta hai un ways ke alawa jinse thode money ko lot mein turn kiya ja sake, jabki akeli cheezein jinhe woh spirited part ko admire aur respect karne deta hai woh wealth aur wealthy log hain. Akeli cheez jispar yeh pride le sakti hai woh money ka acquisition hai, ya koi aisi cheez jo is end mein contribute karti hai.’
+
+‘Ek ambitious young man ko ek avaricious man mein badalne ka isse swifter ya surer koi rasta nahi hai.’
+
+‘Aur kya yeh oligarchic type hai [e]?’ maine poocha.
+
+‘Well, woh certainly us kind ke man se develop hota hai jo us regime ke kaafi similar hai jisse oligarchy develop hui thi.’
+
+‘Aayein dekhein, phir, ki kya woh oligarchic regime ke jaisa hoga [554].’
+
+‘Haan, aayein dekhein.’
+
+‘Aur kya similarity ka pehla point uska money ko supreme importance ka regard karna nahi hoga?’
+
+‘Haan, naturally.’
+
+‘Aur of course uska ek toiler hona, har penny count karte hue, jo apni desires mein se sirf sabse pressing aur necessary ko satisfy karta hai, kisi doosri cheez par money spend karne se inkaar karta hai, aur apni baaki sabhi desires ko subjection mein rakhta hai, kyunki woh unhe idle regard karta hai.’
+
+‘Absolutely.’
+
+‘Ek sordid little fellow,’ maine kaha, ‘har cheez ko apne advantage mein turn karne ke liye dekhta hua [b]. Ek miser. Aur yahi hai jise zyadatar log admire karte hain. Kya yeh woh man nahi hoga jo is regime ke jaisa hai?’
+
+‘Haan,’ usne kaha, ‘agar aap mujhse poochhein toh woh certainly hoga. Aur certainly money ultimate value hai dono is city ke liye aur us person ke liye jo iske jaisa hai.’
+
+‘Aur reason, main ise leta hoon, yeh hai ki is kind ke person ne kabhi khud ko apni education par apply nahi kiya.’
+
+‘Mujhe nahi lagta ki usne kiya hoga. Warna usne khud ke liye ek blind chorus-leader nahi chuna hota, aur use itne respect ke sath treat nahi kiya hota.’
+19
+
+‘Good,’ maine kaha. ‘Ab, agla question. Kya hum uske baare mein keh sakte hain ki uski education ki kami use drone-like desires deti hai – kuch beggarly, kuch vicious – lekin ki woh uski habitual cautiousness dwara forcibly suppress ki jaati hain [c]?’
+
+‘Certainly hum keh sakte hain.’
+
+‘Toh kya aap jaan-na chahte hain ki in logon ke crimes ke liye look karne ki sabse achhi jagah kahan hai?’ maine poocha.
+
+‘Kahan?’
+
+‘Jab woh orphans ke guardians hote hain, ya us kind ki kisi situation mein jahan woh paate hain ki unke paas unjustly behave karne ke liye ek free hand hai.’
+
+‘True.’
+
+‘Kya yeh ek clear indication nahi hai ki jab is kind ke person ke paas uske zyadatar business dealings mein ek good reputation hoti hai, aur use generally ek just man regard kiya jata hai, toh woh khud mein kuch decent use kar raha hota hai doosri, evil desires ko force dwara suppress karne ke liye jinhe woh possess karta hai [d]? Woh unhe persuade nahi karta ki jo woh chahti hain woh galat hai, ya reason ko ek civilising influence ke roop mein use nahi karta. Woh compulsion aur fear ka use karta hai, kyunki woh apne baaki fortune ko lose karne se darta hai.’
+
+‘Exactly,’ usne kaha.
+
+‘Yadyapi god knows, mere dost, jab doosre logon ke money ko spend karne ka question hota hai, toh aap paayenge tab ki unmein se zyadatar drone-like desires possess karte hain.’
+
+‘Aur us par strong desires.’
+
+‘Which case mein, is sort ka koi person apne andar conflict se free nahi hoga [e]. Woh do individuals hai, one nahi, yadyapi for the most part uski better desires ke paas uski worse desires par upper hand hota hai.’
+
+‘That’s right.’
+
+‘Woh, mujhe lagta hai, reason hai kyun is sort ka koi person ek comparatively good impression banata hai. Lekin woh harmonious aur well-tuned soul ke true excellence se ek far cry hai.’
+
+‘Main agree karta hoon.’
+
+‘Aur of course, public life mein kisi bhi prize ke liye, ya kisi doosre highly regarded distinction ke liye, penny-pincher, ek individual ke roop mein, ek poor competitor hai [555]. Woh reputation ya is kind ki success ke cause mein money spend karne se inkaar karta hai, kyunki woh apni extravagant desires ko awaken karne aur compete karne ke liye unke sath alliance mein enter karne se frightened hota hai. Woh fray mein apna sirf ek chhota part laata hai, slender resources ke sath fight karte hue, oligarchically.
+20
+Toh woh generally lose karta hai – aur rich bana rehta hai.’
+
+‘Exactly.’
+
+‘Kya yeh humein kisi shak mein chhodta hai, phir,’ maine poocha, ‘ki agar hum similarity ke baare mein poochh rahe hain, toh penny-pinching aur money-loving man usi class mein hai jismein oligarchic city hai?’
+
+‘Nahi, yeh nahi chhodta [b].’
+
+‘Democracy, phir, hamara agla object of enquiry lagti hai – yeh kaise arise hoti hai, aur jab yeh arise hoti hai toh kaisi hoti hai. Phir hum democratic man ke character ko uske turn mein recognise kar sakte hain, aur use appraisal ke liye aage la sakte hain.’
+
+‘Haan, agar hum consistent rehna chahte hain, toh woh right approach hoga.’
+
+‘Very well,’ maine kaha. ‘Kya jis tareeqe se ek city oligarchy se democracy mein change hota hai woh kuch is tarah nahi hai? Kya yeh us ideal ko pursue karne mein unki greed ka result nahi hai jise unhone apne liye set kiya hai – jitna ho sake utna rich banne ki requirement?’
+
+‘Aapka kya matlab hai?’
+
+‘Well, isme rulers ke rulers hone ka reason, main ise leta hoon, unki great wealth ke kaaran hai [c]. Toh agar young mein se koi bina self-restraint ke turn out hota hai, toh rulers, predictably, unhe ek aise law dwara restrain karne ke liye taiyar nahi hote jo unhe apna owned spend karne se, aur use poora lose karne se prohibit karta ho. Unka aim is jise logon ki property ko buy up karna hota hai, ya unhe property ko security ke roop mein rakhkar money lend karna hota hai, aur is tareeqe se aur bhi richer aur zyada highly respected banna hota hai.’
+
+‘Haan, wahi unka overriding aim hai.’
+
+‘Aur kya yeh ab tak obvious nahi hai ki ek city mein wealth ke liye ek high regard citizens ke part par self-discipline ke possession ke sath incompatible hai [d]? Woh inevitably ek ya doosre mein interest lose karenge.’
+
+‘Haan, woh reasonably clear hai,’ usne kaha.
+
+‘Toh negligence ke zariya, aur consistent licence ke zariya jo woh well-born individuals ko bina restraint ke behave karne ke liye dete hain, oligarchies mein rulers kabhi-kabhi unhe poverty mein drive kar sakte hain.’
+
+‘Woh certainly kar sakte hain.’
+
+‘Aur yeh log, main ise leta hoon, city mein armed sit around karte hain – debt mein, ya disfranchised,
+21
+ya dono. Woh stings wale drones hain. Revolution ke liye eager, woh un logon se hate karte hain aur unke khilaf plot karte hain jo ab unki property possess karte hain, aur unke jise doosron ke khilaf.’
+
+‘True [e].’
+
+‘Money-makers, ground par fixed apni eyes ke sath, unhe na dekhne ka pretend karte hain. Aur woh apne money ke poison ko doosre citizens mein se kisi mein inject karte hain jo koi resistance offer nahi karte, apne liye interest mein originally lent sum se kai guna gain karte hue [556]. Is tareeqe se woh city mein drones aur beggars ki ek badi class create karte hain.’
+
+‘Haan, iska large hona bound hai,’ usne kaha.
+
+‘Jaise discontent ke flames hold lena shuru karte hain, woh unhe put out karne se inkaar karte hain ya toh first way mein, logon ko apni possessions ko dispose karne se forbid karke jaise woh wish karte hain, ya dobara ek different way mein, ek second law ka use karke jo is kind ki cheez ko hone se stop kar sakta hai.’
+
+‘Woh kaun sa law hai?’
+
+‘Well, yeh us first wale ke baad next best hai jiska maine mention kiya tha. Aur yeh citizens ko virtue ke prati kuch regard pay karne par compel karta hai. Agar aapke paas ek law hai ki voluntary agreements ko generally har party ke apne risk par enter kiya jana chahiye, toh city mein kam shameless money-making hogi, aur us kind ke kam dangers jinake baare mein humne abhi baat ki hai wahan arise honge [b].’
+
+‘Far fewer,’ usne kaha.
+
+‘Jaisa ki yeh hai, un sabhi reasons ke liye jo humne diye hain, rulers city mein subjects ko us tareeqe se treat karte hain jise maine describe kiya hai. Jahan tak unka khud ka aur unki families ka sawaal hai, kya woh apne children ko luxurious hone ke liye bring up nahi karte, physical aur mental exertion dono ke equally incapable, weak jab pleasure ya pain ko resist karne ki baat aati hai, aur lazy [c]?’
+
+‘Of course woh karte hain.’
+
+‘Kya unhone khud money banane ke alawa har cheez mein interest lose nahi kar diya hai? Kya unhone virtue aur excellence par poor ke muqable thoda sa bhi zyada attention pay kiya hai?’
+
+‘Nahi, unhone nahi kiya.’
+
+‘Is background ke sath, aap kya sochte hain kya hota hai jab rulers aur ruled close contact mein aate hain, ek journey par, perhaps, ya kisi doosri joint activity mein – ek embassy ya military expedition, ya same ship mein sail karte hue, ya fellow-soldiers ke roop mein? Ya jab woh danger ke actual moment mein ek doosre ko watch karte hain, aur poor paate hain ki yahan kam se kam unhe rich dwara look down nahi kiya jata? In fact yeh aksar hota hai ki ek poor man, lean aur sunburnt, battle mein ek aise rich man ke alongside station hota hai jiska shade mein ek comfortable upbringing raha hai, aur jo superfluous flesh ki ek achhi matra carry kar raha hai [d]. Jab woh use wheezing aur struggling karte hue dekhta hai, kya aap nahi suppose karte ki woh is fact ke liye apni cowardice ko blame karta hai ki is jise log rich hain [e]? Kya woh ek doosre ko egg on nahi karte jab woh akele mein ek sath hote hain? “Woh hamare pluck karne ke liye hain,” woh kehte hain. “Unme kuch nahi hai.”’
+
+‘Haan,’ usne kaha. ‘Speaking for myself, mujhe poora yakin hai ki wahi unka reaction hota hai.’
+
+‘Yeh ek unhealthy body ki tarah hai. Actual illness ki taraf balance ko tip karne ke liye ise sirf ek trivial external cause lagta hai. Ya body kabhi-kabhi bina kisi outside intervention ke bhi khud ke sath war mein aa sakti hai. Yeh bilkul ek city ke sath same hai. Ek unhealthy city ko ill banne ke liye, aur khud ke khilaf fighting shuru karne ke liye sirf slightest pretext ki zaroorat hoti hai – ek side ka outside help ke liye ek oligarchy ko appeal karna, ya doosri side ka ek democracy ko [557]. Kya yeh kabhi-kabhi bina kisi outside intervention ke bhi khud ke sath war mein nahi ho sakti?’
+
+‘Yeh ho sakti hai. Ferociously.’
+
+‘Aur presumably yeh democracy mein turn ho jaati hai jab poor victorious hote hain, jab woh apne opponents mein se kuch ko maar dete hain aur doosron ko exile mein bhej dete hain, constitution aur public office mein un logon ko ek equal share dete hain jo bache rehte hain, aur jab city mein public office for the most part lot dwara allocate kiya jata hai.’
+
+‘Haan,’ usne kaha, ‘wahi tareeqa hai jisase democracy established hoti hai, chahe yeh force of arms dwara ho ya isliye kyunki unke opponents apni nerve lose kar dete hain aur exile mein chale jaate hain.’
+
+‘Very well, phir. Yeh log kaise rahenge? Yeh regime, apne turn mein, kaisa hoga, kyunki yeh obvious hai ki jo man ise resemble karega woh kisi sort ka democratic man prove hoga [b]?’
+22
+
+‘Haan, woh obvious hai.’
+
+‘Well, kya woh free men nahi hain, shuruat ke liye? Kya yeh freedom, aur freedom of speech se bhara city nahi hai? Kya isme kisi ke liye bhi jo kuch woh chahta hai karne ki liberty nahi hai?’
+
+‘Haan, wahi reputation iske paas hai,’ usne kaha.
+
+‘Aur jahan liberty hai, toh obviously har person city ke andar apni life ko kisi bhi aise tareeqe se arrange kar sakta hai jo use please karta hai.’
+
+‘Obviously.’
+
+‘Regimes mein sabse varied, main sochunga, jahan tak human character jata hai [c].’
+
+‘Of course.’
+
+‘Yeh probably regimes mein sabse attractive hai,’ maine kaha. ‘Kai colours ke coat ki tarah, floral decoration ki ek infinite variety ke sath, yeh regime moral decoration ki apni infinite variety ke sath eye ko catch karega. Bahut se log is regime ko most attractive judge karne ke likely hain – prettily painted objects ko dekhne wali women ya children ki tarah.’
+
+‘Indeed woh karenge.’
+
+‘Aur main aapse kehta hoon, agar aap ek particular kind ka constitution chahte hain toh yeh dekhne ke liye ek achhi jagah hai [d].’
+
+‘Kyun?’
+
+‘Kyunki yeh apne citizens ko jo liberty allow karta hai uska matlab hai ki iske andar har type ka constitution hai. Toh kisi ko bhi jo ek city found karna chahta hai, jaise hum abhi kar rahe the, probably pata chalega ki use democratic regime wale city mein jana padega, aur wahan jo political arrangements use fancy lagte hain unhe choose karna padega. Ek bazaar mein constitutions ke liye shopping karne ki tarah. Phir, jab usne apni choice bana li hai, toh woh un lines par ek city found kar sakta hai.’
+
+‘Haan,’ usne kaha, ‘uski choose karne ke liye models ki koi kami paane ki sambhavna nahi hai [e].’
+
+‘Is city mein office hold karne ke liye koi compulsion nahi hai,’ maine kaha, ‘bhale hi aap office hold karne ke liye well qualified hon, na hi unhe obey karne ke liye jo office hold karte hain, agar aap aisa feel nahi karte, na hi war par jaane ke liye jab city war par ho, na hi peace par rehne ke liye jab baaki sabhi hon, jab tak ki peace wahi na ho jo aap chahte hain. Phir dobara, bhale hi aapko office hold karne se ya jury ka member hone se rokne wala koi law ho, aapko anyway office hold karne aur jury ka member hone se rokne ke liye kuch nahi hai, agar mood aapko us tarah leta hai [558]. Kya yeh, short term mein, ek delightful aur heaven-sent way of life nahi hai?’
+
+‘Yeh probably hai, short term mein.’
+
+‘Aur courts dwara sentenced logon ke relaxed attitude ke baare mein kya? Kya yeh civilised nahi hai? Ya kya aapne kabhi aise logon ko nahi dekha jinhe is kind ke regime mein death ya exile ke liye condemn kiya gaya hai, jo nonetheless person mein remain karte hain, cheezon ke centre par hang about karte hue, aur ek departed hero ki spirit ki tarah place ko haunt karte hue,
+23
+bina kisi ke care kiye ya notice kiye?’
+
+‘Maine prachur dekhe hain,’ usne kaha.
+
+‘Phir is city ki tolerance hai [b]. Detail par koi pedantic insistence nahi, balki un cheezon ke liye ek utter contempt jinke liye humne itna respect dikhaya tha jab hum apna city found kar rahe the – hamara yeh claim ki sirf ek outstanding nature wala koi person hi kabhi ek good man ban sakta hai, aur sirf tabhi agar earliest childhood se usne best company aur right surroundings mein play kiya ho, aur sabhi right kinds ki cheezein ki hon. Kitne magnificently city is sabhi ko foot ke neeche trample karta hai, ispar koi attention pay na karte hue ki kisi ne political life mein enter karne se pehle kis kind ki life lead ki thi! Kisi ko bhi favour win karne ke liye jo kuch karna hai woh yeh kehna hai ki woh people ka friend hai [c].’
+
+‘Ah, haan, woh true nobility hai!’
+
+‘Yeh aur related qualities woh hongi jo democracy dwara possessed hain. Aap iske ek enjoyable kind of regime hone ki expect karenge – anarchic, colourful, aur equals aur unequals ko alike ek sort ki equality grant karta hua.’
+
+‘Haan, woh ek kaafi familiar story hai,’ usne kaha.
+
+‘Dekhein aur paayein, phir,’ maine kaha, ‘ki is regime ko resemble karne wala individual kaisa hai. Ya balki, kya humein pehle poochhna chahiye, jaise humne regime ke sath kiya tha, ki woh astitva mein kaise aata hai?’
+
+‘Haan.’
+
+‘Kya yeh is tarah nahi hota? Woh astitva mein aa sakta hai, main imagine karta hoon, thrifty oligarchic character ke son ke roop mein jiske baare mein hum baat kar rahe the, apne father ke direction ke tehat aur apne father ki habits ke sath bada hua [d].’
+
+‘Woh well aa sakta hai.’
+
+‘Toh woh bhi apne andar un desires ko master karne ke liye force use karega jo extravagant hain aur money-making nahi – jinhe unnecessary desires kaha jata hai.’
+
+‘Obviously,’ usne kaha.
+
+‘Kya aap chahenge ki hum necessary aur unnecessary desires ko define karke shuruat karein? Hum uske baare mein completely dark mein nahi rehna chahte jise hum discuss kar rahe hain.’
+
+‘Haan, main chahunga.’
+
+‘Very well. Kya yeh woh hain jinhe hum deny nahi kar sakte jinhe properly necessary kaha ja sakta hai – plus woh jinaka satisfaction hamara kuch good karta hai? Hamara nature demand karta hai ki hum in dono classes ko satisfy karne ki koshish karein, kya yeh nahi karta [e]?’
+
+‘Very much so.’
+
+‘Toh hum in desires ke liye “necessary” name use karne mein justified honge [559].’
+
+‘Hum honge.’
+
+‘Un desires ke baare mein kya jinse aap chhutkara pa sakte hain, agar aap childhood se ispar work karein, woh jinki presence iske alawa aapka koi good nahi karti – may even perhaps aapko kuch harm karti ho? Kya hum yeh kehne mein right nahi honge ki yeh sabhi unnecessary hain?’
+
+‘Hum honge.’
+
+‘Aayein har class ka ek example lein. Unhe grasp karna easier hota hai agar hamare paas ek pattern, ya model ho.’
+
+‘Woh ek achha idea hai.’
+
+‘Kya apni health aur well-being ke liye eat karne ki desire, sirf bread aur cooked food ke liye desire, ek necessary desire nahi hogi [b]?’
+
+‘Haan, mujhe lagta hai yeh hogi.’
+
+‘Bread ke liye desire dono counts par necessary hai. Yeh na sirf beneficial hai, balki life aur death ke beech ka difference bhi hai.’
+
+‘Haan.’
+
+‘Jabki cooked food ke liye desire necessary hai agar yeh hamari well-being mein kisi tareeqe se contribute kar sakti hai.’
+
+‘Precisely.’
+
+‘Iske upar aur pare, doosre sorts ke foods ke liye desire ke baare mein kya? Is desire ko eliminate kiya ja sakta hai, zyadatar logon mein, early childhood se discipline aur education dwara. Aur kyunki yeh body ke liye harmful hai, aur thought aur self-control ke liye soul ki capacity ke liye harmful hai, kya ise unnecessary kehna correct hoga [c]?’
+
+‘Absolutely correct.’
+
+‘Which case mein, kya hum kahenge ki yeh desires extravagant hain, jabki doosri productive hain, kyunki woh kisi function mein contribute karti hain?’
+
+‘By all means.’
+
+‘Aur hum sex, aur hamari baaki desires ke baare mein same kahenge.’
+
+‘Haan, hum kahenge.’
+
+‘Well, phir. Kya humne kaha tha ki yeh person jise hum kuch moments pehle drone keh rahe the woh tha jo is sort ke pleasures aur desires se stuffed tha, aur ki woh unnecessary pleasures aur desires dwara ruled tha? Jabki necessary desires dwara ruled person thrifty aur oligarchical tha [d]?’
+24
+
+‘Humne indeed kaha tha.’
+
+‘Aayein return karein, phir,’ maine kaha, ‘hamare account par jis tareeqe se democratic man oligarchic se astitva mein aata hai. Mujhe lagta hai yeh generally is tarah hota hai.’
+
+‘Kis tarah?’
+
+‘Imagine karein ek young man jo uneducated aur stingy way mein bring up kiya gaya hai jise humne abhi describe kiya tha, lekin jo us honey ko taste karne lagta hai jise drones enjoy karte hain, aur wild, fiery creatures ke sath apna time spend karta hai jo use har kind, hue aur variety ke pleasures offer kar sakte hain [e]. Wahi probably woh point hai jise aapko uske andar oligarchy se democracy mein change ke beginning ke roop mein regard karna chahiye.’
+
+‘Isme koi question nahi hai,’ usne kaha.
+
+‘Jaise city change hua jab ek party ne similar persuasion ke ek external ally se support receive kiya,
+25
+kya young man ab same way mein change nahi hota jab uski desires ka ek group badle mein external desires ki ek aisi class se support receive karta hai jo iske related aur similar hain?’
+
+‘Woh certainly hota hai.’
+
+‘Aur agar uske andar oligarchic element ke liye koi countervailing help aati hai – uske father se, perhaps, ya uski family ke baaki logon ke lectures aur reproaches se – main imagine karta hoon tab faction aur counter-faction arise hote hain, aur khud ke khilaf internal warfare [560].’
+
+‘Of course.’
+
+‘Kabhi-kabhi, main imagine karta hoon, democratic element oligarchic element se ground lose kar deta hai, aur uski kuch desires ya toh destroy ho jaati hain ya banish kar di jaati hain, jaise young man ki soul mein shame ka kuch sense born hota hai, aur order restore ho jata hai.’
+
+‘Haan, yeh kabhi-kabhi is tarah hota hai,’ usne kaha.
+
+‘Lekin jaise desires ka ek set banish hota hai, main imagine karta hoon doosra related set succession mein grow ho gaya hai. Father, jise koi idea nahi hai ki apne son ko kaise bring up karna hai, in desires ko numerous aur powerful banne se prevent nahi kar sakta [b].’
+
+‘Haan, wahi certainly hone ke prati jhukta hai.’
+
+‘Yeh desires, phir, young man ko pehle jaisi same company ki taraf draw karti hain, aur secret intercourse further desires ke ek mob ko breed karta hai.’
+
+‘Aur phir?’
+
+‘Finally, main imagine karta hoon, woh young man ki soul ke citadel ko seize kar leti hain, yeh ehsaas karte hue ki yeh learning, good habits aur true arguments se empty hai, jo of course gods dwara loved men ke minds mein best defenders aur guardians hain.’
+
+‘Much the best,’ usne kaha [c].
+
+‘False, seductive arguments aur opinions run up karte hain aur young man ke mind mein is stronghold ko seize kar lete hain, main expect karta hoon, true defenders ko replace karte hue.’
+
+‘Woh indeed karte hain.’
+
+‘Kya woh phir Lotus-eaters ki us land par return nahi karta, aur wahan kaafi openly residence take up nahi karta? Agar uski family se koi help uski soul ke thrifty part tak pahonchti hai, toh woh seductive arguments uske andar royal walls ke gates ko bar kar dete hain [d].
+26
+Woh na toh actual allied force ko entry allow karenge, aur na hi young man ke elders se ek private capacity mein wise words ki ek embassy ko admit karenge. Woh battle join karte hain, aur seductive arguments win karte hain. Shame ke sense ko simple-mindedness ke roop mein class kiya jata hai, rights se deprive kiya jata hai, aur exile mein drive kiya jata hai. Self-discipline ko cowardice kaha jata hai, insults se heap kiya jata hai, aur packing send kiya jata hai. Jahan tak moderation aur economy ka sawaal hai, kya seductive arguments young man ko yeh persuade nahi karte ki yeh mean aur parochial hain? Kya woh uski kai useless desires ke sath forces join nahi karte, aur in qualities ko borders ke beyond despatch nahi kar dete?’
+
+‘Absolutely.’
+
+‘Aur jab unhone kisi tarah us young man ki soul ko empty aur purge kar diya hai jise woh possession mein le rahe hain aur solemn rites ke sath initiate kar rahe hain, toh woh phir promptly insolence, anarchy, extravagance aur shamelessness ko exile se wapas laate hain, glory ke ek blaze mein, ek great retinue ke sath, aur garlands ke sath crowned [e].
+27
+Woh unki praises gaate hain, aur unke liye flattering names dhoondhte hain. Insolence sophistication ban jaati hai, anarchy freedom, extravagance generosity, aur shamelessness courage [561]. Kya yeh us tareeqe ke likely nahi hai jis tareeqe se ek young man necessary desires ke beech upbringing ko unnecessary aur useless desires ke liberation aur release ke liye exchange karta hai?’
+
+‘Haan, yeh hai,’ usne kaha. ‘Quite clearly.’
+
+‘Tab se aage, main imagine karta hoon, is sort ka ek young man apni life unnecessary desires par kam se kam utna money, effort aur time spend karte hue jeeta hai jitna necessary par. Agar woh lucky hai, toh woh apni orgy dwara bahut zyada carried away nahi ho sakta hai [b]. Jaise woh bada hota hai aur excitement ka pehla flush fade hota hai, woh us party ke kuch elements ko wapas accept kar sakta hai jise usne exile kiya tha, aur usurpers ke prati complete surrender ko avoid kar sakta hai. Apne sabhi pleasures ko ek equal footing par rakhte hue, woh moment ke pleasure ko apne upar power grant karta hai, jaise ki yeh lot dwara chosen magistrate ho. Aur jab usne iska apna fill le liya hai, toh woh turn mein khud ko ek doosre pleasure ke hawale kar deta hai. Woh unmein se kisi ko reject nahi karta, balki sabhi ko alike sustenance deta hai.’
+
+‘Woh indeed karta hai.’
+
+‘Agar koi use batata hai ki kuch pleasures fine aur good desires ka result hain, doosre evil desires ka, aur ki use pehle wale ko follow aur value karna chahiye, aur second ko punish aur subjection mein hold karna chahiye, toh woh is truth ko admit nahi karta, ya ise fortress mein allow nahi karta [c]. Woh is sort ke kisi bhi claims par apna head shake karta hai, yeh kehte hue ki sabhi desires equal hain, aur unhe equally value kiya jana chahiye.’
+
+‘Haan,’ usne kaha, ‘wahi sateek roop se hai jaisa woh feel karta hai, aur sateek roop se jaisa woh behave karta hai.’
+
+‘Aur is tarah woh moment ki desire ko gratify karte hue day to day apni life jeeta hai. Ek din woh pipes ki sound par khud ko table ke neeche drink karta hai, agle din woh plain water ke diet par hota hai [d]. Ab woh exercise le raha hai, lekin doosre times par woh lazing around kar raha hai aur kisi cheez mein interest nahi le raha hai. Aur kabhi-kabhi woh usme time pass karta hai jise woh philosophy kehta hai. Uska zyadatar time politics mein spend hota hai, jahan woh apne feet par leap karta hai aur jo kuch uske head mein aata hai kehta aur karta hai. Ya agar woh military ko admire karne lagta hai, toh wahi rasta hai jahan woh jata hai. Ya agar yeh businessmen hain, toh woh rasta. Uski life mein koi controlling order ya necessity nahi hai. Jahan tak uska sawaal hai, yeh pleasant, free aur blessed hai, aur woh apni poori life isse stick karta hai.’
+
+‘Aapne humein us man ki life ka ek excellent account diya hai jo har cheez se pehle equality ko rakhta hai [e].’
+
+‘Haan. Main ise ek variegated life maanta hoon, har sort ke characteristics se bhari hui. Yeh democratic man elegant aur colourful hai, bilkul democratic city ki tarah. Bahut se men aur women use uski life ke liye envy kar sakte hain, regimes aur characters ke un sabhi examples ke sath jo yeh apne andar contain karti hai.’
+
+‘Haan, waisa hi yeh hai,’ usne kaha.
+
+‘Very well, phir [562]. Kya is jise man ko democracy ke sath par rank kiya ja sakta hai? Kya use properly democratic kaha ja sakta hai?’
+
+‘Haan, use kaha ja sakta hai.’
+
+‘Us case mein,’ maine kaha, ‘woh humein most delightful of regimes, aur most delightful of individuals ko describe karne ke task ke sath chhodta hai. Tyranny aur tyrant.’
+
+‘Yeh certainly chhodta hai,’ usne kaha.
+
+‘Very well, mere achhe dost, tyranny khud ko kaise manifest karti hai? Ki yeh democracy se ek change hai kaafi obvious hai.’
+
+‘Haan, yeh hai.’
+
+‘Which case mein, kya tyranny badle mein democracy se usi tareeqe se arise hoti hai jaise democracy oligarchy se arise hoti hai?’
+
+‘Aapka kya matlab hai [b]?’
+
+‘Woh cheez jise unhone ek ideal ke roop mein hold kiya tha,’ maine kaha, ‘woh cheez jo oligarchy ka basis form karti thi, woh wealth thi, kya nahi thi?’
+
+‘Haan.’
+
+‘Yeh wealth ke liye insatiable longing thi, aur profit ke pursuit mein baaki har cheez ka neglect, jisne oligarchy ko destroy kiya.’
+
+‘True,’ usne kaha.
+
+‘Aur kya yeh uske liye insatiable longing hai jise yeh good ke roop mein define karti hai jo democracy ko bhi destroy karti hai, iske turn mein?’
+
+‘Aap kya kehte hain ki yeh good ke roop mein kise define karti hai?’
+
+‘Freedom,’ maine kaha [c]. ‘Yeh woh cheez hai, main imagine karta hoon, jise ek democratic state mein aap iska finest attribute describe hote hue sunenge, aur jo ise, free spirit ke kisi bhi man ke liye, rehne laayak akeli jagah banati hai.’
+
+‘Haan, woh certainly aisi cheez hai jise aap aksar kaha jaate hue sunte hain.’
+
+‘Well, phir, jaise main abhi keh raha tha, kya yeh is good ke liye insatiable longing hai, aur baaki har cheez ka neglect, jo is regime mein bhi ek change laata hai, aur tyranny ki need create karta hai?’
+
+‘Woh kaise hota hai?’ usne poocha.
+
+‘Main imagine karta hoon yeh tab hota hai jab ek democracy, freedom ki wine ke liye apni thirst mein, wine ko unscrupulous cupbearers dwara pour kiye jaate hue paati hai, aur jab yeh pure, unmixed freedom ko usse zyada deeply drink karti hai jitna ise karna chahiye [d].
+28
+Phir agar iske magistrates totally easy-going nahi hain aur ise large quantities mein woh freedom offer nahi karte hain, toh yeh unhe filthy oligarchs hone ka accuse karti hai, aur unhe punish karti hai.’
+
+‘Haan,’ usne kaha. ‘Wahi hai jo woh karte hain.’
+
+‘Jo rulers ko obey karte hain unhe insults se heap kiya jata hai. Unhe servile nonentities regard kiya jata hai. Praise aur respect, chahe private ya public life mein, rulers ko unke jaisa behave karne ke liye jaati hai jinhe woh rule karte hain, aur jinhe woh rule karte hain unhe rulers ki tarah behave karne ke liye. Kya is type ke city mein freedom ki desire extremes tak run karne ke liye bound nahi hai [e]?’
+
+‘Of course yeh hai.’
+
+‘Aur kya anarchy private households mein apna rasta banane ke liye bound nahi hai, mere dost? Jab tak ki aakhirkar yeh dumb animals ke beech appear hona shuru na ho jaye.’
+
+‘Aur hum kaise reckon karte hain ki yeh hota hai?’
+
+‘Ek father, for example, ek child ki tarah hone ka, aur apne sons se darne ka aadi ho jata hai. Ek son apne father ki tarah hone ka aadi ho jata hai. Woh apne parents ke liye koi respect ya fear feel nahi karta [563]. Woh jo kuch chahta hai woh free hona hai. Immigrants ko citizens ke sath par rakha jata hai, aur citizens ko immigrants ke sath. Aur same visiting foreigners ke sath.’
+
+‘Haan, wahi hota hai.’
+
+‘Woh, plus same kind ke kuch aur trivial examples,’ maine kaha. ‘Is sort ki society mein teachers apne pupils se darte hain aur unke sath favour curry karte hain. Pupils ke paas apne teachers aur apne attendants ke liye ek equal contempt hota hai. General mein, young apne elders ki image hain, aur unhe har us cheez mein challenge karte hain jo woh kehte aur karte hain. Old young ke level par descend karte hain [b]. Woh har cheez ko wit aur humour ke sath pepper karte hain, young ki tarah hone ki koshish karte hue, kyunki woh harsh ya dictatorial socha jana nahi chahte.’
+
+‘Precisely,’ usne kaha.
+
+‘Lekin is kind ke city mein mass-freedom ka high-water mark tab aata hai jab jinhe slaves ke roop mein khareeda gaya hai – chahe male ya female – woh har bit utne hi free hain jitne woh jinhone unhe khareeda tha. Jahan tak women ka men se aur men ka women se relationship ka sawaal hai, main unke beech legal equality aur liberty ke extent ko mention karna lagbhag bhool hi gaya tha.’
+
+‘Kya hum tab, Aeschylus se ek phrase borrow karte hue, jo kuch bhi abhi “hamare lips par aaya” use kahein [c]?’
+29
+
+‘By all means,’ maine kaha. ‘Yeh certainly wahi hai jo main karne ja raha hoon. Aap vishwās nahi karenge, khud ke liye ise dekhe bina, ki domestic animals yahan doosre cities ke muqable kitne zyada free hain. Dogs sach mein un women ki tarah hain jo unhe own karti hain, jaise proverb kehti hai. Aur horses aur donkeys total freedom ke sath streets mein wander karne ki habit mein hain, air mein noses ke sath, kisi bhi passer-by mein barge karte hue jo unke raste se baahar nikalne mein fail hota hai [d]. Yeh sab is tarah hai – sab freedom se bhara hua.’
+
+‘Logon ko unke apne dreams batane ki baat karein,’ usne kaha. ‘Mujhe city se baahar apne raste par khud aksar woh experience hua hai.’
+
+‘Generalise karne ke liye, phir, in sabhi collected observations se, kya aapne notice kiya hai ki yeh citizens ki souls ko kitna sensitive banata hai, taaki agar koi slavery ki slightest degree impose karne ki koshish karta hai, toh woh angry ho jaate hain aur ise tolerate nahi kar sakte? End mein, jaise main imagine karta hoon aap aware hain, woh laws par bhi koi notice nahi lete – written ya unwritten
+30
+– apne is determination mein ki koi bhi kisi bhi tareeqe se unpar master nahi hoga [e].’
+
+‘Haan, main isse well aware hoon,’ usne kaha.
+
+‘Yeh government ka woh form hai, mere dost, itna attractive aur itna headstrong, jisse mujhe vishwās hai tyranny born hoti hai.’
+
+‘Certainly headstrong,’ usne kaha. ‘Lekin agla step kya hai?’
+
+‘Same ailment jo oligarchy mein arise hui thi, aur usne use destroy kiya tha, is regime mein bhi arise hoti hai – sirf zyada widespread aur virulent us licence ke kaaran jo ise di jaati hai. Yahan yeh democracy ko enslave karti hai. Indeed, ek direction mein excess generally opposite direction mein ek violent reaction produce karne ke prati jhukta hai [564]. Yeh year ke seasons ke baare mein true hai, plants aur animals ke baare mein, aur particularly political regimes ke baare mein true hai.’
+
+‘Probably so,’ usne kaha.
+
+‘Haan, kyunki excessive freedom ka akela likely reaction, chahe ek individual ke liye ya ek city ke liye, excessive slavery hai.’
+
+‘Very likely.’
+
+‘Which case mein,’ maine kaha, ‘chances hain ki democracy tyranny ke origin ko paane ke liye ideal place hai – sabse harshest aur most complete slavery arise hoti hui, main guess karta hoon, sabse extreme freedom se.’
+
+‘Iska sense banta hai,’ usne kaha.
+
+‘Halanki, woh by itself aapke question ka answer nahi deta, presumably. Jo aap jaan-na chahte the woh is ailment ka nature tha jo na sirf oligarchy mein balki democracy mein bhi arise hoti hai, ise enslave karte hue [b].’
+
+‘True.’
+
+‘Very well,’ maine kaha. ‘Mera jismein dhyan tha woh idle aur extravagant men ki class thi, most courageous element lead karta hua, less courageous element follow karta hua. Humne unhe drones se compare kiya tha – leaders ko stings wale drones se, followers ko bina stings wale drones se.’
+31
+
+‘Rightly so.’
+
+‘Yeh dono classes,’ maine kaha, ‘kisi bhi regime ke balance ko disturb karti hain jismein woh arise hoti hain [c]. Body mein phlegm aur bile ki tarah.
+32
+Ek city ke liye good doctor aur lawgiver ko un dono ke khilaf apne precautions mein far-sighted hona chahiye – bilkul ek achhe beekeeper ki tarah. Uska intention, ideally, unke occurrence ko bilkul prevent karna hona chahiye. Agar woh occur hote hain, toh use yeh sunishchit karna chahiye ki unhe cut out kiya jaye, cells aur all, jitna ho sake utni jaldi.’
+
+‘Heavens, haan. Aur jitna ho sake utni completely.’
+
+‘All right, phir,’ maine kaha. ‘Humein yeh dekhne mein help karne ke liye ki hum kiske peeche hain ek zyada clear-cut way mein, aayein question ko is tarah tackle karein.’
+
+‘Kis tarah?’
+
+‘Aayein democratic city ka teen parts mein ek theoretical division karein [d]. Aakhirkar, yeh is tarah in fact composed hai. Drones ki yeh class, main imagine karta hoon, ek part hai, aur restrictions ki absence ke kaaran yeh ek democracy mein kam se kam utni hi freely grow karti hai jitni ek oligarchy mein.’
+
+‘Yeh aisa hai.’
+
+‘Lekin yeh ek democracy mein oligarchy ke muqable kahin zyada fiercer hoti hai.’
+
+‘Kis tareeqe se?’
+
+‘Ek oligarchy mein ise no value ka treat kiya jata hai, aur power se exclude kiya jata hai. Toh ise koi exercise nahi milta, aur yeh apni strength develop nahi karti. Ek democracy mein, contrast dwara, kuch individuals ko chhodkar, yeh state mein dominant influence hai. Is class mein fiercest element talking aur acting karta hai; remainder rostrum ke charon taraf buzzing karte hue baithte hain, aur kisi doosre view ke expression ko allow karne se inkaar karte hain [e]. Result yeh hota hai ki is kind ke regime mein har cheez, bahut few exceptions ke sath, drones ki class dwara run ki jaati hai.’
+
+‘Exactly,’ usne kaha.
+
+‘Phir wahan ek second class hai jo hamesha khud ko majority se separate karti hai.’
+
+‘Woh kaun si class hai?’
+
+‘Jab har koi money banane mein engaged hota hai, presumably yeh woh log hain jinke paas most disciplined temperament hota hai jo generally sabse richest bante hain.’
+
+‘Very likely.’
+
+‘Woh drones ke liye honey ka ek plentiful supply provide karte hain, main imagine karta hoon, aur ek easy source jisse ise extract kiya ja sake.’
+
+‘Haan,’ usne kaha. ‘Aakhirkar, woh unse zyada extract nahi kar sakte jinake paas zyada nahi hai.’
+
+‘Woh rich kehlaate hain, yeh log jinake baare mein hum baat kar rahe hain, drones ka feeding-ground.’
+
+‘Yeh lagbhag wahi hai,’ usne kaha.
+
+‘General populace third class hogi – manual labourers jinhe politics mein little interest hai, aur unki apni bahut little property [565]. Yeh democracy mein most numerous aur powerful class hai, lekin sirf tab jab yeh ek sath assembled hoti hai.’
+
+‘Yeh indeed hai,’ usne kaha. ‘Lekin agar ise honey ka kuch share nahi mil raha hai, toh yeh bahut aksar assemble hone ke liye reluctant hoti hai.’
+
+‘Yahi kaaran hai ki ise hamesha iska ek share milta hai, agar iske leaders ka isse kuch lena-dena hai. Woh ise un logon se take away karte hain jo property possess karte hain aur ise people ke beech distribute karte hain, sirf lion’s share apne liye rakhte hue.’
+
+‘Haan, logon ko us sort ka ek limited share milta hai,’ usne kaha [b].
+
+‘Jinaki property take away ki jaati hai unhe presumably assembly mein bolkar aur jo bhi doosra action woh le sakte hain lekar khud ko defend karne par compel kiya jata hai.’
+
+‘Of course.’
+
+‘Bhale hi unke paas revolution ke liye koi desire na ho, unpar doosron dwara people ke khilaf plotting karne aur oligarchs hone ka aarop lagaya jata hai.’
+
+‘Naturally.’
+
+‘End mein, jab woh logon ko unhe injure karne ka attempt karte hue dekhte hain – maliciously nahi, balki ignorance ke kaaran, apne opponents dwara misled hokar – us point par, chahe woh ise like karein ya nahi, rich sach mein oligarchs ban jaate hain, yadyapi choice se nahi [c]. Yeh bhi unme implant kiya gaya ek evil hai us drone ke stings dwara jiske baare mein hum baat kar rahe the.’
+
+‘Yeh indeed hai.’
+
+‘Phir aapko dono classes ke beech impeachments, litigation aur lawsuits milte hain.’
+
+‘Aap certainly paate hain.’
+
+‘Aur kya people ke liye ek universal tendency nahi hai ek single individual ko set up karne ki jo unka apna particular champion hai? Kya woh use feed up nahi karte aur use mighty nahi banate?’
+33
+
+‘Woh karte hain.’
+
+‘Toh jab hum ek tyrant ki growth ko dekhte hain,’ maine kaha, ‘ek cheez kam se kam clear hai [d]. Champion ki yeh position akeli root hai jisse tyrant spring karta hai.’
+
+‘Haan, woh absolutely clear hai.’
+
+‘Us case mein, champion se tyrant mein change ko kya prompt karta hai? Kya yeh kaafi obvious nahi hai ki yeh tab hota hai jab people ka champion Arcadia mein Zeus the wolfgod ke temple ke baare mein story ke character ki tarah act karna shuru karta hai?’
+
+‘Kaun si story?’ usne poocha.
+
+‘Ki wahan doosre sacrificial offerings ke sabhi pieces ke beech human innards ka ek piece chopped up hota hai, aur ki jo koi bhi ise taste karta hai woh inevitably ek wolf mein turn ho jayega. Ya kya aapne woh story nahi suni hai?’
+
+‘Haan, maine yeh suni hai [e].’
+
+‘Kya yeh people ke champion ke sath same nahi hai? Ek baar jab woh mob ko sach mein win over kar leta hai, toh uske kinsmen ka blood uske liye koi bar nahi hota. Woh kisi par falsely accuse karta hai, jaise aise log karte hain. Woh use trial par laata hai aur use murder karta hai, aur jaise woh ek man ki life ko rub out karta hai uska unholy mouth aur lips ek butchered kinsman ke blood ko taste karte hain [566]. Woh logon ko exile mein drive karta hai ya unhe maar deta hai, debts ke cancellation aur land ke redistribution par hint karte hue. Is jise kisi ke liye inevitable aur predestined agla step kya hai? Kya use ya toh apne enemies dwara destroy hona padega, ya phir tyrant banna padega, man se wolf mein turn hote hue?’
+
+‘Haan. Woh absolutely inevitable hai,’ usne kaha.
+
+‘Woh un logon ke khilaf civil war ka architect ban jata hai jo property own karte hain.’
+
+‘Woh banta hai.’
+
+‘Well, phir. Agar use exile mein bheja jata hai, lekin woh apne enemies ke baavjood return karta hai, kya woh ek out-and-out tyrant ke roop mein return nahi karta?’
+
+‘Haan. Obviously.’
+
+‘Aur agar uske enemies use exile mein drive karne ya use publicly attack karke maarne mein unable hote hain, toh woh use assassination dwara secretly maarne ke liye plotting shuru karte hain [b].’
+
+‘Haan, wahi certainly hone ke prati jhukta hai,’ usne kaha.
+
+‘Ispar tyrant ka response woh famous request hai jise har koi discover karta hai jo is stage par pahonchta hai. Woh people se ek personal bodyguard ke liye poochhta hai, unke people’s champion ki safety guarantee karne ke liye.’
+
+‘Indeed woh poochhta hai.’
+
+‘Aur woh use ek dete hain. Apni safety se zyada uski safety ke baare mein worried, presumably.’
+
+‘Much more [c].’
+
+‘Jab money wala ek man ise dekhta hai, ek jiske paas apne money ke addition mein people ka enemy hone ka reason hai, toh yeh man, mere dost, Croesus ke oracle ke shabdon mein,
+
+> Without delay to Hermus’ pebbled shore
+> Flees straight, nor thinks it shame to play the coward.’
+> 34
+
+‘That’s right,’ usne kaha. ‘Use certainly ise shame sochne ka second chance nahi milega.’
+
+‘Nahi. Main imagine karta hoon jise bhi woh apne hands par pa sakte hain use death par put kiya jata hai.’
+
+‘Hona bound hai.’
+
+‘Aur hamara yeh champion obviously woh nahi hone wala hai jo wahan lie kar raha ho, dust mein “apni full length measure karta hua” [d].
+35
+In sabhi doosre logon ko destroy karne ke baad, woh city ke chariot mein tall stand karega, champion se tyrant mein graduate hokar.’
+
+‘Of course,’ usne kaha. ‘Use rokne ke liye kya hai?’
+
+‘Kya hum tab is man ki aur us city ki happiness ko describe karein jahan is jisa creature astitva mein aata hai?’
+
+‘By all means aayein ise describe karein,’ usne kaha.
+
+‘Very well. Shuru karne ke liye, early days mein, kya uske paas har us person ke liye ek smile aur ek friendly word nahi hota jisse woh milta hai [e]? Woh kehta hai ki woh koi tyrant nahi hai, aur individuals aur state dono ke liye promises se bhara hota hai. Kya usne unhe unke debts se free nahi kar diya hoga, aur people ke beech aur apne supporters ke beech land divide nahi kar di hogi? Kya woh universally kind aur gentle hone ka pretend nahi karta?’
+
+‘Uska aisa karna bound hai.’
+
+‘Lekin main imagine karta hoon ki ek baar jab woh exile mein apne enemies se safe feel karta hai, kuch ke sath reconciled hokar aur doosron ko destroy karke, uska pehla concern constantly wars start karna hota hai, taaki people ko ek leader ki need bani rahe.’
+
+‘Very likely.’
+
+‘Aur perhaps is further intention ke sath ki war mein unke contributions unhe impoverish kar denge, unhe apne daily occupations par concentrate karne par compel karenge, aur unhe uske khilaf plot karne ki kam sambhavna wala banayenge [567]?’
+
+‘Undoubtedly.’
+
+‘Aur agar kuch independent-minded log hain jinpar use apne rule ko challenge karne ka shak hai, kya woh unhe enemy ke hawale karne aur unhe destroy karne ke liye ek achha excuse dhoondhne ki koshish nahi karta? In sabhi reasons ke liye, kya ek tyrant hamesha war stir up karne ke liye bound nahi hota?’
+
+‘Haan, woh hota hai.’
+
+‘Kya yeh use citizens ke beech increasingly unpopular banane ke prati jhukta nahi hai [b]?’
+
+‘Of course yeh jhukta hai.’
+
+‘Phir un logon mein se boldest jinhone use tyrant banane mein madad ki thi, aur jo ab power ki positions mein hain, freely apna mind bolna shuru karte hain, kya woh nahi karte, dono usse aur ek doosre se, jo chal raha hai use criticise karte hue?’
+
+‘Probably.’
+
+‘Toh tyrant ko, agar woh ruling jaari rakhna chahta hai, in sabhi logon ko remove karne ke liye taiyar hona chahiye, jab tak ki woh kisi ke bina na chhoot jaye jo koi use ka ho – chahe friend ya enemy.’
+
+‘Obviously use hona chahiye.’
+
+‘Use eyes ke ek sharp pair ki zaroorat hogi, phir [c]. Use brave, noble, wise aur rich ko pick out karne ki zaroorat hai, kyunki yeh uska unavoidable good fortune hai, chahe woh ise like kare ya nahi, un sabhi ka enemy hona. Use unke downfall ko plot karna chahiye, jab tak ki usne city ko clean na kar liya ho.’
+
+‘Ek city ko clean karne ka ek fine way,’ usne kaha.
+
+‘Haan. Sateek roop se uska opposite jo doctors body ke sath karte hain. Woh use remove karte hain jo worst hai, aur use chhodte hain jo best hai. Tyrant ke sath yeh doosre way round hota hai.’
+
+‘Wahi hai jo use karna hai, apparently, agar use ruling jaari rakhna hai.’
+
+‘Which case mein,’ maine kaha, ‘woh ek delightful dilemma ke horns par firmly aur inevitably impaled hai, jo use require karta hai ya toh worthless mob ke sath apni life spend karna – aur bargain mein unke dwara hated hona – ya bilkul na jeena [d].’
+
+‘Yeh lagbhag iska size hai,’ usne kaha.
+
+‘Aur uska behaviour use citizens dwara jitna zyada hated banata hai, use utne hi larger aur more reliable bodyguard ki zaroorat hogi, kya use nahi hogi?’
+
+‘Of course.’
+
+‘Yeh reliable log kaun hain, phir? Woh unke liye kahan send kar sakta hai?’
+
+‘Woh apne accord se winging karte hue aayenge,’ usne kaha. ‘Unki koi bhi number, jab tak woh going rate pay karta hai.’
+
+‘Ye dogs!
+36
+Drones dobara! Foreign ones, unki sabhi kinds, mujhe lagta hai aap baat kar rahe hain [e].’
+37
+
+‘Good. Maine aapko galat impression nahi diya hai, phir.’
+
+‘Aur city itself se? Kya woh khud ko la sakta hai . . .’
+
+‘Kya karne ke liye?’
+
+‘Citizens ko unke slaves se deprive karne ke liye, slaves ko free set karne ke liye, aur unhe apni bodyguard ka part banane ke liye?’
+
+‘Indeed woh la sakta hai. Woh, aakhirkar, most reliable log hain jinhe woh pa sakta hai.’
+
+‘Aap ek tyrant ko kitni wonderful cheez bana dete hain,’ maine kaha, ‘agar yeh woh log hain jo uske paas uske friends ke roop mein hain, woh log jinpar woh trust kar sakta hai, ek baar jab usne un friends ko destroy kar diya hai jinse usne shuruat ki thi [568].’
+
+‘Well, yeh certainly us kind ke friends hain jo uske paas hain.’
+
+‘Toh jabki woh in friends ke admiration ko enjoy karta hai, aur in naye citizens ki company ko, kya decent log use hate karte hain aur use avoid karte hain?’
+
+‘Woh aisa karne se kaise bach sakte hain?’
+
+‘Yeh koi wonder nahi hai,’ maine kaha, ‘ki tragedy in general, aur Euripides in particular, ke paas wisdom ke liye aisi reputation hai.’
+
+‘Kyun?’
+
+‘Kyunki doosre insight-filled utterances ke beech usne yeh produce kiya: “A tyrant’s wisdom comes from wise companions [b].”
+38
+Clearly yeh tyrant ke yahi associates the jinhe woh wise ke roop mein refer kar raha tha.’
+
+‘Haan,’ usne kaha. ‘Aur Euripides tyranny ko “godlike” ke roop mein bhi praise karta hai
+39
+– aur ek poora lot doosri cheezon ke alawa. Aur sirf Euripides nahi – doosre poets bhi.’
+
+‘Yahi kaaran hai ki tragedies ke writers, itne wise hone ke naate, humein aur hamare jise regimes walon ko forgive karenge, agar hum unhe apne state mein accept karne se inkaar karte hain in grounds par ki woh tyranny ke apologists hain.’
+
+‘Well, agar aap meri opinion chahte hain,’ usne kaha, ‘woh humein forgive karenge. Ya unmein se more civilised wale karenge, kisi bhi rate par.’
+
+‘Woh doosre cities ko tour kar sakte hain, presumably, badi crowds draw karte hue aur fine, loud, persuasive voices wale actors hire karte hue, aur is tarah un states ko tyranny aur democracy mein seduce karte hue [c].’
+
+‘Woh certainly kar sakte hain.’
+
+‘Isse bhi zyada, unhe iske liye pay kiya jata hai, aur respect ke sath treat kiya jata hai. Pehle aur foremost tyrants dwara, jaise aap expect kar sakte hain, lekin ek democracy dwara bhi.
+40
+Lekin political regimes ke ascending scale mein woh jitna higher climb karte hain, unke liye respect utna hi fainter ho jata hai, jaise ki yeh short of breath ho, aur aage progress karne mein unable [d].’
+
+‘Exactly.’
+
+‘Hum point se stray ho gaye hain, halanki,’ maine kaha. ‘Aayein us army par return karein jo tyrant ke paas hai – woh fine, large, varied aur ever-changing army – aur poochhein ki ise kaise maintain kiya jaane wala hai.’
+
+‘Well, obviously, agar city ke temples mein money hai, toh jab tak yeh last karta hai woh use spend karega. Plus uske victims ka money, use people se smaller contributions exact karne ki anumati dete hue.’
+
+‘Lekin kya hota hai jab yeh run out ho jaata hai [e]?’
+
+‘Woh apne father ke money ka use karega, obviously – khud ko, apne drinking-companions ko, aur apne male aur female friends ko support karne ke liye.’
+
+‘Main samajhta hoon. People, jinhone tyrant ko spawn kiya, use aur uske friends ko support karenge.’
+
+‘Iske paas koi choice nahi hogi,’ usne kaha.
+
+‘Kya hoga agar people ise resent karein?’ maine poocha. ‘“Yeh right nahi hai,” woh shuruat ke liye keh sakte hain, “ek grown-up son ke liye apne father dwara supported hona. Quite the reverse, in fact. Ek father ko uske son dwara support kiya jana chahiye. Isse bhi zyada, jis reason se humne aapko father kiya aur aapko power mein daala woh yeh nahi tha ki hum khud apne hi slaves ke slaves ban jaayein, jaise hi aap powerful ban gaye, aur aapko aur unhe aur aapke human flotsam ke baaki collection ko support karein [569]. Nahi, aapke hamare champion hone ke sath hum rich aur so-called aristocracy se apni political freedom chahte the. Hum aapko ab city chhodne ka order dete hain, aapko aur aapke friends ko.” Suppose people usse is tareeqe se bolein, ek father ki tarah jo apne son aur uske unruly drinking-companions ko ghar se drive out karta hai? Aap kya sochte hain tab kya hoga?’
+
+‘My god!’ usne kaha [b]. ‘Tab people sach mein find out karenge ki woh kya hain, aur kis kind ke offspring ko unhone father kiya hai, apne hearts mein liya hai, aur grow hone diya hai. Woh realise karenge ki yeh weaker dwara stronger ko drive out karne ki koshish karne ka case hai.’
+
+‘Aapka kya matlab hai?’ maine poocha. ‘Kya tyrant ke paas apne parent ke khilaf force use karne ka effrontery hoga? Kya woh use beat karega agar woh disobey karta hai?’
+
+‘Haan – ek baar jab usne uske weapons take away kar liye hain.’
+
+‘Ek parricide, phir, yeh tyrant jise aap describe kar rahe hain. Man ki old age ke liye ek cruel guardian. Is point par, aisa lagta hai, cheez ek acknowledged tyranny hai [c]. People proverbial frying pan se jump karke fire mein gir gaye hain, free men ke prati apni enslavement se slaves ke despotism mein. Unhone pehle jo ample – too ample – freedom rakhi thi use slavery ke sabse harsh aur galling form ke hair shirt ke liye exchange kar liya hai, woh slavery jo slaves dwara impose ki gayi hai.’
+
+‘Haan, sateek roop se wahi hai jaise yeh hota hai.’
+
+‘Kya tab koi objection hoga,’ maine poocha, ‘hamare yeh kehne par ki humne us tareeqe ka ek adequate description diya hai jis tareeqe se tyranny democracy se evolve hoti hai, aur yeh kaisi hoti hai jab yeh aisa kar chuki hoti hai?’
+
+‘Nahi,’ usne kaha, ‘hamara description perfectly adequate hai.’
+
+---
+
+### Footnotes for Book 8
+
+1. 415d–416a.
+2. 416d–417b.
+3. Books 4 aur 5 ke beech ka transition dekhein (445a–449b).
+4. 545b par in relatively parochial terms ko 'timocracy' ya 'timarchy' ke coinages dwara replace kiya jayega. Historical information ke liye glossary mein 'Crete' aur 'Sparta' dekhein.
+5. Phrase is fact ka proverbial hai ki hum sabhi ke paas ancestors hain, aur ise Homer ki *Odyssey* (19.163) aur Plato ki *Apology* (34d) mein is tarah use kiya gaya hai.
+6. 368d–369a.
+7. In coinages ke etymological components 'honour' ('timo-'), 'power' ('-cracy'), aur 'rule' ('-archy') hain.
+8. *Iliad* 16.112–113 ka ek adaptation.
+9. Divine being presumably cosmos hai. Ise *Timaeus* mein ek living creature ke roop mein describe kiya gaya hai, creator-god dwara banaye gaye logon mein sabse perfect. Yeh unclear hai ki vicharadhin period ek gestation-period hai (woh time jo creator-god ko cosmos ko astitva mein laane mein laga) ya koi cosmic period jaise ki Great Year (woh time jo cosmos mein various orbiting bodies ko ek doosre ke relative same positions par wapas aane mein lagta hai). Is paragraph ke remainder ke explanation ke liye, glossary mein 'Number' ke under dekhein.
+10. Originally 415a–c par describe kiya gaya.
+11. Socrates ek line ke pehle part ko quote karta hai jo Homer mein do baar appear hoti hai, ek hero ke uske ancestry ke description ko cap karne ke liye: 'Yeh meri line hai, mera blood – aur yeh mera boast' (*Iliad* 6.211, 20.241).
+12. Phrase 'another man before another gate' par pun karta hai (jingle translation mein preserve kiya gaya hai), khud Aeschylus ke *Seven against Thebes* (451, 570) se do lines ka ek amalgam.
+13. Socrates oligarchy ke etymology, 'rule of the few' par pun kar raha hai, jaise ki iska matlab 'rule over the few' ho.
+14. 434a–b.
+15. Sparta mein – timocracy ke model – is tarah ke transactions par kam se kam frown kiya jata tha aur forbidden rahe ho sakte hain. Athens mein woh permitted the.
+16. Kyunki citizens ne apni pockets se military service ke liye khud ko equip kiya, 'cavalryman' aur 'infantryman' wealth aur status ke designations the.
+17. Athenian generals popular election dwara choose kiye jaate the, aur lawcourts mein, ek popular jury ke samne account ke liye hold kiye jaate the.
+18. Greeks Persian monarch ko 'great king' ke roop mein refer karte the. Woh unke liye vast empire aur wealth ka, aur ek servile populace par absolute sovereignty ka emblematic tha.
+19. Wealth ka god, Plutus, blind ke roop mein represent kiya jata tha.
+20. Olig-archy par pun wahi hai jo 551e par tha (upar note 13).
+21. Ek disfranchised person ne sirf vote karne ke right se zyada lose kiya, use kisi public office ko hold karne, court mein ek litigant hone, aur yahan tak ki certain important public places mein apna face dikhane se bhi forbid kiya gaya tha.
+22. Democratic regime ki picture jo follow karti hai woh apne kai touches ko Plato ke Athens ki social life par owe karti hai. Lekin oligarchic regime ke description mein bhi Athens ka kuch tha.
+23. Greek religion mein, heroes death ke baad minor deities ban gaye aur unke origin ke place par worship kiye jaate the.
+24. 555c–556a vs. 554a.
+25. 556e.
+26. Ek Greek city ka citadel ya acropolis typically uske ancestral kings ki seat hoti thi.
+27. Imagery Eleusinian Mysteries ke ritual ko parody karti hai. (General mein mystic cults ke liye, upar 363c ke note 9 ko dekhein.)
+28. Greeks apni wine ko water ke sath dilute karke peete the.
+29. Aeschylean play jisse yeh phrase derive hota hai unknown hai.
+30. 'Unwritten law' kisi particular community mein respected customary beliefs aur social strictures ke liye ek common phrase tha.
+31. 552c–e.
+32. Yeh so-called 'humours' mein se do the – Greek term ka simply matlab 'juices' hai – jinake body mein balance par Greek medicine ka kaafi hissa physical health ko depend karwata tha.
+33. Yeh narrative, yadyapi ek generalised composite hai, most particularly democratic aur oligarchic factions ke beech struggle ke do instances ki taraf allude karta hai: late fifth-century Athens mein turmoil, aur Sicily mein popular champion ke roop mein Dionysius I ka rise (introduction ke pp. xi-xiii aur xxii dekhein). Plato ke time mein Athens mein koi people’s champion nahi tha jo tyrant bana ho. Yeh jise fit baithta hai woh balki Dionysius ka rise hai, saath hi Pisistratus ka bhi, mid-sixth century mein Athens ka ruler, jab city pehli baar prominent ban rahi thi.
+34. Hermus Lydia mein ek badi river hai jo iske overthrow ke event mein iske king, Croesus, ke liye ek escape-route provide karti. Oracle Croesus ko diya gaya reply tha jab usne poochha tha ki woh kitne samay tak reign karega. Dekhein Herodotus 1.55.
+35. Homer, *Iliad* 16.776.
+36. Socrates ki is oath ko use karne ki habit par upar 399e ke note 50 ko dekhein.
+37. Fourth century mein poore Greek world mein warfare mein mercenaries increasingly use kiye jaate the, lekin ek personal bodyguard ke liye unhe use karna sirf tyrants ka characteristic tha.
+38. Play jisse yeh statement aata hai lost hai, aur kuch sources ise Euripides ke bajaye Sophocles se attribute karte hain. Poets aur intellectuals powerful patrons ke courts mein frequently paaye jaate the.
+39. *Trojan Women* 1169.
+40. Pindar, Simonides aur Aeschylus ke baare mein kaha jata hai ki unhone Sicilian tyrant Hiero ke court ko attend kiya tha, jabki Euripides aur Agathon – tragedian jo Plato ke *Symposium* mein featured hai – Macedonian tyrant Archelaus ke court ko attend kiya tha. Hum non-Athenians ke baare mein bhi jaante hain jo apne dramas perform karwane ke liye Athens aaye the.
