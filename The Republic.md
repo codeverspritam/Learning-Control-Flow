@@ -9172,3 +9172,756 @@ Yeh bas isliye hai ki har kisi ke liye uske dwara ruled hona behtar hai jo divin
 22. Chhote monkeys ko pets ke roop mein rakha jata tha. Unhe comically ugly regard kiya jata tha, aur devious bhi.
 23. 343b–c.
 24. Is characteristically Socratic oath ke liye upar 399e ke note 50 ko dekhein.
+
+---
+
+# Book 10
+
+‘Bahut saare reasons hain,’ maine kaha, ‘kyun main sure feel karta hoon ki humne apne city ko sahi tareeqe se found karne ke baare mein kaam kiya hai, lekin main particularly poetry ke baare mein soch raha hoon [595].’
+
+‘Poetry ke baare mein particularly kya?’
+
+‘Iske imitative part mein se kisi ko bhi accept karne se hamara refusal. Ab jabki humne soul ke elements ko ek doosre se distinguish kar liya hai, meri view mein yeh pehle se kahin zyada clear hai, ki imitative poetry aakhri cheez hai jise humein allow karna chahiye [b].’
+
+‘Aap aisa kyun kehte hain?’
+
+‘Hamare aapas ke beech – mujhe yakin hai aap tragedy ke writers aur baaki sabhi imitative poets ke samne mujhe denounce nahi karenge – us sort ki har cheez mujhe un logon ke minds par ek destructive influence lagti hai jo ise sunte hain. Jab tak ki of course unke paas antidote na ho, iska knowledge ki yeh sach mein kya hai.’
+
+‘Aapke mind mein kya hai jab aap woh kehte hain?’
+
+‘Mera behtar hoga explain karna,’ maine kaha, ‘yadyapi affection aur respect jo mere paas childhood se Homer ke liye rahi hai woh mujhe ise kehne ke liye bahut reluctant banati hai [c]. Woh mujhe hamare in sabhi wonderful tragedians ka original teacher aur guide raha lagta hai. All the same, koi bhi man truth se zyada worth nahi hai. Toh jaise main kehta hoon, mera behtar hoga khud ko explain karna.’
+
+‘Aapko certainly karna chahiye.’
+
+‘Suno, phir. Ya balki, answer do.’
+
+‘Poochhein.’
+
+‘Kya aap mujhe koi idea de sakte hain ki exactly yeh cheez “imitation” kya hai? Speaking for myself, main sach mein nahi samajhta ki iska kya aim hona hai.’
+
+‘Which case mein, of course mera ise samajhna bound hai.’
+
+‘Woh itna zyada unusual nahi hoga,’ maine kaha [596]. ‘Jo log achhi tarah nahi dekhte woh aksar un logon ke muqable cheezon ko dekhne mein quicker hote hain jinaki eyesight better hoti hai.’
+
+‘Woh true hai,’ usne kaha. ‘Lekin bhale hi mujhe kuch occur hota hai, main aapke yahan hone par use kehne ke liye zyada enthusiasm summon nahi karne ja raha hoon. Aapka apni eyes par rely karna behtar hoga.’
+
+‘Very well. Kya aap chahenge ki hum enquiry start karne mein apne usual procedure ko follow karein? Hum generally ek certain form ya character postulate karte hain – ek single form ya character, hamesha – cheezon ki har plurality ke liye jise hum same name dete hain.
+1
+Kya aap use follow karte hain?’
+
+‘Haan, main use follow karta hoon.’
+
+‘Which case mein, aayein koi bhi plurality lein jise aap name karna chahein. For example, main ise leta hoon ki wahan kai couches hain, agar aap chahein, aur kai tables [b].’
+
+‘Of course.’
+
+‘Lekin jab furniture ke in pieces ke liye forms ki baat aati hai, toh presumably do hain. Ek couch ka single form, aur ek table ka single form.’
+
+‘Haan.’
+
+‘Kya hum usually yeh bhi nahi kehte ki furniture ke har type ke liye jo person ise banata hai woh appropriate form ki taraf dekhta hai? Phir ek un couches ko banayega jinhe hum use karte hain, doosra tables banayega, aur so on doosre kinds ke furniture ke sath [c]. Lekin form itself presumably craftsmen mein se kisi ka work nahi hai. Yeh kaise ho sakta tha?’
+
+‘Yeh nahi ho sakta tha.’
+
+‘Ab, apna attention ek different kind ke maker ki taraf turn karein. Aap use kya name dene ja rahe hain?’
+
+‘Woh kis kind ka maker hai?’
+
+‘Us kind ka jo un sabhi objects ko create kar sakta hai jinhe individual craftsmen create kar sakte hain.’
+
+‘Yeh ek clever man hai jiske baare mein aap baat kar rahe hain. Remarkably clever.’
+
+‘Wait karein jab tak aap iska baaki hissa nahi sunte. Yeh same craftsman na sirf kisi bhi sort ka furniture banane ke capable hai. Woh un sabhi cheezon ko bhi create kar sakta hai jo earth se grow hoti hain. Woh sabhi living creatures ko produce karta hai – khud ko include karte hue – aur uske upar heaven aur earth, gods, heaven mein har cheez, aur Hades mein earth ke neeche har cheez ko produce karta hai.’
+
+‘Ek complete aur astonishing genius, aapka matlab hai [d].’
+
+‘Kya aap mujhpar vishwās nahi karte?’ maine kaha. ‘Mujhe yeh batayein. Kya aap sochte hain ki is kind ke craftsman ka hona altogether impossible hai? Ya kya aap sochte hain ki ek way mein in sabhi cheezon ka ek creator ho sakta tha, yadyapi doosre way mein nahi ho sakta tha? Kya aap nahi dekh sakte ki ek way hai jismein aap khud ke liye in sabhi cheezon ko create karne ke capable honge?’
+
+‘Woh kaun sa way hai?’
+
+‘Is baare mein kuch bhi bahut difficult nahi hai,’ maine kaha. ‘Is kind ki workmanship aksar – aur aasaani se – practice ki jaati hai. Main suppose karta hoon sabse quickest way yeh hai agar aap ek mirror lein aur jahan kahin bhi aap jaayein ise apne sath carry karein. Us way se aap jaldi hi sun aur heavenly bodies create kar lenge, jaldi hi earth create kar lenge, jaldi hi khud ko, doosre living creatures ko, furniture, plants, aur un sabhi cheezon ko create kar lenge jinake baare mein humne abhi baat ki hai [e].’
+
+‘Haan,’ usne kaha. ‘Main unhe waise create kar sakta hoon jaise woh appear hote hain. Lekin waise nahi, main ise leta hoon, jaise woh truly hain.’
+
+‘Good. Sateek roop se wahi point hai. Kya painter bas usi kind ka craftsman nahi hai?’
+
+‘Indeed woh hai.’
+
+‘Of course aap keh sakte hain ki jin cheezon ko woh create karta hai woh real nahi hain. Phir bhi ek sense hai jismein painter ek couch create karta hai, kya nahi hai?’
+
+‘Haan. Painter bhi ek couch create karta hai jaise yeh appear hoti hai.’
+
+‘Carpenter ke baare mein kya jo ek couch banata hai [597]? Kya aapne abhi nahi kaha tha ki woh ek particular couch create karta hai, lekin woh form ya character nahi jo hum kehte hain ki couch kya hai?’
+
+‘Haan, maine kaha tha.’
+
+‘Phir agar woh couch kya hai use create nahi karta, toh woh real thing create nahi kar sakta. Real thing jaisa kuch, lekin khud real thing nahi. Toh agar aapko yeh kehna ho ki yeh fully exist karti hai – yeh cheez jo ek carpenter dwara banayi gayi hai jo couches banata hai, ya kisi doosre craftsman dwara – toh aap probably truth nahi bol rahe honge.’
+
+‘Nahi. Ya un logon ki opinion mein nahi jo is sort ke arguments ke sath khud ko occupy karte hain, kisi bhi rate par.’
+
+‘Which case mein, aayein ise thoda bhi surprising na paayein agar carpenter ki couch bhi, in fact, truth ke comparison mein kaafi shadowy hai [b].’
+
+‘Nahi, humein use surprising nahi paana chahiye.’
+
+‘Ab,’ maine kaha, ‘hamara yeh imitator. Jab hum apna question poochhte hain “Exactly woh kaun hai,” kya aap chahenge ki hum same examples ka use karein?’
+
+‘Haan, agar aap chahein.’
+
+‘Very well. Hamare paas couches ke yeh teen sorts hain. Wahan ek hai jo cheezon ke natural order mein exist karti hai. Yeh wali, main imagine karta hoon hum kahenge, ek god ka work tha. Ya kya hum kisi aur ko kahenge?’
+
+‘Nahi, mujhe nahi lagta hum kahenge.’
+
+‘Phir wahan woh hai jo carpenter dwara banayi gayi hai.’
+
+‘Haan,’ usne kaha.
+
+‘Aur phir woh jo painter dwara banayi gayi hai, kya nahi hai?’
+
+‘Aayein ise lein ki wahan hai.’
+
+‘Painter, carpenter, god, phir. Teen kinds ke couch ke liye teen agents responsible.’
+
+‘Haan, teen [c].’
+
+‘Ab, ya toh choice se ya isliye kyunki uske liye cheezon ke natural order mein ek se zyada couch produce na karne ki koi necessity thi, god ne sirf yeh ek couch banayi hai – couch kya hai, bas wahi. Inme se do, ya do se zyada, god dwara kabhi aage nahi laayi gayi thin, na hi laayi ja sakti thin.’
+
+‘Kyun nahi?’
+
+‘Kyunki agar usne do bhi banayi hotin, toh ek aur apne turn mein appearance banata – woh jiska form dono doosron ke paas hota. Aur yeh wali hoti jo couch kya hai, bajaye un do ke.’
+
+‘Correct,’ usne kaha.
+
+‘God isse aware tha, main imagine karta hoon, aur true couch ka true creator hona chahta tha [d]. Kisi bhi purani couch ka bas koi purana maker nahi. Yahi kaaran hai ki usne ise ek essentially unique nature diya.’
+
+‘Probably.’
+
+‘Toh kya aap chahte hain ki hum use iska natural creator kahein, ya us sort ka kuch?’
+
+‘Hum use certainly woh kehne mein justified honge, yeh dekhte hue ki usne dono ise aur har doosri cheez ko iske essential nature mein create kiya hai.’
+2
+
+‘Carpenter ke baare mein kya? Kya humein use ek craftsman kehna chahiye jo couches banata hai?’
+
+‘Haan, humein kehna chahiye.’
+
+‘Aur painter? Kya woh bhi aisi cheezon ka ek craftsman aur creator hai?’
+
+‘Certainly nahi.’
+
+‘Aap kya kehne ja rahe hain ki woh ek couch ke sath kya karta hai, phir?’
+
+‘Mujhe lagta hai sabse reasonable description yeh kehna hoga ki woh uska ek imitator hai jise woh craftsmen banate hain [e].’
+
+‘Very well,’ maine kaha. ‘Toh aap us product ke maker ko “imitator” kehte hain jo nature se do removes par hai, kya aap kehte hain?’
+
+‘Main indeed kehta hoon,’ usne kaha.
+
+‘Us case mein, yeh wahi hai jo tragedies ka writer, agar woh ek imitator hai, hoga. Koi jiska nature king aur truth se do removes par hona hai.
+3
+Aur same sabhi doosre imitators ke sath.’
+
+‘Aisa lagta hai.’
+
+‘Toh, hum imitator ke baare mein agreement mein hain. Ab, mujhe painter ke baare mein kuch batayein [598]. Kya aap sochte hain, har case mein, woh thing itself ko imitate karne ki koshish kar raha hai, woh jo cheezon ke natural order mein exist karti hai? Ya woh craftsmen ke work ko imitate karne ki koshish kar raha hai?’
+
+‘Woh craftsmen ke work ko imitate karne ki koshish kar raha hai,’ usne kaha.
+
+‘Jaise yeh hai? Ya jaise yeh appear hoti hai? Kya aap apni definition ko thoda aur precise bana sakte hain?’
+
+‘Aapka kya matlab hai?’
+
+‘Mera matlab yeh hai. Jab aap kisi couch ko side se ya front se dekhte hain, ya kahin aur se, kya couch itself change hoti hai? Ya kya yeh same rehti hai, aur merely different dikhti hai? Aur same doosri cheezon ke sath.’
+
+‘Haan, yeh waisa hai jaise yeh hai,’ usne kaha [b]. ‘Yeh different dikhti hai, lekin yeh sach mein same hai.’
+
+‘Well, wahi mere question ka point hai. Har individual case mein, painting ka object kya hai? Kya iska aim what is ko imitate karna hai, jaise yeh hai? Ya what appears ko imitate karna hai, jaise yeh appear hota hai? Kya yeh appearance ka imitation hai, ya truth ka?’
+
+‘Appearance ka,’ usne kaha.
+
+‘Us case mein, main imagine karunga, imitation ki art truth se ek far cry hai. Reason kyun yeh har cheez ko bana sakti hai, apparently, yeh hai ki yeh har cheez ka bas thoda sa grasp karti hai – aur us par sirf ek image. Hum kehte hain painter humare liye ek shoemaker paint kar sakta hai, for example, ya ek carpenter, ya doosre craftsmen mein se koi bhi [c]. Woh in skills mein se kisi ke baare mein kuch nahi jaan sakta, aur phir bhi, agar woh ek achha painter hai, distance se uski ek carpenter ki picture children ko aur bina judgment wale logon ko fool kar sakti hai, kyunki yeh ek real carpenter jaisi lagti hai.’
+
+‘Of course yeh kar sakti hai.’
+
+‘Main suppose karta hoon jis cheez ko humein in sabhi cases mein yaad rakhna hai woh yeh hai. Jab koi humein batata hai, kisi particular context mein, ki woh ek aise man se mila hai jiske paas in sabhi crafts ka knowledge hai, aur un sabhi cheezon ka jinhe unka har individual practitioner jaan sakta hai, aur ki is man ka knowledge har respect mein kisi aur ke muqable zyada accurate hai, toh jo answer humein is jise kisi ko dena chahiye woh yeh hai ki woh kisi sort ka simpleton hai, jo apparently ek magician aur imitator ke across aaya hai, aur uske dwara take in kiya gaya hai [d]. Usne decide kiya hai ki yeh man ek expert hai, kyunki woh khud knowledge ko ignorance ya imitation se distinguish karne ke incapable hai.’
+
+‘Absolutely true.’
+
+‘Very well,’ maine kaha. ‘Ab, hamara agla question tragedy aur iske mentor Homer dono se concern karta hai [e]. Yeh is claim se arise hota hai ki tragedians sabhi arts ke baare mein jaante hain, ki woh human har cheez ke baare mein jaante hain – jaise yeh virtue aur vice se relate karti hai – aur divine har cheez ke baare mein bhi.
+4
+Good poet, woh kehte hain, agar use un cheezon ko create karne ka ek achha job karna hai jinhe woh create karta hai, toh use necessarily unhe knowledge ke sath create karna chahiye. Woh ise otherwise create nahi kar sakta tha. Toh jo questions humein poochhne hain woh yeh hain. Kya jin logon ke across woh aaye hain woh imitators hain [599]? Kya woh unke dwara deceive kiye gaye hain? Kya woh realise nahi karte, jab woh unke works ko dekhte hain, ki yeh real thing se do removes par hain, aur kisi aise person ke liye create karna easy hai jo truth nahi jaanta? Aakhirkar, yeh appearances hain, realities nahi, jinhe woh create kar rahe hain. Ya kya usme kuch truth hai jo yeh log kehte hain? Kya good poets ke paas sach mein un cheezon ka knowledge hota hai jinake baare mein general public sochti hai ki woh itna achha likhte hain?’
+
+‘Haan,’ usne kaha. ‘Woh wahi questions hain jinhe humein poochhna hai.’
+
+‘Kya aap sochte hain, phir, yeh assume karte hue ki kisi ke paas dono cheezon ko create karne ki ability thi – imitation ke object ko aur iske image ko – ki woh khud ko images ke production ke liye koi enthusiasm dikhane ki permission dega [b]? Kya woh ise life mein apna chief aim banayega, apna proudest possession?’
+
+‘Nahi, mujhe yakin hai woh nahi karega.’
+
+‘Agar woh sach mein un cheezon ke baare mein jaanta jinhe woh imitate karta hai, main imagine karta hoon, woh action par imitation ke muqable kahin zyada keen hota. Woh khud ke liye memorials ke roop mein kai fine actions chhodne ki koshish karta, aur doosron ke honour mein poetry likhne ke muqable apne honour mein poetry likhwaye jaane mein kahin zyada interested hota.’
+
+‘Mujhe yakin hai woh hota. Prestige aur benefit ke terms mein, koi comparison nahi hai.’
+
+‘Very well, phir. Zyadatar subjects ke liye, humein Homer ya doosre poets mein se kisi ko khud ko justify karne ke liye kehne ki zaroorat nahi hai [c]. Humein yeh poochhne ki zaroorat nahi hai ki kya unmein se kisi ke paas koi medical knowledge hai, bajaye medical language ka bas ek imitator hone ke. Ya kisi patient ko kisi poet ne, old ya new, kabhi healthy banaya kaha gaya hai, us tareeqe se jaise Asclepius ne banaya. Ya medicine ke kaun se students usne apne peeche chhode, jaise Asclepius ne apne descendants chhode. Na hi humein poets se arts ke zyadatar hisse ke baare mein poochhne ki zaroorat hai. Hum unke baare mein bhool sakte hain. Lekin jab un cheezon mein sabse greatest aur finest ki baat aati hai jinake baare mein Homer humein batane ki koshish karta hai – war, military command, cities ka founding, ek man ki education – toh mujhe lagta hai hum curious hone ke entitled hain [d]. “Hamare pyare Homer,” hum usse keh sakte hain, “agar aap goodness ke is maamle mein truth se do removes par nahi hain – images ke maker nahi, jise humne ek imitator ke roop mein define kiya – agar aap truth se ek remove par bhi hain, aur agar aap us behaviour ko distinguish karne ke capable the jo private life mein ya public life mein men ko better ya worse banata hai, toh humein bataayein kaun sa city aapki wajah se kabhi better governed hua hai. Sparta Lycurgus ke kaaran better governed hai, aur waise hi kai doosre cities hain, great aur small, kai doosre individuals ke kaaran [e]. Aapke baare mein kya? Kaun sa city kehta hai ki aap iske great lawgiver hain, ya apni success ko aapse attribute karta hai? Italy aur Sicily kehte hain ki yeh Charondas hai. Hum kehte hain ki yeh Solon hai. Kaun sa city kehta hai ki yeh aap hain?” Kya woh kisi city ko name karne ke able hoga?’
+
+‘Nahi, mujhe nahi lagta,’ Glaucon ne kaha. ‘Homer ke most devoted supporters bhi woh claim nahi karte.’
+5
+
+‘Kya Homer ke day mein koi war uski leadership ya strategy dwara won ki gayi record ki gayi hai [600]?’
+
+‘Nahi.’
+
+‘Kya hum arts mein, ya doosri human activities mein ingenious contributions ka ek number usse attributed paate hain? Wahi hai jise aap ek wise man ki life mein paane ki expect karenge. Us kind ki cheez jo humein Thales of Miletus ke baare mein batayi jaati hai, for example. Ya Anacharsis the Scythian ke baare mein.’
+
+‘Nahi, us sort ka absolutely kuch nahi.’
+
+‘Well phir, uski private life mein, agar public life mein nahi? Kya Homer ke paas uski lifetime ke dauran logon par ek formative influence hone ki reputation hai? Kya unhone uski company ke liye use love kiya, aur apne successors ko koi “Homeric” way of life hand down kiya [b]? Pythagoras ko lein. Na sirf Pythagoras khud is reason se bahut zyada loved tha, balki aaj ke din tak uske successors apne way of life ko “Pythagorean” kehte hain, aur Pythagoreans ke roop mein aasaani se identify kiye ja sakte hain.’
+
+‘Nahi,’ usne kaha, ‘uske baare mein us kind ka kuch bhi bataya gaya nahi hai. Jahan tak education aur culture ka sawaal hai, Socrates, Homer ka disciple Creophylus humein uske name se bhi zyada absurd strike kar sakta hai, agar Homer ke baare mein stories true hain [c]. Kaha jata hai ki Creophylus ne us man mein khud koi slightest interest nahi dikhaya jab woh alive tha.’
+
+‘Haan, maine woh story suni hai,’ maine kaha. ‘Lekin agar Homer sach mein men ko educate karne aur unhe better banane ke able raha hota, Glaucon – kyunki uske paas in cheezon ka knowledge tha, aur sirf unhe imitate karne ki ability nahi – kya aap sochte hain ki woh khud ke liye bahut saare disciples gain karne mein, aur unke dwara respected aur loved hone mein fail ho sakta tha? Protagoras of Abdera, Prodicus of Ceos, aur kai doosron ke baare mein sochein [d]. Unke paas apne contemporaries mein se kisi ko bhi jo unse private lessons leta hai yeh persuade karne ki yeh ability hai ki woh na toh apne household ko aur na hi apne city ko manage karne ke capable hoga jab tak ki woh khud uski education ka charge nahi lete. Itne greatly woh is wisdom ke liye loved hain ki unke disciples lagbhag unhe apne shoulders par carry around karte hain. Agar Homer men ki goodness ki taraf path par help karne ke capable raha hota, kya uske contemporaries ne use aur Hesiod ko recitations dete hue world roam karne diya hota?
+6
+Kya unhone unhe gold se zyada valuable kisi cheez ke roop mein grab hold nahi kiya hota, aur unhe ghar aane aur unke sath rehne par compel nahi kiya hota [e]? Aur agar woh unhe persuade nahi kar sakte the, kya woh khud unke attendants ke roop mein act nahi karte jahan kahin bhi woh jaate, jab tak ki unhone apni education complete na kar li hoti?’
+
+‘Mujhe lagta hai aap absolutely right hain, Socrates,’ usne kaha.
+
+‘Us case mein, kya hum kahenge ki sabhi artists, Homer se shuru karte hue, goodness ke images aur doosri cheezon ke imitators hain jinhe woh create karte hain, truth par koi grasp rakhe bina?
+7
+Jaise hum abhi keh rahe the, painter woh create karega jo shoemaker jaisa dikhta hai, yadyapi woh khud shoemaking ke baare mein kuch nahi jaanta aur jis kind ke log uski painting ko dekhte hain woh bhi iske baare mein kuch nahi jaante [601]. Woh cheezon ko unke colours aur shapes dwara judge karte hain.’
+
+‘Exactly.’
+
+‘Same poet ke sath bhi jata hai, main ise leta hoon. Hum keh sakte hain ki woh in sabhi skills ki apni pictures ko apne words aur phrases ke sath colour karta hai, aur ki akeli cheez jiske baare mein woh kuch jaanta hai woh imitation hai. Result yeh hota hai ki uske jaise log, log jo language ke basis par cheezon ko judge karte hain, sochte hain ki jo use kehna hai woh excellently said lagta hai – chahe woh shoemaking ko describe karne ke liye apne metre, rhythm aur harmony ka use kar raha ho, ya generalship ko, ya kisi doosri cheez ko [b]. Aisa bewitchment ka power naturally un tools dwara possessed hai jinhe woh use karta hai. Aur phir bhi ek poet ke words, jab uski art dwara provide kiye gaye colours se stripped hote hain, aur by themselves liye jaate hain – well, mujhe lagta hai aap jaante hain ki woh kaise hote hain. Aapne unhe dekha hai, aakhirkar.’
+
+‘Indeed maine dekha hai.’
+
+‘Yeh un logon ke faces jaisa hai jinake paas beauty ke bina youth hoti hai,’ maine kaha. ‘Unhe dekhne ki tarah jab woh youth ka apna bloom lose kar dete hain.’
+
+‘Exactly,’ usne kaha.
+
+‘Very well. Ab, yahan aapke sochne ke liye ek aur cheez hai. Images ka creator, imitator, what is ka koi knowledge nahi rakhta, balki sirf uska jo appear hota hai [c]. Kya yeh hamara claim nahi hai?’
+
+‘Haan.’
+
+‘Lekin woh sirf aadhi story hai. Aayein ise wahin na chhodein. Aayein poori story ko dekhein.’
+
+‘Explain karein.’
+
+‘Ek painter, hum kehte hain, reins aur ek bridle paint kar sakta hai?’
+
+‘Haan.’
+
+‘Lekin jab unhe banane ki baat aati hai, woh ek leather-worker aur ek blacksmith dwara kiya jata hai?’
+
+‘Of course.’
+
+‘Well, phir, kya painter jaanta hai ki reins aur bridle kaisa hona chahiye? Yahan tak ki jo log unhe banate hain – blacksmith aur leather-worker – kya woh jaante hain? Kya yeh sirf woh person nahi hai jo jaanta hai ki unhe kaise use karna hai, horseman?’
+
+‘Sateek roop se wahi hai jaise yeh hai.’
+
+‘Aur kya hum nahi kahenge ki yeh universally true hai?’
+
+‘Ki kya universally true hai?’
+
+‘Ki har sphere mein yeh teen skills hain – using, making aur imitating [d]?’
+
+‘Haan.’
+
+‘Toh kisi bhi manufactured object, living thing ya action ki goodness, beauty aur correctness entirely us use ka question hai jiske liye unmein se har ek ko banaya gaya tha, ya jiske liye yeh naturally develop hua tha?’
+
+‘Haan.’
+
+‘Which case mein, yeh woh person hai jo ek particular object ko use karta hai jiske paas necessarily iska most experience hona chahiye. Use us person ke liye ek messenger ke roop mein act karna chahiye jo ise banata hai, use use mein, us instrument ke good aur bad points batate hue jise woh use kar raha hai [e]. Pipes ka ek player, for example, unke maker ko pipes par apne views deta hai, use batate hue ki kaun se playing ke liye kisi use ke hain. Woh maker ko instruct karega ki kis sort ke pipes banayein, aur phir maker uske use ka hoga.’
+
+‘Of course woh hoga.’
+
+‘Kya yeh woh person hai jo jaanta hai, in other words, jo maker ko batata hai ki kaun se instruments good hain aur kaun se no good? Aur kya maker instrument banate waqt is information ko trust par lega?’
+
+‘Haan.’
+
+‘Toh ek given object ke liye maker ke paas correct opinion hoga is baare mein ki kya good hai aur kya bad hai, us person ke sath hone se jo jaanta hai, aur us person ko sunne par compelled hone se jo jaanta hai, jabki jo person ise use karta hai uske paas knowledge hoga [602].’
+
+‘Exactly.’
+
+‘Imitator ke baare mein kya? Kya usne un cheezon ko use kiya hoga jinhe woh paint karta hai, aur is tarah iska knowledge rakhega ki kya woh good aur right hain, ya nahi? Kya uske paas unke baare mein correct opinion hoga us person ke sath associate karne par compelled hone ke zariya jo jaanta hai, aur kis sort ki cheezon ko paint karna hai ispar instructions receive karne se?’
+
+‘Nahi, in dono cheezon mein se koi nahi.’
+
+‘Toh imitator ke paas na toh knowledge hoga aur na hi correct opinion un cheezon ki goodness ya badness ke baare mein jinhe woh imitate karta hai.’
+
+‘Apparently nahi.’
+
+‘Poetic imitator kitna wonderful guide hona chahiye, phir, agar hum un subjects par wisdom chahte hain jinake baare mein woh likhta hai.’
+
+‘Woh bilkul koi guide nahi hai [b].’
+
+‘Aur phir bhi woh abhi bhi imitate karna jaari rakhega, bhale hi woh nahi jaanta ki kya kisi particular cheez ko good ya no good banata hai. Aur aisa lagta hai jaise jo woh imitate karta hai woh us kind ki cheez hogi jo ignorant majority ko good appear hoti hai.’
+
+‘Aur kya?’
+
+‘Which case mein, ya aisa appear hota hai, hum kaafi hadd tak do points par agreement par pahonch gaye hain. First, imitator ke paas un cheezon ka mention karne laayak koi knowledge nahi hai jinhe woh imitate karta hai. Uski imitation serious nahi hai. Yeh ek kind of play hai. Aur second, woh sabhi jo tragic poetry mein apna haath turn karte hain, iambic ya epic mein,
+8
+out-and-out imitators hain.’
+
+‘Absolutely.’
+
+‘Aur is sort ki imitation,’ maine kaha, ‘really aur truly truth se do baar removed kisi cheez ke sath connected hai, kya yeh nahi hai [c]?’
+
+‘Haan.’
+
+‘Phir yahan ek aur question hai. Ek person ke kis part par iska apna effect hota hai?’
+
+‘Aapka kis kind ki cheez se matlab hai?’
+
+‘Main aapko bataunga. Agar hum apni eyesight par rely karte hain, presumably, same cheez close to aur far off same size ki nahi dikhti.’
+
+‘Nahi, yeh nahi dikhti.’
+
+‘Aur same cheezein un logon ko crooked aur straight dikh sakti hain jo unhe pehle water mein aur phir water ke baahar dekhte hain. Ya concave aur convex, hamari eyes ke colours ya shades ke variable perception ke kaaran [d]. Hamari souls clearly is kind ke confusion se bhari hain. Cheezein jaise shadow-painting,
+9
+conjuring, aur same kind ki baaki sabhi arts hamare nature mein is weakness par rely karti hain aise effects produce karne ke liye jo witchcraft se thode kam padte hain.’
+
+‘True.’
+
+‘Kya yahi kaaran nahi hai kyun measuring, counting aur weighing hamare liye ek wonderful help prove hue? Unka matlab tha ki hum uske dwara ruled nahi the jo bigger ya smaller, ya more, ya heavier dikhta tha, balki us cheez dwara jisne calculating ya measuring ki – ya weighing ki, for that matter.’
+
+‘Naturally.’
+
+‘Aur yeh operations, of course, soul mein rational element ka function hain [e].’
+
+‘Haan, rational element.’
+
+‘Quite often yeh element apne measurements banata hai, indicate karta hai ki cheezon ka ek group doosre se bigger ya smaller hai – ya same size ka – lekin simultaneously paata hai ki objects ka same group exactly opposite appearance present karta hai.
+10
+’
+
+‘Haan.’
+
+‘Lekin kya humne nahi kaha tha ki ek cheez ke liye same cheezon ke baare mein same time par opposite opinions rakhna impossible tha?
+11
+’
+
+‘Humne kaha tha. Aur rightly.’
+
+‘Which case mein, soul ka woh part jiske opinions measurements ke sath conflict karte hain woh us part jaisa same nahi ho sakta jiske opinions measurements ke sath agree karte hain [603].’
+
+‘Nahi, yeh nahi ho sakta.’
+
+‘Well, woh part jo measurement aur calculation mein apna trust rakhta hai soul ka best part hoga.’
+
+‘Of course.’
+
+‘Aur jo part is part se disagree karta hai woh hamare andar weaker elements mein se ek hoga.’
+
+‘Bound to be.’
+
+‘Yeh agreement ka woh point tha jahan main pahonchna chahta tha jab maine kaha tha ki painting – aur general mein imitation – apne khud ke ek area mein operate karti hai, truth se far removed, aur yeh ki yeh hamare andar ke us element ke sath associate karti hai jo intelligence se far removed hai – ek aisa liaison aur friendship jisse kuch bhi healthy ya true result nahi ho sakta [b].’
+
+‘Precisely,’ usne kaha.
+
+‘Ek inferior art, phir, imitation. Aur uska inferior ke sath union inferior offspring produce karta hai.’
+
+‘Wahi tareeqa hai jaise yeh dikhta hai.’
+
+‘Aur kya woh sirf un cheezon mein imitation hai jinhe hum dekhte hain?’ maine poochha. ‘Ya kya yeh un cheezon mein bhi imitation hai jinhe hum sunte hain – jise hum poetry kehte hain?’
+
+‘Poetry bhi, main guess karunga.’
+
+‘Well,’ maine kaha, ‘aayein sirf guesswork par trust na karein, aur painting ke sath analogy par [c]. Aayein seedhe hamare thought ke actual part ki taraf turn karein jisse poetic imitation ka lena-dena hai, aur dekhein ki kya woh kuch trivial hai ya kuch important.’
+
+‘Haan, wahi hai jo humein karna chahiye.’
+
+‘Hum ise khud ke liye is tarah put kar sakte hain. Imitation, hum kehte hain, men ko freely ya compulsion ke tehat actions perform karte hue imitate karti hai. Apne actions ke result ke roop mein, woh vishwās karte hain ki unhone well ya badly kiya hai, aur in sabhi situations mein woh pain ya pleasure feel karte hain. Isme isse zyada kuch nahi tha, kya tha?’
+
+‘Nahi.’
+
+‘Ab, kya ek man ka attitude in sabhi activities mein consistent hota hai [d]? Ya kya yeh actions ke sath waisa hi hai jaise vision ke sath tha? Tab woh civil war ki state mein tha, aur apne andar same cheezon ke baare mein opposite opinions hold karta tha. Kya woh khud ke sath usi way mein odds par hota hai jab uske actions ki baat aati hai? Kya woh khud ke sath war mein hota hai? Is baare mein sochte hue, halanki, yeh koi aisa question nahi hai jo abhi bhi answered hone ka wait kar raha ho. Humne hamari discussion ke pehle part mein un sabhi questions ka kaafi satisfactorily answer diya tha, jab hum agree hue the ki is kind ke countless contradictions the, ki soul unse bhari hui thi.
+12
+’
+
+‘Correct,’ usne kaha.
+
+‘Haan, yeh correct tha,’ maine kaha. ‘Lekin kuch tha jise humne tab chhod diya tha jise mujhe lagta hai humein ab explain karna hai [e].’
+
+‘Woh kya hai?’
+
+‘Humne tab jo kaha tha, mujhe lagta hai, woh yeh tha ki agar kisi good man ke sath kuch hota hai – shayad ek son ko khona, ya great value ki koi doosri cheez – toh woh ise kisi aur ke muqable zyada aasaani se endure karega.
+13
+’
+
+‘Woh certainly karega.’
+
+‘Jo question ab humein khud se poochhna hai woh yeh hai ki kya woh koi pain bilkul feel nahi karega. Ya agar woh impossible hai, kya woh nonetheless apne grief mein kuch moderation observe karega?’
+
+‘Haan,’ usne kaha, ‘woh truth ke closer lagta hai.’
+
+‘Right [604]. Us case mein, mujhe uske baare mein kuch aur batayein. Kya aap sochte hain ki woh apne grief ke khilaf ek better fight aur resistance put up karega jab use uske equals dwara observe kiya ja raha ho, ya jab woh apne aap par ho, ek deserted place mein, all by himself?’
+
+‘Mujhe sochna chahiye ki jab use observe kiya ja raha hoga toh ek bada difference hoga,’ usne kaha.
+
+‘Haan. Jab woh apne aap par hota hai, main imagine karta hoon, woh har sort ki aisi cheezein kehne mein ashamed nahi hoga jinhe sunne par woh embarrassed hota agar kisi aur ne use kehte hue suna hota. Aur woh har sort ki aisi cheezein karega jinhe woh kisi ko dekhte hue hone dene ke liye taiyar nahi hota.’
+
+‘Yeh aisa hai,’ usne kaha.
+
+‘Kya reason aur established custom woh cheezein hain jo use resist karne ke liye encourage karti hain, jabki jo use uske grief ki taraf wapas drag karta hai woh uska misfortune itself hai [b]?’
+
+‘Haan.’
+
+‘Aur jab ek human being ke paas opposing impulses hote hain, same cheez se relating, same time par, hum kehte hain ki inhein necessarily do different elements hona chahiye.’
+
+‘Haan, of course.’
+
+‘Kya ek element custom ko follow karne ke liye taiyar hai jahan kahin bhi custom lead karta hai?’
+
+‘Aur woh kahan hoga?’
+
+‘Custom kehta hai, presumably, ki misfortune mein best cheez upset na hona hai, balki jitna ho sake utna calm rehna hai – kai reasons ke liye. Pehle sthaan par, yeh clear nahi hai ki is sort ki situations mein kitna good hai aur kitna bad [c]. Second, agar hum future ki taraf dekhte hain, toh cheezon ko hard lene se koi good nahi hota. Third, human affairs mein kuch bhi itna seriously lene ke laayak nahi hai. Aur fourth, grieving us cheez ke raste mein aati hai jise, in situations mein, jitna ho sake utni tezi se hamari assistance ke liye aana chahiye.’
+
+‘Aapka kis cheez se matlab hai?’ usne poochha.
+
+‘Jo hua hai uspar reflection,’ maine reply kiya. ‘Logon ko jis tareeqe se cheezein fall out hui hain use waise hi accept karna chahiye jaise woh dice ke fall ko accept karte hain, aur phir apne plans us tareeqe se banane chahiye jaise reason unke liye best prescribe karta hai. Unhe apna time howling karte hue, us part ko clutch karte hue jo hurt hua hai, gir gaye children ki tarah nahi bitana chahiye [d]. Unhe hamesha apni souls ko damaged aur injured part ko cure aur repair karne par seedhe concentrate karne ka aadi banana chahiye. Unhe lamentation ko do away karne ke liye healing ka use karna chahiye.
+14
+’
+
+‘Haan,’ usne kaha, ‘misfortune ke prati lene ke liye certainly wahi right attitude hoga.’
+
+‘Toh yeh best element hai, hum kehte hain, jo is kind ke rational calculation ko ek guide ke roop mein use karne ke liye taiyar hai.’
+
+‘Clearly.’
+
+‘Jabki woh element jo humein mourning aur hamare sufferings ke recollection ki taraf draw karta hai, jo in cheezon se kabhi apna fill nahi pa sakta – kya hum ise irrational, lazy aur cowardice ka friend describe nahi karenge?’
+
+‘Haan, hum karenge.’
+
+‘Yeh element, fretful element, har sort ke varied imitation ke liye highly susceptible hai [e]. Calm, thoughtful character, doosri taraf, unchanging aur khud ke prati true, imitate karne ke liye hard hai, aur samajhne ke liye ek simple matter nahi hai agar ise imitate kiya jaye – particularly public mein, jab aapko theatre mein logon ka ek diverse collection milta hai.
+15
+Jise imitate kiya ja raha hai woh unke liye kaafi unfamiliar hai.’
+
+‘Absolutely [605].’
+
+‘Imitative poet ka nature obviously soul ke is element ke anukool adapted nahi hai, na hi uski wisdom ise appeal karne ke liye framed hai. Agar use general public ke beech popular hona hai toh nahi. Uska concern fretful, variegated character ke sath hai, kyunki wahi hai jise imitate karna easy hai.’
+
+‘Obviously.’
+
+‘Toh hum ab use lene aur use painter ke sath par rakhne mein justified honge. Uske products, painter ke products ki tarah, truth ke comparison mein inferior hain, aur woh soul ke ek inferior part ke sath associate karne mein bhi use resemble karta hai, best part ke sath nahi [b]. Rights se, isliye, humein use ek aise city mein admit nahi karna chahiye jo well governed hone ja raha hai, kyunki yeh soul ka ek inferior part hai jise woh arouse karta hai aur feed karta hai, aur ise strong banakar rational part ko destroy karta hai. Yeh ek city ke sath same hai. Agar aap unhe power dete hain jo bad hain, aur city unhe hand over kar dete hain, toh aap unhe destroy karte hain jo better hain. Sateek roop se usi way mein, hum kahenge, imitative poet har individual ki soul mein ek bad regime set up karta hai, iske senseless part ko gratify karte hue, woh part jo larger ko smaller se distinguish nahi kar sakta, aur jo same cheezon ko ek time par large aur doosre time par small regard karta hai [c]. Woh ek image-maker ke alawa kuch nahi hai, aur woh truth se far removed stand karta hai.’
+
+‘Woh indeed karta hai.’
+
+‘Halanki, humne abhi tak imitative poetry ke khilaf apna most serious accusation nahi laya hai. Iski ability good logon ko bhi corrupt karne ki – bahut few exceptions ke sath – surely ek disgrace hai.’
+
+‘Of course yeh hai, agar woh sach mein wahi hai jo yeh karti hai.’
+
+‘Sunein, aur dekhein aap kya sochte hain. Hum mein se best, main imagine karta hoon, jab hum Homer ya tragic poets mein se kisi ko grief ki state mein kisi hero ko imitate karte hue sunte hain, jaise woh lamentation ki ek lambi speech drag out karta hai, ya song mein break hota hai, ya apna breast beat karna shuru karta hai . . . well, aap jaante hain yeh kaisa hota hai [d]. Hum ise enjoy karte hain, aur khud ko iske hawale surrender karte hain. Hum hero ke sufferings ko follow aur share karte hain, unhe real treat karte hain, aur ek excellent poet ke roop mein us person ko praise karte hain jo humein is way mein sabse zyada affect karta hai.’
+
+‘Haan, main jaanta hoon yeh kaisa hota hai. Main kaise fail ho sakta tha?’
+
+‘Aur phir bhi jab koi misfortune hum mein se kisi ko personally affect karta hai, aap aware hain hum exact opposite karne par khud ko kaise pride karte hain – agar hamare paas silent rehne, aur endure karne ki strength ho sake [e]. Hum ise men ke behaviour ke roop mein regard karte lagte hain, aur jise humne poetic context mein praise kiya tha use women ke behaviour ke roop mein.’
+
+‘Haan, main isse aware hoon,’ usne kaha.
+
+‘Kya us sort ki praise justified hai, phir – agar aap ek man ko aise behave karte hue dekhte hain jis tareeqe se aap khud behave karne ka sapna bhi nahi dekhenge, ek aisa way jismein aap behave karne mein ashamed honge, aur isse repelled nahi hote, balki isme pleasure lete hain aur ise praise karte hain?’
+
+‘Heavens, nahi,’ usne kaha [606]. ‘Us kind ki praise kaafi unreasonable sound karti hai.’
+
+‘Haan, yeh karti hai,’ maine kaha. ‘Kam se kam, yeh karti hai agar aap ise is tarah dekhein.’
+
+‘Kis tarah?’
+
+‘Is baare mein sochein. Yahan hamare paas yeh element hai jise ek situation mein – hamare private misfortunes mein – forcibly check mein rakha jata hai, yadyapi iske paas yeh hunger hai jise sirf weeping aur wholesale lamentation dwara satisfy kiya ja sakta hai, kyunki yeh woh satisfactions hain jinhe is kind ki cheez apne nature se desire karti hai. Phir doosri situation mein yahi same part poets dwara fulfilled aur gratified hota hai, aur jo hamare andar nature se best part hai, reason ya habit dwara inadequately educated, us kind ke grieving par apna watch abandon kar deta hai. Yeh kehta hai ki jin sorrows ko yeh watch kar raha hai woh kisi aur ke hain, aur agar koi aur, jo ek good man hone ka claim karta hai, inappropriately grieve kar raha hai, toh use applaud karne aur use pity karne mein hamare liye ashamed hone ke liye kuch nahi hai [b]. Hum vishwās karte hain ki wahan ek positive benefit hai, jo pleasure hai, aur poori poem ko reject karke use lose karne ke liye taiyar nahi honge. Yeh few logon ko diya gaya hai, mujhe shak hai, yeh work out karna ki doosron ke sath jo hota hai usme jo pleasure woh lete hain woh necessarily carry over hota hai usme jo unke sath hota hai. Agar woh pity ki faculty ko strong grow hone dete hain, ise doosron ke sorrows par feed karke, toh apne khud ke sorrows ki baat aane par ise restrain karna hard hota hai.’
+
+‘Very true,’ usne kaha.
+
+‘Same argument laughter par apply hota hai, kya nahi hota [c]? Agar aise jokes hain jinhe aap khud banane ka sapna bhi nahi dekhenge, lekin jinhe aap bahut enjoy karte hain jab aap unhe comic theatre mein sunte hain, ya private company mein bhi – agar aap unhe galat sort ke jokes regard nahi karte, ya unhe hate nahi karte, kya aap jo kar rahe hain woh wahi nahi hai jo un cheezon ke sath hai jinhe aap pity karte hain? Aapke andar ka woh element jo jokes banana chahta tha, lekin jise aapne reason ke means dwara check mein rakha kyunki aap ek buffoon samjhe jaane se frightened the, use aap ab release kar dete hain. Aap realise nahi karte ki ise is tarah iska head dene ka result yeh hota hai ki aap apni life mein, over and over again, comedian play karte hain.’
+
+‘Exactly [d].’
+
+‘Kya yeh sex, anger, aur soul mein un sabhi desires, pains aur pleasures par bhi apply nahi hota jinhe hum kehte hain ki hamare actions mein se kisi ke sath accompany hote hain? Kya hamare upar poetic imitation ka effect same nahi hai? Yeh in cheezon ko feed aur water karta hai, jab unhe rights se wither away ho jana chahiye. Aur yeh unhe hamare rulers banata hai, yadyapi agar hum worse aur more wretched hone ke bajaye better aur happier hona chahte hain, toh unhe hamare dwara ruled hona chahiye.’
+
+‘Mujhe aapke sath agree karna hoga,’ usne kaha.
+
+‘Us case mein, Glaucon, jab aap Homer ke admirers ke across aate hain yeh kehte hue ki yeh woh poet hai jisne Greece ko educate kiya hai, ki woh hamari general education aur human affairs ke management dono ke liye study karne laayak hai, ki humein usse seekhna chahiye aur apni poori lives ke arrangement aur conduct mein is poet ko follow karna chahiye, toh by all means unhe friendship aur affection ki warmth dikhayein [607][e]. Woh, aakhirkar, apni limitations ke andar excellent log hain. By all means agree karein ki Homer highly poetic hai, aur tragic writers ke beech first hai, lekin aware rahein ki akeli poetry jise hum apne city mein accept kar sakte hain woh gods ke liye hymns aur good men ki praise mein verses hain. Agar aap honeyed Muse ko accept karte hain, song ya poetry mein, toh established custom aur us cheez ke bajaye jise hamesha generally best accept kiya gaya hai – reason – pleasure aur pain aapke city mein twin kings honge.’
+
+‘Very true,’ usne kaha.
+
+‘Well, kyunki humne poetry ke subject ko dobara up laya hai, hamara defence yeh hone dein [b]. Kyunki wahi hai jaisi woh hai, hamare liye use apne city se banish karna unreasonable nahi tha. Reason ne iski demand ki thi. Aur aayein usse kahein, agar woh humpar harsh ya uncultured hone ka accuse karti dikhti hai, ki poetry aur philosophy ke beech ek long-standing antagonism hai. “Howling dog” jo “apne master ke khilaf yelps karta hai,” “fools ke empty eloquence mein great,” “wise men ka mob jinhone Zeus ko master kar liya hai,” “kaise subtle thinkers abhi bhi beggars hain,” aur countless doosre passages, unke long-standing opposition ke evidence hain [c].
+16
+Aur agar, iske baavjood, imitation, woh poetry jo pleasure ke liye hai, ke paas koi argument hai yeh dikhane ke liye ki use ek well-governed city mein include kiya jana chahiye, toh hamara reply yeh hone dein ki apne haal par chhode jaane par hum gladly use wapas allow karenge. Hum jaante hain ki hum khud use kitna beguiling paate hain. Lekin jise hum true vishwās karte hain use abandon karna galat hai [d]. Kya aap bhi waisa nahi paate, mere dost? Kya aap use beguiling nahi paate, particularly jab yeh Homer ke through hota hai ki aap use behold karte hain?’
+
+‘Haan, very.’
+
+‘Toh kya woh apna return banane ke entitled hai – lekin sirf khud ko defend karne ke baad, lyric ya kisi doosre metre mein?’
+
+‘Absolutely.’
+
+‘Aur main suppose karta hoon ki hum uske defenders mein se unhe jinke paas poetry ke liye koi gift nahi hai, lekin poetry ke lovers hain, uske behalf par prose mein bolne ki permission de sakte hain, aur humein batane ki ki woh na sirf pleasurable hai balki ek good thing bhi hai – political regimes aur individual human lives ke liye. Hum achhe listeners honge, kyunki main imagine karta hoon ki yeh clearly hamare advantage mein hoga agar use pleasurable ke sath-sath ek good thing bhi dikhaya jata hai [e].’
+
+‘Yeh hamare advantage mein kaise nahi ho sakta?’ usne kaha.
+
+‘Aur agar woh humein woh nahi bata sakte, mere pyare dost, toh humein wahi karna chahiye jo lovers karte hain jab woh kisi ke sath love mein pad gaye hon aur decide kiya ho ki unka love ek good thing nahi hai. Woh door rehte hain. Yeh ek struggle ho sakta hai, lekin woh door rehte hain nonetheless. Hamare sath bhi wahi hai. Imitative poetry ka love hamare andar grow hua hai hamare in wonderful regimes mein bring up hone ke result ke roop mein, aur yeh humein yeh vishwās karne ke liye predispose karega ki woh jitna possible ho utni good aur true hai [608]. Lekin jabki woh is defence ko banane ke incapable rehti hai, hum khud ko recite karenge, jaise hum use sunte hain, is argument ko jise humne put forward kiya hai, hamare childish lekin popular passion mein kisi relapse ko prevent karne ke liye ek kind of charm ke roop mein. Aur yeh woh spell hoga jise hum recite karenge, ki is kind ki poetry aisi cheez nahi hai jise seriously liya jaye, ek important cheez ke roop mein, truth par kisi bearing ke sath [b]. Listener ko iske khilaf apne guard par hona chahiye agar woh apne andar ke regime ke baare mein concerned hai, aur poetry par uske views woh hone chahiye jinhe humne aaj put forward kiya hai.’
+
+‘Main isse zyada agree nahi kar sakta tha,’ usne kaha.
+
+‘Yeh ek great test hai, Glaucon, logon ke realise karne se bada – good ya bad turn out hone ka yeh question. Humein success, money, power – ya poetry dwara bhi – justice, ya general mein virtue ko neglect karne mein lead nahi hona chahiye.’
+
+‘Humne aaj jo kaha hai uske baad, main agree karta hoon. Koi aur bhi karta, main imagine karta hoon.’
+
+‘Aur woh bina un rewards aur prizes ke greatest ko mention kiye hai jo virtue ke liye offer par hain [c].’
+
+‘Jitna hum imagine kar sakte hain usse greater, aapka matlab hona chahiye, agar doosre rewards hain jo hamare dwaara describe kiye gaye rewards se greater hain.’
+
+‘Time ke ek short space mein kuch bhi great nahi ho sakta,’ maine kaha. ‘Aur presumably, eternity ke comparison mein, childhood se old age tak ka hamara time ka poora span time ka ek short space hai.’
+
+‘A mere nothing,’ usne kaha.
+
+‘Well, phir. Kya aap sochte hain koi cheez jo immortal hai use time ke is short period mein seriously interested hona chahiye, aur poore time mein nahi [d]?’
+
+‘Nahi, main sochta hoon use poore time mein interested hona chahiye. Aap kis taraf ishara kar rahe hain?’
+
+‘Kya aap for a fact nahi jaante,’ maine kaha, ‘ki hamari soul immortal hai, ki yeh kabhi nahi marti?’
+
+Usne astonishment mein meri taraf dekha. ‘Good heavens, nahi,’ usne kaha. ‘Main for a fact woh nahi jaanta. Aapke baare mein kya? Kya aap certain ke liye aisa kehne ki position mein hain?’
+
+‘Haan, main hoon – jab tak ki main greatly at fault na hoon. Aap bhi hain, main imagine karta hoon. Is baare mein koi difficulty nahi hai.’
+
+‘Mere liye hai,’ usne kaha. ‘Toh main bahut pasand karunga ki aap mujhe is cheez ke baare mein bataayein jo koi difficulty present nahi karti.’
+
+‘Suno, phir,’ maine kaha.
+
+‘Bataiye.’
+
+‘Kya aap kehte hain wahan ek good aur ek bad hai [e]?’
+
+‘Haan, main kehta hoon.’
+
+‘Aur kya unke baare mein aapka opinion mere opinion jaisa same hai?’
+
+‘Aapka opinion kya hai?’
+
+‘Ki jo corrupt aur destroy karta hai woh hamesha bad hota hai, jabki jo save aur preserve karta hai woh good hota hai?’
+
+‘Haan, main vishwās karta hoon usme,’ usne kaha.
+
+‘Har cheez ke liye ek bad aur ek good ke baare mein kya? Kya aap unhe accept karte hain? Eyes ke liye ophthalmia, for example [609]. Ya agar yeh poora body hai, disease. Corn ke liye yeh blight hai, wood ke liye yeh rot hai, aur bronze aur iron ke liye yeh rust hai. Kya practically har cheez ke paas, jaise main kehta hoon, uska apna characteristic evil aur disease nahi hota?’
+
+‘Haan, main use accept karta hoon.’
+
+‘Jab in agents mein se ek kisi cheez par attack karta hai, kya yeh us cheez ko weaken karta hai jispar yeh attack karta hai? Kya yeh end mein ise break down karta hai aur ise completely destroy karta hai?’
+
+‘Iska aisa karna bound hai.’
+
+‘Toh yeh characteristic evil hai jo har cheez ke paas hota hai, aur weakness jo yeh cause karta hai, jo har cheez ko destroy karta hai [b]. Aur agar yeh ise destroy nahi karta, toh koi doosri cheez bhi ise destroy nahi kar sakti. Good certainly kabhi kisi cheez ko destroy nahi karne ja raha hai. Na hi woh jo na toh good hai aur na hi bad.’
+
+‘Nahi, of course nahi,’ usne kaha.
+
+‘Toh agar hum existing cheezon ke beech kuch aisa paate hain jiske paas ek evil hai jo ise bad banata hai, aur phir bhi yeh evil ise destroy karne aur break down karne ke incapable hai, kya hum tab nahi jaanenge ki us case mein ise destroy kiya jana kabhi iske nature mein nahi tha?’
+
+‘Woh reasonable hoga,’ usne kaha.
+
+‘Very well. Soul ke baare mein kya? Kya uske paas kuch aisa nahi hai jo ise bad banata hai?’
+
+‘Iske paas certainly hai,’ usne kaha [c]. ‘Woh sabhi cheezein jinhe humne abhi describe kiya hai. Injustice, lack of discipline, cowardice, ignorance.’
+
+‘Well, phir, kya inmein se koi ise break down karta hai aur ise destroy karta hai? Careful rahein, ab. Hum yeh sochne ki mistake nahi karna chahte, jab koi unjust aur foolish person unjust detect hota hai, ki woh injustice dwara destroy ho gaya hai, jo soul ka defect hai. Iske bajaye ise is tarah dekhein. Body ke case mein, body ka defect – jo disease hai – ise waste away karta hai, ise corrupt karta hai, aur ise is point par laata hai ki yeh body bhi nahi rehta. Same way mein woh sabhi cheezein jinake baare mein humne abhi baat ki hai non-being ke point tak pahonchti hain, jab unka apna specific evil unse attach hota hai, unhe occupy karta hai, aur unhe destroy karta hai [d]. Kya yeh right nahi hai?’
+
+‘Haan.’
+
+‘Good. Ab, soul ko same way mein dekhein. Jab injustice aur vice ke doosre forms isme present hote hain, kya unka presence, aur unka isse attachment, soul ko corrupt aur decompose karta hai jab tak ki woh ise death ke point par na le aayein, aur ise body se separate na kar dein?’
+
+‘Nahi, woh woh certainly nahi kar sakte,’ usne kaha.
+
+‘Lekin yeh illogical hai,’ maine kaha, ‘yeh imagine karna ki koi cheez kisi doosri cheez ke defect dwara destroy ho sakti hai, agar yeh apne khud ke defect dwara destroy nahi ho sakti.’
+
+‘Haan, woh illogical hai.’
+
+‘Bhooliye mat, Glaucon, hum food ke defect ko, food ka specific defect jo bhi ho – age, ya rotten hona, ya jo kuch bhi – body ke destruction ke liye responsible regard nahi karte [e]. Agar food ka specific defect body ko bodily decay impart karta hai, toh hum kahenge ki body apne khud ke evil dwara destroy hua hai, jo disease hai, jo un cheezon se arise hoti hai. Lekin hum kabhi yeh accept nahi karenge ki body, jo ek cheez hai, food ke defect dwara destroy ho sakta hai, jo ek kaafi different cheez hai [610]. Yeh ek external evil dwara destroy nahi ho sakta, jab tak ki woh badle mein body ke apne characteristic evil ko implant na kare.’
+
+‘Absolutely right,’ usne kaha.
+
+‘Same argument dwara, isliye, agar body ka defect soul mein soul ke apne defect ko implant nahi karta hai, toh hum kabhi accept nahi karenge ki soul ek external evil dwara destroy hoti hai, iske apne defect ki absence mein. Hum ek cheez ko doosri ke evil dwara destroy nahi karwa sakte.’
+
+‘Iska sense banta hai.’
+
+‘Which case mein, ya toh aayein hamare is claim ko false prove karein ya, jab tak yeh false prove nahi hota, aayein kabhi admit na karein ki fever, ya koi doosri illness, ya murder – bhale hi koi poore body ko smallest pieces mein cut kar de jinhe aap imagine kar sakte hain – soul ke destruction ko la sakta hai [b]. Kam se kam, tab tak nahi jab tak koi humpar yeh demonstrate na kare ki body ke sath hone wali yeh cheezein soul itself ko zyada unjust ya zyada unholy banati hain. Hum kisi ko yeh kehne ki anumati nahi denge ki soul, ya koi doosri cheez, kisi aur cheez ke sath hone wale ek external evil dwara destroy hoti hai, agar iska apna evil iske sath nahi hota [c].’
+
+‘Aur woh aisi cheez hai,’ usne kaha, ‘jise koi kabhi show karne ke able nahi hoga – ki dying logon ki souls death dwara zyada unjust banayi jaati hain.’
+
+‘Agar kisi ke paas hamare argument ko challenge karne ka nerve hai, kyunki woh yeh admit karne par compelled hona nahi chahta ki souls immortal hain – agar woh kehta hai ki dying person worse aur more unjust ban jata hai, main imagine karta hoon hamara view yeh hoga ki agar jo woh kehta hai woh true hai, toh injustice apne possessor ke liye fatal honi chahiye, ek disease ki tarah [d]. Jo ise catch karte hain unhe zaroor marna chahiye kyunki disease itself unhe apne nature se kill karti hai – most unjust ko zyada quickly, less unjust ko zyada slowly – aur aise nahi, jaise ab, kyunki unjust ko unki injustice ke liye doosre logon dwara death par put kiya jata hai jo unpar yeh penalty inflict karte hain.’
+
+‘Good heavens,’ usne kaha. ‘Injustice aakhirkar itni alarming cheez nahi niklegi, agar yeh sach mein kisi ke liye fatal hai jo ise catch karta hai. Yeh uski troubles se ek escape hoga [e]. Lekin mera jhukav yeh sochne ki taraf kahin zyada hai ki yeh bilkul opposite niklegi – ki yeh doosron ko kill karti hai, agar yeh kar sakti hai, lekin us person ko added vitality deti hai jo ise possess karta hai. Aur sirf vitality nahi, balki alertness bhi. Woh dikhata hai, mujhe lagta hai, yeh fatal hone se kitna door hai. Ise miles se miss karta hai.’
+
+‘Aap right hain,’ maine kaha. ‘Aakhirkar, agar soul ka apna particular defect aur apna particular evil ise kill ya destroy karne ke liye kaafi nahi hain, toh kisi doosri cheez ke destruction ke liye allocated evil shayad hi ise destroy karne ja raha hai – ya kisi doosri cheez ko us cheez ke alawa jiske liye yeh allocated hai.’
+
+‘Nahi, iski shayad hi sambhavna hai.’
+
+‘Which case mein, agar yeh kisi evil dwara destroy nahi hoti hai – na toh apne aur na hi kisi aur ke – yeh obvious hai ki ise necessarily aisi cheez hona chahiye jo hamesha exist karti hai [611]. Aur agar yeh hamesha exist karti hai, toh ise immortal hona chahiye.’
+
+‘Necessarily,’ usne kaha.
+
+‘Very well. Aayein ise lein ki cheezein aisi hi hain. Aur agar woh aisi hain, aap realise karte hain ki hamesha same souls exist karti hongi. Unmein se kabhi kam nahi ho sakti hain, main ise leta hoon, agar koi destroy nahi ho sakti. Na hi unmein se zyada ho sakti hain, kyunki agar immortal cheezon ki class mein se kisi aur ka astitva mein aana kabhi possible hota, aap dekh sakte hain ki unhe mortal se astitva mein aana padta, aur aap end up hote har cheez ke immortal hone ke sath.’
+
+‘True.’
+
+‘Woh aisi cheez nahi hai jise hum contemplate karna chahte hain,’ maine kaha [b]. ‘Reason ise allow nahi karega. Aur aayein yeh bhi na sochein, ki soul apne truest nature mein us kind ki cheez hai jo highly variegated hai, ya difference aur inconsistency se bhari hui.’
+
+‘Aapka kya matlab hai?’
+
+‘Agar koi cheez kai constituents se composed hai, aur iska composition perfect se kam hai – jaise humne soul ke sath paaya hai – toh iske liye immortal hona easy nahi hai.’
+
+‘Nahi, yeh probably nahi hai.’
+
+‘Very well. Ki soul aisi cheez hai jo immortal hai ek aisa conclusion hai jispar hum dono is recent argument dwara aur doosre arguments dwara drive kiye ja sakte hain. Lekin agar hum jaan-na chahte hain ki yeh sach mein kaisi hai, humein ise us form mein nahi dekhna chahiye jismein hum currently ise dekhte hain, body aur doosre evils ke sath iski partnership dwara crippled, balki iski pure state mein [c]. Aur woh aisi cheez hai jise sirf reason ke means dwara adequately dekha ja sakta hai. Hum ise kahin zyada beautiful paayenge, aur justices aur injustices ka, aur un sabhi cheezon ka jinhe humne abhi tak describe kiya hai ek kahin clearer view paayenge. Humne abhi tak jo kaha hai woh sabhi us tareeqe ke baare mein truth hai jis tareeqe se yeh present mein appear hoti hai [d]. Aur humne iska jo kuch dekha hai woh Glaucon jaisa kuch hai jo ocean mein rehta hai, agar log use dekhein. Unhe ab us shape ko make out karna aasan nahi lagega jiske sath usne start kiya tha, kyunki uske body ke original parts mein se kuch break off ho gaye hain, doosre wear away ho gaye hain aur waves dwara completely erode ho gaye hain, jabki shells, seaweed aur stones jaisi cheezein uspar grow ho gayi hain. As a result, woh ab apne original nature ko resemble nahi karta. Woh kisi kind ke wild beast jaisa dikhta hai. Hamare sath bhi wahi hai, soul ko dekhte hue jab yeh in sabhi evils se afflicted hoti hai. Nahi, Glaucon, humein ek different direction mein dekhna chahiye.’
+
+‘Kis direction mein?’ usne kaha.
+
+‘Humein soul ke love of wisdom ki taraf dekhna chahiye [e]. Humein mind mein rakhna chahiye ki yeh kis cheez se chipakti hai, kis kind ki company ke liye yeh yearn karti hai, kyunki yeh uski kin hai jo divine, immortal aur hamesha existing hai, aur yeh kya ban sakti hai agar yeh khud ko entirely isme devote kare, aur agar yeh enthusiasm ise us sea se baahar upar le aaye jismein yeh ab hai, isse stones aur shells ko strike karte hue, earth aur stone ke un sabhi coarse accretions ko jo ab iske charon taraf grow ho gaye hain earth par iske supposedly “happy” feasting ke result ke roop mein [612].
+17
+Tab aap soul ka true nature dekhenge, chahe yeh complex ho ya simple – ya however exactly yeh hai. Moment ke liye, halanki, mujhe lagta hai humne un cheezon ka ek adequate description diya hai jo iske sath ho sakti hain, un shapes ka jinhe yeh human life mein assume kar sakti hai.’
+
+‘Humne certainly diya hai,’ usne kaha.
+
+‘Wahan aap hain, phir,’ maine kaha. ‘Hamari discussion ke course mein humne hamare claim ke various objections ko remove kar diya hai [b]. Humein justice ke rewards aur reputation ka resort nahi lena pada hai, jaise aap dono keh rahe the ki Homer aur Hesiod ne kiya tha.
+18
+Kya humne yeh nahi paaya hai ki thing itself, justice, soul itself ke liye best hai, aur ki soul ko woh karna chahiye jo just hai, chahe yeh Gyges ki ring possess karti ho ya nahi – ya yahan tak ki Gyges ki ring aur Hades ki cap dono?’
+19
+
+‘Very true. Humne paaya hai.’
+
+‘Which case mein, Glaucon, kya hamare aage jaane par abhi bhi koi objection ho sakta hai, aur justice aur virtue ke baaki hisse ko un great rewards ko restore karne par jinhe woh characteristically soul ke liye laate hain, men aur gods alike se, dono ek man ki lifetime ke dauran aur uski death ke baad [c]?’
+
+‘Nahi. Koi objection nahi,’ usne kaha.
+
+‘Toh kya aap ab us loan ko repay karenge jo maine aapko hamari discussion ke course mein diya tha?’
+
+‘Kaun sa loan?’
+
+‘Maine aapko grant kiya tha ki just man ko unjust appear hona chahiye, aur unjust man ko just. Aap dono ne socha tha ki chahe cheezein gods aur men ki eyes mein jaisi bhi appear hon, humein argument ke sake ke liye phir bhi woh allowance banana chahiye, taaki pure justice ko pure injustice ke comparison mein judge kiya ja sake [d]. Ya kya aapko woh kehna yaad nahi hai?’
+20
+
+‘Main injustice ka guilty hounga agar main ise bhool gaya,’ usne kaha.
+
+‘Us case mein, kyunki unhe ab judge kiya ja chuka hai, justice ke name par main hereby us reputation ke return ke liye poochhta hoon jo iske paas in fact gods aur men ke beech hai. Main request karta hoon ki humein bhi agree karna chahiye ki yeh wahi reputation hai jo iske paas hai. Ise victory ke un prizes ko bear off karne dein jinhe yeh just appear hone se paati hai, aur jinhe yeh un logon ko deti hai jo ise possess karte hain, ab jabki humne dekha hai ki kaise yeh indeed un good cheezon ko provide karti hai jo just hone se aati hain, aur ki yeh unhe deceive nahi karti jo truly iska hold lete hain.’
+
+‘Us request mein justice hai [e].’
+
+‘Kya aap shuruat karenge,’ maine kaha, ‘yeh grant karke ki gods kam se kam is baare mein fooled nahi hain ki dono mein se koi, just ya unjust, kaisa hai?’
+
+‘Hum karenge.’
+
+‘Aur agar gods fooled nahi hain, toh ek gods dwara loved hai, aur doosra hated, us tareeqe se jaise humne originally agree kiya tha.
+21
+’
+
+‘Yeh aisa hai.’
+
+‘Kya hum agree kar sakte hain ki jise gods love karte hain uske liye, har cheez jo gods se aati hai woh best hai jo possibly aa sakti hai, jab tak ki usne pehle se committed fault ke result ke roop mein kisi unavoidable evil ke sath start na kiya ho [613]?’
+
+‘Indeed hum kar sakte hain.’
+
+‘Same way mein, phir, humein ise lena chahiye ki agar just man poverty ya sickness mein girta hai, ya un doosri cheezon mein se kisi mein jinhe generally evils regard kiya jata hai, yeh sab uske liye well turn out hoga ya toh uski lifetime mein ya uski death ke baad. Woh gods dwara kabhi neglect nahi kiya jayega agar woh just banne ke baare mein serious hone ke liye willing hai, virtue practice kare, aur utna god jaisa bane jitna ek man ke liye banna possible hai.’
+
+‘Woh kaafi fair hai [b]. Is jise person ko kisi aise person dwara neglect nahi kiya jana chahiye jo uske jaisa hai.’
+
+‘Aur unjust man ke baare mein hamara opinion? Kya use exact opposite hona chahiye?’
+
+‘Absolutely.’
+
+‘Toh yeh us kind ke prizes hain jinhe just man gods se receive karega.’
+
+‘Certainly wahi mera view hai,’ usne kaha.
+
+‘Un prizes ke baare mein kya jinhe woh men se receive karega? Kya yeh position nahi hai, agar hum sach mein kehne ja rahe hain ki cheezein kaisi hain? Kya clever, unjust log bilkul un runners ki tarah nahi hain jo outward leg run karne mein achhe hain, lekin inward leg mein nahi [c]?
+22
+Woh start par eagerly leap off karte hain, lekin end mein khud ko fools banate hain. Ears laid back, woh uncrowned aate hain. True runners ise end tak banate hain, prizes carry off karte hain, aur crown wear karte hain. Kya generally wahi nahi hota un logon ke sath jo just hain? Unke kisi bhi actions ya doosre logon ke sath dealings ke end par, aur unki life ke end par, kya unke paas ek achhi reputation nahi hoti, aur human realm mein prizes ke sath walk off karte hain?’
+
+‘Indeed woh karte hain.’
+
+‘Which case mein, kya aap ise put up kar sakte hain agar main unke baare mein woh kahoon jo aapne unjust ke baare mein kaha tha [d]?
+23
+Main kahunga ki jaise woh older hote hain, just log, agar woh chahein, apne city mein political office hold kar sakte hain. Woh jahan chahein wahan marry kar sakte hain, aur apne children ko kisi ke bhi sath marriage mein de sakte hain jise woh pasand karte hain. Har cheez jo aapne unjust ke baare mein kahi thi, main ab just ke baare mein kehne ja raha hoon. Jab unjust ki baat aati hai, contrast dwara, main kahunga ki bhale hi woh isse get away kar jaayein jab woh young hon, race ke end tak unmein se zyadatar ne khud ko fools bana liya hota hai, aur overtaken ho chuke hote hain. Jab tak woh old hote hain woh ek wretched state mein hote hain – foreigners aur citizens dwara insulted, whipped, aur woh sabhi cheezein jinhe aapne crude aur uncivilised describe kiya tha [e]. Rightly so, unke rack par put kiye jaane, aur unki eyes burnt out hone ke sath. Imagine karein aapne mujhe yeh kehte hue suna hai ki yeh sabhi cheezein unjust ke sath hoti hain. Aap kya sochte hain? Kya aap use accept karne ja rahe hain jo main kehta hoon?’
+
+‘Main certainly hoon,’ usne kaha. ‘Jo aap kehte hain uske side par justice hai.’
+
+‘Well,’ maine kaha, ‘yeh woh prizes, rewards aur gifts honge jo just man apni lifetime ke dauran paata hai, dono gods aur men se, un good cheezon ke upar jinake baare mein hum baat kar rahe the, jinhe justice herself offer karti hai [614].’
+
+‘Very fine aur reliable, too.’
+
+‘Lekin yeh kuch nahi hain,’ maine kaha, ‘number ya magnitude mein, jab un rewards aur punishments ke sath compare kiye jaate hain jo unmein se har ek ka death ke baad wait karte hain. Aapko unhe bhi sunna chahiye, agar har ek ko full mein woh payment receive karni hai jo argument par uska baaki hai.’
+
+‘Please humein bataayein,’ usne kaha. ‘Main aisi few cheezon ke baare mein soch sakta hoon jinake baare mein main sunna zyada pasand karunga.’
+
+‘Well, yeh kisi ancient mariner ki tale nahi hai jise main aapko batane ja raha hoon [b]. Ek ancient foreigner ki tale se zyada
+24
+– Pamphylia ka ek hero, Er the son of Armenius. Woh battle mein kill ho gaya tha, aur tenth day par, jab dead ko, ab tak decomposed, burial ke liye take up kiya gaya tha, uska body perfectly sound paaya gaya tha. Use ghar le jaya gaya, aur twelfth day par, jab woh funeral pyre par lie kar raha tha, burial ke liye ready, woh dobara life mein aa gaya. Aur life mein aane ke baad, usne logon ko bataya jo usne us jagah dekha tha jahan woh raha tha.
+
+‘Usne kaha ki jab uski soul ne uske body ko chhod diya, toh yeh ek journey par gayi, apne jaisi kai doosri souls ke sath, jab tak ki woh ek wonderful place par nahi aaye jahan ground mein side by side do openings thin, aur upar heavens mein do doosri openings, inse correspond karti hui [c]. Beech mein judges seated the, jinhone jab apne judgments diye toh just ko right aur upwards lead karne wala rasta lene ka order diya, heavens ke through, aur apne front par un judgments ke marks wear karne ke liye jo unke baare mein banaye gaye the. Unjust ko unhone left-hand, downward rasta lene ka order diya [d]. Aur unhone bhi, apni backs par, har us cheez ke marks wear kiye jo unhone ki thi. Jab woh khud aage step kiya, toh unhone kaha ki woh chahte the ki woh mankind ke liye ek messenger ke roop mein act kare, unhe batane ke liye ki wahan kya chal raha tha. Unhone use har us cheez ko sunne aur observe karne ke liye urge kiya jo us place mein hui thi. Wahan usne souls ko depart hote dekha, jaise unpar judgment pass kiya gaya tha, do exits ke through, heavens mein opening aur ground mein opening. Meanwhile doosri do openings ke through souls ya toh rise up ho rahi thin, appearance mein parched aur dusty, ground wali se, ya heavens wali se clean neeche aa rahi thin [e]. Jo log abhi arrive ho rahe the woh aise dikhte the jaise woh ek lambi journey ke baad wahan pahonche the. Woh meadow mein baahar aane, aur wahan camp karne ke liye bahut glad the, jaise ki woh kisi festival mein hon. Unhone ek doosre ko greet kiya – unhone jo acquainted the – aur news exchange ki. Ground se baahar aane walon ne doosron se wahan upar ki cheezon ke baare mein poochha, jabki heavens se aane walon ne badle mein unse poochha ki cheezein kaisi thin jahan woh rahe the [615]. Jaise unhone accounts exchange kiye, pehla group wailing aur weeping kar raha tha jaise unhone un sabhi terrible cheezon ko recall kiya jinhe unhone earth ke neeche apni journey mein – apni thousand-year journey mein – dekha aur experience kiya tha. Jo heavens se aaye the, contrast dwara, un wonderful cheezon ko recount kar rahe the jo unke sath hui thin aur indescribably beautiful sights ko jinhe unhone dekha tha.
+
+‘Ek full account dene ke liye, Glaucon, ek bahut lamba time lagega. Lekin main point, usne kaha, yeh tha. Jo kuch bhi wrongs unhone kisi ke sath kiye the, aur jin kisi bhi logon ke sath un sabhi ne wrong kiya tha, in sabhi ke liye turn mein unhe ek penalty pay karni padti thi – har offence ke liye ten times over [b]. Hundred years each ke ten periods, in other words, yeh ek human life ka measure hone ke naate. Isne yeh sunishchit kiya ki woh offence ke liye ek tenfold payment pay karenge. For example, agar unmein se koi kai logon ki deaths ka guilty raha tha – cities ya armies ko betray karna aur logon ko slavery mein cast karna, perhaps, ya kisi doosri cruelty mein part play karna – in sabhi counts par unhone har offence ke liye tenfold pain earn kiya [c]. Equally, kisi bhi good deeds ke liye, aur khud ko just aur holy dikhane ke liye due rewards earn kiye gaye the. Aur usne kuch kaha, yadyapi note karne laayak kuch nahi, un logon ke baare mein jo birth par mar gaye ya sirf ek short time ke liye jeeve. Usne gods aur parents ke prati piety ya impiety ke liye, aur murder ke liye still greater rewards aur penalties ko bhi describe kiya.
+
+‘Usne kaha woh ek person ke across aaya jisse doosre dwara poochha ja raha tha ki Ardiaeus the Great kahan tha. Yeh Ardiaeus thousand years pehle Pamphylia mein kisi city mein tyrant raha tha [d]. Usne apne aged father aur apne older brother ko maar diya tha, aur kai doosre wicked deeds kiye the, aisa kaha jata tha. “Woh is place par nahi aaya hai,” poochhe ja rahe person ne reply kiya. “Na hi woh kabhi aayega. Woh appalling sights mein se ek tha jo humne dekha. Jab hum har us cheez ke through ho chuke the jiske through humein jana tha, aur opening ke close the, bas upar aane hi wale the, humne achanak Ardiaeus aur kuch doosron ki sight catch ki. Woh tyrants the, unmein se zyadatar, yadyapi wahan kuch private citizens the jinhone heinous crimes commit kiye the [e]. Jab in logon ne socha ki upar jaane ki unki turn thi, toh opening ne unhe through allow karne se refuse kar diya. Iske mouth ne ek loud roar diya jab bhi in irredeemably wicked logon mein se kisi ne, ya un logon mein se kisi ne jise sufficiently punish nahi kiya gaya tha, pass through hone ka attempt kiya. Aur wahan khade savage men the, fiery aspect ke, jinhone sound ko recognise kiya. Kuch logon ko unhone seize kiya, aur unhe le gaye, lekin jahan tak Ardiaeus aur uske jaise doosron ka sawaal hai, unhone unke hands, feet aur heads ko bind kiya, unhe ground par throw kiya, aur unhe flay kiya [616]. Phir unhone unhe road ke beside thorn bushes ke upar drag kiya, unhe tear aur rasp karte hue. Unhone kisi particular moment par pass hone walon ko explain kiya ki logon ko kyun drag away kiya ja raha tha, aur kaha ki unhe Tartarus mein throw kiya jaane wala tha.” Usne kaha ki unmein se har ek ke liye, fears ki us poori range se jinpar woh us place mein exposed the, yeh greatest tha – ki jab woh opening tak upar aayein toh voice suni ja sakti hai. Aur unmein se har ek silence mein pass through hone ke liye only too glad tha.
+
+‘Penalties aur punishments ke kinds ke liye itna hi, phir – aur corresponding rewards ke liye [b]. Har group ke liye, meadow mein stay seven days tak chala. Iske end par, eighth day par, unhe get up hona pada aur ek journey par jana pada, four days ke baad ek aisi place par arrive hote hue jahan se woh light ka ek shaft dekh sakte the, ek pillar ki tarah, upar se poore heaven aur earth ke through extend hota hua. Light kisi bhi doosri cheez se zyada ek rainbow jaisi thi, sirf brighter aur more pure [c]. Ek day ki journey unhe wahan le aayi jahan light thi, aur wahan light ke middle mein woh heaven se extended, iski chains ke extremities dekh sakte the. Yeh light heavens ko bind karti hai. Yeh ek trireme ke cables jaisi hai jis tareeqe se yeh poore revolving firmament ko ek sath hold karti hai. Aur extremities se unhone Necessity ka spindle extended dekha, jiske dwara sabhi separate rotations motion mein set kiye jaate hain. Spindle ka shaft aur hook adamant ke hain, whorl partly adamant ka hai aur partly doosre materials ka.
+25
+
+‘Whorl ka nature nimnlikhit hai [d]. Appearance mein yeh un whorls jaisa hai jo hamare paas yahan hain, lekin jo usne kaha usse humein is baare mein is tarah sochna hoga. Ek single large whorl imagine karein jise chisel ke sath completely hollow out kiya gaya ho, aur iske andar ek second, smaller whorl, isme exactly fit hota hua, un pots ki tarah jo ek doosre ke andar fit hote hain. Similarly ek third, fourth, aur phir four more, sabhi milakar total eight whorls banate hue, ek ke andar ek.
+26
+Unke rims upar se kai circles ke roop mein show hote hain, aur shaft ke charon taraf ek continuous surface ke sath ek single whorl form karte hain [e]. Shaft ko right eighth whorl ke middle ke through drive kiya gaya hai. Pehla aur outermost whorl circular rim ki breadth ke terms mein broadest hai. Sixth ka rim second aata hai, fourth rim third aata hai, eighth rim fourth aata hai, seventh rim fifth aata hai, fifth rim sixth aata hai, third rim seventh aata hai, aur second eighth aata hai [617]. Largest whorl ka rim spangled hai, seventh ka rim brightest hai, eighth ka rim seventh ke ispar shine karne se apna colour derive karta hai. Second aur fifth ek doosre ke kaafi similar hain, aur doosron ke muqable yellower. Third ke paas whitest light hai, fourth reddish hai, aur sixth third ke baad next whitest hai.
+
+‘Spindle rotate ho raha hai. Ek whole ke roop mein dekha gaya, yeh sab same speed par round jata hai, lekin whole ke andar, jaise yeh revolve hota hai, seven inner circles whole ke opposite direction mein gently revolve ho rahe hain [b]. In inner circles mein se number eight fastest turn hota hai, jiske baad numbers seven, six aur five aate hain, jo sabhi same speed par travel karte hain. Iske counter-rotation ki speed mein third, jaise yeh unhe appear hua, fourth whorl tha. Fourth number three tha, aur fifth number two. Spindle itself Necessity ki lap mein turn hota hai. Iske circles mein se har ek ke rim par ek Siren perched hai, jo iske sath round carry hoti hai, ek single sound utter karti hui, ek single musical note. Sabhi eight ek sath combine hokar ek single harmony produce karte hain [c].
+27
+Wahan equal distances par, ek circle mein seated teen doosri hain, har ek ek throne par. Yeh Fates hain, Necessity ki daughters: Lachesis, Clotho aur Atropos. Woh white mein clothed hain, apne heads par garlands ke sath, aur woh Sirens ke accompaniment mein sing karti hain. Lachesis past ke baare mein sing karti hai, Clotho present ke baare mein, aur Atropos future ke baare mein. Clotho ka right hand spindle ke outer circumference par hai, ise intervals par turn karte hue [d]. Atropos, apne left hand ke sath, inner rims ke liye same karti hai. Lachesis inner aur outer dono ko in turn touch karti hai, har hand se ek.
+
+‘Woh khud, jab woh arrive hue, unhe immediately Lachesis ke samne jana pada. Ek kind of prophet, ya speaker ne, unhe line up karke shuruat ki. Phir Lachesis ki lap se usne lots aur patterns of lives draw karne ke liye numbers liye. Ek high platform par ascend karte hue, usne bolna shuru kiya. “Maiden Lachesis ka word, daughter of Necessity. Souls, ek day ke creatures, yahan mortal life ka ek aur cycle aur yeh jo death laata hai shuru hota hai. Aapka guardian spirit
+28
+aapko lot dwara nahi diya jayega [e]. Aap apne liye ek guardian spirit choose karenge. Jo pehla lot draw karta hai use life choose karne wala pehla hone dein. Woh phir Necessity dwara isse join kiya jayega. Virtue koi master nahi jaanti. Iske liye aapka respect ya contempt aapme se har ek ko ek greater ya smaller share dega. Choice aapko responsible banati hai. God responsible nahi hai.” In words ke sath usne un sabhi ke beech lots throw kiye, aur har ek ne woh lot pick up kiya jo uske closest gira. Er ke alawa sabhi ne. Use ek pick up karne ki permission nahi thi [618]. Lekin jis kisi ne ek pick up kiya woh clearly dekh sakta tha ki usne kaun sa number lot draw kiya tha. Next usne unke samne ground par patterns of lives spread kiye. Wahan present logon ke muqable unki sankhya kahin zyada thi, aur woh har possible kind ke the – sabhi human lives ke addition mein sabhi animals ki lives. Unme tyrants ki lives thin – kuch lasting, doosri mid-career mein destroy hui, aur poverty aur exile, ya beggary mein end hui [b]. Wahan distinguished men ki lives thin, kuch unke looks, beauty aur general mein unki strength aur prowess ke liye, doosre unki families aur unke ancestors ke virtues ke liye, un men ki lives jo same criteria dwara distinguished nahi the, aur aisi hi range women’s lives ki bhi. Soul ka overall arrangement included nahi tha, kyunki soul inevitably alter ho jaati hai us kind ki life dwara jise yeh choose karti hai. Lekin doosre characteristics ek doosre ke sath mingled the, wealth aur poverty ke sath, disease aur health ke sath – ya in extremes ke beech kuch balance ke sath.
+
+‘Aisa lagta hai, mere pyare Glaucon, jaise ek man ke liye saara danger wahin lie karta hai [c]. Yahi kaaran hai kyun greatest care is taraf directed honi chahiye ki humme se har ek person study ke sabhi doosre branches ko disregard kare, aur hamare is branch ka ek follower aur student bane, is umeed mein ki woh learn aur discover kar sake ki woh kaun hai jo use good life ko bad life se distinguish karne ki ability aur knowledge dega, aur hamesha aur har jagah, un sabhi possible mein se, us life ko choose kare jo better hai. Use un sabhi cheezon ko consideration mein lena chahiye jinake baare mein humne aaj yahan baat ki hai, unhe ek doosre ke sath compare karte hue aur excellence of life ke terms mein unke beech choose karte hue [d]. Use yeh jaan-ne ki zaroorat hai ki effect kya hai, good ya bad ke liye, beauty ka jab poverty ya riches ke sath mingled ho – aur noble ya ignoble birth ka, private life ya public office ka, strength ya weakness ka, learning ki ease ya difficulty ka kya effect hai, aur aisi sabhi matters ka jo soul se ya toh nature dwara ya acquisition dwara connected hain, jab woh sabhi ek doosre ke sath mingled hon. In sabhi cheezon ko consideration mein lete hue, use choose karne ke able hona chahiye, soul ke nature ke reference ke sath worse aur better life ko define karte hue, use worse kehte hue jo soul ko greater injustice ke raste par lead karti hai, aur use better jo greater justice ke raste par lead karti hai [e]. Woh kisi doosri cheez par koi attention pay nahi karega. Aakhirkar, yeh crucial choice hai, jaise humne dekha hai, dono uski lifetime ke dauran aur uski death ke baad. Adamant jaisa fast use is opinion par hold karna chahiye jaise woh Hades jata hai, taaki wahan bhi woh wealth jaise evils dwara distract hone se bach sake, aur is tarah ek tyrant ki life mein plunge hone se, us sort ke behaviour mein jismein woh countless crimes commit karega jinake liye koi remedy nahi hai, aur khud ek even worse fate suffer karega [619]. Nahi, woh jaanega ki aise maamlon mein middle way kaise choose karna hai, dono extremes ko avoid karte hue dono is life mein, jahan tak woh kar sakta hai, aur hereafter ki poori life mein. Yeh ek man ke liye greatest happiness ka way hai.
+
+‘Agli cheez jo Speaker ko kehni thi, afterworld ke is messenger ke according, woh yeh thi [b]. “Last forward aane wale ke paas bhi, provided woh sensibly choose karta hai aur integrity ke sath jeeta hai, uske aage ek worthwhile life hai, ek bad life nahi. Carelessness ke liye koi cause nahi hai agar aap first choose karte hain, despair ke liye koi cause nahi hai agar aap last choose karte hain.” Jab usne bolna finish kiya, toh jis person ne first lot draw kiya tha woh seedhe upar aaya aur usne greatest tyranny ko chuna. Apni folly aur greed mein usne hard enough nahi dekha ki woh kya choose kar raha tha. Usne nahi dekha tha ki iske fate ke andar included tha, doosre evils ke beech, apne khud ke children ko devour karna [c]. Jab uske paas ise dekhne ka time tha, toh usne apna breast beat kiya aur apni choice par lament kiya. Un instructions par koi attention pay na karte hue jinhe Speaker ne pehle issue kiya tha, usne apne misfortunes ke liye khud ko blame karne se inkaar kar diya, fate ko, gods ko, khud ke alawa kisi bhi cheez ko blame karte hue. Woh un logon mein se ek tha jo heavens se aaye the, aur apni previous life mein woh ek well-ordered society mein raha tha. Uske paas virtue ka apna share tha, lekin yeh philosophy ke bajaye habit ka maamla raha tha [d]. Generally speaking, is kind ke predicament mein caught logon ka bulk woh the jo heaven se aaye the, kyunki woh hardship ke experience ke bina the. Earth se aane walon mein se zyadatar, dono khud suffer karne ke baad aur doosron ko suffer karte hue dekhne ke baad, apni choice banane ki koi jaldi mein nahi the. Is reason se, aur jis tareeqe se lot fall out hua uske kaaran, majority of souls ke liye good aur evil ke beech ek alternation tha. Halanki, agar koi hai jo har baar jab woh yahan is life mein enter karta hai, consistently philosophy ko right way mein pursue karta hai, toh provided jis tareeqe se lot fall out hota hai use choose karne walon mein last nahi rakhta, chances hain, agar Er ki report correct hai, na sirf yeh ki woh yahan happy hoga, balki yeh bhi ki yahan se wahan aur dobara wapas uski journey smooth, heavenly road ke sath hogi, rough, terrestrial road ke sath nahi [e].
+
+‘Various souls ke beech lives ki yeh choice, Er ne kaha, well worth seeing ek sight thi – aur ek aisi jo pity, laughter aur amazement command karti thi [620]. For the most part unki choice unki previous life ke character aur habits se match karti thi. Usne us soul ko dekha jo kabhi Orpheus rahi thi ek swan ki life choose karte hue. Women ke hands par uski death ne use female sex ka ek hatred diya tha, aur usne dobara ek woman se conceive aur born hone se inkaar kar diya. Usne Thamyras ki soul ko ek nightingale ki life choose karte hue dekha. Usne ek swan ko change ke way ke roop mein ek human life choose karte hue dekha, aur same doosre musical creatures ke sath [b]. Jis soul ne lottery mein number twenty draw kiya tha usne ek lion ki life choose ki. Yeh Telamon ke son Ajax ki soul thi, ek man ki life ko shun karte hue jaise use weapons ke upar decision yaad aaya. Uske baad wali Agamemnon ki soul thi. Jo kuch iske sath hua tha uske kaaran, is soul ke paas bhi human race ka ek hatred tha. Isne iske bajaye ek eagle ki life choose ki. Atalanta ki soul ne middle mein kahin ek number draw kiya tha. Jab usne ek aise man ke wonderful prizes dekhe jo ek athlete tha, woh unhe resist nahi kar saki, aur unhe chuna [c]. Aur uske baad usne Panopeus ke son Epeius ki soul ko dekha, arts mein skilled ek woman ka nature take on karte hue. Choose karne walon mein bilkul aakhri ke beech usne us clown Thersites ki soul ko ek monkey ka form lete hue dekha. Usne Odysseus ki soul ko bhi dekha, jaisa ki yeh turn out hua usne sabhi mein se last lot draw kiya tha, apni choice banane ke liye aage aate hue. Apni previous life ki hardships ko yaad karte hue, isne ambition ko reject kiya, aur ek private citizen ki life ko dhoondhte hue round wander karte hue ek lamba time bitaya jo apne kaam se kaam rakhta tha. Ek lambi search ke baad usne ek kahin padi paayi [d]. Ise baaki sabhi dwara reject kar diya gaya tha. Jab usne ise dekha, toh usne ise gladly chuna, yeh kehte hue ki usne wahi kiya hota bhale hi usne first lot draw kiya hota. Similarly wild animals ke beech human beings mein moves the, aur ek doosre mein – unjust savage creatures mein change hote hue, just gentle ones mein. Har kind ki intermingling take place kar rahi thi.
+29
+
+‘Jab sabhi souls apni lives choose kar chuki thin, toh woh usi order mein Lachesis ke paas approach huin jis order mein unhone apni choices banayi thin [e]. Usne har ek ko woh guardian spirit diya jise usne choose kiya tha, uske sath jaane ke liye, uski life par watch rakhne ke liye aur uski choices ko fulfil karne ke liye. Yeh spirit pehle soul ko Clotho ke samne laya, uske hand ke aur revolving spindle ke whirl ke neeche pass hote hue, us fate ko confirm karne ke liye jise lot ne use choose karne allow kiya tha. Jab soul ne use touch kiya tha, toh spirit use wahan le gaya jahan Atropos spinning kar rahi thi, is tarah spun thread ko unwind karna impossible banate hue [621]. Aur wahan se, wapas turn kiye bina, yeh Necessity ke throne ke neeche gaya. Jab yeh uske under raha tha, aur jab doosri souls bhi pass through ho chuki thin, toh woh sabhi Plain of Forgetting ki taraf travel kiye, terrible, stifling heat ke through, kyunki plain trees ya kisi bhi aisi cheez se devoid hai jise earth aage laati hai. Ab tak evening hone lagi thi, toh unhone River of Lost Cares ke paas camp kiya, jiska water koi vessel hold nahi kar sakta.
+30
+Water ka ek limited amount drink karna un sabhi ke liye compulsory tha, lekin jo reason dwara save nahi kiye gaye the unhone ek limited amount se zyada drink kiya [b]. Aur jaise har ek ne drink kiya, woh har us cheez ko bhool gaya jo usne dekhi thi. Woh so gaye, aur night ke middle ke around ek thunderstorm aur ek earthquake hua, aur woh achanak wahan se carry away ho gaye, upwards unke births ki taraf, sabhi different directions mein, shooting stars ki tarah.
+31
+Er himself ko water mein se kuch bhi drink karne ki permission nahi thi. Jahan tak iska sawaal hai ki woh kahan aur kaise apne body mein return hua, woh nahi jaanta tha. All of a sudden woh wake up hua, aur usne khud ko, early morning mein, apni funeral pyre par lie karte hue paaya.
+
+‘Is tareeqe se, Glaucon, uski story save hui aur lost nahi hui.
+32
+Aur is tarah yeh hamara salvation ho sakti hai, kyunki agar hum ispar vishwās karte hain toh hum River of Forgetting ko right way mein pass karenge, apni souls ko pollute kiye bina [c]. Aur agar hum meri advice lete hain, toh hum vishwās karenge ki soul immortal hai aur sabhi evils aur sabhi goods ke sath cope karne ke capable hai, aur hum hamesha upper way par rahenge, wisdom ke sath justice practice karne ke liye jo kuch hum kar sakte hain woh karte hue. Us tareeqe se hum khud ke liye aur gods ke liye friends honge, dono jabki hum yahan rehte hain aur jab hum baad mein apne prizes carry off karte hain, apni victory tour par winning athletes ki tarah [d]. Aur is tarah, yahan aur us thousand-year journey par jise humne describe kiya hai, let us fare well.’
+
+---
+
+### Footnotes for Book 10
+
+1. Tulna karein 476a–c, 507b. Sentence ka anuvaad yeh bhi kiya ja sakta hai: ‘Hum typically ek certain form ya character postulate karte hain – ek single form ya character, hamesha – jab bhi hum khud ko cheezon ki plurality par same name apply karte hue paate hain.’
+2. Phrase ka matlab yeh bhi ho sakta hai ‘yeh dekhte hue ki yeh nature ke saadhan dwara hai ki usne dono ise aur har doosri cheez ko create kiya hai [yaani har doosri cheez jise usne banaya hai]’.
+3. Ek obscure phrase. ‘King’ presumably woh god hai jisne banaya ki couch kya hai – true couch, real thing.
+4. Greek culture mein ek canonical religious text ki kami thi, aur literature ne un functions mein se kuch ko perform kiya – inspirational, edifying, instructive, exemplary – jinake liye Christians Bible ki taraf dekhenge.
+5. ‘Homer ke supporters’ (‘Homerids’) ek aisi guild lagti hai jo Homeric poetry ki tradition ko preserve karne aur iske performance ko promote karne ke liye dedicated thi.
+6. Reciters (ya ‘rhapsodes’) Plato ke din mein khud epic poets nahi the balki epic poetry ke professional performers the, jo poore Greek world ke festivals mein appear hote the.
+7. Greek mein, ‘x ko imitate karna’ ambiguous hai ‘imitation ke liye x ko ek model ke roop mein lena’ aur ‘x ka ek image produce karna’, ‘x ko represent karna’ ke beech. Accordingly, jis phrase ka anuvaad ‘imitators of images’ kiya gaya hai uska matlab ‘producers of images’ bhi ho sakta hai.
+8. Socrates Homeric epic ko ek kind of tragedy ke roop mein treat karta hai, yadyapi typically dono genres ko distinct rakha jata tha. Tulna karein 595b.
+9. Two dimensions mein depth ka illusion achieve karne ki ek technique. Tulna karein 523b, 583b, 586b.
+10. Sentence ka anuvaad yeh bhi kiya ja sakta hai: ‘Quite often, jab is element ne apne measurements bana liye hain aur indicate kar raha hai ki cheezon ka ek group doosre se bigger ya smaller hai – ya same size ka – objects ka same group simultaneously exactly opposite appearance present karta hai.’ Yaani, indications ek single element ke bajaye person mein conflict karenge.
+11. 436b.
+12. 439c–441c.
+13. 387d–e.
+14. Grieving ke prati conventional Greek attitudes ka evidence yahan custom ki voice se zyada ambiguously bolta hai. Greek males kuch modern cultures ke muqable weeping se kam inhibited the. Doosri taraf, mourning mein restraint ke liye appeals uncommon nahi the. Dekhein GPM 167–169.
+15. Greek drama mass entertainment tha, jo public holidays par festivals mein perform kiya jata tha.
+16. Quotations sabhi philosophers par poetic attacks se liye gaye hain, unke useless chatter ke liye, unke unjustified arrogance ke liye, religion mein unki irregularity ke liye, worldly success achieve karne mein unki inability ke liye. Hum yahan citations ke sources ko nahi jaante, lekin unmein se kam se kam kuch probably comic drama se aate hain, jo philosophers par pot-shots lena pasand karta tha.
+17. Jab soul body ke sath associate karti hai toh yeh aisa hai jaise yeh dirt khati hai. Tulna karein kaise *Phaedo* (81c–d) mein kuch souls ke baare mein kaha gaya hai ki woh earth ke admixture dwara weighed down ho jaati hain aur divine realm mein escape karne ke incapable hoti hain.
+18. 363 a–b.
+19. Gyges ki ring ko Glaucon dwara Book 2, 359d–360b mein introduce kiya gaya tha. Invisibility confer karne ki iski power ko Hades, underworld ke god, ke cap ya helmet se bhi attribute kiya gaya tha.
+20. Glaucon ne is condition ko 360e–361d par impose kiya tha, aur Adeimantus ne 367b–c par use second kiya tha.
+21. Yeh Book 1 (352b) mein Thrasymachus dwara agree kiya gaya tha, ya balki, oppose nahi kiya gaya tha.
+22. Socrates race ke ek particular type ko refer kar raha hai, ‘double-pipe’: straight track par upar aur dobara wapas ek sprint.
+23. 361d–362c.
+24. Greek mein, Socrates announce karta hai, ‘Yeh koi Alcinous-story nahi hai jise main aapko batane ja raha hoon, balki ek brave man ki story.’ Phrase ‘Alcinous-story’ ek aisi tale ke liye proverbial ban gaya jo long-drawn-out aur tall dono thi, us travels ke narration ke baad jo Odysseus Homer ki *Odyssey* ke Books 9–12 mein King Alcinous ko batata hai – travels jinme underworld ki ek journey included thi. ‘Alcinous-story’ aur ‘brave man’s story’ Greek mein ek pun banate hain: *Alkinou* (‘Alcinous ka’) aur *alkimou* (‘ek brave man ka’). Name Alcinous ka matlab ‘strong of mind’ hai.
+25. Souls ko kya dekhne ko milta hai is question par, interpreters sirf is baat par agree karte hain ki yeh cosmos ke central axis ka aur is axis ke charon taraf heavenly bodies ke revolutions ka ek vision hai. Heaven aur earth ke beech stretch hone wale ek column ya shaft ka motif mythology se familiar hoga – for example, mountain-god Atlas ke connection mein jo heavens ko support karta hai. Yeh disputed hai ki kya trireme cables hull ke neeche se pass hote the aur ship ko iski width ke across bind karte the, ya stern ko bow se bind karne ke liye lengthwise stretch kiye jaate the. Na hi yeh clear hai ki kya light ko trireme cables jaisi shaped describe kiya ja raha hai ya simply unke jaise function karti hui. Ek Greek spindle ek end par weight, whorl, ke sath ek rod tha, iske rotation ko stabilise karne ke liye. Fates ki image har human life ke thread ko spin karne wali goddesses ke roop mein human beings par destiny ki power ko express karne ka ek traditional way tha, aur yeh explicitly 620e par appear hota hai. Yeh traditional nahi tha, halanki, ‘Necessity’ ko personify karna, jaise yahan aur dobara 617d par kiya gaya hai.
+26. Plato ki cosmology mein planets, sun, aur moon central earth ko concentric bands ki ek series mein orbit karte hain, jismein fixed stars outermost band mein ek sath contained hain. Bands ki width mein variation kya represent karta hai yeh uncertain hai. Seven inner bands ka counterrevolution heavens ke overall movement ke relation mein sun, moon aur planets ke various independent movements ko represent karta hai. Whorls ka order, first aur outermost se eighth aur innermost tak, yeh hai: (1) fixed stars, (2) Saturn, (3) Jupiter, (4) Mars, (5) Mercury, (6) Venus, (7) Sun, (8) Moon.
+27. Homer mein Sirens poetic goddesses thin jo sab kuch jaanti thin jo hua tha aur jinka singing sailors ko unki deaths ki taraf lure karta tha (*Odyssey* 12.165–200), lekin Pythagorean imagery mein responsible thin, jaise yahan, ‘music of the spheres’ ke liye, heavenly bodies ke motions dwara cause hone wala sounds ka ek musical concord.
+28. Greek religion mein ek *daimon* generally ek lesser god hota hai, aksar ek deified human hero, aur hamesha human world mein localised doings se closely attached. Kabhi-kabhi, jaise yahan, yeh ek single person ke interests se attached ek spirit hoti hai, which case mein yeh life mein ek person ke fortune ya luck ke synonymous ho sakti hai.
+29. Humans aur animals ke beech souls ke transmigration mein belief ko Pythagoras se attribute kiya jata hai aur fifth-century Sicilian sage Empedocles ke fragments mein claim kiya jata hai. Yeh Anatolian aur Asiatic cultures mein shamanistic aur magical practice ke ek larger context se connected lagta hai.
+30. Socrates ke underworld ke yeh topographic features probably Orphic aur Pythagorean belief se derive hote hain.
+31. Ki hamari souls death ke baad stars ban jaati hain, aur conversely ki stars living intelligences hain, antiquity mein variety of contexts mein paaye jaane wale ideas hain.
+32. Expression proverbial tha, aur Greek ke do senses par play karta hai: ‘story preserve hui thi’, aur ‘story safe ghar aayi’. In phrases mein se second ka matlab hai ki ek story apne appropriate conclusion tak pahonch gayi hai.
