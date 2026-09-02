@@ -8291,3 +8291,884 @@ Lekin political regimes ke ascending scale mein woh jitna higher climb karte hai
 38. Play jisse yeh statement aata hai lost hai, aur kuch sources ise Euripides ke bajaye Sophocles se attribute karte hain. Poets aur intellectuals powerful patrons ke courts mein frequently paaye jaate the.
 39. *Trojan Women* 1169.
 40. Pindar, Simonides aur Aeschylus ke baare mein kaha jata hai ki unhone Sicilian tyrant Hiero ke court ko attend kiya tha, jabki Euripides aur Agathon – tragedian jo Plato ke *Symposium* mein featured hai – Macedonian tyrant Archelaus ke court ko attend kiya tha. Hum non-Athenians ke baare mein bhi jaante hain jo apne dramas perform karwane ke liye Athens aaye the.
+
+---
+
+# Book 9
+
+‘Yeh abhi bhi tyrannical man himself ko chhodta hai,’ maine kaha [571]. ‘Humein poochhna chahiye ki woh democratic man se kaise develop hota hai, woh kis sort ka person hai, aur kis manner ki life woh lead karta hai. Kya woh wretched hai ya blissful?’
+
+‘Haan, hum abhi bhi uske sath chhoote hue hain.’
+
+‘Aur wahan kuch aur hai jiski mujhe zaroorat hai isse pehle ki main usse deal kar sakoon. Kya main aapko bataoon ki woh kya hai?’
+
+‘Kya?’
+
+‘Main hamari desires ke nature aur extent ke hamare analysis se bahut satisfied nahi hoon [b].
+1
+Jab tak hum use remedy nahi karte, hum hamari present enquiry mein kaafi hadd tak dark mein honge.’
+
+‘Aur kya ab bahut late ho gaya hai?’ usne poochha.
+
+‘Bilkul nahi. Main desires ke beech nimnlikhit distinction banana chahta hoon. Is baare mein sochein. Unnecessary pleasures aur desires ke beech kuch aisi hain jo mujhe violent ya lawless lagti hain. Har koi unke sath born hota hai, in all probability, lekin kuch logon mein, laws aur better desires ke control ke tehat, reason ke sath allied hokar, woh ya toh completely eliminate ho jaati hain, ya few aur weak rehti hain. Doosre logon mein, halanki, woh stronger aur more numerous ban jaati hain.’
+
+‘Aapka kaun si desires se matlab hai [c]?’
+
+‘Woh jo sleep mein arouse hoti hain,’ maine kaha, ‘jab soul ka baaki hissa – isme rational, gentle aur ruling element – slumber karta hai, aur bestial, savage part, food ya drink se bhara hua, achanak alive ho jata hai, sleep ko cast off karta hai, aur baahar jaakar apne nature ko satisfy karne ki koshish karta hai. Is state mein, jaise aap jaante hain, kyunki yeh sabhi shame ya rational judgment se released aur set free hota hai, yeh khud ko absolutely kuch bhi karne ke liye la sakta hai. Apne imaginings mein ise ek mother ke sath sexual intercourse attempt karne mein koi hesitation nahi hoti – na hi kisi aur ya kisi doosri cheez ke sath, man ya god ya animal [d]. Aisa koi murder nahi hai jise yeh commit nahi karega, aisa koi meat nahi hai jise yeh nahi khayega. In short, yeh folly aur shamelessness ke kisi bhi length tak jayega.’
+
+‘Aap kitne sahi hain,’ usne kaha.
+
+‘Main imagine karta hoon ki ek healthy aur self-disciplined disposition wala person sleep par jaane se pehle apne rational part ko awaken karega, ise fine arguments aur enquiries par feast karwayega, aur is tarah khud ko khud ke sath harmony ki state mein layega [572][e]. Jahan tak uske desiring part ka sawaal hai, woh ise na toh want aur na hi excess ke samne expose karega. Woh chahta hai ki yeh so jaye, aur soul mein jo best hai use apne pleasure ya pain se disturb na kare, balki ise poori tarah all by itself, solitary aur pure, apni enquiries ko follow karne de aur kisi aisi cheez ke vision ke liye reach out karne de – chahe woh past, present ya future ho – jise yeh nahi jaanta. Wahi soul ke spirited part ke sath jata hai. Woh ise calm down karega, aur kisi ke sath rage mein aane aur apni spirit ko turmoil ki state mein rakhkar sleep par jaane se bachega. Rest ke liye retire hone se pehle use soul ke do elements ko pacify karne aur third ko awaken karne ki zaroorat hoti hai, jo reason ka birthplace hai. In conditions ke tehat, jaise aap jaante hain, woh most easily truth ko grasp kar sakta hai, aur uske dreams mein appear hone wale visions least lawless hote hain [b].’
+
+‘Main entirely agree karta hoon.’
+
+‘Well, humein zaroorat se thoda aage carry along kiya gaya hai. Jo humein jaan-ne ki zaroorat hai woh yeh hai ki har kisi mein desires ki ek terrible, untamed aur lawless class hoti hai – yahan tak ki hum mein se unme bhi jo completely normal appear hote hain. Yeh hamari sleep mein kaafi clear ho jata hai. Kya main sense ki baat kar raha hoon? Kya aap agree karte hain?’
+
+‘Haan, main karta hoon.’
+
+‘Democratic man ko lein, phir, people ke man ko. Yaad karein humne kya kaha tha ki woh kaisa tha [c].
+2
+Woh result tha, mujhe lagta hai main kehne mein right hoon, earliest childhood se ek thrifty father ke tehat ek upbringing ka, jo sirf money-making desires ko value karta tha, aur unnecessary desires ke liye contempt feel karta tha jinaka aim entertainment ya display hai. Kya yeh right hai?’
+
+‘Haan.’
+
+‘Jab woh zyada sophisticated men se mila, jo un desires se bhare the jinhe humne abhi describe kiya hai, uske father ki stinginess ke hatred ne use har kind ke excess mein plunge karwaya, aur in logon ke kind ke behaviour mein. Halanki, kyunki uska nature un logon se better tha jo use corrupt kar rahe the, woh dono directions mein draw hua, aur dono positions ke beech midway finish up hua [d]. Usne moderation mein dono ke benefits enjoy kiye – ya aisa usne socha – aur ek aisi life lead ki jo na toh mean thi aur na hi lawless. Is tareeqe se woh oligarchic type se democratic type mein develop hua.’
+
+‘Haan,’ usne kaha. ‘Is kind ke person ke baare mein hamara opinion wahi tha – aur abhi bhi hai.’
+
+‘Imagine karein, us case mein, ki is jisa koi person ab apne turn mein old ho gaya hai, aur ki dobara ek young son apne father ke way of life mein bring up kiya gaya hai.’
+
+‘All right, main woh imagine kar raha hoon.’
+
+‘Ab further imagine karein ki uske sath wahi hota hai jo usse pehle uske father ke sath hua tha [e]. Use har kind ke lawlessness mein lead kiya jata hai – ya “liberty” mein, jaise use lead karne wale ise kehte hain. Uska father aur uske household ke baaki log intermediate desires ke support mein aate hain, jabki uske seducers uski doosri desires ko support karte hain. Jab yeh cunning magicians aur tyrant-makers use kisi doosre way se control mein rakhne se despair karte hain, toh woh usme ek kind of lust ya passion implant karne ka contrive karte hain,
+3
+un idle desires ka ek champion jo jo kuch available ho use consume karna chahti hain, ek giant winged drone ka ek kind [573]. Kya is kind ke logon mein paayi jaane wali lust ke liye wahi akela description nahi hai?’
+
+‘Akela possible description, agar aap mujhse poochhein.’
+
+‘Very well. Jab doosri desires buzzing karti hui aati hain, incense, perfumes, garlands, wine aur aisi gatherings ke typical dissolute pleasures se bhari hui, toh woh is drone ko feed karti hain, ise ek enormous size tak grow karne mein help karti hain, aur is tarah isme yearning ka sting plant karti hain [b]. Phir soul ka yeh champion madness ko apni bodyguard ke roop mein leta hai, aur berserk ho jata hai. Agar yeh man mein aisi koi desires ya opinions detect karta hai jinhe decent regard kiya ja sakta hai aur jo abhi bhi shame ka kuch sense feel karti hain, toh yeh unhe maar deta hai ya apni presence se banish kar deta hai, jab tak ki yeh soul ko restraint se purge na kar de aur ise foreign madness se na bhar de.’
+
+‘Haan, yeh us tareeqe ka ek perfect description hai jis tareeqe se ek tyrannical man astitva mein aata hai.’
+
+‘Kya yeh us kind ka reason hai, phir,’ maine poochha, ‘kyun Eros ko traditionally ek tyrant kaha gaya hai?’
+4
+
+‘Probably,’ usne kaha.
+
+‘Aur kya ek man jo drunk hai usme bhi tyrant ka kuch hota hai, mere dost [c]?’
+
+‘Usme hota hai.’
+
+‘Aur of course koi jo mad ya deranged hai woh gods ke sath-sath men par bhi rule karne ka attempt karta hai, aur khud ko aisa karne ke capable imagine karta hai.’
+
+‘Absolutely.’
+
+‘Strictly speaking, phir, ek man tyrannical ban jata hai jab ya toh uska nature ya uski habits, ya dono, use drink, lust aur madness ki taraf lead karte hain.’
+
+‘Precisely.’
+
+‘Yeh apne turn mein tyrannical man ka origin hai, apparently. Lekin uski life kaisi hai?’
+
+‘Yeh un question-and-answer jokes mein se ek jaisa hai [d]. All right, phir, main nahi jaanta. Tyrannical man ki life kaisi hai?’
+
+‘Main aapko bataunga. Agla step, mujhe lagta hai, un logon ke liye jinme Lust ek internal tyrant ke roop mein rehti hai, unki soul ke poore course ko direct karte hue, yeh hai ki wahan feasting aur parties hon, celebrations aur call-girls, aur us sort ki har cheez.’
+
+‘Haan, wahan hona bound hai.’
+
+‘Aur har day aur night countless unspeakable desires, countless needs ke sath, addition mein spring up hoti hain, kya nahi hoti hain?’
+
+‘Haan, countless.’
+
+‘Income ka koi bhi source jo wahan ho sakta hai tezi se exhaust ho jata hai.’
+
+‘Of course.’
+
+‘Uske baad borrowing aati hai, aur apne capital par draw karna [e].’
+
+‘Naturally.’
+
+‘Aur jab yeh sab chala jata hai, kya fledgling desires ke dense mass se ek outcry aana bound nahi hai? Jab log dono doosri desires ke stings dwara aur particularly Lust itself dwara drive kiye jaate hain, jo un sabhi ke head par khadi hoti hai jaise ek tyrant apni bodyguard ke head par, kya unka amok run karna, aur deception ya force dwara kisi aisi cheez wale kisi person ko dhoondhna shuru karna bound nahi hai jise unse liya ja sake?’
+
+‘Woh certainly bound hain,’ usne kaha [574].
+
+‘Unke paas koi choice nahi hai, phir, sivaay kisi bhi aisi cheez par haath saaf karne ke jise woh lay kar sakte hain, ya phir khud ko pain aur agony ke grip mein labour karte hue paane ke.’
+
+‘Nahi, unke paas bilkul koi choice nahi hai.’
+
+‘Tyrannical man himself ka behaviour bilkul uske andar ke pleasures jaisa hai, kya nahi hai? Woh older pleasures ke baad aaye, unse take over kiya aur unke enjoyment ko usurp kiya. Kya woh, young hote hue bhi, same way mein apna mind nahi banayega apne father aur mother se take over karne ka aur jo unka hai use usurp karne ka, apne father ki property mein khud ko ek share award karte hue ab jabki usne woh spend kar diya hai jo uska apna tha?’
+
+‘Of course woh karega,’ usne kaha [b].
+
+‘Agar woh refuse karte hain, kya uska pehla resort apne parents ke khilaf theft aur fraud nahi hoga?’
+
+‘Absolutely.’
+
+‘Aur jab kabhi woh isse get away nahi kar sakta, kya uska agla step jo woh chahta hai use force dwara seize karna nahi hoga?’
+
+‘Main imagine karta hoon aisa hi.’
+
+‘Really? Aur agar old man aur old woman use resist karte hain, aur ek fight put up karte hain, toh woh kisi bhi tyrannical cheez se steer clear karne ke liye kitna careful hoga?’
+
+‘Main uske parents ke chances ke liye zyada nahi doonga,’ usne kaha, ‘agar woh use resist karte hain.’
+
+‘God ke sake ke liye, Adeimantus, kya aap keh rahe hain ki kisi inessential cheez ke liye, jaise uski latest mistress, is jisa koi apni mother ke sath blows par aayega, jo uski poori life uske liye dear rahi hai, uski essential kin [c]? Aur ek inessential jaise uske latest pretty boy ke liye, kya woh apne father ke sath blows par aayega, jo aged hai, apne prime se past, uske liye essential, aur un logon mein oldest jo use dear hain? Aur agar woh in logon ko same roof ke neeche laya, kya woh apne parents ko unka slave bana dega?’
+
+‘Heavens, haan.’
+
+‘Blessed hain woh log, apparently, jo ek tyrannical son produce karte hain.’
+
+‘Blessed indeed,’ usne kaha.
+
+‘Kaisa hoga jab uske father aur mother ki possessions run out hona shuru hongi, aur pleasures ka swarm jo ab uske andar accumulate ho chuka hai large grow ho gaya hoga [d]? Kya is jisa koi shuruat mein thode gentle housebreaking par, ya kisi late traveller ke cloak par apna haath turn nahi karega – aur uske baad kisi temple ke ek clean sweep ke sath follow up karega? In sabhi exploits mein, good aur bad ke baare mein uske original childhood opinions, opinions jinhe generally right regard kiya jata hai, un naye opinions dwara overwhelm ho jaayenge jo abhi slavery se release hue hain, jo Lust ke bodyguard hain, aur iske sath company mein act karte hain. Pehle, jabki woh abhi bhi laws ke aur apne father ke control ke tehat tha, aur uska mind ek democracy tha, woh sirf sleep mein, dreams ke roop mein set free hote the, lekin ab jabki woh Lust dwara tyrannised hai, aur permanently ban chuka hai, apni waking life mein, woh jo woh sirf occasionally hota tha, apne dreams mein, wahan koi foul murder, koi food, koi deed nahi hogi, jisse woh abstain karega [575][e]. Lust uske andar ek tyrant ke roop mein dwell karegi, total anarchy aur lawlessness mein. Jaise aap ek sole ruler se expect karenge, yeh apne possessor ko, ek city ko lead karne wale tyrant ki tarah, har kind ke outrage mein lead karegi, jaise yeh khud ke liye aur apne charon taraf ke mob ke liye upkeep provide karne ka attempt karti hai – kuch unmein se baahar se laaye gaye, us bad company ka result jise man keep karta hai, doosre uske native, khud mein unhi bad habits dwara released aur liberated. Kya yeh tyrannical man ki life ka ek accurate picture nahi hai?’
+
+‘Yeh hai,’ usne kaha.
+
+‘Agar ek city mein unmein se zyada nahi hain, agar population ka zyadatar hissa sensible hai, toh is jise log emigrate karte hain [b]. Woh kisi foreign tyrant ke bodyguards ban jaate hain, ya mercenaries ke roop mein serve karte hain, agar woh kahin koi war dhoondh sakte hain. Lekin agar woh peace aur quiet ke time par arise hote hain, toh woh wahin rehte hain jahan woh hain, aur city mein har sort ke minor crimes commit karte hain.’
+
+‘Kis sort ke crimes?’
+
+‘Theft, housebreaking, picking pockets, stealing clothes, robbing temples, kidnapping. Malicious prosecution, perhaps, agar woh persuasive speakers hain, perjury, accepting bribes.’
+
+‘Minor crimes [c]? Sirf tabhi agar unhe commit karne wale log number mein few hon.’
+
+‘Nahi, woh minor hain,’ maine kaha. ‘Minor crimes major crimes ke reference ke sath define kiye jaate hain. Aur jab city ke wretchedness aur misery ki baat aati hai, toh inmein se koi bhi candle hold nahi kar sakta, jaise saying chalti hai, tyrant ke samne.
+5
+Jab aapko ek city mein in logon ki ek badi sankhya milti hai, aur doosre unhe follow karte hue, jab woh apne numbers ke baare mein aware ho jaate hain, toh yeh wahi hain, common people ki folly dwara aided aur abetted hokar, jo tyrant ko birth dete hain – woh ek jo unke beech stand out karta hai us soul ke andar greatest aur most bloated tyrant possess karne wale ke roop mein [d].’
+
+‘Very probably,’ usne kaha. ‘Aakhirkar, woh most tyrannical hoga.’
+
+‘Yeh assume karte hue hai ki woh use willingly submit karte hain. Agar city compliant prove nahi hota, toh woh turn mein apni country ko punish karega, agar woh kar sakta hai, usi way mein jaise usne pehle apni mother aur father ko punish kiya tha. Woh new, foreign friends andar layega, aur woh unke liye slavery mein fatherland ko – ya motherland ko, jaise Cretans ise kehte hain – rakhega jise usne kabhi love kiya tha. Yeh waisa hai jaise woh ise cherish karega. Aur yeh ultimate goal hoga jispar tyrannical man ki desire directed hai.’
+
+‘Yeh certainly hai [e].’
+
+‘Aur woh power mein aane se pehle private individuals ke roop mein kaise hote hain? Kya main aapko bataoon? Company jo woh keep karte hain, shuruat ke liye. Woh ya toh un logon ke sath associate karte hain jo unhe flatter karte hain, jo unke liye kuch bhi karne ke liye taiyar hain [576]. Ya agar woh kisi se kuch chahte hain, toh woh khud apne ghutnon par aa jaate hain, aur close friends hone ka poora show put on karne mein unhe koi hesitation nahi hoti. Ek baar jab unhe woh mil jata hai jo woh chahte hain, toh woh strangers hote hain.’
+
+‘Complete strangers.’
+
+‘Apni poori life ke through, phir, woh kabhi kisi ke sath friends nahi hote. Woh hamesha ek man ke master aur doosre man ke slave hote hain. Tyrannical nature kabhi freedom ya true friendship ka taste nahi paata.’
+
+‘Exactly.’
+
+‘Kya hum is jise logon ko distrustful kehne mein right nahi honge?’
+
+‘Of course hum honge.’
+
+‘Unjust mention na karte hue – outstandingly unjust, agar hum justice kis tarah ki cheez hai is baare mein apne pehle ke conclusions mein correct the [b].’
+
+‘Jo hum undoubtedly the,’ usne kaha.
+
+‘Aayein sabhi men ke is worst ko sum up karein. Woh hai, main ise leta hoon, us kind ke man ka waking embodiment jise humne dreams mein exist karne wale ke roop mein describe kiya tha.’
+
+‘Precisely.’
+
+‘Highly tyrannical nature wala koi bhi person jo sole ruler banta hai woh is tarah end up hota hai. Aur jitna lamba time woh apni tyranny mein spend karta hai, utna hi zyada woh iske jaisa banta jata hai.’
+
+‘Inevitably,’ Glaucon ne kaha, argument ko take up karte hue.
+
+‘Well, phir, kya jo koi bhi most wicked prove hota hai woh most unhappy bhi prove hoga [c]? Aur kya woh jo longest time ke liye tyrant hai, jo fullest extent tak tyrant hai, prove hoga, if truth be told, most unhappy, aur longest time ke liye? Yadyapi mind you, people ke general run ke liye, yeh har kisi ke paas apna opinion hone ka question hai.’
+
+‘Use true hona hai, of course.’
+
+‘Kya yeh case nahi hai ki tyrannical man tyrant dwara ruled city se correspond karta hai aur ise resemble karta hai?’ maine poochha. ‘Aur ki democratic man democratically ruled city se correspond karta hai? Aur doosre likewise?’
+
+‘Haan, of course.’
+
+‘Aur kya man aur man ke beech ka comparison, jab goodness aur happiness ki baat aati hai, wahi same hai jo city aur city ke beech ka comparison hai?’
+
+‘Naturally.’
+
+‘Goodness ke terms mein, phir, ek tyrant dwara ruled city aur us monarchy ke beech kya relation hai jise humne hamare regimes ke pehle ke roop mein describe kiya tha [d]?’
+
+‘Woh exact opposites hain,’ usne kaha. ‘Ek best hai, doosra worst.’
+
+‘Main nahi poochhunga kaun sa kaun sa hai, kyunki yeh obvious hai. Lekin jab happiness aur unhappiness ki baat aati hai, kya aapka verdict abhi bhi same hai, ya different? Aur aayein khud ko ek individual – tyrant – ko dekhkar ya uske charon taraf gherne wale kuch few ko dekhkar dazzle na karein. Nahi, kyunki poora city hamari journey aur enquiry ka proper object hai, aayein apna opinion world ko tab tak present na karein jab tak ki humne city ke heart mein right apna rasta burrow na kar liya ho, aur poori cheez ko view na kar liya ho [e].’
+
+‘Yeh ek fair requirement hai,’ usne kaha. ‘Koi bhi dekh sakta hai ki tyrant dwara ruled city se zyada unhappy city koi nahi hai, aur king dwara ruled city se zyada happy city koi nahi hai.’
+
+‘Aur kya same requirement impose karna fair hoga jab men ki baat aati hai, agar main sochta hoon ki in maamlon ka best judge woh person hai jo mentally ek man ke character mein apna rasta worm kar sakta hai, aur ispar ek long, hard look le sakta hai [577]? Use ise baahar se nahi dekhna chahiye, ek child ki tarah, aur grandeur ke us display se dazzle nahi hona chahiye jise tyrants outward show ke liye put on karte hain, balki ise fairly aur squarely dekhna chahiye. Aur agar mujhe yeh sochna ho ki humein sabhi ko us man ko sunna chahiye jo ek judgment form karne ke liye qualified hai, jo ek tyrant ke same roof ke neeche raha hai, jo tyrant ki company mein raha hai aur uska behaviour dekha hai – dono uski private life mein, jis tareeqe se woh apne household ke har member se deal karta hai, jahan use apne theatrical costume aur props se stripped best dekha ja sakta hai, aur phir dobara public mein, jab woh danger mein hota hai – kya humein us person ko jisne yeh sab dekha hai yeh batane ke liye kehna chahiye ki tyrant doosre logon ke sath, happiness aur unhappiness ke terms mein, kaise compare karta hai [b]?’
+
+‘Haan, yeh requirement bhi impose karna absolutely correct hoga.’
+
+‘Which case mein,’ maine kaha, ‘kya aap chahte hain ki hum pretend karein ki hum un logon mein se hain jo ek judgment form karne ke liye qualified honge, aur jinhone past mein tyrants se mila hai? Woh kam se kam humein hamare questions ka answer dene ke liye koi dega.’
+6
+
+‘Yes, please.’
+
+‘Kya main aapse is baare mein is tarah jaane ke liye poochh sakta hoon, phir [c]? City aur man ke beech ki similarity ko yaad rakhte hue, unmein se har ek ko in turn examine karein, point by point, aur humein bataayein ki unmein se har ek ke liye cheezein kaisi hain.’
+
+‘Kis sort ki cheezein?’ usne poochha.
+
+‘City se start karein. Kya aap tyrant dwara ruled city ko free ya enslaved ke roop mein describe karne ja rahe hain?’
+
+‘Enslaved. Utna enslaved jitna hona possible hai.’
+
+‘Yadyapi of course aap isme masters aur free men dekh sakte hain.’
+
+‘Main uska ek chhota element dekh sakta hoon,’ usne kaha. ‘Zyada nahi. Lekin kam ya zyada poori cheez – aur certainly isme most decent element – shamefully aur miserably enslaved hai.’
+
+‘Which case mein,’ maine kaha, ‘agar man city ke jaisa hai, kya hum inevitably usme bhi elements ka same arrangement nahi paayenge [d]? Kya hum uski soul ko har sort ki slavery aur servility se crammed nahi paayenge, uski soul ke un parts ke enslaved hone ke sath jo most decent hua karte the, aur ek chhota element, most evil aur insane, mastery possess karta hua?’
+
+‘Haan. Inevitably.’
+
+‘All right, phir. Aap is kind ki soul ko kya kehne ja rahe hain? Slave ya free?’
+
+‘Slave, main guess karta hoon. Well, meri opinion wahi hai, anyway.’
+
+‘Aur slave city, tyrant dwara ruled city, woh hai jo jo yeh chahta hai use karne ke least able hai.’
+
+‘By far the least.’
+
+‘Which case mein, woh soul jo ek tyrant dwara ruled hai woh bhi jo yeh chahti hai use karne ke least able hogi – kisi bhi rate par agar hum poori soul ke baare mein baat kar rahe hain [e]. Khud ke baavjood, yeh desire ke gadfly dwara forever onward driven hogi, aur confusion aur dissatisfaction se filled.’
+
+‘Of course yeh hogi.’
+
+‘Aur kya yeh rich hona certain hai ya poor hona certain hai, yeh tyrant dwara ruled city?’
+
+‘Certain to be poor.’
+
+‘Toh tyrannical soul bhi hamesha impoverished aur insatiable hona certain hai [578].’
+
+‘True,’ usne kaha.
+
+‘Fear ke baare mein kya? Kya tyrannical city aur tyrannical man isse full hone ke liye bound nahi hain?’
+
+‘Haan. Bound to be. Inevitably.’
+
+‘Kya aap sochte hain ki koi doosra city hai jismein aapko zyada wailing, groaning, lamentation aur grief milega?’
+
+‘Nahi.’
+
+‘Aur ek man mein – kya aap sochte hain koi in qualities ko is tyrannical individual se zyada abundantly possess karta hai, maddened jaisa woh desires aur lusts dwara hai?’
+
+‘Nahi, woh impossible hai,’ usne kaha.
+
+‘Main imagine karunga ki in sabhi drawbacks par, aur unke jise doosron par ek look aapko is city ko unhappiest of cities pronounce karne ke liye kaafi hogi [b].’
+
+‘Aur woh ek correct verdict hai, kya nahi hai?’
+
+‘Absolutely correct. Lekin tyrannical man ke baare mein kya, uske turn mein? Inhi same drawbacks par ek look lete hue, aapke paas uske baare mein kehne ke liye kya hai?’
+
+‘Main kahunga woh ek long way se sabhi mein sabse unhappiest hai.’
+
+‘Ab, wahan,’ maine kaha, ‘aap ab correct nahi hain.’
+
+‘Aisa kaise?’ usne poochha.
+
+‘Tyrannical man, mera vishwās hai, abhi unhappiest nahi hai.’
+
+‘Kaun hai, phir?’
+
+‘Koi aur hai jise aap still unhappier soch sakte hain.’
+
+‘Kaun?’
+
+‘Tyrannical man jo ek private individual ki life nahi jeeta, balki itna unfortunate hai ki use kisi mischance dwara, actually ek tyrant banne ka opportunity diya jata hai [c].’
+
+‘Humne jo pehle kaha hai usse, main ise leta hoon ki aapko right hona chahiye.’
+
+‘Haan. All the same, is tarah ke claims belief ka maamla nahi hone chahiye. Humein is sort ke ek individual ko examine karne mein careful argument use karna chahiye. Aakhirkar, hamari enquiry ka object – good life aur bad life – highest importance ka hai.’
+
+‘Precisely,’ usne kaha.
+
+‘Us case mein khud se poochhein, ki kya main apne belief mein right hoon ki jab hum tyrant ko examine kar rahe hain, toh ek particular example hai jispar humein concentrate karna chahiye [d].’
+
+‘Woh kaun sa example hai?’
+
+‘Hamare cities mein un wealthy individuals mein se har ek dwara presented example jo bahut saare slaves own karte hain. Unka tyrants ke sath jo common hai woh yeh hai ki woh badi sankhya mein logon par control exercise karte hain. Yadyapi tyrant jitni number ko control karta hai usme ek difference hai.’
+
+‘Haan, wahan woh difference hai.’
+
+‘Aap aware hain, kya aap nahi hain, ki yeh rich log kaafi secure feel karte hain. Woh apne slaves se afraid nahi hain, kya woh hain?’
+
+‘Nahi, of course nahi. Unke liye afraid hone ke liye kya hai?’
+
+‘Kuch nahi,’ maine kaha. ‘Aur kya aap jaante hain kyun?’
+
+‘Haan. Kyunki in individuals mein se har ek ke paas poore city ka support hai.’
+
+‘Exactly [e]. Lekin suppose koi god in fifty ya zyada slaves ke owners mein se ek ko city se whisk away kar de, aur use put down kare – man ko khud, uski wife aur children ke sath, uski saari property aur slaves ke sath – ek deserted place mein jahan free population mein se koi use koi help nahi de sakta tha? Kya aap us terrible fear ko imagine kar sakte hain jo woh khud ke liye, apne children aur apni wife ke liye feel karega – yeh fear ki woh sabhi uske slaves dwara maar diye jaayenge?’
+
+‘Har kind ka fear, agar aap mujhse poochhein.’
+
+‘Kya uske paas inhi same slaves mein se kuch ko flatter karna shuru karne, aur unhe har sort ke promises dene, aur unhe free set karne ke alawa koi choice hogi – quite gratuitously [579]?
+7
+Kya woh khud ko slaves ka ek appeaser reveal nahi karega?’
+
+‘Uske paas bilkul koi choice nahi hogi,’ usne kaha. ‘Yeh woh hoga, ya perish hona.’
+
+‘Aur suppose god doosre logon ko bhi move karta hai, aur use un padosiyon ke ek poore lot se gher deta hai jo ek man ko doosre par mastery claim karte hue tolerate nahi kar sakte, aur jo is tareeqe se behave karte hue pakde jaane wale kisi par bhi severest punishments inflict karenge?’
+
+‘Woh har kind ki trouble mein hoga, main imagine karta hoon – pehle se bhi kahin zyada – poori tarah enemies dwara surrounded aur besieged [b].’
+
+‘Toh, phir, kya yeh us kind ka prison nahi hai jismein tyrant chained hai? Uske paas woh nature hai jise humne describe kiya hai, kai aur varied fears aur lusts se bhara hua. Aur greedy yadyapi uski soul hai, woh city mein rehne wala akela person hai jo kahin abroad nahi ja sakta, ya kisi aisi cheez ko dekhne nahi ja sakta jise doosre free men dekhne ke liye itne keen hain [c]. Woh apni zyadatar life apne house mein buried bitata hai, ek woman ki tarah. Woh doosre citizens se envy bhi karta hai agar unmein se koi abroad jata hai aur koi fine sight dekhta hai.’
+
+‘Exactly,’ usne kaha.
+
+‘Yeh, phir, evils ka woh additional crop hai jise us man dwara reap kiya jata hai jise aapne abhi unhappiest judge kiya tha
+8
+– woh jiske andar ek bad political regime established hai, tyrannical nature wala man – agar woh ek private citizen ke roop mein jeena stop kar deta hai, kisi misfortune dwara tyrant banne par compelled hota hai, aur khud par kisi mastery ke lack hote hue, doosron par ruler banne ki koshish karta hai. Yeh kisi aise person jaisa hai jiske paas koi physical ailment hai jo uske body ko khud ke control mein hone se rokti hai, aur phir bhi use quietly ghar par rehne ki permission nahi di jaati, balki doosre bodies ke sath competition aur conflict mein apni poori life spend karne ki requirement hoti hai [d].’
+
+‘Haan, yeh sateek roop se us jaisa hai,’ usne kaha. ‘Aap absolutely right hain, Socrates.’
+
+‘Kya uski situation utterly wretched nahi hai, mere pyare Glaucon? Aur kya us person ki life se bhi ek harsher life nahi hai jiski life ko aapne harshest judge kiya tha, namatah ek aise person ki life jab woh actually ek tyrant hota hai?’
+
+‘Woh absolutely right hai.’
+
+‘Truth yeh hai, jo kuch bhi kuch log soch sakte hain, ki true tyrant ek true slave hai – abjectly ingratiating aur servile, aur worst logon ka flatterer [e]. Agar aap jaante hain ki poori soul ko kaise dekhna hai, toh yeh clear hai ki woh apni desires ko thoda sa bhi satisfy nahi karta, ki woh greatest need mein aur true poverty mein jeeta hai. Apni poori life through, fear se laden, woh uncontrollable pains aur convulsions ka ek mass hai, agar uski condition us city ki condition jaisi hai jispar woh rule karta hai. Jo ki yeh hai, kya yeh nahi hai?’
+
+‘Haan. Exactly like.’
+
+‘Kya hum, is sabhi ke upar, us man ko woh qualities award karenge jinaka humne pehle mention kiya tha [580]?
+9
+Humne kaha tha woh inevitably – aur increasingly, uski position ke kaaran – envious, distrustful, unjust, friendless, impious, har manner ke evil ka host aur nurse hoga. Humne kaha tha in sabhi qualities ka effect sabse pehle aur foremost man ko khud unhappy banana tha, aur doosre uske closest logon mein unhappiness cause karna tha.’
+
+‘Samajh wala koi bhi person isse argue nahi karega,’ usne kaha.
+
+‘Yeh aapka moment hai, phir,’ maine kaha [b]. ‘Aapka time finally aa gaya hai. Contest ke judge ki tarah final decision banate hue. Wahan five contenders hain: kingly, timocratic, oligarchic, democratic aur tyrannical. Happiness ke terms mein, aapki opinion mein unmein se kaun first aata hai? Kaun second aata hai, aur so on baaki places ke sath?’
+10
+
+‘Woh koi difficult decision nahi hai. Goodness aur badness, aur happiness aur iske opposite ke terms mein, main unhe choruses ki tarah rank karunga; aur meri ranking unke appearance ke order ko follow karti hai.’
+
+‘Kya hum ek herald hire karein, phir?’ maine poochha. ‘Ya kya main khud result announce karoon [c]? “Ariston ke son ka verdict yeh hai. Best aur most just character happiest hai. Yeh woh hai jo most kingly hai, woh jo khud par king hai. Worst aur most unjust unhappiest hai, aur woh in fact most tyrannical nature wala hai, woh jo khud par aur apne city par greatest tyrant hai.”’
+
+‘Thank you,’ usne kaha. ‘Aayein ise lein ki announcement kar di gayi hai.’
+
+‘Aur kya main ek clause add karoon yeh kehte hue “chahe woh detection se escape karein ya nahi, sabhi men aur gods ki sight mein”?’
+
+‘Haan, woh clause add zaroor karein.’
+
+‘Very well,’ maine kaha, ‘ise hamare liye ek proof ke roop mein stand karne dein [d]. Ab, is second proof par ek look daalein, aur dekhein ki kya aap sochte hain ki isme koi force hai.’
+
+‘Second proof kya hai?’
+
+‘Kyunki har person ki soul teen mein divided thi sateek roop se usi way mein jaise city teen classes mein divided tha, mujhe lagta hai yeh humein ek second proof bhi provide karega.’
+
+‘Proof kaise jata hai?’
+
+‘Is tarah. Soul ke teen parts mujhe pleasure ke teen forms lagte hain, har individual part ke liye ek. Likewise desire ke teen forms, aur rule ke teen forms.’
+
+‘Kya aap use explain kar sakte hain?’
+
+‘Pehla element, hum kehte hain, woh hai jo ek man ko learn karne deta hai, second woh part jo use ek spirited way mein act karne deta hai. Third ko, iski diversity ke account par, humne iska apna unique name dena impossible paaya, toh humne ise iske largest aur strongest element ka name diya [e]. Humne ise desiring kaha – food, drink, sex aur inke sath jaane wali har cheez ke liye iski desires ki strength ke kaaran – aur money-loving, kyunki money in desires ko satisfy karne ka principal means hai [581].’
+11
+
+‘Aur hum right the,’ usne kaha.
+
+‘Toh agar humein yeh kehna hota ki jis cheez mein isne pleasure aur delight liya woh profit tha, kya woh hamare argument ko ek general heading ke tehat concentrate karne ka hamara best way hoga? Kya woh hamare liye clear karega ki hamara kya matlab hai jab hum soul ke is part ke baare mein baat karte hain? Aur agar hum ise money-loving aur profit-loving kahein, kya hum justified honge?’
+
+‘Well, main certainly sochta hoon hum honge.’
+
+‘Spirited part ke baare mein kya? Kya hum keh sakte hain, contrast dwara, ki iska sole aur constant aim power, victory aur reputation hai [b]?’
+
+‘Haan, hum keh sakte hain.’
+
+‘Toh agar humne ise a lover of victory aur a lover of honour kaha, kya woh appropriate hoga?’
+
+‘Absolutely appropriate.’
+
+‘Aur of course yeh kisi ke liye bhi obvious hai ki jis part se hum learn karte hain woh entirely aur constantly ispar intent rehta hai yeh jaan-ne ke liye ki truth kahan lie karta hai, aur ki teeno mein se yeh money aur reputation se least concerned hai.’
+
+‘Easily the least.’
+
+‘Kya yeh order mein hoga, phir, hamare liye ise a lover of learning aur a lover of wisdom kehna?’
+12
+
+‘Yeh hoga.’
+
+‘Very well,’ maine kaha [c]. ‘Kya yeh kuch logon ki souls mein ruling element hai? Aur kya doosre do elements mein se ek – yeh koi bhi ho sakta hai – doosron mein dominant hai?’
+
+‘Haan,’ usne kaha.
+
+‘Kya yeh explain karta hai kyun hum kehte hain ki teen fundamental human types hain: lover of wisdom, lover of victory aur lover of profit?’
+
+‘Of course.’
+
+‘Aur pleasures ki teen classes, har type se correspond karti hui ek?’
+
+‘Exactly.’
+
+‘Aap realise karte hain,’ maine kaha, ‘ki agar aap is sort ke teen logon se poochhne ka trouble lete hain, ek ke baad ek, ki in lives mein se kaun si most pleasant hai, toh har ek apni life ki loudest praises gaayega [d]? Certainly money-maker kahega ki, profit ke comparison mein, honour aur learning ke pleasures worthless hain, jab tak ki unme kuch aisa na ho jo money make kar sake.’
+
+‘True.’
+
+‘Lover of honour ke baare mein kya?’ maine poochha. ‘Kya woh us pleasure ko jo money par depend karta hai sordid regard nahi karta, aur us pleasure ko jo learning par depend karta hai – sivaay us extent tak ki learning reputation laati hai – hot air ke ek load ke roop mein?’
+
+‘Woh karta hai.’
+
+‘Jahan tak lover of wisdom, ya philosopher ka sawaal hai,’ maine kaha, ‘hum kya imagine karte hain ki woh doosre pleasures ka kya view leta hai, us pleasure ke comparison mein jo yeh jaan-ne ka hai ki truth kahan lie karta hai aur hamesha kuch similar sort ka pleasure enjoy karne ka jabki woh ise learn kar raha hota hai [e]? Kya woh unhe far inferior regard nahi karega? Aur kya woh unhe truly necessary, ya compulsory nahi kahega, kyunki necessity ke bina woh unke bina perfectly well get on kar sakta tha?’
+
+‘Haan,’ usne kaha, ‘hum confident ho sakte hain ki yeh uska view hai.’
+
+‘Jab pleasures, indeed har human type ki very life, dispute mein hon – ek dispute na sirf is baare mein ki kaun si zyada beautiful ya ugly hai, ya better ya worse, balki actually is baare mein ki kaun si zyada pleasant ya painful hai – hum kaise bata sakte hain ki kaun sa type most truly bol raha hai [582]?’
+
+‘Main us question ka answer dena shuru bhi nahi kar sakta,’ usne kaha.
+
+‘Ise is tarah dekhein. Agar cheezon ko correctly judge kiya jaane wala hai, toh unhe kiske dwara judge kiya jana chahiye? Kya yeh experience, reflection aur reasoning dwara nahi hai? Ya kya koi inke muqable judgment ka ek better standard come up kar sakta hai?’
+
+‘Of course nahi.’
+
+‘Ab, is baare mein sochein. Yahan teen men hain. Unmein se kiske paas un sabhi pleasures ka most experience hai jinaka humne mention kiya hai? Kya lover of profit truth itself ke nature ke baare mein learn karta hai? Kya aap sochte hain ki uske paas knowledge ke pleasure ka usse zyada experience hai jitna lover of wisdom ke paas gain ke pleasure ka hai [b]?’
+
+‘Wahan koi comparison nahi hai,’ usne kaha. ‘Lover of wisdom earliest years se hi dono pleasures ko taste karne par compelled hota hai. Lover of profit, doosri taraf, cheezon ke nature ke baare mein learn karne, ya is pleasure ki sweetness ko taste aur experience karne par compelled nahi hota. Bhale hi woh sach mein chahta, use yeh difficult lagta.’
+
+‘Which case mein,’ maine kaha, ‘jab pleasures ke dono sets ke experience ki baat aati hai, toh lover of wisdom ke paas lover of profit par ek great advantage hota hai.’
+
+‘Haan, ek great advantage.’
+
+‘Aur kya uske paas lover of honour par ek advantage hota hai [c]? Ya kya uske paas respected hone ke pleasures ka usse kam experience hota hai jitna lover of honour ke paas knowledge ke pleasure ka hota hai?’
+
+‘Nahi,’ usne kaha. ‘Agar woh use accomplish karte hain jise har ek individually achieve karne ke liye set out karta hai, toh woh sabhi paate hain ki recognition follow karti hai. Rich man widely respected hota hai. Waise hi courageous man bhi, aur waise hi wise man bhi. Toh woh sabhi respected hone ke pleasure ko experience karte hain. Woh sabhi jaante hain ki yeh kaisa hota hai. Lekin sirf lover of wisdom, philosopher, us position mein hota hai jisne what is ke contemplation ko taste kiya hai, aur us pleasure ko jo yeh laata hai.’
+
+‘Experience ke grounds par, phir,’ maine kaha, ‘woh in men mein se best judge hai [d].’
+
+‘Much the best.’
+
+‘Isse bhi zyada, kya woh akela nahi hoga jiska experience reflection dwara accompanied raha hai?’
+
+‘Of course.’
+
+‘Aur woh instrument jiske sath judgment kiya jana chahiye woh lover of profit ya lover of honour se belong nahi karta, balki lover of wisdom se belong karta hai.’
+
+‘Woh kaun sa instrument hai?’
+
+‘Humne kaha tha judgment reasoned arguments ka use karke kiya jana chahiye, kya humne nahi kaha tha?’
+
+‘Haan.’
+
+‘Aur reasoning essentially philosopher ka, lover of wisdom ka instrument hai.’
+
+‘Of course.’
+
+‘Agar wealth aur profit questions ko decide karne ke best means hote, toh truest recommendations ya criticisms necessarily lover of profit ki hotin [e].’
+
+‘Necessarily.’
+
+‘Aur agar honour aur victory aur courage best means hote, kya truest recommendations lover of honour ya lover of victory ki na hotin?’
+
+‘Obviously.’
+
+‘Lekin kyunki experience, reflection aur reasoning best means hain . . .’
+
+‘Truest recommendations necessarily lover of wisdom aur lover of reasoning ki hongi.’
+
+‘In teen pleasures mein se, phir, kya soul ke us part se belong karne wala jisse hum learn karte hain most enjoyable hoga [583]? Aur kya woh person jismein yeh part rule karta hai most enjoyable life rakhta hai?’
+
+‘Woh kaise fail ho sakta hai?’ usne kaha. ‘At the very least, woh certainly ek expert opinion de raha hai, reflective man, jab woh apni life recommend karta hai.’
+
+‘Kaun si life hamara judge second place par rakhta hai? Aur kaun sa pleasure?’
+
+‘Warlike lover of honour ka pleasure, obviously. Yeh money-maker ke pleasure ke muqable uske closer hai.’
+
+‘Toh woh lover of profit ke pleasure ko third rakhta hai, apparently.’
+
+‘Haan, of course,’ usne kaha.
+
+‘Yeh unjust par just ke liye two mein se two wins hain, phir [b]. Ab hum third round par aate hain – Olympic round, jo Olympian Zeus the saviour ke liye hai.
+13
+Agar aap pleasure ke baare mein sochte hain, toh aap dekh sakte hain ki wise ke alawa kisi ke liye bhi, yeh true aur pure nahi hai, balki ek kind of shadow-picture hai. Ya aisa mujhe lagta hai mujhe kisi expert dwara bataya gaya hai.
+14
+Ab agar woh true tha, toh yeh contest ka biggest aur most important throw hoga.’
+
+‘Easily the most important. Lekin please explain karein kyun pleasure ek shadow-picture hai.’
+
+‘Main iska answer pa sakta hoon,’ maine kaha, ‘agar main questions poochhta hoon, aur aap unka answer dete hain [c].’
+
+‘Poochhna shuru karein, phir,’ usne kaha.
+
+‘Aur aap answer dena shuru karein. Kya hum nahi kehte ki pain pleasure ka opposite hai?’
+
+‘Hum certainly kehte hain.’
+
+‘Aur ki aisi cheez hoti hai jaise na toh pleasure aur na hi pain feel karna?’
+
+‘Haan.’
+
+‘Un dono ke beech intermediate, pain aur pleasure se soul ke liye ek kind of rest ya respite? Ya kya aap ise is tarah describe nahi karenge?’
+
+‘Wahi hai jaise main ise describe karunga,’ usne kaha.
+
+‘Un cheezon ke baare mein sochein jo log jo ill hain us time kehte hain jab woh ill hote hain.’
+
+‘Kis sort ki cheezein?’
+
+‘Ki good health se bada koi pleasure nahi hai, lekin ki unhone realise nahi kiya tha ki yeh greatest pleasure tha jab tak ki woh ill nahi the [d].’
+
+‘Haan, mujhe logon ko woh kehte hue sunna yaad hai,’ usne kaha.
+
+‘Aur kya aapne logon ko kisi agonising pain ke grip mein yeh kehte hue suna hai ki agony se relief se compare karne ke liye koi pleasure nahi hai?’
+
+‘Haan, maine woh suna hai.’
+
+‘Main expect karta hoon aap aisi kai similar painful situations ke baare mein soch sakte hain jinme log khud ko paate hain, jahan jis pleasure ko woh most highly praise karte hain woh pain ki absence hai – pain se ek rest – bajaye kisi enjoyment ke.’
+
+‘Haan. Aise times par shayad rest pleasant aur delightful kuch ban jata hai.’
+
+‘Toh waise hi, jab koi enjoyment feel karna stop karta hai, toh pleasure se rest painful hogi [e].’
+
+‘Possibly,’ usne kaha.
+
+‘Which case mein, yeh cheez jise humne abhi dono ke beech intermediate describe kiya tha, yeh rest ya respite, ek time ya doosre par dono cheezein hogi – pain aur pleasure dono.’
+
+‘Apparently.’
+
+‘Kya kisi aisi cheez ke liye jo un dono cheezon mein se koi nahi hai dono ban jana sach mein possible hai?’
+
+‘Mujhe nahi lagta.’
+
+‘Besides, jab pleasure aur pain soul mein arise hote hain, woh dono ek kind of motion ya agitation hain, kya woh nahi hain?’
+
+‘Haan.’
+
+‘Lekin kya jo na toh painful hai aur na hi pleasurable use abhi ek rest ya respite ke roop mein show nahi kiya gaya hai, dono ke beech midway ek position occupy karte hue [584]?’
+
+‘Yeh kiya gaya hai.’
+
+‘Yeh kehna kaise right ho sakta hai, phir, pain ki absence ko pleasant kuch regard karna, ya pleasure ki absence ko painful kuch regard karna?’
+
+‘Yeh nahi ho sakta.’
+
+‘Toh aisa nahi hai ki yeh rest ya respite pleasant hai. Yeh uske beside pleasant lagti hai jo painful hai, aur uske beside painful lagti hai jo pleasant hai. Jahan tak pleasure ke baare mein truth ka sawaal hai, in illusions mein kuch bhi sound ya reliable nahi hai. Yeh sab sorcery hai.’
+
+‘Wahi argument suggest karta hai, kisi bhi rate par,’ usne kaha.
+
+‘Well, un pleasures par ek look daalein jo pain dwara precede nahi hote,’ maine kaha [b]. ‘Main nahi chahoonga ki aap sochein, is context mein, ki pleasure ka nature simply pain ka cessation hona hai, aur pain ka simply pleasure ka cessation hona.’
+
+‘Aapka kis sort ke pleasures se matlab hai? Woh kahan hain?’
+
+‘Unki koi bhi number hai,’ maine kaha, ‘lekin aap particularly smell ke pleasures ke baare mein sochna pasand kar sakte hain. Aapko pehle se pain feel nahi karna padta. Woh out of the blue aate hain. Woh incredibly powerful hain. Aur jab woh over hote hain, toh woh apne peeche koi pain nahi chhodte.’
+
+‘Absolutely true [c].’
+
+‘Humein accept nahi karna chahiye, phir, ki pure pleasure pain se ek release hai, ya pain pleasure se ek release.’
+
+‘Nahi, humein nahi karna chahiye.’
+
+‘Halanki, so-called pleasures mein se jo body ke through soul tak pahonchte hain, surely most numerous aur powerful is type ke hain – pain se kisi sort ka relief.’
+
+‘Haan, woh hain.’
+
+‘Very well. Aur kya future mein pain ya pleasure se kisi relief ke expectation dwara cause hone wale anticipated pleasures aur pains same nature ke hain?’
+
+‘Woh hain.’
+
+‘Kya aap jaante hain yeh pleasures aur pains kis sort ki cheez hain, phir,’ maine poochha, ‘aur woh kise most resemble karte hain [d]?’
+
+‘Kya?’
+
+‘Kya aap vishwās karte hain ki nature mein ek top, ek bottom aur beech mein kuch hota hai?’
+
+‘Haan, main karta hoon.’
+
+‘Kya aap nahi sochte agar kisi ko bottom se middle mein le jaya jaye, toh uska yeh sochna bound hoga ki woh top ki taraf travel kar raha tha? Aur middle mein khade hokar, wahan peeche dekhte hue jahan se woh aaya tha, kya uska yeh sochna bound nahi hoga ki woh top par tha, agar usne real top ko nahi dekha tha?’
+
+‘Agar aap mujhse poochhein,’ usne kaha ‘sateek roop se wahi koi us situation mein sochega.’
+
+‘Aur agar use dobara wapas le jaya jaye,’ maine poochha, ‘kya woh sochega – aur rightly sochega – ki woh bottom ki taraf travel kar raha tha [e]?’
+
+‘Of course woh sochega.’
+
+‘Kya is sabka cause uska top, middle aur bottom ki true range ko experience na kiya hona hoga?’
+
+‘Obviously.’
+
+‘Which case mein, kya yeh aapko surprise karega yeh paana ki jin logon ke paas truth ka koi knowledge nahi hai woh same hain? Unke paas har sort ke subjects par unsound opinions hote hain, aur unki condition, jab pleasure, pain, aur beech mein kya hai iski baat aati hai, aisi hoti hai ki jab woh uski direction mein move karte hain jo painful hai toh unka supposition true hota hai – woh sach mein pain mein hote hain – lekin jab woh pain se uski taraf move karte hain jo beech mein hai, toh woh firmly convinced hote hain ki woh fulfilment aur pleasure tak pahonch gaye hain [585]. Yeh black aur grey ko compare karne jaisa hai jab aapke paas white ka koi knowledge na ho. Pleasure ke kisi knowledge ke lack hote hue, woh pain ke sath pain ki absence ko compare karte hain, aur galat conclusion par aate hain.’
+
+‘Kya yeh mujhe surprise karega?’ usne kaha. ‘Good heavens, nahi. Yeh mujhe kahin zyada surprise karega agar yeh is tarah na hota.’
+
+‘Is baare mein is tarah sochein,’ maine kaha [b]. ‘Kya hunger aur thirst, aur us jaisi cheezein, ek kind of emptiness nahi hain – body ki ek empty condition?’
+
+‘Haan, of course woh hain.’
+
+‘Kya ignorance aur stupidity likewise soul ki ek empty condition nahi hain?’
+
+‘Woh certainly hain.’
+
+‘Aur log kaise fill hote hain? Food andar lene se? Understanding gain karne se?’
+
+‘Of course.’
+
+‘Kaun sa truer fulfilment deta hai, woh jo more something hai ya woh jo less something hai?’
+15
+
+‘Obviously woh jo more something hai.’
+
+‘Kaun se kinds of thing, phir, aap sochte hain ki pure being mein greater share rakhte hain? Cheezein jaise bread, drink, cooked food, aur general mein nourishment [c]? Ya woh kind jo opinion, knowledge, understanding aur in fact poori human excellence se bani hai? Jo choice aapko karni hai woh yeh hai. Aap kya sochte hain kaun sa more something hai? Woh jo uske sath connected hai jo hamesha same, immortal aur true hai – khud in qualities ko possess karta hua, aur in qualities wali cheezon ke context mein paaya jata hua? Ya woh jo uske sath connected hai jo kabhi same nahi hai, aur mortal – khud un qualities ko possess karta hua, aur un qualities wali cheezon ke context mein paaya jata hua?’
+
+‘Woh jo uske sath connected hai jo hamesha same hai kahin superior hai,’ usne kaha.
+
+‘Well, kya kisi cheez ke paas uske being mein jo hamesha same hai knowledge ke muqable greater share hai?’
+16
+
+‘Nahi.’
+
+‘Kya kisi cheez ke paas truth mein knowledge ke muqable greater share hai?’
+
+‘Again, nahi.’
+
+‘Aur agar kisi cheez ke paas truth mein smaller share hai, kya iske paas being mein bhi smaller share nahi hota?’
+
+‘Necessarily.’
+
+‘Ek general rule ke roop mein, phir, kya body ki care mein involved kinds of things ke paas soul ki care mein involved kinds ke muqable truth aur being dono ka smaller share hoga [d]?’
+
+‘Much smaller.’
+
+‘Aur kya aap nahi sochte ki body itself ke paas soul ke muqable smaller share hai?’
+
+‘Haan, main sochta hoon.’
+
+‘Very well. Kya woh jo aisi cheezon se filled hai jinake paas more being hai, aur khud more being rakhta hai, uske muqable more genuinely filled hai jo aisi cheezon se filled hai jinake paas less being hai, aur khud less being rakhta hai?’
+
+‘Of course.’
+
+‘Toh agar hamare nature ke appropriate cheezon se filled hona pleasurable hai, toh woh jo more genuinely filled hai, aur aisi cheezon se filled hai jinake paas more being hai, logon ko more truly aur genuinely happy banayega, unhe true pleasure dete hue, jabki woh jo aisi cheezon ko leta hai jinake paas less being hai woh less truly aur lastingly filled hoga, aur ek aise pleasure ko hold karega jo less trustworthy aur less true tha [e].’
+
+‘Woh inescapably follow karta hai,’ usne kaha.
+
+‘Which case mein, jo log wisdom aur human excellence ke baare mein kuch nahi jaante, jo hamesha feasting jaisi cheezon mein engaged rehte hain, apparently bottom ke region mein neeche jaate hain aur dobara middle mein wapas aate hain [586]. Woh apni poori lives is tareeqe se wander karte hue bitate hain. Isse higher woh kabhi nahi jaate. Woh kabhi true top par upar nahi dekhte, na hi wahan jaate hain. Woh true being se truly filled nahi hote, na hi woh kisi lasting ya pure pleasure ko taste karte hain. Woh cattle ki tarah hain, unka gaze constantly downwards directed. Ground par eyes – ya table par – woh pasture par khud ko fatten karte hain, aur rut karte hain [b]. In cheezon ke liye struggle unhe kick aur butt karwati hai – iron ke horn aur hoof ke sath – jab tak ki woh ek doosre ko maar na dein. Lekin woh fill nahi ho sakte, kyunki woh apne us part ko fill nahi karte jo truly exist karta hai, retentive part ko, na hi woh khud ko usse fill karte hain jo truly exist karta hai.’
+
+‘Oracle ke words sunein,’ Glaucon ne kaha. ‘Aapne humein ek full aur complete description diya hai, Socrates, us life ka jise zyadatar log lead karte hain.’
+
+‘Kya unka pains ke sath mingled pleasures ke beech rehna bound nahi hai, true pleasure ke images aur shadow-paintings, jinme pleasure aur pain dono apna colour ek doosre ke proximity se lete hain [c]? Yahi kaaran hai ki woh itne strong appear hote hain, kyun woh foolish mein insane passions breed karte hain, us pleasure ke liye jo woh offer karte hain, aur kyun unpar lada jata hai jaise Stesichorus kehta hai ki Helen ki image par Troy mein lada gaya tha, truth ke unke ignorance mein.’
+
+‘Haan,’ usne kaha, ‘unka kaafi hadd tak us jisa hona bound hai.’
+
+‘Soul ke spirited part ke baare mein kya? Kya same sorts ki cheezein kisi ke sath hona bound nahi hain jo uspar concentrate karta hai? Love of honour envy ki taraf lead karta hai, love of victory violence ki taraf, aur bad temper anger ki taraf [d]. Reason ya understanding ke bina, woh success, ya victory, ya anger ke apne full measure ke pursuit mein set out hota hai.’
+
+‘Haan,’ usne kaha, ‘spirited part ka bhi waisa hi hona bound hai jaise aap describe karte hain.’
+
+‘Conclusion kya hai, phir?’ maine poochha. ‘Kya hum confidence ke sath ek cheez keh sakte hain? Ki jab soul ke un parts ki baat aati hai jo profit ya victory se love karte hain, agar unse associated desires knowledge aur rational thought ko follow karti hain, aur inhein apne guides ke roop mein rakhkar un pleasures ko pursue aur capture karti hain jinhe wisdom prescribe karti hai, toh, kyunki woh truth ko follow kar rahi hain, woh un pleasures ko gain karengi jo dono truest hain – ya unke liye truest possible – aur unke apne bhi, agar jo har cheez ke liye best hai woh wahi hai jo sabse zyada iska apna hai [e].’
+
+‘Jo ki yeh unquestionably hai.’
+
+‘Agar poori soul, phir, wisdom se love karne wale part ko bina rebellion ke follow karti hai, toh result yeh hota hai ki har part in general apne functions carry out kar sakta hai – just ho sakta hai, doosre shabdon mein – aur particularly har ek un pleasures ko enjoy karne ke able hota hai jo uske apne hain, best hain, aur jahan tak possible ho truest hain [587].’
+
+‘Absolutely.’
+
+‘Jab doosre parts mein se koi ek control leta hai, toh do results hote hain: yeh apna proper pleasure discover karne mein fail hota hai, aur yeh doosre parts ko ek aise pleasure ko pursue karne par compel karta hai jo unka apna nahi hai, aur true nahi hai.’
+
+‘That’s right,’ usne kaha.
+
+‘Kya yeh result un elements ke sath most noticeable hoga jo philosophy aur reason se furthest removed hain?’
+
+‘Haan. Easily the most.’
+
+‘Aur kya reason se furthest removed element woh nahi hai jo law aur order se furthest removed hai?’
+
+‘Obviously [b].’
+
+‘Kya yeh lustful aur tyrannical desires nahi thin jinhe furthest removed hona clearly reveal kiya gaya tha?’
+
+‘Much the furthest.’
+
+‘Aur kingly aur orderly desires jo least far removed thin?’
+
+‘Haan.’
+
+‘Which case mein, main imagine karta hoon, tyrant true pleasure se furthest removed hoga – apne proper pleasure se – jabki king least far removed hoga.’
+
+‘Bound to be.’
+
+‘Toh most unpleasant life,’ maine kaha, ‘tyrant ki hogi, aur most pleasant king ki hogi.’
+
+‘Absolutely bound to be.’
+
+‘Kya aap jaante hain ki tyrant ki life king ki life se kitni zyada unpleasant hai?’
+
+‘Tab tak nahi jab tak aap mujhe nahi batate,’ usne kaha.
+
+‘Aisa lagta hai ki teen pleasures hain – ek legitimate aur do illegitimate. Law aur reason se apni flight mein, tyrant illegitimate ki farthest limits tak chala gaya hai, aur ab slavish pleasures ke ek bodyguard ke sath rehta hai [c]. Yeh precisely kehna hard hai ki woh kitna worse off hai, lekin shayad ek tareeqa hai jisse hum is tak pahonch sakte hain.’
+
+‘Woh kaun sa tareeqa hai?’ usne poochha.
+
+‘Tyrant ek sense mein oligarchic man se third remove par tha, kyunki people ka man unke beech aaya tha.’
+
+‘Haan.’
+
+‘Truth ke terms mein, phir, yeh assume karte hue ki hamare pehle ke conclusions sound hain, kya woh oligarchic man ke image se third remove par pleasure ke ek image ke sath rahega?’
+
+‘Woh rahega.’
+
+‘Lekin oligarchic man apne turn mein kingly man se third remove par hai, agar hum aristocratic aur kingly ko same category mein rakhein [d].’
+
+‘Haan, third remove.’
+
+‘Numerically, phir, tyrant true pleasure se three times three removes par hai.’
+17
+
+‘Aisa lagta hai.’
+
+‘Aur jahan tak is distance ki total length ka sawaal hai,’ maine kaha, ‘aisa lagta hai jaise tyrant ke pleasure ka image ek plane number hai.’
+
+‘Just so.’
+
+‘Aur squaring aur cubing dwara yeh clear ho jata hai ki tyrant kitna far removed hai.’
+
+‘Clear enough,’ usne kaha, ‘kisi ke liye bhi jo arithmetic kar sakta hai.’
+
+‘Conversely, agar aap is baare mein baat kar rahe hain ki king tyrant se kitna far removed hai, true pleasure ke terms mein, toh aap paayenge, jab aap multiplication complete karenge, ki uski life nine-and-twenty-and-seven-hundred-fold zyada pleasurable hai, aur ki ek tyrant same amount se zyada wretched hai [e].’
+18
+
+‘Kya ek horrendous piece of arithmetic hai,’ usne kaha. ‘Ek real deluge. Aur kya dono men ke beech ka difference wahi hai – just aur unjust – jab pleasure aur pain ki baat aati hai [588]?’
+
+‘Haan, aur na sirf yeh true answer hai, balki yeh human life ke liye appropriate bhi hai – agar days aur nights aur months aur years appropriate hain.’
+19
+
+‘Jo ki woh certainly hain,’ usne kaha.
+
+‘Aur agar good aur just man pleasure ke terms mein bad aur unjust se itna aage hai, kya woh apni life ke grace, beauty aur excellence mein usse ek unbelievable distance aage nahi hoga?’
+
+‘Heavens, haan. Ek unbelievable distance.’
+
+‘Very well,’ maine kaha [b]. ‘Argument mein itna door pahonchne ke baad, aayein original claim par wapas chalein jo humein is point tak laya tha. Claim yeh tha, mujhe lagta hai, ki kisi ke liye bhi jo completely unjust tha, lekin jiske paas justice ki reputation thi, uske liye injustice profitable thi. Kya wahi claim nahi tha?’
+20
+
+‘Yeh tha.’
+
+‘Well, yeh us person ke sath is baare mein baat karne ka ek achha moment lagta hai jisne yeh claim kiya tha, ab jabki hum unjust aur just behaviour, aur har ek ki value par agreement tak pahonch gaye hain.’
+
+‘Hum use kaise karenge?’ usne poochha.
+
+‘Aayein imagine karein ki hum soul ka ek model sculpt kar rahe hain, use dikhane ke liye jisne claim kiya tha ki woh kya claim kar raha tha.’
+
+‘Kis sort ka model [c]?’
+
+‘Un creatures mein se ek jinke baare mein ancient stories humein batati hain ki exist kiya karte the. Chimaera, ya Scylla, ya Cerberus, ya koi doosra creature jinke baare mein kaha jata hai ki woh ek mein grow hone wali kai species dwara form hue the.’
+
+‘Haan, main stories jaanta hoon,’ usne kaha.
+
+‘Ek single species ke sath start karein, phir. Ek complex, many-headed beast, animal heads ke ek ring ke sath – kuch gentle, kuch fierce – jinhe yeh vary kar sakta hai aur khud se produce kar sakta hai.’
+
+‘Yeh ek skilled sculptor ke liye ek job lagta hai,’ usne kaha [d]. ‘Still, words ko shape karna wax aur us jaisi cheezon ke muqable easier hota hai, toh model ko made consider karein.’
+
+‘Apni second single species ke liye, ek lion banayein. Aur apni third ke liye, ek man. Aur pehle creature ko sabse bada hone dein, jiske baad second ho.’
+
+‘Woh easier hai,’ usne kaha. ‘Dekhein, woh ban gaye hain.’
+
+‘Ab teeno ko ek mein join karein, taaki woh kisi tareeqe se ek doosre mein grow ho gaye hon.’
+
+‘Wahan woh hain,’ usne kaha. ‘Joined.’
+
+‘Unhe creatures mein se ek ke external appearance mein enclose karein – human being ke – taaki un logon ke liye jo sirf outer shell dekhte hain, aur inside nahi dekh sakte, yeh ek single living creature jaisa lage [e]. Ek human being ki tarah, in fact.’
+
+‘Woh enclosed hain,’ usne kaha.
+
+‘Good. Jab koi claim karta hai ki is human being ke liye unjust hona pay karta hai, aur ki uske liye justly behave karna good nahi hai, toh aayein usse kahein ki yeh kehne ke barabar hai ki use many-headed creature ko fatten up karna pay karta hai, aur use strength mein grow hone dena – lion aur lion se related har cheez ke sath [589]. Ki use human being ko starve aur weaken karna pay karta hai, taaki ise wahan drag kiya ja sake jahan dono mein se koi bhi ise le jana choose kare. Aur ki use dono ko unke haal par chhod dena pay karta hai, unhe aapas mein fight karne dete hue, ek doosre ko bite karte hue aur ek doosre ko khate hue, bajaye unhe ek doosre ka aadi banane ke ya unhe ek doosre ke sath friends banane ke.’
+
+‘Haan,’ usne kaha, ‘wahi sateek roop se woh person keh raha hai jo injustice recommend karta hai.’
+
+‘Agar koi kehta hai ki justice pay karti hai, doosri taraf, kya woh yeh nahi keh raha hoga ki speech aur action ka aim inner human ko person par complete control dena hona chahiye, aur use us tareeqe mein ek farmer ki tarah banwana chahiye jis tareeqe se woh many-headed creature ko tend karta hai, gentle animals ko feed aur domesticate karte hue, aur fierce ones ko grow hone na dete hue [b]? Use lion ke nature ko apna ally banana chahiye, sabhi ke liye ek common care rakhni chahiye aur sabhi ko tend karna chahiye, unhe ek doosre ke sath aur khud ke sath friends banate hue.’
+
+‘Haan, woh nischit roop se wahi hai jo woh person, apne turn mein, keh raha hai jo justice recommend karta hai.’
+
+‘Hum ise chahe jaise bhi dekhein, phir, jo person justice ko praise karta hai woh jo kehta hai woh true hoga, aur jo person injustice ko praise karta hai woh jo kehta hai woh false hoga [c]. Pleasure ke standard dwara, ya reputation ke, ya benefit ke, justice ka supporter right hai, aur critic ki criticism unsound hai aur ignorance par based hai.’
+
+‘Complete ignorance, agar aap mujhse poochhein.’
+
+‘Kya humein uske sath gently reason karna chahiye, phir? Aakhirkar, woh purpose par ise galat nahi kar raha hai. Hum usse poochh sakte hain: “Ise is tarah dekhein, agar aap itne good honge. Kya hum yeh bhi nahi keh sakte ki shameful kya hai aur praiseworthy kya hai iske conventional views ka basis yeh hai [d]? Praiseworthy actions woh hain jo hamare nature ke savage elements ko human ke control ke tehat laate hain – ya balki, perhaps, divine ke – jabki shameful actions woh hain jo gentle element ko fierce ka slave banate hain.” Kya woh isse agree karega? Ya kya?’
+
+‘Woh karega agar woh meri advice leta hai,’ usne kaha.
+
+‘Kya koi hai, phir, is argument par, jo unjustly money lene se profit karta hai, agar jo kuch hota hai woh yeh hai ki money lene se woh apne best part ko worst part ka slave banata hai [e]? Agar ise lene se uske sons ya daughters mein se koi slave ban jaye – aur us par dangerous aur evil men ka slave – toh ek enormous sum of money bhi, in terms par, use thoda sa bhi profit nahi karegi. Toh agar woh apne most divine part par koi mercy nahi dikhata, aur ise us part ka slave banata hai jo most ungodly aur polluted hai, kya woh pity ka object nahi hai [590]? Kya bribes lene ke liye uska reward Eriphyle ke fate se kahin worse fate nahi hai, jab usne apne husband ki soul ki price par necklace accept kiya tha?’
+
+‘Haan, far worse,’ Glaucon ne reply kiya. ‘Main uske liye answer doonga, agar aap pasand karein.’
+
+‘Aur kya aap sochte hain ki reason kyun discipline ki kami ko hamesha ek fault regard kiya gaya hai yeh hai ki yeh us terrible creature ko, many heads wale great beast ko, bahut zyada freedom deti hai?’
+
+‘Obviously,’ usne kaha.
+
+‘Aur jin vices ko hum obstinacy aur bad temper kehte hain – kya woh lion-like ya snake-like
+21
+part ke strain karne ya beyond measure wax karne se cause nahi hote hain [b]?’
+
+‘Absolutely.’
+
+‘Aur luxury aur timidity? Kya woh is same element ke atrophy aur slackness se arise hone wale vices nahi hain, isme cowardice introduce karte hue?’
+
+‘Of course.’
+
+‘Kya flattery aur meanness of spirit is same spirited element ko mob-like beast ke subject karne ka result nahi hain? Money ke liye apni desire mein aur beast ki needs ke constant satisfaction mein, kya log spirited element ko uspar trample hone ka aadi nahi banne dete, right unke childhood se, taaki yeh lion ke bajaye ek monkey mein turn ho jaye?’
+22
+
+‘Absolutely,’ usne kaha.
+
+‘Aap kyun sochte hain ki kisi ko menial tasks mein engage hone ke liye, ya apne hands se kaam karne ke liye look down kiya jata hai [c]? Kya reason bas yeh nahi hai? Uske andar best element naturally weak hai, aur isliye woh apne andar ke creatures ko control karne mein unable hai, balki iske bajaye unka servant ban jata hai. Woh jo kuch kar sakta hai woh unhe appease karna seekhna hai.’
+
+‘Apparently.’
+
+‘Toh agar hum chahte hain ki is jisa koi usi kind ke rule ke tehat ho jaise best person, hum kehte hain ki use us best person ka slave hona chahiye, kya hum nahi kehte, kyunki best person ke paas uske andar divine ruler hai [d]? Aur jab hum kehte hain ki use ruled hone ki zaroorat hai, aisa nahi hai ki hamara matlab slave ko koi harm karna hai, jo ruled hone par Thrasymachus ka view tha.
+23
+Yeh bas isliye hai ki har kisi ke liye uske dwara ruled hona behtar hai jo divine aur wise hai. Ideally uske paas uska apna divine aur wise element uske andar hoga, lekin usme fail hone par yeh uspar baahar se impose kiya jayega, taaki jahan tak possible ho hum sabhi equal hon, aur sabhi friends, kyunki hum sabhi same commander ke guidance ke tehat hain.’
+
+‘Haan, wahi hai jo hum kehte hain. Aur rightly.’
+
+‘Yeh clearly aim hai,’ maine kaha, ‘dono law ka, jo city ke sabhi inhabitants ka ally hai, aur hamare apne children ke governance ka [e]. Hum unhe tab tak free hone ki anumati nahi dete jab tak ki humne unme ek regime establish na kar liya ho, jaise ek city mein [591]. Hum child mein jo best hai uski care karne ke liye apne andar jo best hai uska use karte hain, aur hum use hamare apne similar ek guardian aur ruler dete hain, hamari jagah lene ke liye. Tabhi hum use uski freedom dete hain.’
+
+‘Haan,’ usne kaha, ‘woh clearly aim hai.’
+
+‘Kaise, us case mein, Glaucon – judgment ke kis standard dwara – hum yeh claim kar sakte hain ki unjust ya undisciplined hona, ya badly behave karna pay karta hai? Aisi cheezein karna jo ek person ko degrade karti hain, bhale hi woh use zyada money ya kisi doosre sort ki power de sakein?’
+
+‘Aisa koi tareeqa nahi hai jisse hum woh claim kar sakein.’
+
+‘Hum yeh bhi kaise keh sakte hain, ki injustice se get away karna aur unpunished jana pay karta hai [b]? Kya woh person jo isse get away kar jata hai aur bhi depraved nahi ban jata, jabki us person mein jo isse get away nahi karta, aur jise punish kiya jata hai, savage element tame ho jata hai aur sleep par put kiya jata hai, gentle part free set ho jata hai, aur poori soul apne best nature ki direction mein turn hoti hai? Wisdom ke sath self-discipline aur justice acquire karne mein, yeh ek more precious state attain karti hai – exact proportion mein jaise soul body se zyada precious hai – usse jo body gain karti hai jab yeh good health ke sath strength aur beauty gain karti hai.’
+
+‘Absolutely,’ usne kaha.
+
+‘Kya yeh wahi nahi hai, phir, jispar samajh wala koi bhi person apne poore lifetime ke efforts concentrate karega [c]? Pehle sthaan par, kya woh us learning ko value nahi karega jo uski soul ko is condition mein layegi, aur doosre kinds ki learning ko reject karega?’
+
+‘Obviously.’
+
+‘Secondly, jahan tak uske body ki condition aur care ka sawaal hai, uske liye ise savage aur unreasoning pleasure ko entrust karna, aur us state mein apni life spend karna sawaal se baahar hoga. Woh health ko bhi apna aim nahi banayega, ya strong, healthy ya good-looking hone ke liye koi thought nahi lega, jab tak ki yeh cheezein use self-discipline na dein [d]. Jaise woh apne body mein harmony tune karta hai, yeh clear hai ki jo uske mind mein hoga woh hamesha uski soul mein concord hoga.’
+
+‘Yeh certainly hoga,’ usne kaha. ‘Agar woh truly musical hona chahta hai, yaani.’
+
+‘Aur kya woh money ke acquisition mein same order aur concord observe karega? Woh dazzle nahi hoga, kya woh hoga, usse jise many happiness regard karte hain, aur money ki ek huge quantity amass karke khud ko bina number ke evils gain nahi karwayega?’
+
+‘Nahi, mujhe nahi lagta ki woh aisa karega,’ usne kaha.
+
+‘Woh iske bajaye apne andar ke regime par concentrate karega, aur uspar watch rakhega, isme elements mein se kisi ko bhi na toh bahut zyada wealth dwara aur na hi bahut kam dwara disturb na karne ke liye careful hote hue [e]. Yeh woh star hai jise woh follow karega, apni ability ke best par, wealth ke apne store mein add karne mein ya isse spend karne mein.’
+
+‘Naturally.’
+
+‘Similarly jab honours ki baat aati hai, woh same end ko view mein rakhega [592]. Kuch mein woh willingly share karega aur taste karega – woh jinhe woh sochta hai ki use ek better person banayenge. Lekin woh avoid karega, dono apni private life mein aur public life mein, unhe jinhe woh sochta hai ki uski soul ki established condition ko upset karenge.’
+
+‘Woh certainly politics mein jaane ke liye taiyar nahi hoga, phir, agar woh uski priorities hain.’
+
+‘Ye dogs!’ maine kaha.
+24
+‘Woh politics mein jaane ke liye kaafi taiyar hoga – us city mein jo uska apna hai. Lekin apni native country mein, kisi heaven-sent piece of good fortune ke alawa, perhaps nahi.’
+
+‘Main samajhta hoon,’ usne kaha. ‘Aapka matlab us city mein hai jise humne abhi found aur describe kiya hai, hamara hypothetical city, kyunki mujhe nahi lagta ki yeh earth par kahin exist karta hai [b].’
+
+‘Nahi, yadyapi shayad heaven mein kahin koi pattern ya model laid up ho sakta hai, kisi ke liye bhi jo ise dekhna choose karta hai – aur ise dekhkar, apne andar ek city found karna choose karta hai. Isse koi difference nahi padta ki yeh kahin exist karta hai, ya kabhi karega. Yeh, aur koi doosra nahi, akela city hai jiski politics mein woh engage hoga.’
+
+‘Very likely,’ usne kaha.
+
+---
+
+### Footnotes for Book 9
+
+1. 558d–559d.
+2. 558d.
+3. ‘Lust ya passion’ *eros* ka anuvaad karta hai, jo Greek mein normally us kind ke love ka matlab hota hai jismein hum fall karte hain bajaye us love ke jo hum family ya friends ke prati bear karte hain; hence yeh sexual passion ko bhi refer karta hai, aur, extension dwara, kisi bhi vehement desire ko. Yeh addition mein Love personified ka name bhi hai, jise us samay ke vase-paintings par ek winged boy-god ke roop mein depict kiya jata tha. Plato is semantic range ko exploit karta hai, particularly iske darker reaches ko, tyrannical character ko describe karne mein. Word ko context ke according variously ‘passion’, ‘lust’ (ya ‘Lust’) ya ‘Eros’ translate kiya gaya hai.
+4. Myth mein aur poetry mein men aur gods par love ki irresistible power ko frequently acknowledge kiya jata hai. Love cosmos ke origins ke sambandh mein kuch traditions aur speculations mein ek primeval aur mighty power ke roop mein bhi figure karta hai.
+5. Yaani, us misery ke liye jo ek tyrant apne city par inflict kar sakta hai. Greek mein saying archaic language hai ‘does not even hit close’ ke liye.
+6. Yeh usually assume kiya jata hai ki Plato dramatist aur stage-director ke roop mein yahan wings se apna head pop karta hai audience ko yaad dilane ke liye ki woh khud Sicily mein ek tyrant ke palace mein guest tha aur uske behaviour ka eyewitness tha (introduction ka p. xxii dekhein).
+7. Yaani, faithful service ke reward ke roop mein nahi.
+8. 578b.
+9. Socrates jin qualities ko list karne wala hai woh Book 8 mein tyrant ke pehle ke descriptions (565e, 567a–568a) aur Book 9 mein tyrannical character ke descriptions (573d–575a, 575e–576b) dono se fit baithti hain.
+10. Metaphor Athens mein dramatic competitions mein plays ki ranking se draw kiya gaya hai – hence Glaucon ka apne reply mein choruses ka reference – lekin hum method of judgment ke baare mein itna enough nahi jaante yeh samajhne ke liye ki ‘final’ decision, ya, phrase ke ek doosre meaning mein, ‘overall’ decision se kya correspond karta tha. Results ek public herald dwara announce kiye jaate the.
+11. Soul ke different elements ko assign kiye gaye various roles aur names ke liye Book 4, 435e–436a, 439d–e, aur Book 8, 550a–b, 553c–d dekhein.
+12. Word jiska translation ‘lover of wisdom’ kiya gaya hai uska matlab ‘philosopher’ bhi ho sakta hai.
+13. Drinking-parties gods ke honour mein libations ya toasts ka ek established sequence maintain karti thin, jinmein se third Olympian Zeus the saviour ya preserver ke liye hota tha. Socrates Olympic games mein wrestling contest ki taraf bhi allude kar raha hai – wrestling mein, third throw victory decide karta tha.
+14. Kaun sa expert, agar indeed koi tha, hum tell nahi kar sakte. ‘Shadow-painting’ two dimensions mein depth ka illusion achieve karne ki ek technique thi.
+15. Phrase ‘to be something’ ki ambiguity ko upar 476e ke note 39 mein explain kiya gaya hai.
+16. Sentence ka Greek text jo is point par manuscripts mein transmit hua hai uske baare mein lambe samay se acknowledge kiya gaya hai ki jaise yeh stand karta hai iska little sense banta hai. Uski jagah hum is translation ke editor dwara emended text use kar rahe hain. Is aur follow karne wale sentences ka transmitted text translate hoga: ‘Kya jo hamesha same hai uska being being mein koi greater share rakhta hai bajaye iske jo yeh knowledge mein rakhta hai?’ ‘Nahi.’ ‘Ya being mein koi greater share bajaye iske jo yeh truth mein rakhta hai?’ ‘Again, nahi.’ ‘Aur agar iska truth mein smaller share tha, kya iska being mein bhi smaller share nahi hota?’ Emended text jo hum 585c7–8 par use kar rahe hain woh hai: (ya )
+17. Socrates oligarchic man ko do baar count kar raha hai, aristocrat, timocrat, oligarch series mein last ke roop mein, aur oligarch, democrat, tyrant series mein first ke roop mein.
+18. 729 9×9×9 hai. Lekin yeh unclear hai ki Socrates true pleasure se tyrant ke distance ke multiple ke roop mein 9 par content kyun nahi hota.
+19. Presumably kyunki year ko 364.5 days aur same number of nights contain karne wala socha jata tha, jo ek sath 729 add up hote hain.
+20. 360c–d, 361a–362c.
+21. Greek religion mein snakes sacred places ke fierce guardians the. Yeh unke deviousness aur earth ke neeche secret zones ke sath associations ke combination mein unhe lion ka ek darker counterpart banata hai.
+22. Chhote monkeys ko pets ke roop mein rakha jata tha. Unhe comically ugly regard kiya jata tha, aur devious bhi.
+23. 343b–c.
+24. Is characteristically Socratic oath ke liye upar 399e ke note 50 ko dekhein.
