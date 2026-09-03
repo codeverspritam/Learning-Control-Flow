@@ -739,3 +739,301 @@ Jaise ki 1999 mein Department of Justice ki investigation ke dauran pata chala, 
 
 - Agli baar jab aap koi presentation dein ya koi memo likhein, toh **WISDOM** acrostic (page 20) par kaam karne ki koshish karein. Dekhein ki kya yeh aapki baat ko sahi tareeqe se pesh karne mein madad karta hai. Baad mein apne audience se baat karke dekhein ki unki zarooraton ka aapka andaza (assessment) kitna sateek tha.
 
+## Chapter 2: A Pragmatic Approach
+
+Software development ke har level par kuch aisi tips aur tricks hoti hain jo axiomatic (swayam-siddh) hain—yani aise sach jinhe saabit karne ki zaroorat nahi padti. Yeh processes lagbhag universal hain, lekin aksar inke baare mein kahin alag se likha nahi milta; ye design, project management ya coding ki baaton ke beech dabi hui milti hain.
+
+Is chapter mein hum in sabhi ideas aur processes ko ek saath layenge. Pehle do hisse, _The Evils of Duplication_ aur _Orthogonality_, aapas mein jude hue hain. Pehla aapko system mein gyan (knowledge) ko duplicate karne se rokta hai, aur dusra yeh batata hai ki gyan ke kisi bhi hisse ko multiple components mein mat baantein.
+
+Jaise-jaise badlav (change) ki raftaar badh rahi hai, hamare applications ko relevant banaye rakhna mushkil hota ja raha hai. _Reversibility_ mein hum aisi techniques dekhenge jo aapke projects ko badalte mahool (environment) se surakshita (insulate) rakhne mein madad karengi.
+
+Agle do sections bhi aapas mein jude hain. _Tracer Bullets_ mein hum development ke us style ki baat karenge jisme aap requirements gather karna, designs test karna, aur code implement karna—yeh sab ek saath kar sakte hain. Agar yeh sunne mein "too good to be true" lag raha hai, toh aap sahi hain: tracer bullets har jagah kaam nahi aate. Jahan ye kaam na karein, wahan _Prototypes and Post-it Notes_ aapko dikhayega ki prototyping se architectures, algorithms aur ideas ko kaise parakha jata hai.
+
+Jaise-jaise computer science mature ho rahi hai, designers aur bhi higher-level languages bana rahe hain. Halanki abhi tak aisa koi compiler nahi bana jo sirf "aisa kar do" (make it so) kehne par kaam kar de, lekin _Domain Languages_ mein hum kuch aise chhote sujhaav (suggestions) denge jinhe aap khud implement kar sakte hain.
+
+Aakhir mein, hum sab ek aisi duniya mein kaam karte hain jahan waqt (time) aur sansadhan (resources) mehdood (limited) hain. Agar aap is baat mein maahir (expert) ho jayein ki kisi kaam mein kitna waqt lagega, toh aap in dono kamiyon ka behtar saamna kar payenge (aur apne bosses ko bhi khush rakhenge). Ise hum _Estimating_ mein cover karenge.
+
+In buniyaadi siddhanton (fundamental principles) ko dhyan mein rakh kar, aap aisa code likh sakte hain jo behtar, tez aur mazboot ho. Aap ise itna smooth bana sakte hain ki yeh dekhne mein aasaan lagega.
+
+---
+
+### 7. The Evils of Duplication
+
+Computer ko do virodhi (contradictory) jankari dena Captain James T. Kirk ka pasandida tareeqa tha kisi hamla-war (marauding) artificial intelligence ko disable karne ka. Bad-kismati se, yahi principle aapke code ko neeche girane mein bhi kaafi asar-dar (effective) ho sakta hai.
+
+Programmers ke taur par, hum gyan (knowledge) ko ikatha (collect) karte hain, organize karte hain, maintain karte hain, aur uska istemal karte hain. Hum specifications mein gyan ko document karte hain, use chalte hue code mein zinda karte hain, aur testing ke dauran zaroori checks provide karne ke liye uska istemal karte hain.
+
+Afsos (unfortunately), gyan sthir (stable) nahi hota. Yeh badalta hai—aur aksar bahut tezi se. Client ke saath meeting ke baad kisi requirement ki aapki samajh badal sakti hai. Sarkar koi niyam (regulation) badal deti hai aur kuch business logic purani (outdated) ho jati hai. Tests dikha sakte hain ki chuna hua algorithm kaam nahi karega. Yeh saari asthirta (instability) ka matlab hai ki hum apne waqt ka ek bada hissa rakh-rakhav (maintenance) mode mein bitate hain, apne systems mein gyan ko dobara organize aur express karte hain.
+
+Zyada-tar log yeh maante hain ki maintenance tab shuru hoti hai jab koi application release ho jati hai, aur maintenance ka matlab hai bugs fix karna aur features ko behtar banana. Hum sochte hain ki yeh log galat hain. Programmers hamesha maintenance mode mein rehte hain. Hamari samajh din-ba-din badalti hai. Jab hum design ya code kar rahe hote hain, tab nayi requirements aa jati hain. Shayad mahaul (environment) badal jata hai. Wajah jo bhi ho, maintenance koi alag activity nahi hai, balki poore development process ka ek routine hissa hai.
+
+Jab hum maintenance karte hain, toh hamein cheezon ke pratinidhitva (representations) ko dhoondhna aur badalna padta hai—wo gyan ke chhote hisse (capsules of knowledge) jo application mein dabe hue hain. Problem yeh hai ki specifications, processes aur programs mein gyan ko duplicate karna aasaan hai, aur jab hum aisa karte hain, toh hum ek maintenance nightmare ko dawat (invite) dete hain—jo application ship hone se bahut pehle shuru ho jata hai.
+
+Hamein lagta hai ki software ko bharose-mand (reliably) tareeqe se develop karne ka, aur apne kaam ko samajhne aur maintain karne mein aasaan banane ka akela rasta wahi hai jise hum **DRY** principle kehte hain:
+
+> **EVERY PIECE OF KNOWLEDGE MUST HAVE A SINGLE, UNAMBIGUOUS, AUTHORITATIVE REPRESENTATION WITHIN A SYSTEM.**
+> (System ke andar har gyan ka ek hi, saaf (unambiguous) aur adhikarik (authoritative) roop hona chahiye.)
+
+Hum ise **DRY** kyun kehte hain?
+
+> **Tip 11**
+> **DRY — Don't Repeat Yourself**
+> (Apne aap ko mat dohraiye)
+
+Iska vikalp (alternative) yeh hai ki ek hi cheez do ya do se zyada jagahon par kahi jaye. Agar aap ek ko badalte hain, toh aapko dusron ko badalna yaad rakhna hoga, warna un alien computers ki tarah, aapka program bhi ek virodhabhas (contradiction) ki wajah se ghutno par aa jayega. Yeh sawal nahi hai ki aapko yaad rahega ya nahi: sawal yeh hai ki aap **kab** bhoolenge.
+
+Aap payenge ki _DRY_ principle is book mein bar-bar saamne aayega, aksar aise contexts mein jinka coding se koi lena-dena nahi hai. Hamein lagta hai ki yeh Pragmatic Programmer ke toolbox mein sabse mahatvapurn (important) tools mein se ek hai.
+
+Is section mein hum duplication ki problems ka khaka (outline) khichenge aur unse nipatne ki general strategies sujhaayenge.
+
+---
+
+#### **Duplication Kaise Paida Hoti Hai? (How Does Duplication Arise?)**
+
+Zyada-tar duplication jo hum dekhte hain, wo neeche di gayi categories mein aati hai:
+
+1. **Imposed duplication:** Developers ko lagta hai ki unke paas koi raasta nahi hai—mahaul (environment) aisa lagta hai jaise duplication zaroori ho.
+2. **Inadvertent duplication:** Developers ko ehsas hi nahi hota ki wo jankari ko duplicate kar rahe hain.
+3. **Impatient duplication:** Developers sust (lazy) ho jate hain aur duplicate karte hain kyunki wo aasaan lagta hai.
+4. **Interdeveloper duplication:** Ek hi team ke (ya alag teams ke) kai log ek hi jankari ko duplicate kar dete hain.
+
+Aaiye duplication ke in chaar **'i'** ko विस्तार (detail) se dekhte hain.
+
+---
+
+#### **Imposed Duplication (Thopi Gayi Duplication)**
+
+Kabhi-kabhi duplication hum par thopi gayi lagti hai. Project standards mein aise documents ki zaroorat ho sakti hai jinme duplicate jankari ho, ya aise documents jo code mein maujood jankari ko duplicate karte hon. Kai saare target platforms ke liye unki apni programming languages, libraries aur environments chahiye hote hain, jo hamein shared definitions aur procedures ko duplicate karne par majboor karte hain. Khud programming languages ko aise structures chahiye hote hain jo jankari ko duplicate karte hain. Hum sabne aisi jagahon par kaam kiya hai jahan humne duplication se bachne mein khud ko bebas (powerless) mehsoos kiya hai. Aur phir bhi, aksar gyan ke har hisse ko ek hi jagah rakhne ke, _DRY_ principle ka samman (honoring) karne ke, aur saath hi apni zindagi aasaan banane ke tareeqe hote hain. Yahan kuch techniques hain:
+
+**Information ke kai saare roop (Multiple representations of information):** Coding level par, hamein aksar ek hi jankari ko alag-alag roop mein dikhane ki zaroorat hoti hai. Shayad hum ek client-server application likh rahe hain, client aur server par alag languages istemal kar rahe hain, aur dono par kisi shared structure ko dikhane ki zaroorat hai. Shayad hamein ek aisi class chahiye jiske attributes kisi database table ke schema se milte-julte (mirror) hon. Shayad aap ek book likh rahe hain aur un programs ke hisse (excerpts) shaamil karna chahte hain jinhe aap compile aur test bhi karenge.
+
+Thodi si hoshiyari (ingenuity) ke saath aap aam taur par duplication ki zaroorat ko hata sakte hain. Aksar jawab ek simple filter ya code generator likhna hota hai. Kai languages mein structures ko ek common metadata representation se banaya ja sakta hai, har baar jab software build hota hai tab ek simple code generator ka istemal karke. Class definitions ko online database schema se, ya us metadata se jo schema banane mein shuruat mein istemal hua tha, automatically generate kiya ja sakta hai. Is book mein code ke tukde har baar format karte waqt ek preprocessor dwara insert kiye jate hain. Trick yeh hai ki process ko active banaya jaye: yeh sirf ek baar ka badlav (one-time conversion) nahi ho sakta, warna hum phir se data duplicate karne wali position mein pahunch jayenge.
+
+**Code mein documentation (Documentation in code):** Programmers ko sikhaya jata hai ki apne code mein comments likhein: acche code mein bahut saare comments hote hain. Afsos, unhe yeh kabhi nahi sikhaya jata ki code ko comments ki zaroorat **kyun** hoti hai: ghatiya (bad) code ko bahut saare comments ki **zaroorat (requires)** hoti hai.
+
+_DRY_ principle hamein batata hai ki low-level knowledge ko code mein rakhein, jahan uski asli jagah hai, aur comments ko baaki high-level explanations ke liye bachakar rakhein. Warna, hum gyan ko duplicate kar rahe hain, aur har badlav ka matlab hoga code aur comments dono ko badalna. Comments yakeenan purane (out of date) ho jayenge, aur bharose-mand na hone wale (untrustworthy) comments na hone se bhi bad-tar (worse) hain.
+
+**Documentation aur code:** Aap documentation likhte hain, phir code likhte hain. Kuch badalta hai, aur aap documentation mein sudhaar (amend) karte hain aur code ko update karte hain. Documentation aur code dono mein ek hi gyan ki representations hoti hain. Aur hum sab jaante hain ki kaam ke dabav (heat of the moment) mein, deadlines ke pressure mein, hum documentation ko update karna taal (defer) dete hain.
+
+Dave ne ek baar ek international telex switch par kaam kiya tha. Client ne ek exhaustive test specification maangi thi aur shart rakhi thi ki software har delivery par saare tests pass kare. Yeh pakka karne ke liye ki tests specification ko sahi dhang se dikhate hain, team ne unhe document se hi programmatically generate kiya. Jab client ne apni specification badli, toh test suite apne aap badal gaya.
+
+**Language ke masle (Language issues):** Kai languages source mein kaafi duplication thopti (impose) hain. Aksar aisa tab hota hai jab language kisi module ke interface ko uski implementation se alag karti hai. C aur C++ mein header files hoti hain jo exported variables, functions aur classes ke naam aur type information ko duplicate karti hain. Agar aap remote procedure calls ya CORBA istemal kar rahe hain, toh aap interface specification aur use implement karne wale code ke beech interface jankari ko duplicate karenge.
+
+Kisi language ki zarooraton se nipatne ki koi asaan technique nahi hai. Halanki kuch development environments header files ki zaroorat ko automatically generate karke chhupa dete hain, lekin aam taur par aapko wahi lekar chalna padta hai jo aapko diya gaya hai. Kam se kam zyada-tar language-based issues mein, ek header file jo implementation se mel nahi khati (disagree), wo compilation ya linkage error generate karegi. Galtiyan ab bhi ho sakti hain, lekin kam se kam aapko unke baare mein kaafi pehle pata chal jayega.
+
+Header aur implementation files mein comments ke baare mein bhi sochein. Dono files ke beech kisi function ya class header comment ko duplicate karne ka koi matlab nahi hai. Header files ka istemal interface issues ko document karne ke liye karein, aur implementation files ka istemal un baarikiyon (nitty-gritty details) ke liye jinhe aapke code ke users ko jaanne ki zaroorat nahi hai.
+
+---
+
+#### **Inadvertent Duplication (Anjane mein hone wali Duplication)**
+
+Kabhi-kabaar, duplication design mein galtiyon ke nateeje (result) mein saamne aati hai.
+
+Aaiye distribution industry ka ek example dekhte hain. Maan lijiye hamara analysis batata hai ki, baaki attributes ke alawa, ek truck ka ek type, ek license number, aur ek driver hota hai. Usi tarah, ek delivery route ek route, ek truck, aur ek driver ka mel (combination) hota hai. Hum is samajh ke adhaar par kuch classes code karte hain.
+
+Lekin kya hota hai jab Sally beemar ho jati hai aur hamein drivers badalna padta hai? Truck aur DeliveryRoute dono mein ek driver hai. Hum kise badalte hain? Saaf taur par yeh duplication buri hai. Ise asli business model ke hisab se sahi dhang se vyavasthit (normalize) karein—kya ek truck ke buniyaadi attributes mein driver shaamil hota hai? Kya ek route mein? Ya shayad wahan ek teesre object ki zaroorat hai jo driver, truck aur route ko aapas mein jode (knits together). Jo bhi samadhan (solution) ho, is tarah ke unnormalized data se bachein.
+
+Ek thoda kam zahir (less obvious) hone wala unnormalized data tab hota hai jab hamare paas kai aise data elements hon jo ek-dusre par nirbhar (mutually dependent) hon. Aaiye ek line ko represent karne wali class ko dekhte hain:
+
+```java
+class Line {
+    public Point  start;
+    public Point  end;
+    public double length;
+}
+
+```
+
+Pehli nazar mein, yeh class sahi lag sakti hai. Ek line ka saaf taur par ek start aur end hota hai, aur hamesha ek length hogi. Lekin hamare paas duplication hai. Length start aur end points se tai (defined) hoti hai: ek point badlo aur length badal jati hai. Behtar hoga ki length ko ek calculated field banaya jaye:
+
+```java
+class Line {
+    public Point  start;
+    public Point  end;
+    public double length() { return start.distanceTo(end); }
+}
+
+```
+
+Baad mein development process mein, aap performance ki wajah se _DRY_ principle ko todne ka faisla kar sakte hain. Aksar aisa tab hota hai jab aapko mehange operations (expensive operations) ko dohrane se bachne ke liye data ko cache karne ki zaroorat hoti hai. Trick yeh hai ki iske asar (impact) ko ek jagah mehdood (localize) rakha jaye. Yeh ullanghan (violation) bahar ki duniya ko nahi dikhna chahiye: sirf class ke andar ke methods ko hi cheezon ko sahi rakhne ki chinta karni hogi.
+
+Yeh example Java aur C++ jaisi object-oriented languages ke liye ek mahatvapurn mudda (important issue) bhi samjhata hai. Jahan tak mumkin ho, objects ke attributes ko padhne aur likhne ke liye hamesha **accessor functions** ka istemal karein. Yeh bhavishya mein caching jaisi functionality jodhna aasaan bana dega.
+
+---
+
+#### **Impatient Duplication (Susti ya Besabri wali Duplication)**
+
+Har project mein waqt ka dabav (time pressures) hota hai—aisi taqatein jo hum mein se behtareen logon ko bhi shortcut lene par majboor kar sakti hain. Kisi aise routine ki zaroorat hai jo aapne pehle likhe hue jaisa ho? Aapka mann karega ki original ko copy karein aur kuch badlav kar dein. Maximum points dikhane ke liye kisi value ki zaroorat hai? Agar main header file badlunga, toh poora project dubara build hoga. Shayad mujhe yahan bas ek literal number use kar lena chahiye; aur yahan bhi; aur yahan bhi.
+
+Agar aapko yeh lalach (temptation) mehsoos ho, toh us purani kahawat (aphorism) ko yaad rakhein: **"Shortcuts make for long delays."** Aap shayad abhi kuch seconds bacha lein, lekin baad mein ghanton ka nuksan ho sakta hai. Y2K fiasco ke muddon (issues) ke baare mein sochein. Bahut se masle developers ki us susti ki wajah se the jinhone date fields ke size ko parameterize nahi kiya tha ya date services ki centralized libraries implement nahi ki thi.
+
+Impatient duplication ko pehchan-na aur handle karna aasaan hai, lekin iske liye anushasan (discipline) aur baad ki takleef se bachne ke liye shuruat mein waqt bitane ki taiyari chahiye.
+
+---
+
+#### **Interdeveloper Duplication (Developers ke beech Duplication)**
+
+Dusri taraf, shayad duplication ka sabse mushkil tareeqa pehchan-na aur handle karna wo hai jo ek project ke alag-alag developers ke beech hota hai. Functionality ke poore sets anjane mein duplicate ho sakte hain, aur wo duplication saalon tak pakad mein nahi aa sakti, jiske nateeje mein maintenance problems hoti hain. Humne ek U.S. state ke baare mein suna jahan ke sarkari computer systems ka Y2K compliance ke liye survey kiya gaya. Audit mein 10,000 se zyada programs nikal kar aaye, jinme se har ek mein Social Security number validation ka apna version tha.
+
+High level par, is problem se nipatne ke liye ek saaf design, ek mazboot technical project leader, aur design ke andar zimmedariyon ka sahi batwara (division of responsibilities) hona chahiye. Halanki, module level par, yeh problem zyada gehari (insidious) hai. Aam taur par zaroorat padne wali functionality jo kisi saaf zimmedari ke area mein nahi aati, wo kai baar implement ho sakti hai.
+
+Hamein lagta hai ki isse nipatne ka sabse accha tareeqa developers ke beech **active aur lagatar samvaad (communication)** ko badhava dena hai. Common problems discuss karne ke liye forums banayein. Project librarian niyukt karein jiska kaam jankari ke len-den (exchange of knowledge) ko asaan banana ho. Source tree mein ek aisi central jagah rakhein jahan utility routines aur scripts jama kiye ja sakein. Aur dusre logon ke source code aur documentation ko padhne ki aadat daalein. Aap jasusi (snooping) nahi kar rahe—aap unse seekh rahe hain.
+
+---
+
+> **Tip 12**
+> **Make It Easy to Reuse**
+> (Reuse karna asaan banayein)
+
+---
+
+Aap jo karne ki koshish kar rahe hain wo ek aisa mahaul (environment) banana hai jahan maujooda cheezon ko dhoondhna aur reuse karna naya likhne se zyada aasaan ho. **Agar yeh asaan nahi hoga, toh log ise nahi karenge.** Aur agar aap reuse karne mein nakamyab rehte hain, toh aap gyan ko duplicate karne ka khatra (risk) mol lete hain.
+
+### 8. Orthogonality
+
+Orthogonality ek bahut mahatvapurn (critical) concept hai agar aap aise systems banana chahte hain jinhe design, build, test, aur extend karna aasaan ho. Halanki, orthogonality ka concept aksar seedhe (directly) nahi sikhaya jata. Yeh aksar dusre methods aur techniques ka ek chhupa hua (implicit) feature hota hai jo aap seekhte hain. Yeh ek galti (mistake) hai. Ek baar jab aap orthogonality ke siddhant (principle) ko directly apply karna seekh lete hain, toh aap apne banaye hue systems ki quality mein turant sudhaar (improvement) mehsoos karenge.
+
+#### **Orthogonality Kya Hai? (What Is Orthogonality?)**
+
+"Orthogonality" ek aisa term hai jo geometry se udhaar liya gaya (borrowed) hai. Do lines tab orthogonal hoti hain jab wo right angles par milti hain, jaise graph ke axes. Vector terms mein, wo do lines **azaad (independent)** hoti hain. Ek line par aage badhiye, aur dusri line par aapki position projected change nahi hogi.
+
+Computing mein, is term ka matlab ek tarah ki azaadi ya **alag-alag hona (decoupling)** hai. Do ya do se zyada cheezein tab orthogonal hoti hain jab ek mein badlav (changes) karne se dusri cheezon par koi asar na pade. Ek well-designed system mein, database code aur User Interface (UI) orthogonal honge: aap database ko mutasir (affecting) kiye bina interface badal sakte hain, aur interface badle bina databases ko swap kar sakte hain.
+
+Isse pehle ki hum orthogonal systems ke fayde (benefits) dekhein, aaiye pehle ek aise system ko dekhte hain jo orthogonal nahi hai.
+
+---
+
+#### **A Nonorthogonal System (Ek Gair-orthogonal System)**
+
+Tasavvur (imagine) kijiye ki aap Grand Canyon ke helicopter tour par hain aur pilot, jisne lunch mein machhli khane ki zahir galti (obvious mistake) ki thi, achanak karahata hai aur behosh (faints) ho jata hai. Khush-kismati se, usne aapko zameen se 100 feet upar hawa mein latka (hovering) chhod diya hai. Aap andaza lagate (rationalize) hain ki collective pitch lever [2] lift ko control karta hai, toh ise halka sa neeche karne se zameen par dheere-dheere utarna (descent) shuru ho jayega. Halanki, jab aap ise try karte hain, toh aapko pata chalta hai ki zindagi itni simple nahi hai. Helicopter ki naak (nose) niche jhuk jati hai, aur aap left ki taraf gol-gol (spiral) ghoomne lagte hain. Achanak aapko pata chalta hai ki aap ek aise system ko fly kar rahe hain jahan har control input ke **dusre asar (secondary effects)** hote hain. Left-hand lever ko neeche kijiye aur aapko right-hand stick ko peeche karke balance (compensating) banana padega aur right pedal dabana padega. Lekin phir inmein se har badlav baaki saare controls ko dobara mutasir (affects) karta hai. Achanak aap ek yakeen na karne layak complex (unbelievably complex) system ko sambhal rahe hain, jahan har badlav baaki saare inputs par asar (impacts) dalta hai. Aapka kaam ka bojh (workload) kaafi bada (phenomenal) hai: aapke haath aur pair lagatar Interaction forces ko balance karne ki koshish mein hil rahe hain.
+
+> [2] Helicopters mein chaar basic controls hote hain. _Cyclic_ wo stick hai jo aap right hand mein pakadte hain. Ise hilaiye, aur helicopter usi direction mein jayega. Aapka left hand _collective pitch lever_ pakadta hai. Ise upar kijiye aur lift paida hogi. Pitch lever ke end par _throttle_ hota hai. Aakhir mein do foot _pedals_ hote hain, jo tail rotor thrust ko badalte hain aur helicopter ko modne (turn) mein madad karte hain.
+
+Helicopter ke controls bilkul bhi orthogonal nahi hote.
+
+---
+
+#### **Benefits of Orthogonality (Orthogonality ke Fayde)**
+
+Jaise helicopter ki misaal (example) dikhati hai, gair-orthogonal systems ko badalna aur control karna buniyaadi taur par (inherently) zyada mushkil hota hai. Jab kisi bhi system ke components ek dusre par bahut zyada nirbhar (interdependent) hote hain, toh wahan "local fix" jaisa kuch nahi hota.
+
+> **Tip 13**
+> **Eliminate Effects Between Unrelated Things**
+> (Gair-sambandhit cheezon ke beech asar ko khatam karein)
+
+Hum aise components design karna chahte hain jo **khud-mukhtar (self-contained)** hon: independent, aur jinka ek hi saaf maqsad (well-defined purpose) ho (jise Yourdon aur Constantine **judaav (cohesion)** kehte hain). Jab components ek dusre se alag (isolated) hote hain, toh aap jaante hain ki aap ek ko badal sakte hain bina baaki sab ki chinta kiye. Jab tak aap us component ke external interfaces ko nahi badalte, aap nishchint (comfortable) reh sakte hain ki aap poore system mein koi ripple effect paida nahi karenge.
+
+Orthogonal systems likhne ke do bade fayde (major benefits) hain: **productivity badhti hai** aur **risk kam hota hai**.
+
+#### **Gain Productivity (Productivity Hasil Karein)**
+
+- **Changes localized hote hain**, isliye development aur testing ka waqt kam ho jata hai. Ek bade code block ke muqable chhote, swatantra (self-contained) components likhna aasaan hai. Simple components ko design, code aur unit test karke bhulaya ja sakta hai—naye code ko jodne ke waqt purane code ko baar-baar badalne ki zaroorat nahi padti.
+- Orthogonal approach **reuse ko bhi badhava (promotes) deti hai**. Agar components ki zimmedariyan (responsibilities) saaf hain, toh unhe naye components ke saath un tareeqon se joda ja sakta hai jo unke banane walon ne soche bhi nahi honge. Aapka system jitna dhila juda (loosely coupled) hoga, use dobara configure aur reengineer karna utna hi aasaan hoga.
+- Orthogonal components ko milane (combine) par productivity mein ek gehra (subtle) fayda hota hai. Maan lijiye ek component M kaam karta hai aur dusra N kaam. Agar wo orthogonal hain aur aap unhe milate hain, toh result **M x N** kaam karta hai. Lekin, agar wo orthogonal nahi hain, toh overlap hoga aur result kam kaam karega. Orthogonal components ko milakar aap kam mehnat mein zyada functionality hasil karte hain.
+
+#### **Reduce Risk (Khatra Kam Karein)**
+
+Orthogonal approach kisi bhi development mein chhupay hue khatron (risks) ko kam karti hai.
+
+- **Code ke bimaar hisse isolated rehte hain.** Agar koi module bimaar hai, toh uske lakshan (symptoms) baaki system mein failne ke chances kam hote hain. Use kaat kar alag karna aur naya healthy hissa lagana (transplant) bhi aasaan hota hai.
+- Nateeja (resulting) system kam **nazuk (fragile)** hota hai. Kisi khaas area mein chhote badlav aur fixes kijiye, aur jo bhi problems paida hongi wo usi area tak mehdood (restricted) rahengi.
+- Ek orthogonal system shayad **behtar tested** hoga, kyunki uske components par tests design aur run karna aasaan hoga.
+- Aap kisi khaas vendor, product ya platform se itni buri tarah nahi bandhenge (tightly tied), kyunki in third-party components ke interfaces poore development ke chhote hisson mein isolated honge.
+
+Aaiye dekhte hain ki aap orthogonality ke siddhant (principle) ko apne kaam mein kaise apply kar sakte hain.
+
+---
+
+#### **Project Teams**
+
+Kya aapne notice kiya hai ki kaise kuch project teams bahut **kushal (efficient)** hoti hain, jahan har kisi ko pata hota hai ki kya karna hai, jabki dusri teams ke members lagatar **behas (bickering)** karte hain aur ek dusre ke raste se hat nahi paate?
+
+Aksar yeh orthogonality ka masla (issue) hota hai. Jab teams bahut zyada **mel-jol (overlap)** ke saath organize hoti hain, toh members zimmedariyon (responsibilities) ko lekar confuse rehte hain. Har badlav ke liye poori team ki meeting zaroori ho jati hai, kyunki unmein se koi bhi mutasir (affected) ho sakta hai.
+
+Teams ko minimal overlap ke saath organize kaise karein? Iska koi simple jawab nahi hai. Yeh kaafi had tak project aur badlav ke areas ke analysis par depend karta hai. Hamara pasandida tareeqa infrastructure ko application se alag karna hai. Har bade infrastructure component (database, communications, middleware) ki apni subteam hoti hai. Phir hum apne logon ke hisab se groupings ko adjust karte hain.
+
+Aap project team ki orthogonality ka ek informal andaza (measure) laga sakte hain. Bas dekhiye ki har requested change ko discuss karne ke liye kitne logon ki **zaroorat (need)** hai. Jitna bada number, team utni hi kam orthogonal hai.
+
+---
+
+#### **Design**
+
+Zyada-tar developers orthogonal systems design karne ki zaroorat se waqif hain, halanki wo iske liye **modular, component-based, ya layered** jaise shabd (words) istemal karte hain. Systems ko cooperating modules ka bana hona chahiye, jahan har ek swatantra functionality implement kare. Aksar ye components **layers** mein organize hote hain, jahan har layer ek **abstraction** deti hai. Layered approach orthogonal systems design karne ka ek powerful tareeqa hai. Kyunki har layer sirf apne neeche wali layer ke abstractions istemal karti hai, aap neeche ki implementations ko baaki code mutasir kiye bina badal sakte hain.
+
+> **Figure 2.1: Typical layer diagram**
+
+Orthogonal design ka ek asaan test hai. Jab aapne components taiyar kar liye hon, toh khud se puchein: _Agar main kisi khaas function ke peeche ki requirements ko poori tarah badal doon, toh kitne modules par asar padega?_
+
+Ek orthogonal system mein, jawab **"sirf ek"** hona chahiye. [3] GUI panel par ek button hilane se database schema nahi badalna chahiye.
+
+> [3] Haqeeqat mein, yeh thoda nadani (naive) bhara hai. Aksar real-world badlav kai functions ko mutasir karte hain. Lekin functional level par dekhein toh har badlav ko ideally sirf ek module mutasir karna chahiye.
+
+Sochiye ek heating plant ko monitor karne wala complex system hai. Pehle requirement sirf GUI ki thi, phir voice response system aur telephone control jod diya gaya. Orthogonal system mein, aapko sirf UI se jude modules badalne padenge; plant control karne ka buniyaadi logic (underlying logic) wahi rahega. Agar aapne decouple kiya hai, toh ek hi code base se dono interfaces chal jayenge (Model-View-Controller paradigm yahan accha kaam karta hai).
+
+Khud se ye bhi puchein ki aapka design real world badlavon se kitna **alag (decoupled)** hai. Kya aap customer identifier ke liye phone number use kar rahe hain? Jab phone company area code badlegi toh kya hoga? **Aisi cheezon ki properties par bharosa (rely) na karein jinhe aap control nahi kar sakte.**
+
+---
+
+#### **Toolkits and Libraries**
+
+Third-party toolkits aur libraries laate waqt apne system ki orthogonality ko bachane ka dhyan rakhein. Apni technologies samajhdaari se chunein.
+
+Humne ek baar ek project par kaam kiya jahan Java code ko server aur client dono jagah chalna tha. RMI aur CORBA do vikalp (alternatives) the. RMI use karne par har remote method call exception throw kar sakta tha, jiska matlab tha ki har jagah exception handle karna padega. Yeh orthogonal nahi tha: code ko remote classes ki **location ka pata (aware)** nahi hona chahiye tha. CORBA ne ye restriction nahi lagayi thi.
+
+Jab aap koi toolkit laate hain, toh dekhein ki kya wo aapke code mein aise badlav thop (imposes) rahi hai jo wahan nahi hone chahiye. Agar persistence scheme **shafaf (transparent)** hai, toh wo orthogonal hai. Enterprise Java Beans (EJB) iska ek dilchasp example hai, jahan transaction ki jankari metadata mein hoti hai, code ke andar nahi.
+
+Ek aur twist **Aspect-Oriented Programming (AOP)** hai. AOP aapko aisi cheezein (behavior) ek jagah likhne deta hai jo warna poore source code mein phaili (distributed) hoti hain. Misaal ke taur par, logging. AOP ke saath aap logging ko un cheezon ke orthogonal implement karte hain jinhe log kiya ja raha hai.
+
+---
+
+#### **Coding**
+
+Har baar code likhte waqt aap orthogonality ko kam karne ka khatra mol lete hain. Jab tak aap poore context par nazar nahi rakhte, aap anjane mein functionality duplicate kar sakte hain.
+
+Orthogonality maintain karne ki kuch techniques:
+
+- **Code ko decoupled rakhein.** "Sharmaane wala code" (shy code) likhein—aise modules jo dusron ko faltu baatein na batayein aur dusron ki implementation par bharosa na karein. Law of Demeter ka palan (follow) karein.
+- **Global data se bachein (Avoid global data).** Global data reference karne se aapka code un sabhi components se jud jata hai jo wo data share karte hain. Context ko hamesha parameters ke taur par pass karein.
+- **Singleton pattern** ka istemal dhyan se karein, kyunki ye bhi global variables ki tarah an-chahe judaav (unnecessary linkage) paida kar sakte hain.
+- **Ek jaise functions se bachein (Avoid similar functions).** Duplicate code structural problems ka ishara (symptom) hai. Behtar implementation ke liye Strategy pattern dekhein.
+
+Hamesha apne code ko lekar **naqad (critical)** rehne ki aadat daalein. Ise behtar banane ke liye reorganize karte rahein, jise **Refactoring** kehte hain.
+
+---
+
+#### **Testing**
+
+Orthogonal system ko test karna aasaan hota hai. Components ke beech interaction **formal aur limited** hota hai, isliye zyada-tar testing module level par ho sakti hai. Unit testing integration testing se kahin zyada asaan hai. Har module ka apna unit test hona chahiye jo build process ke saath automatically chale.
+
+Unit test banana khud orthogonality ka ek test hai. Unit test build karne ke liye kya aapko baaki poore system ka bada hissa kheenchna (drag in) padta hai? Agar haan, toh aapka module decoupled nahi hai.
+
+Bug fixing ke waqt bhi orthogonality check karein. Jab koi problem aaye, toh dekhein ki fix kitna **mehdood (localized)** hai. Kya aapne sirf ek module badla, ya badlav poore system mein phailay hue (scattered) hain?
+
+---
+
+#### **Documentation**
+
+Orthogonality documentation par bhi apply hoti hai. Iske do axes hain: **content aur presentation**. Sacche orthogonal documentation mein aap content badle bina uska poora roop (appearance) badal sakte hain. Style sheets aur macros isme madad karte hain.
+
+---
+
+#### **Living with Orthogonality**
+
+Orthogonality **DRY** siddhant se kaafi judi hai. DRY se aap duplication kam karte hain, aur orthogonality se aap components ke beech ki nirbharta (interdependency) kam karte hain. Agar aap in dono ka istemal karenge, toh aapke systems zyada lachile (flexible), samajhne mein asaan, aur debug/test karne mein simple honge.
+
+Agar aap kisi aise project mein hain jahan badlav karna ek nightmare hai aur har badlav chaar nayi problems paida karta hai, toh yaad rakhiye wo helicopter wali kahani. Wo project orthogonal nahi hai. Waqt aa gaya hai **refactor** karne ka.
+
+Aur, agar aap helicopter pilot hain, toh machhli mat khaiye....
+
+---
+
+**Challenges**
+
+- Windows ke bade GUI tools aur command line utilities (shell prompts) mein se kaun zyada orthogonal hai? Kaunsa apne maqsad ke liye zyada aasaan hai? Kaunsa naye challenges ke liye combine karna aasaan hai?
+- C++ multiple inheritance aur Java interfaces ka orthogonality par kya asar padta hai? Delegation aur inheritance mein kya fark hai?
+
+**Exercises**
+
+1. Aap ek `Split` class likh rahe hain jo lines ko fields mein baant-ti hai. Kaunsa signature zyada orthogonal hai? (Ek jo constructor mein `InputStream` leta hai, ya ek jiska method sirf `String` leta hai?)
+2. Modal vs Modeless dialog boxes: Kaunsa zyada orthogonal design dega?
+3. Procedural languages vs Object technology: Kaunsa system zyada orthogonal results deta hai?
