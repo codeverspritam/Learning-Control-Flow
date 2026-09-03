@@ -1551,3 +1551,659 @@ Is chapter mein hum aapke apne buniyaadi toolbox mein nivesh (invest) karne ki b
 - **Code Generators:** Jaise woodworkers "jigs" banate hain, programmers bhi aisa code likh sakte hain jo khud code likhta hai.
 
 In auzaaron ko seekhne mein waqt bitayein, aur ek din aap payenge ki aapki ungliyan bina soche keyboard par chal rahi hain aur text ko manipulate kar rahi hain. Yeh auzaar aapke haathon ka extension ban jayenge.
+
+---
+
+## Chapter 3: The Basic Tools
+
+### 14. The Power of Plain Text (Plain Text ki Taqat)
+
+Pragmatic Programmers ke taur par, hamara buniyaadi maal (base material) lakdi ya loha nahi hai, balki **gyan (knowledge)** hai. Hum requirements ko gyan ke roop mein ikatha karte hain, aur phir us gyan ko apne designs, implementations, tests aur documents mein vyakt (express) karte hain. Aur hamara maanna hai ki gyan ko hamesha ke liye (persistently) store karne ka sabse behtareen format **Plain Text** hai. Plain text ke saath, hum gyan ko manually aur programmatically dono tareeqon se manipulate karne ki kabhiliyat rakhte hain, un lagbhag sabhi auzaaron (tools) ka istemal karke jo hamare paas maujood hain.
+
+**Plain Text Kya Hai? (What Is Plain Text?)**
+
+_Plain text_ un printable characters se bana hota hai jinhe insaan seedhe padh aur samajh sakein. Misaal ke taur par, halanki neeche diya gaya snippet printable characters se bana hai, lekin yeh be-maani (meaningless) hai:
+
+`Field19=467abe`
+
+Padhne wale ko koi andaza nahi ki `467abe` ka kya mahatva (significance) ho sakta hai. Isse behtar vikalp yeh hoga ki ise insaano ke liye **samajhne-layak (understandable)** banaya jaye:
+
+`DrawingType=UMLActivityDrawing`
+
+Plain text ka matlab yeh nahi hai ki text unstructured hai; **XML, SGML, aur HTML** plain text ke behtareen udaharan (examples) hain jinka dhancha (structure) acchi tarah se defined hota hai.
+
+Aap plain text ke saath woh sab kuch kar sakte hain jo kisi binary format ke saath kar sakte hain, jisme versioning bhi shaamil hai.
+
+Plain text aksar seedhe binary encoding ke muqable ek higher level par hota hai, jo aam taur par seedhe implementation se nikalta hai. Maan lijiye aap `uses_menus` naam ki ek property store karna chahte hain jo ya toh TRUE ho sakti hai ya FALSE. Text ka istemal karte hue, aap ise aise likh sakte hain:
+
+`myprop.uses_menus=FALSE`
+
+Iski tulna (contrast) `0010010101110101` se kijiye.
+
+Zyada-tar binary formats ke saath samasya yeh hai ki data ko samajhne ke liye zaroori sandarbh (context), data se alag hota hai. Aap kiritim roop se (artificially) data ko uske matlab se juda kar rahe hain. Woh data encrypted hone ke barabar hai; bina us application logic ke jo ise parse kare, yeh bilkul be-maani hai. Plain text ke saath, halanki, aap ek **self-describing data stream** hasil kar sakte hain jo us application se swatantra (independent) hoti hai jisne ise banaya hai.
+
+---
+
+> **Tip 20**
+> **Keep Knowledge in Plain Text**
+> (Gyan ko Plain Text mein rakhein)
+
+---
+
+**Kamiyaan (Drawbacks)**
+
+Plain text istemal karne ke do bade nuksan (drawbacks) hain:
+
+1. Ise store karne mein compressed binary format ke muqable zyada jagah (space) lag sakti hai.
+2. Plain text file ko interpret aur process karna computer ke liye zyada mehanga (computationally expensive) ho sakta hai.
+
+Aapki application ke adhaar par, inmein se ek ya dono sthitiyan (situations) na-manzoor ho sakti hain—jaise ki, jab satellite telemetry data store karna ho, ya kisi relational database ke internal format ke roop mein.
+
+Lekin in sthitiyon mein bhi, kache maal (raw data) ke baare mein **metadata** ko plain text mein store karna sahi ho sakta hai (page 144 par _Metaprogramming_ dekhein).
+
+Kuch developers ko chinta ho sakti hai ki plain text mein metadata rakhne se woh users ke liye khul jayega (exposing it). Yeh darr galat hai. Binary data plain text se zyada dhundhla (obscure) ho sakta hai, lekin woh usse zyada surakshit (secure) nahi hai. Agar aapko users dwara passwords dekhe jaane ki chinta hai, toh unhe encrypt karein. Agar aap nahi chahte ki woh configuration parameters badlein, toh file mein checksum ke roop mein sabhi parameter values ka ek **secure hash** [1] shaamil karein.
+
+> [1] MD5 aksar is maqsad ke liye istemal hota hai. Cryptography ki duniya ke baare mein jaanne ke liye [Sch95] dekhein.
+
+**Text ki Taqat (The Power of Text)**
+
+Kyunki users aksar "larger" aur "slower" features ki maang nahi karte, toh phir plain text ki zehmat kyun uthayein? Fayde (benefits) kya hain?
+
+- Purana hone se bachaav (Insurance against obsolescence)
+- Leverage (Sahara)
+- Asaan testing (Easier testing)
+
+**Purana hone se bachaav (Insurance Against Obsolescence)**
+Data ke insaan-dwara-padhne-layak (human-readable) roop, aur self-describing data, baaki sabhi tarah ke data aur un applications se zyada lambi zindagi jiyenge jinhone unhe banaya tha. Hamesha ke liye.
+
+Jab tak data bacha rahega, aapke paas ise istemal karne ka mauka rahega—shayad us asli application ke khatam hone ke bahut baad bhi jisne ise likha tha.
+
+Aap aisi file ko uske format ki sirf adhuri jankari (partial knowledge) ke saath bhi parse kar sakte hain; zyada-tar binary files ke saath, safalta-purvak parse karne ke liye aapko poore format ki har bariki jaanni hogi.
+
+Kisi purane system [2] ki ek data file ke baare mein sochiye jo aapko di gayi hai. Aapko asli application ke baare mein bahut kam pata hai; aapke liye sirf yeh mahatvapurn hai ki usne clients ke Social Security numbers ki ek list maintain ki thi, jinhe aapko dhoondhna aur nikalna (extract) hai. Data ke beech, aapko dikhta hai:
+
+> [2] Saara software likhe jaane ke turant baad "legacy" ban jata hai.
+
+```xml
+<FIELD10>123-45-6789</FIELD10>
+...
+<FIELD10>567-89-0123</FIELD10>
+...
+<FIELD10>901-23-4567</FIELD10>
+
+```
+
+Social Security number ke format ko pehchan kar, aap jaldi se us data ko nikaalne ke liye ek chhota program likh sakte hain—bhale hi aapko file mein kisi aur cheez ki jankari na ho.
+
+Lekin kalpana kijiye agar file is tarah se formatted hoti:
+`AC27123456789B11P ... XY43567890123QTYL ... 6T2190123456788AM`
+
+Aap shayad un numbers ka mahatva itni asani se nahi samajh paate. Yeh fark hai **human readable** (insaano dwara padhne-layak) aur **human understandable** (insaano dwara samajhne-layak) ke beech.
+
+Waise, `FIELD10` bhi zyada madad nahi karta. Kuch aisa:
+`<SSNO>123-45-6789</SSNO>`
+is exercise ko bilkul asaan (no-brainer) bana deta hai—aur yeh pakka karta hai ki data us kisi bhi project se zyada samay tak bachega jisne ise banaya tha.
+
+**Leverage (Sahara)**
+Computing universe ka lagbhag har auzaar (tool), source code management systems se lekar compiler environments tak, editors se lekar standalone filters tak, plain text par kaam kar sakta hai.
+
+---
+
+> **The Unix Philosophy (Unix ki Soch)**
+> Unix is baat ke liye mashhoor hai ki ise chhote aur sateek auzaaron (small, sharp tools) ki philosophy ke charon taraf design kiya gaya hai, jisme har tool ek kaam acche se karne ke liye bana hai. Yeh philosophy ek common format ka istemal karke mumkin hoti hai—line-oriented, plain text file. System administration ke liye istemal hone wale databases (users aur passwords, networking configuration, ityadi) sab plain text files ke roop mein rakhe jate hain. (Kuch systems, jaise Solaris, performance optimization ke taur par kuch databases ka binary roop bhi maintain karte hain. Plain text version ko binary version ke interface ke roop mein rakha jata hai.)
+> Jab koi system crash hota hai, toh aapko ise restore karne ke liye shayad bahut hi kam resources (minimal environment) milein (misaal ke taur par, shayad aap graphics drivers access na kar sakein). Aisi sthitiyan aapko plain text ki saralta (simplicity) ki sahi ehmiyat samjha sakti hain.
+
+---
+
+Misaal ke taur par, maan lijiye aapke paas ek badi application ka production deployment hai jisme ek complex site-specific configuration file hai (sendmail dhyan mein aata hai). Agar yeh file plain text mein hai, toh aap ise source code control system (page 86 par _Source Code Control_ dekhein) ke andar rakh sakte hain, taaki aap automatically saare badlavon (changes) ki history maintain kar sakein. `diff` aur `fc` jaise file comparison tools aapko ek nazar mein dikha sakte hain ki kya badlav kiye gaye hain, jabki `sum` aapko ek checksum generate karne deta hai taaki file par achanak (ya shararat-purna) badlavon ki nigrani (monitor) ki ja sake.
+
+**Easier Testing (Asaan Testing)**
+Agar aap system tests chalane ke liye synthetic data banane mein plain text ka istemal karte hain, toh test data ko jodhna, update karna ya badalna ek simple kaam hai, **bina kisi special tool banaye.** Isi tarah, regression tests ke plain text output ko asani se analyze kiya ja sakta hai (`diff` ke saath, misaal ke taur par) ya Perl, Python ya kisi aur scripting tool ke saath gehari jaanch (scrutiny) ki ja sakti hai.
+
+**Lowest Common Denominator**
+Bhale hi XML-par adharit intelligent agents ka bhavishya ho jo akele internet par ghumte hue aapas mein data interchange karte hon, har jagah maujood rehne wali (ubiquitous) text file tab bhi wahi rahegi. Asal mein, heterogeneous environments (alag-alag tarah ke systems) mein plain text ke fayde saari kamiyon par bhari pad sakte hain. Aapko yeh pakka karne ki zaroorat hai ki sabhi paksh (parties) ek common standard ka istemal karke samvaad (communicate) kar sakein. Plain text woh standard hai.
+
+**Related sections include:**
+
+- Source Code Control, page 86
+- Code Generators, page 102
+- Metaprogramming, page 144
+- Ubiquitous Automation, page 230
+
+---
+
+**Challenges (Chunautiyan)**
+
+Apni pasand ki language mein ek buniyaadi binary representation ka istemal karte hue ek chhota address book database (naam, phone number, ityadi) design karein. Yeh kaam is challenge ke baaki hisse ko padhne se pehle karein.
+
+1. Us format ko XML ka istemal karte hue plain text format mein translate karein.
+2. Har version ke liye, `directions` naam ka ek naya, variable-length field jodein jisme aap har vyakti ke ghar tak ka rasta (directions) enter kar sakein.
+
+Versioning aur extensibility (vistaar karne ki kshmata) ko lekar kya mudde (issues) saamne aate hain? Kaunsa roop badalna zyada asaan tha? Maujooda data ko convert karne ke baare mein kya khayal hai?
+
+### 15. Shell Games (Shell ka Khel)
+
+Har badhai (woodworker) ko ek acche, mazboot aur bharose-mand workbench ki zaroorat hoti hai, jahan wo lakdi ke tukdon ko sahi height par rakh kar unpar kaam kar sake. Workbench wood shop ka kendra (center) ban jata hai, jahan karigar bar-bar wapas aata hai jaise-jaise koi cheez roop (shape) leti hai.
+
+Ek programmer ke liye jo text files ko manipulate karta hai, wo workbench **command shell** hai. Shell prompt se aap apne auzaaron (tools) ka poora bhandar (repertoire) istemal kar sakte hain, aur pipes ke zariye unhe aise tareeqon se jod sakte hain jo unke original developers ne soche bhi nahi honge. Shell se aap applications, debuggers, browsers, editors aur utilities launch kar sakte hain. Aap files dhoond sakte hain, system ka status check kar sakte hain, aur output ko filter kar sakte hain. Aur shell ki programming karke, aap un kaamon ke liye complex macro commands bana sakte hain jo aap aksar karte hain.
+
+GUI interfaces aur Integrated Development Environments (IDEs) mein pale-badhe programmers ke liye yeh ek extreme baat lag sakti hai. Aakhirkar, kya aap har cheez point aur click karke utni hi acchi tarah nahi kar sakte?
+
+Iska seedha sa jawab hai "nahi." GUI interfaces shandaar hain, aur wo kuch simple operations ke liye zyada tez aur suvidha-janak (convenient) ho sakte hain. Files ko move karna, MIME-encoded e-mail padhna, aur letters type karna aisi cheezein hain jo aap graphical environment mein karna chahenge. Lekin agar aap apna saara kaam sirf GUI se karte hain, toh aap apne environment ki poori kshamtaon (full capabilities) ko kho rahe hain. Aap aam kaamon (common tasks) ko automate nahi kar payenge, ya maujooda tools ki poori taqat ka istemal nahi kar payenge. Aur aap apne tools ko jod kar customized **macro tools** nahi bana payenge. GUIs ka fayda WYSIWYG hai—_what you see is what you get_ (jo aap dekhte hain, wahi aapko milta hai). Iska nuksan WYSIAYG hai—_what you see is ALL you get_ (jo aap dekhte hain, bas wahi aapko milta hai).
+
+GUI environments aam taur par unhi kshamtaon tak mehdood hote hain jo unke designers ne sochi thi. Agar aapko designer dwara diye gaye model se baahar jane ki zaroorat hai, toh aksar aapki kismat kharab hoti hai—aur aksar aapko us model se baahar jane ki zaroorat **padti** hai. Pragmatic Programmers sirf code nahi kaat-te, ya object models develop nahi karte, ya sirf documentation nahi likhte, ya sirf build process ko automate nahi karte—hum yeh **saari** cheezein karte hain. Kisi bhi ek tool ka dayra (scope) aksar unhi kaamon tak mehdood hota hai jinhe karne ki usse umeed ki jati hai. Misaal ke taur par, maan lijiye aapko apne IDE mein ek code preprocessor integrate karna hai. Jab tak IDE ke designer ne iske liye koi hooks nahi diye honge, aap yeh nahi kar payenge.
+
+Ho sakta hai aap pehle se hi command prompt par kaam karne mein comfortable hon, aisi sthiti mein aap is section ko chhod sakte hain. Warna, aapko yeh samjhane ki zaroorat hai ki shell aapka dost hai.
+
+Ek Pragmatic Programmer ke taur par, aap lagatar ad hoc operations karna chahenge—aisi cheezein jo shayad GUI support na kare. Command line tab zyada behtar hoti hai jab aap jaldi se kuch commands ko jod kar koi query ya kaam karna chahte hain. Yahan kuch udaharan (examples) hain:
+
+- **Aisi saari `.c` files dhoondhein jo aapki `Makefile` se zyada haal hi mein (recently) badli gayi hon.**
+- **Mere source code ka ek `zip/tar` archive banayein.**
+- **Kaunsi Java files pichle ek hafte mein nahi badli gayi hain?**
+- **Un files mein se kaunsi `awt` libraries ka istemal karti hain?**
+
+Zahir hai yeh list lambi ho sakti hai. Shell commands shayad dhundhle (obscure) ya chhote lag sakte hain, lekin wo bahut hi shaktishali (powerful) aur sateek (concise) hote hain. Aur kyunki shell commands ko script files mein joda ja sakta hai, aap commands ki aisi kadi (sequence) bana sakte hain jo aapke rozana ke kaamon ko automate kar de.
+
+---
+
+> **Tip 21**
+> **Use the Power of Command Shells**
+> (Command Shells ki Taqat ka Istemal karein)
+
+---
+
+Shell se jaan-pehchan badhayein, aur aap payenge ki aapki productivity aasmaan chhu rahi hai. Kya aapko un sabhi unique package names ki list chahiye jo aapke Java code dwara explicitly import kiye gaye hain? Neeche di gayi command use "list" naam ki file mein store kar degi:
+
+`grep import *.java | perl -pe 's/.*import\s+(.*);.*/$1/' | sort | uniq > list`
+
+Agar aapne kabhi apne system ke command shell ki kshamtaon ko nahi tatola hai, toh yeh darawna lag sakta hai. Halanki, thodi energy lagaiye shell ke saath familiar hone mein aur cheezein jaldi hi sahi jagah baithne lagengi. Apne command shell ke saath thoda khelein (play around), aur aap hairan honge ki yeh aapko kitna zyada productive bana deta hai.
+
+#### Shell Utilities aur Windows Systems
+
+Halanki Windows systems ke saath milne wale command shells dhire-dhire behtar ho rahe hain, phir bhi Windows command-line utilities apne Unix prati-dvandiyon (counterparts) ke muqable kamzor hain. Lekin sab kuch khatam nahi hua hai.
+
+Cygnus Solutions ke paas **Cygwin** naam ka ek package hai. Windows ke liye Unix compatibility layer dene ke saath-saath, Cygwin 120 se zyada Unix utilities ke saath aata hai, jisme `ls`, `grep`, aur `find` jaise pasandida tools shaamil hain. Cygwin distribution **Bash shell** ke saath aata hai.
+
+Ek aur vikalp David Korn ka **UWIN** package hai, jo Windows ke andar ek Unix development environment hai. UWIN **Korn shell** ke version ke saath aata hai. Iske alawa, Tom Christiansen **Perl Power Tools** par kaam kar rahe hain, jo sabhi mashhoor Unix utilities ko Perl mein implement karne ki ek koshish hai taaki wo har jagah chal sakein.
+
+---
+
+**Related sections include:**
+
+- Ubiquitous Automation, page 230
+
+**Challenges (Chunautiyan)**
+
+- Kya aisi cheezein hain jo aap abhi GUI mein manually kar rahe hain? Kya aap kabhi apne saathi (colleagues) ko aise instructions dete hain jinme kai saare "is button ko click karein," "is item ko select karein" jaise steps hon? Kya inhein automate kiya ja sakta hai?
+- Jab bhi aap kisi naye environment mein jayein, toh yeh pata lagane ki aadat daalein ki wahan kaunse shells available hain. Dekhiye ki kya aap apna maujooda shell apne saath wahan le ja sakte hain.
+- Apne maujooda shell ke vikalpon (alternatives) ki jaanch karein. Agar aapko koi aisi problem milti hai jo aapka shell solve nahi kar paa raha, toh dekhiye ki kya koi dusra shell use behtar tareeqe se sambhal sakta hai.
+
+### 16. Power Editing
+
+Humne pehle bhi baat ki hai ki auzaar (tools) aapke haathon ka ek vistar (extension) hote hain. Yeh baat kisi bhi doosre software tool ke muqable editors par sabse zyada lagu hoti hai. Aapko text ko itni hi aasani se manipulate karte aana chahiye jitna sahaj ek karigar ke liye uska auzaar hota hai, kyunki text programming ka buniyaadi kacha maal (raw material) hai. Aaiye kuch aam features aur functions par nazar dalte hain jo aapke editing environment ka pura fayda uthane mein madad karte hain.
+
+#### One Editor (Ek Hi Editor)
+
+Hamara manna hai ki ek hi editor ko bahut acchi tarah se jaanna aur use sabhi editing tasks ke liye istemal karna behtar hai: chahe wo code ho, documentation, memos, system administration, ya kuch aur. Bina ek single editor ke, aapko bhram (confusion) ka samna karna pad sakta hai. Ho sakta hai aap coding ke liye har language ke IDE ka built-in editor use karein, documentation ke liye koi office product, aur e-mail ke liye koi aur. Yahan tak ki shell mein command lines edit karne ke keystrokes bhi alag ho sakte hain. [4] In sabhi environments mein maahir hona mushkil hai agar har jagah editing conventions aur commands alag hon.
+
+> [4] Adarsh roop se, aap jo shell istemal karte hain uske keybindings aapke editor se mel khane chahiye. Bash, misaal ke taur par, vi aur emacs dono keybindings ko support karta hai.
+
+Aapko kushal (proficient) hone ki zaroorat hai. Sirf linearly type karna aur mouse se cut-paste karna kafi nahi hai. Aap us tareeqe se utne prabhavshali (effective) nahi ho sakte jitna ek powerful editor ke saath ho sakte hain. Cursor ko line ke shuruat mein le jaane ke liye baaro-baar arrow key dabana utna efficient nahi hai jitna ki ek single key (jaise `0`, `^`, ya `Ctrl-A`) dabana.
+
+---
+
+> **Tip 22**
+> **Use a Single Editor Well**
+> (Ek hi Editor ka Acchi Tarah Istemal Karein)
+
+---
+
+Ek editor chunein, use poori tarah se jaanein, aur use sabhi editing tasks ke liye istemal karein. Agar aap sabhi text editing activities ke liye ek hi editor (ya keybindings ka set) istemal karte hain, toh aapko text manipulation ke liye ruk kar sochna nahi padega: zaroori keystrokes ek reflex (sahaj kriya) ban jayenge. Editor aapke haath ka vistar ban jayega; keys aise chalengi jaise wo text aur vichaaron (thought) ke beech rasta bana rahi hon. Yahi hamara lakshya (goal) hai.
+
+Yeh pakka karein ki aap jo editor chunte hain wo un sabhi platforms par available ho jinhe aap use karte hain. **Emacs, vi, CRiSP, Brief**, aur anya kai platforms par available hain, aksar GUI aur non-GUI (text screen) dono versions mein.
+
+#### Editor Features (Editor ki Khoobiyan)
+
+Un features ke alawa jo aapko upyogi lagte hain, yahan kuch buniyaadi kabiliyat (basic abilities) hain jo hamare hisab se har acche editor mein honi chahiye. Agar aapka editor inmein se kisi bhi area mein peeche hai, toh yeh waqt hai ek zyada advanced editor par switch karne ka sochne ka.
+
+- **Configurable (Vinyas-yogya):** Editor ke har pehlu ko aapki pasand ke mutabik set kiya ja sakta ho, jisme fonts, colors, window sizes, aur keystroke bindings shaamil hon. Mouse ya menu ke bajaye keystrokes ka istemal zyada efficient hota hai kyunki aapke haath keyboard se nahi hat-te.
+- **Extensible (Vistar-yogya):** Sirf isliye ki koi nayi programming language aayi hai, aapka editor purana (obsolete) nahi hona chahiye. Ise aapke compiler environment ke saath integrate hona chahiye. Aapko ise kisi bhi naye language ya text format (XML, HTML, ityadi) ki baarikiyan "sikhane" ki kshamta honi chahiye.
+- **Programmable (Program-yogya):** Aapko editor ko complex aur multistep tasks karne ke liye program karte aana chahiye. Yeh macros ya built-in scripting language (jaise Emacs mein Lisp) ke zariye kiya ja sakta hai.
+
+Iske alawa, kai editors aisi features support karte hain jo kisi khaas programming language ke liye hoti hain, jaise:
+
+- Syntax highlighting (syntax ko alag rangon mein dikhana)
+- Auto-completion (apne aap shabd poora karna)
+- Auto-indentation (code ko sahi dhanchay mein rakhna)
+- Initial code ya document boilerplate (shuruati dhancha)
+- Help systems ke saath judaav
+- IDE-like features (compile, debug, ityadi)
+
+Syntax highlighting jaisa feature shayad dikhava lage, lekin haqeeqat mein yeh aapki productivity badha sakta hai. Ek baar jab aap keywords ko alag rang mein dekhne ke aadi ho jate hain, toh galat type kiya gaya keyword turant chamakne lagta hai.
+
+#### Productivity (Utpadakta)
+
+Humne aise hairat-angez log dekhe hain jo apna source code edit karne ke liye Windows Notepad ka istemal karte hain. Yeh aisa hai jaise kudal (shovel) ki jagah chammach (teaspoon) ka istemal karna. Sirf typing aur basic mouse-based cut-paste kafi nahi hai.
+
+Aapko aisi kaunsi cheezein karni padengi jo is tareeqe se _nahi_ ho sakti?
+
+Sabse pehle cursor movement hai. Single keystrokes jo aapko words, lines, blocks, ya functions ke hisab se aage-peeche le jayein, wo character-by-character move karne se kahin zyada efficient hain.
+
+Maan lijiye aap Java code likh rahe hain aur aap apne import statements ko alphabetical order mein rakhna chahte hain. Kisi aur ne kuch files check-in kar di hain jo is standard ko follow nahi karti. Vi aur Emacs jaise editors mein aap ek chhote section ko asani se sort kar sakte hain (Figure 3.1 dekhein). Notepad mein yeh try karke dekhiye!
+
+**Agla Kadam (Where to Go from Here)**
+
+Yeh salaah likhna thoda mushkil hai kyunki har reader apne editor ke saath alag level par hai. Summary ke taur par, niche di gayi table mein apni sthiti (left column) dekhein aur hamara sujhaav (right column) padhein:
+
+| Agar aap...                                                 | Toh aapko...                                                        |
+| ----------------------------------------------------------- | ------------------------------------------------------------------- |
+| Notepad ya simple editor use karte hain                     | Maahir (power) editor par switch karna chahiye (jaise vi ya Emacs). |
+| Ek hi editor use karte hain lekin mouse zyada chalaate hain | Keystrokes seekhne chahiye. Keyboard se haath na hatayein.          |
+| Apne editor ko acche se jaante hain                         | Ise program aur extend karna seekhna chahiye.                       |
+
+**Kaunse Editors Available Hain?**
+
+Acche editor mein maahir hone ki salaah dene ke baad, hum kaunsa recommend karte hain? Hum is sawal se bachenge; editor ka chunav vyaktigat (personal) hota hai. Halanki, Appendix A (page 266) mein humne kuch popular editors aur unke sources ki list di hai.
+
+**Challenges (Chunautiyan)**
+
+- Kuch editors customization ke liye poori languages ka istemal karte hain (jaise Emacs mein Lisp). Jo nayi languages aap is saal seekhne wale hain, unmein apne editor ki bhasha bhi shaamil karein. Har us kaam ke liye jo aap baar-baar karte hain, macros banayein.
+- Kya aap jaante hain ki aapka editor kya-kya kar sakta hai? Apne un saathiyon ko hairan karne ki koshish karein jo wahi editor use karte hain. Kisi bhi editing task ko kam se kam keystrokes mein poora karne ki koshish karein.
+
+### 17. Source Code Control (Source Code Niyantran)
+
+> "Pragati (progress), badlav mein nahi balki yaad rakhne (retentiveness) par nirbhar karti hai. Jo log ateet (past) ko yaad nahi rakh sakte, unhe use dohrane ki saza milti hai."
+> — **George Santayana, Life of Reason**
+
+Kisi bhi User Interface (UI) mein hum sabse mahatvapurn cheez jo dhoondte hain, wo hai `Undo` key—ek akela button jo hamari galtiyon ko maaf kar deta hai. Agar hamara environment multiple levels ke undo aur redo ko support kare, toh aur bhi behtar hai, taaki aap kuch minute pehle hui galti se recover kar sakein. Lekin kya ho agar wo galti pichle hafte hui ho, aur aapne tab se apna computer das baar band aur chalu kar diya ho?
+
+Well, yeh **Source Code Control System** istemal karne ke kai faydon mein se ek hai: yeh ek giant (bada) `Undo` key hai—ek project-wide time machine jo aapko pichle hafte ke un sunehre dino (halcyon days) mein wapas le ja sakti hai jab aapka code asal mein compile aur run ho raha tha.
+
+Source Code Control Systems, ya isse bhi bade dayre wale **Configuration Management Systems**, aapke source code aur documentation mein kiye gaye har ek badlav (change) ka track rakhte hain. Acche systems toh compiler aur Operating System (OS) ke versions ka bhi track rakh sakte hain. Ek sahi tareeqe se configured source code control system ke saath, **aap hamesha apne software ke pichle version par wapas ja sakte hain.**
+
+Lekin ek source code control system ($SCCS$ [6]) sirf galtiyon ko sudhaarne (undo) se kahin zyada kaam karta hai. Ek accha $SCCS$ aapko badlavon ko track karne deta hai, aur aise sawalon ke jawab deta hai jaise: Code ki is line ko kisne badla? Current version aur pichle hafte ke version mein kya fark hai? Humne is release mein code ki kitni lines badli hain? Kaunsi files sabse zyada badli jati hain? Yeh jankari bug-tracking, audit, performance, aur quality ke maqsad se bahut keemti (invaluable) hoti hai.
+
+> [6] Hum generic source code control systems ke liye bade aksharon mein $SCCS$ likhte hain. Ek khaas system bhi hai jise "sccs" kehte hain, jo buniyaadi taur par AT&T System V Unix ke saath release hua tha.
+
+Ek $SCCS$ aapko apne software ke **releases ko identify** karne (tag karne) deta hai. Ek baar identify hone ke baad, aap baad mein hone wale badlavon ki parwah kiye bina, hamesha pichle kisi bhi release par wapas ja kar use dobara generate kar sakte hain.
+
+Hum aksar development tree mein **branches** ko manage karne ke liye bhi $SCCS$ ka istemal karte hain. Misaal ke taur par, ek baar jab aap koi software release kar dete hain, toh aap aam taur par agle release ke liye development jari rakhna chahenge. Saath hi, aapko maujooda release ke bugs se bhi nipatna hoga aur clients ko fixed versions bhejne honge. Aap chahenge ki yeh bug fixes agle release mein bhi shaamil (merge) ho jayein, lekin aap under-development code clients ko nahi bhej sakte. Ek $SCCS$ ke saath aap har release ke waqt development tree mein branches generate kar sakte hain. Aap bug fixes ko branch wale code par apply karte hain, aur main trunk (mukhya dhara) par naya development jari rakhte hain. Kyunki bug fixes main trunk ke liye bhi zaroori ho sakte hain, kuch systems aapko branch ke चुनिंदा (selected) badlavon ko automatically main trunk mein merge karne ki suvidha dete hain.
+
+Source code control systems jin files ko maintain karte hain, unhe ek central repository (bhandar) mein rakhte hain—jo backup (archiving) lene ke liye ek behtareen jagah hai.
+
+Aakhir mein, kuch products do ya do se zyada users ko ek hi samay par (concurrently) ek hi files par kaam karne aur badlav karne ki azadi dete hain. Jab files ko repository mein wapas bheja jata hai, toh system in badlavon ke **merge** ko manage karta hai. Halanki yeh dekhne mein risky lag sakta hai, lekin aise systems har size ke projects par practical roop se bahut accha kaam karte hain.
+
+---
+
+> **Tip 23**
+> **Always Use Source Code Control**
+> (Hamesha Source Code Control ka Istemal Karein)
+
+---
+
+Hameesha. Bhale hi aap ek hafte ke project par akele kaam karne wale member hon. Bhale hi wo ek phekne-layak (throw-away) prototype hi kyun na ho. Bhale hi aap jis cheez par kaam kar rahe hain wo source code na ho. Yeh pakka karein ki **har ek cheez** source code control ke andar ho—documentation, phone numbers ki list, vendors ke memos, makefiles, build aur release ke procedures, aur woh chhota sa shell script jo CD master burn karta hai—sab kuch. Hum aam taur par apni har type ki jaane wali cheez par source control use karte hain (is kitaab ke text par bhi). Bhale hi hum kisi project par kaam na kar rahe hon, hamara rozana ka kaam ek repository mein surakshita rehta hai.
+
+#### Source Code Control aur Builds
+
+Poore project ko ek source code control system ke chhatre (umbrella) ke neeche rakhne ka ek zabardast chhupa hua fayda hai: aapke product ke builds **automatic** aur **repeatable** (dohraye jaane layak) ho sakte hain.
+
+Project ka build mechanism repository se automatically sabse naya source nikaal sakta hai. Yeh raat ke beech mein chal sakta hai jab sabhi log (umeed hai) ghar ja chuke hon. Aap automatic regression tests chala sakte hain taaki yeh pakka ho sake ki dinbhar ki coding ne kuch tod-phod (break) toh nahi ki hai. Build ka automation consistency (ekroopta) pakka karta hai—koi manual tareeqe nahi hote, aur developers ko code ko kisi special build area mein copy karna yaad nahi rakhna padta.
+
+Build repeatable hota hai kyunki aap kisi bhi purani tareek (given date) ke hisab se source code ko dobara rebuild kar sakte hain.
+
+#### Lekin Meri Team Source Code Control Istemal Nahi Kar Raahi
+
+Yeh toh unki sharm ki baat hai! Yeh aapke liye ek accha mauka hai unhe samjhane (evangelizing) ka. Halanki, jab tak wo sahi raaste par nahi aate, tab tak aapko apna **private source control** implement kar lena chahiye. Appendix A mein diye gaye free tools mein se kisi ek ka istemal karein, aur apne personal kaam ko repository mein surakshita rakhne ki aadat daalein (saath hi wo bhi karte rahein jo aapka project maangta hai). Halanki yeh doosri mehnat (duplication of effort) lag sakti hai, lekin hum guarantee de sakte hain ki jab pehli baar aapse yeh sawal pucha jayega ki _"Aapne xyz module mein kya kiya tha?"_ aur _"Build kis wajah se toota?"_, toh yeh system aapko bade dukh se bacha lega (aur project ka paisa bhi bachayega). Yeh approach aapke management ko yeh samjhane mein bhi madad karegi ki source code control waqayi kaam karta hai.
+
+Yeh mat bhooliye ki ek $SCCS$ aapke naukri se baahar ke kaamon par bhi barabar roop se lagu hota hai.
+
+#### Source Code Control Products
+
+Appendix A (page 271) un pratinidhi (representative) source code control systems ke URLs deta hai, jinmein se kuch commercial hain aur kuch freely available hain. Aur bhi bahut se products available hain—configuration management FAQ ke pointers dekhein. Muft available CVS version control system ke parichay (introduction) ke liye, aap hamari kitaab _Pragmatic Version Control_ [TH03] dekh sakte hain.
+
+---
+
+**Related sections include:**
+
+- Orthogonality, page 34
+- The Power of Plain Text, page 73
+- It's All Writing, page 248
+
+**Challenges (Chunautiyan)**
+
+- Bhale hi aap kaam par $SCCS$ ka istemal nahi kar paa rahe hain, apne personal system par RCS ya CVS (ya Git) install karein. Ise apne pet projects, apne likhe gaye documents, aur computer system ke configuration changes ko manage karne ke liye use karein.
+- Open Source projects ko dekhein jinki archives Web par publicly accessible hain (jaise Mozilla, KDE, ya Gimp). Aapko source ke updates kaise milte hain? Aap badlav kaise karte hain—kya project access ko niyantrit (regulate) karta hai ya badlavon ko shaamil karne ka faisla (arbitrate) karta hai?
+
+### 18. Debugging
+
+> "Yeh ek takleef-deh (painful) cheez hai
+> Apni khud ki musibat ko dekhna aur yeh jaanna
+> Ki aapne khud aur kisi aur ne nahi ise banaya hai"
+> — **Sophocles, Ajax**
+
+Chaudhvi sadi (fourteenth century) se "bug" shabd ka istemal kisi "darawni cheez" (object of terror) ko darshane ke liye kiya jata raha hai. COBOL ki aavishkarak (inventor), Rear Admiral Dr. Grace Hopper ko pehle **computer bug**—yaani sachmuch ek early computer system ke relay mein phasa hua ek moth (kida)—ko dekhne ka shrey (credit) diya jata hai. Jab pucha gaya ki machine ummeed ke mutabik kaam kyun nahi kar rahi hai, toh ek technician ne report kiya ki "system mein ek bug hai," aur imandari (dutifully) se use—pankhon samet—log book mein tape kar diya.
+
+Afsos (regrettably) ki baat hai ki hamare systems mein ab bhi "bugs" hain, halanki wo udne wale nahi hain. Lekin chaudhvi sadi ka matlab—ek hawa (bogeyman)—shayad tab se zyada ab laagu (applicable) hota hai. Software ki kamiyan (defects) kai tareeqon se saamne aati hain, galat samjhi gayi requirements se lekar coding ki galtiyon tak. Badkismati se, aadhunik computer systems abhi bhi sirf wahi karne tak mehdood hain jo aap unhe **bataate (tell)** hain, zaroori nahi ki wahi jo aap unse karwana **chahte (want)** hain.
+
+Koi bhi perfect software nahi likhta, isliye yeh tay hai ki debugging aapke din ka ek bada hissa legi. Aaiye debugging mein shaamil kuch muddon aur chhupi hui (elusive) bugs ko dhoondhne ki kuch general strategies par nazar dalte hain.
+
+**Psychology of Debugging (Debugging ki Manovigyan)**
+
+Debugging khud kai developers ke liye ek samvedansheel (sensitive) aur bhavnatmak (emotional) vishay hai. Ise solve karne wali ek paheli (puzzle) ke roop mein dekhne ke bajaye, aapko inkaar (denial), ungli uthane (finger pointing), lachar bahano (lame excuses), ya bilkul be-rukhi (apathy) ka samna karna pad sakta hai.
+
+Is haqeeqat ko qubool karein (embrace) ki debugging sirf **problem solving** hai, aur is par usi tarah hamla karein.
+
+Kisi aur ka bug dhoondhne ke baad, aap apna waqt aur energy us "gunahgaar" (filthy culprit) par ilzaam (blame) lagane mein bita sakte hain jisne ise banaya. Kuch workplaces mein yeh culture ka hissa hota hai, aur shayad man ki bhadas nikalne wala (cathartic) bhi ho. Halanki, technical maidan mein, aap apna dhyan **problem** ko theek karne par kendrit (concentrate) karna chahte hain, ilzaam par nahi.
+
+---
+
+> **Tip 24** > **Fix the Problem, Not the Blame** > (Problem ko theek karein, ilzaam ko nahi)
+
+---
+
+Isse waqayi koi farq nahi padta ki bug aapki galti hai ya kisi aur ki. Yeh abhi bhi aapki problem hai.
+
+**A Debugging Mindset (Debugging ka Nazariya)**
+
+> "Khud ko dhoka dena sabse aasaan hai"
+> — **Edward Bulwer-Lytton, The Disowned**
+
+Debugging shuru karne se pehle, sahi nazariya (mindset) apnana zaroori hai. Aapko apne ego ko bachane ke liye rozana istemal kiye jane wale defense mechanisms ko band karna hoga, kisi bhi project pressure ko dimag se nikalna hoga, aur khud ko comfortable karna hoga. Sabse badhkar, debugging ka pehla niyam yaad rakhein:
+
+---
+
+> **Tip 25** > **Don't Panic** > (Ghabrayein Nahi)
+
+---
+
+Ghabra jana (panic) aasaan hai, khaas kar tab jab samne deadline ho, ya ek nervous boss ya client aapki saans ke upar saans le raha ho jab aap bug ki wajah dhoondhne ki koshish kar rahe hon. Lekin ek kadam piche hatna, aur sach mein **sochna (think)** bahut zaroori hai ki un lakshano (symptoms) ki wajah kya ho sakti hai jo aapko lagta hai ki ek bug ki taraf ishara karte hain.
+
+Agar kisi bug ko dekhne ya bug report dekhne par aapka pehla reaction yeh hai ki "yeh asambhav (impossible) hai," toh aap bilkul galat hain. "Lekin aisa nahi ho sakta" se shuru hone wali soch par ek bhi neuron barbad na karein kyunki yeh bilkul saaf hai ki aisa **ho sakta hai**, aur hua hai.
+
+Debugging karte waqt shortsightedness (myopia) se bachein. Sirf un lakshano (symptoms) ko theek karne ki chah (urge) ko rokein jo aap dekhte hain: iski zyada sambhavna hai ki asli galti (fault) jo aap dekh rahe hain usse kai kadam door ho, aur usme kai dusri judi hui (related) cheezein shaamil ho sakti hain. Hamesha problem ki jad (root cause) dhoondhne ki koshish karein, na ki sirf uski is khaas jhalak ki.
+
+**Kahan Se Shuru Karein (Where to Start)**
+
+Isse pehle ki aap bug ko dekhna **shuru** karein, yeh pakka kar lein ki aap aise code par kaam kar rahe hain jo cleanly compile hua ho—bina warnings ke. Hum aam taur par compiler warning levels ko jitna ho sake utna high set karte hain. Ek aisi problem ko dhoondhne ki koshish mein waqt barbad karne ka koi matlab nahi hai jise compiler aapke liye dhoond sakta hai! Hamein apne saamne aayi mushkil problems par dhyan kendrit karna chahiye.
+
+Jab aap kisi bhi problem ko solve karne ki koshish kar rahe hon, toh aapko saari relevant (sambandhit) data ikatha (gather) karni hogi. Badkismati se, bug reporting koi exact science nahi hai. Ittefaqon (coincidences) se bhatak jana aasaan hai, aur aap coincidences ko debug karne mein waqt barbad nahi kar sakte. Aapko sabse pehle apni observations mein sateek (accurate) hona chahiye.
+
+Bug reports ki accuracy tab aur kam ho jati hai jab wo kisi third party ke zariye aati hain—aapko shayad us user ko haqeeqat mein kaam karte hue **dekhna (watch)** pade jisne bug report kiya tha taaki aapko zaroori details mil sakein.
+
+Andy ne ek baar ek large graphics application par kaam kiya tha. Release ke kareeb, testers ne report kiya ki har baar jab wo ek khaas brush se stroke paint karte the toh application crash ho jati thi. Zimmedar programmer ne bahas ki (argued) ki isme kuch bhi galat nahi hai; usne isse paint karke dekha tha, aur yeh bilkul theek kaam kar raha tha. Yeh baatchit (dialog) kai dino tak chalata raha, aur logon ka gussa tezi se badh raha tha.
+
+Aakhir mein, humne unhe ek hi kamre mein saath bithaya. Tester ne brush tool select kiya aur upper right corner se lower left corner tak ek stroke paint kiya. Application crash ho gayi (exploded). "Oh," programmer ne dheemi awaz mein kaha, aur phir sharmindagi (sheepishly) se mana ki usne test strokes sirf lower left se upper right tak kiye the, jisne bug ko saamne nahi laya tha.
+
+Is kahani ke do points hain:
+
+- Aapko shayad us user ka interview lena pade jisne bug report kiya tha taaki aap shuruat mein di gayi data se zyada data ikatha kar sakein.
+- Banawati (artificial) tests (jaise programmer ka bottom se top tak single brush stroke) ek application ki paryapt jaanch (exercise) nahi karte. Aapko boundary conditions aur real-world end-user usage patterns dono ko berahemi se test (brutally test) karna chahiye. Aapko ise vyavasthit (systematically) dhang se karna chahiye (page 237 par _Ruthless Testing_ dekhein).
+
+**Debugging Strategies**
+
+Ek baar jab **aapko** lagta hai ki aap jante hain ki kya ho raha hai, toh yeh pata lagane ka waqt hai ki **program** kya sochta hai ki kya ho raha hai.
+
+---
+
+> **Bug Reproduction (Bug ka Dobara Paida Hona)**
+> Nahi, hamare bugs asal mein multiply (ginti mein badh) nahi rahe hain (halanki unmein se kuch shayad itne purane hain ki kanooni taur par aisa kar sakein). Hum ek alag tarah ki reproduction ki baat kar rahe hain.
+> Kisi bug ko theek karna shuru karne ka sabse behtar tareeqa ise **reproducible** (jise dobara paida kiya ja sake) banana hai. Aakhirkar, agar aap ise reproduce nahi kar sakte, toh aapko kaise pata chalega ki yeh theek ho gaya hai?
+> Lekin hum ek aise bug se zyada chahte hain jise kuch lambe steps follow karke reproduce kiya ja sake; hum ek aisa bug chahte hain jise **ek single command** se reproduce kiya ja sake. Ek bug ko theek karna bahut mushkil hota hai agar aapko us point tak pahunchne ke liye 15 steps se guzarna pade jahan bug dikhayi deta hai. Kabhi-kabhi, khud ko un halaat (circumstances) ko alag (isolate) karne par majboor karne se jo bug dikhate hain, aapko ise theek karne ka ek naya rasta (insight) bhi mil jayega.
+> In lines par dusre ideas ke liye, page 230 par _Ubiquitous Automation_ dekhein.
+
+---
+
+**Visualize Your Data (Apne Data ko Visualize Karein)**
+
+Aksar, yeh samajhne ka sabse aasaan tareeqa ki ek program kya kar raha hai—ya kya karne wala hai—us data ko acche se dekhna hai jis par wo kaam kar raha hai. Iska sabse simple example "variable name = data value" approach hai, jise printed text ke roop mein, ya GUI dialog box ya list mein fields ke roop mein implement kiya ja sakta hai.
+
+Lekin aap ek debugger ka istemal karke apne data mein bahut gehari samajh (deeper insight) hasil kar sakte hain jo aapko apne data aur uske aapas ke sabhi rishton (interrelationships) ko **visualize** (tasveer ke roop mein dekhne) karne deta hai. Aise debuggers hain jo aapke data ko virtual reality landscape ke upar 3D fly-over, ya 3D waveform plot, ya bas simple structural diagrams ke roop mein dikha sakte hain, jaisa ki agle page par Figure 3.2 mein dikhaya gaya hai. Jaise hi aap apne program ke zariye single-step aage badhte hain, aisi tasveerein hazar shabdon se zyada keemti ho sakti hain, kyunki jis bug ko aap dhoondh rahe the wo achanak aapke saamne kood padta hai.
+
+> **Figure 3.2. Ek circular linked list ka sample debugger diagram. Teer (arrows) nodes ke pointers ko darshate hain.**
+
+Bhale hi aapke debugger mein data ko visualize karne ka support mehdood (limited) ho, aap phir bhi khud ise kar sakte hain—ya toh haath se, paper aur pencil ke saath, ya external plotting programs ke saath.
+
+DDD debugger mein kuch visualization capabilities hain, aur yeh freely available hai ([https://en.wikipedia.org/wiki/19\_%28number%29](https://www.google.com/search?q=https://en.wikipedia.org/wiki/19_%2528number%2529) dekhein). Yeh dhyan dena dilchasp hai ki DDD kai languages ke saath kaam karta hai, jinme Ada, C, C++, Fortran, Java, Modula, Pascal, Perl, aur Python shaamil hain (saaf taur par ek orthogonal design).
+
+**Tracing**
+
+Debuggers aam taur par program ki **abhi (now)** ki sthiti (state) par dhyan kendrit karte hain. Kabhi-kabhi aapko isse zyada zaroorat hoti hai—aapko samay ke saath ek program ya data structure ki state dekhne ki zaroorat hoti hai. Stack trace dekhna aapko sirf yeh bata sakta hai ki aap yahan seedhe (directly) kaise pahuche. Yeh aapko yeh nahi bata sakta ki aap is call chain se pehle kya kar rahe the, khaas kar event-based systems mein.
+
+_Tracing statements_ wo choti diagnostic messages hoti hain jinhe aap screen par ya file mein print karte hain, jo kehti hain jaise "yahan pahuche (got here)" aur "x ki value = 2." IDE-style debuggers ke muqable mein yeh ek purani (primitive) technique hai, lekin errors ki kai aisi classes ko diagnose karne mein yeh khaas taur par asardaar (effective) hai jinhe debuggers nahi kar sakte. Tracing kisi bhi aise system mein keemti (invaluable) hoti hai jahan waqt khud ek factor ho: concurrent processes, real-time systems, aur event-based applications.
+
+Aap code mein gehrai tak jane (drill down) ke liye tracing statements ka istemal kar sakte hain. Yaani, jaise-jaise aap call tree mein neeche jaate hain, aap tracing statements add kar sakte hain.
+
+Trace messages ko ek regular, consistent format mein hona chahiye; aap shayad unhe automatically parse karna chahein. Misaal ke taur par, agar aapko ek resource leak (jaise asantulit file opens/closes) dhoondhna tha, toh aap har open aur har close ko log file mein trace kar sakte hain. Log file ko Perl se process karke, aap asani se pehchan sakte hain ki galat open kahan ho raha tha.
+
+---
+
+> **Corrupt Variables? Check Their Neighborhood (Kharab Variables? Unke Pados ko Check Karein)**
+> Kabhi-kabhi aap ek variable ki jaanch karenge, umeed karenge ki ek chota integer value dikhega, aur uski jagah kuch `0x6e69614d` jaisa milega. Serious debugging ke liye apni sleeves roll up karne se pehle, is corrupted variable ke aaspas ki memory par ek jaldi se nazar dalein. Aksar yeh aapko ek clue (surag) dega. Hamare case mein, characters ke roop mein surrounding memory ki jaanch karna hamein dikhata hai:
+>
+> ```
+> 20333231 6e69614d 2c745320 746f4e0a
+> 1 2 3 M  a i n S  t , \n N o t
+> 2c6e776f 2058580a 31323433 00000a33
+> o w n ,  \n X X   3 4 2 1  3\n\0\0
+>
+> ```
+>
+> Aisa lagta hai ki kisi ne hamare counter ke upar ek street address spray kar diya hai. Ab hamein pata hai ki kahan dhoondhna hai.
+
+---
+
+**Rubber Ducking**
+
+Kisi problem ki wajah dhoondhne ke liye ek bahut simple lekin khaas taur par upyogi (useful) technique bas isey kisi aur ko samjhana (explain) hai. Dusre insaan ko aapke kandhe ke piche se screen par dekhna chahiye, aur lagatar apna sir hilana chahiye (jaise bathtub mein ek rubber duck upar-neeche hoti hai). Unhe ek shabd bhi kehne ki zaroorat nahi hai; code ko kya karna chahiye, yeh step by step samjhane ka asaan kaam aksar problem ko screen se uchal kar khud ko announce karne par majboor kar deta hai. [7]
+
+> [7] "Rubber ducking" kyun? Jab London ke Imperial College mein undergraduate the, Dave ne Greg Pugh naam ke ek research assistant ke saath bahut kaam kiya, jo Dave ki jaan-pehchaan wale sabse behtareen developers mein se ek the. Kai mahino tak Greg apne saath ek choti yellow rubber duck rakhte the, jise wo coding ke waqt apne terminal par rakh dete the. Dave ko puchne ki himmat jutane mein thoda waqt laga....
+
+Yeh sunne mein asaan lagta hai, lekin kisi aur ko problem samjhane mein aapko explicitly un baaton ko batana padta hai jinhe aap khud code padhte waqt shayad sach (taken for granted) maan lete hain. Inme se kuch assumptions (manyaton) ko shabdon mein bolne par (verbalize), aapko achanak problem mein ek naya insight (samajh) mil sakta hai.
+
+**Process of Elimination (Hatane ki Prakriya)**
+
+Zyada-tar projects mein, jo code aap debug kar rahe hain wo shayad aapke aur aapki project team ke dusre members dwara likhe gaye application code, third-party products (database, connectivity, graphical libraries, specialized communications ya algorithms, ityadi) aur platform environment (operating system, system libraries, aur compilers) ka ek mixture ho sakta hai.
+
+Yeh mumkin hai ki bug OS, compiler, ya kisi third-party product mein maujood ho—lekin yeh aapka pehla khayal (thought) nahi hona chahiye. Is baat ki zyada sambhavna hai ki bug development ke tahat (under development) application code mein maujood ho. Aam taur par yeh maanna zyada faydemand hota hai ki application code kisi library ko galat tareeqe se call kar raha hai, bajaye yeh maanne ke ki library khud tooti (broken) hui hai. Bhale hi problem waqayi third-party ke saath ho, aapko bug report submit karne se pehle apne code ko eliminate (kharij) karna hi hoga.
+
+Humne ek project par kaam kiya jahan ek senior engineer ko yakeen tha ki Solaris par `select` system call broken (tooti hui) thi. Koi bhi samjhana-bujhana (persuasion) ya logic uski soch ko badal nahi saka (yeh baat be-matlab thi ki us box par har dusri networking application theek kaam kar rahi thi). Usne hafton work-arounds likhne mein bitaye, jo kisi ajeeb kaaran se problem theek nahi kar paye. Jab aakhir mein use baithne aur `select` ka documentation padhne par majboor kiya gaya, toh usne problem dhoondh li aur use kuch hi minto mein theek kar diya. Ab hum "select is broken" phrase ka istemal ek gentle reminder (pyare ishare) ke roop mein karte hain jab bhi hum mein se koi kisi fault (galti) ke liye system ko dosh dene lagta hai jo shayad hamari apni hoti hai.
+
+---
+
+> **Tip 26** > **"select" Isn't Broken** > ("select" tooti hui nahi hai)
+
+---
+
+Yaad rakhein, agar aap khuron ke nishan (hoof prints) dekhte hain, toh ghodon (horses) ke baare mein sochein—zebras ke nahi. OS shayad toota (broken) hua nahi hai. Aur database shayad bilkul theek hai.
+
+Agar aapne "sirf ek cheez badli" aur system ne kaam karna band kar diya, toh us ek cheez ka zimmedar hone ki sambhavna zyada hai, directly ya indirectly, bhale hi yeh kitna bhi ajeeb (farfetched) kyu na lage. Kabhi-kabhi jo cheez badli hai wo aapke control se bahar hoti hai: OS, compiler, database, ya dusre third-party software ke naye versions pehle se sahi code ke saath tabahi (havoc) macha sakte hain. Naye bugs dikhai de sakte hain. Jin bugs ke liye aapke paas ek work-around tha wo fix ho jate hain, jisse aapka work-around toot jata hai. APIs badalte hain, functionality badalti hai; in short, yeh pura naya khel (ball game) hai, aur aapko in naye halaat mein system ko dobara test (retest) karna hoga. Isliye kisi upgrade par vichar karte samay schedule par panni nazar rakhein; aap shayad agle release ke **baad** tak intezar karna chahein.
+
+Agar, halanki, aapke paas dekhna shuru karne ke liye koi obvious (saaf) jagah nahi hai, toh aap hamesha ek acche purane **binary search** par bharosa kar sakte hain. Dekhein ki kya lakshan (symptoms) code mein do door ki jagahon par maujood hain. Phir middle (beech) mein dekhein. Agar problem wahan maujood hai, toh bug start aur middle point ke beech mein hai; warna, yeh middle point aur end ke beech mein hai. Aap is dhang se aage badh sakte hain jab tak aap spot ko paryapt roop se narrow down (sanket) na kar lein taaki problem ko identify kiya ja sake.
+
+**The Element of Surprise (Hairani ka Tatva)**
+
+Jab aap khud ko kisi bug se hairan (surprised) paate hain (shayad dheemi aawaz mein "that's impossible" bhi badbada (muttering) rahe hon jahan hum sun nahi sakte), toh aapko un sacchaiyon (truths) ko dobara evaluate karna chahiye jinhe aap aziz (hold dear) mante hain. Us linked list routine mein—jiske baare mein aap jaante the ki wo bulletproof hai aur is bug ki wajah nahi ho sakti—kya aapne **sabhi** boundary conditions test ki thi? Wo dusra code ka hissa jise aap saalon se use kar rahe hain—usme abhi bhi koi bug ho hi nahi sakta. Kya ho sakta hai?
+
+Zahir hai ho sakta hai. Jab kuch galat hota hai toh aap jo hairani (surprise) mehsoos karte hain, wo is baat ke seedhe anupat (directly proportional) mein hoti hai ki aapko us code par kitna bharosa (trust) aur faith hai jo chal raha hai. Yahi wajah hai ki jab kisi "surprising" (hairat-angez) failure ka samna karna pade, toh aapko yeh manna chahiye ki aapka ek ya ek se zyada assumption (manya) galat hai. Bug mein shaamil kisi routine ya code ke hisse ko nazarandaz (gloss over) na karein kyunki aap "jaante" hain ki yeh kaam karta hai. Prove (sabit) karein. Ise **is** context mein, **in** data ke saath, **in** boundary conditions ke saath sabit karein.
+
+---
+
+> **Tip 27** > **Don't Assume It—Prove It** > (Ise maanein nahi—ise saabit karein)
+
+---
+
+Jab aap kisi surprise bug ka samna karte hain, toh sirf use theek karne ke alawa, aapko yeh tai (determine) karne ki zaroorat hai ki yeh failure pehle kyun nahi pakdi gayi (caught). Vichar karein ki kya aapko unit ya dusre tests mein sudhaar (amend) karne ki zaroorat hai taaki wo ise pakad lete.
+
+Iske alawa, agar bug kharab (bad) data ka nateeja hai jo explosion (crash) karne se pehle kuch levels tak phail (propagated) gaya tha, toh dekhein ki kya un routines mein behtar parameter checking ne ise pehle hi isolate (alag) kar diya hota (kramsh: page 120 aur 122 par crashing early aur assertions ki charcha dekhein).
+
+Is waqt, kya code mein aisi koi aur jagah hai jahan yeh same bug ho sakta hai (susceptible)? Ab waqt hai unhe dhoondhne aur theek karne ka. Yeh pakka karein ki **jo kuch bhi** hua, agar yeh dobara hota hai toh aapko pata chalega.
+
+Agar is bug ko theek karne mein lamba waqt laga, toh khud se puchein kyun. Kya kuch aisa hai jo aap agli baar is bug ko theek karna aasaan banane ke liye kar sakte hain? Shayad aap behtar testing hooks build kar sakte hain, ya ek log file analyzer likh sakte hain.
+
+Aakhir mein, agar bug kisi ke wrong assumption ka nateeja hai, toh puri team ke saath problem par charcha karein: agar ek insaan galat samajhta hai, toh mumkin hai ki kai log bhi waisa hi sochte hon.
+
+Yeh sab karein, aur umeed hai ki agli baar aapko hairani nahi hogi.
+
+**Debugging Checklist**
+
+- Kya report ki ja rahi problem underlying (buniyaadi) bug ka direct result hai, ya sirf ek lakshan (symptom)?
+- Kya bug sach mein compiler mein hai? Kya yeh OS mein hai? Ya yeh aapke code mein hai?
+- Agar aap kisi coworker (saathi) ko yeh problem detail mein samjhate, toh aap kya kehte?
+- Agar suspect (shak ke ghere mein) code apne unit tests pass kar leta hai, toh kya tests paryapt (complete enough) hain? Kya hota hai agar aap is data ke saath unit test run karte hain?
+- Jis wajah se yeh bug aaya, kya waisi sthiti (conditions) system mein kahin aur maujood hai?
+
+**Related sections include:**
+
+- Assertive Programming, page 122
+- Programming by Coincidence, page 172
+- Ubiquitous Automation, page 230
+- Ruthless Testing, page 237
+
+**Challenges**
+
+- Debugging hi apne aap mein ek badi chunauti (challenge) hai.
+
+### 19. Text Manipulation (Text mein Her-pher)
+
+Pragmatic Programmers text ko usi tarah manipulate (her-pher) karte hain jaise woodworkers (badhai) lakdi ko aakar (shape) dete hain. Pichle sections mein humne kuch khaas tools (auzaaron)—shells, editors, debuggers—ki charcha ki jo hum istemal karte hain. Yeh ek badhai ki chheni (chisels), aari (saws), aur rande (planes) ki tarah hain—aise tools jo ek ya do kaam acche se karne ke liye specialized hote hain. Halanki, kabhi-kabhi hamein kuch aise badlav (transformation) karne padte hain jo basic tool set se asani se nahi ho paate. Hamein ek general-purpose text manipulation tool ki zaroorat hoti hai.
+
+Text manipulation languages programming ke liye wahi hain jo woodworking ke liye routers [8] hote hain. Yeh shor machane wale (noisy), bikhre hue (messy), aur kuch hadd tak brute force (zor-zabardasti wale) hote hain. Inke saath galtiyan karein, aur poore ke poore tukde (pieces) barbaad ho sakte hain. Kuch log kasam kha kar kehte hain ki inki toolbox mein koi jagah nahi hai. Lekin sahi haathon mein, routers aur text manipulation languages dono hi behad shaktishali (incredibly powerful) aur versatile (bahu-mukhi) ho sakte hain. Aap jaldi se kisi cheez ko kaat kar shape de sakte hain, joints bana sakte hain, aur tarash (carve) sakte hain. Sahi tarah se istemal kiye jane par, in tools mein hairan karne wali bareeki (finesse) aur subtlety hoti hai. Lekin inme maahir (master) hone mein waqt lagta hai.
+
+> [8] Yahan _router_ ka matlab us auzaar se hai jo cutting blades ko bahut, bahut tezi se ghumata hai, na ki networks ko jodne wale device se.
+
+Acchi text manipulation languages ki sankhya (number) lagatar badh rahi hai. Unix developers aksar apne command shells ki taqat ka istemal karna pasand karte hain, jisme `awk` aur `sed` jaise tools jude (augmented) hote hain. Jo log zyada structured tool pasand karte hain, unhe Python [URL 9] ka object-oriented nature accha lagta hai. Kuch log Tcl [URL 23] ko apni pasand ke tool ke roop mein chunte hain. Hum chhoti scripts jaldi se likhne (hacking out) ke liye Ruby [TFH04] aur Perl [URL 8] ko pasand karte hain.
+
+Yeh languages mahatvapurn enabling technologies (kshamta badhane wali takneekein) hain. Inka istemal karke, aap tezi se utilities aur prototype ideas bana sakte hain—aise kaam jinme purani (conventional) languages ka istemal karne par paanch ya das guna zyada waqt lag sakta hai. Aur yeh multiplying factor (guna karne wala tatva) us tarah ke experiments ke liye behad mahatvapurn hai jo hum karte hain. Ek crazy idea ko try karne ke liye 30 minute bitana, paanch ghante bitane se kahin behtar hai. Ek project ke mahatvapurn components ko automate karne mein ek din bitana manzoor (acceptable) hai; ek hafta bitana shayad theek na ho. Apni kitaab _The Practice of Programming_ [KP99] mein, Kernighan aur Pike ne ek hi program ko paanch alag-alag languages mein banaya. Perl version sabse chhota tha (sirf 17 lines, jabki C mein 150 lines thi). Perl ke saath aap text manipulate kar sakte hain, programs ke saath interact kar sakte hain, networks par baat kar sakte hain, Web pages chala (drive) sakte hain, arbitrary precision arithmetic kar sakte hain, aur aise programs likh sakte hain jo dekhne mein Snoopy ke gaali dene (swearing) jaise lagte hon.
+
+---
+
+> **Tip 28**
+> **Learn a Text Manipulation Language**
+> (Ek Text Manipulation Language Seekhein)
+
+---
+
+Text manipulation languages ki wide-ranging applicability (door-door tak laagu hone ki kshamta) dikhane ke liye, yahan un applications ka ek sample hai jo humne pichle kuch saalon mein develop ki hain.
+
+- **Database schema maintenance.** Perl scripts ke ek set ne ek plain text file li jisme database schema definition tha aur usse yeh generate kiya:
+- Database create karne ke liye SQL statements
+- Data dictionary ko bharne (populate) ke liye Flat data files
+- Database access karne ke liye C code libraries
+- Database integrity check karne ke liye scripts
+- Schema descriptions aur diagrams dikhane wale Web pages
+- Schema ka ek XML version
+
+- **Java property access.** Ek object ki properties tak access ko mehdood (restrict) karna ek accha OO (Object-Oriented) programming style hai, jo external classes ko unhe methods ke zariye 'get' aur 'set' karne ke liye majboor karta hai. Halanki, aam maamlo mein jahan ek property ko class ke andar ek simple member variable se darshaya jata hai, har variable ke liye get aur set method banana bahut ubaau (tedious) aur mechanical kaam hai. Hamare paas ek Perl script hai jo source files ko modify karti hai aur sabhi appropriately flagged variables ke liye sahi method definitions insert kar deti hai.
+- **Test data generation.** Hamare paas tens of thousands (dason hazar) test data records the, jo kai alag-alag files aur formats mein phaile the, jinhe ek saath jodne (knitted together) aur ek aise form mein badalne ki zaroorat thi jo relational database mein load karne ke liye theek (suitable) ho. Perl ne ise kuch hi ghanton mein kar diya (aur is process mein original data mein kuch consistency errors bhi dhoondh nikale).
+- **Book writing.** Hamara manna hai ki yeh zaroori hai ki kitaab mein pesh kiya gaya koi bhi code pehle test kiya gaya ho. Is kitaab ka zyada-tar code test kiya gaya hai. Halanki, _DRY_ principle (page 26 par _The Evils of Duplication_ dekhein) ka istemal karte hue hum tested programs se code ki lines ko kitaab mein copy aur paste nahi karna chahte the. Iska matlab hota ki code duplicate ho gaya, jisse is baat ki lagbhag guarantee ho jati ki jab corresponding program badlega toh hum example ko update karna bhool jayenge. Kuch examples ke liye, hum aapko us saare framework code ke saath bore nahi karna chahte the jo hamare example ko compile aur run karne ke liye chahiye hota hai. Humne Perl ka sahara liya. Jab hum kitaab ko format karte hain toh ek lagbhag simple script invoke hoti hai—yeh source file ka ek named segment nikaalti (extract) hai, syntax highlighting karti hai, aur result ko us typesetting language mein badal deti hai jo hum use karte hain.
+- **C to Object Pascal interface.** Ek client ke paas PCs par Object Pascal likhne wale developers ki ek team thi. Unke code ko C mein likhe gaye ek code body ke saath interface karne ki zaroorat thi. Humne ek choti Perl script banayi jisne C header files ko parse kiya, sabhi exported functions aur unke dwara use kiye jane wale data structures ki definitions nikaali (extract ki). Phir humne sabhi C structures ke liye Pascal records ke saath Object Pascal units generate ki, aur sabhi C functions ke liye imported procedure definitions banayi. Yeh generation process build ka hissa ban gaya, taaki jab bhi C header badle, ek nayi Object Pascal unit apne aap (automatically) ban jaye.
+- **Generating Web documentation.** Kai project teams apne documentation ko internal Web sites par publish kar rahi hain. Humne kai Perl programs likhe hain jo required HTML documentation banane ke liye database schemas, C ya C++ source files, makefiles, aur dusre project sources ko analyze karte hain. Hum Perl ka istemal documents ko standard headers aur footers ke saath lapetne (wrap karne) aur unhe Web site par transfer karne ke liye bhi karte hain.
+
+Hum lagbhag har roz text manipulation languages ka istemal karte hain. Is kitaab ke kai ideas in languages mein kisi bhi aur language (jiski hamein jankari hai) ke muqable zyada asani se implement kiye ja sakte hain. Yeh languages code generators likhna asaan banati hain, jinhe hum aage dekhenge.
+
+**Related sections include:**
+
+- The Evils of Duplication, page 26
+
+**Exercises (Abhyaas)**
+
+**11.** Aapka C program 100 states mein se kisi ek ko represent karne ke liye ek enumerated type ka istemal karta hai. Aap debugging ke maqsad se state ko (number ke bajaye) ek string ke roop mein print karna chahte hain. Ek script likhein jo standard input se ek aisi file padhe jisme yeh ho:
+
+```
+name
+state_a
+state_b
+: :
+
+```
+
+Aisi file `name.h` produce karein, jisme yeh ho:
+
+```c
+extern const char * NAME_names[];
+typedef enum {
+    state_a,
+    state_b,
+    : :
+} NAME;
+
+```
+
+aur file `name.c`, jisme yeh ho:
+
+```c
+const char * NAME_names[] = {
+    "state_a",
+    "state_b",
+    : :
+};
+
+```
+
+**12.** Is kitaab ko aadha likhne ke baad, hamein ehsas hua ki humne apne kai Perl examples mein `use strict` directive nahi dala tha. Ek script likhein jo kisi directory mein `.pl` files ke zariye jaye aur un sabhi files mein jinme pehle se ek nahi hai, wahan initial comment block ke aakhir mein `use strict` jodh de. Yaad rakhein ki aap jo bhi files badalte hain, un sabhi ka ek backup zaroor rakhein.
+
+### 20. Code Generators (Code Banane Wale Tools)
+
+Jab woodworkers (badhaai) ko ek hi cheez bar-bar banani hoti hai, toh wo "cheat" karte hain. Wo apne liye ek jig ya template banate hain. Agar wo ek baar jig sahi se bana lein, toh wo kisi bhi kaam ko bar-bar waise hi reproduce kar sakte hain. Jig unki complexity ko kam karti hai, galtiyon ki sambhavna ghatati hai, aur karigar (craftsman) ko quality par dhayan dene ki azadi (freedom) deti hai.
+
+Programmers ke roop mein, hum bhi aksar khud ko aisi hi sthiti (position) mein paate hain. Hamein ek hi functionality alag-alag contexts (haalaaton) mein hasil karni hoti hai. Hamein ek hi jankari alag-alag jagahon par dohrani (repeat) padti hai. Kabhi-kabhi hamein sirf carpal tunnel syndrome se bachne ke liye bar-bar typing kam karni padti hai.
+
+Jis tarah ek woodworker jig banane mein waqt invest karta hai, usi tarah ek programmer ek **code generator** bana sakta hai. Ek baar ban jane ke baad, ise poore project ki life mein lagbhag bina kisi kharch (virtually no cost) ke istemal kiya ja sakta hai.
+
+---
+
+> **Tip 29** > **Write Code That Writes Code** > (Aisa code likhein jo code likhe)
+
+---
+
+Code generators mukhya roop se do tarah ke hote hain:
+
+1. **Passive code generators** ek baar chalaye jate hain aur ek nateeja (result) paida karte hain. Uske baad, wo nateeja azaad (freestanding) ho jata hai—wo code generator se alag ho jata hai. Wizards (page 198 par _Evil Wizards_ dekhein) aur kuch CASE tools passive code generators ke udaharan (examples) hain.
+2. **Active code generators** har baar tab chalaye jate hain jab unke nateeje ki zaroorat hoti hai. Inka nateeja phekne layak (throw-away) hota hai—ise code generator dobara reproduce kar sakta hai. Aksar, active code generators kisi script ya control file ko padh kar apna result banate hain.
+
+#### Passive Code Generators
+
+Passive code generators typing bachate hain. Yeh buniyadi taur par parameterized templates hote hain, jo kuch inputs ke adhaar par ek output generate karte hain. Ek baar result ban jane ke baad, wo project mein ek mukammal (full-fledged) source file ban jata hai; ise kisi bhi aam file ki tarah edit, compile aur source control mein rakha jata hai. Iski shuruat (origins) bhula di jati hai.
+
+Passive code generators ke kai upyog (uses) hain:
+
+- **Nayi source files banana:** Ek passive code generator naye file ke liye templates, source code control directives, copyright notices aur standard comment blocks paida kar sakta hai. Humne apne editors aise set kiye hain: jab hum nayi Java file banate hain, toh usme automatically ek comment block, package directive aur outline class declaration bhara hua (filled in) aa jata hai.
+- **Programming languages ke beech one-off (ek baar ke) conversions karna:** Humne yeh kitab _troff_ system mein likhna shuru ki thi, lekin 15 sections ke baad LaTeX par switch kar liya. Humne ek code generator likha jisne troff source padha aur use LaTeX mein badal diya. Yeh lagbhag 90% accurate tha; baaki humne haath se kiya. Yeh inka ek dilchasp feature hai: inhe poori tarah sateek (totally accurate) hone ki zaroorat nahi hai. Aap tay kar sakte hain ki generator par kitni mehnat karni hai aur uske output ko theek karne par kitni.
+- **Lookup tables aur aise resources banana jinhe runtime par compute karna mehanga (expensive) ho:** Purane graphics systems trigonometry functions calculate karne ke bajaye sine aur cosine ki precomputed tables use karte the. Yeh tables aam taur par ek passive code generator se banayi jati thi aur phir source mein copy ki jati thi.
+
+#### Active Code Generators
+
+Jahan passive code generators sirf ek suvidha (convenience) hain, wahin agar aap **DRY** (Don't Repeat Yourself) principle follow karna chahte hain toh inke active cousins (active generators) zaroorat (necessity) ban jate hain. Ek active code generator ke saath, aap kisi knowledge ki single representation lekar use application ki zaroorat wali har form mein badal sakte hain. Yeh duplication **nahi** hai, kyunki derived forms throw-away (phekne layak) hoti hain aur zaroorat ke hisab se generate ki jati hain (isliye naam "active" hai).
+
+Jab bhi aap do alag-alag environments ko ek saath kaam karwane ki koshish kar rahe hon, toh aapko active code generators ke baare mein sochna chahiye.
+
+Shayad aap ek database application develop kar rahe hain. Yahan aap do environments se deal kar rahe hain—database aur us tak pahunchne wali programming language. Aapke paas ek schema hai, aur aapko un database tables ke layout ko mirror karne ke liye low-level structures define karne hain. Aap seedhe inhein code kar sakte the, lekin yeh DRY principle ka ullanghan (violates) karta hai: schema ka knowledge do jagahon par express ho jayega. Jab schema badlega, toh aapko code bhi yaad se badalna hoga. Agar kisi table se column hata diya jaye aur code na badla jaye, toh shayad compile error bhi na aaye. Aapko tab pata chalega jab test fail honge ya user call karega.
+
+Iska vikalp ek active code generator ka istemal karna hai—schema lein aur usse structures ke liye source code generate karein, jaisa Figure 3.3 mein dikhaya gaya hai. Ab jab bhi schema badlega, us tak pahunchne wala code automatically badal jayega. Agar column hata, toh code compile hi nahi hoga. Aapne production ke bajaye compile time par error pakad liya. Zahir hai, yeh scheme tabhi kaam karegi jab aap code generation ko build process ka hissa banayenge. [9]
+
+> [9] Aap database schema se code kaise banate hain? Agar schema flat file (jaise create table statements) mein hai, toh ek simple script use parse karke source generate kar sakti hai. Agar database directly use ho raha hai, toh aap database ki data dictionary se directly jankari extract kar sakte hain (Perl libraries aisi suvidha deti hain).
+
+> **Figure 3.3: Active code generator ek database schema se code banata hai**
+
+Ek aur udaharan tab aata hai jab ek hi application mein alag-alag programming languages istemal hoti hain. Communicate karne ke liye, dono code bases ko kuch common jankari chahiye hogi—jaise data structures, message formats aur field names. Is information ko duplicate karne ke bajaye, ek code generator ka istemal karein. Aksar kisi language-neutral representation mein express karna aasaan hota hai, jisse dono languages ke liye code generate kiya ja sake (Figure 3.4 dekhein).
+
+> **Figure 3.4: Ek language-neutral representation se code generate karna.** Input file mein 'M' se message definition shuru hoti hai, 'F' field define karta hai aur 'E' message ka end hai.
+
+#### Code Generators ko Complex Hone ki Zaroorat Nahi (Code Generators Needn't Be Complex)
+
+Active aur passive ki is charcha (talk) se aapko lag sakta hai ki code generators bahut mushkil jaanvar (beasts) hote hain. Aisa nahi hai. Aam taur par sabse mushkil hissa parser hota hai, jo input file analyze karta hai. Agar aap input format simple rakhein, toh code generator simple ho jata hai. Exercise 13 ka jawab dekhein: actual code generation asal mein sirf print statements hoti hain.
+
+#### Code Generators sirf Code nahi banate (Code Generators Needn't Generate Code)
+
+Halanki yahan code generators source code banate hue dikhaye gaye hain, par yeh zaroori nahi hai. Aap code generators se kuch bhi output nikaal sakte hain: HTML, XML, plain text—koi bhi text jo aapke project mein kahin aur input ban sake.
+
+**Related sections include:**
+
+- The Evils of Duplication, page 26
+- The Power of Plain Text, page 73
+- Evil Wizards, page 198
+- Ubiquitous Automation, page 230
+
+**Exercises (Abhyaas)**
+
+**13.** Ek code generator likhein jo Figure 3.4 ki input file ko le aur aapki pasand ki do languages mein output generate kare. Nayi languages jodne ko aasaan banane ki koshish karein.
