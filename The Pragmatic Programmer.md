@@ -2699,3 +2699,234 @@ Java ki Remote Method Invocation (RMI) suvidha ka istemal karte hue, ek client-s
 3. `add` routine ko `null` pointer pass kiya jana.
 
 Har ek ko kaise handle kiya jana chahiye? Kya ek error generate karni chahiye, kya koi exception raise karni chahiye, ya phir condition ko ignore kar dena chahiye?
+
+#### 25. How to Balance Resources (Resources Ko Kaise Balance Karein)
+
+> "Main tujhe is duniya mein laya hoon," mere pitaji kaha karte the, "aur main tujhe wapas bhi bhej sakta hoon. Mujhe isse koi farq nahi padta. Main bas tere jaisa ek aur bana loonga."
+> — **Bill Cosby, *Fatherhood***
+
+Hum sab jab bhi code karte hain toh resources manage karte hain: memory, transactions, threads, files, timers—har wo cheez jiski availability mehdood (limited) ho. Zyada-tar waqt, resource usage ek predictable pattern follow karta hai: aap resource allocate karte hain, use istemal karte hain, aur phir use deallocate (free) kar dete hain.
+
+Halanki, kai developers ke paas resource allocation aur deallocation se nipatne ka koi lagatar (consistent) plan nahi hota. Isliye aaiye ek simple tip sujhate hain:
+
+---
+
+> **Tip 35**
+> **Finish What You Start**
+> (Jo Shuru Karein Use Khatam Karein)
+
+---
+
+Yeh tip zyada-tar halaat mein laagu karna asaan hai. Iska seedha sa matlab yeh hai ki jo routine ya object kisi resource ko allocate karta hai, wahi use deallocate karne ke liye zimmedar hona chahiye. Aaiye dekhte hain ki yeh ek kharab code ke udaharan mein kaise laagu hota hai—ek aisi application jo ek file open karti hai, usse customer information padhti hai, ek field update karti hai, aur result wapas likhti hai. Humne udaharan ko saaf rakhne ke liye error handling hata di hai.
+
+```c
+void readCustomer(const char *fName, Customer *cRec) {
+    cFile = fopen(fName, "r+");
+    fread(cRec, sizeof(*cRec), 1, cFile);
+}
+
+void writeCustomer(Customer *cRec) {
+    rewind(cFile);
+    fwrite(cRec, sizeof(*cRec), 1, cFile);
+    fclose(cFile);
+}
+
+void updateCustomer(const char *fName, double newBal) {
+    Customer cRec;
+    readCustomer(fName, &cRec);
+    cRec.balance = newBal;
+    writeCustomer(&cRec);
+}
+
+```
+
+Pehli nazar mein, routine `updateCustomer` kaafi accha lagta hai. Yeh wahi logic implement karta dikhta hai jo hamein chahiye—record padhna, balance update karna, aur record wapas likhna. Halanki, yeh saaf-suthraapan (tidiness) ek badi problem chhupata hai. Routines `readCustomer` aur `writeCustomer` bahut tightly coupled hain [3]—wo global variable `cFile` share karte hain. `readCustomer` file open karta hai aur file pointer ko `cFile` mein store karta hai, aur `writeCustomer` us stored pointer ka istemal file close karne ke liye karta hai jab wo khatam hota hai. Yeh global variable `updateCustomer` routine mein dikhta tak nahi hai.
+
+> [3] Coupled code ke khatron ki charcha ke liye, *Decoupling and the Law of Demeter*, page 138 dekhein.
+
+Yeh kharab kyun hai? Aaiye us badkismat maintenance programmer ke baare mein sochte hain jise bataya gaya hai ki specification badal gayi hai—balance sirf tabhi update hona chahiye jab nayi value negative na ho. Wo source mein jaati hai aur `updateCustomer` ko badalti hai:
+
+```c
+void updateCustomer(const char *fName, double newBal) {
+    Customer cRec;
+    readCustomer(fName, &cRec);
+    if (newBal >= 0.0) {
+        cRec.balance = newBal;
+        writeCustomer(&cRec);
+    }
+}
+
+```
+
+Testing ke dauran sab theek lagta hai. Halanki, jab code production mein jata hai, toh yeh kuch ghanton baad dher (collapses) ho jata hai, aur *"too many open files"* ki shikayat karta hai. Kyunki kuch halaat mein `writeCustomer` call nahi ho raha hai, isliye file close nahi ho rahi hai.
+
+Is problem ka ek bahut hi kharab samadhan (solution) yeh hoga ki `updateCustomer` mein special case ko handle kiya jaye:
+
+```c
+void updateCustomer(const char *fName, double newBal) {
+    Customer cRec;
+    readCustomer(fName, &cRec);
+    if (newBal >= 0.0) {
+        cRec.balance = newBal;
+        writeCustomer(&cRec);
+    } else {
+        fclose(cFile); // Kharab idea!
+    }
+}
+
+```
+
+Yeh problem ko theek kar dega—naya balance chahe jo ho, file ab close ho jayegi—lekin is theek karne (fix) ka matlab ab yeh hai ki global `cFile` ke zariye **teen** routines jud (coupled) gaye hain. Hum ek jaal (trap) mein phas rahe hain, aur agar hum isi raste par chalte rahe toh cheezein tezi se kharab (downhill) hone lagengi.
+
+*Finish what you start* tip hamein batati hai ki adarsh roop se, jo routine resource allocate karta hai, use hi free bhi karna chahiye. Hum code ko thoda sa refactor karke ise yahan laagu kar sakte hain:
+
+```c
+void readCustomer(FILE *cFile, Customer *cRec) {
+    fread(cRec, sizeof(*cRec), 1, cFile);
+}
+
+void writeCustomer(FILE *cFile, Customer *cRec) {
+    rewind(cFile);
+    fwrite(cRec, sizeof(*cRec), 1, cFile);
+}
+
+void updateCustomer(const char *fName, double newBal) {
+    FILE *cFile;
+    Customer cRec;
+
+    cFile = fopen(fName, "r+"); // Shuru karein
+    readCustomer(cFile, &cRec);
+    
+    if (newBal >= 0.0) {
+        cRec.balance = newBal;
+        writeCustomer(cFile, &cRec);
+    }
+    
+    fclose(cFile); // Khatam karein
+}
+
+```
+
+Ab file ki saari zimmedari `updateCustomer` routine par hai. Yeh file open karta hai aur (jo shuru kiya use khatam karte hue) exit hone se pehle isey close kar deta hai. Routine file ke istemal ko balance karta hai: open aur close ek hi jagah par hain, aur yeh zahir hai ki har open ke liye ek corresponding close hoga. Refactoring se ek ganda global variable bhi hat gaya.
+
+**Nest Allocations (Allocations ko Nest Karna)**
+
+Resource allocation ke buniyaadi pattern ko un routines ke liye badhaya ja sakta hai jinhe ek waqt mein ek se zyada resources chahiye hote hain. Yahan bas do aur sujhaav hain:
+
+1. Resources ko usi kram (order) ke **ulta (opposite)** deallocate karein jisme aapne unhe allocate kiya tha. Is tarah agar ek resource mein dusre resource ke references hain, toh aap resources ko laawaris (orphan) nahi chhodenge.
+2. Jab aap apne code mein alag-alag jagahon par ek hi set ke resources allocate kar rahe hon, toh unhe hamesha **ek hi kram (same order)** mein allocate karein. Isse deadlock ki sambhavna kam ho jayegi. (Agar process A resource1 par qabza (claims) karta hai aur resource2 par qabza karne wala hai, jabki process B ne resource2 par qabza kar liya hai aur resource1 paane ki koshish kar raha hai, toh dono processes hamesha ke liye intezar karte rahenge.)
+
+Isse koi farq nahi padta ki hum kis tarah ke resources istemal kar rahe hain—transactions, memory, files, threads, windows—buniyaadi pattern laagu hota hai: jo resource allocate karta hai, wahi use deallocate karne ke liye zimmedar hona chahiye. Halanki, kuch languages mein hum is concept ko aur aage badha sakte hain.
+
+**Objects and Exceptions**
+
+Allocations aur deallocations ke beech ka santulan (equilibrium) ek class ke constructor aur destructor ki yaad dilata hai. Class ek resource ko darshati hai, constructor aapko us resource type ka ek khaas object deta hai, aur destructor use aapke dayre (scope) se hata deta hai.
+
+Agar aap kisi object-oriented language mein programming kar rahe hain, toh aapko resources ko classes mein encapsulate karna (lapetna) upyogi lag sakta hai. Jab bhi aapko kisi khaas resource type ki zaroorat hoti hai, aap us class ka ek object instantiate karte hain. Jab object scope se bahar jata hai, ya garbage collector dwara wapas le (reclaimed) liya jata hai, toh object ka destructor us lapete hue (wrapped) resource ko deallocate kar deta hai.
+
+Is approach ke khaas fayde hote hain jab aap C++ jaisi languages ke saath kaam kar rahe hote hain, jahan exceptions resource deallocation mein dakhal (interfere) de sakti hain.
+
+**Balancing and Exceptions (Balancing aur Exceptions)**
+
+Jo languages exceptions support karti hain, wo resource deallocation ko mushkil (tricky) bana sakti hain. Agar koi exception throw hoti hai, toh aap yeh kaise guarantee de sakte hain ki exception se pehle allocate ki gayi har cheez theek se saaf (tidied up) ho gayi hai? Iska jawab kuch hadd tak language par nirbhar karta hai.
+
+**Balancing Resources with C++ Exceptions (C++ Exceptions ke saath Resources ko Balance Karna)**
+
+C++ `try...catch` exception mechanism ko support karta hai. Badkismati se, iska matlab yeh hai ki ek aisi routine se baahar aane (exiting) ke hamesha kam se kam do mumkin raste hote hain jo ek exception ko pakadti hai aur phir se throw (rethrows) karti hai:
+
+```cpp
+void doSomething(void) {
+    Node *n = new Node;
+    try {
+        // kuch karein
+    }
+    catch (...) {
+        delete n;
+        throw;
+    }
+    delete n;
+}
+
+```
+
+Dhyan dein ki humne jo node banaya tha use do jagah free kiya gaya hai—ek baar routine ke normal exit raste mein, aur ek baar exception handler mein. Yeh `DRY` principle ka saaf ullanghan (violation) hai aur aage chal kar aane wali ek maintenance problem hai.
+
+Halanki, hum C++ ke semantics ka apne fayde ke liye istemal kar sakte hain. Local objects apne enclosing block se baahar aane par automatically destroy ho jate hain. Yeh hamein kuch options deta hai. Agar halaat ijazat (permit) dete hain, toh hum "n" ko ek pointer se hatakar stack par maujood ek asli `Node` object bana sakte hain:
+
+```cpp
+void doSomething(void) {
+    Node n; // stack par local allocation
+    try {
+        // n ka istemal karein
+    }
+    catch (...) {
+        throw;
+    }
+}
+
+```
+
+Yahan hum C++ par bharosa karte hain ki wo `Node` object ki tabahi (destruction) ko automatically handle karega, chahe exception throw ho ya na ho.
+
+Agar pointer se shift hona mumkin nahi hai, toh wahi asar (effect) resource (is case mein, ek `Node` pointer) ko kisi dusri class ke andar lapet kar (wrapping) hasil kiya ja sakta hai.
+
+Ab wrapper class, `NodeResource`, yeh pakka karti hai ki jab iske objects destroy hon toh unke corresponding nodes bhi destroy ho jayein. Aasani ke liye, wrapper ek dereferencing operator `->` deta hai, taaki iske users contained `Node` object ke fields ko seedhe access kar sakein.
+
+Kyunki yeh technique itni upyogi hai, isliye standard C++ library template class `auto_ptr` deti hai, jo aapko dynamically allocate kiye gaye objects ke liye automatic wrappers deti hai.
+
+**Balancing Resources in Java (Java mein Resources ko Balance Karna)**
+
+C++ ke muqable, Java automatic object destruction ka ek lazy roop (form) implement karta hai. Jin objects ka koi reference nahi hota, unhe garbage collection ka candidate maana jata hai, aur agar garbage collection unhe claim karta hai toh unka `finalize` method call hota hai. Halanki yeh developers ke liye ek suvidha hai, jinhe ab zyada-tar memory leaks ke liye dosh nahi milta, lekin yeh C++ scheme ka istemal karke resource clean-up ko implement karna mushkil bana deta hai. Khush-kismati se, Java language ke designers ne soch-samajh kar (thoughtfully) iski bharpayi (compensate) karne ke liye ek language feature joda, `finally` clause. Jab ek `try` block mein `finally` clause hota hai, toh us clause ka code pakke taur par execute hoga agar `try` block mein koi bhi statement execute hota hai. Isse koi farq nahi padta ki exception throw hoti hai (ya agar `try` block ka code `return` execute karta hai)—`finally` clause ka code chalega. Iska matlab hai ki hum apne resource usage ko aise code ke saath balance kar sakte hain:
+
+```java
+public void doSomething() throws IOException {
+    File tmpFile = new File("tmpFileName");
+    FileWriter tmp = new FileWriter(tmpFile);
+    try {
+        // kuch karein
+    }
+    finally {
+        tmpFile.delete();
+    }
+}
+
+```
+
+Routine ek temporary file ka istemal karti hai, jise hum chahe routine kaise bhi exit ho, delete karna chahte hain. `finally` block hamein isey concisely (chhoti aur sateek tarah se) vyakt (express) karne deta hai.
+
+**When You Can't Balance Resources (Jab Aap Resources Balance Nahi Kar Sakte)**
+
+Aise waqt hote hain jab buniyaadi resource allocation pattern theek nahi baithta (appropriate nahi hota). Aam taur par yeh un programs mein dekha jata hai jo dynamic data structures ka istemal karte hain. Ek routine memory ka ek area allocate karegi aur use kisi bade structure mein link karegi, jahan wo kuch samay tak reh sakta hai.
+
+Yahan trick (tareeqa) memory allocation ke liye ek semantic invariant sthapit (establish) karna hai. Aapko yeh tay karne ki zaroorat hai ki kisi aggregate data structure mein data ke liye kaun zimmedar hai. Jab aap top-level structure ko deallocate karte hain toh kya hota hai? Aapke paas teen mukhya vikalp (main options) hain:
+
+1. Top-level structure usme shaamil kisi bhi substructures ko free karne ke liye bhi zimmedar hai. Yeh structures phir recursively apne andar ke data ko delete karte hain, aur yahi silsila chalta rehta hai.
+2. Top-level structure bas deallocate kar diya jata hai. Jin structures ki taraf yeh ishara (pointed) kar raha tha (jo kahin aur referenced nahi hain) wo laawaris (orphaned) ho jate hain.
+3. Top-level structure khud ko deallocate karne se inkaar (refuses) kar deta hai agar isme koi substructures hain.
+
+Yahan chunav (choice) har individual data structure ke halaat par nirbhar karta hai. Halanki, aapko har ek ke liye ise spasht (explicit) karna hoga, aur apne faisle ko lagatar (consistently) implement karna hoga. Inme se kisi bhi option ko C jaisi procedural language mein implement karna ek problem ho sakta hai: data structures khud active nahi hote. In halaat mein hamari pasand har major structure ke liye ek module likhna hai jo us structure ke liye standard allocation aur deallocation facilities deta ho. (Yeh module debug printing, serialization, deserialization, aur traversal hooks jaisi suvidhayein bhi de sakta hai.)
+
+Aakhir mein, agar resources ka track rakhna mushkil (tricky) ho jata hai, toh aap apne dynamically allocate kiye gaye objects par ek reference counting scheme implement karke automatic garbage collection ka apna khud ka limited roop (form) likh sakte hain. Kitab *More Effective C++* [ Mey96 ] ka ek section isi topic ko samarpit (dedicate) hai.
+
+**Checking the Balance (Santulan Ki Jaanch Karna)**
+
+Kyunki Pragmatic Programmers kisi par bharosa nahi karte, khud par bhi nahi, hamein lagta hai ki hamesha aisa code banana ek accha idea hai jo waqayi check kare ki resources sach mein sahi dhang se free hue hain ya nahi. Zyada-tar applications ke liye, iska aam taur par matlab hota hai ki har tarah ke resource ke liye wrappers banana, aur in wrappers ka istemal karke saari allocations aur deallocations ka track rakhna. Aapke code ke kuch points par, program logic yeh batayega (dictate) ki resources kisi khaas sthiti (state) mein honge: ise check karne ke liye wrappers ka istemal karein.
+
+Misaal ke taur par, requests ko service dene wala ek lamba chalne wala (long-running) program shayad apne main processing loop ke top par ek single point rakhega jahan wo agle request ke aane ka intezar karega. Yeh yeh pakka karne ki ek acchi jagah hai ki loop ke pichle execution ke baad se resource usage nahi badha hai.
+
+Isse lower, lekin utne hi upyogi level par, aap aise tools mein invest kar sakte hain jo (dusri cheezon ke alawa) aapke chalte hue programs mein memory leaks check karte hain. Purify aur Insure++ popular choices hain.
+
+**Related sections include:**
+
+* Design by Contract, page 109
+* Assertive Programming, page 122
+* Decoupling and the Law of Demeter, page 138
+
+**Challenges (Chunautiyan)**
+
+* Halanki is baat ko pakka karne ka koi guaranteed tareeqa nahi hai ki aap hamesha resources free karte hain, kuch design techniques lagatar apply kiye jaane par madad karengi. Text mein humne charcha ki thi ki kaise major data structures ke liye ek semantic invariant sthapit karna memory deallocation ke faislon ko disha (direct) de sakta hai. Sochein ki *Design by Contract* (page 109) is idea ko behtar banane (refine) mein kaise madad kar sakta hai.
+
+**Exercises (Abhyaas)**
+
+**22.** Kuch C aur C++ developers kisi memory ko free karne ke baad, jis pointer se wo juda tha, use NULL set karna zaruri samajhte hain. Yeh ek accha idea kyun hai?
+**23.** Kuch Java developers kisi object ka istemal khatam hone ke baad, object variable ko NULL set karna zaruri samajhte hain. Yeh ek accha idea kyun hai?
