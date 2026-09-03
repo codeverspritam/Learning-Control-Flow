@@ -2520,3 +2520,124 @@ Zahir hai (Clearly), kabhi-kabhi ek chalte hue program se seedhe bahar nikal jan
 
 * Design by Contract, page 109
 * When to Use Exceptions, page 125
+
+#### 23. Assertive Programming (Dridhtapoorvak Programming)
+
+> "Khud ko dosh dene (self-reproach) mein ek alag hi aaram (luxury) hai. Jab hum khud ko doshi thehrate hain, toh hamein lagta hai ki kisi aur ko hum par dosh lagane ka koi haq nahi hai."
+> — **Oscar Wilde, *The Picture of Dorian Gray***
+
+Aisa lagta hai ki ek mantra hai jo har programmer ko apne career ki shuruat mein hi yaad kar lena chahiye. Yeh computing ka ek buniyaadi siddhant (fundamental tenet) hai, ek mukhya vishwas (core belief) jise hum requirements, designs, code, comments, yani hum jo kuch bhi karte hain, us par laagu karna seekhte hain. Wo mantra yeh hai:
+
+##### YEH TOH KABHI HO HI NAHI SAKTA ...
+
+"Yeh code aaj se 30 saal baad istemal nahi hoga, isliye do-digit wali dates theek hain."
+
+"Yeh application kabhi videsh (abroad) mein istemal nahi hogi, toh isey internationalize kyun karein?"
+
+"`count` negative nahi ho sakta."
+
+"Yeh `printf` fail nahi ho sakta."
+
+Aaiye is tarah ke khud-faraibi (self-deception) ki aadat na dalein, khaas kar coding ke waqt.
+
+---
+
+> **Tip 33**
+> **If It Can't Happen, Use Assertions to Ensure That It Won't**
+> (Agar Yeh Nahi Ho Sakta, Toh Assertions Ka Istemal Karein Yeh Pakka Karne Ke Liye Ki Aisa Na Ho)
+
+---
+
+Jab bhi aap khud ko yeh sochte hue payein ki "lekin zahir hai yeh toh kabhi ho hi nahi sakta," toh use check karne ke liye code jodein. Aisa karne ka sabse asaan tareeqa assertions ka istemal karna hai. Zyada-tar C aur C++ implementations mein, aapko `assert` ya `_assert` macro ka koi roop milega jo ek Boolean condition check karta hai. Yeh macros behad keemti (invaluable) ho sakte hain. Agar aapke procedure mein pass kiya gaya koi pointer kabhi `NULL` nahi hona chahiye, toh use check karein:
+
+```c
+void writeString( char *string) {
+    assert(string != NULL);
+    ...
+
+```
+
+Assertions kisi algorithm ke operation ko check karne ke liye bhi upyogi hote hain. Shayad aapne ek bahut chatur (clever) sort algorithm likha hai. Check karein ki yeh kaam karta hai:
+
+```c
+for ( int i = 0; i < num_entries-1; i++) {
+    assert(sorted[i] <= sorted[i+1]);
+}
+
+```
+
+Beshaq, kisi assertion mein pass ki gayi condition ka koi side effect nahi hona chahiye (page 124 par box dekhein). Yeh bhi yaad rakhein ki assertions compile time par band (turned off) kiye ja sakte hain—isliye aisa code jo execute hona *zaroori* hai, use kabhi `assert` ke andar na rakhein.
+
+Asli error handling ki jagah assertions ka istemal na karein. Assertions aisi cheezon ke liye check karte hain jo kabhi honi hi nahi chahiye: aap is tarah ka code nahi likhna chahenge:
+
+```c
+printf( "Enter 'Y' or 'N' : ");
+ch = getchar();
+assert((ch == 'Y') || (ch == 'N')); /* bad idea! */
+
+```
+
+Aur sirf isliye ki maujood `assert` macros kisi assertion ke fail hone par `exit` call karte hain, iska koi kaaran nahi hai ki aapke likhe hue versions bhi waisa hi karein. Agar aapko resources free karne ki zaroorat hai, toh kisi assertion failure par ek exception generate karein, exit point par `longjmp` karein, ya error handler ko call karein. Bas yeh pakka karein ki un aakhiri (dying) milliseconds mein aap jo code execute karte hain, wo us jankari par nirbhar na kare jiski wajah se shuru mein assertion failure trigger hua tha.
+
+**Leave Assertions Turned On (Assertions ko Chalu Rakhein)**
+
+Assertions ke baare mein ek aam galatfehmi (misunderstanding) hai, jise compilers aur language environments likhne wale logon ne failaya hai. Wo kuch is tarah hai:
+
+> Assertions code mein kuch overhead (atirikth bojh) jodte hain. Kyunki wo aisi cheezon ke liye check karte hain jo kabhi honi hi nahi chahiye, wo sirf code mein maujood kisi bug ki wajah se hi trigger honge. Ek baar jab code test aur ship ho jata hai, toh unki koi zaroorat nahi rehti, aur code ko tez chalane ke liye unhe band kar dena chahiye. Assertions ek debugging ki suvidha hain.
+
+Yahan do bilkul saaf (patently) galat manyatayein (assumptions) hain. Pehla, wo yeh maante hain ki testing saare bugs dhoondh leti hai. Haqeeqat mein, kisi bhi complex program ke liye yeh namumkin sa hai ki aap un permutations (vikalpon) ka ek chhota sa hissa (miniscule percentage) bhi test kar sakein jinse aapka code gujrega (page 245 par *Ruthless Testing* dekhein). Dusra, aashawadi (optimists) yeh bhool rahe hain ki aapka program ek khatarnak duniya mein chalta hai. Testing ke dauran, shayad chuhe (rats) communications cable ko nahi kutrenge, koi game khelne wala insaan memory khatam (exhaust) nahi karega, aur log files hard drive ko poora nahi bharengi. Yeh cheezein tab ho sakti hain jab aapka program production environment mein chale. Aapki bachaav ki pehli katar (first line of defense) kisi bhi mumkin error ko check karna hai, aur dusri katar (second) assertions ka istemal karke un errors ko pakadne ki koshish karna hai jo aapse chhoot gaye the.
+
+Ek program ko production mein bhejte waqt assertions ko band karna, bina jaal (net) ke kisi oonchi taar (high wire) ko paar karne jaisa hai sirf isliye kyunki aapne practice ke waqt ise ek baar paar kar liya tha. Isme ek dramatic value toh hai, lekin is par life insurance milna mushkil hai.
+
+Bhale hi aapko waqayi performance issues aa rahe hon, toh sirf un assertions ko band karein jo sach mein aapko bhari pad (hit) rahe hon. Upar diya gaya sort example aapki application ka ek critical hissa ho sakta hai, aur iska tez hona zaroori ho sakta hai. Check jodne ka matlab hai data se ek aur baar guzarna (pass), jo shayad na-manzoor (unacceptable) ho. Us khaas check ko marzi par (optional) [2] chhod dein, lekin baaki sab ko waise hi rehne dein.
+
+> [2] C-based languages mein, assertions ko optional banane ke liye aap ya toh preprocessor ka istemal kar sakte hain ya `if` statements ka. Kai implementations `assert` macro ke liye code generation band kar dete hain agar compile-time flag set (ya not set) ho. Warna, aap code ko ek constant condition wale `if` statement ke andar rakh sakte hain, jise kai compilers (jinme zyada-tar aam Java systems shaamil hain) optimize karke hata denge.
+
+---
+
+> **Assertions and Side Effects (Assertions aur Side Effects)**
+> Yeh sharmindagi ki baat (embarrassing) hai jab errors detect karne ke liye jo code hum jodte hain, wo asal mein nayi errors paida kar de. Assertions ke saath aisa ho sakta hai agar condition ko evaluate (jaanch) karne ka koi side effect ho. Misaal ke taur par, Java mein kuch is tarah ka code likhna ek bura idea hoga:
+> ```java
+> while (iter.hasMoreElements()) {
+>     Test.ASSERT(iter.nextElement() != null );
+>     Object obj = iter.nextElement();
+>     // ....
+> }
+> 
+> ```
+> 
+> 
+> `ASSERT` ke andar `.nextElement()` call karne ka side effect yeh hai ki wo iterator ko us element se aage badha deta hai jo laya (fetched) ja raha tha, aur isliye loop collection mein se sirf aadhe (half) elements ko hi process karega. Yeh likhna behtar hoga:
+> ```java
+> while (iter.hasMoreElements()) {
+>     Object obj = iter.nextElement();
+>     Test.ASSERT(obj != null );
+>     // ....
+> }
+> 
+> ```
+> 
+> 
+> Yeh problem ek tarah ka "Heisenbug" hai—aisi debugging jo khud us system ka vyavahar (behavior) badal de jise debug kiya ja raha hai ([ URL 52 ] dekhein).
+
+---
+
+**Related sections include:**
+
+* Debugging, page 90
+* Design by Contract, page 109
+* How to Balance Resources, page 129
+* Programming by Coincidence, page 172
+
+**Exercises**
+
+**19.** Ek quick reality check. Inmein se kaunsi "asambhav" (impossible) cheezein ho sakti hain?
+
+1. Ek mahina jisme 28 se kam din hon
+2. `stat(".",&sb) == -1` (yaani, current directory ko access na kar paana)
+3. C++ mein: `a = 2; b = 3; if (a + b != 5) exit(1);`
+4. Ek triangle (tribhuj) jiske andar ke konon (interior angles) ka jod (sum) ≠ 180° ho
+5. Ek minute jisme 60 seconds na hon
+6. Java mein: `(a + 1) <= a`
+
+**20.** Java ke liye ek simple assertion checking class develop karein.
