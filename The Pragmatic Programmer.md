@@ -2437,3 +2437,86 @@ Yahan methods diye gaye hain. Sahi (appropriate) pre- aur postconditions aur ek 
 **18.** Series 0, 5, 10, 15, ..., 100 mein kitne numbers hain?
 
 ---
+
+##### CONSUMER KE FAYDE MEIN GALTI KAREIN (ERR IN FAVOR OF THE CONSUMER).
+
+Yeh ek saaf (clear), sateek (concise) aur spasht (unambiguous) statement hai jo system ke kai alag-alag kshetron (areas) mein laagu hota hai. Yeh system ke sabhi users ke saath hamara contract hai, hamare vyavahar (behavior) ki guarantee hai.
+
+**Dynamic Contracts aur Agents**
+
+Ab tak, humne contracts ke baare mein ek tay (fixed) aur na-badalne-wali (immutable) specifications ke roop mein baat ki hai. Lekin autonomous agents ki duniya mein, aisa hona zaroori nahi hai. "Autonomous" (swatantra) ki paribhasha ke mutabik, agents aisi requests ko *reject* karne ke liye azaad hain jinhe wo poora (honor) nahi karna chahte. Wo contract par dobara mol-bhav (renegotiate) karne ke liye azaad hain—"Main wo toh nahi de sakta, lekin agar aap mujhe yeh dein, toh main shayad kuch aur de sakta hoon."
+
+Yakeenan (certainly), koi bhi system jo agent technology par nirbhar karta hai, uski contractual arrangements par ek *nazuk (critical)* nirbharta hoti hai—bhale hi wo dynamically generate kiye gaye hon.
+
+Kalpana kijiye (imagine): kaafi saare components aur agents ke hone se jo ek lakshya (goal) hasil karne ke liye aapas mein apne khud ke contracts negotiate kar sakte hain, hum shayad software ki productivity crisis ko sirf software ko hi hamare liye solve karne dekar suljha (solve) sakte hain.
+
+Lekin agar hum contracts ka istemal haath se nahi kar sakte, toh hum unhe automatically bhi istemal nahi kar payenge. Isliye agli baar jab aap koi software design karein, toh uska contract bhi design karein.
+
+**Related sections include:**
+
+* Orthogonality, page 34
+* Dead Programs Tell No Lies, page 120
+* Assertive Programming, page 122
+* How to Balance Resources, page 129
+* Decoupling and the Law of Demeter, page 138
+* Temporal Coupling, page 150
+* Programming by Coincidence, page 172
+* Code That's Easy to Test, page 189
+* Pragmatic Teams, page 224
+
+**Challenges (Chunautiyan)**
+
+* Vichar karne ke liye bindu (Points to ponder): Agar DBC itna powerful hai, toh iska zyada paimane par (widely) istemal kyun nahi hota? Kya contract banana mushkil hai? Kya yeh aapko un muddon ke baare mein sochne par majboor karta hai jinhe aap abhi ke liye ignore karna chahte the? Kya yeh aapko SOCHNE (THINK) par majboor karta hai!? Saaf taur par, yeh ek khatarnak (dangerous) tool hai!
+
+**Exercises (Abhyaas)**
+
+**14.** Ek accha contract kya banata hai? Koi bhi preconditions aur postconditions jod sakta hai, lekin kya unse aapko koi fayda hoga? Aur bhi bura, kya wo waqayi fayde se zyada nuksaan karenge? Niche diye gaye udaharan (example) aur Exercises 15 aur 16 ke liye, faisla karein ki bataya gaya contract accha (good), bura (bad), ya ghatiya (ugly) hai, aur samjhayein kyun.
+
+Sabse pehle, aaiye ek Eiffel example dekhte hain. Yahan hamare paas ek doubly linked, circular list mein `STRING` jodhne ka ek routine hai (yaad rakhein ki preconditions ko `require` se aur postconditions ko `ensure` se label kiya jata hai).
+
+**15.** Agla, aaiye Java mein ek example try karte hain—kuch hadd tak Exercise 14 ke example jaisa. `insertNumber` ek ordered list mein ek integer insert karta hai. Pre- aur postconditions ko iContract ki tarah label kiya gaya hai ([ URL 17 ] dekhein).
+
+**16.** Yahan Java mein ek stack class ka hissa (fragment) hai. Kya yeh ek accha contract hai?
+
+**17.** DBC ke classic examples (jaise Exercises 14–16 mein) ek ADT (Abstract Data Type) ka implementation dikhate hain—aam taur par ek stack ya queue. Lekin bahut kam log waqayi is tarah ki low-level classes likhte hain.
+
+Isliye, is exercise ke liye, ek kitchen blender ka interface design karein. Yeh aage chalkar ek Web-based, Internet-enabled, CORBA-fied blender banega, lekin abhi ke liye humein sirf isey control karne ke liye interface chahiye. Isme 10 speed settings hain (0 ka matlab off hai). Aap ise khaali (empty) nahi chala sakte, aur aap ek baar mein speed sirf ek unit hi badal sakte hain (yaani 0 se 1, aur 1 se 2, na ki 0 se 2).
+
+Yahan methods diye gaye hain. Sahi (appropriate) pre- aur postconditions aur ek invariant jodein.
+
+**18.** Series 0, 5, 10, 15, ..., 100 mein kitne numbers hain?
+
+---
+
+#### 22. Dead Programs Tell No Lies (Murde Program Jhooth Nahi Bolte)
+
+Kya aapne kabhi dhyan diya hai ki kabhi-kabhi dusre log aapke andar ki pareshani (things aren't well with you) ko aapse pehle hi bhaamp (detect) lete hain jabki aapko khud problem ka ehsas (aware) nahi hota? Dusre logon ke code ke saath bhi bilkul waisa hi hai. Agar hamare kisi program mein kuch galat (awry) hone lagta hai, toh kabhi-kabhi koi library routine ise sabse pehle pakadta hai. Shayad kisi bhatakte hue (stray) pointer ne humse kisi file handle ko kisi be-maani (meaningless) cheez se overwrite karwa diya ho. Agla `read` ka call ise pakad lega. Shayad ek buffer overrun ne us counter ko kharab (trashed) kar diya ho jiska istemal hum yeh tay karne (determine) ke liye karne wale the ki kitni memory allocate karni hai. Shayad hamein `malloc` se ek failure mil jaye. Kuch million instructions pehle huye ek logic error ka matlab yeh ho sakta hai ki ek case statement ka selector ab umeed ke mutabik 1, 2, ya 3 nahi hai. Hum default case par hit karenge (jo is baat ka ek bada kaaran hai ki har ek `case/switch` statement mein ek default clause kyun hona chahiye—hum jaanna chahte hain jab koi "asambhav" (impossible) ghatna hui ho).
+
+"Yeh nahi ho sakta" wali soch (mentality) mein phas jana aasaan hai. Hum mein se zyada-tar logon ne aisa code likha hai jo yeh check nahi karta ki ek file safalta se (successfully) close hui ya nahi, ya ki ek trace statement waisa hi likha gaya jaisi humne umeed ki thi. Aur agar saari baatein ek jaisi hon, toh shayad hamein zaroorat bhi nahi thi—shak ke ghere wala code kisi aam sthiti (normal conditions) mein fail nahi hota. Lekin hum bachaav ke tareeqe se (defensively) coding kar rahe hain. Hum apne program ke dusre hisson mein aise aawara (rogue) pointers dhoondh rahe hain jo stack ko kharab (trashing) kar rahe hon. Hum yeh check kar rahe hain ki shared libraries ke sahi versions waqayi load hue the ya nahi.
+
+Sabhi galtiyan (errors) aapko jankari (information) deti hain. Aap khud ko yeh samjha sakte hain ki yeh error nahi ho sakta, aur isey ignore karne ka faisla kar sakte hain. Iske bajaye, Pragmatic Programmers khud se kehte hain ki agar koi error aaya hai, toh kuch bahut, bahut bura hua hai.
+
+> **Tip 32**
+> **Crash Early**
+> (Jaldi Crash Karein)
+
+**Crash, Don't Trash (Crash Karein, Tabah Nahi)**
+
+Problems ko jitna jaldi ho sake detect karne (pakadne) ke faydon mein se ek yeh hai ki aap jaldi crash kar sakte hain. Aur kai baar, apne program ko crash kar dena hi aapke liye sabse behtar cheez hoti hai. Iska vikalp (alternative) yeh ho sakta hai ki aap chalte rahein, kisi behad mahatvapurn (vital) database mein corrupted data likhte rahein ya washing machine ko uske beesve (twentieth) lagatar spin cycle mein jaane ka command dete rahein.
+
+Java language aur libraries ne is philosophy ko apna (embraced) liya hai. Jab runtime system ke andar kuch an-chaha (unexpected) hota hai, toh yeh ek `RuntimeException` throw karta hai. Agar isey pakda nahi gaya (not caught), toh yeh program ke top level tak upar chala jayega (percolate) aur usko rok dega (halt), aur ek stack trace dikhayega.
+
+Aap doosri languages mein bhi aisa kar sakte hain. Agar aapke paas exception mechanism nahi hai, ya agar aapki libraries exceptions throw nahi karti hain, toh yeh pakka karein ki aap errors ko khud handle karein. C mein, macros iske liye bahut upyogi (useful) ho sakte hain:
+
+Phir aap aisi calls ko jo kabhi fail nahi honi chahiye, is tarah lapet (wrap) sakte hain:
+`CHECK(stat("/tmp", &stat_buff), 0);`
+
+Agar yeh fail hota hai, toh aapko `stderr` par likha ek message milega:
+`source.c line 19 'stat("/tmp", &stat_buff)': expected 0, got -1`
+
+Zahir hai (Clearly), kabhi-kabhi ek chalte hue program se seedhe bahar nikal jana (exit) anuchit (inappropriate) hota hai. Aapne shayad aise resources claim kiye hon jo chhoote na (not get released), ya aapko log messages likhne hon, open transactions ko saaf (tidy up) karna ho, ya dusre processes ke saath interact karna ho. Jo takneekein (techniques) hum *When to Use Exceptions* (page 125) mein charcha karte hain, wo yahan madad karengi. Halanki, buniyaadi siddhant (basic principle) wahi rehta hai—jab aapke code ko yeh pata chalta hai ki kuch aisa hua hai jo asambhav (impossible) maana jata tha, toh aapka program ab aage chalne ke kabil (viable) nahi raha. Is point ke baad yeh jo bhi karega wo shak ke ghere mein (suspect) aa jayega, isliye isey jitna jaldi ho sake khatam (terminate) kar dein. Ek murda (dead) program aam taur par ek apahij (crippled) program ke muqable bahut kam nuksaan (damage) karta hai.
+
+**Related sections include:**
+
+* Design by Contract, page 109
+* When to Use Exceptions, page 125
