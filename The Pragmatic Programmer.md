@@ -282,3 +282,460 @@ Saalon se humne kai progressive clients ke saath kaam kiya hai, jahan se humne w
 ---
 ---
 ---
+
+## Chapter 1: A Pragmatic Philosophy
+
+Pragmatic Programmers ko kya cheez alag banati (distinguishes) hai? Hamein lagta hai ki yeh ek attitude, ek style, aur problems aur unke solutions ko approach karne ki ek philosophy hai. Wo immediate problem se aage ki sochte hain, hamesha koshish karte hain ki use uske bade sandarbh (context) mein rakhein, aur hamesha "bigger picture" se waqif (aware) rahein. Aakhirkar, bina is bade context ke, aap pragmatic kaise ho sakte hain? Aap samajhdaari bhare samjhote (intelligent compromises) aur jaankaari par adharit faisle (informed decisions) kaise le sakte hain?
+
+Unki kamyabi (success) ki ek aur mukhya wajah (key) yeh hai ki wo jo kuch bhi karte hain uski zimmedari (responsibility) lete hain, jis par hum _The Cat Ate My Source Code_ mein charcha (discuss) karenge. Zimmedar hone ke nate, Pragmatic Programmers chup-chap baith kar apne projects ko laparwahi (neglect) ki wajah se bikharte (fall apart) hue nahi dekhenge. _Software Entropy_ mein, hum aapko batayenge ki apne projects ko bilkul naya aur saaf (pristine) kaise rakhein.
+
+Zyada-tar logon ko badlav (change) qubool karna mushkil lagta hai, kabhi acche kaaranon se, toh kabhi sirf purani susti (inertia) ki wajah se. _Stone Soup and Boiled Frogs_ mein, hum badlav ko uksane (instigating) ki ek strategy dekhenge aur (balance banaye rakhne ke liye) ek aise amphibian ki chetavni bhari kahani (cautionary tale) pesh karenge jisne dhire-dhire hone wale badlav ke khatron ko nazarandaz (ignored) kiya.
+
+Jis context mein aap kaam karte hain use samajhne ka ek fayda yeh hai ki yeh jaanna aasaan ho jata hai ki aapke software ko kitna accha hona chahiye. Kabhi-kabhi bilkul perfection (near-perfection) hi akela rasta hota hai, lekin aksar wahan trade-offs shaamil hote hain. Hum ise _Good-Enough Software_ mein explore karenge.
+
+Beshaq, yeh sab karne ke liye aapke paas gyan (knowledge) aur anubhav (experience) ka ek bada adhaar (broad base) hona chahiye. Seekhna ek lagatar aur hamesha chalne wala process (continuous and ongoing process) hai. _Your Knowledge Portfolio_ mein, hum momentum ko banaye rakhne ki kuch strategies par charcha karenge.
+
+Aakhir mein, hum mein se koi bhi vacuum mein kaam nahi karta. Hum sab apna kaafi waqt dusron ke saath samvaad (interacting) karne mein bitate hain. _Communicate!_ un tareeqon ki list deta hai jinse hum ise behtar kar sakte hain.
+
+Pragmatic programming, pragmatic soch (pragmatic thinking) ki philosophy se nikalti hai. Yeh chapter us philosophy ke liye adhaar (basis) taiyar karta hai.
+
+---
+### 1. The Cat Ate My Source Code
+
+> "Sabse badi kamzori (weakness) yeh hai ki kamzor dikhne se darna."
+> — **J. B. Bossuet, Politics from Holy Writ, 1709**
+
+Pragmatic philosophy ke mukhya siddhanton (cornerstones) mein se ek yeh hai ki aap apne career ki tarakki (career advancement), apne project, aur apne rozana ke kaam ke maamle mein apni aur apne kaamon ki zimmedari (responsibility) lein. Ek Pragmatic Programmer apne career ka charge khud leta hai, aur apni gyan ki kami (ignorance) ya galti (error) ko manne se darta nahi hai. Yeh programming ka sabse khushnuma pehlu (pleasant aspect) nahi hai, yeh yakeeni hai, lekin aisa hoga—chahe project kitna bhi accha kyun na ho. Poori tarah se testing, acchi documentation, aur mazboot automation ke bawajood, cheezein galat ho jati hain. Deliveries late ho jati hain. An-dekhi (unforeseen) technical problems saamne aa jati hain.
+
+Yeh cheezein hoti hain, aur hum unse jitna ho sake utne peshevar (professionally) tareeqe se nipatne ki koshish karte hain. Iska matlab hai imandaar (honest) aur seedha (direct) hona. Hum apni kabiliyat (abilities) par garv kar sakte hain, lekin hamein apni kamiyon (shortcomings)—apni na-samjhi (ignorance) ke saath-saath apni galtiyon (mistakes)—ke baare mein imandaar hona chahiye.
+
+**Zimmedari Lein (Take Responsibility)**
+
+Zimmedari (Responsibility) wo cheez hai jise aap sakriya roop se qubool (actively agree) karte hain. Aap ek wada (commitment) karte hain yeh pakka karne ke liye ki kuch sahi dhang se kiya jaye, lekin zaroori nahi ki aapka uske har pehlu (aspect) par seedha control ho. Apna behtareen dene ke alawa, aapko un khatron (risks) ke liye situation ko analyze karna chahiye jo aapke control se bahar hain. Aapke paas kisi asambhav situation (impossible situation), ya jisme khatre bahut bade hon, uski zimmedari na lene ka adhikaar (right) hai. Aapko yeh faisla (call) apni ethics aur faisle (judgment) ke adhaar par lena hoga.
+
+Jab aap kisi nateeje (outcome) ke liye zimmedari qubool karte hain, toh aapko uske liye jawab-deh (accountable) hone ki umeed rakhni chahiye. Jab aap koi galti karte hain (jaise hum sab karte hain) ya faisle mein chook (error in judgment) hoti hai, toh use imandari se maanein aur vikalp (options) pesh karne ki koshish karein.
+
+Kisi aur par ya kisi cheez par ilzaam (blame) na lagayein, ya bahana (excuse) na banayein. Saari problems ka ilzaam kisi vendor, programming language, management, ya apne saathiyon (coworkers) par na daalein. In mein se koi bhi ya sabhi ka ek role ho sakta hai, lekin yeh aap par nirbhar hai ki aap samadhan (solutions) dein, bahane nahi.
+
+Agar koi khatra (risk) tha ki vendor aapka saath nahi nibhayega, toh aapke paas ek backup plan (contingency plan) hona chahiye tha. Agar disk crash ho jati hai—aur aapka saara source code apne saath le jati hai—aur aapke paas backup nahi hai, toh yeh aapki galti hai. Apne boss se yeh kehna ki "billi mera source code kha gayi" (the cat ate my source code) bilkul kaam nahi karega.
+
+> **Tip 3**
+> **Provide Options, Don't Make Lame Excuses**
+> (Options dein, lachar bahane na banayein)
+
+Isse pehle ki aap kisi ke paas yeh batane jayein ki koi kaam kyun nahi ho sakta, kyun late hai, ya kyun toot gaya hai, rukein aur khud ko sunein. Apne monitor par rakhe rubber duck se baat karein, ya billi se. Kya aapka bahana jayaz (reasonable) lag raha hai, ya bewakoofi bhara (stupid)? Yeh aapke boss ko kaisa lagega?
+
+Apne mann mein us baatchit (conversation) ko dohraiye. Dusra insaan shayad kya kahega? Kya wo puchenge, "Kya aapne yeh try kiya..." ya "Kya aapne us par gaur (consider) nahi kiya?" Aap kaise jawab denge? Isse pehle ki aap jayein aur unhe buri khabar sunayein, kya kuch aur hai jo aap try kar sakte hain? Kabhi-kabhi, aap bas jaante hain ki wo kya kehne wale hain, toh unhe zehmat (trouble) se bacha lein.
+
+Bahano ke bajaye, options (vikalp) dein. Yeh na kahein ki yeh nahi kiya ja sakta; samjhayein ki situation ko bachane (salvage) ke liye kya kiya ja sakta hai. Kya code ko phekna padega? Unhe refactoring ki ahmiyat (value) samjhayein. Kya aapko behtar raasta tai karne ke liye prototyping mein waqt bitane ki zaroorat hai? Kya aapko ise dobara hone se rokne ke liye behtar testing ya automation laane ki zaroorat hai? Shayad aapko atirikt sansadhanon (additional resources) ki zaroorat hai. Madad maangne se, ya yeh manne se na darrein ki aapko help chahiye.
+
+Lachar bahano (lame excuses) ko zor se bolne se pehle unhe khatam (flush out) karne ki koshish karein. Agar zaroori ho, toh pehle apni billi ko batayein. Aakhirkar, agar nanhi Tiddles par ilzaam aane wala hai toh....
+
+**Related sections include:**
+
+- Prototypes and Post-it Notes, page 53
+- Refactoring, page 184
+- Code That’s Easy to Test, page 189
+- Ubiquitous Automation, page 230
+- Ruthless Testing, page 237
+
+**Challenges**
+
+- Aap kaisa react karte hain jab koi—jaise bank teller, auto mechanic, ya clerk—aapke paas ek lachar bahana (lame excuse) lekar aata hai? Iske nateeje mein aap unke aur unki company ke baare mein kya sochte hain?
+
+---
+
+### 2. Software Entropy
+
+Halanki software development lagbhag sabhi physical laws se surakshit (immune) hai, _entropy_ hamein bahut buri tarah mutasir (hits hard) karti hai. _Entropy_ physics ka ek term hai jo kisi system mein "avyavastha" (disorder) ki maatra ko darshata hai. Afsos (unfortunately), thermodynamics ke laws guarantee dete hain ki universe mein entropy hamesha badhne (maximum) ki taraf rehti hai. Jab software mein disorder badhta hai, toh programmers use "software rot" kehte hain.
+
+Aise bahut se factors hain jo software rot mein yogdaan (contribute) de sakte hain. Sabse mukhya (important) project par kaam karne wali psychology, ya culture lagti hai. Agar aap ek ki team bhi hain, toh aapke project ki psychology ek bahut nazuk (delicate) cheez ho sakti hai. Behtareen plans aur behtareen logon ke bawajood, ek project apne lifetime ke dauran barbadi (ruin) aur sadsahat (decay) ka saamna kar sakta hai. Phir bhi kuch aise projects hain jo, badi mushkilon aur lagatar setbacks ke bawajood, prakriti (nature) ki disorder ki taraf jhukav ka safalta-purvak muqabla karte hain aur kaafi acche nikal kar aate hain.
+
+Fark kis cheez se padta hai?
+
+Shehron ke beech mein, kuch buildings bahut khoobsurat aur saaf hoti hain, jabki dusri sadti hui (rotting hulks) hoti hain. Kyun? Crime aur urban decay ke kshetra (field) mein researchers ne ek dilchasp trigger mechanism dhoonda, jo bahut tezi se ek saaf, sahi-salamat (intact), aur rehne layak building ko ek tooti-footi aur abandoned jagah mein badal deta hai.
+
+Ek tooti hui khidki (A broken window).
+
+Ek tooti hui khidki, jise kaafi samay tak theek na kiya gaya ho, building mein rehne walon ke mann mein tyag (abandonment) ka ehsas jaga deti hai—ek aisa ehsas ki zimmedar log (powers that be) building ki parwah nahi karte. Toh ek aur khidki toot jati hai. Log kachra phekne lagte hain. Graffiti banne lagti hai. Gambhir structural damage (serious structural damage) shuru ho jata hai. Kaafi kam samay mein, building itni kharab ho jati hai ki owner ka use theek karne ka mann nahi karta, aur abandonment ka wo ehsas haqeeqat (reality) ban jata hai.
+
+"Broken Window Theory" ne New York aur dusre bade shehron ke police departments ko prerit (inspired) kiya hai ki wo badi cheezon ko bahar rakhne ke liye chhoti cheezon par sakhti (crack down) karein. Yeh kaam karta hai: tooti hui khidkiyon, graffiti, aur dusre chhote ullanghanon (infractions) par kaabu rakhne se gambhir crime ka level kam hua hai.
+
+> **Tip 4**
+> **Don’t Live with Broken Windows**
+> (Tooti hui khidkiyon ke saath mat rahein)
+
+"Tooti hui khidkiyon" (bad designs, galat faisle, ya ghatiya code) ko bina theek kiye mat chhodein. Jaise hi koi khidki mile, use turant fix karein. Agar use sahi se theek karne ka paryapt samay (insufficient time) nahi hai, toh use "board up" kar dein (temporary band kar dein). Shayad aap us kharab code ko comment out kar sakte hain, ya "Not Implemented" message dikha sakte hain, ya uski jagah dummy data istemal kar sakte hain. Mazeed nuksan (further damage) ko rokne ke liye aur yeh dikhane ke liye ki aap situation par kaabu rakhe hue hain, koi na koi action zaroor lein.
+
+Humne dekha hai ki saaf aur functional systems bahut tezi se kharab (deteriorate) ho jate hain jaise hi khidkiyan tootna shuru hoti hain. Aise aur bhi factors hain jo software rot mein contribute kar sakte hain, aur hum unmein se kuch ko kahin aur touch karenge, lekin laparwahi (neglect) rot ko kisi bhi dusre factor se zyada tezi se badhati (accelerates) hai.
+
+Aap soch rahe honge ki kisi ke paas itna waqt nahi hai ki wo project ke saare toote hue kaanch (broken glass) saaf karta phire. Agar aap aisa sochna jari rakhte hain, toh behtar hoga ki aap ek kachra-peti (dumpster) lene ka plan banayein, ya kisi dusre neighborhood mein chale jayein. Entropy ko jeetne mat dein.
+
+**Aag Bujhana (Putting Out Fires)**
+
+Iske viprit (by contrast), Andy ke ek behadh ameer jaan-pehchan wale ki kahani hai. Unka ghar ekdum saaf (immaculate), khoobsurat aur keemti antiques aur kala-kritiyon (objets d’art) se bhara tha. Ek din, unke living room ke fireplace ke thoda zyada kareeb latki ek tapestry mein aag lag gayi. Fire department unka ghar bachane ke liye turant wahan pahuncha. Lekin isse pehle ki wo apne bade, gande hoses ghar ke andar ghaseet-te, wo ruke—jabki aag bhadak rahi thi—taaki wo main door aur aag ke beech ek mat (paidaan) bicha sakein.
+
+Wo carpet ganda nahi karna chahte the.
+
+Yeh yakeenan (to be sure) ek extreme case hai, lekin software ke saath bhi aisa hi hona chahiye. Ek tooti hui khidki—code ka ek ghatiya dhang se design kiya hua hissa, ya management ka ek bura faisla jiske saath team ko poore project ke dauran rehna padta hai—is girawat (decline) ko shuru karne ke liye kaafi hai. Agar aap apne aap ko ek aise project par kaam karte hue paate hain jisme kaafi saari tooti hui khidkiyan hain, toh is mindset mein phisatna (slip) bahut aasan hai ki "Yeh baaki saara code toh kachra (crap) hai hi, main bhi wahi follow karta hoon." Isse koi fark nahi padta ki project ab tak theek raha hai. Us original experiment mein jisne "Broken Window Theory" ko janam diya, ek abandoned car ek hafte tak bina chhuye khadi rahi. Lekin jaise hi ek akeli khidki tooti, car ke saare parts nikal liye gaye aur use kuch hi ghanton (hours) mein ulta kar diya gaya.
+
+Usi tarah, agar aap apne aap ko ek aisi team aur project par paate hain jahan code ekdum saaf aur khoobsurat (pristinely beautiful) hai—sahi dhang se likha hua, well designed, aur elegant—toh aap sambhav-tah (likely) use ganda na karne ka khaas khayal rakhenge, bilkul un firefighters ki tarah. Chahe aag bhadak rahi ho (deadline, release date, demo, etc.), _aap_ wo pehle insaan nahi banna chahenge jo gandagi failaye.
+
+**Related sections include:**
+
+- Stone Soup and Boiled Frogs, page 7
+- Refactoring, page 184
+- Pragmatic Teams, page 224
+
+**Challenges**
+
+- Apne computing "neighborhood" ka survey karke apni team ko mazboot karne mein madad karein. Do ya teen "tooti hui khidkiyan" chunein aur apne colleagues ke saath discuss karein ki problems kya hain aur unhe theek karne ke liye kya kiya ja sakta hai.
+- Kya aap bata sakte hain ki kab pehli baar koi khidki toot-ti hai? Aapka reaction kya hota hai? Agar yeh kisi aur ke faisle ka nateeja tha, ya management ka koi hukum (edict), toh aap iske baare mein kya kar sakte hain?
+
+---
+
+### 3. Stone Soup and Boiled Frogs
+
+_Teen sipahi (soldiers) jung se wapas aa rahe the aur bahut bhooke the. Jab unhone aage ek gaaon dekha toh unki umeed jaagi—unhe yakeen tha ki gaaon wale unhe khana denge. Lekin wahan pahunch kar unhone dekha ki darwaze band hain aur khidkiyan dhaki hui hain. Saalon ki jung ke baad, gaaon walon ke paas khane ki kami thi, aur jo kuch tha unhone chhupa (hoarded) rakha tha._
+
+_Himmat na haarte hue, sipahiyon ne ek bade patile mein pani ubala aur usme bade dhyan se teen patthar (stones) daal diye. Hairan gaaon wale yeh dekhne bahar nikal aaye._
+
+_"Yeh patthar ka soup (stone soup) hai," sipahiyon ne samjhaya. "Kya aap isme bas yahi daalte hain?" gaaon walon ne pucha. "Bilkul—halanki kuch log kehte hain ki agar isme thodi gaajar (carrots) hon toh maza aa jaye...." Ek villager turant bhaaga aur thodi hi der mein apni chhupayi hui tokri se gaajar le aaya._
+
+_Kuch der baad, gaaon walon ne phir pucha "Bas itna hi?"_
+
+_"Khair," sipahiyon ne kaha, "kuch aalu (potatoes) se isme thoda gadha-pan (body) aa jata hai." Ek aur villager bhaag kar aalu le aaya._
+
+_Agle ek ghante tak, sipahiyon ne aur bhi cheezon ki list batayi jo soup ko behtar bana sakti hain: beef, leeks, namak, aur herbs. Har baar koi naya villager apne personal store se kuch na kuch nikaal kar laata._
+
+_Aakhir mein unke paas ek bada patila steaming soup taiyar tha. Sipahiyon ne patthar nikaal diye, aur poore gaaon ke saath baith kar wo shandaar khana khaya jo unhone mahino se nahi naseeb hua tha._
+
+Stone soup ki kahani mein kuch naitik sabak (morals) hain. Gaaon walon ko sipahiyon ne trick kiya, unki utsukta (curiosity) ka fayda utha kar unse khana nikalwaya. Lekin zyada zaroori yeh hai ki sipahiyon ne ek **catalyst** ka kaam kiya, gaaon ko saath laakar ek aisi cheez taiyar ki jo wo akele nahi kar sakte the—ek synergistic result. Aakhir mein sabki jeet hui.
+
+Kabhi-kabaar, aap bhi in sipahiyon ki tarah banna chahoge.
+
+Ho sakta hai aap kisi aisi situation mein hon jahan aapko pata hai ki kya karna hai aur kaise karna hai. Poora system aapki aankhon ke saamne hota hai—aap jaante hain ki yeh sahi hai. Lekin agar aap poori cheez karne ki ijazat (permission) maangenge, toh aapko deri (delays) aur blank stares milenge. Log committees banayenge, budgets ki approval chahiye hogi, aur cheezein complex ho jayengi. Har koi apne resources ko bachayega (guard). Kabhi-kabhi ise "start-up fatigue" kehte hain.
+
+Yeh waqt hai patthar (stones) nikaalne ka. Sochiye ki aap jayaz taur par (reasonably) kya maang sakte hain. Use acchi tarah develop karein. Jab wo taiyar ho jaye, toh logon ko dikhayein, unhe hairan hone dein. Phir kahein "beshak, yeh aur behtar hota agar hum isme yeh jodte...." Aisa dikhayein jaise yeh zaroori nahi hai. Bas baith kar intezar karein ki wo khud aapse wo functionality maangne lagein jo aap shuru se chahte the. Logon ke liye kisi chalti hui kamyabi (ongoing success) mein judna aasaan hota hai. Unhe bhavishya ki ek jhalak (glimpse of the future) dikhayein aur wo aapke saath ho lenge. [1]
+
+> [1] Aisa karte waqt, aap Rear Admiral Dr. Grace Hopper ki is line se tasalli (comfort) le sakte hain:
+> "Ijazat lene se zyada aasaan maafi maangna hai." (It's easier to ask forgiveness than it is to get permission.)
+
+---
+
+> **Tip 5**
+> **Be a Catalyst for Change**
+> (Badlav ke liye ek catalyst baniye)
+
+---
+
+**Gaaon Walon ki Side (The Villagers' Side)**
+
+Dusri taraf, stone soup ki kahani halki aur dhire-dhire di gayi dhokhadhadi (deception) ke baare mein bhi hai. Yeh bahut zyada narrow focus karne ke baare mein hai. Villagers pattharon ke baare mein sochte hain aur baaki duniya ko bhool jate hain. Hum sab isme phaste hain, har roz. Cheezein bas hum par haavi (creep up) ho jati hain.
+
+Humne iske lakshan (symptoms) dekhe hain. Projects dhire-dhire aur bina ruke (inexorably) haath se nikal jate hain. Zyada-tar software disasters itne chhote shuru hote hain ki dhyan nahi jata, aur zyada-tar project overruns ek-ek din karke hote hain. Systems apni specifications se feature-by-feature bhatak (drift) jate hain, jabki code mein ek ke baad ek patch lagte rehte hain jab tak ki asli code ka nam-o-nishan na bache. Aksar yeh chhoti cheezon ka dher (accumulation) hi hota hai jo team ka moral tod deta hai.
+
+---
+
+> **Tip 6**
+> **Remember the Big Picture**
+> (Badi tasveer ko hamesha yaad rakhein)
+
+---
+
+Humne yeh kabhi try nahi kiya—sach mein. Lekin kehte hain ki agar aap ek medhak (frog) ko pakad kar ubalte pani (boiling water) mein daal dein, toh wo turant bahar kood jayega. Lekin, agar aap medhak ko thande pani ke bartan mein rakhein aur dhire-dhire use garam karein, toh medhak ko temperature ke dhire-dhire badhne ka ehsas (notice) nahi hoga aur wo pakne tak wahan betha rahega.
+
+Dhyan dein ki medhak ki problem Section 2 mein discuss ki gayi "broken windows" se alag hai. Broken Window Theory mein, log entropy se ladne ki himmat (will) kho dete hain kyunki unhe lagta hai ki koi aur parwah nahi karta. Medhak ko bas badlav ka pata hi nahi chalta.
+
+Medhak ki tarah mat baniye. Badi tasveer (big picture) par nazar rakhein. Lagatar review karein ki aapke aas-paas kya ho raha hai, sirf is par nahi ki aap vyaktigat taur par (personally) kya kar rahe hain.
+
+---
+
+**Challenges**
+
+- Is book ka draft review karte waqt, John Lakos ne ek sawal uthaya: Sipahi dhire-dhire gaaon walon ko dhoka dete hain, lekin jo badlav (change) wo laate hain wo sabke bhale ke liye hai. Lekin, medhak ko dhoka dekar aap uska nuksan kar rahe hain. Kya aap tai kar sakte hain ki jab aap badlav laane ki koshish karte hain toh aap "stone soup" bana rahe hain ya "frog soup"? Kya yeh faisla vyaktigat (subjective) hai ya nishpaksh (objective)?
+
+---
+
+### 4. Good-Enough Software
+
+> "Behtar ki talash mein, aksar hum usey bigad dete hain jo pehle se sahi hai."
+> (Striving to better, oft we mar what's well.)
+> — **King Lear 1.4**
+
+Ek purana joke hai ek U.S. company ke baare mein jo ek Japanese manufacturer ko 100,000 chips ka order deti hai. Specification mein defect rate ka zikr tha: 10,000 mein ek chip. Kuch hafton baad order aaya: ek bada box jisme hazaaron chips the, aur ek chhota box jisme sirf das chips the. Chhote box par ek label tha: "Yeh kharab (faulty) wale hain."
+
+Kash hamare paas quality par aisa control hota. Lekin asli duniya hamein kuch bhi bilkul perfect nahi banane deti, khaas kar bug-free software. Waqt (time), technology aur mizaaj (temperament) sab hamare khilaf saazish (conspire) karte hain.
+
+Halanki, isse nirash (frustrated) hone ki zaroorat nahi hai. Jaisa ki Ed Yourdon ne _IEEE Software_ ke ek article mein bataya, aap apne aap ko ek aisa software likhne ke liye anushasit (discipline) kar sakte hain jo "kaafi accha" (good enough) ho—aapke users ke liye, bhavishya ke maintainers ke liye, aur aapki apni mann ki shanti (peace of mind) ke liye. Aap payenge ki aap zyada productive hain aur aapke users zyada khush hain.
+
+Aage badhne se pehle, hamein ek baat saaf karni hogi. "Good enough" ka matlab laparwahi (sloppy) ya ghaitya tareeqe se banaya code nahi hai. Sabhi systems ko kamyab hone ke liye apne users ki requirements poori karni hoti hain. Hum bas is baat ki vakalat (advocating) kar rahe hain ki users ko is faisle mein shaamil kiya jaye ki kab aapka banaya hua kaam "good enough" hai.
+
+**Users ko Trade-Off mein shaamil karein (Involve Your Users in the Trade-Off)**
+
+Aam taur par aap dusre logon ke liye software likh rahe hote hain. Aksar aap unse requirements lena yaad rakhte hain. [2] Lekin kitni baar aap unse puchte hain ki wo apna software **kitna accha** chahte hain? Kabhi-kabhi koi raasta nahi hota. Agar aap pacemakers, space shuttle, ya kisi low-level library par kaam kar rahe hain jo bahut zyada faili hui hai, toh requirements bahut sakht (stringent) hongi aur aapke vikalp (options) mehdood (limited). Lekin, agar aap ek naye product par kaam rahe hain, toh constraints alag honge. Marketing walon ne kuch wade kiye honge, end users ne delivery schedule ke hisab se plans banaye honge, aur company par paise ke bahaav (cash-flow) ka dabav hoga. Yeh gair-peshevar (unprofessional) hoga agar aap in users ki requirements ko nazarandaz karein sirf naye features jodne ke liye ya code ko ek aur baar polish karne ke liye. Hum panic ki salah nahi de rahe: asambhav (impossible) time scales ka wada karna aur deadline meet karne ke liye basic engineering corners ko cut karna bhi utna hi unprofessional hai.
+
+> [2] Yeh ek joke tha!
+
+Aap jo system banate hain uska scope aur quality, us system ki requirements ka hissa honi chahiye.
+
+---
+
+> **Tip 7**
+> **Make Quality a Requirements Issue**
+> (Quality ko requirements ka ek hissa banayein)
+
+---
+
+Aksar aap aisi situations mein honge jahan trade-offs shaamil honge. Hairat ki baat yeh hai ki kai users multimedia version ke liye ek saal intezar karne ke bajaye _aaj_ thode rough edges wala software istemal karna pasand karenge. Tight budget wale kai IT departments isse sehmat honge. Kal ke perfect software se behtar aksar aaj ka "great software" hota hai. Agar aap apne users ko shuruat mein hi khelne ke liye kuch dete hain, toh unka feedback aksar aapko ek behtar antime samadhan (eventual solution) ki taraf le jayega.
+
+**Jaanein ki kab rukna hai (Know When to Stop)**
+
+Ek tarah se, programming painting ki tarah hai. Aap ek khaali canvas aur kuch basic kache maal (raw materials) se shuru karte hain. Aap vigyan (science), kala (art) aur karigari (craft) ke mel se tai karte hain ki unka kya karna hai. Aap ek dhancha (shape) banate hain, mahool (environment) paint karte hain, aur phir details bharte hain. Aap lagatar ek parakhne wali aankh (critical eye) se peeche hat kar apne kaam ko dekhte hain. Kabhi-kabaar aap canvas phek dete hain aur dobara shuru karte hain.
+
+Lekin artists aapko batayenge ki agar aapko pata nahi ki kab rukna hai, toh saari mehnat barbaad ho jati hai. Agar aap layer par layer, detail par detail jodte jayenge, toh **painting rangon mein kahin kho jayegi** (the painting becomes lost in the paint).
+
+Ek bilkul sahi bhale program ko bahut zyada sajaane (overembellishment) aur refinement se kharab mat karein. Aage badhein, aur apne code ko kuch waqt ke liye apne dum par rehne dein. Ho sakta hai wo perfect na ho. Chinta mat karein: wo kabhi perfect ho hi nahi sakta tha.
+
+---
+
+**Challenges**
+
+- Un software tools aur operating systems ke manufacturers ko dekhein jinhe aap use karte hain. Kya aapko koi saboot (evidence) milta hai ki yeh companies aisa software bhejne (shipping) mein comfortable hain jo unhe pata hai ki perfect nahi hai? Ek user ke nate, aap kya pasand karenge: (1) unke saare bugs nikalne ka intezar karna, (2) complex software lena aur kuch bugs qubool karna, ya (3) kam defects wala simple software chun-na?
+- Software delivery par modularization ke asar (effect) par gaur karein. Kya ek monolithic block (ek bada hissa) ko required quality tak pahunchane mein modules mein design kiye gaye system ke muqable zyada waqt lagega ya kam? Kya aapko commercial examples mil sakte hain?
+
+---
+
+### 5. Your Knowledge Portfolio
+
+> "Gyan (knowledge) mein kiya gaya nivesh (investment) hamesha sabse accha byaj (interest) deta hai."
+> — **Benjamin Franklin**
+
+Purane Ben Franklin—unke paas hamesha koi na koi sateek baat (pithy homily) hoti thi. Agar hum bas jaldi soyein aur jaldi uthein, toh kya hum mahan programmers ban jayenge? Shayad nahi. Lekin is maamle mein, Ben ne bilkul sahi nishana lagaya hai. Aapka gyan (knowledge) aur anubhav (experience) hi aapki sabse mahatvapurn peshevar sampatti (professional assets) hain.
+
+Afsos ki baat yeh hai ki, yeh **expiring assets** [3] hain. Jaise-jaise nayi techniques, languages, aur environments develop hote hain, aapka gyan purana (out of date) hota jata hai. Market ki badalti taqatein aapke anubhav ko bekar (obsolete) ya irrelevant bana sakti hain. Web-years ki raftaar ko dekhte hue, yeh bahut tezi se ho sakta hai.
+
+> [3] **Expiring asset** wo cheez hai jiski value waqt ke saath kam hoti jati hai. Examples: Kelon (bananas) se bhara warehouse ya kisi ball game ki ticket.
+
+Jaise-jaise aapke gyan ki value girti hai, company ya client ke liye aapki value bhi kam ho jati hai. Hum ise hamesha ke liye rokna chahte hain.
+
+**Aapka Knowledge Portfolio**
+
+Hum programmers ki computing ke baare mein jaankari, unke domains, aur unke anubhav ko unka **Knowledge Portfolio** mante hain. Ise manage karna bilkul ek financial portfolio ko manage karne jaisa hai:
+
+1. Gambhir niveshak (serious investors) niyamit roop se (regularly) invest karte hain—ek aadat (habit) ke taur par.
+2. Lambe samay ki kamyabi ke liye **vividhta (diversification)** mukhya hai.
+3. Samajhdaar niveshak apne portfolios ko conservative aur high-risk (high-reward) investments ke beech balance karte hain.
+4. Niveshak saste mein kharidne aur mehnge mein bechne (buy low, sell high) ki koshish karte hain.
+5. Portfolios ka samay-samay par review aur rebalance hona chahiye.
+
+Apne career mein kamyab hone ke liye, aapko isi tarah apne knowledge portfolio ko manage karna hoga.
+
+---
+
+**Portfolio Taiyar Karna (Building Your Portfolio)**
+
+- **Invest regularly:** Financial investing ki tarah hi, aapko apne knowledge portfolio mein niyamit roop se nivesh karna chahiye. Chahe wo chhota sa amount hi kyun na ho, aadat (habit) utni hi mahatvapurn hai jitna ki rashi (sum).
+- **Diversify:** Aap jitni alag-alag cheezein jaante honge, aap utne hi keemti (valuable) honge. Computing ka chehra tezi se badalta hai—aaj ki "hot" technology kal lagbhag bekar ho sakti hai. Aap jitni zyada technologies ke saath comfortable honge, badlav (change) ke saath utna hi behtar adjust kar payenge.
+- **Manage risk:** Technology ki range risky (potential high-reward) se lekar low-risk (low-reward) standards tak hoti hai. Saara paisa high-risk stocks mein lagana acchi baat nahi hai jo achanak doob sakte hain, aur na hi sab kuch conservative rakhna chahiye jisse aap mauke (opportunities) kho dein. Apne saare technical ande ek hi tokri (one basket) mein na rakhein.
+- **Buy low, sell high:** Kisi nayi technology ko uske popular hone se pehle seekhna utna hi rewarding ho sakta hai jitna kisi undervalued stock ko dhoondna. Java ko shuruat mein seekhna risky ho sakta tha, lekin un logo ko iska bada fayda mila jo aaj us field ke top par hain.
+- **Review and rebalance:** Yeh ek bahut hi dynamic industry hai. Jo "hot" technology aapne pichle mahine investigate ki thi, shayad ab thandi (stone cold) pad chuki ho. Shayad aapko purani database technology ko brush up karne ki zaroorat ho.
+
+In sabhi guidelines mein se, sabse mahatvapurn aur sabse aasaan yeh hai:
+
+---
+
+> **Tip 8**
+> **Invest Regularly in Your Knowledge Portfolio**
+> (Apne Knowledge Portfolio mein niyamit roop se nivesh karein)
+
+---
+
+**Lakshya (Goals)**
+
+Intellectual capital hasil karne ke liye yahan kuch sujhaav (suggestions) hain:
+
+- **Har saal kam se kam ek nayi language seekhein:** Alag languages ek hi problem ko alag tareeqon se solve karti hain. Isse aapki soch ka dayra (thinking) badhega aur aap ek hi purane dhang (rut) mein nahi phasenge.
+- **Har quarter ek technical book padhein:** Jab aadat ho jaye, toh mahine ki ek book padhein. Apne maujooda project se bahar ki technologies ko bhi study karein.
+- **Non-technical books bhi padhein:** Yaad rakhein ki computers logon (people) dwara istemal kiye jate hain—jinhe aap satisfy karne ki koshish kar rahe hain. Equation ke insani pehlu (human side) ko na bhoolein.
+- **Classes lein:** Local college ya university mein interesting courses dhoondein, ya kisi trade show mein jayein.
+- **User groups mein hissa lein:** Sirf sunne na jayein, balki active participation karein. Akelapan (isolation) career ke liye khatarnak ho sakta hai.
+- **Alag environments ke saath experiment karein:** Agar sirf Windows par kaam kiya hai, toh ghar par Unix/Linux try karein. Agar sirf IDE use karte hain, toh editor aur makefiles try karein.
+- **Stay current:** Naye developments se waqif rehne ke liye trade magazines aur journals padhein.
+- **Get wired:** Nayi language ya technology ki baarikiyan jaanne ke liye newsgroups aur internet ka sahara lein.
+
+Seekhte rehna zaroori hai. Jab aap kisi nayi cheez ke saath comfortable ho jayein, toh aage badhein. Ek aur seekhein.
+
+---
+
+**Seekhne ke Mauke (Opportunities for Learning)**
+
+Agar koi aapse sawal puche aur aapko jawab na pata ho, toh use wahi mat chhodein. Use ek **personal challenge** ki tarah lein. Guru se puchein, internet par search karein ya library jayein.
+
+Agar aap khud jawab nahi dhoond sakte, toh pata lagayein ki kaun dhoond sakta hai. Dusron se baat karne se aapka personal network banega aur shayad dusri problems ke samadhan (solutions) bhi mil jayein. Aur wo purana portfolio bada hota jayega....
+
+Is sab mein waqt lagta hai, isliye **plan ahead**. Intezar ke "dead moments" (doctor ya dentist ke yahan) mein padhne ke liye hamesha kuch saath rakhein.
+
+**Critical Thinking**
+
+Aakhiri mahatvapurn baat yeh hai ki jo bhi aap padhein ya sunein, us par **critically** sochein. Dhyaan rakhein ki aapka gyan accurate ho aur vendor ya media ke hype se mutasir (unswayed) na ho. Un logon (zealots) se bachein jo kehte hain ki unka tareeqa hi "akela" (only) jawab hai.
+
+Commercialism ki taqat ko kam na samjhein. Web search mein pehla result aane ka matlab yeh nahi ki wo best match hai; provider ne top par aane ke liye paise diye ho sakte hain.
+
+---
+
+> **Tip 9**
+> **Critically Analyze What You Read and Hear**
+> (Jo bhi padhein ya sunein, uska critical analysis karein)
+
+---
+
+#### Care and Cultivation of Gurus (Gurus ki Dekhbhal)
+
+Internet ke saath, gurus ab sirf ek "Enter" key ki doori par hain. Unhe kaise dhoondein aur unse baatchit kaise shuru karein?
+
+- **Sawal sateek (specific) rakhein:** Jaaniye ki aap kya puchna chahte hain.
+- **Polite rahein:** Yaad rakhein aap ek favor maang rahe hain; hukum (demand) na chalayein.
+- **Pehle khud dhoondein:** Sawal puchne se pehle FAQs aur web search check karein.
+- **Public vs Private:** Tai karein ki Usenet/Groups mein puchna hai ya direct e-mail karna hai. Subject line hamesha meaningful rakhein ("Need Help!!!" kaam nahi karega).
+- **Sabr (patience) rakhein:** Log busy hote hain, jawab aane mein din lag sakte hain.
+- **Shukriya (thanks) kahein:** Response dene wale ka hamesha dhanyawad karein.
+
+---
+
+**Challenges**
+
+- Isi hafte ek nayi language seekhna shuru karein. Agar C++ karte hain, toh Smalltalk ya Squeak try karein. Java karte hain, toh Eiffel ya TOM dekhein.
+- Ek nayi book padhna shuru karein (lekin pehle ise khatam karein!). Agar aap implementation karte hain, toh design par book padhein.
+- Apne project se bahar ke logon se technology par baat karein. Company cafeteria ya local user group meetings mein network banayein.
+
+---
+
+### 6. Communicate!
+
+> "Mera manna hai ki nazar-andaz (overlooked) kiye jaane se behtar hai ki aap par nazar rakhi jaye (looked over)."
+> — **Mae West, Belle of the Nineties, 1934**
+
+Shayad hum Ms. West se ek sabak (lesson) seekh sakte hain. Sirf yeh mahatvapurn nahi hai ki aapke paas kya hai, balki yeh bhi ki aap use kaise pesh (package) karte hain. Behtareen ideas, sabse umda code, ya sabse pragmatic soch tab tak be-asar (sterile) hai jab tak aap dusron ke saath samvaad (communicate) nahi kar sakte. Ek accha idea bina effective communication ke ek anaath (orphan) ke saman hai.
+
+Developers ke taur par, hamein kai levels par communicate karna padta hai. Hum meetings mein ghanton bitate hain, sunte aur baat karte hain. Hum end users ke saath kaam karte hain, unki zarooraton (needs) ko samajhne ki koshish karte hain. Hum code likhte hain, jo hamari niyat (intentions) ko ek machine tak pahunchata hai aur bhavishya ke developers ke liye hamari soch ko document karta hai. Hum proposals aur memos likhte hain taaki resources ko justify kar sakein, status report kar sakein, aur naye tareeqe sujha sakein. Aur hum rozana apni teams ke andar apne ideas ki vakalat (advocate) karte hain. Hamara din ka ek bada hissa samvaad mein beetta hai, isliye hamein ise acche se karna chahiye.
+
+Humne un ideas ki ek list taiyar ki hai jo hamein useful lagte hain.
+
+**Jaaniye ki aap kya kehna chahte hain (Know What You Want to Say)**
+
+Business mein istemal hone wale formal communication styles ka sabse mushkil hissa shayad yeh tai karna hai ki aap asal mein kehna kya chahte hain. Kahanikar (fiction writers) shuruat se pehle apni kitabon ka poora plot taiyar karte hain, lekin technical documents likhne wale aksar keyboard par baith kar "1. Introduction" likhte hain aur jo mann mein aaye type karne lagte hain.
+
+Yojna (plan) banayein ki aap kya kehna chahte hain. Ek outline taiyar karein. Phir khud se puchein, "Kya yeh wo baat pahuncha raha hai jo main kehna chahta hoon?" Ise tab tak sudharein (refine) jab tak wo sahi na ho jaye.
+
+Yeh approach sirf documents likhne tak mehdood (applicable) nahi hai. Jab aap kisi mahatvapurn meeting ya kisi bade client ke saath phone call ka samna karein, toh un ideas ko jot down (likh) lein jinhe aap communicate karna chahte hain, aur unhe samjhane ke liye kuch strategies plan karein.
+
+**Apne Audience ko Jaanein (Know Your Audience)**
+
+Aap tabhi communicate kar rahe hain jab aap jankari (information) pahuncha rahe hon. Aisa karne ke liye, aapko apne audience ki zarooraton, ruchi (interests), aur kshamtaon (capabilities) ko samajhna hoga. Hum sab aisi meetings mein baithe hain jahan ek development "geek" marketing ke VP ko kisi gupt (arcane) technology par lambe bhashan se paka deta hai. Yeh communication nahi hai: yeh sirf baatein karna hai, aur yeh kaafi chid-chidahat bhara (annoying) hota hai. [5]
+
+> [5] "Annoy" shabd purane French shabd _enui_ se aaya hai, jiska arth "bore karna" bhi hota hai.
+
+Apne audience ki ek mazboot mansik tasveer (mental picture) banayein. **WISDOM** acrostic isme aapki madad kar sakta hai:
+
+#### **The WISDOM Acrostic — Understanding an Audience**
+
+| Letter | Keyword            | Meaning                                                           |
+| ------ | ------------------ | ----------------------------------------------------------------- |
+| **W**  | **What**           | Unhe kya chahiye? (What do they want?)                            |
+| **I**  | **Interest**       | Isme unka kya fayda hai? (What is their interest?)                |
+| **S**  | **Sophistication** | Wo kitne samajhdaar/technical hain? (How sophisticated are they?) |
+| **D**  | **Detail**         | Unhe kitni bariki (detail) chahiye?                               |
+| **O**  | **Ownership**      | Is par kiska adhikaar/control hai? (Who owns the information?)    |
+| **M**  | **Mindset**        | Unka mizaj ya soch kaisi hai? (What is their mindset?)            |
+
+Maan lijiye aap apne end users ko bug reports submit karne ke liye ek Web-based system ka sujhaav (suggest) dena chahte hain. Aap is system ko apne audience ke hisab se alag-alag tareeqon se pesh kar sakte hain:
+
+- **End users** khush honge ki wo 24 ghante bug reports submit kar sakte hain bina phone par intezar kiye.
+- **Marketing department** iska istemal sales badhane (boost sales) ke liye kar sakega.
+- **Support department ke managers** isliye khush honge kyunki staff ki kam zaroorat hogi aur process automate ho jayega.
+- **Developers** naye database engine aur Web technology ke saath anubhav (experience) hasil karne ka maza lenge.
+
+Har group ke hisab se apni baat pesh (pitch) karke, aap un sabhi ko apne project ke liye utshahit (excited) kar sakte hain.
+
+**Sahi Mauka Chunein (Choose Your Moment)**
+
+Friday ki shaam ke 6 baje hain, poora hafta auditors ke saath beeta hai. Aapke boss ka sabse chhota bacha hospital mein hai, bahar tez baarish ho rahi hai, aur ghar jane ka rasta (commute) ek nightmare hone wala hai. Yeh shayad sahi waqt nahi hai unse apne PC ke liye memory upgrade maangne ka.
+
+Audience ki zaroorat samajhne ke saath-saath, aapko yeh bhi jaanna hoga ki unki prathmiktaein (priorities) kya hain. Kisi manager ko tab pakdein jab uske boss ne use source code khone par dant pilayi ho, toh wo source code repositories par aapke ideas ko zyada dhyan se sunegi. Apni baat ko waqt (time) aur vishay (content) dono ke hisab se relevant banayein. Kabhi-kabaar sirf ek simple sawal puchna hi kaafi hota hai: "Kya yeh ... ke baare mein baat karne ka sahi waqt hai?"
+
+**Style Chunein (Choose a Style)**
+
+Apne delivery style ko audience ke hisab se adjust karein. Kuch log formal "sirf facts" wali briefing chahte hain. Kuch logon ko kaam ki baat shuru karne se pehle lambi baatchit pasand hoti hai. Written documents mein, kuch ko badi bound reports pasand hain, toh kuch ko simple memo ya e-mail. Agar shak (doubt) ho, toh puch lein.
+
+Yaad rakhein ki communication transaction mein aap aadha hissa hain. Agar koi kahe ki unhe kisi cheez ka ek paragraph description chahiye aur aapko lagta hai ki ise kai pages ke bina nahi samjhaya ja sakta, toh unhe batayein. Yeh feedback bhi communication ka ek roop hai.
+
+**Ise Accha Dikhayein (Make It Look Good)**
+
+Aapke ideas mahatvapurn hain. Unhe apne audience tak pahunchane ke liye ek acche dikhne wale vahan (vehicle/presentation) ki zaroorat hai.
+
+Bahut se developers (aur unke managers) likhte waqt sirf content par dhyan dete hain. Hamare hisab se yeh ek galti hai. Koi bhi chef aapko batayega ki aap kitchen mein ghanton mehnat kar sakte hain, lekin galti presentation se aapki saari koshish barbaad ho sakti hai.
+
+Aaj ke zamane mein ghaitya dikhne wale printed documents banane ka koi bahana (excuse) nahi hai. Modern word processors aur layout systems (jaise LaTeX) behtareen output de sakte hain. Style sheets ka istemal karein, headers aur footers set karna seekhein. **Spellings check karein**, pehle automatically aur phir khud dhyan se. Aakhirkar, aisi spelling mistakes (miss steaks) bhi hoti hain jinhe checker nahi pakad (knot ketch) sakta.
+
+**Audience ko Shaamil karein (Involve Your Audience)**
+
+Aksar hum paate hain ki jo documents hum banate hain, wo unhe banane ke process se kam mahatvapurn hote hain. Agar mumkin ho, toh apne readers ko document ke shuruati drafts mein shaamil karein. Unka feedback lein aur unki rai (brains) lein. Isse aap ek accha working relationship banayenge aur process mein ek behtar document taiyar hoga.
+
+**Ek Shrota (Listener) Baniye (Be a Listener)**
+
+Ek technique hai jo aapko zaroor istemal karni chahiye agar aap chahte hain ki log aapko sunein: **unhe suniye (listen to them).** Chahe aapke paas saari jankari ho, chahe aap 20 logon ke saamne khade hon—agar aap unhe nahi sunenge, toh wo aapko nahi sunenge.
+
+Sawal puch kar logon ko baat karne ke liye protsahit (encourage) karein, ya unse kahein ki jo aapne bataya hai uska saar (summarize) karein. Meeting ko ek samvaad (dialog) mein badlein, aur aap apni baat zyada prabhavshali (effectively) tareeqe se keh payenge. Kya pata, shayad aap bhi kuch seekh jayein.
+
+**Logon ko Jawab Dein (Get Back to People)**
+
+Agar aap kisi se sawal puchte hain aur wo jawab nahi dete, toh aapko bura lagta hai. Lekin kitni baar aap logon ko jawab dene mein nakamyab rehte hain jab wo aapko e-mail ya memo bhejte hain? Rozana ki bhag-daur mein bhoolna aasaan hai. E-mails aur voice mails ka hamesha jawab dein, chahe wo sirf "Main aapko baad mein batata hoon" hi kyun na ho. Logon ko informed rakhne se wo aapki chhoti-moti chook (slip) ko maaf kar dete hain aur unhe lagta hai ki aap unhe bhoole nahi hain.
+
+---
+
+> **Tip 10**
+> **It's Both What You Say and the Way You Say It**
+> (Yeh dono mahatvapurn hain: aap kya kehte hain aur kaise kehte hain)
+
+---
+
+Jab tak aap akele (vacuum mein) kaam nahi karte, aapko communicate karne ki koshish karni hogi. Jitna prabhavshali (effective) wo samvaad hoga, utne hi prabhavshali (influential) aap banenge.
+
+#### **E-Mail Communication**
+
+Likhit samvaad (written communication) ke baare mein humne jo kuch bhi kaha hai, wo e-mail par bhi apply hota hai. E-mail aaj corporate communication ka mukhya hissa ban chuka hai. Lekin kuch wajah se, jo log kabhi ghaitya paper document nahi bhejenge, wo duniya bhar mein ganda-dikhne wala (nasty-looking) e-mail bhej dete hain.
+
+Hamari e-mail tips simple hain:
+
+- Bhejne se pehle proofread karein.
+- Spelling check karein.
+- Format simple rakhein.
+- Rich-text ya HTML tabhi use karein jab aapko pata ho ki recipient use padh sakta hai. Plain text universal hai.
+- Quoting ko kam se kam rakhein.
+- Agar dusron ko quote kar rahe hain, toh unka naam (attribute) zaroor dein.
+- Gusse mein aakar "flame" mail na bhejein.
+- Bhejne se pehle recipients ki list check karein.
+- Apne e-mails ko archive aur organize karein.
+
+Jaise ki 1999 mein Department of Justice ki investigation ke dauran pata chala, **e-mail hamesha ke liye rehta hai (e-mail is forever).** Ise bhi utni hi tawajjo (attention) aur dhyan dein jitna kisi written memo ko dete hain.
+
+---
+
+**Summary (Samvaad ka Saar)**
+
+- Jaaniye ki kya kehna hai.
+- Audience ko samjhein (WISDOM).
+- Mauka (moment) sahi chunein.
+- Style adjust karein.
+- Presentation acchi rakhein (Make it look good).
+- Audience ko shaamil karein.
+- Acche listener baniye.
+- Logon ko reply zaroor karein.
+
+---
+
+**Challenges**
+
+- Agli baar jab aap koi presentation dein ya koi memo likhein, toh **WISDOM** acrostic (page 20) par kaam karne ki koshish karein. Dekhein ki kya yeh aapki baat ko sahi tareeqe se pesh karne mein madad karta hai. Baad mein apne audience se baat karke dekhein ki unki zarooraton ka aapka andaza (assessment) kitna sateek tha.
+
