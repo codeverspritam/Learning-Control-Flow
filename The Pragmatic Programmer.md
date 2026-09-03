@@ -2641,3 +2641,61 @@ Bhale hi aapko waqayi performance issues aa rahe hon, toh sirf un assertions ko 
 6. Java mein: `(a + 1) <= a`
 
 **20.** Java ke liye ek simple assertion checking class develop karein.
+
+#### 24. When to Use Exceptions (Exceptions Ka Istemal Kab Karein)
+
+*Dead Programs Tell No Lies* (page 120) mein, humne sujhaav diya tha ki har mumkin error—khaas taur par an-chahi (unexpected) errors—ko check karna ek acchi aadat (good practice) hai. Halanki, aam taur par (in practice) isse code kaafi badsurat (ugly) ho sakta hai; aapke program ka normal logic error handling ke peeche poori tarah chhup (obscured) sakta hai, khaas kar agar aap "ek routine mein sirf ek return statement hona chahiye" wali soch ko maante hain (hum nahi maante). Humne aisa code dekha hai jo kuch is tarah lagta hai:
+
+Khush-kismati se, agar programming language exceptions ko support karti hai, toh aap is code ko kahin zyada saaf tareeqe (far neater way) se dobara likh sakte hain:
+
+Control ka normal flow ab saaf hai, aur saari error handling ek hi jagah par move kar di gayi hai.
+
+**Exceptional (Asadharan) Kya Hai?**
+
+Exceptions ke saath ek problem yeh jaanna hai ki unka istemal kab karna hai. Hamara manna hai ki exceptions ka istemal program ke normal flow ke hisse ke roop mein shayad hi kabhi (rarely) hona chahiye; exceptions ko un-expected (an-chahi) ghatnaon ke liye reserve rakhna chahiye. Yeh maan lijiye ki ek uncaught exception aapke program ko rok (terminate) dega aur khud se puchein, "Agar main saare exception handlers hata doon, toh kya yeh code phir bhi chalega?" Agar iska jawab "nahi" hai, toh shayad exceptions ka istemal samanya (nonexceptional) halaat mein kiya ja raha hai.
+
+Misaal ke taur par, agar aapka code padhne (reading) ke liye ek file open karne ki koshish karta hai aur wo file maujood (exist) nahi hai, toh kya exception raise karni chahiye?
+
+Hamara jawab hai, "Yeh halaat par nirbhar karta hai (It depends)." Agar file wahan *honi* chahiye thi, toh exception dena banta (warranted) hai. Kuch an-chaha hua hai—ek aisi file jiske hone ki aap umeed kar rahe the, lagta hai gayab ho gayi hai. Dusri taraf, agar aapko koi andaza nahi hai ki file wahan honi chahiye ya nahi, toh uske na milne par yeh kuch exceptional (asadharan) nahi lagta, aur wahan ek error return karna zyada munasib (appropriate) hai.
+
+Aaiye pehle case ka ek udaharan dekhte hain. Neeche diya gaya code `/etc/passwd` file open karta hai, jise sabhi Unix systems par maujood hona chahiye. Agar yeh fail hota hai, toh yeh apne caller ko `FileNotFoundException` pass kar deta hai.
+
+Halanki, dusre case mein command line par user dwara batayi gayi kisi file ko open karna shaamil ho sakta hai. Yahan exception dena sahi nahi banta, aur code kuch alag lagta hai:
+
+Dhyan dein ki `FileInputStream` call abhi bhi ek exception generate kar sakti hai, jise routine aage pass kar deta hai. Halanki, yeh exception sirf sachmuch exceptional (asadharan) halaat mein hi generate hogi; bas kisi aisi file ko open karne ki koshish karna jo maujood nahi hai, ek conventional (aam) error return generate karega.
+
+---
+
+> **Tip 34**
+> **Use Exceptions for Exceptional Problems**
+> (Exceptional Problems Ke Liye Exceptions Ka Istemal Karein)
+
+---
+
+Hum exceptions ke liye is approach ka sujhaav kyun dete hain? Darasal, ek exception control ke turant (immediate), nonlocal (door ke) transfer ko darshati hai—yeh ek tarah ka cascading `goto` hai. Jo programs exceptions ka istemal apni normal processing ke hisse ke roop mein karte hain, wo classic spaghetti code ki readability (padhne-layak hone) aur maintainability ki saari problems se joojhte hain. Yeh programs encapsulation ko todte hain: routines aur unke callers exception handling ke zariye bahut tightly couple (jud) jate hain.
+
+**Error Handlers Ek Vikalp (Alternative) Hain**
+
+Ek error handler ek routine hota hai jise kisi error ke detect hone par call kiya jata hai. Aap errors ki kisi khaas category ko handle karne ke liye ek routine register kar sakte hain. Jab unmein se koi error aati hai, toh handler ko call kiya jayega.
+
+Aise waqt hote hain jab aap error handlers ka istemal karna chahenge, ya toh exceptions ki jagah ya unke saath. Zahir hai, agar aap C jaisi language ka istemal kar rahe hain, jo exceptions ko support nahi karti, toh yeh aapke paas maujood kuch vikalpon mein se ek hai (agle page par challenge dekhein). Halanki, kabhi-kabhi error handlers ka istemal un languages (jaise Java) mein bhi kiya ja sakta hai jinme ek acchi exception handling scheme built-in hoti hai.
+
+Java ki Remote Method Invocation (RMI) suvidha ka istemal karte hue, ek client-server application ke implementation par vichar karein. Jis tareeqe se RMI implement kiya gaya hai, kisi remote routine ki har call ko `RemoteException` handle karne ke liye taiyar rehna chahiye. In exceptions ko handle karne ke liye code jodhna ubaau (tedious) ho sakta hai, aur iska matlab hai ki aisa code likhna mushkil hai jo local aur remote dono routines ke saath kaam kare. Iska ek mumkin hal (work-around) apne remote objects ko ek aisi class mein wrap karna (lapetna) hai jo remote nahi hai. Yeh class phir ek error handler interface implement karti hai, jo client code ko ek aisa routine register karne deta hai jise remote exception detect hone par call kiya ja sake.
+
+**Related sections include:**
+
+* Dead Programs Tell No Lies, page 120
+
+**Challenges (Chunautiyan)**
+
+* Aisi languages jo exceptions ko support nahi karti, unme aksar control ko transfer karne ka koi aur nonlocal mechanism hota hai (misaal ke taur par, C mein `longjmp/setjmp` hota hai). Vichar karein ki aap in suvidhaon ka istemal karke kisi tarah ka nakli (ersatz) exception mechanism kaise implement kar sakte hain. Iske fayde aur khatre (dangers) kya hain? Yeh pakka karne ke liye aapko kaunse khaas kadam uthane ki zaroorat hai ki resources akele (orphaned) na chhoot jayein? Jab bhi aap C mein code karte hain, toh kya is tarah ka samadhan istemal karna samajhdaari hai?
+
+**Exercises (Abhyaas)**
+
+**21.** Ek nayi container class design karte waqt, aap neeche di gayi mumkin error conditions ko identify karte hain:
+
+1. `add` routine mein naye element ke liye koi memory available na hona.
+2. `fetch` routine mein maangi gayi (requested) entry ka na milna.
+3. `add` routine ko `null` pointer pass kiya jana.
+
+Har ek ko kaise handle kiya jana chahiye? Kya ek error generate karni chahiye, kya koi exception raise karni chahiye, ya phir condition ko ignore kar dena chahiye?
