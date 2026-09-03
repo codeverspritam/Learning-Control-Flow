@@ -1037,3 +1037,517 @@ Aur, agar aap helicopter pilot hain, toh machhli mat khaiye....
 1. Aap ek `Split` class likh rahe hain jo lines ko fields mein baant-ti hai. Kaunsa signature zyada orthogonal hai? (Ek jo constructor mein `InputStream` leta hai, ya ek jiska method sirf `String` leta hai?)
 2. Modal vs Modeless dialog boxes: Kaunsa zyada orthogonal design dega?
 3. Procedural languages vs Object technology: Kaunsa system zyada orthogonal results deta hai?
+
+### 9. Reversibility (Palatne ki Kshamta)
+
+> "Ek idea se zyada khatarnak (dangerous) aur kuch nahi hai agar wo akela hi idea hai jo aapke paas hai."
+> — **Emil-Auguste Chartier, Propos sur la religion, 1938**
+
+Engineers problems ke liye simple aur single solutions pasand karte hain. Math tests jahan aap poore atma-vishwas (confidence) ke saath proclaim kar sakte hain ki $x = 2$, wo un dhundli (fuzzy) aur garm-joshi (warm) bhari essays se zyada aaram-dayak (comfortable) hote hain jo French Revolution ke hazaron kaaranon (myriad causes) ke baare mein hote hain. Management bhi engineers se sehmat (agree) hota hai: single aur asaan jawab spreadsheets aur project plans par sahi fit baithte hain.
+
+Kaash asli duniya bhi sahyog (cooperate) karti! Afsos (unfortunately), halanki $x$ aaj 2 hai, ho sakta hai kal use 5 hona pade, aur agle hafte 3. Kuch bhi hamesha ke liye (forever) nahi hai—aur agar aap kisi fact par bahut zyada nirbhar (rely) karte hain, toh aap lagbhag guarantee de sakte hain ki wo badal (change) jayega.
+
+Kisi cheez ko implement karne ka hamesha ek se zyada tareeqa hota hai, aur aam taur par koi third-party product dene ke liye ek se zyada vendor available hote hain. Agar aap kisi project mein is tang nazariya (myopic notion) ke saath jate hain ki ise karne ka sirf **ek** hi rasta hai, toh aapko ek na-pasandida (unpleasant) hairani (surprise) mil sakti hai. Jaise-jaise bhavishya (future) saamne aata hai, kai project teams ki aankhein zabardasti (forcibly) khul jati hain:
+
+> "Lekin aapne kaha tha ki hum database XYZ istemal karenge! Humne project ki coding 85% poori kar li hai, hum ab badal nahi sakte!" programmer ne virodh (protested) kiya.
+> "Maaf karna, lekin hamari company ne ab saare projects ke liye database PDQ ko manak (standardize) banane ka faisla kiya hai. Yeh mere haath mein nahi hai. Hamein bas dobara code (recode) karna hoga. Aap sabhi agle notice tak weekends par kaam karenge."
+
+Badlav (changes) itne sakht (draconian) ya itne turant (immediate) hona zaroori nahi hain. Lekin jaise-jaise waqt beet-ta hai, aur aapka project aage badhta hai, aap apne aap ko ek na-sahne-yogya (untenable) sthiti (position) mein phasa hua pa sakte hain. Har kritikal (critical) faisle ke saath, project team ek chhote target ki taraf badhti hai—asliyat ka ek tang (narrower) roop jisme vikalp (options) kam hote hain.
+
+Jab tak kai kritikal (critical) faisle le liye jate hain, target itna chhota ho jata hai ki agar wo zara sa hila, ya hawa ne rukh badla, ya Tokyo mein kisi titli (butterfly) ne apne pankh phadphadaye (flaps its wings), toh aap chook (miss) jate hain. [4] Aur aap shayad ek bahut bade antar (huge amount) se chook jayein.
+
+> [4] Ek nonlinear, ya chaotic system lein aur uske kisi ek input mein chhota sa badlav karein. Aapko ek bada aur aksar an-dekha (unpredictable) nateeja (result) mil sakta hai. Tokyo mein titli ka pankh phadphadana un ghatnaon ki kadi (chain of events) ki shuruat ho sakti hai jiska anjam (ends up) Texas mein ek toofan (tornado) paida karna ho. Kya yeh kisi aise project jaisa lagta hai jise aap jaante hain?
+
+Samasya (problem) yeh hai ki kritikal (critical) faisle asani se palte (reversible) nahi ja sakte. Ek baar jab aapne kisi vendor ka database, ya wo architectural pattern, ya koi khaas deployment model (jaise client-server vs standalone) chunne ka faisla kar liya, toh aap kaam karne ke us raste par nikal chuke hain jise bina bade kharche (great expense) ke badla (undone) nahi ja sakta.
+
+---
+
+#### **Reversibility**
+
+Is book ke bahut se topics lachile (flexible) aur anukoolan-shil (adaptable) software banane ke liye banaye gaye hain. Unki recommendations par tike rehne se—khaas kar _DRY_ principle (page 26), decoupling (page 138), aur metadata (page 144) ka istemal—hamein utne kritikal aur na-palte-jane-wale (irreversible) faisle nahi lene padte. Yeh ek acchi cheez hai, kyunki hum hamesha pehli baar mein sabse acche faisle nahi lete. Hum kisi khaas technology ko chun lete hain sirf yeh dekhne ke liye ki hum zaroori skills wale paryapt (enough) logon ko hire nahi kar paa rahe. Hum kisi third-party vendor ko tab lock kar dete hain jab wo apne prati-dvandi (competitor) dwara kharid liye (bought out) jane wale hote hain. Requirements, users, aur hardware hamare software develop karne ki raftaar se zyada tezi se badalte hain.
+
+Maan lijiye aap project ke shuruat mein vendor A ka relational database istemal karne ka faisla karte hain. Kaafi baad mein, performance testing ke dauran, aapko pata chalta hai ki database bahut slow hai, lekin vendor B ka object database zyada tez hai. Zyada-tar purane (conventional) projects ke saath, aapki kismat kharab hoti. Aksar, third-party products ki calls poore code mein phasi (entangled) hoti hain. Lekin agar aapne database ke idea ko sahi mein abstract kiya hota—is hadd tak ki wo sirf ek persistence service provide kar raha hai—toh aapke paas beech raste mein ghode badalne (change horses in midstream) ki lachakata (flexibility) hoti.
+
+Isi tarah, sochiye ki project ek client-server model ke roop mein shuru hota hai, lekin baad mein marketing tai karti hai ki servers kuch clients ke liye bahut mehnge hain, aur unhe ek stand-alone version chahiye. Yeh aapke liye kitna mushkil hoga? Kyunki yeh sirf ek deployment ka masla hai, _isme kuch dino se zyada waqt nahi lagna chahiye._ Agar isme zyada waqt lag raha hai, toh aapne reversibility ke baare mein nahi socha hai. Dusri taraf ka rasta aur bhi dilchasp (interesting) hai. Kya hoga agar aap jo stand-alone product bana rahe hain use client-server ya _n_-tier fashion mein deploy karne ki zaroorat pade? _Yeh bhi mushkil nahi hona chahiye._
+
+Galti is baat ko maanne mein hai ki koi bhi faisla patthar ki lakeer (cast in stone) hai—aur un akasmitayon (contingencies) ke liye taiyar na rehna jo saamne aa sakti hain. Faislon ko patthar mein tarashne (carving) ke bajaye, unhe samundar ke kinare (beach) ret (sand) par likha hua samjhein. Ek badi lehar (wave) kabhi bhi aa sakti hai aur unhe mita (wipe out) sakti hai.
+
+> **Tip 14**
+> **There Are No Final Decisions**
+> (Koi bhi faisla aakhiri nahi hota)
+
+---
+
+#### **Flexible Architecture (Lachila Architecture)**
+
+Halanki bahut se log apne _code_ ko lachila (flexible) rakhne ki koshish karte hain, aapko architecture, deployment, aur vendor integration ke kshetron (areas) mein bhi lachakata (flexibility) banaye rakhne ke baare mein sochna chahiye.
+
+Technologies jaise ki CORBA project ke kuch hisson ko development language ya platform mein hone wale badlavon se surakshita (insulate) rakhne mein madad kar sakti hain. Kya us platform par Java ki performance umeedon (expectations) ke mutabik nahi hai? Client ko C++ mein dobara code karein, aur kuch bhi badalne ki zaroorat nahi padegi. Kya C++ mein rules engine paryapt lachila (flexible) nahi hai? Smalltalk version par switch kar jayein. Ek CORBA architecture ke saath, aapko sirf us component ka nuksan (hit) uthana padta hai jise aap badal rahe hain; baaki components mutasir (affected) nahi hone chahiye.
+
+Kya aap Unix ke liye develop kar rahe hain? Kaunsa wala? Kya aapne portability ki saari chintaon (concerns) ko sambhal (addressed) liya hai? Kya aap Windows ke kisi khaas version ke liye develop kar rahe hain? Kaunsa—3.1, 95, 98, NT, CE, ya 2000? Dusre versions ko support karna kitna mushkil hoga? Agar aap faislon ko narm (soft) aur lachila (pliable) rakhte hain, toh yeh bilkul bhi mushkil nahi hoga. Agar aapka encapsulation bura hai, coupling bahut zyada (high) hai, aur code mein hard-coded logic ya parameters hain, toh yeh asambhav (impossible) ho sakta hai.
+
+Pata nahi marketing system ko kaise deploy karna chahti hai? Iske baare mein pehle (up front) hi soch lijiye aur aap sirf ek configuration file badal kar stand-alone, client-server, ya _n_-tier model ko support kar sakte hain. Humne aise programs likhe hain jo bilkul yahi karte hain.
+
+Aam taur par, aap kisi third-party product ko ek sahi se define kiye gaye abstract interface ke peeche chhupa sakte hain. Asal mein, hum hamesha kisi bhi project par aisa karne mein kamyab rahe hain jis par humne kaam kiya hai. Lekin sochiye ki aap ise itne saaf tareeqe se alag (isolate) nahi kar paaye. Kya hoga agar aap poore code mein jagah-jagah kuch statements dalne (sprinkle) padein? Us requirement ko metadata mein rakhein, aur kisi automatic mechanism ka istemal karein, jaise Aspects (page 39) ya Perl, taaki zaroori statements ko code mein insert kiya ja sake. Aap jo bhi mechanism istemal karein, _use reversible banayein._ Agar koi cheez automatically jodi (added) gayi hai, toh use automatically nikaala (taken out) bhi ja sakta hai.
+
+Koi nahi jaanta ki bhavishya (future) mein kya hone wala hai, khaas kar hum! Isliye apne code ko rock-n-roll ke layak banayein: jab ho sake toh "rock on" karein, aur jab zaroorat pade toh halaat ke saath dhal (roll with the punches) jayein.
+
+**Related sections include:**
+
+- Decoupling and the Law of Demeter, page 138
+- Metaprogramming, page 144
+- It’s Just a View, page 157
+
+---
+
+#### **Challenges (Chunautiyan)**
+
+Waqt hai Schrödinger ki billi (cat) ke saath thodi quantum mechanics ka. Maan lijiye aapke paas ek band box mein ek billi hai, saath mein ek radioactive particle hai. Particle ke do hisson mein tootne (fissioning) ka thik 50% chance hai. Agar aisa hota hai, toh billi mar jayegi. Agar nahi, toh billi theek rahegi. Toh, kya billi zinda hai ya mari hui? Schrödinger ke mutabik, sahi jawab hai **dono**. Har baar jab ek sub-nuclear reaction hota hai jiske do mumkin nateejey (possible outcomes) hote hain, toh universe clone ho jata hai. Ek mein wo ghatna (event) hui, dusre mein nahi. Billi ek universe mein zinda hai, dusre mein mari hui. Sirf jab aap box kholte hain tab aapko pata chalta hai ki aap kaunse universe mein hain.
+
+Ismein koi hairani (wonder) nahi ki bhavishya (future) ke liye coding karna mushkil hai.
+
+Lekin code ke vikas (evolution) ko Schrödinger ki billiyon se bhare box ki tarah samjhein: har faisla bhavishya ke ek alag version mein badal jata hai. Aapka code bhavishya ke kitne mumkin (possible) versions ko support kar sakta hai? Kaunse zyada hone layak (likely) hain? Waqt aane par unhe support karna kitna mushkil hoga?
+
+Kya aap box kholne ki himmat (dare) karenge?
+
+### **10. Tracer Bullets**
+
+> _Ready, fire, aim..._
+
+Andhere mein machine gun chalane ke do tareeqe ho sakte hain. [5] Pehla yeh ki aap pata lagayein ki aapka nishana (target) kahan hai—uska range, elevation, aur azimuth kya hai. Aap mahaul (environmental conditions) check karein—jaise temperature, nammi (humidity), hawa ka dabav (air pressure), hawa ki raftaar, ityadi. Aap bullets ki barikiyaan (specifications) aur gun ke saath unke interaction ka sahi andaza laga sakte hain. Phir aap firing computer ka istemal karke barrel ka sahi angle calculate karein. Agar sab kuch thik waisa hi raha jaisa tables mein likha hai aur mahaul nahi badla, toh aapki goli target ke paas girni chahiye.
+
+> [5] Agar baarik-bin (pedantic) hon, toh andhere mein machine gun chalane ke kai tareeqe hain, jaise aankhein band karke bullets barsana. Lekin yeh ek misaal (analogy) hai, aur hamein thodi azadi (liberties) lene ka haq hai.
+
+Ya phir aap **Tracer Bullets** ka istemal kar sakte hain.
+
+Tracer bullets ko ammo belt par regular ammunition ke beech-beech mein set kiya jata hai. Jab unhe fire kiya jata hai, toh unka phosphorus jal uthta hai aur gun se lekar target tak ek chamakti hui lakeer (pyrotechnic trail) chhodta hai. Agar tracers target ko hit kar rahe hain, toh iska matlab hai ki regular goliyaan bhi wahi ja rahi hain.
+
+Hairat ki baat nahi hai ki calculation ki mehnat ke muqable tracer bullets ko zyada pasand (preferred) kiya jata hai. Iska feedback turant (immediate) milta hai, aur kyunki wo usi environment mein kaam karte hain jahan asli ammunition, isliye bahari asar (external effects) kam ho jate hain.
+
+Yeh misaal (analogy) shayad thodi hinsa-atmak (violent) lage, lekin yeh naye projects par apply hoti hai, khaas kar tab jab aap kuch aisa bana rahe hon jo pehle kabhi nahi banaya gaya. Gunners ki tarah, aap bhi andhere mein nishana lagane ki koshish kar rahe hain. Kyunki aapke users ne aisa system pehle kabhi nahi dekha, isliye unki zarooratein (requirements) dhundli (vague) ho sakti hain. Kyunki aap shayad aise algorithms, techniques, ya libraries istemal kar rahe hon jinse aap waqif (familiar) nahi hain, toh aapka samna bahut se anjaan khatron (unknowns) se hota hai. Aur kyunki projects khatam hone mein waqt lagta hai, aap lagbhag guarantee le sakte hain ki environment badal jayega.
+
+Classic jawab yeh hota hai ki system ko itna specify karo ki wo dam tod de (specify to death). Panna-dar-panna har requirement likho, har unknown ko bandh do, aur environment ko constrain karo. Gun ko bas purane andaze (dead reckoning) se chalao. Shuruat mein ek bada calculation, phir goli chalao aur umeed (hope) karo.
+
+Lekin, Pragmatic Programmers aksar tracer bullets istemal karna pasand karte hain.
+
+---
+
+#### **Code That Glows in the Dark (Andhere Mein Chamakne Wala Code)**
+
+Tracer bullets isliye kaam karti hain kyunki wo usi environment aur unhi rukavaton (constraints) mein kaam karti hain jisme asli goliyaan. Wo target tak jaldi pahunchti hain, toh gunner ko turant feedback milta hai. Aur practical nazariye se, yeh ek sasta samadhan (cheap solution) hai.
+
+Code mein yahi asar (effect) laane ke liye, hum kuch aisa dhoond rahe hain jo hamein ek requirement se lekar final system ke kisi hisse tak jaldi, dikhne-layak (visibly), aur bar-bar (repeatably) pahuncha de.
+
+> **Tip 15**
+> **Use Tracer Bullets to Find the Target**
+> (Nishana dhoondhne ke liye Tracer Bullets ka istemal karein)
+
+Humne ek baar ek complex client-server database marketing project liya tha. Requirement ka ek hissa temporal queries execute karne ki kabiliyat thi. Servers relational aur specialized databases ka mix the. Client GUI, Object Pascal mein likha gaya tha aur C libraries ka istemal karta tha. User ki query ko SQL mein badalne se pehle ek Lisp-jaise notation mein store kiya jata hai. Bahut se unknowns the aur kisi ko yakeen nahi tha ki GUI ka vyavahar (behavior) kaisa hona chahiye.
+
+Yeh tracer code istemal karne ka behtareen mauka tha. Humne front end ka framework, queries represent karne ki libraries, aur stored query ko database-specific query mein badalne ka ek structure taiyar kiya. Phir humne sab kuch saath jod kar check kiya ki kya yeh kaam kar raha hai. Us shuruati build (initial build) mein, hum sirf aisi query bhej sakte the jo ek table ki saari rows dikha de, lekin usne yeh saabit (proved) kar diya ki UI libraries se baat kar sakta hai, libraries query ko serialize kar sakti hain, aur server SQL generate kar sakta hai. Agle mahino mein humne dhire-dhire is buniyaadi dhanchay (basic structure) ko bhara, har component ko parallel mein grow kiya. Jab UI mein naya query type aaya, toh library grow hui aur SQL generation aur bhi sophisticated ho gaya.
+
+Tracer code **phekne layak (disposable)** nahi hota: aap ise hamesha ke liye (for keeps) likhte hain. Isme wo saari error checking, structuring, aur documentation hoti hai jo kisi bhi production code mein hoti hai. Bas yeh poori tarah functional nahi hota. Ek baar jab aapne end-to-end connection bana liya, toh aap check kar sakte hain ki aap target ke kitne paas hain. Ek baar nishana sahi lag jaye, toh functionality jodhna aasaan ho jata hai.
+
+Tracer development is soch ke saath milti-julti hai ki ek project kabhi khatam nahi hota: hamesha badlav aur naye functions ki zaroorat rahegi. Yeh ek kramsh-badh (**incremental**) approach hai.
+
+Purana vikalp (alternative) ek tarah ka heavy engineering approach hai: code ko modules mein baanta jata hai jo vacuum mein code hote hain. Modules ko subassemblies mein joda jata hai, aur aakhir mein poori application banti hai. Tabhi use user ko dikhaya jata hai.
+
+Tracer code approach ke kai fayde (advantages) hain:
+
+- **Users ko kaam hote hue jaldi dikhta hai:** Agar aapne sahi samvaad (communicated) kiya hai, toh aapke users jaante honge ki wo ek adhoori (immature) cheez dekh rahe hain. Wo functionality ki kami se nirash nahi honge balki progress dekh kar khush honge. Unka "buy-in" badhta hai aur wo iterations par feedback de sakte hain.
+- **Developers ko kaam karne ke liye ek structure milta hai:** Sabse darawna panna wo hota hai jis par kuch na likha ho. Agar aapne end-to-end interactions pehle hi code mein embody kar diye hain, toh team ko sab kuch hawa mein se nikaalne (out of thin air) ki zaroorat nahi padegi.
+- **Aapke paas ek integration platform hota hai:** Kyunki system end-to-end juda hua hai, aapke paas ek aisa environment hai jisme aap naye unit-tested pieces jodh sakte hain. "Big-bang integration" ke bajaye aap har roz integrate kar rahe honge. Debugging aur testing tez aur sateek (accurate) hoti hai.
+- **Aapke paas dikhane (demonstrate) ke liye kuch hota hai:** Project sponsors aur top brass aksar galat waqt par demos maangte hain. Tracer code ke saath aapke paas hamesha kuch dikhane ke liye hoga.
+- **Aapko progress ka behtar ehsas hota hai:** Developers use cases ko ek-ek karke solve karte hain. Isse performance ko naapna (measure) aasaan ho jata hai. Aap "95% complete" wale monolithic blocks se bach jate hain jo hafton tak waise hi rehte hain.
+
+---
+
+#### **Tracer Bullets Hamesha Target Par Nahi Lagti**
+
+Tracer bullets dikhati hain ki aap kahan hit kar rahe hain. Zaroori nahi ki wo hamesha target hi ho. Phir aap apna nishana (aim) adjust karte hain jab tak wo target par na aa jaye. Yahi toh maqsad (point) hai.
+
+Tracer code ke saath bhi aisa hi hai. Aap is technique ka istemal wahan karte hain jahan aap 100% sure nahi hain ki aap kahan ja rahe hain. Agar shuruati koshishein chook (miss) jayein toh hairan na hon. User keh sakta hai "mera yeh matlab nahi tha," ya data available nahi hai. Lean development methodology ka shukriya ada karein kyunki chhote code block mein **"low inertia"** hoti hai—ise badalna asaan aur tez hota hai.
+
+---
+
+#### **Tracer Code vs. Prototyping**
+
+Aapko lag sakta hai ki tracer code sirf ek aggressive naam wala **prototyping** hai. Lekin fark hai.
+
+1. **Prototype:** Iska maqsad system ke kisi khaas pehlu (aspect) ko explore karna hota hai. Ek true prototype mein, aap use phek dete hain (discard) aur phir se sahi dhang se code karte hain jo sabak aapne seekha hai.
+
+- _Example:_ UI ka layout taiyar karna ya kisi complex algorithm ko test karna. Aap ise Perl jaise high-level language mein likh sakte hain aur baad mein target language mein rewrite karein. Yeh phekne layak code hota hai.
+
+2. **Tracer Code:** Yeh final system ka buniyaadi dhancha (**skeleton**) banta hai. Yeh lean hota hai par complete hota hai. Yeh disposable nahi hota.
+
+Inka fark repeat karne layak mahatvapurn hai: **Prototyping phekne layak (disposable) code generate karta hai. Tracer code lean hota hai par complete hota hai, aur final system ka skeleton banta hai.** Prototyping ko aap wo jaasoosi (reconnaissance) samjhein jo pehli tracer bullet chalane se pehle ki jati hai.
+
+---
+
+**Related sections include:**
+
+- Good-Enough Software, page 9
+- Prototypes and Post-it Notes, page 53
+- The Specification Trap, page 217
+- Great Expectations, page 255
+
+### **11. Prototypes and Post-it Notes**
+
+Bahut si alag-alag industries prototypes ka istemal karti hain taaki wo apne khaas ideas ko try kar sakein; prototype banana full-scale production ke muqable bahut sasta hota hai. Car banane wale, misaal ke taur par, ek naye car design ke kai alag prototypes banate hain. Har ek ko car ke kisi khaas pehlu (aspect)—jaise aerodynamics, styling, ya structural characteristics—ko test karne ke liye banaya jata hai. Shayad wind tunnel testing ke liye mitti ka model (clay model) banaya jaye, ya art department ke liye lakdi (balsa wood) aur duct tape ka model taiyar kiya jaye. Kuch companies toh ab computer modeling ka istemal karke kharche aur bhi kam kar deti hain. Is tareeqe se, khatarnak (risky) ya anjaan elements ko asli cheez banane se pehle hi parakh liya jata hai.
+
+Hum software prototypes bhi usi tarah aur unhi kaaranon se banate hain—risk ko analyze karne aur dikhane ke liye, aur bahut kam kharche mein sudhaar (correction) ka mauka dene ke liye. Car makers ki tarah, hum bhi project ke kisi khaas pehlu ko test karne ke liye prototype ko target kar sakte hain.
+
+Hum aksar sochte hain ki prototypes sirf code-based hote hain, lekin aisa hona zaroori nahi hai. Hum alag-alag materials se prototypes bana sakte hain. **Post-it notes** workflow aur application logic jaisi dynamic cheezon ko prototype karne ke liye behtareen hain. Ek User Interface (UI) ko whiteboard par drawing ke roop mein, ya kisi paint program se banaye gaye non-functional mock-up ke roop mein prototype kiya ja sakta hai.
+
+Prototypes sirf kuch sawalon ke jawab dene ke liye banaye jate hain, isliye wo asli production applications ke muqable bahut saste aur tez hote hain. Inka code un baarikiyon (details) ko nazarandaz (ignore) kar sakta hai jo us waqt mahatvapurn nahi hain. Agar aap GUI ka prototype bana rahe hain, toh galat results ya dummy data se bhi kaam chal jayega. Dusri taraf, agar aap sirf performance ya computation check kar rahe hain, toh ghaitya GUI (ya bina GUI ke bhi) kaam chal jayega.
+
+Lekin agar aap aise mahaul (environment) mein hain jahan aap details ko nahi chhod sakte, toh khud se puchein ki kya aap waqayi ek prototype bana rahe hain? Shayad aise maamle mein **Tracer Bullet** style zyada sahi rahega (page 48 dekhein).
+
+---
+
+#### **Prototype Karne Layak Cheezein (Things to Prototype)**
+
+Aap kin cheezon ki jaanch (investigate) prototype se kar sakte hain? Har wo cheez jisme risk ho. Har wo cheez jo pehle try na ki gayi ho, ya jo final system ke liye bahut critical ho. Har wo cheez jo unproven, experimental, ya doubt wali ho.
+
+Aap prototype kar sakte hain:
+
+- Architecture
+- Existing system mein nayi functionality
+- External data ka structure ya contents
+- Third-party tools ya components
+- Performance ke masle (issues)
+- User interface design
+
+Prototyping ek seekhne ka anubhav (learning experience) hai. Iski value code mein nahi, balki un sabak (lessons) mein hai jo aap seekhte hain. Yahi prototyping ka asli maqsad hai.
+
+> **Tip 16**
+> **Prototype to Learn**
+> (Seekhne ke liye Prototype banayein)
+
+---
+
+#### **Prototypes ka Istemal Kaise Karein (How to Use Prototypes)**
+
+Prototype banate waqt, aap kin details ko ignore kar sakte hain?
+
+- **Correctness (Sateekta):** Aap jahan zaroorat ho wahan dummy data ka istemal kar sakte hain.
+- **Completeness (Poornata):** Prototype shayad bahut hi mehdood (limited) dhang se kaam kare, shayad sirf ek menu item ke saath.
+- **Robustness (Mazbooti):** Error checking shayad adhoori ho ya bilkul na ho. Agar aap tai-shuda raste se bhatakte hain, toh prototype crash ho sakta hai. Yeh bilkul theek hai.
+- **Style:** Prototype code mein aksar comments ya documentation nahi hoti. Aap anubhav (experience) par toh bahut kuch likh sakte hain, lekin khud prototype system par bahut kam.
+
+Kyunki prototype ko baarikiyon ko chhod kar khaas pehluon par focus karna chahiye, isliye aap unhe bahut high-level language (jaise Perl, Python, ya Tcl) mein implement kar sakte hain. Ek high-level scripting language aapko details (jaise data types specify karna) ko taal-ne (defer) ki azadi deti hai aur phir bhi ek functional code taiyar karti hai. [6]
+
+> [6] Agar aap absolute performance (relative ke bajaye) check kar rahe hain, toh aapko aisi language istemal karni hogi jiski performance target language ke kareeb ho.
+
+Scripting languages low-level pieces ko jodne ke liye "glue" (gond) ki tarah kaam karti hain. Is approach se aap maujooda components ko tezi se naye tareeqon se jod kar dekh sakte hain ki cheezein kaise kaam karti hain.
+
+---
+
+#### **Architecture ko Prototype Karna (Prototyping Architecture)**
+
+Kai prototypes poore system ka model banane ke liye taiyar kiye jate hain. Tracer bullets ke ulta, yahan modules ka functional hona zaroori nahi hai. Asal mein, architecture prototype karne ke liye aapko code likhne ki bhi zaroorat nahi pad sakti—aap whiteboard par Post-it notes ya cards ke saath bhi kar sakte hain. Aap yeh dekh rahe hain ki poora system ek saath kaise judta hai. Architectural prototype mein aap in cheezon ko dhoond sakte hain:
+
+- Kya mahatvapurn components ki zimmedariyan (responsibilities) sahi tarah se defined hain?
+- Kya components ke beech ka sahyog (collaboration) saaf hai?
+- Kya coupling kam se kam (minimized) hai?
+- Kya aap duplication ke sambhavit (potential) zariye pehchan sakte hain?
+- Kya har module ke paas us data ka rasta (access path) hai jiski use execution ke dauran zaroorat hai?
+
+Yeh aakhiri point aksar sabse zyada hairani bhare aur keemti results deta hai.
+
+---
+
+#### **Prototypes ka Istemal Kaise _NA_ Karein (How NOT to Use Prototypes)**
+
+Code-based prototyping shuru karne se pehle, yeh pakka kar lein ki har koi samajhta hai ki aap **phekne layak (disposable) code** likh rahe hain. Prototypes un logon ko bahut akarshak (attractive) lag sakte hain jo nahi jaante ki yeh sirf ek prototype hai. Aapko yeh bilkul saaf (very clear) karna hoga ki yeh code adhoora hai aur ise poora nahi kiya ja sakta.
+
+Log aksar prototype ki "dikhne wali poornata" (apparent completeness) se dhoka kha jate hain, aur management ise deploy karne ki zidd kar sakta hai. Unhe yaad dilayein ki aap lakdi aur duct tape se ek car ka badhiya prototype bana sakte hain, lekin aap use rush-hour traffic mein chalane ki koshish nahi karenge!
+
+Agar aapko lagta hai ki aapke mahaul (culture) mein prototype code ka galat matlab nikala ja sakta hai, toh aap **Tracer Bullet** approach hi chunein. Usse aapko ek mazboot framework milega jis par bhavishya ka development tik sake.
+
+Sahi tareeqe se istemal karne par, ek prototype aapka bahut saara waqt, paisa aur takleef bacha sakta hai kyunki wo development cycle ke shuruat mein hi problem spots ko pehchan leta hai—wo waqt jab galtiyon ko sudharna sasta aur asaan hota hai.
+
+---
+
+**Exercises**
+
+**4.** Marketing aapke saath baith kar kuch Web-page designs brainstorm karna chahti hai. Wo clickable image maps ke baare mein soch rahe hain, lekin tai nahi kar paa rahe ki image kya ho—car, phone ya ghar. Aapke paas content ki list hai aur wo kuch prototypes dekhna chahte hain. Aapke paas sirf 15 minutes hain. Aap kaunse tools istemal karenge?
+
+### 12. Domain Languages
+
+> "Bhasha (language) ki seemayein hi insaan ki duniya ki seemayein hain."
+> — **Ludwig Wittgenstein**
+
+Computer languages is baat ko mutasir (influence) karti hain ki aap kisi problem ke baare mein **kaise** sochte hain aur samvaad (communication) kaise karte hain. Har language ki apni khoobiyan hoti hain—jaise static vs dynamic typing, early vs late binding, ityadi—jo kisi khaas samadhan (solution) ko sujha sakti hain ya chhupa sakti hain. Lisp ke nazariye se design kiya gaya solution C-style soch se alag hoga. Iske ulta (conversely), aur hamare hisab se zyada mahatvapurn, **problem domain** ki bhasha bhi ek programming solution sujha sakti hai.
+
+Hum hamesha koshish karte hain ki code application domain ki vocabulary (shabd-avali) mein likhein (page 210 par _The Requirements Pit_ dekhein). Kuch maamlon mein, hum isse ek level upar ja sakte hain aur asal mein domain ki vocabulary, syntax, aur semantics—yani uski **bhasha**—ka istemal karke program kar sakte hain.
+
+Jab aap kisi system ke users ko sunte hain, toh wo shayad aapko sateek tareeqe se bata sakte hain ki system kaise kaam karna chahiye:
+
+> "ABC Regulation 12.3 dwara defined transactions ko X.25 lines par sunein, unhe XYZ Company ke format 43B mein translate karein, unhe satellite uplink par retransmit karein, aur bhavishya ke analysis ke liye store karein."
+
+Agar aapke users ke paas aise kai saare saaf (well-bounded) statements hain, toh aap application domain ke hisab se ek **mini-language** ijaad (invent) sakte hain jo wahi express kare jo wo chahte hain:
+
+```text
+From X25LINE1 (Format=ABC123) {
+  Put TELSTAR1 (Format=XYZ43B);
+  Store DB;
+}
+
+```
+
+Zaroori nahi ki yeh bhasha turant executable ho. Shuruat mein, yeh sirf requirements capture karne ka ek tareeqa—ek **specification**—ho sakti hai. Halanki, aap ise ek kadam aage le ja sakte hain aur asal mein is language ko implement kar sakte hain. Aapka specification ab **executable code** ban gaya hai.
+
+Maan lijiye users ek nayi requirement dete hain: negative balance wale transactions store nahi hone chahiye, aur unhe original format mein wapas bhej dena chahiye:
+
+```text
+From X25LINE1 (Format=ABC123) {
+  if (balance < 0)
+    Put X25LINE1 (Format=ABC123);
+  else {
+    Put TELSTAR1 (Format=XYZ43B);
+    Store DB;
+  }
+}
+
+```
+
+Yeh asaan tha, haina? Sahi support ke saath, aap application domain ke bahut kareeb program kar sakte hain. Hum yeh nahi keh rahe ki aapke end users in languages mein program karein. Iske bajaye, aap khud ko ek aisa tool de rahe hain jo aapko unke domain ke kareeb kaam karne deta hai.
+
+> **Tip 17**
+> **Program Close to the Problem Domain**
+> (Problem Domain ke kareeb program karein)
+
+Abstraction ke higher level par coding karke, aap domain problems ko solve karne par focus kar sakte hain aur chhote-mote implementation details ko ignore kar sakte hain.
+
+---
+
+#### **Domain-Specific Errors (Domain ke Hisab se Galatiyan)**
+
+Agar aap problem domain mein likh rahe hain, toh aap domain-specific validation bhi kar sakte hain aur aisi bhasha mein errors report kar sakte hain jise users samajh sakein. Maan lijiye user ne format ka naam galat likha:
+
+`From X25LINE1 (Format=AB123)`
+
+Agar yeh kisi general-purpose language mein hota, toh shayad error aata:
+
+`Syntax error: undeclared identifier`
+
+Lekin ek mini-language ke saath, aap domain ki vocabulary mein error de sakte hain:
+
+`"AB123" koi format nahi hai. Jaane-maane formats ABC123, XYZ43B, aur PDQB hain.`
+
+---
+
+#### **Mini-Language ko Implement Karna (Implementing a Mini-Language)**
+
+Sabse simple mini-language line-oriented aur asani se parse hone wale format mein ho sakti hai. Ise `switch` statements ya scripting languages (jaise Perl ya Python) ke regular expressions se parse kiya ja sakta hai.
+
+Aap ek formal syntax wali complex language bhi implement kar sakte hain. Iska tareeqa yeh hai ki pehle syntax ko **BNF** (Backus-Naur Form) [7] notation mein define karein. Ek baar grammar specify ho jaye, toh use parser generator (jaise C/C++ ke liye `yacc` ya `bison`, Java ke liye `javaCC`) mein badalna trivial ho jata hai.
+
+> [7] BNF aapko recursive tareeqe se context-free grammars specify karne deta hai.
+
+Ek aur tareeqa hai: kisi maujooda language ko **extend** karna. Misaal ke taur par, aap application-level functionality ko Python ke saath integrate kar sakte hain:
+
+```python
+record = X25LINE1.get(format=ABC123)
+if (record.balance < 0):
+    X25LINE1.put(record, format=ABC123)
+else:
+    TELSTAR1.put(record, format=XYZ43B)
+    DB.store(record)
+
+```
+
+---
+
+#### **Data Languages aur Imperative Languages**
+
+Aapki implement ki gayi languages do tarah ki ho sakti hain:
+
+1. **Data Languages:** Yeh application dwara istemal kiya jane wala koi data structure paida karti hain. Inka istemal aksar configuration information represent karne ke liye hota hai.
+
+- _Example:_ Microsoft ki resource files (.rc) jo menus aur dialog boxes describe karti hain (Figure 2.2 dekhein). Yeh compile hokar data structure banti hain.
+
+2. **Imperative Languages:** Yeh asal mein **execute** hoti hain aur inme statements aur control constructs (jaise `if`, `while`) hote hain.
+
+- _Example:_ **Screen Scraping** ke liye mini-language. Maan lijiye aapko kisi mainframe application se data nikalna hai, toh aap ek script likh sakte hain jo mainframe se insaan ki tarah interact kare. Jab mainframe badlega, toh aapko bas script update karni hogi, C code nahi.
+
+---
+
+#### **Stand-Alone aur Embedded Languages**
+
+Zaroori nahi ki mini-language ka istemal application directly kare. Kai baar hum ek specification language se **artifacts** (jisne metadata bhi shaamil hai) banate hain jinhe baad mein program use karta hai (page 144 par _Metaprogramming_ dekhein).
+
+Maan lijiye humne database schema express karne ke liye ek common language banayi, aur phir usse SQL, C code, Web pages, aur XML generate kiya. Application ne specification ko directly use nahi kiya, lekin uske output par nirbhar raha.
+
+Saath hi, aap high-level imperative languages ko directly apni application mein **embed** kar sakte hain. Iska fayda yeh hai ki aap bina compile kiye sirf scripts badal kar application ka behavior badal sakte hain.
+
+---
+
+#### **Asaan Development ya Asaan Maintenance?**
+
+Kyunki complex grammar implement karne mein extra mehnat lagti hai, toh aap ise kyun chunenge?
+
+Sauda (trade-off) **extendibility aur maintenance** ka hai. Halanki "asli" language parse karne ka code likhna mushkil ho sakta hai, lekin logon ke liye use samajhna aur bhavishya mein naye features jodhna bahut asaan hoga. Bahut zyada simple languages cryptic (samajhne mein mushkil) ho sakti hain, jaise `sendmail` ka example.
+
+Kyunki zyada-tar applications apni umeed se zyada lambi zindagi jeeti hain, isliye shuruat mein thoda dard sahan karke (biting the bullet) ek complex aur padhne-layak (readable) language apnana behtar hai. Shuruati mehnat baad mein kam support aur maintenance cost ke roop mein wasool ho jayegi.
+
+---
+
+**Related sections include:**
+
+- Metaprogramming, page 144
+
+**Exercises**
+
+**5.** Ek simple drawing package (turtle-graphics system) ko control karne ke liye mini-language implement karni hai. Commands single-letter hain, jaise: `P 2` (Select pen 2), `D` (Pen down), `W 2` (Draw west 2 units).
+**6.** Time specification parse karne ke liye BNF grammar design karein (e.g., 4pm, 7:38pm, 23:42).
+**7.** Exercise 6 ke BNF grammar ke liye `yacc` ya `bison` ka istemal karke parser implement karein.
+**8.** Perl ke regular expressions ka istemal karke time parser implement karein.
+
+### 13. Estimating (Andaza Lagana)
+
+Jaldi se! Ek 56k modem line par _War and Peace_ bhejne mein kitna waqt lagega? Ek million naamo aur paton (addresses) ke liye aapko kitni disk space ki zaroorat hogi? Ek 1,000-byte ka block router se guzarne mein kitna waqt leta hai? Aapke project ko deliver karne mein kitne mahine lagenge?
+
+Ek level par, yeh sab be-maani (meaningless) sawal hain—un sab mein jankari (information) ki kami hai. Aur phir bhi un sabka jawab diya ja sakta hai, jab tak aap andaza lagane (estimating) mein comfortable hon. Aur, andaza taiyar karne ke process mein, aap us duniya ko aur behtar samajh payenge jisme aapke programs rehte hain.
+
+Andaza lagana seekh kar, aur is skill ko us level tak develop karke jahan aapko cheezon ke parimaan (magnitudes) ka ek sahaj ehsas (intuitive feel) ho jaye, aap unki sambhavita (feasibility) tai karne ki ek jaadui kabiliyat dikha payenge. Jab koi kehta hai ki "hum backup ko ISDN line ke zariye central site par bhejenge," toh aap sahaj roop se jaan payenge ki kya yeh practical hai. Jab aap coding kar rahe honge, toh aap jaan payenge ki kaunse subsystems ko optimize karne ki zaroorat hai aur kise chhodha ja sakta hai.
+
+---
+
+> **Tip 18**
+> **Estimate to Avoid Surprises**
+> (Hairaniyon/Surprises se bachne ke liye andaza lagayein)
+
+---
+
+Ek bonus ke taur par, is section ke anth (end) mein hum wo akela sahi jawab batayenge jo aapko tab dena chahiye jab koi aapse andaza maange.
+
+**Sateekta Kitni Sateek Honi Chahiye? (How Accurate Is Accurate Enough?)**
+
+Ek hadd tak, sabhi jawab andaze (estimates) hi hote hain. Bas fark yeh hai ki kuch dusron ke muqable zyada sateek (accurate) hote hain. Isliye jab koi aapse andaza maange, toh pehla sawal jo aapko khud se puchna hai wo hai us sandarbh (context) ke baare mein jisme aapka jawab liya jayega. Kya unhe high accuracy chahiye, ya wo sirf ek mota-moti (ballpark) figure dhoond rahe hain?
+
+- Agar aapki dadi (grandmother) puchti hain ki aap kab pahunchenge, toh wo shayad soch rahi hain ki aapke liye lunch banayein ya dinner. Dusri taraf, ek gota-khor (diver) jo pani ke neeche phasa hai aur jiske paas oxygen khatam ho rahi hai, wo shayad second-by-second jawab mein dilchaspi rakhega.
+- $\pi$ ki value kya hai? Agar aap soch rahe hain ki ek gol flower bed ke charon taraf kitni edging (kinara) kharidni hai, toh "3" shayad kaafi hai. [10] Agar aap school mein hain, toh shayad "22/7" ek accha approximation hai. Agar aap NASA mein hain, toh shayad 12 decimal places se kaam chal jayega.
+
+> [10] "3" zahir taur par tab bhi kaafi hai agar aap ek vidhayak (legislator) hain. 1897 mein, Indiana State Legislature ne decree karne ki koshish ki thi ki ab se $\pi$ ki value "3" hogi. Mathematics ke ek professor ne ishara kiya ki unki taqatein (powers) prakriti ke niyamon (laws of nature) ko badalne tak nahi phailti hain.
+
+Andaza lagane ke baare mein ek dilchasp baat yeh hai ki aap jo units istemal karte hain, wo nateeje (result) ki vyakhya (interpretation) mein fark paida karti hain. Agar aap kehte hain ki kisi kaam mein lagbhag 130 working days lagenge, toh log umeed karenge ki wo kaafi kareeb (accurate) ho. Halanki, agar aap kehte hain "Oh, lagbhag che mahine," toh wo jaante hain ki yeh ab se panch se saat mahino ke beech kabhi bhi ho sakta hai. Dono numbers ek hi avadhi (duration) ko darshate hain, lekin "130 days" shayad usse zyada accuracy dikhata hai jitna aap mehsoos karte hain. Hum sujhaav dete hain ki aap time estimates ko is tarah scale karein:
+
+| Duration (Samay) | Quote Estimate in (Andaza dein) |
+| ---------------- | ------------------------------- |
+| 1–15 days        | Days (Dino mein)                |
+| 3–6 or 8 weeks   | Weeks (Hafton mein)             |
+| 8–20 weeks       | Months (Mahino mein)            |
+| 20+ weeks        | Quarters (Ti-mahiyon mein)      |
+
+Toh, agar sabhi zaroori kaam karne ke baad, aap tai karte hain ki ek project mein 125 working days (25 weeks) lagenge, toh aap shayad "lagbhag che mahine" ka andaza dena chahenge.
+
+Yahi concepts kisi bhi matra (quantity) ke andaze par apply hote hain: apne jawab ke units aise chunein jo us accuracy ko darshayein jo aap pahunchana chahte hain.
+
+**Andaze Kahan Se Aate Hain? (Where Do Estimates Come From?)**
+
+Sabhi andaze problem ke models par adharit hote hain. Lekin model banane ki techniques mein gehra utarne se pehle, hamein ek buniyaadi andaza lagane ki trick ka zikr karna hoga jo hamesha acche jawab deti hai: **us se puchein jisne yeh pehle kiya ho.** Model building mein bahut zyada lagne se pehle, aise kisi shakhs ko dhoondein jo pehle aisi hi sthiti (situation) mein raha ho.
+
+Dekhiye unki problem kaise solve hui. Yeh namumkin hai ki aapko bilkul exact match mile, lekin aap hairan honge ki kitni baar aap dusron ke anubhavon (experiences) ka safalta-purvak istemal kar sakte hain.
+
+**Samjhein ki Kya Pucha Ja Raha Hai (Understand What’s Being Asked)**
+
+Kisi bhi estimation exercise ka pehla hissa yeh samajhna hai ki pucha kya ja raha hai. Upar bataye gaye accuracy ke muddon ke saath-saath, aapko domain ke dayre (scope) ki pakad honi chahiye. Aksar yeh sawal mein hi chhupa (implicit) hota hai, lekin andaza lagane se pehle scope ke baare mein sochne ki aadat daalein. Aksar, jo scope aap chunte hain wo aapke jawab ka hissa ban jayega: "Yeh maante hue ki koi traffic accident nahi hai aur car mein petrol hai, main wahan 20 minute mein pahunch jaunga."
+
+**System ka ek Model Banayein (Build a Model of the System)**
+
+Yeh andaza lagane ka mazedaar hissa hai. Pucha gaye sawal ki apni samajh se, ek mota-moti buniyaadi mansik model (mental model) banayein. Agar aap response times ka andaza laga rahe hain, toh aapke model mein ek server aur aane wala traffic shaamil ho sakta hai. Ek project ke liye, model wo steps ho sakte hain jo aapki organization development ke dauran istemal karti hai, saath hi ek rough tasveer ki system kaise implement kiya jayega.
+
+Model banana creative aur lambe samay mein upyogi (useful) dono ho sakta hai. Aksar, model banane ka process un antarnihit patterns (underlying patterns) aur processes ki khoj ki taraf le jata hai jo satah (surface) par nazar nahi aa rahe the. Aap shayad asli sawal ko phir se jaanch-na chahein: "Aapne _X_ karne ke liye andaza maanga tha. Halanki, aisa lagta hai ki _Y_, jo _X_ ka hi ek roop hai, lagbhag aadhe waqt mein kiya ja sakta hai, aur aap sirf ek feature khote hain."
+
+Model banane se estimation process mein asateekta (inaccuracies) aati hai. Yeh anivarya (inevitable) hai, aur faydemand bhi. Aap accuracy ke badle model ki saralta (simplicity) ka sauda (trade-off) kar rahe hain. Model par mehnat dugni karne se shayad accuracy mein thoda hi izaafa (increase) ho. Aapka anubhav aapko batayenge ki refinement kab rokni hai.
+
+**Model ko Components mein Baantein (Break the Model into Components)**
+
+Ek baar jab aapke paas model ho, toh aap use components mein tod sakte hain. Aapko un mathematical rules ko dhoondhna hoga jo batate hain ki yeh components aapas mein kaise interact karte hain. Kabhi-kabhi ek component ek single value deta hai jo result mein jodh di jati hai. Kuch components guna karne wale factors (multiplying factors) de sakte hain, jabki dusre zyada complex ho sakte hain (jaise wo jo kisi node par traffic ke aane ka simulation karte hain).
+
+Aap payenge ki har component mein aam taur par kuch parameters honge jo mutasir (affect) karte hain ki wo poore model mein kaise yogdaan (contribute) deta hai. Is stage par, bas har parameter ko pehchan (identify) lein.
+
+**Har Parameter ko ek Value Dein (Give Each Parameter a Value)**
+
+Ek baar jab aapne parameters ko alag kar liya hai, toh aap har ek ko ek value assign kar sakte hain. Aap is step mein kuch galtiyon (errors) ki umeed karte hain. Trick yeh hai ki pata lagayein ki kaunse parameters ka result par sabse zyada asar padta hai, aur unhe sahi karne par focus karein. Aam taur par, jin parameters ki values result mein jodi jati hain, wo unke muqable kam mahatvapurn (significant) hote hain jo guna (multiply) ya bhaag (divide) kiye jate hain. Line speed ko dugna karne se ek ghante mein received data dugna ho sakta hai, jabki 5 ms ka transit delay jodhne ka koi khaas asar nahi hoga.
+
+In kritikal parameters ko calculate karne ka aapke paas ek jayaz (justifiable) tareeqa hona chahiye. Queuing ke example ke liye, aap maujooda system ki asli transaction arrival rate maapna (measure) chahenge. Asal mein, aap aksar payenge ki aap ek andaze ko dusre sub-estimates par adharit kar rahe hain. Yeh wahi jagah hai jahan aapki sabse badi galtiyan (errors) aayengi.
+
+**Jawab Calculate Karein (Calculate the Answers)**
+
+Sirf sabse simple maamlon mein hi kisi andaze ka ek single jawab hoga. Aap khushi se keh sakte hain ki "main panch blocks 15 minute mein chal sakta hoon." Halanki, jaise-jaise systems complex hote hain, aap apne jawabon ko surakshita (hedge) rakhna chahenge. Multiple calculations karein, kritikal parameters ki values ko badalte rahein, jab tak aap yeh pata na laga lein ki kaunse model ko asal mein drive kar rahe hain. Ek spreadsheet bahut badi madad ho sakti hai. Phir apna jawab in parameters ke sandarbh mein dein. "Response time lagbhag teen-chothai second (three quarters of a second) hai agar system mein SCSI bus aur 64MB memory hai, aur 48MB memory ke saath ek second." (Gaur karein ki "teen-chothai second" 750 ms ke muqable accuracy ka alag ehsas deta hai.)
+
+Calculation phase ke dauran, aapko aise jawab mil sakte hain jo ajeeb lagein. Unhe kharij (dismiss) karne mein bahut jaldi na karein. Agar aapka arithmetic sahi hai, toh problem ki aapki samajh ya aapka model shayad galat hai. Yeh keemti jankari hai.
+
+**Apne Andaza Lagane ki Kshamta ka Track Rakhein (Keep Track of Your Estimating Prowess)**
+
+Hamare hisab se apne estimates ko record karna ek behtareen idea hai taaki aap dekh sakein ki aap kitne paas the. Agar ek poore andaze mein sub-estimates shaamil the, toh unka bhi track rakhein. Aksar aap payenge ki aapke estimates kaafi acche hain—asal mein, kuch samay baad, aap yahi umeed karne lagenge.
+
+Jab koi andaza galat nikalta hai, toh sirf kandhe uchka kar (shrug) aage na badh jayein. Pata lagayein ki wo aapke guess se alag kyun tha. Shayad aapne aise parameters chune jo problem ki asliyat se mel nahi khate the. Shayad aapka model galat tha. Wajah jo bhi ho, thoda waqt nikal kar dekhein ki kya hua tha. Agar aap aisa karenge, toh aapka agla andaza behtar hoga.
+
+**Project Schedules ka Andaza Lagana (Estimating Project Schedules)**
+
+Ek bade application development ki jatiltayon (complexities) ke saamne andaza lagane ke aam niyam toot sakte hain. Humne paya hai ki aksar kisi project ka timetable tai karne ka akela raasta usi project par anubhav (experience) hasil karna hai. Yeh koi virodhabhas (paradox) nahi hona chahiye agar aap incremental development ka abhyas (practice) karte hain, aur neeche diye gaye steps dohrate hain:
+
+1. Requirements check karein
+2. Risk analyze karein
+3. Design, implement, integrate karein
+4. Users ke saath validate karein
+
+Shuruat mein, aapko sirf ek dhundla idea ho sakta hai ki kitne iterations ki zaroorat hogi, ya wo kitne lambe honge. Kuch methods aapse ise shuruati plan ke hisse ke roop mein pakka (nail down) karne ko kehte hain, lekin sabse mamuli projects ko chhod kar baaki sab ke liye yeh ek galti hai. Jab tak aap pehle jaisa hi application, wahi team aur wahi technology ke saath nahi kar rahe, aap sirf andaza (guessing) hi laga rahe honge.
+
+Toh aap shuruati functionality ki coding aur testing poori karte hain aur ise pehle increment ke anth (end) ke roop mein mark karte hain. Us anubhav ke adhaar par, aap iterations ki sankhya aur har ek mein kya shaamil kiya ja sakta hai, is par apne shuruati guess ko sudhaar (refine) sakte hain. Har baar refinement behtar hoti jati hai, aur schedule mein vishwas (confidence) uske saath badhta hai.
+
+---
+
+> **Tip 19**
+> **Iterate the Schedule with the Code**
+> (Code ke saath-saath schedule ko bhi iterate karein)
+
+---
+
+Yeh management ke saath popular nahi ho sakta, jo aam taur par project shuru hone se pehle hi ek single, pakka (hard-and-fast) number chahte hain. Aapko unhe yeh samajhne mein madad karni hogi ki team, unki productivity, aur mahaul (environment) hi schedule tai karenge. Ise formalize karke, aur har iteration ke hisse ke roop mein schedule ko refine karke, aap unhe sabse sateek scheduling estimates de rahe honge.
+
+**Jab Andaza Maanga Jaye Toh Kya Kahein (What to Say When Asked for an Estimate)**
+
+Aap kahein **"Main aapke paas wapas aata hoon" (I'll get back to you).**
+
+Aapko lagbhag hamesha behtar results milenge agar aap process ko dhima karein aur is section mein bataye gaye steps par thoda waqt bitayein. Coffee machine ke paas diye gaye andaze (coffee ki tarah hi) baad mein aapko pareshan karne ke liye wapas aayenge.
+
+---
+
+**Related sections include:**
+
+- Algorithm Speed, page 177
+
+**Challenges**
+
+- Apne estimates ka ek log rakhna shuru karein. Har ek ke liye track karein ki aap kitne sateek (accurate) nikle. Agar aapka error 50% se zyada tha, toh pata lagane ki koshish karein ki aapka andaza kahan galat hua.
+
+**Exercises**
+**9.** Aapse pucha jata hai "Kiski bandwidth zyada hai: ek 1Mbps communications line ki ya ek aise insaan ki jo apni jeb mein ek poori 4GB tape lekar do computers ke beech chal raha hai?" Aap apne jawab par kaunse constraints (pabandiyan) lagayenge yeh pakka karne ke liye ki aapke response ka scope sahi hai? (Misaal ke taur par, aap keh sakte hain ki tape access karne mein lagne wala waqt ignore kiya gaya hai.)
+**10.** Toh, kiski bandwidth zyada hai?
+
+F## Chapter 3: The Basic Tools (Buniyaadi Auzaar)
+
+Har karigar (craftsman) apni yatra ek acche quality ke buniyaadi auzaaron (basic tools) ke set se shuru karta hai. Ek badhai (woodworker) ko scale, gauges, saws, planes, chisels aur drills ki zaroorat hoti hai. Yeh auzaar badi mohabbat se chune jate hain, lambe samay tak chalne ke liye banaye jate hain, aur shayad sabse mahatvapurn baat—wo budding woodworker ke haathon mein sahi mehsoos hote hain.
+
+Phir shuru hota hai seekhne aur dhalne (adaptation) ka silsila. Har auzaar ki apni ek shakhsiyat (personality) aur quirks hote hain, aur unhe special handling ki zaroorat hoti hai. Har tool ko ek unique tareeqe se sharpen karna padta hai. Waqt ke saath, har tool istemal ke hisab se ghista (wear) hai, jab tak ki uska grip karigar ke haathon ka mold na ban jaye. Is point par, auzaar karigar ke brain aur finished product ke beech ka ek zariya (conduit) ban jate hain—wo uske haathon ka ek hissa (extension) ban jate hain. Waqt ke saath, woodworker naye tools jaise laser-guided saws bhi jodega, lekin sabse zyada khushi use tabhi milegi jab uske haath mein uska purana buniyaadi auzaar hoga aur wo lakdi par plane ko "gaate" (sing) hue mehsoos karega.
+
+Auzaar aapke hunar (talent) ko badhate (amplify) hain. Aapke auzaar jitne behtar honge aur aap unhe jitna behtar chalana jaante honge, aap utne hi productive ban sakenge. Ek basic set se shuru karein aur experience ke saath naye tools jodte jayein. Hamesha behtar tareeqon ki talaash mein rahein. Agar aap aisi sthiti (situation) mein phaste hain jahan aapke current tools kaam nahi kar paa rahe, toh kuch naya ya zyada powerful dhoondhne ki koshish karein. Zarurat ke hisab se hi nayi cheezein kharidein (Let need drive your acquisitions).
+
+Bahut se naye programmers ek hi power tool, jaise kisi khaas **IDE (Integrated Development Environment)**, ke aadi ho jate hain aur kabhi uske cozy interface se baahar nahi nikalte. Yeh ek galti hai. Hamein IDE ki seemao (limits) ke baahar bhi comfortable hona chahiye. Ise karne ka ek hi raasta hai: apne buniyaadi tool set ko sharp aur hamesha taiyar rakhein.
+
+Is chapter mein hum aapke apne buniyaadi toolbox mein nivesh (invest) karne ki baat karenge:
+
+- **The Power of Plain Text:** Hum kache maal (raw materials) ko dekhenge—yani wo cheez jise aap shape karenge.
+- **Shell Games:** Hum computer (workbench) ki baat karenge aur dekhenge ki aap computer ka istemal apne tools se best nikaalne ke liye kaise kar sakte hain.
+- **Power Editing:** Hum aapke editor ki baat karenge, jo auzaar aap sabse zyada istemal karte hain.
+- **Source Code Control:** Yeh pakka karne ke liye ki hum apna keemti kaam kabhi na khoye, hamein hamesha source control istemal karna chahiye—chahe wo personal address book hi kyun na ho!
+- **Debugging:** Kyunki Mr. Murphy asal mein ek aashawadi (optimist) hi the, aap tab tak mahan programmer nahi ban sakte jab tak aap debugging mein maahir na ho jayein.
+- **Text Manipulation:** Magic ko jodne ke liye hamein kuch "glue" ki zaroorat hogi, jaise awk, Perl, aur Python.
+- **Code Generators:** Jaise woodworkers "jigs" banate hain, programmers bhi aisa code likh sakte hain jo khud code likhta hai.
+
+In auzaaron ko seekhne mein waqt bitayein, aur ek din aap payenge ki aapki ungliyan bina soche keyboard par chal rahi hain aur text ko manipulate kar rahi hain. Yeh auzaar aapke haathon ka extension ban jayenge.
