@@ -2207,3 +2207,233 @@ Halanki yahan code generators source code banate hue dikhaye gaye hain, par yeh 
 **Exercises (Abhyaas)**
 
 **13.** Ek code generator likhein jo Figure 3.4 ki input file ko le aur aapki pasand ki do languages mein output generate kare. Nayi languages jodne ko aasaan banane ki koshish karein.
+
+### Chapter 4
+
+#### Pragmatic Paranoia (Vyavaharik Shak/Darr)
+
+---
+
+> **Tip 30** > **You Can't Write Perfect Software** > (Aap Perfect Software Nahi Likh Sakte)
+
+---
+
+Kya isse dukh hua? Nahi hona chahiye. Ise zindagi ka ek swayam-siddh satya (axiom) maankar swikaar karein. Ise apnayein (Embrace it). Iska jashn (celebrate) manayein. Kyunki perfect software jaisi koi cheez nahi hoti. Computing ke is chote se itihaas (brief history) mein aaj tak kisi ne bhi perfect software ka ek tukda (piece) bhi nahi likha hai. Is baat ki sambhavna bahut kam hai ki aap pehle honge. Aur jab tak aap is baat ko ek haqeeqat (fact) ke taur par nahi maante, aap ek namumkin khwab (impossible dream) ke peeche bhag kar apna waqt aur energy barbad karenge.
+
+Toh, is niraashajanak (depressing) haqeeqat ko dekhte hue, ek Pragmatic Programmer ise apne fayde (advantage) mein kaise badalta hai? Yahi is chapter ka topic hai.
+
+Har koi jaanta hai ki is dharti par sirf wahi akele ek acche driver hain. Baaki ki poori duniya unke peeche padi hai—stop signs ko aise hi paar karte hue (blowing through), lanes ke beech tezi se nikalte hue, bina indicator diye mudte hue, telephone par baat karte hue, newspaper padhte hue, aur aam taur par hamare standards par khare na utarte hue. Isliye hum **defensively** (bachaav ke tareeqe se) drive karte hain. Hum musibat aane se pehle uski talaash mein rehte hain, an-chahi cheezon (unexpected) ka andaza lagate hain, aur khud ko kabhi aisi sthiti (position) mein nahi daalte jahan se hum khud ko bahar na nikal sakein (extricate).
+
+Coding ke saath yeh misaal (analogy) bilkul saaf hai. Hum lagatar dusre logon ke code ke saath interface kar rahe hote hain—wo code jo shayad hamare high standards par khara na utre—aur aise inputs se deal kar rahe hote hain jo shayad valid (manye) hon ya na hon. Isliye hamein defensively code karna sikhaya jata hai. Agar koi bhi shaq (doubt) ho, toh hume di gayi saari jankari ko validate (jaanch) karte hain. Hum kharab data pakadne ke liye assertions ka istemal karte hain. Hum consistency check karte hain, database columns par constraints lagate hain, aur aam taur par apne baare mein kaafi accha mehsoos karte hain.
+
+Lekin Pragmatic Programmers isey ek kadam aage le jaate hain. **Wo khud par bhi bharosa nahi karte.** Yeh jaante hue ki koi bhi perfect code nahi likhta, khud wo bhi nahi, Pragmatic Programmers apni hi galtiyon ke khilaaf bachaav (defenses) code karte hain. Hum pehla defensive measure _Design by Contract_ mein batate hain: clients aur suppliers ko hak (rights) aur zimmedariyon (responsibilities) par sehmat (agree) hona chahiye.
+
+_Dead Programs Tell No Lies_ mein, hum yeh pakka karna chahte hain ki bugs theek karte waqt hum koi nuksaan (damage) na karein. Isliye hum cheezon ko aksar check karne ki koshish karte hain aur agar cheezein galat (awry) ho jayein toh program ko rok (terminate) dete hain.
+
+_Assertive Programming_ raaste bhar check karte rehne ka ek asaan tareeqa batati hai—aisa code likhein jo actively aapki manyataon (assumptions) ko verify (jaanch) kare.
+
+Exceptions, kisi bhi dusri technique ki tarah, agar theek se istemal na kiye jayein toh fayde se zyada nuksaan kar sakte hain. Hum _When to Use Exceptions_ mein in muddon par charcha karenge.
+
+Jaise-jaise aapke programs zyada dynamic (gatishil) honge, aap khud ko system resources—memory, files, devices, ityadi—ke beech taalmel (juggling) bithate hue payenge. _How to Balance Resources_ mein, hum yeh pakka karne ke tareeqe sujhayenge ki aapse koi bhi gend (ball) neeche na gire (yani aap koi bhi resource handle karna na bhoolein).
+
+Imperfect systems, mazakiya time scales (waqt ki kami), hasne-layak tools, aur namumkin requirements ki is duniya mein, aaiye safe (surakshit) khelein.
+
+> "Jab har koi sach mein aapke peeche pada ho, toh paranoia (shak/darr) bas ek acchi soch hai."
+> — **Woody Allen**
+
+#### **21. Design by Contract (Contract ke zariye Design)**
+
+> "Insaano ko aam samajh (common sense) aur saaf-suthre len-den (plain dealing) se zyada aur koi cheez hairan (astonish) nahi karti."
+> — **Ralph Waldo Emerson, Essays**
+
+Computer systems ke saath deal karna mushkil hai. Insaano ke saath deal karna aur bhi mushkil hai. Lekin ek prajati (species) ke roop mein, hamare paas insaani baat-cheet (human interactions) ke muddon ko samajhne ka zyada lamba waqt raha hai. Pichle kuch hazar saalon (millennia) mein humne jo samadhan (solutions) nikale hain, unmein se kuch software likhne par bhi lagu (applied) kiye ja sakte hain. Saaf-suthra len-den (plain dealing) pakka karne ke sabse behtareen samadhanon mein se ek hai **contract** (samjhauta).
+
+Ek contract aapke hak (rights) aur zimmedariyon (responsibilities) ko paribhashit (defines) karta hai, saath hi dusri party ke bhi. Iske alawa, agar koi bhi party contract ka palan karne (abide) mein fail hoti hai, toh nateejon (repercussions) ko lekar ek sehmati (agreement) hoti hai.
+
+Shayad aapke paas ek employment contract ho jo batata ho ki aap kitne ghante kaam karenge aur kin aacharan ke niyamon (rules of conduct) ka palan karenge. Iske badle mein, company aapko salary aur dusre fayde (perks) deti hai. Har party apni zimmedariyan (obligations) poori karti hai aur sabko fayda hota hai.
+
+Yeh ek aisa idea hai jo poori duniya mein istemal hota hai—formal aur informal dono tareeqon se—taaki insaan aapas mein interact kar sakein. Kya hum isi concept ka istemal software modules ko interact karne mein madad ke liye kar sakte hain? Jawab hai "haan."
+
+#### **DBC**
+
+Bertrand Meyer [ Mey97b ] ne Eiffel language ke liye **Design by Contract** ka concept develop kiya. [1] Yeh ek simple lekin powerful technique hai jo software modules ke hak aur zimmedariyon ko document karne (aur un par sehmat hone) par focus karti hai taaki program ka sahi hona (correctness) pakka kiya ja sake. Ek sahi (correct) program kya hai? Wo jo utna hi karta hai jitna wo daava (claims) karta hai, na usse zyada aur na usse kam. Is daave (claim) ko document karna aur verify karna **Design by Contract** (DBC, short mein) ka dil (heart) hai.
+
+> [1] Yeh kuch hadd tak Dijkstra, Floyd, Hoare, Wirth, aur dusron ke shuruati kaam par adharit hai. Eiffel ke baare mein aur jankari ke liye, [ URL 10 ] aur [ URL 11 ] dekhein.
+
+Ek software system mein har function aur method **kuch karta hai**. Us _kuch_ ko shuru karne se pehle, us routine ki duniya ki sthiti (state of the world) ko lekar kuch umeed (expectation) ho sakti hai, aur jab wo khatam hota hai toh wo duniya ki sthiti par ek statement de sakta hai. Meyer in umeedein aur daavon ka varnan is tarah karte hain:
+
+- **Preconditions (Shart jo pehle poori honi chahiye):** Routine ko call kiye jane ke liye kya sach hona zaroori hai; routine ki requirements. Kisi routine ko tab tak call nahi kiya jana chahiye jab tak uski preconditions violate (todna) ho rahi hon. Yeh call karne wale (caller) ki zimmedari hai ki wo accha data pass kare (page 115 par box dekhein).
+- **Postconditions (Shart jo baad mein sach hogi):** Routine kya karne ki guarantee deta hai; jab routine poora ho jayega toh duniya ki sthiti kya hogi. Yeh haqeeqat ki routine ki ek postcondition hai, is baat ki taraf ishara karti hai ki yeh khatam (conclude) hoga: infinite loops allowed nahi hain.
+- **Class invariants:** Ek class yeh pakka karti hai ki caller ke nazariye se yeh condition hamesha sach ho. Routine ki internal processing ke dauran, invariant shayad laagu na ho, lekin jab routine exit karta hai aur control caller ke paas wapas jata hai, toh invariant sach hona chahiye. (Dhyan dein ki ek class us kisi bhi data member ko unrestricted write-access nahi de sakti jo invariant ka hissa hai.)
+
+Aaiye ek aise routine ke contract ko dekhein jo ek unique, ordered list mein data value insert karta hai. iContract mein, jo [ URL 17 ] se Java ke liye ek preprocessor available hai, aap ise is tarah specify karenge:
+
+Yahan hum keh rahe hain ki is list mein nodes hamesha increasing order (badhte kram) mein hone chahiye. Jab aap ek naya node insert karte hain, toh wo pehle se maujood nahi hona chahiye, aur hum guarantee dete hain ki aapke insert karne ke baad wo node mil jayega.
+
+Aap in preconditions, postconditions, aur invariants ko target programming language mein likhte hain, shayad kuch extensions ke saath. Misaal ke taur par, iContract normal Java constructs ke alawa predicate logic operators—`forall` , `exists` , aur `implies` —deta hai. Aapke assertions kisi bhi aise object ki state query kar sakte hain jise method access kar sakta hai, lekin dhyan rakhein ki query kisi bhi side effects se mukt (free) ho (page 124 dekhein).
+
+---
+
+> **DBC and Constant Parameters (DBC aur Constant Parameters)**
+> Aksar, ek postcondition sahi vyavahar (correct behavior) ko verify karne ke liye method mein pass kiye gaye parameters ka istemal karegi. Lekin agar routine ko pass kiye gaye parameter ko badalne ki ijazat (allowed) hai, toh aap shayad contract ko dhokha (circumvent) de sakte hain. Eiffel aisa hone nahi deta, lekin Java deta hai. Yahan, hum Java keyword `final` ka istemal apna irada (intentions) dikhane ke liye karte hain ki parameter ko method ke andar badla nahi jana chahiye. Yeh bilkul pakka (foolproof) nahi hai—subclasses parameter ko non-final ke roop mein dobara declare (redeclare) karne ke liye azaad hain. Vikalp ke taur par (alternatively), aap iContract syntax variable `@pre` ka istemal kar sakte hain taaki variable ki original value mil sake jaisi wo method mein aate waqt thi.
+
+---
+
+Ek routine aur kisi bhi potential caller ke beech ke contract ko is tarah padha ja sakta hai:
+
+> Agar caller dwara routine ki sabhi preconditions poori ki jati hain, toh routine guarantee dega ki jab yeh poora hoga toh sabhi postconditions aur invariants sach honge.
+
+Agar dono mein se koi bhi party contract ki sharton (terms) ko poora karne mein fail hoti hai, toh ek upaay (remedy) (jis par pehle hi sehmati ho chuki thi) laagu (invoked) hota hai—misaal ke taur par, ek exception aati hai, ya program ruk (terminates) jata hai. Jo bhi ho, yeh samajhne mein galti na karein ki contract ko poora na karna ek **bug** hai. Yeh aisi cheez nahi hai jo kabhi bhi honi chahiye, yahi wajah hai ki preconditions ka istemal user-input validation jaisi cheezein karne ke liye nahi kiya jana chahiye.
+
+---
+
+> **Tip 31**
+> **Design with Contracts**
+> (Contracts ke saath Design karein)
+
+---
+
+_Orthogonality_ , page 34 mein, humne "shy" (sharmila) code likhne ka sujhaav diya tha. Yahan, zor "lazy" (aalsi) code par hai: shuru karne se pehle aap jo swikaar (accept) karenge usme sakht (strict) rahein, aur badle mein kam se kam promise karein. Yaad rakhein, agar aapka contract batata hai ki aap kuch bhi accept kar lenge aur badle mein duniya bhar ka promise karenge, toh aapko likhne ke liye bahut saara code padega!
+
+Inheritance aur polymorphism object-oriented languages ke neev ke patthar (cornerstones) hain aur ek aisa area hai jahan contracts sach mein chamak sakte hain. Maan lijiye aap ek "is-a-kind-of" (ek-tarah-ka) relation banane ke liye inheritance ka istemal kar rahe hain, jahan ek class dusri class "ki-ek-tarah-hai". Aap shayad **Liskov Substitution Principle** [ Lis88 ] ka palan (adhere) karna chahenge:
+
+> Subclasses ka istemal base class interface ke zariye kiya ja sakna chahiye, bina user ko fark pata chale.
+
+Dusre shabdon mein, aap yeh pakka karna chahte hain ki aapne jo naya subtype banaya hai wo sach mein base type "ki-ek-tarah-hai"—ki yeh unhi methods ko support karta hai, aur un methods ka matlab (meaning) bhi wahi hai. Hum contracts ki madad se aisa kar sakte hain. Hamein contract ko sirf ek baar base class mein specify karne ki zaroorat hoti hai, taaki wo har bhavishya (future) ke subclass par automatically laagu ho jaye. Ek subclass, apni marzi se (optionally), input ki ek badi range (wider range) accept kar sakta hai, ya zyada mazboot guarantees de sakta hai. Lekin use kam se kam utna toh accept aur guarantee karna hi hoga jitna uske parent ne kiya tha.
+
+Misaal ke taur par, Java base class `java.awt.Component` ko lein. Aap AWT ya Swing ke kisi bhi visual component ko ek `Component` ki tarah treat kar sakte hain, bina yeh jaane ki asli subclass ek button hai, canvas hai, menu hai, ya kuch aur. Har ek individual component atirikt (additional), specific functionality de sakta hai, lekin use kam se kam wo basic kshamtaayein (capabilities) deni hongi jo `Component` dwara defined hain. Lekin aapko `Component` ka ek aisa subtype banane se koi nahi rokta jo sahi naam wale methods toh deta hai par galat kaam karta hai. Aap asani se ek `paint` method bana sakte hain jo paint nahi karta, ya `setFont` method jo font set nahi karta. AWT ke paas aise contracts nahi hain jo is haqeeqat ko pakad sakein ki aapne samjhaute (agreement) ka palan nahi kiya.
+
+Bina contract ke, compiler sirf yeh pakka kar sakta hai ki ek subclass kisi khaas method signature se mel (conforms) khata hai. Lekin agar hum base class ka contract lagate hain, toh ab hum yeh pakka kar sakte hain ki bhavishya ka koi bhi subclass hamare methods ke _matlab_ (meanings) ko nahi badal sakta. Misaal ke taur par, aap `setFont` ke liye is tarah ka ek contract sthapit (establish) karna chahenge, jo yeh pakka kare ki jo font aap set karte hain wahi font aapko milta hai:
+
+```java
+/**
+ * @pre f != null
+ * @post getFont() == f
+ */
+public void setFont( final Font f) {
+    // ...
+
+```
+
+**Implementing DBC (DBC ko Laagu Karna)**
+
+DBC ka istemal karne ka sabse bada fayda yeh ho sakta hai ki yeh requirements aur guarantees ke mudde ko sabse aage (forefront) le aata hai. Design ke waqt sirf is baat ki ginti (enumerating) karna ki input domain ki range kya hai, boundary conditions kya hain, aur routine kya deliver karne ka wada (promise) karta hai—ya, isse bhi mahatvapurn baat, yeh kya deliver karne ka wada _nahi_ karta hai—behtar software likhne ki disha mein ek bahut badi chhalang (leap forward) hai. In baaton ko na batane se, aap wapas **programming by coincidence** (page 172 dekhein) par aa jate hain, jahan se kai projects shuru hote hain, khatam hote hain, aur fail ho jate hain.
+
+Jin languages mein code mein DBC ka support nahi hai, wahan shayad aap bas yahin tak ja sakein—aur yeh utna bhi bura nahi hai. DBC, aakhirkar, ek **design** technique hai. Bina automatic checking ke bhi, aap contract ko comments ke roop mein code mein daal sakte hain aur fir bhi iska bahut asli fayda (real benefit) utha sakte hain. Agar aur kuch nahi toh, commented contracts aapko musibat aane par dhoondhna shuru karne ki ek jagah dete hain.
+
+**Assertions**
+
+Halanki in assumptions (manyataon) ko document karna ek acchi shuruat hai, lekin aap compiler se apne contract ko check karwa kar aur bhi bada fayda hasil kar sakte hain. Aap **assertions** (page 122 par _Assertive Programming_ dekhein) ka istemal karke kuch languages mein iski kuch hadd tak nakal (partially emulate) kar sakte hain. Sirf kuch hadd tak kyun? Kya aap assertions ka istemal wo sab karne ke liye nahi kar sakte jo DBC kar sakta hai?
+
+Badkismati se, iska jawab 'nahi' hai. Shuruat karein toh, assertions ko inheritance hierarchy mein neeche bhejne (propagating) ka koi support nahi hai. Iska matlab hai ki agar aap contract wali base class method ko override karte hain, toh us contract ko laagu karne wale assertions sahi se call nahi honge (jab tak ki aap unhe naye code mein manually duplicate na karein). Har method se exit karne se pehle aapko class invariant (aur sabhi base class invariants) ko manually call karna yaad rakhna hoga. Buniyaadi problem yeh hai ki contract automatically laagu (enforced) nahi hota hai.
+
+Iske alawa, "purani" (old) values ka koi built-in concept nahi hai; yaani, wo values jo kisi method ke andar aate samay (entry) thi. Agar aap contracts ko laagu karne ke liye assertions ka istemal kar rahe hain, toh aapko postcondition mein istemal ki jane wali kisi bhi jankari ko save karne ke liye precondition mein code jodhna hoga. Iski tulna (compare) iContract se karein, jahan postcondition bas _"variable_ @pre ," ka hawala (reference) de sakti hai, ya Eiffel se, jo "old _expression_ ." ko support karta hai.
+
+Aakhir mein, runtime system aur libraries contracts ko support karne ke liye design nahi kiye gaye hain, isliye in calls ki jaanch (checked) nahi ki jati hai. Yeh ek bada nuksan (loss) hai, kyunki aksar aapke code aur uske dwara istemal ki jane wali libraries ke beech ki boundary (seema) par hi sabse zyada problems pakdi jati hain (zyada detail mein charcha ke liye page 120 par _Dead Programs Tell No Lies_ dekhein).
+
+**Language Support (Language ka Samarthan)**
+
+Aisi languages jismein DBC ka built-in support hota hai (jaise Eiffel aur Sather [ URL 12 ]) compiler aur runtime system mein pre- aur postconditions ko automatically check karti hain. Is case mein aapko sabse zyada fayda milta hai kyunki _saare_ code base (libraries bhi) ko apne contracts ka samman (honor) karna hota hai.
+
+Lekin C, C++, aur Java jaisi zyada popular languages ka kya? In languages ke liye, aise preprocessors hain jo original source code mein special comments ke roop mein chhupe hue (embedded) contracts ko process karte hain. Preprocessor in comments ko us code mein phaila (expands) deta hai jo assertions ko verify karta hai.
+
+C aur C++ ke liye, aap Nana [ URL 18 ] ko dekhna chahenge. Nana inheritance ko handle nahi karta, lekin yeh runtime par naye tareeqe (novel way) se assertions ko monitor karne ke liye debugger ka istemal karta hai.
+
+Java ke liye, iContract [ URL 17 ] hai. Yeh (JavaDoc form mein) comments leta hai aur assertion logic ko shaamil karke ek nayi source file generate karta hai.
+
+Preprocessors built-in facility jitne acche nahi hote hain. Inhein aapke project mein integrate karna messy ho sakta hai, aur aapki istemal ki jane wali dusri libraries mein contracts nahi honge. Lekin yeh abhi bhi bahut madadgar ho sakte hain; jab is tareeqe se koi problem pakdi jati hai—khaas kar aisi jise aap _kabhi_ nahi dhoondh paate—toh yeh lagbhag jadoo (magic) jaisa lagta hai.
+
+**DBC and Crashing Early (DBC aur Jaldi Crash Hona)**
+
+DBC hamare 'crashing early' (jaldi crash hone) ke concept ke saath bakhubi fit baithta hai (page 120 par _Dead Programs Tell No Lies_ dekhein). Maan lijiye aapke paas ek method hai jo square roots calculate karta hai (jaise Eiffel class `DOUBLE` mein). Ise ek precondition ki zaroorat hai jo domain ko positive numbers tak mehdood kare. Ek Eiffel precondition keyword `require` ke saath declare ki jati hai, aur postcondition `ensure` ke saath declare ki jati hai, isliye aap likh sakte hain:
+
+---
+
+> **Who's Responsible? (Zimmedar Kaun Hai?)**
+> Precondition ko check karne ka zimmedar kaun hai, caller ya call kiye jane wala routine? Jab isey language ke hisse ke roop mein implement kiya jata hai, toh jawab dono mein se koi nahi hai: caller dwara routine invoke karne ke baad lekin routine ke andar jane se pehle parde ke peeche (behind the scenes) precondition test ki jati hai. Isliye agar parameters ki koi explicit checking (spasht jaanch) karni hai, toh yeh _caller_ dwara ki jani chahiye, kyunki routine ko khud kabhi aise parameters nahi dikhenge jo uski precondition ko violate karte hon. (Bina built-in support wali languages ke liye, aapko _call kiye gaye_ routine ke aage aur/ya peeche (preamble and/or postamble) assertions check karne wala code lagana (bracket) hoga.)
+> Ek aise program par vichar karein jo console se ek number padhta hai, uska square root calculate karta hai (`sqrt` call karke), aur result print karta hai. `sqrt` function ki ek precondition hai—iska argument negative nahi hona chahiye. Agar user console par negative number enter karta hai, toh yeh calling code (call karne wale code) par nirbhar hai ki wo yeh pakka kare ki wo number kabhi `sqrt` ko pass na ho. Is calling code ke paas kai options hain: yeh terminate ho sakta hai, yeh warning dekar ek aur number padh sakta hai, ya yeh number ko positive banakar `sqrt` dwara return kiye gaye result mein _"i"_ jodh (append) sakta hai. Uski choice jo bhi ho, yeh yakinan (definitely) `sqrt` ki problem nahi hai.
+> Square root function ke domain ko `sqrt` routine ki precondition mein express (vyakt) karke, aap correctness ka bojh (burden) caller par daal dete hain—jahan uski asli jagah hai. Phir aap `sqrt` routine ko is vishwas (secure in the knowledge) ke saath design kar sakte hain ki iska input range mein _hoga_.
+
+---
+
+Agar aapka square root calculate karne ka algorithm fail ho jata hai (ya bataye gaye error tolerance ke andar nahi hai), toh aapko ek error message aur call chain dikhane ke liye ek stack trace milta hai.
+
+Agar aap `sqrt` ko ek negative parameter pass karte hain, toh Eiffel runtime stack trace ke saath "sqrt_arg_must_be_positive" error print karta hai. Yeh Java, C, aur C++ jaisi languages ke vikalp se behtar hai, jahan `sqrt` ko negative number pass karne par ek special value `NaN` (Not a Number) return hoti hai. Ho sakta hai program mein thoda aage chal kar aap `NaN` par kuch math karne ki koshish karein, jiske hairat-angez (surprising) results hon.
+
+Jahan problem hui hai wahin jaldi crash (crashing early) karke problem ko dhoondhna aur diagnose karna kahin zyada asaan hota hai.
+
+**Other Uses of Invariants (Invariants ke Anya Upyog)**
+
+Ab tak humne pre- aur postconditions ki charcha ki hai jo individual methods par laagu hoti hain aur invariants jo ek class ke sabhi methods par laagu hote hain, lekin invariants ka istemal karne ke kuch aur upyogi (useful) tareeqe bhi hain.
+
+**Loop Invariants**
+
+Kisi nontrivial (jatil) loop par boundary conditions ko sahi karna pareshani bhara (problematic) ho sakta hai. Loops 'banana problem' (main jaanta hoon "banana" ki spelling kya hai, lekin mujhe yeh nahi pata ki rukna kahan hai), 'fencepost errors' (yeh na jaanna ki fenceposts ko ginna hai ya unke beech ki khaali jagahon ko), aur har jagah paye jane wale (ubiquitous) "off by one" error [ URL 52 ] ka shikaar hote hain.
+
+Invariants in situations mein madad kar sakte hain: ek **loop invariant** kisi loop ke ultimate lakshya (eventual goal) ka statement hota hai, lekin isey itna general (samanya) banaya jata hai ki yeh loop execute hone se pehle aur loop ke zariye har iteration par bhi valid (laagu) hota hai. Aap isey ek chhote contract (miniature contract) ki tarah soch sakte hain. Iska classic example ek routine hai jo array mein sabse maximum (adhiktam) value dhoondhta hai.
+
+( _arr[m:n]_ ek notational convenience (aasani ke liye likha gaya dhang) hai jiska matlab array ka index _m_ se _n_ tak ka slice/tukda hai.) Invariant loop chalne se pehle sach (true) hona chahiye, aur loop ki body ko yeh pakka karna chahiye ki jaise-jaise loop execute ho, yeh sach hi rahe. Is tareeqe se humein pata chalega ki jab loop terminate hota hai tab bhi invariant hold karta hai (laagu rehta hai), aur isliye hamara nateeja (result) valid hai. Loop invariants ko explicitly assertions ke roop mein code kiya ja sakta hai, lekin yeh design aur documentation tools ke roop mein bhi useful hote hain.
+
+**Semantic Invariants**
+
+Aap an-chhui requirements (inviolate requirements), jo ek tarah ka "philosophical contract" hota hai, ko express karne ke liye **semantic invariants** ka istemal kar sakte hain.
+
+Humne ek baar ek debit card transaction switch likha tha. Ek sabse badi requirement (zarurat) yeh thi ki kisi debit card ke user ke account par kabhi bhi ek hi transaction do baar laagu (applied) nahi hona chahiye. Dusre shabdon mein, chahe kis bhi tarah ka failure mode kyun na aaye, error aisi honi chahiye ki wo transaction ko process _na_ kare bajaye iske ki wo duBplicate transaction ko process kar de.
+
+Seedhe requirements se aaya yeh simple law (niyam), jatil (complex) error recovery scenarios ko suljhane (sorting out) mein bahut madadgar saabit hua, aur isne kai areas mein detailed design aur implementation ko guide kiya.
+
+Fixed, kabhi na tootne wale (inviolate) kanoon jaise requirements ko aisi policies se confuse na karein jo naye management regime (shasan) ke aane par badal sakti hain.
+
+Yahi wajah hai ki hum **semantic** invariants shabd ka istemal karte hain—yeh kisi cheez ke _matlab (meaning)_ ka center hona chahiye, aur policy ke nakhron (whims) par nirbhar nahi hona chahiye (kyunki dynamic business rules wahi kaam karne ke liye hote hain).
+
+Jab aapko aisi requirement milti hai jo qualify karti hai, toh yeh pakka karein ki aap jo bhi documentation bana rahe hain yeh uska ek well-known hissa ban jaye—chahe wo requirements document mein ek bulleted list ho jis par teen copies mein (in triplicate) sign kiye jate hon, ya bas common whiteboard par ek bada note ho jise sab log dekhte hon. Ise saaf aur bina kisi shaq ke (unambiguously) batane ki koshish karein. Misaal ke taur par, debit card example mein, hum likh sakte hain...
+ 
+##### ERR IN FAVOR OF THE CONSUMER (CONSUMER KE FAYDE MEIN GALTI KAREIN)
+
+Yeh ek saaf (clear), sateek (concise) aur spasht (unambiguous) statement hai jo system ke kai alag-alag kshetron (areas) mein laagu hota hai. Yeh system ke sabhi users ke saath hamara contract hai, hamare vyavahar (behavior) ki guarantee hai.
+
+**Dynamic Contracts aur Agents**
+
+Ab tak, humne contracts ke baare mein ek tay (fixed) aur na-badalne-wali (immutable) specifications ke roop mein baat ki hai. Lekin autonomous agents ki duniya mein, aisa hona zaroori nahi hai. "Autonomous" (swatantra) ki paribhasha ke mutabik, agents aisi requests ko *reject* karne ke liye azaad hain jinhe wo poora (honor) nahi karna chahte. Wo contract par dobara mol-bhav (renegotiate) karne ke liye azaad hain—"Main wo toh nahi de sakta, lekin agar aap mujhe yeh dein, toh main shayad kuch aur de sakta hoon."
+
+Yakeenan (certainly), koi bhi system jo agent technology par nirbhar karta hai, uski contractual arrangements par ek *nazuk (critical)* nirbharta hoti hai—bhale hi wo dynamically generate kiye gaye hon.
+
+Kalpana kijiye (imagine): kaafi saare components aur agents ke hone se jo ek lakshya (goal) hasil karne ke liye aapas mein apne khud ke contracts negotiate kar sakte hain, hum shayad software ki productivity crisis ko sirf software ko hi hamare liye solve karne dekar suljha (solve) sakte hain.
+
+Lekin agar hum contracts ka istemal haath se nahi kar sakte, toh hum unhe automatically bhi istemal nahi kar payenge. Isliye agli baar jab aap koi software design karein, toh uska contract bhi design karein.
+
+**Related sections include:**
+
+* Orthogonality, page 34
+* Dead Programs Tell No Lies, page 120
+* Assertive Programming, page 122
+* How to Balance Resources, page 129
+* Decoupling and the Law of Demeter, page 138
+* Temporal Coupling, page 150
+* Programming by Coincidence, page 172
+* Code That's Easy to Test, page 189
+* Pragmatic Teams, page 224
+
+**Challenges (Chunautiyan)**
+
+* Vichar karne ke liye bindu (Points to ponder): Agar DBC itna powerful hai, toh iska zyada paimane par (widely) istemal kyun nahi hota? Kya contract banana mushkil hai? Kya yeh aapko un muddon ke baare mein sochne par majboor karta hai jinhe aap abhi ke liye ignore karna chahte the? Kya yeh aapko SOCHNE (THINK) par majboor karta hai!? Saaf taur par, yeh ek khatarnak (dangerous) tool hai!
+
+**Exercises (Abhyaas)**
+
+**14.** Ek accha contract kya banata hai? Koi bhi preconditions aur postconditions jod sakta hai, lekin kya unse aapko koi fayda hoga? Aur bhi bura, kya wo waqayi fayde se zyada nuksaan karenge? Niche diye gaye udaharan (example) aur Exercises 15 aur 16 ke liye, faisla karein ki bataya gaya contract accha (good), bura (bad), ya ghatiya (ugly) hai, aur samjhayein kyun.
+
+Sabse pehle, aaiye ek Eiffel example dekhte hain. Yahan hamare paas ek doubly linked, circular list mein `STRING` jodhne ka ek routine hai (yaad rakhein ki preconditions ko `require` se aur postconditions ko `ensure` se label kiya jata hai).
+
+**15.** Agla, aaiye Java mein ek example try karte hain—kuch hadd tak Exercise 14 ke example jaisa. `insertNumber` ek ordered list mein ek integer insert karta hai. Pre- aur postconditions ko iContract ki tarah label kiya gaya hai ([ URL 17 ] dekhein).
+
+**16.** Yahan Java mein ek stack class ka hissa (fragment) hai. Kya yeh ek accha contract hai?
+
+**17.** DBC ke classic examples (jaise Exercises 14–16 mein) ek ADT (Abstract Data Type) ka implementation dikhate hain—aam taur par ek stack ya queue. Lekin bahut kam log waqayi is tarah ki low-level classes likhte hain.
+
+Isliye, is exercise ke liye, ek kitchen blender ka interface design karein. Yeh aage chalkar ek Web-based, Internet-enabled, CORBA-fied blender banega, lekin abhi ke liye humein sirf isey control karne ke liye interface chahiye. Isme 10 speed settings hain (0 ka matlab off hai). Aap ise khaali (empty) nahi chala sakte, aur aap ek baar mein speed sirf ek unit hi badal sakte hain (yaani 0 se 1, aur 1 se 2, na ki 0 se 2).
+
+Yahan methods diye gaye hain. Sahi (appropriate) pre- aur postconditions aur ek invariant jodein.
+
+**18.** Series 0, 5, 10, 15, ..., 100 mein kitne numbers hain?
+
+---
