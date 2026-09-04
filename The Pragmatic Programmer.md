@@ -3256,3 +3256,146 @@ Apne maujooda project ke liye, sochein ki application ka kitna hissa program se 
 3. Ek editor ka alag-alag graphic devices ke liye support
 4. Parser ya scanner ke liye ek state machine
 5. Unit testing mein istemal ke liye sample values aur results
+
+#### 28. Temporal Coupling (Waqt ki Coupling)
+
+Aap pooch sakte hain ki *temporal coupling* aakhir kya hai. Yeh waqt (time) ke baare mein hai.
+
+Waqt software architectures ka ek aksar nazarandaz kiya jane wala (ignored) pehlu hai. Hamein sirf us waqt ki fikr hoti hai jo schedule par hota hai, ya jo ship karne mein bacha hota hai—lekin hum yahan iski baat nahi kar rahe hain. Iske bajaye, hum software ke design element ke roop mein waqt ke kirdaar (role) ki baat kar rahe hain. Waqt ke do pehlu (aspects) hamare liye mahatvapurn hain: concurrency (ek hi waqt par cheezon ka hona) aur ordering (waqt mein cheezon ka ek-dusre ke aage-peeche hona).
+
+Hum aam taur par inmein se kisi bhi pehlu ko dhyan mein rakh kar programming nahi karte. Jab log pehli baar kisi architecture ko design karne ya program likhne baithte hain, toh cheezein linear (sidhi rekha mein) hone lagti hain. Zyadatar log isi tarah sochte hain—*yeh karo* aur phir hamesha *woh karo*. Lekin is tarah sochne se *temporal coupling* hoti hai: waqt mein coupling. Method A ko hamesha method B se pehle call karna zaroori hai; ek waqt par sirf ek hi report chal sakti hai; button click receive hone se pehle aapko screen ke redraw hone ka intezar karna hoga. Tick hamesha tock se pehle aana chahiye.
+
+Yeh approach zyada lachili (flexible) nahi hai, aur na hi zyada haqeeqat ke kareeb (realistic) hai.
+
+Hamein concurrency [3] ki ijazat deni hogi aur kisi bhi waqt ya kram (order) ki dependencies ko alag (decouple) karne ke baare mein sochna hoga. Aisa karke, hum development ke kai hisson mein flexibility hasil kar sakte hain aur waqt par nirbhar (time-based) dependencies ko kam kar sakte hain: workflow analysis, architecture, design, aur deployment mein.
+
+> [3] Hum yahan concurrent ya parallel programming ki baarikiyon (details) mein nahi jayenge; computer science ki ek acchi kitab mein iske buniyaadi concepts (basics) cover hone chahiye, jisme scheduling, deadlock, starvation, mutual exclusion/semaphores, ityadi shamil hain.
+
+**Workflow (Kaam ka Bahaav)**
+
+Kai projects par, hamein requirements analysis ke hisse ke roop mein users ke workflows ko model aur analyze karne ki zaroorat hoti hai. Hum yeh pata lagana chahte hain ki ek hi waqt par kya *ho sakta hai*, aur kya ek sakht (strict) order mein hona chahiye. Ise karne ka ek tareeqa *UML activity diagram* [4] jaisi notation ka istemal karke unke workflow ke description ko capture karna hai.
+
+> [4] UML diagram ke sabhi types ke baare mein aur jankari ke liye, [FS97] dekhein.
+
+Ek activity diagram mein actions ka ek set hota hai jinhe gol kinaray wale boxes (rounded boxes) ke roop mein banaya jata hai. Ek action se nikalne wala teer (arrow) ya toh kisi dusre action ki taraf jata hai (jo pehle action ke poora hone par shuru ho sakta hai) ya ek moti line ki taraf jise *synchronization bar* kehte hain. Ek baar jab kisi synchronization bar ki taraf aane wale *sabhi* actions poore ho jate hain, toh aap bar se nikalne wale kisi bhi teer ke sath aage badh sakte hain. Ek aisa action jiski taraf koi teer nahi aa raha ho, use kisi bhi waqt shuru kiya ja sakta hai.
+
+Aap un activities ko pehchan kar parallelism ko zyada se zyada (maximize) karne ke liye activity diagrams ka istemal kar sakte hain jo parallel (ek saath) mein perform ki *ja sakti hain*, lekin ki nahi ja rahi hain.
+
+---
+
+> **Tip 39**
+> **Analyze Workflow to Improve Concurrency**
+> (Concurrency ko behtar banane ke liye Workflow ko Analyze karein)
+
+---
+
+Misaal ke taur par, hamare blender project (Exercise 17, page 119) mein, users shuru mein apne maujooda workflow ko is tarah describe kar sakte hain.
+
+1. Blender kholein
+2. Piña colada mix kholein
+3. Mix ko blender mein dalein
+4. 1/2 cup white rum napein (measure karein)
+5. Rum dalein
+6. 2 cup barf dalein
+7. Blender band karein
+8. 2 minute ke liye liquefy karein (ghol dein)
+9. Blender kholein
+10. Glasses laayein
+11. Pink umbrellas (chhatriyan) laayein
+12. Serve karein
+
+Bhale hi wo in actions ko ek ke baad ek (serially) describe karte hain, aur shayad unhe serially perform bhi karte hon, hum dekhte hain ki unmein se kai kaam parallel mein kiye ja sakte the, jaisa ki hum agle page par Figure 5.2 ke activity diagram mein dikhate hain.
+
+> **Figure 5.2. UML activity diagram: piña colada banana**
+
+Yeh dekhna aankhein kholne wala (eye-opening) ho sakta hai ki asal mein dependencies kahan maujood hain. Is mamle mein, top-level tasks (1, 2, 4, 10, aur 11) sabhi shuruat mein (up front) ek sath (concurrently) ho sakte hain. Tasks 3, 5, aur 6 baad mein parallel mein ho sakte hain.
+
+Agar aap piña colada banane ke kisi muqable (contest) mein hote, toh yeh optimizations aapki jeet-haar ka faisla kar sakte the.
+
+**Architecture**
+
+Humne kuch saal pehle ek On-Line Transaction Processing (OLTP) system likha tha. Sabse simple roop mein, system ko bas ek request padhni thi aur database par transaction process karna tha. Lekin humne ek three-tier, multiprocessing distributed application likhi: har component ek azaad (independent) entity tha jo baaki sabhi components ke saath concurrently chalta tha. Halanki yeh sunne mein zyada mehnat ka kaam lagta hai, par aisa nahi tha: temporal decoupling ka fayda uthane se ise likhna *asaan* ho gaya. Aaiye is project par ek nazdeeki nazar dalte hain.
+
+Yeh system bahut saari data communication lines se requests leta hai aur back-end database par transactions process karta hai.
+
+Design neeche di gayi rukawaton (constraints) ko suljhata (addresses) hai:
+
+* Database operations ko poora hone mein tulnatmak roop se lamba waqt lagta hai.
+* Har transaction ke liye, database transaction process hote waqt hamein communication services ko block nahi karna chahiye.
+* Bahut zyada concurrent sessions hone par database ki performance gir jati (suffers) hai.
+* Har data line par ek hi waqt mein (concurrently) kai transactions chal rahe hote hain.
+
+Jis samadhan (solution) ne hamein sabse achi performance aur sabse saaf architecture diya, wo Figure 5.3 jaisa dikhta tha.
+
+> **Figure 5.3. OLTP architecture ka overview**
+
+Har box ek alag process ko darshata hai; processes work queues ke zariye aapas mein communicate karte hain. Har input process ek incoming communication line par nazar rakhta (monitors) hai, aur application server ko requests bhejta hai. Sabhi requests asynchronous hoti hain: jaise hi input process apni maujooda request bhejta hai, wo aur traffic dhoondhne ke liye wapas line ko monitor karne lag jata hai. Isi tarah, application server database process ko requests bhejta hai, [5] aur jab individual transaction poora ho jata hai toh use notify kiya jata hai (inform kiya jata hai).
+
+> [5] Halanki hum database ko ek single, monolithic entity ke roop mein dikhate hain, lekin yeh aisa nahi hai. Database software ko kai processes aur client threads mein baanta (partitioned) gaya hai, lekin ise database software internally handle karta hai aur yeh hamare udaharan (example) ka hissa nahi hai.
+
+Yeh udaharan (example) kai consumer processes ke beech quick aur dirty load balancing hasil karne ka ek tareeqa bhi dikhata hai: *hungry consumer* model.
+
+Ek hungry consumer model mein, aap central scheduler ko hata kar uski jagah kai azaad (independent) consumer tasks aur ek centralized work queue laga dete hain. Har consumer task work queue se ek kaam uthata hai aur use process karne mein lag jata hai. Jaise hi har task apna kaam poora karta hai, wo thoda aur kaam lene ke liye wapas queue mein chala jata hai. Is tarah, agar koi ek task dhima pad (bogged down) jata hai, toh dusre tasks uska bacha hua kaam (slack) utha sakte hain, aur har individual component apni khud ki raftaar (pace) se aage badh sakta hai. Har component dusre components se waqt ke hisab se (temporally) alag (decoupled) hota hai.
+
+---
+
+> **Tip 40**
+> **Design Using Services**
+> (Services ka Istemal karke Design karein)
+
+---
+
+Components ke bajaye, humne sach mein *services* banayi hain—well-defined, consistent interfaces ke piche chhupe azaad (independent), concurrent objects.
+
+**Design for Concurrency (Concurrency ke liye Design)**
+
+Ek platform ke roop mein Java ki badhti sweekriti (acceptance) ne zyada developers ko multithreaded programming se milwaya hai. Lekin threads ke saath programming karne par kuch design constraints (rukawatein) lagti hain—aur yeh ek acchi baat hai. Woh constraints waqayi mein itni madadgar hain ki jab bhi hum program karte hain toh hum unka palan karna chahte hain. Yeh hamein apne code ko decouple karne aur *programming by coincidence* (page 172 dekhein) se ladne mein madad karega.
+
+Linear code ke saath, aisi manyatayein (assumptions) banana aasaan hota hai jo laparwah (sloppy) programming ki taraf le jati hain. Lekin concurrency aapko cheezon ko thoda aur dhyan se sochne par majboor karti hai—ab aap party mein akele nahi hain. Kyunki ab cheezein "ek hi waqt" (same time) par ho sakti hain, isliye aapko achanak kuch time-based dependencies dikh sakti hain.
+
+Shuruat karne ke liye, kisi bhi global ya static variables ko concurrent access (ek sath istemal) se bachana zaroori hai. Ab yeh khud se poochne ka accha waqt ho sakta hai ki aapko sabse pehle ek global variable ki zaroorat hi *kyun* hai. Iske alawa, aapko yeh pakka karna hoga ki aap consistent state information dein, chahe calls ka kram (order) kuch bhi ho. Misaal ke taur par, aapke object ki state ko query karna kab valid hai? Agar aapka object kuch calls ke beech invalid state mein hota hai, toh aap is ittefaq (coincidence) par nirbhar kar rahe hain ki us waqt (point in time) koi bhi aapke object ko call nahi kar sakta.
+
+Maan lijiye ki aapke paas ek windowing subsystem hai jahan widgets pehle create kiye jate hain aur phir display par dikhaye jate hain, jo ki do alag-alag steps hain. Jab tak widget dikhaya (shown) na jaye, aapko uski state set karne ki ijazat nahi hoti. Code kaise set up kiya gaya hai, iske adhaar par aap is baat par nirbhar ho sakte hain ki jab tak aapne use screen par dikhaya nahi hai, tab tak koi dusra object us created widget ko use nahi kar sakta.
+
+Lekin ek concurrent system mein yeh sach nahi bhi ho sakta. Objects ko call kiye jane par hamesha valid state mein hona chahiye, aur unhe sabse ajeeb (awkward) waqt par bhi call kiya ja sakta hai. Aapko yeh pakka karna hoga ki object *kisi bhi* waqt valid state mein ho jab uske call hone ki sambhavna ho. Aksar yeh problem un classes ke saath aati hai jo alag-alag constructor aur initialization routines define karte hain (jahan constructor object ko initialized state mein nahi chhodta). Class invariants ka istemal karna, jis par *Design by Contract*, page 109 mein charcha ki gayi hai, aapko is jaal (trap) se bachne mein madad karega.
+
+**Cleaner Interfaces (Saaf Interfaces)**
+
+Concurrency aur waqt ke order par nirbhar dependencies ke baare mein sochne se aap aur bhi saaf (cleaner) interfaces design kar sakte hain. C library routine `strtok` ko hi lein, jo ek string ko tokens mein todta hai.
+
+`strtok` ka design thread safe nahi hai, [6] lekin yeh sabse buri baat nahi hai: iski time dependency ko dekhein. Aapko `strtok` par pehli call us variable ke saath karni hoti hai jise aap parse karna chahte hain, aur uske baad ki saari calls `NULL` ke saath karni hoti hain. Agar aap `NULL` ki jagah koi aur (non-NULL) value pass karte hain, toh yeh us buffer par parse dobara shuru kar deta hai. Threads ke baare mein soche bina hi, maan lijiye aap `strtok` ka istemal ek hi waqt par do alag-alag strings ko parse karne ke liye karna chahte hain:
+
+> [6] Yeh buffer mein current position maintain karne ke liye static data ka istemal karta hai. Static data concurrent access ke khilaf protected nahi hota, isliye yeh thread safe nahi hai. Iske alawa, yeh aapke dwara pass kiye gaye pehle argument ko overwrite (clobbers) kar deta hai, jisse kuch bhayankar (nasty) hairaniyan (surprises) mil sakti hain.
+
+Jaisa ki dikhaya gaya hai, yeh kaam nahi karega: `strtok` calls ke beech chhupe hue (implicit) state ko banaye rakhta hai. Aapko ek waqt mein sirf ek hi buffer par `strtok` ka istemal karna padega.
+
+Ab Java mein, ek string parser ka design alag hona hi tha. Ise thread safe hona chahiye aur ek consistent state dikhani chahiye.
+
+`StringTokenizer` ek bahut hi saaf, aur asani se maintain hone wala interface hai. Isme koi hairani (surprises) nahi hoti, aur bhavishya mein yeh `strtok` ki tarah rahasyamayi (mysterious) bugs paida nahi karega.
+
+---
+
+> **Tip 41**
+> **Always Design for Concurrency**
+> (Hamesha Concurrency Ke Liye Design Karein)
+
+---
+
+**Deployment**
+
+Ek baar jab aap concurrency ke tatva (element) ke saath ek architecture design kar lete hain, toh *kai* concurrent services ko handle karne ke baare mein sochna aasaan ho jata hai: yeh model har jagah fael (pervasive) jata hai.
+
+Ab aap is baat ko lekar flexible ho sakte hain ki application ko deploy kaise kiya jaye: standalone, client-server, ya *n*-tier. Apne system ko azaad (independent) services ke roop mein architect karke, aap configuration ko bhi dynamic bana sakte hain. Concurrency ki planning karke, aur waqt ke hisab se operations ko decouple karke, aapke paas yeh saare options hote hain—jisme standalone option bhi shamil hai, jahan aap concurrent *na* hone ka chunav kar sakte hain.
+
+Doosri taraf jana (ek nonconcurrent application mein concurrency jodne ki koshish karna) *bahut* zyada mushkil hai. Agar hum concurrency ki ijazat dene ke liye design karte hain, toh waqt aane par hum scalability ya performance requirements ko zyada asani se poora kar sakte hain—aur agar wo waqt kabhi nahi aata, toh bhi hamare paas ek saaf (cleaner) design ka fayda hota hi hai.
+
+Kya ab waqt nahi aa gaya hai? (Isn't it about time?)
+
+**Related sections include:**
+
+* Design by Contract, page 109
+* Programming by Coincidence, page 172
+
+**Challenges**
+
+* Subah kaam ke liye taiyar hote waqt aap kitne tasks parallel mein karte hain? Kya aap isey UML activity diagram mein dikha (express) sakte hain? Kya aap concurrency badha kar jaldi taiyar hone ka koi tareeqa dhoondh sakte hain?
