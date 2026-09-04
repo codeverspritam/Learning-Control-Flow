@@ -3543,3 +3543,99 @@ Agar aap kisi passenger ko wait list mein jodte hain, toh koi opening (jagah) av
 Ek bahut bada reporting job hai jo overbooked ya full flights ko dhoondhta hai taaki suggest (sujhaav) kar sake ki additional flights kab schedule ki ja sakti hain. Yeh theek kaam karta hai, lekin ise chalne mein ghanton lag jate hain.
 
 Hum wait-list passengers ko process karne mein thodi aur flexibility chahte hain, aur hamein us badi report ke baare mein kuch karna hoga—ise chalne mein bahut lamba waqt lagta hai. Is interface ko redesign karne ke liye is section ke ideas ka istemal karein.
+
+#### 30. Blackboards (Blackboards)
+
+> *Deewar par likha hua hai (The writing is on the wall)...*
+
+Aam taur par aap police detectives ke saath *elegance* (khubsoorati ya nazaakat) ko nahi jodte honge, iske bajaye aapke dimaag mein doughnut aur coffee ki koi purani (cliché) tasveer aati hogi. Lekin sochein ki kaise detectives ek murder investigation (khoon ki tahqeeqat) ko coordinate aur solve karne ke liye ek *blackboard* ka istemal kar sakte hain.
+
+Maan lijiye ki chief inspector conference room mein ek bada blackboard lagakar shuruat karta hai. Us par, wo ek akela sawal likhta hai:
+
+##### H. DUMPTY (MALE, EGG): HAADSA YA KHOON (ACCIDENT OR MURDER)?
+
+Kya Humpty sach mein gira tha, ya use dhakka diya gaya tha? Har detective is sambhavit (potential) murder mystery mein apna yogdaan (contributions) de sakta hai—jaise facts (tathya) jodna, gawahon (witnesses) ke bayaan (statements) likhna, koi forensic saboot (evidence) jo saamne aaye, ityadi. Jaise-jaise data ikatha (accumulates) hota hai, ek detective ko koi connection dikh sakta hai aur wo us observation (avalokan) ya andaze (speculation) ko bhi post kar sakta hai. Yeh process chalta rehta hai, saari shifts mein, kai alag-alag logon aur agents ke saath, jab tak ki case band (closed) na ho jaye. Agle page par Figure 5.6 mein ek sample blackboard dikhaya gaya hai.
+
+> **Figure 5.6. Kisi ko Humpty ke juye (gambling) ke karze aur phone logs ke beech ek connection mil gaya. Shayad use dhamki bhare (threatening) phone calls aa rahe the.**
+
+Blackboard approach ke kuch mukhya features (khaasiyatein) yeh hain:
+
+* Kisi bhi detective ko kisi dusre detective ke hone (existence) ke baare mein janne ki zaroorat nahi hai—wo nayi jankari ke liye board dekhte hain, aur apni findings (khoj) jodte hain.
+* Detectives ki training alag-alag disciplines (kshetron) mein ho sakti hai, unki education aur expertise ka level alag ho sakta hai, aur ho sakta hai wo ek hi thane (precinct) mein kaam bhi na karte hon. Unke beech sirf ek hi common cheez hoti hai—case solve karne ki chahat (desire), bas aur kuch nahi.
+* Is process ke dauran alag-alag detectives aa aur ja sakte hain, aur alag-alag shifts mein kaam kar sakte hain.
+* Blackboard par kya rakha ja sakta hai, is par koi pabandi (restrictions) nahi hai. Yeh tasveerein, sentences, physical evidence (bhotik saboot), ityadi kuch bhi ho sakta hai.
+
+Humne kai aise projects par kaam kiya hai jinme ek workflow ya distributed data gathering process shamil tha. Har ek ke saath, ek simple blackboard model ke ird-gird (around) solution design karne se hamein kaam karne ke liye ek thos roopak (solid metaphor) mila: detectives ka istemal karke upar di gayi saari features objects aur code modules par bhi waise hi laagu (applicable) hoti hain.
+
+Ek blackboard system hamein apne objects ko ek-dusre se poori tarah decouple (alag) karne deta hai, ek aisa forum de kar jahan knowledge consumers (istemaal karne wale) aur producers (banane wale) apna data anonymously (bina naam bataye) aur asynchronously (apne waqt par) exchange kar sakein. Jaisa ki aap andaza laga sakte hain, yeh hamare dwara likhe jane wale code ki matra (amount) ko bhi kam karta hai.
+
+**Blackboard Implementations (Blackboard ko Laagu Karna)**
+
+Computer-based blackboard systems ko shuru mein (originally) Artificial Intelligence (AI) applications mein istemal ke liye invent kiya gaya tha jahan solve kiye jane wali problems badi aur complex (jatil) thin—jaise speech recognition, knowledge-based reasoning systems, ityadi.
+
+Aadhunik (Modern) distributed blackboard jaise systems jaise JavaSpaces aur T Spaces [ URL 50 , URL 25 ] key/value pairs ke ek model par adharit hain jise sabse pehle Linda [ CG90 ] mein popular kiya gaya tha, jahan is concept ko *tuple space* ke naam se jana jata tha.
+
+In systems ke saath, aap blackboard par active Java objects store kar sakte hain—sirf data hi nahi—aur unhe fields ki partial matching (templates aur wildcards ke zariye) ya subtypes ke zariye wapas nikaal (retrieve) sakte hain. Misaal ke taur par, maan lijiye aapke paas `Author` type hai, jo `Person` ka ek subtype hai. Aap `Person` objects wale ek blackboard par `Author` template ka istemal karke search kar sakte hain jiska `lastName` value "Shakespeare" ho. Aapko lekhak (author) Bill Shakespeare toh mil jayega, lekin mali (gardener) Fred Shakespeare nahi milega.
+
+JavaSpaces mein main (mukhya) operations yeh hain:
+
+T Spaces bhi lagbhag aise hi operations ko support karta hai, lekin alag naamon aur thode alag semantics ke saath. Dono systems ek database product ki tarah banaye gaye hain; wo data integrity (akhandta) ko pakka karne ke liye atomic operations aur distributed transactions dete hain.
+
+Kyunki hum objects store kar sakte hain, isliye hum sirf data ke nahi balki *objects ke bahaav (flow of objects)* par aadharit algorithms design karne ke liye ek blackboard ka istemal kar sakte hain. Yeh bilkul aisa hai jaise hamare detectives blackboard par logon ko pin kar sakein—khud gawahon (witnesses) ko, na ki sirf unke bayano (statements) ko. Koi bhi case ke silsile mein kisi gawah se sawal pooch sakta hai, transcript post kar sakta hai, aur us gawah ko blackboard ke kisi dusre area mein le ja sakta hai, jahan wo alag tarah se jawab de sakta hai (agar aap gawah ko bhi blackboard padhne ki ijazat dein).
+
+Is tarah ke systems ka ek bada fayda yeh hai ki aapke paas blackboard ke liye ek single, consistent interface hota hai. Ek aam (conventional) distributed application banate waqt, aap system mein har distributed transaction aur interaction ke liye unique API calls craft (banane) karne mein bahut zyada waqt bita sakte hain. Interfaces aur interactions ke tezi se badhne (combinatorial explosion) ki wajah se, project jaldi hi ek bure sapne (nightmare) mein badal sakta hai.
+
+---
+
+> **Organizing Your Blackboard (Apne Blackboard ko Organize Karna)**
+> Jab detectives bade cases par kaam karte hain, toh blackboard kaafi bhara hua (cluttered) ho sakta hai, aur board par data dhoondhna mushkil ho sakta hai. Iska samadhan blackboard ko hisson mein baantna (partition karna) aur blackboard par data ko kisi tarah organize karna shuru karna hai.
+> Alag-alag software systems is partitioning ko alag-alag tareeqon se handle karte hain; kuch kafi flat zones ya interest groups ka istemal karte hain, jabki dusre ek zyada hierarchical tree-jaisa structure (treelike structure) apnate hain.
+
+---
+
+Programming ka blackboard style itne saare interfaces ki zaroorat ko hata deta hai, jisse ek zyada saaf (elegant) aur consistent system banta hai.
+
+**Application Example (Udaharan)**
+
+Maan lijiye hum mortgage (girvi) ya loan applications ko accept aur process karne ke liye ek program likh rahe hain. Is area ko chalaane wale kanoon (laws) behad complex (odiously complex) hote hain, jisme federal, state, aur local governments sabki apni-apni baatein hoti hain. Lender (udhar dene wale) ko yeh saabit (prove) karna hota hai ki unhone kuch cheezein batayi hain (disclosed), aur unhe kuch khaas jankari maangni hi hoti hai—lekin kuch dusre sawal *nahi* poochne chahiye, ityadi, ityadi.
+
+Laagu hone wale kanoon ke is dhund (miasma) ke aage, hamein neeche di gayi problems se bhi nipatna (contend) hota hai.
+
+* Data aane ke kram (order) ki koi guarantee nahi hoti. Misaal ke taur par, credit check ya title search ki queries mein kaafi lamba waqt lag sakta hai, jabki naam aur address jaise items turant available ho sakte hain.
+* Data ikatha (gathering) karne ka kaam alag-alag logon dwara, alag-alag time zones mein faile (distributed) alag-alag offices mein kiya ja sakta hai.
+* Kuch data gathering dusre systems dwara automatically bhi ki ja sakti hai. Yeh data bhi asynchronously (apne waqt par) aa sakta hai.
+* Phir bhi, kuch data abhi bhi dusre data par nirbhar (dependent) ho sakta hai. Misaal ke taur par, aap tab tak kisi car ke liye title search shuru nahi kar payenge jab tak aapko ownership (malikana haq) ya insurance ka saboot na mil jaye.
+* Naye data ke aane se naye sawal aur policies uth sakti hain. Maan lijiye credit check ek bekaar (less than glowing) report ke saath wapas aata hai; ab aapko in 5 extra forms aur shayad ek blood sample ki bhi zaroorat hai.
+
+Aap ek workflow system ka istemal karke har mumkin combination aur halaat (circumstance) ko handle karne ki koshish kar sakte hain. Aise kai systems maujood hain, lekin wo complex aur programmer-intensive (programmers ke liye mehnat bhare) ho sakte hain. Jaise-jaise niyam (regulations) badalte hain, workflow ko dobara organize (reorganized) karna padta hai: logon ko apni procedures badalni pad sakti hain aur hard-wired code ko dobara likhna pad sakta hai.
+
+Ek blackboard, ek aise rules engine (jo kanooni zarooraton ko encapsulate/cover karta ho) ke saath milkar, yahan aane wali mushkilon ka ek saaf-suthra (elegant) samadhan hai. Data ke aane ka kram yahan be-maani (irrelevant) hai: jab koi fact post kiya jata hai toh yeh appropriate rules ko trigger kar sakta hai. Feedback ko bhi asani se handle kiya jata hai: kisi bhi rules ke set ka output blackboard par post ho sakta hai aur aur bhi zyada applicable rules ko trigger karne ka zariya ban sakta hai.
+
+---
+
+> **Tip 43**
+> **Use Blackboards to Coordinate Workflow**
+> (Workflow ko Coordinate karne ke liye Blackboards ka Istemal Karein)
+
+---
+
+Hum alag-alag (disparate) facts aur agents ko coordinate karne ke liye blackboard ka istemal kar sakte hain, aur phir bhi participate karne walon ke beech independence aur yahan tak ki isolation (akelapan/dooriyan) maintain kar sakte hain.
+
+Zahir hai, aap inhe results ko aur zyada brute-force (zor-zabardasti wale) methods se bhi hasil kar sakte hain, lekin aapka system zyada brittle (naazuk) hoga. Jab yeh tootega, toh raja ke saare ghode aur saare aadmi (all the king's horses and all the king's men) bhi milkar aapke program ko dobara theek nahi kar payenge.
+
+**Related sections include:**
+
+* The Power of Plain Text, page 73
+* It's Just a View, page 157
+
+**Challenges (Chunautiyan)**
+
+* Kya aap real world (asli duniya) mein blackboard systems ka istemal karte hain—fridge ke paas wala message board, ya office mein bada whiteboard? Kya cheez unhe effective (asardaar) banati hai? Kya messages kabhi ek consistent (ek-jaise) format mein post kiye jate hain? Kya isse farq padta hai?
+
+**Exercises (Abhyaas)**
+
+**30.** Neeche di gayi har application ke liye, kya ek blackboard system munasib (appropriate) hoga ya nahi? Kyun?
+
+1. **Image processing.** Aap chahenge ki kai parallel processes kisi image ke chunks (tukde) lein, unhe process karein, aur complete kiye gaye chunk ko wapas rakh dein.
+2. **Group calendaring.** Aapke paas log hain jo poori duniya mein bikhre hue (scattered) hain, alag-alag time zones mein hain, aur alag-alag languages bolte hain, jo ek meeting schedule karne ki koshish kar rahe hain.
+3. **Network monitoring tool.** System performance statistics ikatha karta hai aur trouble reports (pareshani ki reports) collect karta hai. Aap is jankari ka istemal karke system mein troubles (mushkilein) dhoondhne ke liye kuch agents implement karna chahenge.
