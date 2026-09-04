@@ -3121,3 +3121,138 @@ void processTransaction(Transaction *t) {
     // ...
 
 ```
+
+#### 27. Metaprogramming (Metaprogramming)
+
+> "Bariqion (detail) par zyada dhayan dene se koi bhi genius bach nahi sakta."
+> — **Levy's Eighth Law**
+
+Details hamare saaf-suthre (pristine) code ko kharab kar deti hain—khaas taur par agar wo baar-baar badalti hon. Har baar jab hamein business logic, kanoon (law), ya management ke us din ke personal tastes mein kisi badlaav ko adjust karne ke liye code mein ja kar badlaav karna padta hai, toh hum system ko todne (breaking)—yaani ek naya bug paida karne—ka khatra mol lete hain.
+
+Isliye hum kehte hain "details ko bahar nikalo!" Unhe code se bahar karo. Aisa karte hue, hum apne code ko behad configurable aur "soft" bana sakte hain—yaani, badlaavon ke anusaar aasani se dhalne-layak (adaptable).
+
+**Dynamic Configuration (Gatishil Vinyas)**
+
+Sabse pehle, hum apne systems ko highly configurable banana chahte hain. Sirf screen colors aur prompt text jaisi cheezein nahi, balki gehrai se jude items (deeply ingrained items) jaise algorithms ka chunav, database products, middleware technology, aur user-interface style. In items ko integration ya engineering ke zariye nahi, balki configuration options ke roop mein implement kiya jana chahiye.
+
+---
+
+> **Tip 37**
+> **Configure, Don't Integrate**
+> (Configure karein, Integrate na karein)
+
+---
+
+Kisi application ke liye configuration options (jaise tuning parameters, user preferences, installation directory, ityadi) ko batane ke liye **metadata** ka istemal karein.
+
+Metadata aakhir hai kya? Sahi mayno mein (Strictly speaking), metadata 'data ke baare mein data' hai. Iska sabse aam udaharan shayad database schema ya data dictionary hai. Schema mein aisa data hota hai jo fields (columns) ko unke naam, storage ki lambai, aur dusre attributes ke roop mein describe karta hai. Aap is jankari ko theek waise hi access aur manipulate karne ke kabil hone chahiye jaise aap database ke kisi aur data ko karte hain.
+
+Hum is shabd ka istemal iske sabse vyapak (broadest) arth mein karte hain. Metadata koi bhi aisa data hai jo application ko describe karta hai—ise kaise chalna chahiye, ise kaunse resources istemal karne chahiye, ityadi. Aam taur par, metadata ko compile time par nahi, balki runtime par access aur istemal kiya jata hai.
+
+Aap har waqt metadata ka istemal karte hain—kam se kam aapke programs toh karte hi hain. Maan lijiye aap apne Web browser par toolbar chupane (hide) ke ek option par click karte hain. Browser us pasand (preference) ko, metadata ke roop mein, kisi tarah ke internal database mein store kar lega.
+
+Yeh database kisi makhsoos (proprietary) format mein ho sakta hai, ya yeh koi standard mechanism istemal kar sakta hai. Windows mein, ya toh ek initialization file (`.ini` suffix wali) ya system Registry mein entries aam hain. Unix mein, X Window System Application Default files ka istemal karke aisi hi suvidha deta hai. Java Property files ka istemal karta hai. In sabhi environments mein, aap ek value laane (retrieve) ke liye ek key batate hain. Vikalp ke taur par, metadata ke zyada powerful aur flexible implementations ek embedded scripting language ka istemal karte hain (details ke liye page 57 par *Domain Languages* dekhein).
+
+Netscape browser ne asal mein in dono takneekon ka istemal karke preferences implement ki thin. Version 3 mein, preferences ko simple key/value pairs ke roop mein save kiya jata tha:
+
+`SHOW_TOOLBAR: False`
+
+Baad mein, Version 4 ki preferences JavaScript jaisi dikhne lagin:
+
+`user_pref("custtoolbar.Browser.Navigation_Toolbar.open", false);`
+
+**Metadata-Driven Applications (Metadata se Chalne Wali Applications)**
+
+Lekin hum metadata ka istemal sirf aam preferences ke liye karne se aage jana chahte hain. Hum chahte hain ki application ko jitna ho sake metadata ke zariye configure aur drive kiya jaye. Hamara maqsad declarative dhang se sochna hai (yeh batana ki **kya** kiya jana hai, yeh nahi ki **kaise** karna hai) aur highly dynamic aur adaptable programs banana hai. Hum ek general rule apna kar aisa karte hain: general case ke liye program karein, aur specifics (baarikiyon) ko kahin aur rakhein—compiled code base ke bahar.
+
+---
+
+> **Tip 38**
+> **Put Abstractions in Code, Details in Metadata**
+> (Abstractions ko Code mein rakhein, Details ko Metadata mein)
+
+---
+
+Is approach ke kai fayde hain:
+
+* Yeh aapko apne design ko decouple karne par majboor karta hai, jiske nateeje mein ek zyada flexible aur adaptable program banta hai.
+* Yeh aapko details ko taal kar (deferring)—unhe poori tarah program se bahar kar ke—ek zyada robust aur abstract design banane par majboor karta hai.
+* Aap application ko bina dobara compile (recompile) kiye customize kar sakte hain. Aap is level ki customization ka istemal live production systems mein critical bugs ke liye aasaan work-arounds dene ke liye bhi kar sakte hain.
+* Metadata ko kisi general-purpose programming language ke muqable problem domain ke kahin zyada kareeb ke tareeqe se express kiya ja sakta hai (page 57 par *Domain Languages* dekhein).
+* Aap shayad ek hi application engine ka istemal karke, lekin alag metadata ke saath, kai alag-alag projects implement kar sakein.
+
+Hum zyada-tar details ki definition ko aakhiri waqt (last moment) tak taalna (defer) chahte hain, aur details ko jitna ho sake "soft"—badalne mein asaan—chhodna chahte hain. Ek aisa samadhan (solution) bana kar jo hamein jaldi badlaav karne de, hum un directional shifts (disha mein hone wale badlaavon) ke sailaab (flood) ka saamna karne ki behtar sthiti (stand a better chance) mein hote hain jo kai projects ko duba (swamp) dete hain (page 44 par *Reversibility* dekhein).
+
+**Business Logic**
+
+Toh aapne database engine ka chunav ek configuration option bana diya hai, aur user-interface style tay karne ke liye metadata diya hai. Kya hum aur bhi kuch kar sakte hain? Bilkul.
+
+Kyunki project ke kisi bhi aur pehlu ke muqable business policy aur rules badalne ki zyada sambhavna (likely) hoti hai, isliye unhe bahut hi flexible format mein maintain karna samajhdaari (makes sense) hai.
+
+Misaal ke taur par, aapki purchasing application mein kai tarah ki corporate policies shamil ho sakti hain. Shayad aap chhote suppliers ko 45 din mein aur bade suppliers ko 90 din mein payment karte hon. Supplier types ki definitions ko, aur saath hi time periods ko bhi, configurable banayein. Generalize karne ka mauka dhoondhein.
+
+Shayad aap ek aisa system likh rahe hain jisme behad khatarnak (horrendous) workflow requirements hain. Complex (aur badalte hue) business rules ke hisab se actions shuru aur khatam hote hain. Unhe kisi tarah ke rule-based (ya expert) system mein encode karne par vichar karein, jo aapki application ke andar embedded ho. Is tarah, aap isey code katne ke bajaye rules likh kar configure karenge.
+
+Kam complex logic ko ek mini-language ka istemal karke express kiya ja sakta hai, jisse environment badalne par recompile aur redeploy karne ki zaroorat khatam ho jati hai. Udaharan ke liye page 58 dekhein.
+
+---
+
+> **When to Configure (Kab Configure Karein)**
+> Jaisa ki *The Power of Plain Text*, page 73 mein bataya gaya hai, hum configuration metadata ko plain text mein represent karne ka sujhaav dete hain—isse zindagi bahut asaan ho jati hai.
+> Lekin kisi program ko yeh configuration kab padhni (read) chahiye? Kai programs aisi cheezon ko sirf startup par scan karenge, jo ki afsos ki baat (unfortunate) hai. Agar aapko configuration badalni hai, toh isse aapko application ko restart karna padta hai. Ek zyada flexible approach yeh hai ki aise programs likhein jo chalte waqt (while they're running) apni configuration reload kar sakein. Yeh flexibility ek keemat (cost) mangti hai: isey implement karna zyada mushkil (complex) hota hai.
+> Isliye sochein ki aapki application ka istemal kaise hoga: agar yeh ek lamba chalne wala (long-running) server process hai, toh aap program chalte waqt metadata ko dobara padhne (reread) aur laagu karne (apply) ka koi tareeqa dena chahenge. Ek chhoti client GUI application jo jaldi restart ho jati hai, uske liye shayad aapko iski zaroorat na pade.
+> Yeh ghatna (phenomenon) sirf application code tak mehdood nahi hai. Hum sab un operating systems se pareshan hue hain jo jab hum koi simple application install karte hain ya koi mamuli parameter badalte hain toh hamein reboot karne par majboor karte hain.
+
+---
+
+**Ek Udaharan: Enterprise Java Beans (EJB)**
+
+Enterprise Java Beans (EJB) ek distributed, transaction-based environment mein programming ko asaan banane ka ek framework hai. Hum yahan iska zikr (mention) kar rahe hain kyunki EJB batata hai ki metadata ka istemal applications ko configure karne **aur** code likhne ki complexity ko kam karne dono ke liye kaise kiya ja sakta hai.
+
+Maan lijiye aap kuch Java software banana chahte hain jo alag-alag machines, alag-alag database vendors, aur alag-alag thread aur load-balancing models ke beech transactions mein hissa (participate) lega.
+
+Acchi khabar yeh hai ki, aapko in sab ki chinta karne ki zaroorat nahi hai. Aap ek **bean** likhte hain—ek self-contained object jo kuch conventions follow karta hai—aur isey ek **bean container** mein rakhte hain jo aapke behalf par zyada-tar low-level details manage karta hai. Aap kisi bean ka code likh sakte hain bina kisi transaction operations ya thread management ko shamil kiye; EJB metadata ka istemal yeh batane ke liye karta hai ki transactions kaise handle kiye jane chahiye.
+
+Thread allocation aur load balancing ko underlying transaction service (jiska container istemal karta hai) ke liye metadata ke roop mein specify kiya jata hai. Yeh separation (alag karna) hamein environment ko runtime par dynamically configure karne ki badi flexibility deta hai.
+
+Bean ka container bean ki taraf se kai alag-alag styles mein transactions manage kar sakta hai (jisme ek aesa option bhi hai jahan aap apne commits aur rollbacks khud control karte hain). Bean ke vyavahar (behavior) ko asar dalne wale sabhi parameters ko bean ke **deployment descriptor** mein specify kiya jata hai—ek serialized object jisme zaroori metadata hota hai.
+
+EJB jaise distributed systems configurable, dynamic systems ki ek nayi duniya ka rasta dikha rahe hain (leading the way).
+
+**Cooperative Configuration (Sahyogi Vinyas)**
+
+Humne dynamic applications ko configure karne wale users aur developers ke baare mein baat ki hai. Lekin kya hoga agar aap applications ko ek dusre ko configure karne dein—aisa software jo apne environment ke anusaar khud ko dhal (adapts) le? Maujooda software ka unplanned (bina yojna ke), spur-of-the-moment (achanak) configuration ek powerful concept hai.
+
+Operating systems boot hote waqt already khud ko hardware ke anusaar configure karte hain, aur Web browsers naye components ke saath khud ko automatically update karte hain.
+
+Aapki badi applications mein shayad pehle se hi data ke alag-alag versions aur libraries aur operating systems ke alag-alag releases ko handle karne se jude mudde (issues) hain. Shayad ek zyada dynamic approach madad kare.
+
+**Don't Write Dodo-Code (Dodo-Code Mat Likhein)**
+
+Metadata ke bina, aapka code utna adaptable (dhalne-layak) ya flexible nahi hai jitna wo ho sakta hai. Kya yeh ek buri baat hai? Well, yahan asal duniya mein, jo prajatiyan (species) adapt nahi kartin wo mar jaati hain.
+
+Dodo ne Mauritius dweep par insaano aur unke pashuon (livestock) ki maujoodgi (presence) ke anusaar khud ko adapt nahi kiya, aur jaldi hi lupt (extinct) ho gaya. [2] Yeh insaan ke haathon kisi prajati ke lupt hone ka pehla documented mamla (extinction) tha.
+
+> [2] Is baat ne koi madad nahi ki ki settlers in shant (padhein: *bewakoof*) pakshiyon ko apne khel ke liye dandon se peet-peet kar maar dalte the.
+
+Apne project (ya apne career) ko dodo ki tarah khatam na hone dein.
+
+**Related sections include:**
+
+* Orthogonality, page 34
+* Reversibility, page 44
+* Domain Languages, page 57
+* The Power of Plain Text, page 73
+
+**Challenges (Chunautiyan)**
+Apne maujooda project ke liye, sochein ki application ka kitna hissa program se nikal kar metadata mein bheja ja sakta hai. Nateeje (resultant) mein banne wala "engine" kaisa dikhega? Kya aap us engine ko kisi alag application ke sandarbh (context) mein dobara istemal kar payenge?
+
+**Exercises (Abhyaas)**
+
+**28.** Inmein se kin cheezon ko ek program ke andar code ke roop mein dikhana behtar hoga, aur kinhe bahar metadata ke roop mein?
+
+1. Communication port assignments
+2. Ek editor ka alag-alag languages ke syntax ko highlight karne ka support
+3. Ek editor ka alag-alag graphic devices ke liye support
+4. Parser ya scanner ke liye ek state machine
+5. Unit testing mein istemal ke liye sample values aur results
