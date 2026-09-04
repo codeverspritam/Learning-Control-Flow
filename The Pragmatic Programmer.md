@@ -2930,3 +2930,194 @@ Isse lower, lekin utne hi upyogi level par, aap aise tools mein invest kar sakte
 
 **22.** Kuch C aur C++ developers kisi memory ko free karne ke baad, jis pointer se wo juda tha, use NULL set karna zaruri samajhte hain. Yeh ek accha idea kyun hai?
 **23.** Kuch Java developers kisi object ka istemal khatam hone ke baad, object variable ko NULL set karna zaruri samajhte hain. Yeh ek accha idea kyun hai?
+
+---
+### Chapter 5
+
+### Bend, or Break (Jhuko, ya Toot Jao)
+
+Zindagi kabhi ek jagah nahi rukti.
+
+Na hi hamara likha hua code ruk sakta hai. Aaj ke is lagbhag pagalon-jaise (frantic) badlaav ki raftaar (pace) ke saath chalne ke liye, hamein aisa code likhne ki har koshish karni chahiye jo jitna ho sake dheela (loose)—yaani lachila (flexible)—ho. Warna hum paayenge ki hamara code jaldi hi purana (outdated) ho raha hai, ya theek karne ke liye bahut zyada naazuk (brittle) ho gaya hai, aur aakhir-kaar bhavishya ki is andhi daud (mad dash) mein kahin peechhe chhoot sakta hai.
+
+*Reversibility* (page 44) mein, humne na-paltne-wale (irreversible) faislon ke khatron ki baat ki thi. Is chapter mein, hum aapko batayenge ki **reversible** (paltne layak) faisle kaise karein, taaki aapka code is anishchit (uncertain) duniya ke aage flexible aur dhalne-layak (adaptable) reh sake.
+
+Sabse pehle hamein **coupling**—yaani code ke modules ke beech ki nirbharta (dependencies)—ko dekhna hoga. *Decoupling and the Law of Demeter* mein hum dikhayenge ki alag-alag concepts ko alag kaise rakhein, aur coupling ko kaise kam karein.
+
+Flexible rehne ka ek accha tareeqa hai **kam** code likhna. Code ko badalne se naye bugs aane ka rasta khul jata hai. *Metaprogramming* samjhayega ki details ko code se poori tarah baahar kaise nikala jaye, jahan unhe zyada surakshit aur aasani se badla ja sake.
+
+*Temporal Coupling* mein, hum waqt (time) ke do pehluon (aspects) ko dekhenge ki wo coupling se kaise jude hain. Kya aap is baat par nirbhar karte hain ki "tick", "tock" se pehle hi aani chahiye? Agar aap flexible rehna chahte hain toh bilkul nahi.
+
+Flexible code banane ka ek main (key) concept hai kisi data ke **model** ko uske **view**, ya presentation, se alag karna. Hum *It's Just a View* mein models ko views se alag (decouple) karenge.
+
+Aakhir mein, modules ko aur zyada alag (decouple) karne ki ek takneek hai, jisme ek aisi meeting jagah (meeting place) banayi jati hai jahan modules apna naam bataye bina (anonymously) aur apne waqt par (asynchronously) data exchange kar sakein. Yeh *Blackboards* ka topic hai.
+
+In takneekon se lais (armed) hokar, aap aisa code likh sakte hain jo aane wali har mushkil ko has kar jhel lega (roll with the punches).
+
+---
+
+#### 26. Decoupling and the Law of Demeter (Alag Karna aur Demeter ka Kanoon)
+
+> "Acchi baadein (fences) acche padosi banati hain."
+> — **Robert Frost, "Mending Wall"**
+
+*Orthogonality* (page 34) aur *Design by Contract* (page 109) mein, humne sujhaav diya tha ki "shy" (sharmila) code likhna faydemand hota hai. Lekin "shy" do tareeqon se kaam karta hai: apna bhed kisi ko na batayein, aur bahut saare logon se baat-cheet (interact) na karein.
+
+Jaasoos, vidhrohi (dissidents), krantikari, aur aise log aksar chhote groups mein baante jate hain jinhe **cells** kehte hain. Halanki har cell mein log ek dusre ko jaante honge, lekin unhe dusre cells ke logon ke baare mein koi jankari nahi hoti. Agar ek cell pakdi bhi jati hai, toh koi bhi truth serum unse cell ke bahar ke naam nahi ugalwa sakta. Cells ke beech ki baat-cheet (interactions) ko khatam karke sabki hifazat (protects everyone) hoti hai.
+
+Hamein lagta hai ki yeh ek accha asool (principle) hai jise coding mein bhi laagu karna chahiye. Apne code ko cells (modules) mein baantein aur unke beech ki baat-cheet ko mehdood (limit) karein. Agar phir ek module compromise ho jaye aur use badalna (replace) pade, toh baaki modules ko apna kaam chalate rehna chahiye.
+
+**Minimize Coupling (Coupling Kam Karein)**
+
+Aise modules hone mein kya burai hai jo ek-dusre ke baare mein jaante hon? Siddhant (principle) mein toh kuch nahi—hamein jaasooson ki tarah utna zyada darne (paranoid) ki zaroorat nahi hai. Halanki, aapko is baat ka dhyan zaroor rakhna hoga ki aap **kitne** dusre modules ke saath interact karte hain aur, isse bhi mahatvapurn baat, aap unke saath interact **kaise** karne lage.
+
+Maan lijiye aap apne ghar ka naya roop de rahe hain (remodeling), ya bilkul shuru se ek ghar bana rahe hain. Aam taur par ek "general contractor" (mukhya thekedar) ko hire kiya jata hai. Aap kaam karwane ke liye thekedar ko hire karte hain, lekin thekedar khud kaam kar bhi sakta hai aur nahi bhi; kaam alag-alag chote thekedaron (subcontractors) ko diya ja sakta hai. Lekin client ke taur par, aap seedhe subcontractors se deal nahi karte—general contractor aapke hisse ka wo saara dard-e-sar (headaches) khud utha leta hai.
+
+Hum software mein bhi yahi model apnana (follow) chahte hain. Jab hum kisi object se koi khaas service maangte hain, toh hum chahte hain ki wo service hamare liye ki jaye. Hum **nahi** chahte ki object hamein koi third-party object de jisse hamein zaroori service lene ke liye deal karna pade.
+
+Misaal ke taur par, maan lijiye aap ek class likh rahe hain jo scientific recorder data ka ek graph banati hai. Aapke paas duniya bhar mein faile data recorders hain; har recorder object mein ek location object hota hai jo uski position aur time zone batata hai. Aap chahte hain ki aapke users ek recorder select karein aur uska data plot karein, jis par sahi time zone ka label laga ho. Aap shayad yeh likhein:
+
+```java
+public void plotDate(Date aDate, Selection aSelection) {
+    TimeZone tz = aSelection.getRecorder().getLocation().getTimeZone();
+    // ...
+
+```
+
+Lekin ab plot karne wala routine be-wajah **teen** classes se jud (coupled) gaya hai—`Selection`, `Recorder`, aur `Location`. Coding ka yeh tareeqa unn classes ki ginti bahut bada deta hai jin par hamari class nirbhar karti hai. Yeh ek buri baat kyun hai? Isse is baat ka khatra badh jata hai ki system mein kahin aur kiya gaya koi bina-juda-hua (unrelated) badlaav **aapke** code par asar dalega. Misaal ke taur par, agar Fred `Location` mein koi aisa badlaav karta hai jisse ab wo seedhe `TimeZone` nahi rakhta, toh aapko apna code bhi badalna padega.
+
+Khud poori hierarchy khodne (digging) ke bajaye, bas wahi maangein jo aapko directly chahiye:
+
+```java
+public void plotDate(Date aDate, TimeZone aTz) {
+    // ...
+
+```
+
+Humne hamare liye time zone laane ka ek method `Selection` mein jod diya: plot karne wale routine ko is baat se koi matlab nahi hai ki time zone seedhe `Recorder` se aata hai, ya `Recorder` ke andar kisi aur object se, ya phir `Selection` khud ek poora naya time zone bana deta hai. Badle mein, selection routine ko shayad bas recorder se uska time zone maang lena chahiye, aur yeh recorder par chhod dena chahiye ki wo ise apne andar ke `Location` object se laye.
+
+Objects ke beech ke rishton (relationships) ko seedhe cross karne (traversing) se nirbharta ke rishton (dependency relationships) ki ek lagatar badhne wali chain (combinatorial explosion) shuru ho sakti hai. [1] Aap is ghatna (phenomenon) ke lakshan (symptoms) kai tareeqon se dekh sakte hain:
+
+> [1] Agar $n$ objects sab ek dusre ke baare mein jaante hain, toh kisi ek object mein badlaav se baaki $n-1$ objects mein bhi badlaav karne ki zaroorat pad sakti hai.
+
+1. Bade C ya C++ projects jahan ek unit test ko link karne ki command khud test program se bhi lambi hoti hai.
+2. Ek module mein "Chhote" (simple) badlaav jo system ke doosre an-jaan (unrelated) modules tak fail jate hain.
+3. Wo developers jo code badalne se darte hain kyunki unhe nahi pata ki iska kahan kya asar hoga.
+
+Bade paimane par unnecessary dependencies (be-wajah nirbhartao) wale systems ko maintain karna bahut mushkil (aur mehanga) hota hai, aur wo aam taur par highly unstable hote hain. Dependencies ko kam se kam rakhne ke liye, hum apne methods aur functions ko design karne ke liye **The Law of Demeter** ka istemal karenge.
+
+**The Law of Demeter for Functions (Functions ke liye Demeter ka Kanoon)**
+
+Functions ke liye Law of Demeter [ LH89 ] kisi bhi program mein modules ke beech ki coupling ko kam se kam (minimize) karne ki koshish karta hai. Yeh aapko kisi teesre object ke methods tak pahunchne ke liye ek object ke andar haath daalne se rokne ki koshish karta hai. Kanoon ka saraansh (summary) agle page par Figure 5.1 mein diya gaya hai.
+
+> **Figure 5.1: Law of Demeter for functions**
+> (O ka koi bhi method $M$ sirf inhe call kar sakta hai:
+> 1. $O$ khud
+> 2. $M$ ke parameters
+> 3. $M$ ke andar banaye/instantiate kiye gaye koi bhi objects
+> 4. $O$ ke direct component objects)
+> 
+> 
+
+Jitna mumkin ho The Law of Demeter ka palan (honors) karne wala "shy" (sharmila) code likh kar, hum apna lakshya (objective) hasil kar sakte hain:
+
+---
+
+> **Tip 36**
+> **Minimize Coupling Between Modules**
+> (Modules ke beech ki Coupling kam karein)
+
+---
+
+**Kya Isse Sach Mein Koi Farq Padta Hai? (Does It Really Make a Difference?)**
+
+Halanki yeh theory mein accha lagta hai, lekin kya The Law of Demeter ka palan karne se waqayi zyada maintain hone-layak (maintainable) code banane mein madad milti hai?
+
+Studies ne dikhaya hai [ BBM96 ] ki C++ mein bade **response sets** wali classes chhote response sets wali classes ke muqable galtiyon (errors) ka shikar (prone) jaldi hoti hain (ek *response set* ko us class ke methods dwara seedhe invoke kiye gaye functions ki ginti ke roop mein paribhashit (defined) kiya gaya hai).
+
+Kyunki The Law of Demeter ka palan karne se calling class (bulane wali class) mein response set ka size kam hota hai, isliye yeh tay hai ki is tarah design ki gayi classes mein errors bhi kam hongi (Demeter project par aur papers aur jankari ke liye [ URL 56 ] dekhein).
+
+The Law of Demeter ka istemal aapke code ko zyada adaptable (dhalne-layak) aur robust (mazboot) banayega, lekin iski ek keemat (cost) bhi hogi: ek "general contractor" ke roop mein, aapke module ko apne module ke clients ko shaamil kiye bina (without involving), kisi bhi aur sabhi subcontractors ko seedhe kaam saunpna (delegate) aur manage karna hoga. Practical roop se, iska matlab hai ki aap bahut saari *wrapper methods* likh rahe honge jo bas ek delegate ko request aage bhej (forward) dengi. Yeh wrapper methods runtime par keemat vasoolengi aur space (memory) bhi lengi, jo kuch applications mein kafi (significant)—yahan tak ki nakabil-e-bardasht (prohibitive)—ho sakti hain.
+
+Kisi bhi takneek (technique) ki tarah, aapko **apni** khaas application ke liye fayde (pros) aur nuksaan (cons) ko balance karna hoga. Database schema design mein performance behtar karne ke liye schema ko "denormalize" karna ek aam baat (common practice) hai: speed ke badle normalization ke rules todna. Aisa hi ek sauda (tradeoff) yahan bhi kiya ja sakta hai. Asal mein, The Law of Demeter ko ulta (reverse) karke aur kai modules ko **tightly** (kaske) jodh kar, aap ek important performance fayda (gain) hasil kar sakte hain. Jab tak is baat ka pata ho aur un modules ka judna (coupled) swikaar (acceptable) ho, aapka design theek hai.
+
+---
+
+> **Physical Decoupling (Bhotik Decoupling)**
+> Is section mein hamara zyada dhayan design karte waqt cheezon ko logically alag (decoupled) rakhne par hai.
+> Halanki, ek aur tarah ki ek-dusre par nirbharta (interdependence) hoti hai jo systems ke bade hone par bahut khasiyat (highly significant) rakhti hai. Apni kitab *Large-Scale C++ Software Design* [ Lak96 ] mein, John Lakos un files, directories, aur libraries ke beech ke rishton ke muddon par baat karte hain jinse ek system banta hai. Bade projects jo in bhotik (physical) design problems ko ignore karte hain, unka nateeja aise build cycles hote hain jinhe poora hone mein dino lag jate hain aur aise unit tests hote hain jo support code ke roop mein poore system ko he kheench late hain, iske alawa bhi kai problems hoti hain. Mr. Lakos is baat par zor (argues convincingly) dete hain ki logical aur physical design ko ek-saath chalna chahiye—kyunki gol-gol ghoomne wali (cyclic) dependencies se ek bade code-base ko jo nuksaan hota hai, use theek karna (undoing) behad mushkil hota hai. Agar aap bade paimane par (large-scale) development mein shamil hain, toh hum is kitab ki sifarish karte hain, bhale hi C++ aapki programming language na ho.
+
+---
+
+Warna, aap shayad khud ko ek naazuk (brittle), lachak-heen (inflexible) bhavishya ke raste par payenge. Ya phir aapka koi bhavishya hoga hi nahi.
+
+**Related sections include:**
+
+* Orthogonality, page 34
+* Reversibility, page 44
+* Design by Contract, page 109
+* How to Balance Resources, page 129
+* It's Just a View, page 157
+* Pragmatic Teams, page 224
+* Ruthless Testing, page 237
+
+**Challenges (Chunautiyan)**
+
+* Humne charcha ki hai ki kaise delegation ka istemal karne se The Law of Demeter ka palan karna aasaan hota hai aur isliye coupling kam hoti hai. Halanki, delegated classes ko calls aage bhejne (forward) ke liye zaroori saari methods likhna bore karne wala aur galti karwa dene wala (error prone) kaam hai. Ek aisa preprocessor likhne ke kya fayde aur nuksaan hain jo in calls ko automatically generate kar de? Kya is preprocessor ko sirf ek baar chalaya jana chahiye, ya ise build ka hissa banaya jana chahiye?
+
+**Exercises (Abhyaas)**
+
+**24.** Humne theek samne wale page par box mein physical decoupling ke concept par charcha ki thi. Inmein se kaunsi C++ header file system ke baaki hisse se zyada kas ke judi (tightly coupled) hui hai?
+
+```cpp
+// File A
+#include "date.h"
+class Customer {
+private:
+    Date dateOfBirth;
+};
+
+// File B
+class Date; // Forward declaration
+class Customer {
+private:
+    Date *dateOfBirth;
+};
+
+```
+
+**25.** Niche diye gaye udaharan aur Exercises 26 aur 27 ke liye, tay karein ki kya The Law of Demeter ke mutabik di gayi method calls ko ijazat (allowed) hai. Yeh pehla udaharan Java mein hai.
+
+```java
+public void showBalance(BankAccount acct) {
+    Money amt = acct.getBalance();
+    printToScreen(amt.printFormat());
+}
+
+```
+
+**26.** Yeh udaharan bhi Java mein hai.
+
+```java
+public class Colada {
+    private Blender myBlender;
+    private Vector myStuff;
+    public Colada() {
+        myBlender = new Blender();
+        myStuff = new Vector();
+    }
+    private void doSomething() {
+        myBlender.addIngredients(myStuff.elements());
+    }
+}
+
+```
+
+**27.** Yeh udaharan C++ mein hai.
+
+```cpp
+void processTransaction(Transaction *t) {
+    String name = t->getToken()->name();
+    // ...
+
+```
