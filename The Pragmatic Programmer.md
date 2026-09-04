@@ -3399,3 +3399,147 @@ Kya ab waqt nahi aa gaya hai? (Isn't it about time?)
 **Challenges**
 
 * Subah kaam ke liye taiyar hote waqt aap kitne tasks parallel mein karte hain? Kya aap isey UML activity diagram mein dikha (express) sakte hain? Kya aap concurrency badha kar jaldi taiyar hone ka koi tareeqa dhoondh sakte hain?
+
+#### 29. It's Just a View (Yeh Sirf Ek View Hai)
+
+> "Phir bhi, ek aadmi wahi sunta hai
+> Jo woh sunna chahta hai
+> Aur baaki sab ko nazarandaz kar deta hai
+> La la la..."
+> — **Simon and Garfunkel, "The Boxer"**
+
+Hamein shuru mein hi sikhaya jata hai ki kisi program ko ek bade chunk (hisse) ke roop mein na likhein, balki hamein "divide and conquer" (baanto aur raaj karo) karna chahiye aur ek program ko modules mein alag karna chahiye. Har module ki apni zimmedariyan hoti hain; asal mein, ek module (ya class) ki ek acchi definition yeh hai ki uski ek single, well-defined zimmedari (responsibility) hoti hai.
+
+Lekin ek baar jab aap ek program ko zimmedari ke aadhar par alag-alag modules mein baant dete hain, toh aapke samne ek nayi problem aati hai. Runtime par, objects ek-dusre se baat kaise karte hain? Aap unke beech ki logical dependencies (nirbhartao) ko kaise manage karte hain? Yani, aap in alag-alag objects mein state ke badlaavon (ya data values ke updates) ko synchronize (ek-saath mila kar) kaise rakhte hain? Yeh ek saaf, lachile (flexible) dhang se kiya jana chahiye—hum nahi chahte ki wo ek-dusre ke baare mein bahut zyada jaanein. Hum chahte hain ki har module gaane (song) mein us aadmi ki tarah ho aur sirf wahi sune jo wo sunna chahta hai.
+
+Hum **event** ke concept se shuru karenge. Ek event bas ek special message hota hai jo kehta hai "kuch dilchasp (interesting) abhi-abhi hua hai" (zahir hai, dilchasp dekhne wale ki aankh mein hota hai). Hum kisi ek object mein aise badlaav (changes) ka signal dene ke liye events ka istemal kar sakte hain jisme kisi dusre object ki dilchaspi (interest) ho sakti hai.
+
+Is tarah se events ka istemal karne se un objects ke beech ki coupling (judaav) kam ho jati hai—event bhejne wale ko (sender) event lene wale (receiver) ki koi explicit jankari hone ki zaroorat nahi hoti. Asal mein, kai receivers ho sakte hain, har ek apne khud ke agenda par focus karta hai (jiske baare mein sender khushi-khushi anjaan hota hai).
+
+Halanki, hamein events ka istemal karne mein thodi savdhani baratne ki zaroorat hai. Misaal ke taur par, Java ke ek early version mein, ek single routine ko kisi khaas application ke liye aane wale **saare** events milte the. Yeh maintenance ya evolution (vikaas) ka aasan rasta toh bilkul nahi tha.
+
+**Publish/Subscribe (Prakashit/Sadasyata)**
+
+Saare events ko ek single routine ke zariye bhejna (push karna) kharab kyun hai? Yeh object encapsulation ka ullanghan (violates) karta hai—ab us ek routine ko kai objects ke beech ke interactions ki gehari jankari rakhni padti hai. Yeh coupling ko bhi badhata hai—aur hum coupling ko **kam (decrease)** karne ki koshish kar rahe hain. Kyunki khud objects ko bhi in events ki jankari rakhni padti hai, toh shayad aap `DRY` principle, orthogonality, aur shayad Geneva Convention ke kuch hisson ka bhi ullanghan karne wale hain. Aapne is tarah ka code dekha hoga—is par aam taur par ek bada `case` statement ya multiway `if-then` haavi hota hai. Hum isse behtar kar sakte hain.
+
+Objects ko sirf unhi events ko receive karne ke liye register karne ke kabil hona chahiye jinki unhe zaroorat hai, aur unhe kabhi aise events nahi bheje jane chahiye jinki unhe zaroorat nahi hai. Hum apne objects ko spam nahi karna chahte! Iske bajaye, hum ek **publish/subscribe protocol** ka istemal kar sakte hain, jise agle page par Figure 5.4 ke UML sequence diagram [7] mein dikhaya gaya hai.
+
+> [7] Aur jankari ke liye [ GHJV95 ] mein Observer pattern bhi dekhein.
+
+> **Figure 5.4. Publish/subscribe protocol**
+
+Ek sequence diagram kai objects ke beech messages ke flow (bahaav) ko dikhata hai, jisme objects columns mein sajaye gaye (arranged) hote hain. Har message ko sender ke column se receiver ke column tak ek label wale teer (labeled arrow) ke roop mein dikhaya jata hai. Label mein asterisk (*) ka matlab hai ki is type ke ek se zyada messages bheje ja sakte hain.
+
+Agar hum kisi Publisher (bhejne wale) dwara generate kiye gaye kuch khaas events mein dilchaspi rakhte hain, toh hamein bas khud ko register karna hoga. Publisher sabhi dilchaspi rakhne wale (interested) Subscriber objects ka track rakhta hai; jab Publisher interest ka koi event generate karta hai, toh wo baari-baari se har Subscriber ko call karega aur unhe notify karega ki event ho gaya hai.
+
+Is theme par kai variations hain—jo dusre communication styles ki nakal (mirroring) karte hain. Objects peer-to-peer (saathi-se-saathi) aadhar par publish/subscribe ka istemal kar sakte hain (jaisa humne upar dekha); wo ek "software bus" ka istemal kar sakte hain jahan ek centralized object sunne walon (listeners) ka database maintain karta hai aur messages ko theek se dispatch karta hai. Aapke paas aisi scheme bhi ho sakti hai jahan critical events sabhi listeners ko broadcast kiye jate hain—chahe wo registered hon ya na hon. Ek distributed environment mein events ka ek mumkin implementation CORBA Event Service dwara dikhaya gaya hai, jiske baare mein aage box mein bataya gaya hai.
+
+Hum is publish/subscribe mechanism ka istemal ek bahut mahatvapurn design concept implement karne ke liye kar sakte hain: ek model ko uske views (nazarion) se alag karna. Aaiye ek GUI-based udaharan se shuru karte hain, us Smalltalk design ka istemal karke jisme yeh concept paida hua tha.
+
+**Model-View-Controller**
+
+Maan lijiye aapke paas ek spreadsheet application hai. Spreadsheet mein numbers ke alawa, aapke paas ek graph bhi hai jo numbers ko bar chart ke roop mein dikhata hai aur ek running total dialog box hai jo spreadsheet mein kisi column ka sum dikhata hai.
+
+---
+
+> **The CORBA Event Service (CORBA Event Service)**
+> CORBA Event Service participate karne wale objects ko ek common bus, **event channel**, ke zariye event notifications bhejne aur receive karne ki ijazat deti hai. Event channel event handling ko arbitrate (madhyasthata) karta hai, aur event producers ko event consumers se alag (decouple) bhi karta hai. Yeh do buniyaadi tareeqon se kaam karta hai: **push** aur **pull**.
+> Push mode mein, event suppliers event channel ko inform karte hain ki koi event hua hai. Channel phir automatically us event ko un sabhi client objects mein baant (distribute) deta hai jinhone interest register kiya hai.
+> Pull mode mein, clients samay-samay par (periodically) event channel ko poll (check) karte hain, jo uske badle mein us supplier ko poll karta hai jo request ke mutabik event data offer karta hai.
+> Halanki CORBA Event Service ka istemal is section mein discuss kiye gaye sabhi event models ko implement karne ke liye kiya ja sakta hai, aap ise ek alag janwar (different animal) ke roop mein bhi dekh sakte hain. CORBA un objects ke beech communication asaan banata hai jo alag-alag programming languages mein likhe gaye hain aur alag-alag architectures wali geographically door-door ki machines par chal rahe hain. CORBA ke upar baith kar, event service aapko duniya bhar ki aisi applications ke saath interact karne ka ek decoupled (alag) tareeqa deti hai, jinhe aapne kabhi na mile logon ne likha hai, aisi programming languages ka istemal karke jinke baare mein aap shayad janna bhi na chahein.
+
+---
+
+Zahir hai (Obviously), hum data ki teen alag-alag copies nahi rakhna chahte. Isliye hum ek **model** banate hain—khud data, jise manipulate karne ke common operations ke saath. Phir hum alag-alag **views** bana sakte hain jo data ko alag-alag tareeqon se dikhate hain: spreadsheet ke roop mein, graph ke roop mein, ya totals box ke roop mein. In views mein se har ek ka apna khud ka **controller** ho sakta hai. Misaal ke taur par, graph view mein ek controller ho sakta hai jo aapko data ko zoom in/out, ya pan around (ghoomane) karne ki ijazat deta hai. Isme se kuch bhi khud data ko affect nahi karta, sirf us view ko karta hai.
+
+Model-View-Controller (MVC) idiom (muhavare) ke pichhe yahi mukhya (key) concept hai: model ko us GUI se jo ise represent karta hai **aur** un controls se jo view ko manage karte hain, alag karna. [8]
+
+> [8] View aur controller tightly coupled hote hain, aur MVC ke kuch implementations mein view aur controller ek single component hote hain.
+
+Aisa karke, aap kuch dilchasp (interesting) possibilities ka fayda utha sakte hain. Aap ek hi data model ke kai views support kar sakte hain. Aap kai alag-alag data models par common viewers istemal kar sakte hain. Aap non-traditional input mechanisms dene ke liye multiple controllers bhi support kar sakte hain.
+
+---
+
+> **Tip 42**
+> **Separate Views from Models**
+> (Views ko Models se alag karein)
+
+---
+
+Model aur view/controller ke beech ki coupling ko dheela (loosening) karke, aap kam keemat par apne liye bahut saari flexibility kharid lete hain. Asal mein, yeh takneek reversibility maintain karne ke sabse mahatvapurn tareeqon mein se ek hai (page 44 par *Reversibility* dekhein).
+
+**Java Tree View**
+
+MVC design ka ek accha udaharan Java tree widget mein mil sakta hai. Tree widget (jo ek clickable, traversable tree dikhata hai) asal mein MVC pattern mein organized kai alag-alag classes ka ek set hai.
+
+Ek fully functional tree widget banane ke liye, aapko bas ek aisa data source dena hai jo `TreeModel` interface ke mutabik (conforms) ho. Aapka code ab tree ka model ban jata hai.
+
+View `TreeCellRenderer` aur `TreeCellEditor` classes dwara banaya jata hai, jinse inherit kiya ja sakta hai aur widget mein alag-alag colors, fonts, aur icons dene ke liye customize kiya ja sakta hai. `JTree` tree widget ke controller ke roop mein kaam karta hai aur kuch general viewing functionality deta hai.
+
+Kyunki humne model ko view se decouple (alag) kar diya hai, isliye hum programming ko kaafi asaan bana dete hain. Aapko ab tree widget ko program karne ke baare mein sochne ki zaroorat nahi hai. Iske bajaye, aap bas ek data source dete hain.
+
+Maan lijiye vice president (VP) aapke paas aati hain aur ek aisi quick application chahti hain jo unhe company ka organizational chart navigate karne de, jo mainframe par ek purane (legacy) database mein rakha hai. Bas ek wrapper likhein jo mainframe data leta hai, ise ek `TreeModel` ke roop mein pesh karta hai, aur lijiye: aapke paas ek fully navigable tree widget hai.
+
+Ab aap fancy (shouqeen) ban sakte hain aur viewer classes ka istemal karna shuru kar sakte hain; aap nodes ko render karne ka tareeqa badal sakte hain, aur special icons, fonts, ya colors ka istemal kar sakte hain. Jab VP wapas aakar kehti hain ki naye corporate standards ke mutabik kuch khaas employees ke liye Skull aur Crossbones icon ka istemal karna zaroori hai, toh aap kisi bhi aur code ko chhue bina `TreeCellRenderer` mein changes kar sakte hain.
+
+**Beyond GUIs (GUIs ke Aage)**
+
+Halanki MVC ko aam taur par GUI development ke sandarbh (context) mein sikhaya jata hai, yeh waqayi ek general-purpose programming technique hai. View model ki ek interpretation (vyakhya) hai (shayad ek chhota hissa/subset)—ise graphical hone ki zaroorat nahi hai. Controller ek coordination mechanism jaisa zyada hai, aur iska kisi input device se jura hona zaroori nahi hai.
+
+* **Model:** Target object ko represent karne wala abstract data model. Model ko kisi bhi views ya controllers ki koi direct jankari nahi hoti.
+* **View:** Model ko interpret karne ka ek tareeqa. Yeh model mein hone wale badlaavon aur controller se aane wale logical events ko subscribe karta hai.
+* **Controller:** View ko control karne aur model ko naya data dene ka ek tareeqa. Yeh model aur view dono ko events publish karta hai.
+
+Aaiye ek nongraphical udaharan dekhte hain.
+
+Baseball ek anokhi (unique) sanstha (institution) hai. Aur kahan aapko is tarah ke trivia (be-matlab ki jankari) ke heere (gems) sikhne ko milenge jaise "yeh Tuesday ko, barish mein, artificial lights ke andar, un teams ke beech khela gaya sabse zyada score wala game ban gaya hai jinke naam ek vowel (swar) se shuru hote hain?" Maan lijiye hamein un nidar (intrepid) announcers ka support karne ke liye software develop karne ka kaam saunpa (charged) gaya tha, jinhe imandari se scores, statistics, aur trivia report karni hoti hai.
+
+Zahir hai (Clearly), hamein chal rahe game ki jankari chahiye—khelne wali teams, halaat (conditions), batting karne wala player, score, ityadi. Yeh facts (tathya) hamare models banate hain; nayi jankari aane par inhe update kiya jayega (pitcher badal diya gaya hai, player strike out ho gaya hai, barish shuru ho gayi hai...).
+
+Phir hamare paas in models ka istemal karne wale kai view objects honge. Ek view runs ke liye dekh sakta hai taaki wo current score update kar sake. Dusra naye batters (ballebaaz) ki notifications receive kar sakta hai, aur unke year-to-date (is saal ke ab tak ke) statistics ka ek chhota summary (saraansh) la (retrieve) sakta hai. Ek teesra viewer data ko dekh sakta hai aur naye world records check kar sakta hai. Hamare paas ek trivia viewer bhi ho sakta hai, jiski zimmedari aisi ajeeb aur bekar ki baatein dhoondh kar lana ho jo dekhne wali janta (viewing public) ko thrill (romanchit) karti hain.
+
+Lekin hum in sabhi views se bechare announcer ko directly flood (pareshan) nahi karna chahte. Iske bajaye, hum har view se "dilchasp" (interesting) events ki notifications generate karwayenge, aur kisi higher-level object ko yeh tay (schedule) karne denge ki kya dikhaya jaye. [9]
+
+> [9] Ek hawai jahaz ka upar se udna shayad dilchasp na ho jab tak ki wo us raat upar se udne wala 100va jahaz na ho.
+
+Yeh viewer objects achanak higher-level object ke liye models ban gaye hain, jo khud phir alag-alag formatting viewers ke liye ek model ho sakta hai. Ek formatting viewer announcer ke liye teleprompter script bana sakta hai, dusra satellite uplink par directly video captions generate kar sakta hai, ek aur network ya team ke Web pages ko update kar sakta hai (Figure 5.5 dekhein).
+
+> **Figure 5.5. Baseball reporting. Viewers models ko subscribe karte hain.**
+
+Is tarah ka model-viewer network ek aam (aur valuable/keemti) design technique hai. Har link raw (kacche) data ko un events se alag (decouple) karta hai jinhone ise banaya tha—har naya viewer ek abstraction hai. Aur kyunki yeh rishte ek network hain (sirf ek linear chain/sidhi kadi nahi), hamare paas bahut saari flexibility hai. Har model ke **kai** viewers ho sakte hain, aur ek viewer kai models ke saath kaam kar sakta hai.
+
+Is tarah ke advanced systems mein, **debugging views** ka hona handy (upyogi) ho sakta hai—aise specialized views jo aapko model ki in-depth (gehari) details dikhate hon. Individual events ko trace karne ki suvidha jodhna bhi bahut waqt bacha (time saver) sakta hai.
+
+**Still Coupled (After All These Years) (Itne Saalon Baad Bhi Jude Hue)**
+
+Coupling (judaav) mein jo kami (decrease) humne hasil ki hai, uske bawajood, listeners aur event generators (subscribers aur publishers) ko abhi bhi ek dusre ki **kuch** jankari hoti hai. Java mein, misaal ke taur par, unhe common interface definitions aur calling conventions par sehmat (agree) hona chahiye.
+
+Agle section mein, hum publish aur subscribe ke ek aise roop ka istemal karke coupling ko aur bhi kam karne ke tareeqon par nazar dalenge, jahan kisi bhi participant ko ek dusre ke baare mein janne ya ek dusre ko directly call karne ki zaroorat nahi hoti.
+
+**Related sections include:**
+
+* Orthogonality, page 34
+* Reversibility, page 44
+* Decoupling and the Law of Demeter, page 138
+* Blackboards, page 165
+* It's All Writing, page 248
+
+**Exercises**
+
+**29.** Maan lijiye aapke paas ek airline reservation system hai jisme ek flight ka concept shamil hai:
+
+```java
+public class Flight {
+    public void addPassenger(Passenger p) { /*...*/ }
+    public void addToWaitlist(Passenger p) { /*...*/ }
+    public int getCapacity() { /*...*/ }
+    public int getCount() { /*...*/ }
+}
+
+```
+
+Agar aap kisi passenger ko wait list mein jodte hain, toh koi opening (jagah) available hone par unhe flight par automatically daal diya jayega.
+
+Ek bahut bada reporting job hai jo overbooked ya full flights ko dhoondhta hai taaki suggest (sujhaav) kar sake ki additional flights kab schedule ki ja sakti hain. Yeh theek kaam karta hai, lekin ise chalne mein ghanton lag jate hain.
+
+Hum wait-list passengers ko process karne mein thodi aur flexibility chahte hain, aur hamein us badi report ke baare mein kuch karna hoga—ise chalne mein bahut lamba waqt lagta hai. Is interface ko redesign karne ke liye is section ke ideas ka istemal karein.
