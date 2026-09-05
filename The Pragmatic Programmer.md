@@ -3902,3 +3902,147 @@ void printTree(const Node *node) {
 **36.** Kya aapko Exercise 35 ke routine ki stack requirements ko kam karne ka koi tareeqa dikh raha hai (buffer ke size ko kam karne ke alawa)?
 
 **37.** Page 180 par, humne daava (claimed) kiya tha ki binary chop $O(\lg n)$ hota hai. Kya aap ise saabit (prove) kar sakte hain?
+
+#### 33. Refactoring (Code Ko Sudharna)
+
+> "Badlaav aur decay (khatma) har jagah jo main dekhta hoon..."
+> — **H. F. Lyte, "Abide With Me"**
+
+Jaise-jaise ek program bada hota (evolves) hai, pehle liye gaye faislon par dobara sochne aur code ke kuch hisson par dobara kaam karne (rework) ki zaroorat padegi. Yeh prakriya (process) bilkul natural hai. Code ko badalne ki zaroorat hoti hai; yeh koi ruki hui (static) cheez nahi hai.
+
+Badkismati se, software development ke liye sabse zyada istemal hone wali misaal (metaphor) imarat banana (building construction) hai (Bertrand Meyer [ Mey97b ] "Software Construction" shabd ka istemal karte hain). Lekin construction ko as a metaphor (roopak) istemal karne ka matlab hai yeh steps:
+
+1. Ek architect blueprints banata hai.
+2. Thekedar (Contractors) neev khodte hain, dhancha (superstructure) banate hain, wiring aur plumbing karte hain, aur aakhiri touch (finishing touches) dete hain.
+3. Kirayedar (Tenants) aate hain aur khushi-khushi rehte hain, aur koi problem aane par building maintenance ko bulate hain.
+
+Darasal, software bilkul is tarah kaam nahi karta. Software banane se zyada **baghbani (gardening)** jaisa hai—yeh cement (concrete) se zyada organic hai. Aap ek shuruati plan aur halaat ke hisab se ek garden mein bahut si cheezein lagate (plant) hain. Kuch phalti-phoolti (thrive) hain, dusri compost (khaad) banne ke liye chhod di jati hain. Aap paudhon ko ek-dusre ke hisab se hila sakte hain taaki roshni aur andhere, hawa aur barish ke khel ka fayda utha sakein. Zyada badh gaye (Overgrown) paudhon ko alag (split) kiya jata hai ya chhaanta (pruned) jata hai, aur jo rang aapas mein nahi milte, unhe aur khoobsoorat jagahon par laga diya jata hai. Aap jhad-jhankhad (weeds) nikalte hain, aur un paudhon mein khaad (fertilize) dalte hain jinhe kuch extra madad ki zaroorat hoti hai. Aap lagatar garden ki sehat par nazar rakhte hain, aur zaroorat ke hisab se mitti, paudhon, aur layout mein badlaav (adjustments) karte hain.
+
+Business ke log building construction ke metaphor ke saath comfortable hain: yeh gardening se zyada scientific hai, yeh baar-baar hone wala (repeatable) hai, isme management ko report karne ka ek pakka dhang (rigid reporting hierarchy) hota hai, ityadi. Lekin hum gagan-chumbi imaratein (skyscrapers) nahi bana rahe hain—hum physics aur asli duniya ki hudood (boundaries) mein us tarah qaid nahi hain.
+
+Baghbani ki misaal software development ki asliyat ke kahin zyada kareeb hai. Shayad koi khaas routine bahut bada ho gaya hai, ya kuch zyada hi kaam karne ki koshish kar raha hai—ise do hisson mein baantne ki zaroorat hai. Jo cheezein plan ke mutabik kaam nahi kar rahin, unhe ukhadne (weeded) ya chhaantne (pruned) ki zaroorat hai.
+
+Code ko dobara likhna (rewriting), uspe dobara kaam karna (reworking), aur uske dhanchay ko theek karna (re-architecting) milakar **refactoring** kehlata hai.
+
+**When Should You Refactor? (Aapko Refactor Kab Karna Chahiye?)**
+
+Jab aap kisi rukawat (stumbling block) ka samna karte hain kyunki code ab theek se fit nahi hota, ya aap do aisi cheezein dekhte hain jinhe sach mein mila diya jana (merged) chahiye, ya koi bhi dusri cheez jo aapko "galat" lagti hai, **toh use badalne mein hichkichayein nahi (don't hesitate to change it)**. Abhi jaisa koi aur waqt nahi hai (There's no time like the present). Aisi kai cheezein ho sakti hain jinse code refactoring ke layeq ho jata hai:
+
+* **Duplication:** Aapne DRY principle ka ullanghan pakda hai (page 26 par *The Evils of Duplication* dekhein).
+* **Nonorthogonal design:** Aapne koi aisa code ya design dhoondha hai jise aur zyada orthogonal (azad) banaya ja sakta tha (page 34 par *Orthogonality* dekhein).
+* **Outdated knowledge (Purani jankari):** Cheezein badalti hain, requirements badalti hain, aur problem ko lekar aapki jankari badhti hai. Code ko bhi iske saath chalna chahiye.
+* **Performance:** Performance behtar karne ke liye aapko functionality ko system ke ek hisse se dusre hisse mein move karne ki zaroorat padti hai.
+
+Apne code ko refactor karna—functionality ko idhar-udhar move karna aur purane faislon ko update karna—asal mein **dard ko jhelne (pain management)** ka ek abhyaas (exercise) hai. Aaiye is baat ko maante hain, source code mein badlaav karna kafi takleef-deh (painful) ho sakta hai: yeh lagbhag kaam kar hi raha tha, aur ab yeh *puri tarah* se toot chuka (torn up) hai. Kai developers sirf isliye code ko todna-fodna (ripping up) shuru karne se hichkichate (reluctant) hain kyunki yeh poori tarah theek nahi hai.
+
+**Real-World Complications (Asli Duniya ki Mushkilein)**
+
+Toh aap apne boss ya client ke paas jate hain aur kehte hain, "Yeh code kaam kar raha hai, lekin mujhe isey refactor karne ke liye ek aur hafta chahiye."
+
+Hum unka jawab yahan print nahi kar sakte.
+
+Waqt ki kami (Time pressure) ka istemal aksar refactoring na karne ke bahane ke taur par kiya jata hai. Lekin yeh bahana zyada der tak tikta nahi hai: aaj refactor karne mein nakam (fail) rahein, aur aage chal kar is problem ko theek karne mein kahin zyada waqt lagega—jab nipatne ke liye aur bhi dependencies (nirbhartayein) hongi. Kya tab zyada waqt available hoga? Hamare tajurbe (experience) mein toh nahi.
+
+Aap is principle ko boss ko ek medical misaal (analogy) dekar samjhana chahenge: sochiye ki jis code ko refactoring ki zaroorat hai wo ek "rasoli" (growth) ki tarah hai. Ise nikalne ke liye chir-phad (invasive surgery) karni padegi. Aap abhi ja kar ise nikal sakte hain jab yeh abhi chhota hai. Ya, aap iske badhne aur failne ka intezar kar sakte hain—lekin phir ise nikalna aur bhi mehanga aur khatarnak hoga. Thoda aur intezar karein, aur aap poore mareez (patient) ko kho sakte hain.
+
+---
+
+> **Tip 47**
+> **Refactor Early, Refactor Often**
+> (Jaldi Refactor Karein, Aksar Refactor Karein)
+
+---
+
+Aisi cheezon ka hisaab (track) rakhein jinhe refactor karne ki zaroorat hai. Agar aap kisi cheez ko fauran (immediately) refactor nahi kar sakte, toh yeh pakka karein ki ise schedule mein daal diya jaye. Yeh pakka karein ki us code ko istemal karne walon ko **pata ho** ki ise refactor karne ka schedule ban gaya hai aur iska un par kya asar pad sakta hai.
+
+**How Do You Refactor? (Aap Refactor Kaise Karte Hain?)**
+
+Refactoring ki shuruat Smalltalk community mein hui thi, aur dusre trends (jaise design patterns) ke saath-saath isne ek badi audience (audience) tak pahunchna shuru kar diya hai. Lekin ek topic ke roop mein yeh abhi bhi kaafi naya hai; is par zyada kuch publish nahi hua hai. Refactoring par pehli badi kitab ([ FBB + 99 ], aur saath hi [ URL 47 ]) lagbhag isi kitab ke as-pas publish ho rahi hai.
+
+Apne dil se dekhein toh, refactoring ek redesign (dobara design karna) hai. Koi bhi cheez jo aapne ya aapki team ke dusron ne design ki thi, naye facts, gehari samajh, badalti requirements, ityadi ke roshni mein redesign ki ja sakti hai. Lekin agar aap bina soche-samjhe (wild abandon) code ke bade hisse ko phadna (rip up) shuru kar dete hain, toh aap khud ko shuruat se bhi buri halat mein pa sakte hain.
+
+Zahir hai, refactoring ek aisi activity hai jise dheere-dheere, jaan-bujhkar (deliberately), aur savdhani se (carefully) kiya jana chahiye. Martin Fowler is baare mein kuch aasan tips dete hain ki kaise fayde se zyada nuksaan kiye bina refactor kiya jaye ([FS97] mein page 30 par box dekhein):
+
+1. Ek hi waqt par refactor karne aur functionality jodne ki koshish na karein.
+2. Yeh pakka karein ki refactoring shuru karne se pehle aapke paas acche tests hon. Jitna ho sake in tests ko chalayein (Run the tests as often as possible). Is tarah aapko jaldi pata chal jayega ki aapke changes ne kuch tod toh nahi diya hai.
+
+---
+
+> **Automatic Refactoring**
+> Itihas ke panno mein dekhein toh, Smalltalk users ne hamesha IDE ke hisse ke roop mein ek class browser ka lutf uthaya hai. Isko Web browsers se confuse na karein, class browsers users ko class hierarchies aur methods ko navigate aur examine karne dete hain.
+> Aam taur par, class browsers aapko code edit karne, naye methods aur classes banane ki suvidha dete hain. Is idea par agla variation **refactoring browser** hai.
+> Ek refactoring browser aapke liye aam (common) refactoring operations semi-automatically kar sakta hai: ek lambi routine ko chhoti routines mein baantna, method aur variable naamon mein kiye gaye changes ko automatically aage bhejna (propagating), code move karne mein madad karne ke liye drag aur drop karna, aur aisi hi kai aur cheezein.
+> Jab hum yeh kitab likh rahe hain, tab tak yeh technology Smalltalk ki duniya se bahar nahi aayi hai, lekin iske utni hi tezi se badalne ki sambhavna hai jitni tezi se Java badalta hai—yaani bahut tezi se. Isi dauran, shuruati Smalltalk refactoring browser [ URL 20 ] par online mil sakta hai.
+
+---
+
+3. Chhote, soche-samjhe (deliberate) steps lein: ek class se ek field ko dusri class mein le jayein, do ek jaise methods ko mila kar ek superclass banayein. Refactoring mein aksar kai chhote-chhote changes (localized changes) karne padte hain jinka nateeja ek bade scale par change hota hai. Agar aap apne steps chhote rakhte hain, aur har step ke baad test karte hain, toh aap lambe debugging (prolonged debugging) se bach jayenge.
+
+Hum *Code That's Easy to Test* (page 189) mein is level ki testing ke baare mein aur *Ruthless Testing* (page 237) mein bade paimane (larger-scale) par testing ke baare mein aur baat karenge, lekin Mr. Fowler ka acche regression tests maintain karne ka point confidence ke saath refactoring karne ki kundi (key) hai.
+
+Yeh pakka karna bhi madadgar ho sakta hai ki kisi module mein kiye gaye drastic changes—jaise iske interface ko ya iski functionality ko kisi incompatible (na-milne-wale) dhang se badalna—build ko tod (break the build) dein. Yani, is code ke purane clients compile hone mein fail ho jane chahiye. Tab aap jaldi se purane clients dhoondh sakte hain aur unhe up to date (naya) banane ke liye zaroori changes kar sakte hain.
+
+Toh agli baar jab aapko code ka koi aisa hissa dikhe jo waisa nahi hai jaisa hona chahiye, toh use aur us par nirbhar sabhi cheezon ko theek karein. Dard (pain) ko manage karein: agar yeh abhi dard deta hai, lekin baad mein aur bhi zyada dard dene wala hai, toh aapko isey abhi hi khatam (get it over with) kar lena chahiye. *Software Entropy* (page 4) ke sabaq (lessons) yaad rakhein: tooti hui khidkiyon (broken windows) ke saath mat jeeyein.
+
+**Related sections include:**
+
+* The Cat Ate My Source Code, page 2
+* Software Entropy, page 4
+* Stone Soup and Boiled Frogs, page 7
+* The Evils of Duplication, page 26
+* Orthogonality, page 34
+* Programming by Coincidence, page 172
+* Code That's Easy to Test, page 189
+* Ruthless Testing, page 237
+
+**Exercises**
+
+**38.** Niche diye gaye code ko saalo mein kai baar update kiya gaya hai yeh toh zahir hai, lekin in updates ne iske structure ko behtar nahi banaya hai. Isey refactor karein.
+
+```c
+void state_machine() {
+    int state = 0;
+    while (state != 99) {
+        if (state == 0) {
+            // do something
+            state = 1;
+        } else if (state == 1) {
+            // do something else
+            state = 2;
+        } else if (state == 2) {
+            // ...
+
+```
+
+**39.** Niche di gayi Java class ko kuch aur shapes ko support karne ki zaroorat hai. Class ko naye additions ke liye taiyar karne ke liye isey refactor karein.
+
+```java
+class Shape {
+    public static final int SQUARE = 1;
+    public static final int CIRCLE = 2;
+    private int type;
+
+    public Shape(int type) {
+        this.type = type;
+    }
+
+    public void draw() {
+        if (type == SQUARE) {
+            // draw square
+        } else if (type == CIRCLE) {
+            // draw circle
+        }
+    }
+}
+
+```
+
+**40.** Yeh Java code ek framework ka hissa hai jise aapke poore project mein istemal kiya jayega. Isey aur zyada aam (general) aur bhavishya mein extend karne mein asaan banane ke liye refactor karein.
+
+```java
+public class SystemConfig {
+    private static SystemConfig instance = new SystemConfig();
+    private String databaseUrl;
+    // ...
+
+```
