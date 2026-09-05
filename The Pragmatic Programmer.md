@@ -4272,3 +4272,40 @@ Is mamle mein Perl mein kuch bhi jadoo (magic) nahi hai. Perl test results ko ik
 **Exercises (Abhyaas)**
 
 **41.** Page 289 par Exercise 17 ke jawab mein bataye gaye blender interface ke liye ek test jig design karein. Ek shell script likhein jo blender ke liye ek regression test chalayega. Aapko basic functionality, error aur boundary conditions, aur kisi bhi contractual obligations (zimmedariyon) ko test karne ki zaroorat hai. Speed badalne par kya pabandiyan (restrictions) lagayi gayi hain? Kya unka palan kiya ja raha hai (Are they being honored)?
+
+#### 35. Evil Wizards (Shaitani Wizards)
+
+Is baat se inkaar nahi kiya ja sakta (There's no denying it)—applications likhna lagatar mushkil aur mushkil hota ja raha hai. User interfaces khaas taur par lagatar sophisticated (jatil aur advanced) hote ja rahe hain. Bees saal pehle, ek aam application mein glass teletype interface hota tha (agar usme koi interface hota hi tha toh). Asynchronous terminals aam taur par ek character interactive display dete the, jabki pollable devices (jaise har jagah paya jane wala IBM 3270) aapko `Enter` dabane se pehle ek poori screen bharne dete the. Ab, users graphical user interfaces ki umeed karte hain, jisme context-sensitive help, cut aur paste, drag aur drop, OLE integration, aur MDI ya SDI ho. Users Web-browser integration aur thin-client support dhoondh rahe hain.
+
+Har waqt applications khud bhi aur zyada complex hoti ja rahi hain. Zyada-tar developments ab ek multitier model ka istemal karte hain, shayad kisi middleware layer ya transaction monitor ke saath. In programs se umeed ki jati hai ki wo dynamic aur flexible hon, aur third parties dwara likhi gayi applications ke saath milkar kaam karein (interoperate).
+
+Oh, aur kya humne bataya ki hamein yeh sab agle hafte chahiye tha?
+
+Developers is raftaar ke saath chalne (keep up) ke liye struggle kar rahe hain. Agar hum aaj wahi tools istemal kar rahe hote jinhone 20 saal pehle basic dumb-terminal applications banayi thi, toh hum kabhi kuch pura hi nahi kar paate.
+
+Isliye tool makers aur infrastructure vendors ek jaadui goli (magic bullet) lekar aaye hain, **wizard**. Wizards bahut shandaar hote hain. Kya aapko OLE container support ke saath ek MDI application chahiye? Bas ek single button click karein, kuch aasan sawalon ke jawab dein, aur wizard aapke liye automatically skeleton code generate kar dega. Microsoft Visual C++ environment is scenario ke liye automatically 1,200 se zyada lines ka code banata hai. Wizards dusre contexts mein bhi mehnat se kaam kar rahe hain. Aap server components banane, Java beans implement karne, aur network interfaces handle karne ke liye wizards ka istemal kar sakte hain—yeh sab complex areas hain jahan expert help milna accha lagta hai.
+
+Lekin kisi guru dwara design kiye gaye wizard ka istemal karne se Joe developer automatically utna hi expert nahi ban jata. Joe ko kaafi accha mehsoos ho sakta hai—usne abhi-abhi bahut saara code aur ek kaafi behtareen dikhne wala (spiffy-looking) program banaya hai. Wo bas isme specific application functionality jodta hai aur yeh ship karne ke liye taiyar hai. Lekin jab tak Joe asal mein us code ko nahi samajhta jo uski taraf se (on his behalf) banaya gaya hai, wo khud ko bewaqoof bana raha hai. Wo *programming by coincidence* (ittefaq se programming) kar raha hai. Wizards ek one-way street (ek tarfa rasta) hain—wo aapke liye code banate hain, aur phir aage badh jate hain. Agar unka banaya gaya code poori tarah sahi nahi hai, ya agar halaat badalte hain aur aapko code ko dhalna (adapt) padta hai, toh aapko sab khud hi karna hoga (you're on your own).
+
+Hum wizards ke khilaf nahi hain. Iske ulat (On the contrary), hum apna khud ka wizard likhne par ek poora section (*Code Generators* , page 102) samarpit (dedicate) karte hain. Lekin agar aap waqayi ek wizard ka istemal karte hain, aur aap uske dwara banaye gaye saare code ko nahi samajhte, toh aap apni hi application ke control mein nahi honge. Aap ise maintain nahi kar payenge, aur jab debug karne ka waqt aayega toh aap struggle kar rahe honge.
+
+---
+
+> **Tip 50**
+> **Don't Use Wizard Code You Don't Understand**
+> (Aisa Wizard Code Istemal Na Karein Jise Aap Nahi Samajhte)
+
+---
+
+Kuch logon ko lagta hai ki yeh ek extreme (hadd se aage ki) position hai. Wo kehte hain ki developers aam taur par (routinely) aisi cheezon par nirbhar karte hain jinhe wo poori tarah nahi samajhte—integrated circuits ki quantum mechanics, processor ka interrupt structure, processes ko schedule karne wale algorithms, supplied libraries mein maujood code, ityadi. Hum sehmat (agree) hain. Aur hum wizards ke baare mein bhi waisa hi sochte agar wo bas library calls ka ek set ya standard operating system services hote jin par developers nirbhar kar sakte the. Lekin wo aise nahi hain. Wizards aisa code generate karte hain jo Joe ki application ka ek atoot hissa (integral part) ban jata hai. Wizard code kisi saaf-suthre (tidy) interface ke piche alag (factored out) nahi hota—yeh Joe dwara likhi gayi functionality ke saath line by line guth (interwoven) jata hai. [4] Aakhir-kaar (Eventually), yeh wizard ka code nahi rehta aur Joe ka code ban jata hai. Aur kisi ko bhi aisa code nahi banana chahiye jise wo poori tarah na samajhta ho.
+
+> [4] Halanki, aisi dusri takneekein (techniques) hain jo complexity manage karne mein madad karti hain. Hum do takneekon, beans aur AOP, par *Orthogonality*, page 34 mein charcha karte hain.
+
+**Related sections include:**
+
+* Orthogonality, page 34
+* Code Generators, page 102
+
+**Challenges (Chunautiyan)**
+
+* Agar aapke paas koi GUI-building wizard available hai, toh iska istemal ek skeleton application generate karne ke liye karein. Iske dwara produce ki gayi har ek line of code ko padhein. Kya aap ise poori tarah samajhte hain? Kya aap ise khud bana sakte the? Kya aap ise khud banate, ya yeh aisi cheezein kar raha hai jinki aapko zaroorat nahi hai?
