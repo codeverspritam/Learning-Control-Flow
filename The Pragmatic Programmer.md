@@ -4046,3 +4046,229 @@ public class SystemConfig {
     // ...
 
 ```
+
+#### 34. Code That's Easy to Test (Aisa Code Jise Test Karna Asaan Ho)
+
+Jab reusability (dobara istemal) aur component-based development [3] ki baat hoti hai, toh log **Software IC** (Integrated Circuit) ki misaal (metaphor) dena pasand karte hain. Iska idea yeh hai ki software components ko theek waise hi milaya (combined) jana chahiye jaise integrated circuit chips ko milaya jata hai. Yeh tabhi kaam karta hai jab aap jin components ka istemal kar rahe hain, unke baare mein yeh pata ho ki wo reliable (bharosemand) hain.
+
+> [3] "Software IC" (Integrated Circuit) shabd ka aavishkar (invented) shayad 1986 mein Cox aur Novobilski ne apni Objective-C ki kitab *Object-Oriented Programming* [ CN91 ] mein kiya tha.
+
+Chips ko test kiye jane ke liye hi design kiya jata hai—sirf factory mein nahi, sirf unhe lagate (installed) waqt nahi, balki unhe deploy karne ke baad field (asli duniya) mein bhi. Zyada complex chips aur systems mein ek poora Built-In Self Test (BIST) feature ho sakta hai jo internally kuch base-level diagnostics chalata hai, ya ek Test Access Mechanism (TAM) ho sakta hai jo ek test harness (dhancha) deta hai jisse bahari environment chip ko stimuli (signals) de sake aur response collect kar sake.
+
+Hum software mein bhi yahi kar sakte hain. Apne hardware ke sathiyon (colleagues) ki tarah, hamein bhi shuruat se hi software mein testability (test karne ki kshamta) build karni hogi, aur har tukde (piece) ko ek-saath jodne (wire) ki koshish karne se pehle achi tarah (thoroughly) test karna hoga.
+
+**Unit Testing (Unit Testing)**
+
+Hardware ke liye Chip-level testing lagbhag software mein **unit testing** ke barabar hoti hai—har module par, akele mein (in isolation), uska vyavahar (behavior) verify karne ke liye ki jane wali testing. Ek baar jab hum kisi module ko controlled (yahan tak ki banawati/contrived) halaat (conditions) mein achi tarah test kar lete hain, toh hum is baat ka behtar andaza laga sakte hain ki wo badi duniya (big wide world) mein kaisa react karega.
+
+Software unit test ek aisa code hota hai jo kisi module ko exercise (jaanch) karta hai. Aam taur par, unit test kisi tarah ka artificial (banawati) environment banayega, aur phir test kiye ja rahe module mein routines ko call (invoke) karega. Phir yeh wapas aane wale (returned) results ko check karta hai, ya toh pehle se pata (known) values ke khilaf ya usi test ke pichle runs ke results ke khilaf (regression testing).
+
+Baad mein, jab hum apne "software IC's" ko ek poore system mein jod (assemble) lenge, toh hamein is baat ka vishwas (confidence) hoga ki alag-alag parts umeed ke mutabik kaam kar rahe hain, aur phir hum poore system ko test karne ke liye unhi unit test facilities ka istemal kar sakte hain. Hum system ki is bade paimane par (large-scale) checking ke baare mein *Ruthless Testing* (page 237) mein baat karte hain.
+
+Halanki, wahan tak pahunchne se pehle, hamein yeh tay karna hoga ki unit level par kya test karna hai. Aam taur par, programmers code par kuch random data phek dete hain aur usko tested maan lete hain. *Design by contract* ke pichhe ke ideas ka istemal karke, hum isse kahin behtar kar sakte hain.
+
+**Testing Against Contract (Contract ke khilaf Testing)**
+
+Hamein unit testing ko **contract ke khilaf testing** (page 109 par *Design by Contract* dekhein) ke roop mein sochna pasand hai. Hum aise test cases likhna chahte hain jo yeh pakka karein ki ek unit apne contract ka palan (honors) karti hai. Isse hamein do baatein pata chalengi: kya code contract ko poora karta hai, aur kya contract ka wahi matlab hai jo hum sochte hain. Hum yeh test karna chahte hain ki module wo functionality deliver karta hai jiska wo wada (promises) karta hai, test cases aur boundary conditions ki ek badi range (wide range) par.
+
+Asal mein (In practice) iska kya matlab hai? Aaiye us square root routine ko dekhte hain jiska humne pehli baar page 114 par samna (encountered) kiya tha. Iska contract simple hai:
+
+```eiffel
+require
+    Argument_must_be_positive: x >= 0
+ensure
+    Result_squared_is_argument:
+        abs(Result * Result - x) <= epsilon
+
+```
+
+Yeh hamein batata hai ki kya test karna hai:
+
+* Ek negative argument pass karein aur pakka karein ki yeh reject ho jaye.
+* Zero ka ek argument pass karein yeh pakka karne ke liye ki yeh accept ho jaye (yeh boundary value hai).
+* Zero aur sabse maximum (highest expressible) argument ke beech ki values pass karein aur verify karein ki result ke square aur original argument ke beech ka farq (difference) argument ke kisi chhote hisse (small fraction) se kam ho.
+
+Is contract se lais (Armed) hokar, aur yeh maante hue ki hamara routine apni khud ki pre- aur postcondition checking karta hai, hum square root function ko exercise karne ke liye ek basic test script likh sakte hain.
+
+```java
+public void testValue(double val) {
+    double result;
+    // Check pre- and postconditions
+    try {
+        result = Math.sqrt(val);
+        // postcondition should be checked in sqrt
+    }
+    catch (Exception e) {
+        System.out.println("Exception: " + e.getMessage());
+    }
+}
+
+```
+
+Phir hum apne square root function ko test karne ke liye is routine ko call kar sakte hain:
+
+```java
+testValue(-4.0); // should generate error
+testValue(0.0);  // boundary
+testValue(2.0);  // regular
+testValue(64.0); // regular
+testValue(1e7);  // regular
+
+```
+
+Yeh ek kafi asaan (simple) test hai; asli duniya mein, kisi bhi nontrivial module ke kai dusre modules par nirbhar (dependent) hone ki sambhavna hoti hai, toh hum is combination ko test karne ke baare mein kaise aage badhein?
+
+Maan lijiye hamare paas ek module `A` hai jo ek `LinkedList` aur ek `Sort` ka istemal karta hai. Hum is kram (order) mein test karenge:
+
+1. `LinkedList` ka contract, poori tarah se (in full)
+2. `Sort` ka contract, poori tarah se
+3. `A` ka contract, jo dusre contracts par nirbhar (relies) karta hai lekin unhe directly dikhata (expose) nahi hai
+
+Testing ke is style mein zaroori hai ki aap pehle kisi module ke subcomponents ko test karein. Ek baar subcomponents verify ho jane ke baad, phir khud module ko test kiya ja sakta hai.
+
+Agar `LinkedList` aur `Sort` ke tests pass ho gaye, lekin `A` ka test fail ho gaya, toh hum kafi hadd tak yakin kar sakte hain ki problem `A` mein hai, ya `A` dwara un subcomponents mein se kisi ke **istemal** mein hai. Yeh takneek (technique) debugging ki mehnat ko kam karne ka ek behtareen tareeqa hai: hum jaldi se module `A` ke andar problem ki sambhavit (likely) wajah par focus kar sakte hain, aur iske subcomponents ko dobara check (reexamining) karne mein waqt barbad nahi karenge.
+
+Hum is saari pareshani (trouble) mein kyun padte hain? Sabse badhkar, hum ek "time bomb" banane se bachna chahte hain—kuch aisa jo anjaan bankar baitha rehta hai aur baad mein project mein kisi ajeeb waqt (awkward moment) par phat (blows up) jata hai. Contract ke khilaf testing par zor dekar (emphasizing), hum aage chal kar aane wali aisi kai musibaton (downstream disasters) se bachne ki koshish kar sakte hain.
+
+---
+
+> **Tip 48**
+> **Design to Test**
+> (Test Karne ke Liye Design Karein)
+
+---
+
+Jab aap kisi module, ya yahan tak ki kisi single routine ko design karte hain, toh aapko uska contract aur us contract ko test karne wala code, dono design karne chahiye. Ek test ko pass karne aur apne contract ko poora karne ke liye code design karke, aap boundary conditions aur aise dusre muddon par vichar karenge jo warna aapke dimaag mein nahi aate. Galtiyon (errors) ko theek karne ka isse behtar koi tareeqa nahi hai ki unhe shuruat mein hi aane se roka jaye. Asal mein, code implement karne se *pehle* tests bana kar, aap interface par poori tarah se tay (commit) karne se pehle use aazma (try out) kar dekh lete hain.
+
+**Writing Unit Tests (Unit Tests Likhna)**
+
+Kiai module ke liye unit tests ko source tree ke kisi door ke kone (far-away corner) mein nahi thelna (shoved) chahiye. Unhe aisi jagah par hona chahiye jahan tak asani se pahuncha ja sake (conveniently located). Chhote projects ke liye, aap kisi module ke unit test ko module ke andar hi embed kar sakte hain. Bade projects ke liye, hum har test ko ek subdirectory mein move karne ka sujhaav dete hain. Kisi bhi tarah se, yaad rakhein ki agar ise dhoondhna asaan nahi hai, toh iska istemal nahi hoga.
+
+Test code ko asani se accessible (pahunchne-layak) banakar, aap un developers ko do behad keemti (invaluable) resources de rahe hain jo aapke code ka istemal kar sakte hain:
+
+1. Aapke module ki saari functionality ka istemal kaise karna hai, iske udaharan (examples).
+2. Code mein bhavishya ke kisi bhi badlaav ko validate karne ke liye regression tests banane ka ek zariya (means).
+
+Har class ya module ke liye apna khud ka unit test hona convenient hai, lekin hamesha practical nahi hota. Java mein, misaal ke taur par, har class ka apna `main` ho sakta hai. Application ki main class file ko chhod kar, `main` routine ka istemal unit tests chalane ke liye kiya ja sakta hai; jab application khud chalayi jayegi toh ise ignore kar diya jayega. Iska fayda yeh hai ki aap jo code ship karte hain usme tests abhi bhi hote hain, jinka istemal field (asli duniya) mein problems ko diagnose karne ke liye kiya ja sakta hai.
+
+C++ mein aap `unit test` code ko chun-kar (selectively) compile karne ke liye `#ifdef` ka istemal karke (compile time par) wahi asar hasil kar sakte hain. Misaal ke taur par, yahan hamare module mein embedded, C++ mein ek bahut hi simple unit test hai, jo pehle bataye gaye Java routine ke jaisa hi ek `testValue` routine ka istemal karke hamare square root function ko check karta hai:
+
+```cpp
+#ifdef TEST_SQRT
+void testValue(double val) {
+    try {
+        double result = Math::sqrt(val);
+    }
+    catch (Exception e) {
+        cerr << "Exception: " << e.getMessage() << endl;
+    }
+}
+int main(int argc, char **argv) {
+    if (argc == 1) { // internal testing
+        testValue(-4.0); // should generate error
+        testValue(0.0);  // boundary
+        // ...
+    } else { // test on given args
+        while (--argc) {
+            testValue(atof(*++argv));
+        }
+    }
+}
+#endif
+
+```
+
+Yeh unit test ya toh tests ka ek minimal (sabse chhota) set chalayega ya, agar arguments diye jayein, toh aapko bahari duniya (outside world) se data pass karne dega. Ek shell script is kabiliyat ka istemal tests ka ek kahin zyada bada set chalane ke liye kar sakti hai.
+
+Aap kya karte hain agar unit test ka sahi response exit karna, ya program ko abort karna ho? Us case mein, aapko chalane ke liye test chun-ne (select) ke kabil hona chahiye, shayad command line par ek argument specify karke. Agar aapko apne tests ke liye alag-alag shuruati halaat (starting conditions) specify karni hain toh aapko parameters bhi pass karne honge.
+
+Lekin sirf unit tests dena hi kafi nahi hai. Aapko unhe chalana hoga, aur unhe aksar (often) chalana hoga. Yeh bhi madad karta hai agar class kabhi-kabhi apne tests *pass* karti ho.
+
+**Using Test Harnesses (Test Harnesses Ka Istemal)**
+
+Kyunki hum aam taur par *bahut saara* test code likhte hain, aur bahut saari testing karte hain, isliye hum apne liye zindagi asaan banayenge aur project ke liye ek standard testing harness develop karenge. Pichle section mein dikhaya gaya `main` ek bahut hi simple test harness hai, lekin aam taur par hamein usse zyada functionality ki zaroorat hogi.
+
+Ek test harness un aam kaamon ko handle kar sakta hai jaise status log karna, ummeed wale results ke liye output ko analyze karna, aur tests ko chun-na aur chalana. Harnesses GUI par aadharit (driven) ho sakte hain, usi target language mein likhe ja sakte hain jisme poora project likha gaya hai, ya `makefiles` aur Perl scripts ke combination ke roop mein implement kiye ja sakte hain. Ek simple test harness page 305 par Exercise 41 ke jawab mein dikhaya gaya hai.
+
+Object-oriented languages aur environments mein, aap ek base class bana sakte hain jo in aam kaamon (common operations) ko deti ho. Individual tests usse subclass bana sakte hain aur specific test code jod sakte hain. Aap Java mein tests ki ek list dynamically banane ke liye ek standard naming convention aur *reflection* ka istemal kar sakte hain. Yeh takneek `DRY` principle ka samman (honoring) karne ka ek accha tareeqa hai—aapko available tests ki ek list maintain karne ki zaroorat nahi padti. Lekin apna khud ka harness likhna shuru karne se pehle, aap [ URL 22 ] par Kent Beck aur Erich Gamma ke xUnit ko check karna chahenge. Aap JUnit ke introduction ke liye hamari kitab *Pragmatic Unit Testing* [ HT03 ] bhi dekhna chahenge.
+
+Aap jis bhi technology ka istemal karne ka faisla karein, uske bawajood test harnesses mein yeh kabiliyatein (capabilities) shamil honi chahiye:
+
+* Setup aur cleanup (saaf-safai) batane ka ek standard tareeqa.
+* Individual tests ya sabhi available tests ko chun-ne ka ek tareeqa (method).
+* Ummeed wale (ya an-chahe) results ke liye output ko analyze karne ka ek zariya.
+* Failure reporting (fail hone ki report dene) ka ek standardized form.
+
+Tests ko jod kar (composable) banaye jane-layak hona chahiye; yani, ek test ko kisi bhi gehrai (depth) tak subcomponents ke subtests se banaya ja sakta hai. Hum isi suvidha ka istemal system ke chune hue hisson ko ya poore system ko utni hi asani se test karne ke liye kar sakte hain, unhi tools ka istemal karke.
+
+---
+
+> **Ad Hoc Testing (Bina Plan ke Testing)**
+> Debugging ke dauran, hum shayad on-the-fly (usi waqt) kuch khaas tests bana lein. Yeh ek `print` statement jitne asaan (simple) ho sakte hain, ya debugger ya IDE environment mein interactively enter kiya gaya code ka ek hissa ho sakte hain.
+> Debugging session ke aakhir mein, aapko us ad hoc test ko formal (pukka) banana hoga. Agar code ek baar tuta (broke) tha, toh uske dobara tutne ki sambhavna hai. Apne banaye hue test ko sirf phek na dein; use maujooda (existing) unit test mein jod dein.
+
+---
+
+Misaal ke taur par, JUnit (xUnit family ka Java member) ka istemal karke, hum apna square root test is tarah likh sakte hain:
+
+```java
+import junit.framework.*;
+
+public class TestSquareRoot extends TestCase {
+    // ... setup framework ...
+    public void testPositive() {
+        assertEquals(2.0, Math.sqrt(4.0));
+    }
+    public void testNegative() {
+        try {
+            Math.sqrt(-4.0);
+            fail("Should have thrown exception");
+        } catch (IllegalArgumentException e) {
+            // expected behavior
+        }
+    }
+}
+
+```
+
+JUnit ko composable hone ke liye design kiya gaya hai: hum is suite (guccha) mein jitne chahein utne tests jod sakte hain, aur unmein se har test apne aap mein ek suite ho sakta hai. Iske alawa, aapke paas tests ko chalane ke liye graphical ya batch interface ka chunav (choice) hota hai.
+
+**Build a Test Window (Ek Test Window Banayein)**
+
+Tests ka sabse accha set bhi saare bugs nahi dhoondh pata; production environment ke us nami wale, garm halaat (damp, warm conditions) mein kuch toh aisa hota hai jo unhe lakdi mein se bahar nikal lata (bring them out of the woodwork) hai.
+
+Iska matlab hai ki aapko aksar ek baar deploy ho jane ke baad software ke ek hisse ko test karne ki zaroorat padegi—jab asli duniya ka data (real-world data) uski ragon (veins) mein beh raha ho. Ek circuit board ya chip ke muqable, software mein hamare paas *test pins* nahi hote, lekin hum debugger ka istemal kiye bina ek module ki internal state ke alag-alag nazariye (views) zaroor de sakte hain (debugger ka istemal production application mein asuvidhajanak/inconvenient ya namumkin ho sakta hai).
+
+Trace messages wali Log files aisi hi ek mechanism hain. Log messages ek regular, consistent format mein hone chahiye; aap processing time ya logic paths jo program ne liye hain, unka andaza (deduce) lagane ke liye unhe automatically parse karna chahenge. Buri tarah ya be-tarteeb (inconsistently) dhang se formatted diagnostics bas itni zyada "ulti" (spew) jaisi hoti hain—unhe padhna mushkil hota hai aur parse karna impractial hota hai.
+
+Chalte hue code ke andar jane ka ek aur mechanism "hot-key" sequence hai. Jab keys ki yeh khaas combination dabai jati hai, toh status messages wagaira ke sath ek diagnostic control window samne aati hai (pops up). Yeh aisi cheez nahi hai jise aap aam taur par end users ko dikhana (reveal) chahenge, lekin yeh help desk ke liye bahut handy (upyogi) ho sakti hai.
+
+Bade, zyada complex server code ke liye, uske operation ka ek nazariya (view) dene ka ek badiya (nifty) tareeqa ek built-in Web server shamil karna hai. Koi bhi ek Web browser ko application ke HTTP port par point kar sakta hai (jo aam taur par ek nonstandard number par hota hai, jaise 8080) aur internal status, log entries, aur shayad kisi tarah ka debug control panel bhi dekh sakta hai. Yeh implement karne mein mushkil lag sakta hai, lekin aisa nahi hai. Freely available aur embeddable HTTP Web servers kai modern languages mein available hain. Ise dhoondhna shuru karne ki ek acchi jagah [ URL 58 ] hai.
+
+**A Culture of Testing (Testing ka Culture)**
+
+Aap jo bhi software likhte hain wo test hoga hi—agar aap aur aapki team nahi, toh aakhir mein users zaroor karenge—isliye aapko bhi ise achi tarah test karne ka plan banana chahiye. Thodi si door-andesi (forethought) maintenance costs aur help-desk calls ko kam se kam karne mein bahut madad kar sakti hai.
+
+Apni hacker reputation ke bawajood, Perl community ka unit aur regression testing ke prati ek bahut mazboot commitment (jazba) hai. Perl standard module installation procedure `make test` invoke (chalakar) karke ek regression test ko support karti hai.
+
+Is mamle mein Perl mein kuch bhi jadoo (magic) nahi hai. Perl test results ko ikatha (collate) aur analyze karna asaan banata hai taaki compliance (palan) pakka kiya ja sake, lekin bada fayda sirf yeh hai ki yeh ek standard hai—tests ek khaas jagah par jate hain, aur unka ek tay (expected) output hota hai. *Testing technical se zyada cultural hai;* hum kisi bhi language ka istemal kiye bina is testing culture ko ek project mein jaga (instill) sakte hain.
+
+---
+
+> **Tip 49**
+> **Test Your Software, or Your Users Will**
+> (Apne Software ko Test Karein, Warna Aapke Users Karenge)
+
+---
+
+**Related sections include:**
+
+* The Cat Ate My Source Code, page 2
+* Orthogonality, page 34
+* Design by Contract, page 109
+* Refactoring, page 184
+* Ruthless Testing, page 237
+
+**Exercises (Abhyaas)**
+
+**41.** Page 289 par Exercise 17 ke jawab mein bataye gaye blender interface ke liye ek test jig design karein. Ek shell script likhein jo blender ke liye ek regression test chalayega. Aapko basic functionality, error aur boundary conditions, aur kisi bhi contractual obligations (zimmedariyon) ko test karne ki zaroorat hai. Speed badalne par kya pabandiyan (restrictions) lagayi gayi hain? Kya unka palan kiya ja raha hai (Are they being honored)?
