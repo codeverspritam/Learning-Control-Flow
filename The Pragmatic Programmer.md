@@ -3787,3 +3787,118 @@ public static void logMessage(String message) {
 }
 
 ```
+
+#### 32. Algorithm Speed (Algorithm ki Raftaar)
+
+*Estimating* (page 64) mein, humne andaza lagane (estimating) ke baare mein baat ki thi, jaise ki shahar ke us paar chal kar jane mein kitna waqt lagta hai, ya kisi project ko khatam hone mein kitna waqt lagega. Halanki, ek aur tarah ka estimating hai jise Pragmatic Programmers lagbhag rozana istemal karte hain: algorithms dwara istemal kiye jane wale resources ka andaza lagana—waqt, processor, memory, ityadi.
+
+Is tarah ka estimating aksar behad zaroori (crucial) hota hai. Kisi kaam ko karne ke do tareeqon ke beech chunav karna ho, toh aap kise chunte hain? Aap jante hain ki aapka program 1,000 records ke saath kitni der chalta hai, lekin yeh 1,000,000 records ke saath kaisa perform (scale) karega? Code ke kin hisson ko optimize karne ki zaroorat hai?
+
+Aisa pata chalta hai ki in sawalon ke jawab aksar aam samajh (common sense), kuch analysis, aur andaze (approximations) likhne ke ek tareeqe—jise **"big O"** notation kehte hain—ka istemal karke diye ja sakte hain.
+
+**Algorithms ka Andaza Lagane se Hamara Kya Matlab Hai? (What Do We Mean by Estimating Algorithms?)**
+
+Zyada-tar jatil (nontrivial) algorithms kisi na kisi tarah ka variable input handle karte hain—$n$ strings ko sort karna, ek $m \times n$ matrix ko invert (palatna) karna, ya ek $n$-bit ki chabi (key) se ek message ko decrypt karna. Aam taur par, is input ka size algorithm par asar dalega: input jitna bada hoga, chalne ka waqt (running time) utna zyada hoga ya memory utni zyada istemal hogi.
+
+Agar yeh rishta (relationship) hamesha linear hota (taaki waqt $n$ ki value ke saath seedhe anupat/direct proportion mein badhta), toh yeh section zaroori nahi hota. Halanki, zyada-tar mahatvapurn algorithms linear nahi hote. Acchi khabar yeh hai ki kai sublinear (linear se kam) hote hain. Ek binary search, misaal ke taur par, match dhoondhte waqt har candidate ko dekhne ki zaroorat nahi padti. Buri khabar yeh hai ki dusre algorithms linear se kahin zyada bure (considerably worse) hote hain; runtimes ya memory requirements $n$ se kahin zyada tezi se badhti hain. Ek algorithm jise 10 items process karne mein ek minute lagta hai, use 100 process karne mein puri zindagi (lifetime) lag sakti hai.
+
+Hum dekhte hain ki jab bhi hum loops ya recursive calls wali koi cheez likhte hain, toh hum anjaane mein (subconsciously) runtime aur memory requirements check kar lete hain. Yeh shayad hi kabhi ek rasmi tareeqa (formal process) hota hai, balki bas ek jaldi se ki jane wali tasdeeq (quick confirmation) hoti hai ki hum un halaat mein jo kar rahe hain wo samajhdaari (sensible) hai. Halanki, hum kabhi-kabhi khud ko ek zyada gehra analysis (detailed analysis) karte hue **pate hain**. Wahi waqt hota hai jab $O()$ notation kaam aata hai.
+
+**The $O()$ Notation**
+
+$O()$ notation andazo (approximations) se nipatne ka ek mathematical tareeqa hai.
+
+Jab hum likhte hain ki ek khaas sort routine $n$ records ko $O(n^2)$ waqt mein sort karta hai, toh hum bas yeh keh rahe hote hain ki sabse bure halaat (worst-case) mein lagne wala waqt $n$ ke square ke hisab se badlega (vary karega). Records ki ginti dugni kar dein, aur waqt lagbhag chaar guna (fourfold) badh jayega. $O$ ke matlab ko **is order mein (on the order of)** sochein. $O()$ notation us cheez ki value par ek oopari seema (upper bound) lagata hai jise hum maap rahe hain (waqt, memory, ityadi). Agar hum kehte hain ki ek function $O(n^2)$ waqt leta hai, toh hum jaante hain ki iske lagne wale waqt ki upper bound $n^2$ se tezi se nahi badhegi. Kabhi-kabhi hum kaafi complex $O()$ functions le aate hain, lekin kyunki $n$ badhne par sabse badi taqat wali term (highest-order term) value par haavi (dominate) hogi, isliye riwaaz (convention) yeh hai ki sabhi choti (low-order) terms ko hata diya jaye, aur kisi bhi constant multiplying factor (guna karne wale numbers) ko dikhane ki zahmat na uthai jaye. $O(n^2/2 + 3n)$, $O(n^2/2)$ ke barabar hai, jo $O(n^2)$ ke barabar hai. Asal mein yeh $O()$ notation ki ek kamzori hai—ek $O(n^2)$ algorithm dusre $O(n^2)$ algorithm se 1,000 guna tez ho sakta hai, lekin aap notation dekh kar yeh nahi bata payenge.
+
+Figure 6.1 aam taur par dikhne wale (common) $O()$ notations dikhata hai, saath hi har category mein algorithms ke chalne ke waqt (running times) ki tulna (comparing) karne wala ek graph bhi dikhata hai.
+
+Zahir hai (Clearly), jaise hi hum $O(n^2)$ se aage badhte hain, cheezein jaldi hi haath se nikalne lagti hain.
+
+> **Figure 6.1. Alag-alag algorithms ke Runtimes**
+
+Misaal ke taur par, maan lijiye aapke paas ek routine hai jo 100 records ko process karne mein 1 second leta hai. Ise 1,000 records ko process karne mein kitna waqt lagega? Agar aapka code $O(1)$ hai, toh ise abhi bhi 1 second lagega. Agar yeh $O(\lg n)$ hai, toh aap shayad lagbhag 3 second intezar karenge. $O(n)$ ek linear badhoti (increase) dikhayega aur 10 second lega, jabki ek $O(n \lg n)$ ko lagbhag 33 second lagenge. Agar aap itne badkismat hain ki aapke paas ek $O(n^2)$ routine hai, toh aaram se baith kar 100 second intezar karein jab tak yeh apna kaam kare. Aur agar aap ek exponential algorithm $O(2^n)$ ka istemal kar rahe hain, toh aap shayad ek cup coffee banana chahenge—aapka routine lagbhag $10^{263}$ saalon mein khatam hona chahiye. Jab universe khatam ho toh hamein batayega (Let us know how the universe ends).
+
+$O()$ notation sirf waqt par laagu nahi hota; aap iska istemal kisi algorithm dwara istemal kiye jane wale kisi bhi aur resource ko dikhane ke liye kar sakte hain. Misaal ke taur par, memory consumption (khapat) ko model karne ke kabil hona aksar upyogi (useful) hota hai (page 183 par Exercise 35 dekhein).
+
+**Common Sense Estimation (Aam Samajh se Andaza Lagana)**
+
+Aap aam samajh (common sense) ka istemal karke kai basic algorithms ke order ka andaza laga sakte hain.
+
+* **Simple loops:** Agar ek simple loop 1 se $n$ tak chalta hai, toh is baat ki zyada sambhavna hai ki algorithm $O(n)$ hoga—waqt $n$ ke saath linearly badhta hai. Iske udaharan (examples) mein exhaustive searches, array mein maximum value dhoondhna, aur checksums generate karna shamil hain.
+* **Nested loops:** Agar aap ek loop ko dusre ke andar nest (rakhte) hain, toh aapka algorithm $O(m \times n)$ ban jata hai, jahan $m$ aur $n$ dono loops ki limits hain. Yeh aam taur par simple sorting algorithms mein hota hai, jaise bubble sort, jahan outer loop array ke har element ko baari-baari scan karta hai, aur inner loop yeh tay (works out) karta hai ki us element ko sorted result mein kahan rakhna hai. Aise sorting algorithms aam taur par $O(n^2)$ hote hain.
+* **Binary chop:** Agar aapka algorithm har baar loop ke chakkar (around the loop) mein un cheezon ke set ko aadha (halves) kar deta hai jin par wo vichar (considers) karta hai, toh is baat ki zyada sambhavna hai ki yeh logarithmic, $O(\lg n)$ hoga (Exercise 37, page 183 dekhein). Ek sorted list ka binary search, binary tree ko traverse karna, aur kisi machine word mein pehle set bit ko dhoondhna yeh sab $O(\lg n)$ ho sakte hain.
+* **Divide and conquer (Baanto aur raaj karo):** Aise algorithms jo apne input ko partition (hisson mein baant-te) karte hain, dono hisson par azaad (independently) tareeqe se kaam karte hain, aur phir result ko jodh (combine) dete hain, wo $O(n \lg n)$ ho sakte hain. Iska classic example quicksort hai, jo data ko do hisson mein baant kar aur har hisse ko recursively sort karke kaam karta hai. Halanki technically yeh $O(n^2)$ hai, kyunki jab isme pehle se sorted input diya jata hai toh iska vyavahar (behavior) kharab (degrades) ho jata hai, lekin quicksort ka average runtime $O(n \lg n)$ hota hai.
+* **Combinatoric (Milakar dekhna):** Jab algorithms cheezon ke permutations (alag-alag combinations) ko dekhna shuru karte hain, toh unke chalne ka waqt (running times) haath se bahar ja sakta hai. Aisa isliye hai kyunki permutations mein factorials shamil hote hain (1 se 5 tak ke digits ke $5! = 5 \times 4 \times 3 \times 2 \times 1 = 120$ permutations hote hain). Paanch elements ke liye kisi combinatoric algorithm ko time karein: isey chhah (six) ke liye chalane mein chhah guna zyada waqt lagega, aur saat (seven) ke liye 42 guna zyada waqt lagega. Iske udaharano mein mani gayi (acknowledged) mushkil problems (hard problems) ke liye algorithms shamil hain—traveling salesman problem, kisi container mein cheezon ko optimally (sabse behtar tareeqe se) pack karna, numbers ke ek set ko is tarah partition karna ki har set ka total barabar ho, ityadi. Aksar, in types ke algorithms ke chalne ke waqt (running times) ko kisi khaas problem domains mein kam karne ke liye heuristics (andaze lagane ke asool) ka istemal kiya jata hai.
+
+**Algorithm Speed in Practice (Asal mein Algorithm ki Raftaar)**
+
+Aisa hone ki sambhavna kam hi hai ki aap apne career ke dauran apna zyada waqt sort routines likhne mein bitayenge. Aapke paas available libraries mein jo maujood hain wo shayad un sabhi se behtar perform (outperform) karenge jo aap bina bhari (substantial) mehnat ke likh sakte hain. Halanki, humne pehle jin basic algorithms ki baat ki hai wo baar-baar saamne aate rehte hain. Jab bhi aap khud ko ek simple loop likhte hue payein, toh aap jaante hain ki aapke paas ek $O(n)$ algorithm hai. Agar us loop mein ek inner loop hai, toh aap $O(m \times n)$ ko dekh rahe hain. Aapko khud se yeh poochna chahiye ki yeh values kitni badi ho sakti hain. Agar numbers bounded (mehdood) hain, toh aapko pata hoga ki code ko chalne mein kitna waqt lagega. Agar numbers external factors (bahari kaarno) par nirbhar karte hain (jaise ki overnight batch run mein records ki ginti, ya logon ki list mein naamon ki ginti), toh aap shayad ruk kar in badi values ka aapke running time ya memory consumption par padne wale asar (effect) par vichar karna chahenge.
+
+---
+
+> **Tip 45**
+> **Estimate the Order of Your Algorithms**
+> (Apne Algorithms ke Order ka Andaza lagayein)
+
+---
+
+Kuch approaches (tareeqe) hain jo aap potential (mumkin) problems ko solve (address) karne ke liye apna sakte hain. Agar aapke paas ek aisa algorithm hai jo $O(n^2)$ hai, toh ek divide and conquer approach dhoondhne ki koshish karein jo aapko $O(n \lg n)$ tak le jaye.
+
+Agar aapko pakka nahi pata ki aapke code ko kitna waqt lagega, ya yeh kitni memory lega, toh isey chalakar (running) dekhein, input record count (ginti) ya kisi bhi aisi cheez ko badal kar (varying) jiska runtime par asar padne ki sambhavna ho. Phir results ko plot (graph par banayein) karein. Aapko jald hi curve (rekha) ke aakar (shape) ka accha andaza mil jana chahiye. Kya yeh upar ki taraf mud (curving upward) raha hai, ek sidhi line (straight line) hai, ya input size badhne ke saath flat (flattening off) ho raha hai? Teen ya chaar points se aapko ek idea mil jana chahiye.
+
+Saath hi is baat par bhi vichar karein ki aap asal mein code mein kya kar rahe hain. Ek simple $O(n^2)$ loop $n$ ki chhoti values ke liye ek complex $O(n \lg n)$ loop se behtar perform kar sakta hai, khaas kar agar $O(n \lg n)$ algorithm mein ek expensive (bhaari) inner loop ho.
+
+Is saari theory ke beech, yeh mat bhoolein ki practical baatein (considerations) bhi hoti hain. Chhote input sets ke liye runtime linearly badhta hua lag sakta hai. Lekin code ko millions (lakhon) records dein aur achanak waqt kharab (degrades) ho jata hai kyunki system thrash (bojh tale dabna) shuru kar deta hai. [2] Agar aap kisi sort routine ko random input keys ke saath test karte hain, toh pehli baar ordered (pehle se sorted) input milne par aap hairan (surprised) ho sakte hain. Pragmatic Programmers theoretical aur practical dono basis (aadhaar) ko cover karne ki koshish karte hain. Is saare andaze (estimating) ke baad, sirf wohi timing mayne (counts) rakhti hai jo production environment mein asli data ke saath chalte hue aapke code ki speed hoti hai.
+
+> [2] Asal mein, is section ke liye ek exercise ke roop mein 64MB Pentium par sort algorithms test karte waqt, saath (seven) million se zyada numbers ke saath radix sort chalane par authors ki real (asli) memory khatam (ran out) ho gayi thi. Sort ne swap space ka istemal shuru kar diya, aur waqt dramataic dhang se (dramatically) kharab (degraded) ho gaya.
+
+Yahi hamein hamari agli tip tak le jata hai.
+
+---
+
+> **Tip 46**
+> **Test Your Estimates**
+> (Apne Andazon ko Test karein)
+
+---
+
+Agar accurate timings (sateek waqt) hasil karna mushkil (tricky) ho, toh apne algorithm mein alag-alag steps kitni baar execute hote hain yeh ginne (count) ke liye **code profilers** ka istemal karein, aur in numbers (figures) ko input size ke muqable mein plot karein.
+
+**Best Isn't Always Best (Sabse accha hamesha sabse accha nahi hota)**
+
+Aapko appropriate (upyukt) algorithms chun-ne ke baare mein bhi pragmatic (vyavaharik) hona hoga—kisi kaam ke liye sabse tez hamesha sabse accha nahi hota. Ek chhote input set ke liye, ek simple (straightforward) insertion sort bilkul utna hi accha perform karega jitna ek quicksort, aur aapko likhne aur debug karne mein kam waqt lagega. Aapko tab bhi savdhan (careful) rehna hoga agar aapke chune hue algorithm ki setup cost bahut high ho. Chhote input sets ke liye, yeh setup running time ko bhi chhota (dwarf) saabit kar sakta hai aur algorithm ko in-appropriate (na-munasib) bana sakta hai.
+
+Saath hi **premature optimization** (waqt se pehle behtar banane ki koshish) se bhi bachein. Kisi algorithm ko behtar banane (improve) ki koshish mein apna keemti (precious) waqt lagane se pehle hamesha yeh pakka kar lena (make sure) ek accha idea hai ki algorithm sach mein ek bottleneck (rukawat) hai.
+
+**Related sections include:**
+
+* Estimating, page 64
+
+**Challenges (Chunautiyan)**
+
+* Har developer ko is baat ka ehsas (feel) hona chahiye ki algorithms kaise design aur analyze kiye jate hain. Robert Sedgewick ne is vishay (subject) par asani se samajh aane wali kitabon (accessible books) ki ek series likhi hai ([ Sed83 , SF96 , Sed92 ] aur dusri). Hum unki ek kitab ko apne collection mein jodne, aur usko zaroor padhne ki sifarish (recommend) karte hain.
+* Jin logon ko Sedgewick se zyada detail chahiye, wo Donald Knuth ki definitive (sabse badhiya) *Art of Computer Programming* kitabein padhein, jo algorithms ki ek badi range ko analyze karti hain [ Knu97a , Knu97b , Knu98 ].
+* Exercise 34 mein, hum long integers ki arrays ko sort karna dekhte hain. Agar keys zyada complex hon, aur key comparison ka overhead high ho toh kya asar padega? Kya key structure sort algorithms ki efficiency (kshamta) par asar dalta hai, ya kya sabse tez sort hamesha sabse tez rehta hai?
+
+**Exercises (Abhyaas)**
+
+**34.** Humne simple sort routines ka ek set code kiya hai, jise hamari Web site ([http://www.pragmaticprogrammer.com](http://www.pragmaticprogrammer.com)) se download kiya ja sakta hai. Unhe apne paas available alag-alag machines par run karein. Kya aapke figures (numbers) expected (ummeed ke mutabik) curves (rekhaon) ko follow karte hain? Aap apni machines ki relative speeds (ek-dusre ki tulna mein raftaar) ke baare mein kya andaza (deduce) laga sakte hain? Alag-alag compiler optimization settings ka kya asar hota hai? Kya radix sort sach mein linear hai?
+
+**35.** Niche diya gaya routine ek binary tree ke contents print karta hai. Yeh maante hue ki tree balanced (santulit) hai, 1,000,000 elements ka tree print karte waqt routine lagbhag kitna stack space lega? (Maan lein ki subroutine calls koi significant/bada stack overhead nahi dalte hain.)
+
+```c
+void printTree(const Node *node) {
+    char buffer[1000];
+    if (node) {
+        printTree(node->left);
+        formatNode(buffer, node);
+        puts(buffer);
+        printTree(node->right);
+    }
+}
+
+```
+
+**36.** Kya aapko Exercise 35 ke routine ki stack requirements ko kam karne ka koi tareeqa dikh raha hai (buffer ke size ko kam karne ke alawa)?
+
+**37.** Page 180 par, humne daava (claimed) kiya tha ki binary chop $O(\lg n)$ hota hai. Kya aap ise saabit (prove) kar sakte hain?
