@@ -3639,3 +3639,151 @@ Zahir hai, aap inhe results ko aur zyada brute-force (zor-zabardasti wale) metho
 1. **Image processing.** Aap chahenge ki kai parallel processes kisi image ke chunks (tukde) lein, unhe process karein, aur complete kiye gaye chunk ko wapas rakh dein.
 2. **Group calendaring.** Aapke paas log hain jo poori duniya mein bikhre hue (scattered) hain, alag-alag time zones mein hain, aur alag-alag languages bolte hain, jo ek meeting schedule karne ki koshish kar rahe hain.
 3. **Network monitoring tool.** System performance statistics ikatha karta hai aur trouble reports (pareshani ki reports) collect karta hai. Aap is jankari ka istemal karke system mein troubles (mushkilein) dhoondhne ke liye kuch agents implement karna chahenge.
+
+---
+
+### Chapter 6 While You Are Coding (Jab Aap Coding Kar Rahe Hon)
+
+Aam samjh (conventional wisdom) kehti hai ki ek baar jab project coding phase mein aa jata hai, toh kaam zyada-tar mechanical (machini) hota hai—design ko chalne-layak statements (executable statements) mein utarna. Hamara manna hai ki yeh soch (attitude) un kai wajahon mein sabse badi wajah hai jinki wajah se kai programs badsurat (ugly), nakara (inefficient), bure dhang se structured, unmaintainable, aur bilkul galat hote hain.
+
+Coding mechanical nahi hai. Agar hoti, toh woh sabhi CASE tools jin par logon ne 1980s ke shuru mein umeed lagai thi, wo bahut pehle hi programmers ki jagah le chuke hote. Yahan har minute faisle lene hote hain—aise faisle jinme gehari soch aur judgement ki zaroorat hoti hai agar banne wale program ko ek lambi, sateek (accurate) aur utpadak (productive) zindagi jini hai.
+
+Jo developers apne code ke baare mein active hokar nahi sochte, wo ittefaq (coincidence) ke aadhar par programming kar rahe hote hain—code chal toh sakta hai, lekin kyun chal raha hai iski koi khaas wajah nahi hoti. *Programming by Coincidence* mein, hum coding process mein aur zyada positive dhang se shamil (involvement) hone ki wakeelat (advocate) karte hain.
+
+Halanki hum jo zyadatar code likhte hain wo tezi se chalta (executes) hai, par hum kabhi-kabhi aise algorithms banate hain jinme sabse tez processors ko bhi fasa dene (bog down) ki kshamta hoti hai. *Algorithm Speed* mein, hum code ki speed ka andaza (estimate) lagane ke tareeqon par charcha karte hain, aur potential problems (jo aage chal kar problems ban sakti hain) ko unke hone se pehle pehchanne ke kuch tips dete hain.
+
+Pragmatic Programmers sabhi code, apne khud ke code ke baare mein bhi, alochnatmak (critically) dhang se sochte hain. Hamein lagatar apne programs aur designs mein behtari ki gunjaish (room for improvement) dikhti hai. *Refactoring* mein, hum aisi takneekon ko dekhte hain jo hamein kisi project ke beech mein rehte hue bhi maujooda code ko theek (fix up) karne mein madad karti hain.
+
+Jab bhi aap code likh rahe hon toh ek cheez aapke dimaag ke peeche chalni chahiye, aur wo yeh ki aapko kisi din isey test karna padega. Code ko test karne mein asaan banayein, aur aap is baat ki sambhavna bada denge ki yeh waqayi test hoga, ek aisi soch jise hum *Code That's Easy to Test* mein develop karte hain.
+
+Aakhir mein, *Evil Wizards* mein, hum sujhaav dete hain ki aapko un tools se savdhaan rehna chahiye jo aapki taraf se pannon (reams) ke hisab se code likhte hain jab tak ki aapko yeh samajh na ho ki wo kya kar rahe hain.
+
+Hum mein se zyadatar log car ko zyadatar autopilot par chala sakte hain—hum apne pair ko pedal dabane ya apne haath ko steering ghumane ka direct (explicit) command nahi dete—hum bas sochte hain "speed kam karo aur daayein mudo." Halanki, acche aur surakshit drivers lagatar halaat (situation) ka jayza (reviewing) lete rehte hain, potential problems ko check karte rehte hain, aur an-chahi ghatna (unexpected) hone ki soorat mein khud ko acchi sthiti (positions) mein rakhte hain. Coding mein bhi yahi sach hai—yeh zyadatar routine kaam ho sakta hai, lekin apni hoshmandi (wits) banaye rakhne se aap ek badi musibat (disaster) ko rok sakte hain.
+
+---
+
+#### 31. Programming by Coincidence (Ittefaq se Programming Karna)
+
+Kya aap kabhi purani black-and-white war (yuddh) movies dekhte hain? Ek thaka hua fauji (weary soldier) jhadiyon se savdhani se bahar aata hai. Aage ek khuli jagah (clearing) hai: kya wahan land mines hain, ya use paar karna safe hai? Wahan minefield hone ka koi ishara (indications) nahi hai—koi sign board nahi, kaante-dar taar (barbed wire) nahi, ya gadhe (craters) nahi. Fauji apne bayonet (bhaale) se aage ki zameen ko chhedta (pokes) hai aur aankhein band kar leta (winces) hai, kisi dhamake (explosion) ki umeed mein. Koi dhamaka nahi hota. Isliye wo kafi der tak bahut ehtiyaat (painstakingly) ke saath us maidan mein aage badhta hai, chalte-chalte bhaale se check karta rehta hai. Aakhir-kaar, is baat ka yakeen karke ki maidan safe hai, wo seedha khada hota hai aur fakhr se (proudly) aage badhta hai, aur phir tukdon mein ud (blown to pieces) jata hai.
+
+Fauji ki shuruati jaanch (probes) ne mines ka koi pata nahi diya, lekin yeh sirf kismat ki baat (lucky) thi. Wo ek galat nateeje (false conclusion) par pahunch gaya tha—jiska anjaam tabahkun (disastrous) tha.
+
+Developers ke taur par, hum bhi minefields mein kaam karte hain. Har roz saikdon jaal (traps) humein fasaane (catch) ke liye intezar kar rahe hote hain. Us fauji ki kahani ko yaad rakhte hue, hamein galat nateejon par pahunchne se savdhaan (wary) rehna chahiye. Hamein *jaan-boojhkar programming karne (programming deliberately)* ki khatir, ittefaq se programming karne (programming by coincidence)—kismat aur achanak milne wali safaltaon (accidental successes) par nirbhar (relying) rehne—se bachna chahiye.
+
+**How to Program by Coincidence (Ittefaq se Programming Kaise Karein)**
+
+Maan lijiye Fred ko ek programming assignment diya jata hai. Fred kuch code type karta hai, use try karta hai, aur lagta hai ki yeh kaam kar raha hai. Fred thoda aur code type karta hai, use try karta hai, aur lagta hai ki yeh abhi bhi kaam kar raha hai. Kai hafton tak is tarah se coding karne ke baad, program achanak kaam karna band kar deta hai, aur ghanton ise theek karne ki koshish karne ke baad bhi, use nahi pata ki aisa kyun hua. Fred is code ke peeche bhaagne (chasing) mein kafi lamba waqt (significant amount of time) bita sakta hai aur phir bhi ise theek na kar paye. Wo chahe jo bhi kar le, lagta hai yeh kabhi theek se kaam nahi karta.
+
+Fred ko nahi pata ki code kyun fail ho raha hai kyunki *use yeh nahi pata tha ki usne shuru mein kaam kyun kiya tha.* Fred ne jo mehdood "testing" (limited testing) ki thi, uske hisab se lagta tha ki yeh kaam kar raha hai, lekin wo sirf ek ittefaq (coincidence) tha. Ek jhoothe vishwas (false confidence) se udt-ta hua, Fred gumnami (oblivion) mein aage badh gaya. Ab, zyadatar samajhdar (intelligent) log Fred jaise kisi insaan ko jaante honge, lekin *hum* usse behtar jaante hain. Hum ittefaqon par nirbhar nahi hote—kya hum hote hain?
+
+Kabhi-kabhi hum hote hain. Kabhi-kabhi ek khushkismat ittefaq (happy coincidence) aur ek maksad wale plan (purposeful plan) ke beech confuse hona bahut asaan ho sakta hai. Aaiye kuch udaharano (examples) par nazar dalte hain.
+
+**Accidents of Implementation (Implementation ke Haadse)**
+
+Implementation ke haadse wo cheezein hain jo sirf isliye hoti hain kyunki filhal code is tarah se likha gaya hai. Aakhir mein aap undocumented error ya boundary conditions par nirbhar (relying) ho jate hain.
+
+Maan lijiye aap kharab data (bad data) ke saath ek routine call karte hain. Routine ek khaas tareeqe se jawab (responds) deta hai, aur aap us jawab ke aadhar par code likhte hain. Lekin author (likhne wale) ka irada us routine ko us tarah kaam karwane ka nahi tha—is par kabhi vichar hi nahi kiya gaya tha. Jab routine "theek" (fixed) hota hai, toh aapka code toot sakta hai. Sabse worst case mein, aapne jo routine call kiya hai wo shayad wo karne ke liye design hi na kiya gaya ho jo aap chahte hain, lekin yeh theek kaam karta hua *lagta (seems)* hai. Cheezon ko galat kram (wrong order) mein, ya galat sandarbh (context) mein call karna, isse judi hui ek problem hai.
+
+```java
+paint(g);
+invalidate();
+validate();
+revalidate();
+repaint();
+paintImmediately(r);
+
+```
+
+Yahan lagta hai ki Fred desperately screen par kuch dikhane ki koshish kar raha hai. Lekin in routines ko kabhi bhi is tarah call hone ke liye design nahi kiya gaya tha; halanki wo kaam karte hue lagte hain, lekin yeh sach mein bas ek ittefaq hai.
+
+Isse bhi buri baat (To add insult to injury) yeh hai ki, jab aakhir mein component draw ho jata hai, toh Fred wapas jaakar un be-matlab calls (spurious calls) ko hatane ki koshish nahi karega. "Yeh ab kaam kar raha hai, ise chhedna theek nahi hai...."
+
+Is tarah ki soch se bewaqoof banna asaan hai. Jo cheez kaam kar rahi hai, uske saath chhed-chhad (messing) karne ka risk (khatra) aapko kyun lena chahiye? Well, hum kuch wajah (reasons) soch sakte hain:
+
+* Shayad yeh sach mein kaam *nahi* kar raha ho—yeh bas waisa lag raha ho.
+* Jis boundary condition par aap nirbhar hain, wo shayad bas ek accident (haadsa) ho. Alag halaat mein (shayad ek alag screen resolution par), yeh alag tarah se behave kar sakta hai.
+* Undocumented behavior library ke agle release ke saath badal sakta hai.
+* Atirikt (Additional) aur be-zaroorat calls aapke code ko dheema banati hain.
+* Atirikt calls apne naye bugs lane ka risk bhi badhati hain.
+
+Aap jo code likhte hain jise dusre call karenge, uske liye acche modularization ke buniyaadi siddhant (principles) aur chote, well-documented interfaces ke peeche implementation ko chupana, yeh sab madad kar sakte hain. Ek achi tarah se bataya gaya contract (page 109 par *Design by Contract* dekhein) galatfehmiyon (misunderstandings) ko hatane mein madad kar sakta hai.
+
+Jin routines ko aap call karte hain, unke liye sirf documented behavior par bharosa karein. Agar aap nahi kar sakte, chahe kisi bhi wajah se, toh apne andaze (assumption) ko achi tarah document karein.
+
+**Accidents of Context (Context ke Haadse)**
+
+Aapke saath "context ke haadse" (accidents of context) bhi ho sakte hain. Maan lijiye aap ek utility module likh rahe hain. Sirf isliye ki aap abhi ek GUI environment ke liye coding kar rahe hain, kya module ko ek GUI ki maujoodgi par nirbhar hona chahiye? Kya aap English bolne wale users par nirbhar hain? Padh-likhe (Literate) users? Aap aur kis cheez par nirbhar hain jiski koi guarantee nahi hai?
+
+**Implicit Assumptions (Chhupi Hui Manyatayein/Assumptions)**
+
+Ittefaq har level par bhatka (mislead) sakte hain—requirements generate karne se lekar testing tak. Testing khaas taur par jhoothe karno (false causalities) aur ittefaqi nateejon (coincidental outcomes) se bhari hoti hai. Yeh manna asaan hai ki *X*, *Y* ka kaaran (causes) hai, lekin jaisa ki humne *Debugging* (page 90) mein kaha: ise maanein nahi, saabit karein (don't assume it, prove it).
+
+Har level par, log dimaag mein kai assumptions lekar kaam karte hain—lekin yeh assumptions shayad hi kabhi document hote hain aur aksar alag-alag developers ke beech inme takraav (conflict) hota hai. Jo assumptions acchi tarah sthapit facts (well-established facts) par aadharit nahi hote, wo sabhi projects ki barbadi ka kaaran (bane) hote hain.
+
+---
+
+> **Tip 44**
+> **Don't Program by Coincidence**
+> (Ittefaq se Program Na Karein)
+
+---
+
+**How to Program Deliberately (Jaan-boojhkar Program Kaise Karein)**
+
+Hum code nikalne (churning out) mein kam waqt bitana chahte hain, development cycle mein jitna jaldi ho sake errors ko pakadna (catch) aur theek karna chahte hain, aur shuruat mein hi kam errors banana chahte hain. Yeh madad karta hai agar hum jaan-boojhkar (deliberately) program kar sakein:
+
+* **Hamesha is baat se waqif (aware) rahein ki aap kya kar rahe hain.** Fred ne cheezon ko dheere-dheere haath se nikalne diya, jab tak ki wo ubal nahi gaya (boiled), jaise page 7 par *Stone Soup and Boiled Frogs* mein medhak (frog).
+* **Aankh band karke (blindfolded) code na karein.** Ek aisi application banane ki koshish karna jise aap poori tarah nahi samajhte, ya kisi aisi technology ka istemal karna jis se aap anjaan (unfamiliar) hain, yeh ittefaqon se gumrah hone (misled by coincidences) ka khula nyota (invitation) hai.
+* **Ek plan se aage badhein**, chahe wo plan aapke dimaag mein ho, kisi cocktail napkin ke pichhe likha ho, ya kisi CASE tool se nikla wall-sized printout ho.
+* **Sirf bharosemand (reliable) cheezon par bharosa karein.** Haadson ya assumptions par nirbhar na rahein. Agar aap khaas halaat (circumstances) mein fark nahi bata sakte, toh sabse bura (worst) sochein.
+* **Apne assumptions ko document karein.** *Design by Contract* (page 109) aapke apne dimaag mein aapke assumptions ko saaf (clarify) karne mein madad kar sakta hai, aur unhe dusron tak pahunchane (communicate) mein bhi madad kar sakta hai.
+* **Sirf apne code ko test na karein, balki apne assumptions ko bhi test karein.** Andaza na lagayein (guess); haqeeqat mein isey try karein. Apne assumptions ko test karne ke liye ek assertion likhein (page 122 par *Assertive Programming* dekhein). Agar aapka assertion sahi hai, toh aapne apne code mein documentation ko behtar kiya hai. Agar aapko pata chalta hai ki aapka assumption galat hai, toh khud ko khushkismat (lucky) maanein.
+* **Apni mehnat ko prioritize karein.** Mahatvapurn (important) pehluon (aspects) par waqt bitayein; is baat ki zyada sambhavna hai ki yahi mushkil hisse hain. Agar aapke fundamentals ya infrastructure sahi nahi hain, toh shandaar features (bells and whistles) be-maani (irrelevant) honge.
+* **History ke gulam (slave) na banein.** Maujooda code ko future code tay karne na dein. Agar koi code ab upyukt (appropriate) nahi hai, toh saara code badla (replaced) ja sakta hai. Ek program ke andar bhi, aapne jo pehle kiya hai use is baat par pabandi (constrain) lagane na dein ki aap aage kya karte hain—refactor karne (page 184 par *Refactoring* dekhein) ke liye taiyar rahein. Is faisle ka asar project schedule par pad sakta hai. Assumption yeh hai ki iska asar badlaav na karne ki keemat (cost) se kam hoga. [1]
+
+> [1] Aap yahan bhi hadd se zyada aage ja sakte hain. Hum ek aise developer ko jaante the jo use diye gaye saare source code ko dobara likh deta tha kyunki uske apne naming conventions the.
+
+Toh agli baar jab kuch kaam karta hua lage, lekin aapko nahi pata ki kyun, toh yeh pakka karein ki yeh bas ek ittefaq na ho.
+
+**Related sections include:**
+
+* Stone Soup and Boiled Frogs, page 7
+* Debugging, page 90
+* Design by Contract, page 109
+* Assertive Programming, page 122
+* Temporal Coupling, page 150
+* Refactoring, page 184
+* It's All Writing, page 248
+
+**Exercises**
+
+**31.** Kya aap neeche diye gaye C code fragment mein kuch ittefaq (coincidences) pehchan sakte hain? Maan lijiye ki yeh code kisi library routine mein gehrai mein daba (buried) hua hai.
+
+```c
+fprintf(stderr, "Error, continue?");
+gets(buf);
+
+```
+
+**32.** C code ka yeh tukda kuch machines par, kabhi-kabhi kaam kar sakta hai. Aur phir, shayad nahi bhi kar sakta. Kya galat hai?
+
+```c
+int get_id_number() {
+    int id;
+    id = get_next_available_id();
+    return id;
+}
+
+```
+
+**33.** Yeh code ek general-purpose Java tracing suite se aata hai. Yeh function ek string ko log file mein likhta hai. Yeh apna unit test pass kar leta hai, lekin jab ek Web developer iska istemal karta hai toh yeh fail ho jata hai. Yeh kis ittefaq (coincidence) par nirbhar karta hai?
+
+```java
+public static void logMessage(String message) {
+    if (logFile != null) {
+        logFile.println(message);
+        logFile.flush();
+    }
+}
+
+```
