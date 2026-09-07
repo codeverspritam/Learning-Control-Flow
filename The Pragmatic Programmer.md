@@ -4309,3 +4309,201 @@ Kuch logon ko lagta hai ki yeh ek extreme (hadd se aage ki) position hai. Wo keh
 **Challenges (Chunautiyan)**
 
 * Agar aapke paas koi GUI-building wizard available hai, toh iska istemal ek skeleton application generate karne ke liye karein. Iske dwara produce ki gayi har ek line of code ko padhein. Kya aap ise poori tarah samajhte hain? Kya aap ise khud bana sakte the? Kya aap ise khud banate, ya yeh aisi cheezein kar raha hai jinki aapko zaroorat nahi hai?
+
+---
+### Chapter 7
+
+### Before the Project (Project Se Pehle)
+
+Kya aapko kabhi lagta hai ki aapka project shuru hone se pehle hi tabah (doomed) hone wala hai? Kabhi-kabhi aisa ho sakta hai, jab tak ki aap shuru mein hi kuch buniyaadi niyam (basic ground rules) tay na kar lein. Warna, aap abhi ise band karne ka sujhaav de sakte hain, aur sponsor ke kuch paise bacha sakte hain.
+
+Project ki bilkul shuruat mein, aapko requirements tay karni hongi. Sirf users ko sunna kafi nahi hai: aur janne ke liye *The Requirements Pit* padhein.
+
+Aam samajh (Conventional wisdom) aur rukawaton ko manage karna (constraint management) *Solving Impossible Puzzles* ke topics hain. Chahe aap requirements ka analysis kar rahe hon, coding kar rahe hon, ya testing kar rahe hon, mushkil problems saamne aayengi. Zyadatar waqt, wo utni mushkil nahi hongi jitni wo pehli baar lagti hain.
+
+Jab aapko lagta hai ki aapne problems solve kar li hain, tab bhi aap khud ko seedhe kaam shuru karne (jumping in) ke liye taiyar mehsoos nahi karenge. Kya yeh sirf aalas (procrastination) hai, ya kuch aur? *Not Until You're Ready* is baat par salah deta hai ki kab aapke dimaag ke andar chal rahi savdhaan karne wali aawaz (cautionary voice) ko sunna samajhdaari (prudent) ho sakti hai.
+
+Bahut jaldi shuru karna ek problem hai, lekin bahut lamba intezar karna isse bhi bura ho sakta hai. *The Specification Trap* mein, hum example ke zariye specification ke faydon par charcha karenge.
+
+Aakhir mein, hum *Circles and Arrows* mein formal development processes aur methodologies ke kuch khatron (pitfalls) ko dekhenge. Chahe yeh kitna hi soch-samajh kar kyun na banaya gaya ho, aur chahe isme kitni hi "best practices" kyun na shamil hon, koi bhi method **sochne (thinking)** ki jagah nahi le sakta.
+
+In mahatvapurn muddon ko project shuru hone se **pehle** suljha lene se, aap "analysis paralysis" se bachne ke liye behtar sthiti (positioned) mein honge aur waqayi apna safal (successful) project shuru kar payenge.
+
+---
+
+#### 36. The Requirements Pit (Requirements Ka Gadha)
+
+> "Perfection tab nahi milti jab jodne ke liye kuch na bache, balki tab milti hai jab nikalne ke liye kuch na bache...."
+> — **Antoine de St. Exupery, *Wind, Sand, and Stars*, 1939**
+
+Kai kitabein aur tutorials **requirements gathering** (requirements ikatha karna) ko project ka ek shuruati phase (charan) maante hain. "Gathering" shabd se aisa lagta hai jaise khush analysts ka ek qabeela (tribe) ho, jo zameen par bikhre gyan ke motiyon (nuggets of wisdom) ko chun raha ho, jabki background mein halke-halke Pastoral Symphony baj rahi ho. "Gathering" ka matlab hai ki requirements pehle se hi wahan maujood hain—aapko bas unhe dhoondhna hai, apni tokri mein rakhna hai, aur khushi-khushi apne raste nikal jana hai.
+
+Asal mein yeh is tarah kaam nahi karta. Requirements shayad hi kabhi satah (surface) par milti hain. Aam taur par, wo manyataon (assumptions), galatfehmiyon (misconceptions), aur politics ki kai parton (layers) ke neeche gehrai mein dabi hoti hain.
+
+---
+
+> **Tip 51**
+> **Don't Gather Requirements—Dig for Them**
+> (Requirements Ikatha Na Karein—Unke Liye Khudai Karein)
+
+---
+
+**Digging for Requirements (Requirements Ke Liye Khudai Karna)**
+
+Aas-paas ki saari mitti mein khudai karte waqt aap ek sachi (true) requirement ko kaise pehchan sakte hain? Iska jawab asaan bhi hai aur mushkil (complex) bhi.
+
+Asaan jawab yeh hai ki requirement kisi aisi cheez ka statement hota hai jise poora karna zaroori hai. Acche requirements mein yeh shamil ho sakte hain:
+
+* Kisi employee ka record sirf logon ke ek chune hue group (nominated group) dwara hi dekha ja sakta hai.
+* Cylinder-head ka temperature critical value (jo engine ke hisab se alag hoti hai) se zyada nahi hona chahiye.
+* Editor keywords ko highlight karega, jo is baat par nirbhar karega ki kis tarah ki file edit ki ja rahi hai.
+
+Halanki, bahut kam requirements itni saaf (clear-cut) hoti hain, aur yahi baat requirements analysis ko complex banati hai.
+
+Upar di gayi list mein pehle statement ko users ne shayad is tarah kaha ho, "Sirf employee ke supervisors aur personnel department hi us employee ke records dekh sakte hain." Kya yeh statement waqayi ek requirement hai? Shayad aaj ho, lekin yeh business policy ko ek absolute statement mein jodh (embeds) deta hai. Policies lagatar badalti rehti hain, isliye hum shayad unhe apne requirements mein hamesha ke liye (hardwire) nahi likhna chahenge. Hamara sujhaav hai ki in policies ko requirement se alag document kiya jaye, aur dono ko hyperlink kar diya jaye. Requirement ko general statement banayein, aur developers ko policy information ek example ke roop mein dein, jisse unhe andaza ho ki implementation mein unhe kis tarah ki cheezon ko support karna hoga. Aakhir mein, policy shayad application mein metadata ke roop mein ban kar reh jaye.
+
+Yeh ek bahut hi baarik fark (subtle distinction) hai, lekin iska developers par bahut gehra asar padega. Agar requirement ko is tarah likha gaya hai ki "Sirf personnel hi employee record dekh sakte hain," toh developer shayad har baar application un files ko access karte waqt ek explicit test code kar de. Halanki, agar statement yeh hai ki "Sirf authorized users hi employee record access kar sakte hain," toh developer shayad kisi tarah ka access control system design aur implement karega. Jab policy badlegi (aur wo badlegi), toh sirf us system ke metadata ko update karne ki zaroorat padegi. Asal mein, is tarah se requirements ikatha karne se aap naturally ek aise system ki taraf badhte hain jo metadata ko support karne ke liye achi tarah banaya gaya ho.
+
+Jab user interfaces ki baat hoti hai, toh requirements, policy, aur implementation ke beech ke fark bahut dhundle (blurred) ho sakte hain. "System aapko loan term chun-ne (choose) dena chahiye" ek requirement ka statement hai. "Hamein loan term select karne ke liye ek list box chahiye" yeh ho bhi sakta hai aur nahi bhi. Agar users ko bilkul (absolutely) ek list box chahiye hi chahiye, toh yeh ek requirement hai. Agar iske bajaye wo chun-ne (choose) ki kabiliyat ke baare mein bata rahe hain, lekin ek example ke roop mein *listbox* ka istemal kar rahe hain, toh yeh shayad na ho. Page 205 ka box ek aise project ke baare mein baat karta hai jo buri tarah se galat (horribly wrong) gaya kyunki users ke interface ki zarooraton ko nazarandaz kar diya gaya tha.
+
+Yeh janna zaroori hai ki users koi khaas kaam **kyun (why)** karte hain, na ki sirf yeh ki wo ise filhal **kaise (the way)** karte hain. Aakhir mein, aapke development ko unki **business problem** solve karni hoti hai, na ki sirf unke bataye gaye requirements ko poora karna. Requirements ke pichhe ke karno ko document karne se aapki team ko rozana ke implementation ke faisle lene mein behad keemti (invaluable) jankari milegi.
+
+Users ki requirements ki gehrai tak jane (getting inside) ke liye ek simple takneek hai jiska utna istemal nahi kiya jata: khud ek user ban jayein. Kya aap help desk ke liye ek system likh rahe hain? Ek experienced support person ke saath phone monitor karne mein kuch din bitayein. Kya aap kisi manual stock control system ko automate kar rahe hain? Ek hafte ke liye warehouse mein kaam karein. [1] Aapko yeh samajhne mein madad karne ke alawa ki system asal mein **kaise** istemal hoga, aap yeh dekh kar hairan honge ki "Kya main ek hafte ke liye aapke saath baith sakta hoon jab aap apna kaam karein?" jaisi request users ke saath trust banane aur communication ki buniyad rakhne mein kitni madad karti hai. Bas yaad rakhein ki unke raste mein rukawat na banein (not to get in the way)!
+
+> [1] Kya ek hafta lamba waqt lagta hai? Yeh sach mein nahi hai, khaas kar tab jab aap aise processes dekh rahe hon jinme management aur workers alag-alag duniya (different worlds) mein rehte hon. Management aapko is baat ka ek nazariya (view) dega ki cheezein kaise kaam karti hain, lekin jab aap zameen par utrenge (down on the floor), toh aap ek bilkul alag sachayi (reality) payenge—jise samajhne (assimilate) mein waqt lagega.
+
+---
+
+> **Tip 52**
+> **Work with a User to Think Like a User**
+> (User ki Tarah Sochne ke Liye ek User ke Sath Kaam Karein)
+
+---
+
+Requirements nikalne (mining) ka yeh process user base ke saath accha rishta (rapport) banane, unki umeedein aur banaye ja rahe system se unki khwahishon ko janne ka bhi ek acha waqt hota hai. Aur janne ke liye, page 255 par *Great Expectations* dekhein.
+
+**Documenting Requirements (Requirements ko Likh Kar Rakhna)**
+
+Toh aap users ke saath baithe hain aur unse asli requirements nikal (prying) rahe hain. Aapko kuch aise mumkin scenarios (halaat) milte hain jo batate hain ki application ko kya karne ki zaroorat hai. Ek professional ki tarah, aap inhe likhna chahte hain aur ek aisi document publish karna chahte hain jise sabhi baat-cheet (discussions) ki buniyad ke roop mein istemal kar sakein—developers, end users, aur project sponsors.
+
+Yeh ek bahut badi (wide) audience hai.
+
+Ivar Jacobson [ Jac94 ] ne requirements ko capture karne ke liye **use cases** ka concept diya. Ye aapko system ke kisi khaas **use** (istemal) ko describe karne dete hain—user interface ke roop mein nahi, balki ek zyada abstract (amoorat) dhang se. Badkismati se, Jacobson ki kitab details par thodi dhundli (vague) thi, isliye ab is baat par kai alag-alag raye hain ki ek use case kaisa hona chahiye. Kya yeh formal hona chahiye ya informal, simple paragraph mein ya structured document (ek form jaisa) hona chahiye? Kis hadd tak detail sahi (appropriate) hai (yaad rakhein hamare paas ek badi audience hai)?
+
+---
+
+> **Sometimes the Interface Is the System (Kabhi-kabhi Interface hi System hota hai)**
+> *Wired* magazine (January 1999, page 176) ke ek article mein, producer aur musician Brian Eno ne ek lajawab (incredible) technology—ultimate mixing board—ke baare mein bataya. Yeh aawaz ke saath wo sab kuch kar sakta hai jo kiya ja sakta hai. Aur phir bhi, musicians ko behtar music banane dene, ya recording ko tezi se ya kam kharch mein banaye dene ke bajaye, yeh beech mein rukawat banta hai; yeh creative process mein khalal dalta hai.
+> Iska karan janne ke liye, aapko yeh dekhna hoga ki recording engineers kaise kaam karte hain. Wo awaazon (sounds) ko intuitively (apni samajh se) balance karte hain. Saalon se, wo apne kaanon aur apni ungliyon ke beech ek andaruni feedback loop develop kar lete hain—faders sarakana, knobs ghumana, ityadi. Halanki, naye mixer ke interface ne un kshamtaon (abilities) ka fayda nahi uthaya (didn't leverage). Iske bajaye, isne apne users ko keyboard par type karne ya mouse par click karne ke liye majboor kiya. Isne jo functions diye the wo poore (comprehensive) the, lekin unhe anjaan aur ajeeb (exotic) dhang se package kiya gaya tha. Engineers ko jin functions ki zaroorat thi, wo kabhi-kabhi ajeeb naamon (obscure names) ke peeche chhupe the, ya basic facilities ko mila-jula (nonintuitive combinations) kar hasil kiye jate the.
+> Us environment ki ek requirement hai maujooda skill sets (hunar) ka fayda uthana (leverage). Halanki jo cheez pehle se maujood hai uski andhi nakal (slavishly duplicating) karne se tarakki nahi hoti, hamein bhavishya ke liye ek transition (badlaav) dene ke kabil hona chahiye.
+> Misaal ke taur par, recording engineers ko shayad kisi tarah ke touchscreen interface se behtar fayda hota—jo abhi bhi chhuwa (tactile) ja sake, abhi bhi ek traditional mixing board ki tarah mounted ho, phir bhi software ko fixed knobs aur switches ki duniya se bahar jane de. Jaani-pehchani misaalon (metaphors) ke zariye ek asaan transition dena logon ki manzoori (buy-in) hasil karne ka ek tareeqa hai.
+> Yeh udaharan (example) hamare is vishwas ko bhi darshata hai ki kamyab tools un hathon ke mutabik dhal jate (adapt) hain jo unka istemal karte hain. Is case mein, yeh wo tools hain jo aap dusron ke liye banate hain, jinhe adaptable hona chahiye.
+
+---
+
+Use cases ko dekhne ka ek tareeqa unki lakshya se prerit hone wali fitrat (goal-driven nature) par zor dena hai. Alistair Cockburn ka ek paper hai jo is approach ko describe karta hai, aur saath hi templates bhi deta hai jinhe shuruat ke taur par (strictly ya nahi) istemal kiya ja sakta hai ([ Coc97a ], online [ URL 46 ] par bhi). Agle page par Figure 7.1 unke template ka ek chhota udaharan (abbreviated example) dikhata hai, jabki Figure 7.2 unka sample use case dikhata hai.
+
+> **Figure 7.1. Cockburn ka use case template**
+
+> **Figure 7.2. Ek sample use case**
+
+Ek formal template ko ek yaadgaar madad (aide-mémoire) ke roop mein istemal karke, aap yeh pakka kar sakte hain ki aap use case mein zaroori saari jankari shamil karein: performance characteristics, shamil dusre log (parties), priority, frequency, aur kai errors aur exceptions jo samne aa sakte hain ("nonfunctional requirements"). Yeh "oh, siway iske ki agar hamein *xxx* condition milti hai, toh hamein uski jagah *yyy* karna hoga" jaise user comments ko record karne ki bhi ek behtareen jagah hai. Template users ke saath meetings ke liye ek taiyar agenda ke roop mein bhi kaam aata hai.
+
+Is tarah ki organization use cases ke hierarchical structuring ko support karti hai—zyada detailed use cases ko higher-level wale (bade) use cases ke andar rakhna (nesting). Misaal ke taur par, *post debit* aur *post credit* dono *post transaction* ko hi detail mein batate hain.
+
+**Use Case Diagrams (Use Case ke Chittar)**
+
+Workflow ko UML activity diagrams ke zariye capture kiya ja sakta hai, aur conceptual-level class diagrams kabhi-kabhi business ko model karne ke liye upyogi (useful) ho sakte hain. Lekin sacche (true) use cases likhit description (textual descriptions) hote hain, jisme ek hierarchy aur cross-links hote hain. Use cases mein dusre use cases ke hyperlinks ho sakte hain, aur unhe ek dusre ke andar nest kiya ja sakta hai.
+
+Hamein yeh baat hairon karne wali (incredible) lagti hai ki koi bhi Figure 7.3 jaise asaan (simplistic) stick figures ka istemal karke itni bhari jankari ko seriously document karne ka sochega. Kisi bhi notation ke gulam (slave) na banein; jo bhi method aapki audience ke saath requirements ko sabse behtar dhang se bataye, uska istemal karein.
+
+> **Figure 7.3. UML use cases—itna asaan ki koi baccha bhi kar le!**
+
+**Overspecifying (Hadd se Zyada Detail Dena)**
+
+Ek requirements document banane mein sabse bada khatra hadd se zyada specific hona hai. Acche requirements documents abstract (amoorat) hote hain. Jahan tak requirements ka sawal hai, sabse aasan statement jo sach mein business ki zaroorat ko dikhata ho, wahi sabse behtar hota hai. Iska matlab yeh nahi hai ki aap dhundle (vague) ho sakte hain—aapko underlying semantic invariants ko requirements ke roop mein capture karna hoga, aur specific ya current work practices ko policy ke roop mein document karna hoga.
+
+Requirements architecture nahi hain. Requirements design nahi hain, aur na hi wo user interface hain. Requirements **zaroorat (need)** hain.
+
+**Seeing Further (Aage ka Dekhna)**
+
+Year 2000 problem ka dosh aksar short-sighted (door ka na sochne wale) programmers par dala jata hai, jo un dino mein kuch bytes bachane ke liye bechain the jab mainframes ki memory aajkal ke TV remote control se bhi kam hoti thi.
+
+Lekin yeh programmers ki galti nahi thi, aur yeh sach mein koi memory usage issue nahi tha. Agar kuch tha toh yeh system analysts aur designers ki galti thi. Y2K problem do main kaarno (causes) se samne aayi: current business practice ke aage dekhne mein nakami, aur DRY principle ka ullanghan.
+
+Computers ke aane se bahut pehle hi businesses two-digit (do ankon) wale shortcut ka istemal kar rahe the. Yeh ek aam practice thi. Shuruati data processing applications ne bas unhi business processes ko automate kar diya, aur usi galti ko dohra diya. Bhale hi architecture mein data input, reporting, aur storage ke liye two-digit years ki zaroorat thi, wahan `DATE` ka ek abstraction hona chahiye tha jo "janta" ho ki wo do digits (ank) asli date ka ek chhota roop (abbreviated form) the.
+
+---
+
+> **Tip 53**
+> **Abstractions Live Longer than Details**
+> (Abstractions Details se Zyada Lamba Jeete Hain)
+
+---
+
+Kya "aage ka dekhne" (seeing further) ke liye aapko bhavishya (future) ki bhavishyavani (predict) karni padegi? Nahi. Iska matlab hai is tarah ke statements banana:
+
+> System `DATE`s ke abstraction ka active istemal karta hai. System lagatar aur har jagah (consistently and universally) `DATE` services, jaise formatting, storage, aur math operations ko implement karega.
+
+Requirements sirf yeh batayengi ki dates ka istemal ho raha hai. Yeh is baat ka ishara (hint) de sakti hai ki dates par kuch math kiya ja sakta hai. Yeh aapko bata sakti hai ki dates ko alag-alag tarah ke secondary storage par store kiya jayega. Yeh ek `DATE` module ya class ke liye sacchi (genuine) requirements hain.
+
+**Just One More Wafer-Thin Mint... (Bas Ek Aur... Aur Kuch Nahi)**
+
+Kai projects ke fail hone ka dosh scope ke badhne par dala jata hai—jise feature bloat, creeping featurism, ya requirements creep bhi kaha jata hai. Yeh page 7 par *Stone Soup and Boiled Frogs* se uble-mendak (boiled-frog) syndrome ka ek pehlu (aspect) hai. Hum requirements ko hum par haavi (creeping up) hone se rokne ke liye kya kar sakte hain?
+
+Kitabon mein, aapko kai metrics ka zikr milega, jaise report kiye gaye aur theek kiye gaye bugs, defect density (galtiyon ka ghanatva), cohesion, coupling, function points, lines of code, ityadi. In metrics ko haath se ya software se track kiya ja sakta hai.
+
+Badkismati se, bahut kam projects actively requirements ko track karte dikhte hain. Iska matlab hai ki unke paas scope mein hue badlaavon par report karne ka koi tareeqa nahi hota—kisne feature ki maang ki, kisne ise manzoor kiya, kitni requests manzoor hui, ityadi.
+
+Requirements ke badhne (growth) ko manage karne ki chaabi yeh hai ki har naye feature ka project sponsors ke schedule par padne wale asar (impact) ko point out kiya jaye. Jab project initial estimates (shuruati andazon) se ek saal late ho jata hai aur ilzaam lagne shuru hote hain, toh yeh jaanna bahut madadgar (helpful) hota hai ki requirements kab aur kaise badhe, iski ek sahi (accurate) aur poori tasveer ho.
+
+"Bas ek aur feature" ke bhanwar (maelstrom) mein phas jana asaan hai, lekin requirements track karke aapko ek saaf tasveer mil sakti hai ki "bas ek aur feature" asal mein is mahine joda gaya 15va naya feature hai.
+
+**Maintain a Glossary (Ek Glossary Maintain Karein)**
+
+Jaise hi aap requirements discuss karna shuru karte hain, users aur domain experts kuch aise terms istemal karenge jinka unke liye ek specific meaning hota hai. Misaal ke taur par, wo ek "client" aur ek "customer" ke beech farq (differentiate) bata sakte hain. Phir system mein kisi bhi word ka aam (casually) istemal karna theek nahi hoga.
+
+Ek **project glossary** banayein aur maintain karein—ek aisi jagah jo project mein istemal hone wale sabhi specific terms aur vocabulary (shabdon) ko define karti ho. Project ke sabhi participants, end users se lekar support staff tak, ko consistency (eksarta) pakka karne ke liye glossary ka istemal karna chahiye. Iska matlab hai ki glossary asani se milni (widely accessible) chahiye—jo Web-based documentation ke liye ek accha reason hai (is par aage aur baat karenge).
+
+---
+
+> **Tip 54**
+> **Use a Project Glossary**
+> (Ek Project Glossary Ka Istemal Karein)
+
+---
+
+Kisi aise project par kamyaab hona bahut mushkil hai jahan users aur developers ek hi cheez ko alag-alag naamon se bulate hon, ya isse bhi bura, alag-alag cheezon ko ek hi naam se bulate hon.
+
+**Get the Word Out (Baat Sab Tak Pahunchayein)**
+
+*It's All Writing* (page 248) mein, hum project documents ko sabhi logon ke liye asani se milne ke liye (easy access) internal Web sites par publish karne par charcha karte hain. Baantne (distribution) ka yeh tareeqa khaas taur par requirements documents ke liye upyogi (useful) hai.
+
+Requirements ko ek hypertext document ke roop mein pesh karke, hum ek alag-alag tarah ki (diverse) audience ki zarooraton ko behtar dhang se poora kar sakte hain—hum har padhne wale ko wahi de sakte hain jo wo chahta hai. Project sponsors yeh pakka karne ke liye ek high level of abstraction par dekh (cruise) sakte hain ki business objectives poore ho rahe hain. Programmers hyperlinks ka istemal karke detail ke gahre levels (increasing levels of detail) tak ja sakte hain (yahan tak ki zaroori definitions ya engineering specifications ko bhi reference kar sakte hain).
+
+Web-based distribution us typical do-inch mote binder jiska naam *Requirements Analysis* hota hai, usse bhi bachata hai jise koi kabhi nahi padhta aur jis par syahi lagte hi (instant ink hits paper) wo purana (outdated) ho jata hai.
+
+Agar yeh Web par hai, toh shayad programmers bhi isey padh lein.
+
+**Related sections include:**
+
+* Stone Soup and Boiled Frogs, page 7
+* Good-Enough Software, page 9
+* Circles and Arrows, page 220
+* It's All Writing, page 248
+* Great Expectations, page 255
+
+**Challenges (Chunautiyan)**
+
+* Kya aap jis software ko likh rahe hain, uska istemal kar sakte hain? Kya khud software ka istemal kiye bina requirements ka ek accha andaza (feel) lena mumkin hai?
+* Ek non-computer problem chunein jise aapko filhal solve karne ki zaroorat hai. Ek noncomputer solution ke liye requirements banayein (Generate requirements).
+
+**Exercises (Abhyaas)**
+
+**42.** Inmein se kaun si shayad genuine (asli) requirements hain? Jo nahi hain, unhe dobara (restate) likhein taaki wo aur upyogi ban sakein (agar mumkin ho).
+
+1. Response time 500 ms se kam hona chahiye.
+2. Dialog boxes ka background gray hoga.
+3. Application ko kai front-end processes aur ek back-end server ke roop mein organize kiya jayega.
+4. Agar koi user kisi numeric field (number wale field) mein non-numeric characters (number ke ilawa kuch) enter karta hai, toh system beep karega aur unhe accept nahi karega.
+5. Application code aur data ko 256kB ke andar fit hona chahiye.
