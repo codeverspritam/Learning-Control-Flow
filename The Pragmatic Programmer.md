@@ -4569,3 +4569,40 @@ Aapko bas asli constraints, gumrah karne wali (misleading) constraints, aur dono
 
 * Aaj aap jis bhi mushkil problem mein uljhe (embroiled) hain, use dhyaan se dekhein. Kya aap Gordian knot kaat sakte hain? Khud se upar bataye gaye mukhya sawal puchein, khaas kar "Kya isey isi tareeqe se kiya jana zaroori hai?"
 * Jab aapne apne maujooda project par sign on kiya tha, toh kya aapko constraints ka ek set diya gaya tha? Kya wo sabhi abhi bhi laagu (applicable) hoti hain, aur kya unki samajh (interpretation) abhi bhi valid hai?
+
+#### 38. Not Until You're Ready (Jab Tak Aap Taiyar Na Hon)
+
+> "Jo hichkichata (hesitates) hai, wo kabhi-kabhi bach jata hai."
+> — **James Thurber, *The Glass in the Field***
+
+Behtareen performers mein ek khaasiyat (trait) hoti hai: wo jaante hain ki kab shuru karna hai aur kab intezar karna hai. Ek diver high-board par khada hokar koodne ke liye sahi waqt ka intezar karta hai. Ek conductor orchestra ke samne apne haath uthaye khadi rehti hai, jab tak ki use yeh mehsoos (senses) na ho jaye ki sangeet shuru karne ka sahi waqt aa gaya hai.
+
+Aap ek behtareen performer hain. Aapko bhi us aawaz ko sun-ne ki zaroorat hai jo dheere se kehti hai "intezar karo (wait)". Agar aap type karna shuru karne ke liye baithte hain aur aapke dimaag mein koi pareshan karne wala shaq (nagging doubt) hai, toh us par dhyan dein (heed it).
+
+---
+
+> **Tip 56**
+> **Listen to Nagging Doubts—Start When You're Ready**
+> (Pareshan karne wale shaq ko sunein—Jab aap taiyar hon tab shuru karein)
+
+---
+
+Tennis coaching ka ek andaaz hua karta tha jise "inner tennis" kaha jata tha. Aap ghanton net ke us paar gendein (balls) maarte the, khaas taur par sateekta (accuracy) ke liye koshish nahi karte the, balki uske bajaye sirf bol kar batate the (verbalizing) ki ball kisi target (aksar ek kursi) ke mukable mein kahan lagi. Idea yeh tha ki yeh feedback aapke subconscious (avchetan) dimaag aur reflexes ko train karega, taaki aap yeh jaane bina hi behtar ho jayein ki kaise ya kyun.
+
+Ek developer ke taur par, aap apne poore career ke dauran aisa hi kuch karte aa rahe hain. Aapne cheezein aazmai hain aur dekha hai ki kya kaam karta hai aur kya nahi. Aapne tajurba (experience) aur samajhdari (wisdom) ikatha ki hai. Jab aapko koi pareshan karne wala shaq (nagging doubt) mehsoos ho, ya kisi kaam (task) ka samna karte waqt thodi hichkichahat (reluctance) ho, toh us par dhyan dein. Aap shayad yeh saaf taur par na bata payein ki aakhir kya galat hai, lekin ise waqt dein aur aapke shaq shayad kisi zyada thos (solid) cheez mein badal jayenge, aisi cheez jise aap theek (address) kar sakein. Software development abhi bhi koi science (vigyan) nahi hai. Apne instincts (andaruni aawaz) ko apni performance mein yogdaan (contribute) dene dein.
+
+**Good Judgment or Procrastination? (Sahi Faisla ya Aalas?)**
+
+Khaali kagaz se har koi darta hai. Naya project (ya kisi maujooda project mein ek naya module bhi) shuru karna ek ghabra dene wala (unnerving) anubhav ho sakta hai. Hum mein se kai log shuruat karne ke us pehle kadam (initial commitment) ko taalna pasand karenge. Toh aap kaise bata sakte hain ki kab aap sirf aalas kar rahe hain (procrastinating), bajaye iske ki zimmedari ke sath sabhi cheezon ko apni jagah par aane (fall into place) ka intezar kar rahe hain?
+
+Aise halaat mein hamare liye jis takneek (technique) ne kaam kiya hai wo hai prototyping shuru karna. Koi aisa area chunein jiske baare mein aapko lagta hai ki wo mushkil hoga aur kisi tarah ka proof of concept banana shuru karein. Aam taur par do mein se ek cheez hogi. Shuru karne ke kuch hi der baad, aapko lag sakta hai ki aap apna waqt barbad kar rahe hain. Yeh boriyat (boredom) shayad is baat ka ek accha ishara hai ki aapki shuruati hichkichahat sirf shuru karne ko taalne ki chahat thi. Prototype ko chhod dein (give up), aur asli development mein lag jayein.
+
+Dusri taraf, jaise-jaise prototype aage badhta hai, aapko achanak aisi hairani bhari sacchai (revelation) mil sakti hai jahan aapko achanak ehsas hota hai ki koi buniyaadi dharana (basic premise) galat thi. Sirf yahi nahi, balki aap saaf taur par dekh payenge ki aap isey theek kaise kar sakte hain. Aap prototype ko chhodne aur main project mein utarne (launching into) mein aaram (comfortable) mehsoos karenge. Aapke instincts (andaruni aawaz) sahi the, aur aapne abhi-abhi khud ko aur apni team ko kafi zyada barbad hone wali mehnat se bacha liya hai.
+
+Jab aap apni bechaini (unease) ki jaanch (investigating) karne ke ek tareeqe ke roop mein prototype banane ka faisla karte hain, toh yeh yaad zaroor rakhein ki aap aisa kyun kar rahe hain. Aap yeh bilkul nahi chahenge ki aap serious development mein kai hafte aage nikal jayein aur phir yaad aaye ki aapne toh ek prototype likhna shuru kiya tha.
+
+Thoda cynically (shak ya tanj ke sath) kahen toh, ek prototype par kaam shuru karna shayad siyasi taur par (politically) zyada manzoor (acceptable) ho sakta hai, bajaye yeh ailaan karne ke ki "Mujhe shuru karne mein theek nahi lag raha" aur solitaire game chalane ke.
+
+**Challenges (Chunautiyan)**
+
+* Apne sathiyon (colleagues) ke saath is shuru-karne-ke-dar (fear-of-starting syndrome) ke baare mein charcha karein. Kya dusre log bhi yahi mehsoos karte hain? Kya wo is par dhyan dete hain? Ise door (overcome) karne ke liye wo kya tricks istemal karte hain? Kya ek group kisi ek insaan ki hichkichahat (reluctance) ko door karne mein madad kar sakta hai, ya yeh sirf peer pressure (doston ka dabav) hai?
