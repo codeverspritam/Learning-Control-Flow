@@ -4507,3 +4507,65 @@ Agar yeh Web par hai, toh shayad programmers bhi isey padh lein.
 3. Application ko kai front-end processes aur ek back-end server ke roop mein organize kiya jayega.
 4. Agar koi user kisi numeric field (number wale field) mein non-numeric characters (number ke ilawa kuch) enter karta hai, toh system beep karega aur unhe accept nahi karega.
 5. Application code aur data ko 256kB ke andar fit hona chahiye.
+
+#### 37. Solving Impossible Puzzles (Namumkin Paheliyon ko Suljhana)
+
+> *Phrygia ke Raja Gordius ne ek baar ek aisi gaanth (knot) baandhi jise koi nahi khol sakta tha. Kaha jata tha ki jo Gordian Knot ki is paheli ko suljhayega, wo poore Asia par raaj karega. Phir Alexander the Great aata hai, jo apni talwaar se us gaanth ke tukde-tukde kar deta hai. Yeh bas requirements ko samajhne ka ek thoda alag nazariya tha, aur kuch nahi... aur aakhir-kaar usne sach mein zyada-tar Asia par raaj kiya.*
+
+Kabhi-kabhi, kisi project ke beech mein aap khud ko ek aisi mushkil paheli (puzzle) mein uljha hua payenge: engineering ka koi aisa hissa jo aapki samajh se bahar ho raha ho, ya shayad code ka koi tukda jise likhna aapki umeed se kahin zyada mushkil saabit ho raha ho. Shayad yeh namumkin (impossible) lagta ho. Lekin kya yeh sach mein utna mushkil hai jitna lagta hai?
+
+Asli duniya ke puzzles ke baare mein sochein—lakdi, lohe, ya plastic ke wo chhote aur chatur (devious) tukde jo Christmas presents ya garage sales mein milte hain. Aapko bas ek ring nikalni hoti hai, ya 'T' aakar (shape) ke tukdon ko ek box mein fit karna hota hai, ya aisa hi kuch.
+
+Toh aap ring ko kheenchne ki koshish karte hain, ya 'T' ko box mein fit karne ki koshish karte hain, aur jaldi hi aapko pata chalta hai ki saaf (obvious) dikhne wale samadhan (solutions) kaam nahi karte. Puzzle ko us tareeqe se solve nahi kiya ja sakta. Lekin yeh saaf dikhne ke bawajood, log wahi cheez baar-baar try karne se nahi rukte—yeh sochte hue ki koi na koi raasta toh zaroor hoga.
+
+Zahir hai, aisa koi raasta nahi hota. Samadhan kahin aur hota hai. Puzzle ko solve karne ka raaz (secret) hai **asli (real)** (na ki khayali/imagined) rukawaton (constraints) ko pehchan-na, aur usi ke andar ek samadhan dhoondhna. Kuch constraints **absolute** (pakki) hoti hain; dusri sirf **preconceived notions** (pehle se bani dharnayein) hoti hain. Absolute constraints ka palan (honored) hona hi chahiye, chahe wo kitni hi ajeeb ya bewaqoofi bhari kyun na lagein. Dusri taraf, kuch saaf dikhne wali constraints shayad asli constraints hon hi na. Misaal ke taur par, wo purani bar trick jahan aap ek bilkul nayi, band champagne ki botal lete hain aur shart lagate hain ki aap isme se beer pi sakte hain. Trick yeh hai ki botal ko ulta kiya jaye, aur botal ke niche bane gadhe (hollow) mein thodi si beer daal di jaye. Software ki kai problems bhi utni hi chalak (sneaky) ho sakti hain.
+
+**Degrees of Freedom (Azaadi ke Dayre)**
+
+"Thinking outside the box" (box ke bahar sochna) ek popular buzz-phrase hai jo hamein aisi constraints ko pehchanne aur unhe ignore karne ke liye prerit (encourages) karta hai jo shayad laagu (applicable) nahi hoti hain.
+
+Lekin yeh phrase poori tarah sahi nahi hai. Agar "box" constraints aur conditions ki seema (boundary) hai, toh trick us box ko **dhoondhna (find)** hai, jo shayad aapki soch se kahin zyada bada ho.
+
+Puzzles solve karne ki chaabi yeh pehchan-na hai ki aap par kaun si constraints lagayi gayi hain aur aapke paas kitni azaadi (degrees of freedom) **hai**, kyunki unhi ke andar aapko apna samadhan milega. Yahi wajah hai ki kuch puzzles itne asardaar hote hain; aap shayad kaam aane wale samadhanon ko bahut jaldi kharij (dismiss) kar dete hain.
+
+Misaal ke taur par, kya aap di gayi paheli mein sabhi dots ko connect karke sirf teen seedhi lines ke sath wapas starting point par aa sakte hain—apne pen ko paper se uthaye bina ya apne kadmon ko dohraye (retracing) bina?
+
+Aapko kisi bhi preconceived notion (pehle se bani dharana) par sawal uthana chahiye aur yeh dekhna chahiye ki kya wo waqayi pakki (hard-and-fast) constraints hain ya nahi.
+
+Baat yeh nahi hai ki aap box ke andar sochte hain ya box ke bahar. Problem **box ko dhoondhne** mein hai—asli constraints ko pehchanne mein.
+
+---
+
+> **Tip 55**
+> **Don't Think Outside the Box— Find the Box**
+> (Box ke bahar mat sochein— Box ko dhoondhein)
+
+---
+
+Jab aap kisi na-sulajhne wali (intractable) problem mein phas jayein, toh apne saamne maujood **sabhi** mumkin raaston (avenues) ki ek list banayein. Kisi bhi cheez ko kharij (dismiss) na karein, chahe wo sunne mein kitni hi bekar ya bewakoofi bhari kyun na lage. Ab us list ko dekhein aur samjhayein ki ek khaas rasta (path) kyun nahi liya ja sakta. Kya aapko pakka pata hai? Kya aap ise **sabit (prove)** kar sakte hain?
+
+Trojan horse (lakdi ka ghoda) ke baare mein sochein—ek namumkin problem ka ek naya (novel) samadhan. Bina pakde gaye kisi qile-band (walled) shahar mein fauj (troops) ko kaise le jaya jaye? Aap shart laga sakte hain ki "samne ke darwaze se (through the front door)" jana shuru mein khudkushi (suicide) maan kar kharij kar diya gaya hoga.
+
+Apni constraints ko categorize aur prioritize karein. Jab woodworkers (badhaai) koi project shuru karte hain, toh wo sabse lambe tukde pehle kat-te hain, aur phir bachi hui lakdi se chhote tukde kat-te hain. Usi tarah, hum sabse sakht (restrictive) constraints ko pehle pehchan-na chahte hain, aur baaki constraints ko unke andar fit karna chahte hain.
+
+**There Must Be an Easier Way! (Koi Asaan Rasta Zaroor Hoga!)**
+
+Kabhi-kabhi aap khud ko kisi aisi problem par kaam karte hue payenge jo aapki soch se kahin zyada mushkil lag rahi hogi. Shayad aapko lage ki aap galat raste par ja rahe hain—ki isse asaan koi rasta zaroor hona chahiye! Shayad ab aap schedule se piche chal rahe hon, ya yahan tak ki system ke kabhi theek se kaam karne ki umeed bhi chhod chuke hon kyunki yeh khaas problem "namumkin" lag rahi hai.
+
+Tab aap ek kadam piche hatte hain aur khud se yeh sawal puchte hain:
+
+* Kya koi asaan rasta (easier way) hai?
+* Kya aap sahi problem solve karne ki koshish kar rahe hain, ya aap kisi choti/bahari technicality (peripheral technicality) mein ulajh gaye hain?
+* Yeh cheez ek problem kyun hai?
+* Wo kya cheez hai jo ise solve karna itna mushkil bana rahi hai?
+* Kya isey isi tareeqe se kiya jana zaroori hai?
+* Kya isey bilkul (at all) karne ki zaroorat bhi hai?
+
+Kai baar jab aap inmein se kisi sawal ka jawab dene ki koshish karenge toh aapko ek hairan karne wali sacchai (surprising revelation) pata chalegi. Kai baar requirements ko naye tareeqe se samajhne (reinterpretation) se puri ki puri problems gayab ho sakti hain—bilkul us Gordian knot ki tarah.
+
+Aapko bas asli constraints, gumrah karne wali (misleading) constraints, aur dono ke beech ka farq janne ki samajhdari (wisdom) chahiye.
+
+**Challenges (Chunautiyan)**
+
+* Aaj aap jis bhi mushkil problem mein uljhe (embroiled) hain, use dhyaan se dekhein. Kya aap Gordian knot kaat sakte hain? Khud se upar bataye gaye mukhya sawal puchein, khaas kar "Kya isey isi tareeqe se kiya jana zaroori hai?"
+* Jab aapne apne maujooda project par sign on kiya tha, toh kya aapko constraints ka ek set diya gaya tha? Kya wo sabhi abhi bhi laagu (applicable) hoti hain, aur kya unki samajh (interpretation) abhi bhi valid hai?
