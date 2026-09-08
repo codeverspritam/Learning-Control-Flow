@@ -4606,3 +4606,51 @@ Thoda cynically (shak ya tanj ke sath) kahen toh, ek prototype par kaam shuru ka
 **Challenges (Chunautiyan)**
 
 * Apne sathiyon (colleagues) ke saath is shuru-karne-ke-dar (fear-of-starting syndrome) ke baare mein charcha karein. Kya dusre log bhi yahi mehsoos karte hain? Kya wo is par dhyan dete hain? Ise door (overcome) karne ke liye wo kya tricks istemal karte hain? Kya ek group kisi ek insaan ki hichkichahat (reluctance) ko door karne mein madad kar sakta hai, ya yeh sirf peer pressure (doston ka dabav) hai?
+
+#### 39. The Specification Trap (Specification ka Jaal)
+
+> "Landing Pilot wo Non-Handling Pilot hota hai jab tak ki 'decision altitude' call na aaye, jab Handling Non-Landing Pilot handling ko Non-Handling Landing Pilot ko saunp deta hai, jab tak ki baad wala 'go-around' call na kare, aisi soorat mein Handling Non-Landing Pilot handling jaari rakhta hai aur Non-Handling Landing Pilot tab tak non-handling jaari rakhta hai jab tak ki agli 'land' ya 'go-around' call na aa jaye, jo bhi munasib ho. In rules ko lekar haal hi mein hui confusions (galatfehmiyon) ko dekhte hue, inhe saaf taur par dobara batana zaroori samjha gaya hai."
+> — **British Airways memorandum, *Pilot Magazine* mein chapa, December 1996**
+
+Program specification kisi requirement ko lene aur use us point tak kam (reduce) karne ka process hai jahan ek programmer ki skill aage ka kaam sambhal sake. Yeh communication ka ek tareeqa (act) hai, jo duniya ko is tarah se samjhata aur saaf (clarify) karta hai taaki badi ambiguities (dhundlapan ya confusion) ko hataya ja sake. Shuruati implementation karne wale developer se baat karne ke alawa, specification aane wali generations ke programmers ke liye ek record hota hai jo code ko maintain aur enhance (behtar) karenge. Specification user ke sath ek samjhauta (agreement) bhi hai—unki zarooraton ko likhit roop dena (codification) aur ek chupa hua (implicit) contract ki final system us requirement ke mutabik hoga.
+
+Specification likhna waqayi ek badi zimmedari (responsibility) hai.
+
+Problem yeh hai ki kai designers ke liye rukna mushkil hota hai. Unhe lagta hai ki jab tak har choti detail ko hadd se zyada (excruciating) detail mein na likh diya jaye, tab tak unhone apne paise halal nahi kiye (haven't earned their daily dollar).
+
+Yeh kai wajahon se ek galti hai. Pehla, yeh manna na-samjhi (naive) hai ki ek specification kabhi kisi system ya uski requirement ki har detail aur baarikiyon (nuance) ko capture kar lega. Mehdood (restricted) problem domains mein, aise formal methods hote hain jo kisi system ko describe kar sakte hain, lekin unme abhi bhi designer ko end users ko notation ka matlab samjhane ki zaroorat padti hai—yahan abhi bhi ek insaani samajh (human interpretation) shamil hoti hai jo cheezon ko kharab (mess up) kar sakti hai. Is interpretation mein chupi hui problems ke bina bhi, is baat ki sambhavna bahut kam hai ki average user project shuru karte waqt yeh janta ho ki unhe exactly kya chahiye. Wo keh sakte hain ki unhe requirement ki samajh hai, aur wo aapke banaye 200-page ke document par sign bhi kar sakte hain, lekin aap is baat ki guarantee le sakte hain ki ek baar jab wo chalte hue system (running system) ko dekhenge toh aapke paas change requests ki baadh aa jayegi (inundated).
+
+Dusra, khud language (bhasha) ki expressive power (vyakt karne ki kshamta) ki ek problem hai. Sabhi diagramming techniques aur formal methods abhi bhi kiye jane wale operations ko express karne ke liye natural language par hi nirbhar karte hain. [2] Aur natural language sach mein is kaam ke layaq nahi hai. Kisi bhi contract (samjhaute) ke shabdon (wording) ko dekhein: sateek (precise) hone ki koshish mein, wqeelo (lawyers) ko language ko sabse ajeeb (unnatural) tareeqon se modna padta hai.
+
+> [2] Kuch aisi formal techniques hain jo operations ko algebraically express karne ki koshish karti hain, lekin yeh techniques aam taur par shayad hi kabhi istemal hoti hain. Unme abhi bhi analysts ko end users ko matlab samjhane ki zaroorat padti hai.
+
+Aapke liye ek challenge hai. Ek chota sa description likhein jo kisi ko yeh bataye ki unhe apne joote ke feete (shoelaces) kaise baandhne hain. Jaiye, try karein!
+
+Agar aap hamare jaise hain, toh shayad aapne yahin kahin haar maan li hogi, "ab apne angoothe aur pehli ungli ko is tarah ghumayein ki free hissa baayein (left) feete ke neeche aur andar se gujre...." Aisa karna sach mein behad mushkil kaam hai. Phir bhi hum mein se zyadatar log bina soche (without conscious thought) apne joote baandh sakte hain.
+
+---
+
+> **Tip 57**
+> **Some Things Are Better Done than Described**
+> (Kuch cheezein batane se behtar karna hoti hain)
+
+---
+
+Aakhir mein, "straightjacket effect" (poori tarah baandh dene ka asar) aata hai. Ek aisa design jo coder ke liye apni samajh (interpretation) istemal karne ki koi jagah nahi chhodta, wo programming ki mehnat se saari skill aur art (kala) ko chheen leta hai. Kuch log kahenge ki yeh bhalai ke liye hai, lekin wo galat hain. Aksar, sirf coding ke dauran hi kuch options saaf (apparent) hote hain. Coding karte waqt, aap soch sakte hain *"Isey dekho. Kyunki maine is routine ko is khaas tareeqe se code kiya hai, isliye main lagbhag bina kisi extra mehnat ke isme yeh additional functionality jod sakta hoon"* ya *"Specification yeh karne ko kehti hai, lekin main isi result ko ek alag tareeqe se karke lagbhag waisa hi nateeja pa sakta hoon, aur wo bhi aadhe waqt mein."* Zahir hai, aapko sirf ghus kar (hack in) changes nahi kar dene chahiye, lekin agar aap kisi hadd se zyada pabandi wale (overly prescriptive) design mein phanse hote, toh aapko yeh mauka (opportunity) dikhta hi nahi.
+
+Ek Pragmatic Programmer ke taur par, aapko requirements gathering, design, aur implementation ko ek hi process ke alag-alag pehlu (facets) ki tarah dekhna chahiye—ek quality system ko deliver karna. Aise environments par shaq karein (Distrust) jahan requirements ikatha ki jati hain, specifications likhi jati hain, aur phir coding shuru hoti hai, aur sab kuch bilkul alag-alag (in isolation) hota hai. Iske bajaye, ek seamless (bina rukaawat ki) approach apnane ki koshish karein: specification aur implementation sirf ek hi process ke alag-alag pehlu hain—ek requirement ko capture aur codify karne ki koshish. Har ek ko seedhe agle hisse mein behna (flow) chahiye, bina kisi banawati (artificial) boundaries ke. Aap payenge ki ek healthy development process implementation aur testing se specification process mein feedback ko encourage karta hai.
+
+Bas saaf karne ke liye bata dein, hum specifications generate karne ke khilaf nahi hain. Waqayi, hum maante hain ki aise waqt hote hain jab behad detailed specifications maangi jati hain—contractual wajahon se, us environment ki wajah se jahan aap kaam karte hain, ya us product ki fitrat (nature) ki wajah se jise aap develop kar rahe hain. [3] Bas is baat se aagah rahein (aware) ki jaise-jaise specifications zyada detailed hoti jati hain, aap ek aise point par pahunchte hain jahan fayda kam hone lagta hai (diminishing returns) ya yahan tak ki negative returns aane lagte hain. Bina kisi supporting implementation ya prototyping ke, specifications ke upar specifications ki layer banane se bachein; kisi aisi cheez ko specify karna bahut asaan hai jise banaya hi na ja sake.
+
+> [3] Detailed specifications zahir hai life-critical systems ke liye munasib (appropriate) hain. Hamein lagta hai ki unhe dusron dwara istemal kiye jane wale interfaces aur libraries ke liye bhi banaya jana chahiye. Jab aapka poora output routine calls ke ek set ke roop mein dekha jata hai, toh behtar hoga ki aap yeh pakka karein ki wo calls achi tarah specified hon.
+
+Aap specifications ko jitna lamba security blankets (suraksha chadar) banne denge, jo developers ko code likhne ki darawni (scary) duniya se bachaye rakhe, code likhne (hacking out code) par aage badhna utna hi mushkil ho jayega. Is specification ke bhawar (spiral) mein na fasein: kisi na kisi point par, aapko coding shuru karni hogi! Agar aapko lagta hai ki aapki team warm, aaramdayak (comfy) specifications mein ulajh (wrapped up) gayi hai, toh unhe bahar nikalein. Prototyping ko dekhein, ya tracer bullet development par vichar karein.
+
+**Related sections include:**
+
+* Tracer Bullets, page 48
+
+**Challenges (Chunautiyan)**
+
+* Text mein diya gaya shoelace (joote ke feete) ka udaharan likhit descriptions ki problems ka ek dilchasp (interesting) chittar (illustration) hai. Kya aapne shabdon (words) ki jagah diagrams ka istemal karke process ko describe karne par vichar kiya? Tasveerein (Photographs)? Topology se koi formal notation? Wire laces wale models? Aap ek chote bacche (toddler) ko kaise sikhayenge?
+* Kabhi-kabhi ek tasveer hazaar shabdon se zyada keemti (worth) hoti hai. Kabhi-kabhi yeh bekaar hoti hai. Agar aap khud ko hadd se zyada specify (overspecifying) karte hue paate hain, toh kya tasveerein ya special notations madad karengi? Unhe kitna detailed hona chahiye? Ek drawing tool whiteboard se behtar kab hota hai?
