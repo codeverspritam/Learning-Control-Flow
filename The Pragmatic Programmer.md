@@ -4839,3 +4839,155 @@ Yaad rakhein ki teams individuals (vyaktiyon) se banti hain. Har member ko apne 
 * Software development ke field se bahar kamyaab (successful) teams ko dhoondhein. Unhe kya cheez kamyaab banati hai? Kya wo is section mein discuss kiye gaye kisi processes ka istemal karte hain?
 * Agli baar jab aap koi project shuru karein, toh logon ko ise brand karne ke liye manane (convincing) ki koshish karein. Apni organization ko is idea ki aadat dalne ke liye waqt dein, aur phir yeh dekhne ke liye ek jaldi se audit karein ki isse team ke andar aur bahar kya farq (difference) aaya.
 * **Team Algebra:** School mein, hamein aisi problems di jati hain jaise "Agar 4 mazdooron ko ek gaddha khodne mein 6 ghante lagte hain, toh 8 mazdooron ko kitna waqt lagega?" Halanki, asli zindagi (real life) mein, kaun se factors is sawal ke jawab ko asar dalte hain: "Agar 4 programmers ko ek application develop karne mein 6 mahine lagte hain, toh 8 programmers ko kitna waqt lagega?" Kitne scenarios (halaat) mein waqayi waqt kam ho jata hai?
+
+#### 42. Ubiquitous Automation (Har Jagah Automation)
+
+> "Sabhayta (civilization) tab aage badhti hai jab hum un mahatvapurn (important) kaamon ki ginti badhate hain jinhe hum bina soche kar sakte hain."
+> — **Alfred North Whitehead**
+
+Automobiles ke zamane ki shuruat mein, ek Model-T Ford ko shuru karne ki hidayatein (instructions) do page se zyada lambi thin. Aadhunik (modern) cars ke saath, aap bas chaabi ghumate hain—shuru karne ka tareeqa automatic aur foolproof hota hai. Hidayaton ki ek list padhne wala insaan engine mein zyada fuel daal kar use kharab (flood) kar sakta hai, lekin automatic starter aisa nahi karega.
+
+Halanki computing abhi bhi Model-T stage wali industry hai, hum kisi aam (common) kaam ke liye baar-baar do page ki hidayaton se guzarne ka jokhim (afford) nahi utha sakte. Chahe wo build aur release procedure ho, code review ka kagzi kaam (paperwork) ho, ya project par baar-baar hone wala koi aur kaam ho, ise automatic hona hi chahiye. Hamein shayad starter aur fuel injector ko bilkul shuru se (from scratch) banana pade, lekin ek baar jab yeh ban jata hai, toh uske baad se hum bas chaabi ghuma sakte hain.
+
+Iske alawa, hum project par ek-samanata (consistency) aur dohrane-layak hona (repeatability) pakka karna chahte hain. Manual procedures mein consistency kismat (chance) par chhut jati hai; repeatability ki koi guarantee nahi hoti, khaas taur par agar procedure ke kuch hisson ko alag-alag log apne hisab se samajhne (interpretation) ke liye azad hon.
+
+**All on Automatic (Sab Kuch Automatic)**
+
+Hum ek baar ek client ki site par the jahan saare developers ek hi IDE ka istemal kar rahe the. Unke system administrator ne har developer ko IDE mein add-on packages install karne ki hidayaton (instructions) ka ek set diya. In hidayaton ne kai pages bhar diye—aise pages jo yahan click karo, wahan scroll karo, ise drag karo, uspe double-click karo, aur ise phir se karo, se bhare the.
+
+Bina kisi hairani ke (Not surprisingly), har developer ki machine thodi alag tarah se load hui. Jab alag-alag developers ne wahi code chalaya toh application ke vyavahar (behavior) mein chhote (subtle) farq aane lage. Bugs ek machine par dikhte the lekin dusri par nahi. Kisi ek component ke version mein farq dhoondhne par aam taur par ek naya surprise milta tha.
+
+---
+
+> **Tip 61**
+> **Don't Use Manual Procedures**
+> (Manual Procedures Ka Istemal Na Karein)
+
+---
+
+Insaan computers ki tarah ek hi kaam ko bilkul waise hi nahi dohra sakte (repeatable). Aur hamein unse aisi umeed karni bhi nahi chahiye. Ek shell script ya batch file wahi hidayatein, usi kram (order) mein, baar-baar chalayegi. Ise source control ke andar rakha ja sakta hai, taaki aap waqt ke saath procedure mein hue badlaavon ko bhi dekh sakein ("lekin yeh pehle toh kaam karta *tha*...").
+
+Automation ka ek aur pasandeeda (favorite) tool `cron` (ya Windows NT par "at") hai. Yeh hamein periodic (samay-samay par) chalne wale unattended (bina kisi ke dhyan rakhe chalne wale) kaamon ko schedule karne deta hai—aam taur par aadhi raat ko. Misaal ke taur par, neeche di gayi crontab file yeh tay karti hai ki project ki raat wali command har din aadhi raat ke paanch minute baad chale, backup weekdays par subah 3:15 baje chale, aur expense_reports mahine ki pehli tareeq ko aadhi raat chale.
+
+```cron
+# min hr date month day command
+5 0 * * * /project/bin/nightly_cmd
+15 3 * * 1-5 /project/bin/do_backup
+0 0 1 * * /project/bin/expense_reports
+
+```
+
+`cron` ka istemal karke, hum backups, nightly build (raat ka build), Web site maintenance, aur kuch bhi jo karne ki zaroorat hai—bina kisi ki maujoodgi ke, automatically schedule kar sakte hain.
+
+**Compiling the Project (Project ko Compile Karna)**
+
+Project ko compile karna ek aisa kaam (chore) hai jo bharosemand (reliable) aur dohrane-layak (repeatable) hona chahiye. Hum aam taur par projects ko `makefiles` ke saath compile karte hain, yahan tak ki kisi IDE environment ka istemal karte waqt bhi. `makefiles` istemal karne ke kai fayde hain. Yeh ek scripted, automatic tareeqa hai. Hum apne liye code generate karne, aur regression tests automatically chalane ke liye hooks jod sakte hain. IDEs ke apne fayde hain, lekin akele IDEs ke saath us level ka automation hasil karna mushkil ho sakta hai jo hum chahte hain. Hum ek single command se check out, build, test, aur ship karna chahte hain.
+
+**Generating Code (Code Generate Karna)**
+
+*The Evils of Duplication* (page 26) mein, humne common sources se gyan (knowledge) nikalne ke liye code generate karne ki wakeelat (advocated) ki thi. Hum is process ko aasan banane ke liye `make` ke dependency analysis mechanism ka fayda utha (exploit) sakte hain. Kisi aur source se automatically ek file generate karne ke liye `makefile` mein rules jodna ek kafi aasan kaam hai. Misaal ke taur par, maan lijiye hum ek XML file lena chahte hain, usse ek Java file generate karna chahte hain, aur result ko compile karna chahte hain.
+
+```makefile
+test.class: test.java
+    javac test.java
+test.java: test.xml
+    perl xml2java.pl < test.xml > test.java
+
+```
+
+`make test.class` type karein, aur `make` automatically `test.xml` naam ki ek file dhoondhega, ek Perl script chala kar ek `.java` file banayega, aur phir us file ko compile karke `test.class` banayega.
+
+Hum usi tarah ke rules ka istemal karke kisi dusre roop (form) se automatically source code, header files, ya documentation bhi generate kar sakte hain (*Code Generators*, page 102 dekhein).
+
+**Regression Tests**
+
+Aap kisi individual module ya poore subsystem ke liye regression tests chalane ke liye bhi `makefile` ka istemal kar sakte hain. Aap source tree ke top par sirf ek command se *poore* project ko asani se test kar sakte hain, ya aap ek single directory mein usi command ka istemal karke ek individual module ko test kar sakte hain. Regression testing par aur janne ke liye *Ruthless Testing*, page 237 dekhein.
+
+---
+
+> **Recursive make**
+> Kai projects project builds aur testing ke liye recursive (apne aap ko call karne wale), hierarchical (ek ke neeche ek) `makefiles` set up karte hain. Lekin kuch potential (mumkin) problems se agah (aware) rahein.
+> `make` un alag-alag targets ke beech dependencies calculate karta hai jinhe use build karna hota hai. Lekin yeh sirf unhi dependencies ka analysis kar sakta hai jo kisi ek single `make` invocation (bulane/chalane) ke andar maujood hoti hain. Khaas taur par, ek recursive `make` ko un dependencies ki koi jankari nahi hoti jo dusri baar `make` ko invoke karne par ho sakti hain. Agar aap savdhaan (careful) aur sateek (precise) hain, toh aapko sahi (proper) results mil sakte hain, lekin be-wajah extra kaam badhana—ya kisi dependency ko miss karna aur zaroorat padne par recompile na karna bahut aasaan hota hai.
+> Iske alawa, build dependencies test dependencies jaisi nahi ho sakti hain, aur aapko alag hierarchies ki zaroorat pad sakti hai.
+
+---
+
+**Build Automation**
+
+Ek **build** ek aisa tareeqa (procedure) hai jo ek khali directory (aur ek pata/known compilation environment) leta hai aur bilkul shuru se (from scratch) project ko build karta hai, aur wo banata hai jo aap final deliverable ke roop mein banane ki umeed karte hain—misaal ke taur par ek CD-ROM master image ya ek self-extracting archive (apne aap khulne wali zip file jaisi file). Aam taur par ek project build mein yeh steps shamil honge.
+
+1. Repository se source code ko check out karein.
+2. Project ko bilkul shuru se build karein, aam taur par ek top-level makefile se. Har build ko kisi tarah ke release ya version number, ya shayad date stamp se nishan zad (marked) kiya jata hai.
+3. Ek distributable (baantne layaq) image banayein. Is procedure mein file ownership aur permissions ko theek karna, aur sabhi examples, documentation, README files, aur kuch bhi jo product ke sath ship hoga use usi sateek format mein banana shamil ho sakta hai jiski ship karte waqt zaroorat hogi. [3]
+
+> [3] Misaal ke taur par, agar aap ISO9660 format mein ek CD-ROM bana rahe hain, toh aap wo program chalayenge jo 9660 file system ka ek bit-for-bit (bilkul waisa hi) image banata hai. Yeh pakka karne ke liye ki yeh kaam karta hai, ship karne se pehli raat tak intezar kyun karein?
+
+4. Tay kiye gaye tests chalayein (`make test`).
+
+Zyada-tar projects ke liye, is level ka build har raat automatically chalaya jata hai. Is raat wale build (nightly build) mein, aap aam taur par usse zyada poore tests chalayenge jo koi insaan project ke kisi khaas hisse ko build karte waqt chalata hai. Mahatvapurn (Important) point yeh hai ki poore build mein **sabhi** available tests chalayein jayein. Aap yeh janna chahte hain ki kya aaj ke kisi code change ki wajah se koi regression test fail hua hai. Problem ko source ke qareeb pehchan kar, aapke paas use dhoondhne aur theek karne ka ek behtar mauka (stand a better chance) hota hai.
+
+Jab aap tests ko regularly (rozana) nahi chalate hain, toh aapko pata chal sakta hai ki teen mahine pehle kiye gaye kisi code change ki wajah se application toot (broke) gayi thi. Us badlaav ko dhoondhne ke liye best of luck.
+
+**Final Builds (Aakhiri Builds)**
+
+*Final builds*, jinhe aap products ke roop mein ship karne ka irada rakhte hain, unki regular nightly build se alag requirements ho sakti hain. Ek final build mein yeh zaroori ho sakta hai ki repository ko lock kiya jaye, ya release number ke sath tag kiya jaye, ki optimization aur debug flags alag tarah se set kiye jayein, ityadi. Hamein ek alag `make` target (jaise `make final`) ka istemal karna pasand hai jo in sabhi parameters ko ek saath set kar de.
+
+Yaad rakhein ki agar product ko pichle versions se alag dhang se compile kiya gaya hai, toh aapko **is** version ke khilaf phir se poori testing karni hogi.
+
+**Automatic Administrivia (Automatic Kagzi Kaam)**
+
+Kya yeh acha nahi hota agar programmers apna saara waqt sirf programming mein laga sakte? Badkismati se, shayad hi kabhi aisa hota hai. E-mails ka jawab dena hota hai, paperwork (forms wagaira) bharna hota hai, documents ko Web par post karna hota hai, ityadi. Aap kuch gande kaam (dirty work) karne ke liye ek shell script banane ka faisla kar sakte hain, lekin aapko abhi bhi zaroorat padne par us script ko chalana yaad rakhna hoga.
+
+Kyunki umar badhne ke sath memory (yaaddasht) wo dusri cheez hai jo aap khote hain, [4] isliye hum us par bahut zyada nirbhar nahi rehna chahte. Hum scripts chala kar apne liye automatically tareeqe (procedures) pure karwa sakte hain, jo source code aur documents ke **content (mazmoon)** par aadharit (based) ho. Hamara lakshya ek automatic, unattended, aur content-driven (content se chalne wale) workflow ko banaye rakhna hai.
+
+> [4] Pehli kya hai? Main bhool gaya.
+
+**Web Site Generation (Web Site Banana)**
+
+Kai development teams project ki communication ke liye ek internal Web site ka istemal karti hain, aur hamein lagta hai ki yeh ek behtareen idea hai. Lekin hum Web site ko maintain karne mein bahut zyada waqt barbad nahi karna chahte, aur hum ise purana (stale ya out of date) bhi nahi hone dena chahte. Gumrah karne wali (Misleading) jankari kisi bhi jankari ke na hone se zyada buri hoti hai.
+
+Documentation jo code se nikala (extracted) gaya ho, requirements analyses, design documents, aur koi bhi drawings, charts, ya graphs, in sabhi ko Web par lagatar (regular basis par) publish karne ki zaroorat hoti hai. Hamein in documents ko nightly build ke hisse ke roop mein ya source code check-in procedure ke ek hook ke roop mein automatically publish karna pasand hai.
+
+Yeh chahe jaise bhi kiya jaye, Web content ko repository mein maujood jankari se automatically generate kiya jana chahiye aur insaani dakhal (human intervention) ke **bina** publish kiya jana chahiye. Yeh sach mein *DRY* principle ki ek aur application hai: jankari checked-in code aur documents ke roop mein ek hi jagah (form) maujood hoti hai. Web browser se dikhne wala nazariya (view) sirf wahi hai—bas ek view. Aapko us view ko hathon se (by hand) maintain karne ki zaroorat nahi padni chahiye.
+
+Nightly build dwara generate ki gayi koi bhi jankari development Web site par milni (accessible) chahiye: khud build ke results (misaal ke taur par, build results ko ek page ki summary ke roop mein pesh kiya ja sakta hai jisme compiler warnings, errors, aur current status shamil ho), regression tests, performance statistics, coding metrics aur koi bhi dusra static analysis, ityadi.
+
+**Approval Procedures (Manzoori ke Tareeqe)**
+
+Kuch projects mein aise kai administrative workflows hote hain jinka palan karna zaroori hota hai. Misaal ke taur par, code ya design reviews schedule hone chahiye aur pure kiye jane chahiye, approvals (manzooriyan) milni chahiye, ityadi. Hum is paperwork ke bojh ko kam karne ke liye automation—aur khaas taur par Web site—ka istemal kar sakte hain.
+
+Maan lijiye aap code review scheduling aur approval ko automate karna chahte hain. Aap har source code file mein ek special marker rakh sakte hain:
+
+`/* Status: needs_review */`
+
+Ek simple script saare source code mein ja sakti hai aur aisi sabhi files dhoondh sakti hai jinka status `needs_review` tha, jo yeh batata hai ki wo review ke liye taiyar hain. Aap phir un files ki ek list Web page par post kar sakte hain, appropriate (sahi) logon ko automatically e-mail bhej sakte hain, ya kisi calendar software ka istemal karke automatically ek meeting schedule kar sakte hain.
+
+Aap reviewers ke liye apni manzoori (approval) ya na-manzoori (disapproval) darj karne ke liye Web page par ek form set up kar sakte hain. Review ke baad, status automatically `reviewed` mein badla ja sakta hai. Kya aap sabhi participants ke sath mil kar code review (code walk-through) karte hain yeh aap par nirbhar hai; aap abhi bhi paperwork automatically kar sakte hain. (April 1999 CACM ke ek article mein, Robert Glass ek research ka saraansh (summarizes) dete hain jo yeh batati lagti hai ki, jahan code inspection asardaar (effective) hai, wahin meetings mein reviews karna asardaar nahi hai [ Gla99a ].)
+
+**The Cobbler's Children (Mochi ke Bacche)**
+
+Mochi ke bacchon ke paas joote nahi hote. Aksar, jo log software banate hain wo kaam karne ke liye sabse bekaar tools ka istemal karte hain.
+
+Lekin behtar tools banane ke liye hamare paas zaroori saara kachha maal (raw materials) hota hai. Hamare paas `cron` hai. Hamare paas automation ke liye `make`, Ant, aur CruiseControl hain (dekhein [ Cla04 ]). Aur hamare paas jaldi se custom tools, Web page generators, code generators, test harnesses, ityadi develop karne ke liye Ruby, Perl, aur dusri high-level scripting languages hain.
+
+Baar-baar hone wale (repetitious), aam (mundane) kaamon ko computer ko karne dein—yeh ise humse behtar karega. Hamare paas karne ke liye usse zyada mahatvapurn (important) aur zyada mushkil kaam hain.
+
+**Related sections include:**
+
+* The Cat Ate My Source Code, page 2
+* The Evils of Duplication, page 26
+* The Power of Plain Text, page 73
+* Shell Games, page 77
+* Debugging, page 90
+* Code Generators, page 102
+* Pragmatic Teams, page 224
+* Ruthless Testing, page 237
+* It's All Writing, page 248
+
+**Challenges (Chunautiyan)**
+
+* Poore din kaam ke dauran (workday) apni aadaton (habits) ko dekhein. Kya aapko koi baar-baar hone wale kaam (repetitive tasks) dikhte hain? Kya aap commands ka ek hi sequence baar-baar type karte hain?
+* Is process ko automate karne ke liye kuch shell scripts likhne ki koshish karein. Kya aap hamesha icons ke ek hi sequence par baar-baar click karte hain? Kya aap apne liye yeh sab karne ke liye ek macro bana sakte hain?
+* Aapke project ka kitna paperwork automate kiya ja sakta hai? Programming staff ke mehnge hone (high expense) [5] ko dhyan mein rakhte hue, yeh tay karein ki project ke budget ka kitna hissa administrative tareeqon (procedures) par barbad ho raha hai. Kya aap us automated solution ko banane mein lagne wale waqt ko sahi thehra (justify) sakte hain, us bachat (cost savings) ke aadhar par jo isse mil sakti hai?
+
+> [5] Andaza lagane (estimating) ke liye, aap industry ke hisab se ek aadmi ka kharch lagbhag US$100,000 maan sakte hain—jisme salary ke sath fayde (benefits), training, office space aur uspar hone wale kharch (overhead), ityadi shamil hain.
