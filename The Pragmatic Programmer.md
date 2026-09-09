@@ -4991,3 +4991,263 @@ Baar-baar hone wale (repetitious), aam (mundane) kaamon ko computer ko karne dei
 * Aapke project ka kitna paperwork automate kiya ja sakta hai? Programming staff ke mehnge hone (high expense) [5] ko dhyan mein rakhte hue, yeh tay karein ki project ke budget ka kitna hissa administrative tareeqon (procedures) par barbad ho raha hai. Kya aap us automated solution ko banane mein lagne wale waqt ko sahi thehra (justify) sakte hain, us bachat (cost savings) ke aadhar par jo isse mil sakti hai?
 
 > [5] Andaza lagane (estimating) ke liye, aap industry ke hisab se ek aadmi ka kharch lagbhag US$100,000 maan sakte hain—jisme salary ke sath fayde (benefits), training, office space aur uspar hone wale kharch (overhead), ityadi shamil hain.
+
+
+#### 43. Ruthless Testing (Be-raham Testing)
+
+Zyada-tar developers testing se nafrat karte hain. Wo halke haath se (gently) test karte hain, anjaane mein hi (subconsciously) jante hue ki code kahan tootega aur un kamzor hisson (weak spots) se bachte hue. Pragmatic Programmers alag hote hain. Hum apne bugs ko **abhi** dhoondhne ke liye prerit (driven) hote hain, taaki baad mein dusron ke hamare bugs dhoondhne par hamein sharmindagi (shame) na uthani pade.
+
+Bugs dhoondhna kuch-kuch jaal (net) se machli pakadne jaisa hai. Hum chhoti machliyon (minnows) ko pakadne ke liye barik aur chhote jaal (unit tests) ka istemal karte hain, aur badi, khatarnak machliyon (killer sharks) ko pakadne ke liye bade aur mote jaal (integration tests) ka istemal karte hain. Kabhi-kabhi machliyan bach nikalne (escape) mein kamyab ho jati hain, isliye hume jo bhi chhed (holes) milte hain, hum unhe theek (patch) kar dete hain, is umeed mein ki hum apne project pool mein tair rahe aur bhi zyada fisalne wale (slippery) defects ko pakad sakein.
+
+---
+
+> **Tip 62**
+> **Test Early. Test Often. Test Automatically.**
+> (Jaldi Test Karein. Aksar Test Karein. Automatically Test Karein.)
+
+---
+
+Jaise hi hamare paas code hota hai, hum testing shuru karna chahte hain. Un chhoti machliyon ki bahut jaldi badi, aadamkhor (man-eating) sharks banne ki ek buri aadat hoti hai, aur shark ko pakadna kafi mushkil hota hai. Lekin hum yeh saari testing hathon se (by hand) nahi karna chahte.
+
+Kai teams apne projects ke liye bade-bade test plans develop karti hain. Kabhi-kabhi wo unka istemal bhi karte hain. Lekin humne paya hai ki jo teams automated tests ka istemal karti hain, unke kamyab hone ke chances kahin zyada hote hain. Har build ke sath chalne wale tests un test plans se kahin zyada asardaar hote hain jo bas kisi shelf par rakhe rehte hain.
+
+Koi bug jitna jaldi pakda jata hai, use theek karna utna hi sasta hota hai. "Thoda code karein, thoda test karein (Code a little, test a little)" Smalltalk ki duniya mein ek mash-hoor kahawat hai, [6] aur hum is mantra ko apna bana sakte hain production code likhne ke sath-sath (ya usse pehle bhi) test code likh kar.
+
+> [6] eXtreme Programming [ URL 45 ] is concept ko "continuous integration, relentless testing" kehta hai.
+
+Asal mein, ek acche project mein production code se **zyada** test code ho sakta hai. Is test code ko banane mein lagne wala waqt (time) aur mehnat (effort) keemat wasool karte hain. Lambe samay (long run) mein yeh bahut sasta padta hai, aur aap sach mein ek aisa product banane ka mauka paate hain jisme defects lagbhag zero ke barabar hon.
+
+Iske alawa, yeh janna ki aapne test pass kar liya hai, aapko is baat ka ek bada vishwas (confidence) deta hai ki code ka ek hissa "pura" (done) ho gaya hai.
+
+---
+
+> **Tip 63**
+> **Coding Ain't Done 'Til All the Tests Run**
+> (Coding tab tak poori nahi hoti jab tak saare tests chal na jayein)
+
+---
+
+Sirf isliye ki aapne code ka ek tukda likh liya hai (hacking out), iska matlab yeh nahi hai ki aap jakar apne boss ya client ko bata dein ki yeh **ho gaya** hai. Yeh nahi hua hai. Sabse pehli baat, code kabhi bhi poori tarah pura (done) nahi hota. Isse bhi zaroori baat, jab tak yeh sabhi available tests pass nahi kar leta, tab tak aap yeh dawa (claim) nahi kar sakte ki yeh kisi ke bhi istemal karne layaq (usable) hai.
+
+Hamein project-wide testing ke teen mukhya pehluon (aspects) ko dekhna hoga: kya test karna hai, kaise test karna hai, aur kab test karna hai.
+
+**What to Test (Kya Test Karna Hai)**
+
+Software testing ke kai mukhya prakaar (types) hain jo aapko karne hote hain:
+
+* Unit testing
+* Integration testing
+* Validation aur verification
+* Resource exhaustion, errors, aur recovery
+* Performance testing
+* Usability testing
+
+Yeh list kisi bhi tarah se poori (complete) nahi hai, aur kuch khaas projects ko dusre tarah ki testing ki zaroorat bhi padegi. Lekin yeh hamein ek accha starting point deti hai.
+
+**Unit Testing**
+
+Ek **unit test** wo code hota hai jo kisi module ko aazmata (exercises) hai. Humne is topic par *Code That's Easy to Test* (page 189) mein detail mein baat ki thi. Unit testing un dusre sabhi tarah ki testing ki buniyaad (foundation) hai jin par hum is section mein charcha karenge. Agar parts akele mein (by themselves) kaam nahi karte, toh wo ek sath bhi theek se kaam nahi karenge. Isse pehle ki aap aage badhein, aap jin modules ka istemal kar rahe hain, un sabhi ko apne-apne unit tests pass karne honge.
+
+Ek baar jab sabhi zaroori (pertinent) modules apne individual tests pass kar lete hain, toh aap agle stage ke liye taiyar hain. Aapko yeh test karna hoga ki poore system mein sabhi modules ek dusre ka istemal kaise karte hain aur ek dusre ke sath kaise interact karte hain.
+
+**Integration Testing**
+
+**Integration testing** yeh dikhati hai ki project banane wale mukhya subsystems ek dusre ke sath acche se kaam karte hain aur khele (play well) hain. Acche contracts (dekhein *Design by Contract*, page 109) hone aur unke achi tarah test hone par, kisi bhi integration issues ko asani se dhoondha ja sakta hai. Warna, integration bugs ke panapne ki ek upjau zameen (fertile breeding ground) ban jata hai. Asal mein, yeh aksar system mein bugs ka sabse bada source hota hai.
+
+Integration testing asal mein us unit testing ka hi aage ka hissa (extension) hai jise humne describe kiya hai—bas ab aap yeh test kar rahe hain ki poore subsystems apne contracts ka palan (honor) kaise karte hain.
+
+**Validation and Verification (Pushti aur Satyapan)**
+
+Jaise hi aapke paas chalne layaq (executable) user interface ya prototype aa jata hai, aapko ek behad mahatvapurn (all-important) sawal ka jawab dena hoga: users ne aapko bataya tha ki unhe kya chahiye tha, lekin kya yahi wo hai jiski unhe zaroorat (need) hai?
+
+Kya yeh system ki functional requirements ko poora karta hai? Yeh bhi test hona zaroori hai. Ek bug-free system jo galat sawal ka jawab deta ho, wo kisi kaam ka nahi hota. End-user ke access patterns aur wo developer ke test data se kaise alag hote hain, is baat ko lekar satark (conscious) rahein (ek udaharan ke liye, page 92 par brush strokes wali kahani dekhein).
+
+**Resource Exhaustion, Errors, and Recovery (Resources ka Khatam hona, Errors, aur Theek hona)**
+
+Ab jabki aapko ek accha andaza ho gaya hai ki system ideal halaat (ideal conditions) mein sahi se behave karega, toh aapko yeh pata lagana hoga ki yeh **asli duniya** (real-world) ke halaat mein kaisa behave karega. Asli duniya mein, aapke programs ke paas un-ginat (limitless) resources nahi hote; unke paas cheezein khatam ho jati hain (they run out of things). Aapke code ko jin kuch limits ka samna karna pad sakta hai unme shamil hain:
+
+* Memory
+* Disk space
+* CPU bandwidth
+* Wall-clock time (Ghari ka waqt)
+* Disk bandwidth
+* Network bandwidth
+* Color palette
+* Video resolution
+
+Aap shayad disk space ya memory allocation failures ke liye check karein, lekin aap dusron ke liye kitni baar test karte hain? Kya aapki application 640 x 480 screen par 256 colors ke sath fit hogi? Kya yeh 1600 x 1280 screen par 24-bit color ke sath bina postage stamp jaise dikhe chalegi? Kya batch job archive shuru hone se pehle khatam ho jayega?
+
+Aap environmental limitations (mahol ki paabandiyon), jaise ki video specifications, ko detect (pakad) kar sakte hain aur zaroorat ke hisab se apne aap ko dhal (adapt) sakte hain. Halanki, sabhi failures theek hone layaq (recoverable) nahi hote. Agar aapke code ko pata chalta hai ki memory khatam (exhausted) ho gayi hai, toh aapke options mehdood hain: aapke paas fail hone ke alawa aur kuch karne ke liye resources bache hi nahi ho sakte.
+
+Jab system fail hota hai, [7] toh kya yeh grace (tehzeeb/sahi dhang) se fail hoga? Kya yeh apni state save karne aur kaam ke nuksan (loss of work) ko rokne ki poori koshish karega? Ya yeh user ke chehre par "GPF" (General Protection Fault) ya "core-dump" karega?
+
+> [7] Hamare copy editor ne is sentence ko "Agar (If) system fail hota hai...." mein badalne ko kaha. Humne inkar kar diya (resisted). (Kyunki system kabhi na kabhi fail hota hi hai, yeh 'agar' ka sawal nahi hai.)
+
+**Performance Testing**
+
+Performance testing, stress testing, ya load ke under testing bhi project ka ek mahatvapurn (important) pehlu (aspect) ho sakti hai.
+
+Khud se puchein ki kya software asli duniya ke halaat mein performance requirements ko poora karta hai—umeed ke mutabik users ki ginti, connections, ya transactions per second ke sath. Kya yeh scalable (badhane-layak) hai?
+
+Kuch applications ke liye, load ko haqeeqat ke qareeb (realistically) simulate karne (nakal karne) ke liye aapko khaas testing hardware ya software ki zaroorat pad sakti hai.
+
+**Usability Testing (Istemal Karne Layaq Hone Ki Jaanch)**
+
+Usability testing ab tak discuss kiye gaye dusre tarah ke testing se alag hai. Yeh asli users ke sath, asli environmental conditions mein kiya jata hai.
+
+Usability ko human factors (insaani pehluon) ke nazariye se dekhein. Kya requirements analysis ke dauran koi aisi galatfehmi (misunderstandings) hui thi jise theek karne ki zaroorat hai?
+
+Kya software user ko uske haath ke ek hisse (extension of the hand) ki tarah fit aata hai? (Hum na sirf yeh chahte hain ki hamare apne tools hamare hathon mein fit aayein, balki hum yeh bhi chahte hain ki hum users ke liye jo tools banate hain wo unke hathon mein bhi fit aayein.)
+
+Validation aur verification ki tarah hi, aapko usability testing jitna jaldi ho sake karni chahiye, jab galtiyon ko theek karne (corrections) ke liye waqt ho. Bade projects ke liye, aap human factors specialists (insaani pehluon ke experts) ko bulana chahenge. (Agar aur kuch nahi, toh one-way mirrors ke sath khelna mazedar hota hai).
+
+Usability criteria ko poora na kar pana zero se divide karne (dividing by zero) jitna hi bada bug hai.
+
+**How to Test (Test Kaise Karein)**
+
+Humne dekha ki **kya** test karna hai. Ab hum apna dhyan is baat par lagayenge ki test **kaise** karna hai, jisme shamil hain:
+
+* Regression testing
+* Test data
+* Exercising GUI systems
+* Testing the tests (Tests ko test karna)
+* Testing thoroughly (Poori tarah test karna)
+
+---
+
+> **Design/Methodology Testing**
+> Kya aap khud code ke design aur software banane ke liye istemal kiye gaye methodology ko test kar sakte hain? Ek hadd tak (After a fashion), haan aap kar sakte hain. Aap yeh metrics ko analyze karke karte hain—code ke alag-alag pehluon ka map (measurements). Sabse asaan metric (aur aksar sabse kam dilchasp) code ki lambai (lines of code) hai—code khud kitna bada hai?
+> Aise kai dusre metrics hain jinhe aap code ki jaanch karne ke liye istemal kar sakte hain, jisme shamil hain:
+> * McCabe Cyclomatic Complexity Metric (faisle/decision structures ki complexity mapta hai)
+> * Inheritance fan-in (base classes ki ginti) aur fan-out (is class ko parent maan kar bani derived modules ki ginti)
+> * Response set (dekhein *Decoupling and the Law of Demeter*, page 138)
+> * Class coupling ratios (dekhein [ URL 48 ])
+> 
+> 
+> Kuch metrics aapko "passing grade" dene ke liye design kiye gaye hain, jabki dusre sirf tulna (comparison) ke liye upyogi hote hain. Yani, aap system ke har module ke liye in metrics ko calculate karte hain aur dekhte hain ki ek khaas module apne jaise dusron (brethren) ke mukable kahan khada hai. Yahan aam taur par standard statistical takneekon (jaise mean aur standard deviation) ka istemal kiya jata hai.
+> Agar aapko koi aisa module milta hai jiske metrics baaki sab se kafi alag (markedly different) hain, toh aapko khud se poochna chahiye ki kya yeh theek (appropriate) hai. Kuch modules ke liye, "curve todna" (baki sab se alag hona) theek ho sakta hai. Lekin un modules ke liye jinke paas koi accha bahana (excuse) nahi hai, yeh aage ane wali (potential) problems ka ishara ho sakta hai.
+
+---
+
+**Regression Testing**
+
+Ek regression test maujooda test ke output ki tulna (compares) pichle (ya pehle se maalum) values se karta hai. Hum yeh pakka kar sakte hain ki humne aaj jo bugs theek kiye hain, unhone un cheezon ko nahi toda jo kal kaam kar rahi thin. Yeh ek mahatvapurn (important) safety net (suraksha jaal) hai, aur yeh bure surprises ko kam karta hai.
+
+Ab tak humne jin sabhi tests ka zikr kiya hai, unhe regression tests ke roop mein chalaya ja sakta hai, yeh pakka karne ke liye ki naya code develop karte waqt humne kuch piche (lost any ground) nahi chhoda hai. Hum performance, contracts, validity (manyata), ityadi verify karne ke liye regressions chala sakte hain.
+
+**Test Data**
+
+In sabhi tests ko chalane ke liye hamein data kahan se milta hai? Sirf do tarah ka data hota hai: real-world data (asli duniya ka data) aur synthetic data (banawati data). Hamein asal mein dono ka istemal karne ki zaroorat hoti hai, kyunki in alag-alag tarah ke data ki fitrat (natures) hamare software mein alag-alag bugs ko benaqab (expose) karegi.
+
+Real-world data kisi asal source se aata hai. Shayad yeh kisi maujooda system, kisi compititor (muqabla karne wale) ke system, ya kisi tarah ke prototype se ikatha (collected) kiya gaya ho. Yeh aam (typical) user data ko darshata hai. Bade surprises tab aate hain jab aapko pata chalta hai ki **typical** ka matlab kya hai. Isse requirements analysis mein hone wali galtiyon aur galatfehmiyon ka pata chalne ki sabse zyada sambhavna hoti hai.
+
+Synthetic data banawati taur par (artificially) generate kiya jata hai, shayad kuch statistical constraints ke tahat. Aapko niche diye gaye kisi bhi karno se synthetic data ka istemal karne ki zaroorat pad sakti hai.
+
+* Aapko bahut saare data ki zaroorat hai, shayad kisi bhi real-world sample se zyada. Aap shayad real-world data ko ek seed (beej) ke roop mein istemal karke ek bada sample set generate kar sakein, aur un kuch fields ko badal (tweak) sakein jinhe unique (alag) hone ki zaroorat hai.
+* Aapko boundary conditions ko azmane (stress) ke liye data ki zaroorat hai. Yeh data poori tarah se synthetic ho sakta hai: 29 February 1999 wali date fields, bahut bade record sizes, ya ajeeb/foreign postal codes wale addresses.
+* Aapko aise data ki zaroorat hai jo kuch statistical khasiyatein (properties) dikhata ho. Dekhna chahte hain ki kya hoga agar har teesra transaction fail ho jaye? Yaad hai wo sort algorithm jo pehle se sorted (presorted) data milne par rengne (slows to a crawl) lagta hai? Aap is tarah ki kamzori (weakness) ko benaqab karne ke liye data ko random ya sorted kram (order) mein pesh kar sakte hain.
+
+**Exercising GUI Systems (GUI Systems ki Jaanch)**
+
+GUI-intensive (jisme GUI ka bahut istemal ho) systems ki testing ke liye aksar specialized testing tools ki zaroorat hoti hai. Yeh tools ek asaan (simple) event capture/playback model par aadharit ho sakte hain, ya GUI ko chalane ke liye unhe specially likhi gayi scripts ki zaroorat pad sakti hai. Kuch systems dono ke elements ko mila lete hain.
+
+Kam sophisticated (aasan) tools test kiye ja rahe software version aur test script ke beech high degree of coupling ko zabardasti laagu (enforce) karte hain: agar aap kisi dialog box ko move karte hain ya kisi button ko chhota banate hain, toh test shayad use dhoondh na paye, aur fail ho jaye. Zyadatar naye (modern) GUI testing tools is problem se bachne ke liye kai alag-alag takneekon ka istemal karte hain, aur minor (chhote) layout differences ke hisab se khud ko dhalne (adjust) ki koshish karte hain.
+
+Halanki, aap sab kuch automate nahi kar sakte. Andy ne ek graphics system par kaam kiya tha jo user ko aise visual effects (jo pehle se tay nahi the/nondeterministic) banane aur dikhane ki ijazat deta tha jo alag-alag qudrati nazaron (natural phenomena) ki nakal (simulated) karte the. Badkismati se, testing ke dauran aap sirf ek bitmap utha kar output ki tulna pichle run se nahi kar sakte the, kyunki yeh har baar alag dikhne ke liye design kiya gaya tha. Aise halaat mein, aapke paas test results ki apni samajh se (manual interpretation) jaanch karne ke alawa koi chara nahi hota.
+
+Decoupled (alag) code likhne ke kai faydon mein se ek (*Decoupling and the Law of Demeter*, page 138 dekhein) zyada modular testing hai. Misaal ke taur par, aisi data processing applications ke liye jinka ek GUI front end hota hai, aapka design itna decoupled hona chahiye ki aap GUI ke **bina** application logic ko test kar sakein. Yeh idea apne subcomponents ko pehle test karne jaisa hi hai. Ek baar application logic validate ho jane ke baad, user interface lagne par dikhne wale bugs ko dhoondhna (locate) asaan ho jata hai (is baat ki kafi sambhavna hai ki wo bugs user-interface code ki wajah se aaye hain).
+
+**Testing the Tests (Tests ko Test Karna)**
+
+Kyunki hum perfect software nahi likh sakte, iska matlab hai ki hum perfect test software bhi nahi likh sakte. Hamein tests ko bhi test karna hoga.
+
+Apne test suites ke set ko ek shaandar (elaborate) security system ki tarah sochein, jo kisi bug ke dikhne par alarm bajane ke liye design kiya gaya ho. Kisi security system ko test karne ka isse behtar tareeqa kya hoga ki usme sendh marne (break in) ki koshish ki jaye?
+
+Kisi khaas bug ko pakadne (detect) ke liye ek test likhne ke baad, jaan-bujh kar (deliberately) us bug ko **paida karein (cause)** aur pakka karein ki test us par shikayat kare (complains/fail ho). Yeh pakka karta hai ki test bug ko pakdega agar wo sach mein kabhi hota hai.
+
+---
+
+> **Tip 64**
+> **Use Saboteurs to Test Your Testing**
+> (Apni Testing Ko Test Karne Ke Liye Saboteurs Ka Istemal Karein)
+
+---
+
+Agar aap testing ko lekar **sach mein** serious (sanjeeda) hain, toh aap ek **project saboteur** (jaan-bujhkar nuksaan pahunchane wala) niyukt kar sakte hain. Saboteur ka kaam (role) source tree ki ek alag copy lena, jaan-bujhkar (on purpose) bugs dalna, aur yeh verify karna hai ki tests unhe pakdenge.
+
+Tests likhte waqt, yeh pakka karein ki alarms tab bajein jab unhe bajna chahiye.
+
+**Testing Thoroughly (Poori Tarah Test Karna)**
+
+Ek baar jab aapko yakeen (confident) ho jata hai ki aapke tests sahi hain, aur aap jo bugs banate hain unhe dhoondh rahe hain, toh aapko kaise pata chalega ki aapne code base ko poori tarah (thoroughly) test kar liya hai?
+
+Iska asaan (short) jawab yeh hai ki "aapko nahi pata chalega," aur na kabhi pata chalega. Lekin market mein aise products hain jo madad kar sakte hain. Yeh **coverage analysis** tools testing ke dauran aapke code par nazar rakhte hain aur is baat ka hisab rakhte hain ki code ki kaun si lines execute (chali) hui hain aur kaun si nahi. Yeh tools aapko ek general andaza (feel) dene mein madad karte hain ki aapki testing kitni comprehensive (poori/gehari) hai, lekin 100% coverage dekhne ki umeed na karein.
+
+Bhale hi aap code ki har line ko hit karne (chalane) mein kamyab ho jayein, yeh poori tasveer (whole picture) nahi hai. Jo **mahatvapurn** hai wo un states (sthitio) ki ginti hai jo aapke program ki ho sakti hain. States lines of code ke barabar nahi hoti hain. Misaal ke taur par, maan lijiye aapke paas ek function hai jo do integers (number) leta hai, jinme se har ek 0 se 999 tak ka number ho sakta hai.
+
+```c
+int do_math(int a, int b) {
+    return a / (a + b);
+}
+
+```
+
+Theory mein, is teen-line ke function mein 1,000,000 logical states hain, jinme se 999,999 sahi se kaam karengi aur ek aisi hogi jo kaam nahi karegi (jab `a + b` zero ke barabar hoga). Sirf yeh janna ki aapne is code line ko chalaya hai, aapko yeh nahi batata—aapko program ki sabhi mumkin states (possible states) ko pehchanna hoga. Badkismati se, aam taur par yeh ek **bahut hi mushkil (really hard)** problem hai. Itni mushkil ki, "Isse pehle ki aap ise solve kar payein, suraj ek thanda sakht dher ban chuka hoga."
+
+---
+
+> **Tip 65**
+> **Test State Coverage, Not Code Coverage**
+> (Code Coverage Nahi, State Coverage Test Karein)
+
+---
+
+Acche code coverage ke bawajood, testing ke liye aap jo data istemal karte hain uska abhi bhi bahut bada asar hota hai, aur, isse bhi mahatvapurn baat, jis **kram (order)** mein aap code se guzarte hain uska asar sabse bada ho sakta hai.
+
+**When to Test (Kab Test Karein)**
+
+Kai projects testing ko aakhiri minute tak chhodne ki taraf jhukte hain—theek wahan jahan ise deadline ki tez dhar se kata (cut) jayega. [8] Hamein isse kahin zyada jaldi shuru karne ki zaroorat hai. Jaise hi koi production code banta (exists) hai, ise test kiya jana chahiye.
+
+> [8] **dead.line** n (1864) kisi jail ke andar ya uske aas-paas khinchi gayi ek line jise koi qaidi paar kare toh use goli maari ja sakti hai—*Webster's Collegiate Dictionary.*
+
+Zyada-tar testing automatically ki jani chahiye. Yeh dhyan rakhna zaroori hai ki "automatically" se hamara matlab hai ki test ke **nateejon (results)** ki samajh (interpreted) bhi automatically hoti hai. Is vishay (subject) par aur janne ke liye *Ubiquitous Automation*, page 230 dekhein.
+
+Hum jitni baar mumkin ho test karna pasand karte hain, aur source repository mein code check-in karne se pehle hamesha. Kuch source code control systems, jaise Aegis, yeh automatically kar sakte hain. Warna, hum bas type karte hain
+
+`% make test`
+
+Aam taur par, sabhi individual unit tests aur integration tests par zaroorat ke hisab se jitni baar bhi regressions chalane mein koi problem nahi hoti.
+
+Lekin kuch tests itni jaldi-jaldi asani se nahi chalaye ja sakte. Stress tests, misaal ke taur par, khaas setup ya equipment (saaman), aur kuch madad (hand holding) ki zaroorat ho sakti hai. Yeh tests kam baar chalaye ja sakte hain—hafte mein (weekly) ya mahine mein (monthly) ek baar, shayad. Lekin yeh zaroori hai ki wo ek regular, tay shuda (scheduled) basis par chalaye jayein. Agar yeh automatically nahi kiya ja sakta, toh yeh pakka karein ki yeh schedule mein shamil ho, aur is kaam (task) ke liye sabhi zaroori resources allocated (diye gaye) hon.
+
+**Tightening the Net (Jaal Ko Khasna)**
+
+Aakhir mein, hum testing mein sabse mahatvapurn (single most important) concept ko zahir (reveal) karna chahenge. Yeh ek bahut hi saaf (obvious) concept hai, aur lagbhag har kitab yahi kehti hai ki isey is tarah se karo. Lekin kisi wajah se, zyada-tar projects abhi bhi aisa nahi karte.
+
+Agar koi bug maujooda tests ke jaal (net) se nikal (slips) jata hai, toh aapko agli baar use phasaane (trap) ke liye ek naya test jodna hoga.
+
+---
+
+> **Tip 66**
+> **Find Bugs Once**
+> (Bugs Ko Ek Baar Dhoondhein)
+
+---
+
+Ek baar jab koi human tester (insaan) koi bug dhoondh leta hai, toh yeh **aakhiri baar** hona chahiye jab koi insaan us bug ko dhoondhe. Uske baad se automated tests ko us khaas bug ko check karne ke liye modify (badla) kiya jana chahiye, har baar, bina kisi chhoot (exceptions) ke, chahe wo kitna hi mamuli (trivial) kyun na ho, aur chahe developer kitni bhi shikayat kare aur kahe, "Oh, yeh dubara kabhi nahi hoga."
+
+Kyunki yeh dubara hoga. Aur hamare paas un bugs ke piche bhagne ka waqt nahi hai jinhe automated tests hamare liye dhoondh sakte the. Hamein apna waqt naya code—aur naye bugs—likhne mein bitana hai.
+
+**Related sections include:**
+
+* The Cat Ate My Source Code, page 2
+* Debugging, page 90
+* Decoupling and the Law of Demeter, page 138
+* Refactoring, page 184
+* Code That's Easy to Test, page 189
+* Ubiquitous Automation, page 230
+
+**Challenges (Chunautiyan)**
+
+* Kya aap apne project ko automatically test kar sakte hain? Kai teams ko "nahi" kehne par majboor hona padta hai. Kyun? Kya acceptable (manzoor) results tay karna bahut mushkil hai? Kya isse sponsors ko yeh saabit karna mushkil nahi ho jayega ki project "poora" (done) ho gaya hai?
+* Kya GUI ke bina application logic ko test karna bahut mushkil hai? Yeh GUI ke baare mein kya batata hai? Coupling ke baare mein?
