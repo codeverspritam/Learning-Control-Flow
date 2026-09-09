@@ -4730,3 +4730,112 @@ Developers ko testing se zyada agar kisi cheez se nafrat hai toh wo hai document
 Kamyabi dekhne wale ki aankh mein hoti hai—yani project ke sponsor ki. Kamyabi ka nazariya (perception of success) hi asal mein mayne rakhta hai, aur *Great Expectations* mein hum aapko har project ke sponsor ko khush (delight) karne ki kuch tricks dikhayenge.
 
 Kitab ki aakhiri tip baaki sabhi tips ka hi ek seedha nateeja (direct consequence) hai. *Pride and Prejudice* mein, hum aapko apne kaam par apne dastakhat (sign) karne, aur aap jo karte hain us par garv (pride) karne ke liye prerit (encourage) karte hain.
+
+#### 41. Pragmatic Teams (Vyavaharik Teams)
+
+> "Group L mein, Stoffel chhah (six) first-rate programmers ki nigrani (oversees) karti hain, jo ki ek aisi managerial chunauti hai jise billiyon ka jhund charane (herding cats) ke barabar mana ja sakta hai."
+> — ***The Washington Post Magazine*, June 9, 1985**
+
+Is kitab mein ab tak humne un pragmatic takneekon ko dekha hai jo ek akele insaan ko behtar programmer banne mein madad karti hain. Kya yeh tareeqe (methods) teams ke liye bhi kaam kar sakte hain?
+
+Iska jawab ek zor-daar (resounding) "haan!" hai. Ek pragmatic insaan hone ke fayde toh hain, lekin yeh fayde kai guna (manyfold) badh jate hain agar wo insaan ek pragmatic team mein kaam kar raha ho.
+
+Is section mein hum mukhtasar taur par (briefly) dekhenge ki pragmatic takneekon ko poori team par kaise laagu (applied) kiya ja sakta hai. Yeh notes sirf ek shuruat hain. Ek baar jab aapke paas ek enabling (sahara dene wale) environment mein kaam karne wale pragmatic developers ka ek group ho, toh wo jaldi hi apne khud ke team dynamics develop aur refine kar lenge jo unke liye kaam karte hain.
+
+Aaiye pichle kuch sections ko teams ke nazariye (terms) se dobara dekhte hain (recast).
+
+**No Broken Windows (Koi Tooti Khidki Nahi)**
+
+Quality ek team ka mudda (issue) hai. Ek aisi team mein rakhe gaye sabse mehnati (diligent) developer, jise bas koi parwah nahi hai, ke liye un chhoti-chhoti (niggling) problems ko theek karne ke liye zaroori josh (enthusiasm) banaye rakhna mushkil hoga. Problem aur bhi badtar (exacerbated) ho jati hai agar team actively developer ko in fixes par waqt bitane se rokti (discourages) hai.
+
+Teams ko ek sath milkar tooti khidkiyon—wo choti-chhoti khamiyan (imperfections) jinhe koi theek nahi karta—ko bardasht (tolerate) nahi karna chahiye. Team ko product ki quality ki zimmedari leni **hi chahiye**, un developers ko support karte hue jo us *no broken windows* philosophy ko samajhte hain jise hum *Software Entropy* (page 4) mein describe karte hain, aur unhe encourage karte hue jinhone ise abhi tak dhoondha nahi hai.
+
+Kuch team methodologies mein ek *quality officer* hota hai—koi aisa shakhs jise team deliverable ki quality ki zimmedari saunp (delegates) deti hai. Yeh zahir taur par bewaqoofi (ridiculous) hai: quality sirf **sabhi** team members ke vyaktigat yogdaan (individual contributions) se hi aa sakti hai.
+
+**Boiled Frogs (Uble hue Medhak)**
+
+*Stone Soup and Boiled Frogs* (page 7) mein, pani ke bartan mein us bechare medhak ko yaad karein? Wo apne environment mein aane wale dhime (gradual) badlaav ko notice nahi karta, aur aakhir mein ubal (cooked) jata hai. Yahi un logon ke saath bhi ho sakta hai jo satark (vigilant) nahi rehte. Project development ki garma-garmi (heat) mein apne overall environment par nazar rakhna mushkil ho sakta hai.
+
+Poori team ke liye ek sath ubal jana toh aur bhi asaan hai. Log yeh maan lete hain (assume) ki koi aur kisi mudde (issue) ko handle kar raha hai, ya ki team leader ne us badlaav ko okay kar diya hoga jo aapka user maang raha hai. Yahan tak ki sabse acche irade (best-intentioned) wali teams bhi apne projects mein hone wale bade (significant) badlaavon se anjaan (oblivious) ho sakti hain.
+
+Iske khilaf ladein. Yeh pakka karein ki har koi actively environment mein aane wale badlaavon par nazar rakhe (monitors). Shayad ek *chief water tester* niyukt (appoint) karein. Is shakhs se lagatar badhe hue scope, kam hue waqt (time scales), additional features, naye environments—kuch bhi jo shuruati samjhaute (original agreement) mein nahi tha—check karwayein. Nayi requirements par metrics rakhein (page 209 dekhein). Team ko fauran badlaavon ko kharij (reject) karne ki zaroorat nahi hai—aapko bas is baat se waqif (aware) hone ki zaroorat hai ki wo ho rahe hain. Warna, us garam pani mein **aap** honge.
+
+**Communicate (Baat-Cheet Karein)**
+
+Yeh zahir hai ki ek team mein developers ko ek dusre se baat karni chahiye. Humne *Communicate!* (page 18) mein is kaam ko asaan banane (facilitate) ke liye kuch sujhaav diye the. Halanki, yeh bhoolna asaan hai ki organization ke andar team ki khud ki bhi ek pehchaan (presence) hoti hai. Ek entity ke taur par team ko baaki duniya ke saath saaf taur par (clearly) communicate karne ki zaroorat hoti hai.
+
+Bahar walon (outsiders) ke liye, sabse buri project teams wo hoti hain jo udaas (sullen) aur kam bolne wali (reticent) lagti hain. Wo aisi meetings karte hain jinka koi structure nahi hota, jahan koi baat nahi karna chahta. Unke documents ek mess hote hain: koi bhi do ek jaise nahi dikhte, aur har ek alag terminology istemal karta hai.
+
+Behtareen project teams ki ek alag pehchaan (distinct personality) hoti hai. Log unke saath meetings ka intezar karte hain, kyunki wo jante hain ki unhe ek achi tarah se taiyar ki gayi performance dekhne ko milegi jisse sabko accha mehsoos hota hai. Jo documentation wo produce karte hain wo saaf (crisp), sateek (accurate), aur consistent (ek-jaisa) hota hai. Team ek aawaz mein baat karti hai. [1]
+
+> [1] Unme shayad sense of humor bhi ho. (Neeche footnote: Team bahar ek aawaz mein baat karti hai. Andar, hum zinda-dil, thos behas ko bahot zor dete hain. Acche developers apne kaam ko lekar passionate hote hain.)
+
+Ek simple marketing trick hai jo teams ko ek hokar communicate karne mein madad karti hai: ek **brand** banayein. Jab aap koi project shuru karte hain, toh uske liye ek naam sochein, adarsh roop se kuch ajeeb/alag (off-the-wall). (Pichle waqt mein, humne projects ke naam aisi cheezon par rakhe hain jaise bhedon ka shikar karne wale killer tote/parrots, aankhon ke dhokhe/optical illusions, aur farzi shehar/mythical cities.) 30 minute nikal kar ek mazakiya (zany) logo banayein, aur isey apne memos aur reports par istemal karein. Logon se baat karte waqt apni team ka naam khul kar (liberally) istemal karein. Yeh bewaqoofi (silly) lagta hai, lekin yeh aapki team ko aage badhne ke liye ek identity deta hai, aur duniya ko aapke kaam ke saath jodne ke liye kuch yaadgaar deta hai.
+
+**Don't Repeat Yourself (Khud ko Dohrayein Nahi)**
+
+*The Evils of Duplication* (page 26) mein, humne ek team ke members ke beech hone wale duplicated kaam ko khatam karne ki mushkilon par baat ki thi. Yeh duplication mehnat ki barbadi karta hai, aur ek maintenance nightmare ka sabab ban sakta hai. Zahir hai accha communication yahan madad kar sakta hai, lekin kabhi-kabhi kisi extra cheez ki zaroorat hoti hai.
+
+Kuch teams ek member ko **project librarian** niyukt (appoint) karti hain, jo documentation aur code repositories ko coordinate karne ke liye zimmedar hota hai. Team ke dusre members jab kuch dhoondh rahe hon toh is shakhs ko apne pehle contact (first port of call) ke taur par istemal kar sakte hain. Ek accha librarian jo material wo handle kar raha hai use padh kar aane wali duplication ko bhi pehchaan sakega.
+
+Jab project ek librarian ke liye bahut bada ho (ya jab koi yeh role nahi nibhana chahta ho), toh logon ko kaam ke alag-alag functional pehluon (aspects) ke liye **focal points** niyukt karein. Agar log date handling par baat karna chahte hain, toh unhe pata hona chahiye ki unhe Mary se baat karni hai. Agar koi database schema ka mudda (issue) hai, toh Fred se milein.
+
+Aur questions aur answers ko communicate karne aur archive (save) karne ke liye groupware systems aur local Usenet newsgroups ki keemat ko na bhoolein.
+
+**Orthogonality (Seedhapan/Azaadi)**
+
+Traditional team organization software construction ke purane waterfall method par aadharit hoti hai. Individuals ko unke job function ke aadhar par roles saunpe (assigned) jate hain. Aapko business analysts, architects, designers, programmers, testers, documenters, ityadi milenge. [2] Yahan ek chhipi hui (implicit) hierarchy hoti hai—aapko user ke jitna kareeb jane ki ijazat hoti hai, aap utne hi senior hote hain.
+
+> [2] *The Rational Unified Process: An Introduction* mein, author ek project team ke andar 27 alag-alag roles pehchante hain! [ Kru98 ]
+
+Cheezon ko inteha (extreme) tak le jate hue, kuch development cultures zimmedari ko sakhti se baantne (strict divisions) ka niyam banati hain; coders ko testers se baat karne ki ijazat nahi hoti, jinhe aage chief architect se baat karne ki ijazat nahi hoti, ityadi. Kuch organizations is problem ko aur bada (compound) deti hain alag-alag subteams ko alag-alag management chains ke zariye report karwa kar.
+
+Yeh sochna ek galti hai ki ek project ki activities—analysis, design, coding, aur testing—akele mein (in isolation) ho sakti hain. Wo nahi ho sakti. Yeh ek hi problem ke alag-alag nazariye (views) hain, aur unhe banawati (artificially) dhang se alag karne se dher saari pareshaniyan (boatload of trouble) khadi ho sakti hain. Wo programmers jo apne code ke asli users se do ya teen level door hain, unke liye is baat se waqif hone ki sambhavna kam hoti hai ki unka kaam kis context (sandarbh) mein istemal ho raha hai. Wo soche-samjhe faisle (informed decisions) lene ke kabil nahi honge.
+
+---
+
+> **Tip 60**
+> **Organize Around Functionality, Not Job Functions**
+> (Kaam ke aadhar par nahi, Functionality ke aadhar par Organize karein)
+
+---
+
+Hum teams ko functionality ke hisab se baantne (splitting) ke haq mein hain. Apne logon ko chhoti teams mein baantein, har team final system ke kisi khaas functional pehlu (aspect) ke liye zimmedar ho. Teams ko internally khud ko organize karne dein, individual strengths (taqaton) par aage badhte hue jaisa wo kar sakte hain. Har team ki project mein dusron ke prati zimmedariyan hoti hain, jaisa ki unke agreed-upon commitments (tay kiye gaye wadon) dwara bataya gaya hai. Commitments ka theek-theek set har project ke saath badalta hai, theek waise hi jaise logon ka teams mein batna (allocation).
+
+Yahan functionality ka matlab end-user ke use cases hona zaroori nahi hai. Database access layer bhi mayne (counts) rakhti hai, aur help subsystem bhi. Hum logon ki cohesive, kaafi hadd tak self-contained (apne aap mein poori) teams dhoondh rahe hain—bilkul wahi criteria jo hamein code ko modularize karte waqt istemal karna chahiye. Aise warning signs (ishare) hote hain jo batate hain ki team organization galat hai—ek classic example yeh hai ki do subteams ek hi program module ya class par kaam kar rahi hon.
+
+Organization ka yeh functional style kaise madad karta hai? Apne resources ko unhi takneekon ka istemal karke organize karein jinka istemal hum code ko organize karne ke liye karte hain, contracts (*Design by Contract*, page 109), decoupling (*Decoupling and the Law of Demeter*, page 138), aur orthogonality (*Orthogonality*, page 34) jaisi takneekon ka istemal karke, aur hum team ko poori tarah badlaav ke asar se bachane (isolate) mein madad karte hain. Agar user achanak database vendor badalne ka faisla karta hai, toh sirf database team par asar padna chahiye. Agar marketing achanak calendar function ke liye koi bana-banaya (off-the-shelf) tool istemal karne ka faisla kare, toh calendar group ko jhatka (takes a hit) lagta hai. Theek se chalane (executed) par, is tarah ki group approach individuals ke kaam ke beech aapas ki baat-cheet (interactions) ko kaafi kam kar sakti hai, waqt bacha sakti hai, quality bada sakti hai, aur galtiyon (defects) ko kam kar sakti hai. Yeh approach developers ke ek zyada committed set ki taraf bhi le ja sakti hai. Har team janti hai ki sirf wahi kisi khaas function ke liye zimmedar hai, isliye wo apne output par zyada malikana haq (ownership) mehsoos karte hain.
+
+Halanki, yeh approach sirf responsible developers aur mazboot project management ke saath hi kaam karti hai. Azaad (autonomous) teams ka ek group (pool) banana aur unhe bina kisi leader ke khula chhod dena barbadi ka rasta (recipe for disaster) hai. Project ko kam se kam do "heads" (sar/mukhya) ki zaroorat hoti hai—ek technical, dusra administrative. Technical head development philosophy aur style tay karta hai, teams ko zimmedariyan saunpta hai, aur logon ke beech hone wali tay (inevitable) "discussions" mein madhyasthata (arbitrates) karta hai. Technical head lagatar badi tasveer (big picture) ko bhi dekhta rehta hai, teams ke beech koi aisi be-wajah (unnecessary) common cheez dhoondhne ki koshish karta hai jo overall effort ki orthogonality ko kam kar sakti hai. Administrative head, ya project manager, teams ki zaroorat ke hisab se resources tay karta hai (schedules), progress ko monitor karta hai aur us par report karta hai, aur business needs ke hisab se priorities tay karne mein madad karta hai. Administrative head bahari duniya ke saath communicate karte waqt team ke rajdoot (ambassador) ke roop mein bhi kaam kar sakta hai.
+
+Bade projects par teams ko extra resources ki zaroorat hoti hai: ek librarian jo code aur documentation ko index aur store karta hai, ek tool builder jo common tools aur environments deta hai, operational support, ityadi.
+
+Is tarah ki team organization apni rooh (spirit) mein purane chief programmer team concept se milti-julti hai, jise pehli baar 1972 mein document kiya gaya tha [ Bak72 ].
+
+**Automation (Swachalit/Khud-ba-khud Hona)**
+
+Consistency aur sateekta (accuracy) dono ko pakka karne ka ek behtareen tareeqa team jo kuch bhi karti hai use automate karna hai. Code ko manually kyun layout karein jab aapka editor type karte waqt ise automatically kar sakta hai? Test forms kyun bharein jab overnight build automatically tests run kar sakta hai?
+
+Automation har project team ka ek bahut zaroori (essential) hissa hai—itna mahatvapurn ki hum agle page se is par ek poora section samarpit (dedicate) kar rahe hain. Yeh pakka karne ke liye ki cheezein automate hon, ek ya ek se zyada team members ko **tool builders** ke roop mein niyukt karein jo project ki mehnat (drudgery) ko automate karne wale tools banayein (construct) aur unka istemal karein (deploy). Unse makefiles, shell scripts, editor templates, utility programs, aur is tarah ki cheezein banwayein.
+
+**Know When to Stop Adding Paint (Janein Ki Rang Jodna Kab Band Karna Hai)**
+
+Yaad rakhein ki teams individuals (vyaktiyon) se banti hain. Har member ko apne tareeqe se chamakne (shine) ki ijazat dein. Unhe support karne ke liye aur yeh pakka karne ke liye ki project apni requirements ke hisab se deliver kare, bas utna hi structure dein jitna zaroori ho. Phir, *Good-Enough Software* (page 11) ke painter ki tarah, aur paint jodne ki lalach (temptation) se bachein.
+
+**Related sections include:**
+
+* Software Entropy, page 4
+* Stone Soup and Boiled Frogs, page 7
+* Good-Enough Software, page 9
+* Communicate!, page 18
+* The Evils of Duplication, page 26
+* Orthogonality, page 34
+* Design by Contract, page 109
+* Decoupling and the Law of Demeter, page 138
+* Ubiquitous Automation, page 230
+
+**Challenges (Chunautiyan)**
+
+* Software development ke field se bahar kamyaab (successful) teams ko dhoondhein. Unhe kya cheez kamyaab banati hai? Kya wo is section mein discuss kiye gaye kisi processes ka istemal karte hain?
+* Agli baar jab aap koi project shuru karein, toh logon ko ise brand karne ke liye manane (convincing) ki koshish karein. Apni organization ko is idea ki aadat dalne ke liye waqt dein, aur phir yeh dekhne ke liye ek jaldi se audit karein ki isse team ke andar aur bahar kya farq (difference) aaya.
+* **Team Algebra:** School mein, hamein aisi problems di jati hain jaise "Agar 4 mazdooron ko ek gaddha khodne mein 6 ghante lagte hain, toh 8 mazdooron ko kitna waqt lagega?" Halanki, asli zindagi (real life) mein, kaun se factors is sawal ke jawab ko asar dalte hain: "Agar 4 programmers ko ek application develop karne mein 6 mahine lagte hain, toh 8 programmers ko kitna waqt lagega?" Kitne scenarios (halaat) mein waqayi waqt kam ho jata hai?
