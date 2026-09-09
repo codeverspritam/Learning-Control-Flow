@@ -4710,3 +4710,23 @@ Development mein formal methods ki jagah zaroor hai. Halanki, agar aapko koi ais
 * Aap yeh kaise bata sakte hain ki koi formal method aapki team ko fayda pahuncha raha hai ya nahi? Aap kya naap (measure) sakte hain? Kis cheez ko improvement (sudhaar) mana jayega? Kya aap tool ke faydon aur team members ke badhe hue tajurbe (increased experience) ke beech ka farq (distinguish) bata sakte hain?
 * Apni team mein naye methods introduce karne ke liye break-even point (wapas barabar aane ka point) kahan hai? Jab tool laya jata hai toh aap aage aane wale faydon (future benefits) aur filhal productivity mein hone wale nuksaan ke beech ke saude (trade-off) ka andaza (evaluate) kaise lagate hain?
 * Kya bade projects ke liye kaam karne wale tools chhote projects ke liye bhi acche hote hain? Iska ulta (other way around) kaisa rahega?
+
+---
+
+### Chapter 8
+
+### Pragmatic Projects (Vyavaharik Projects)
+
+Jaise hi aapka project shuru hota hai, hamein individual (vyaktigat) philosophy aur coding ke muddon se aage badhkar, bade aur project-level ke muddon par baat karne ki zaroorat hoti hai. Hum project management ki baarikiyon (specifics) mein gehrai tak nahi jayenge, lekin hum kuch aise mahatvapurn (critical) kshetron par baat karenge jo kisi bhi project ko bana ya bigad (make or break) sakte hain.
+
+Jaise hi kisi project par ek se zyada log kaam karne lagte hain, aapko kuch buniyaadi niyam (ground rules) tay karne aur project ke hisson ko usi ke hisab se baantne (delegate) ki zaroorat hoti hai. *Pragmatic Teams* mein, hum dikhayenge ki pragmatic philosophy ka samman karte hue yeh kaise karna hai.
+
+Project-level ki activities ko lagatar (consistently) aur bharosemand dhang se (reliably) chalane ka sabse mahatvapurn factor apni procedures ko automate karna hai. Hum batayenge ki aisa kyun hai, aur *Ubiquitous Automation* mein asli duniya ke kuch examples dikhayenge.
+
+Pehle, humne code karte waqt testing ke baare mein baat ki thi. *Ruthless Testing* mein, hum project-wide testing philosophy aur tools ke agle kadam par jayenge—khaas taur par tab jab aapke paas aapke ek ishare par kaam karne wala (at your beck and call) ek bada QA staff na ho.
+
+Developers ko testing se zyada agar kisi cheez se nafrat hai toh wo hai documentation. Chahe technical writers aapki madad kar rahe hon ya aap ise khud kar rahe hon, *It's All Writing* mein hum aapko dikhayenge ki is kaam (chore) ko kam takleef-deh (painful) aur zyada utpadak (productive) kaise banaya jaye.
+
+Kamyabi dekhne wale ki aankh mein hoti hai—yani project ke sponsor ki. Kamyabi ka nazariya (perception of success) hi asal mein mayne rakhta hai, aur *Great Expectations* mein hum aapko har project ke sponsor ko khush (delight) karne ki kuch tricks dikhayenge.
+
+Kitab ki aakhiri tip baaki sabhi tips ka hi ek seedha nateeja (direct consequence) hai. *Pride and Prejudice* mein, hum aapko apne kaam par apne dastakhat (sign) karne, aur aap jo karte hain us par garv (pride) karne ke liye prerit (encourage) karte hain.
