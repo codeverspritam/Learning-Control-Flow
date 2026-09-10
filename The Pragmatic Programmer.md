@@ -5405,3 +5405,68 @@ Documentation aur code ek hi buniyaadi (underlying) model ke alag-alag views hai
 
 * Kya aapne abhi-abhi likhe gaye source code ke liye ek samjhane wala (explanatory) comment likha? Kyun nahi? Kya waqt ki kami (Pressed for time) thi? Kya aapko pakka pata nahi hai ki code sach mein kaam karega ya nahi—kya aap bas ek prototype ke roop mein ek idea try kar rahe hain? Aap baad mein is code ko phek denge, haina? Yeh project mein bina comment ke aur bina test ke (experimental) toh nahi chala jayega, kya aisa hoga?
 * Kabhi-kabhi source code ke design ko document karna ajeeb (uncomfortable) lagta hai kyunki design aapke dimaag mein saaf nahi hai; yeh abhi bhi ban raha (evolving) hai. Aapko nahi lagta ki jab tak koi cheez waqayi kaam na kare, tab tak aapko is baat ko describe karne mein mehnat barbad karni chahiye ki wo kya karti hai. Kya yeh programming by coincidence (page 172) jaisa lagta hai?
+
+#### 45. Great Expectations (Badi Umeedein)
+
+> "Aasmaan walon, is par hairan ho jao, aur buri tarah dar jao..."
+> — **Jeremiah 2:12**
+
+Ek company record profits announce karti hai, aur uske share ki keemat 20% gir jati hai. Raat ko financial news samjhati hai ki company analysts ki umeedon (expectations) par khari nahi utri. Ek baccha mehanga Christmas present kholta hai aur rone lagta hai—yeh wo sasti doll nahi thi jiski bacche ko umeed thi. Ek project team ek behad complex application banane ke liye chamatkar (miracles) karti hai, lekin users use nakar (shunned) dete hain kyunki usme koi help system nahi hai.
+
+Khayali (abstract) taur par dekhein toh, ek application tab kamyaab hoti hai jab wo apni specifications ko sahi dhang se implement karti hai. Badkismati se, yeh sirf khayali bills hi chukata hai.
+
+Asliyat mein, kisi project ki kamyabi is baat se maapi jati hai ki wo apne users ki *umeedon (expectations)* ko kitne ache se poora karta hai. Ek project jo unki umeedon se niche reh jata hai, use nakaam (failure) maana jata hai, chahe deliverable apne aap mein kitna hi accha kyun na ho. Halanki, sasti doll ki umeed karne wale bacche ke maa-baap ki tarah, agar aap hadd se zyada aage chale jayenge, toh bhi aap nakaam hi honge.
+
+---
+
+> **Tip 69**
+> **Gently Exceed Your Users' Expectations**
+> (Apne Users Ki Umeedon Se Thoda Aage Niklein)
+
+---
+
+Halanki, is tip ko laagu (execute) karne mein thodi mehnat lagti hai.
+
+**Communicating Expectations (Umeedon Ko Communicate Karna)**
+
+Users shuru mein aapke paas is baat ka ek vision lekar aate hain ki unhe kya chahiye. Yeh adhoora (incomplete), asangat (inconsistent), ya technically namumkin ho sakta hai, lekin yeh *unka* hai, aur Christmas wale bacche ki tarah, unke jazbaat (emotion) isme jude hote hain. Aap isey bas ignore nahi kar sakte.
+
+Jaise-jaise unki zarooraton ko lekar aapki samajh badhti hai, aapko aise areas milenge jahan unki umeedein poori nahi ki ja saktin, ya jahan unki umeedein shayad kuch zyada hi conservative (kam) hain. Aapke role ka ek hissa isey communicate karna hai. Apne users ke sath milkar kaam karein taaki aap jo deliver karne wale hain, use lekar unki samajh bilkul sahi (accurate) ho. Aur development process ke dauran yeh lagatar karte rahein. Un business problems ko kabhi na bhoolein jinhe aapki application solve karne wali hai.
+
+Kuch consultants is process ko "managing expectations" (umeedon ko manage karna) kehte hain—yani users ko unke systems se kya umeed rakhni chahiye, isey actively control karna. Hamein lagta hai ki yeh thoda ahankari (elitist) nazariya hai. Hamara kaam apne users ki umeedon ko control karna nahi hai. Iske bajaye, hamein unke sath milkar development process aur final deliverable ko lekar ek aam samajh (common understanding) par aana chahiye, aur sath hi un umeedon par bhi baat karni chahiye jo unhone abhi tak bol kar nahi batai (verbalized) hain. Agar team bahari duniya ke sath theek se (fluently) communicate kar rahi hai, toh yeh process lagbhag automatic ho jata hai; har kisi ko yeh samajh aana chahiye ki kya umeed ki ja rahi hai aur ise kaise banaya jayega.
+
+Is process ko aasan (facilitate) banane ke liye kuch mahatvapurn takneekein istemal ki ja sakti hain. Inme se, *Tracer Bullets* (page 48) aur *Prototypes and Post-it Notes* (page 53) sabse zaroori hain. Dono hi team ko kuch aisa banane deti hain jise user dekh sake. Dono hi unki requirements ki aapki samajh ko communicate karne ke behtareen (ideal) tareeqe hain. Aur dono hi aapko aur aapke users ko ek dusre ke sath communicate karne ki practice karne dete hain.
+
+**The Extra Mile (Ek Kadam Aage Badhna)**
+
+Agar aap apne users ke sath milkar (closely) kaam karte hain, unki umeedein share karte hain aur aap jo kar rahe hain use communicate karte hain, toh project deliver hote waqt shayad hi koi surprise hoga.
+
+Yeh ek BURI BAAT (BAD THING) hai. Apne users ko surprise karne ki koshish karein. Dhyan rahe, unhe darana (scare) nahi hai, balki unhe **khush (delight)** karna hai.
+
+Unhe umeed se thoda sa zyada dein. System mein kuch user-oriented feature jodne ke liye jo thodi si extra mehnat lagti hai, wo baar-baar goodwill (achi sakh) ke roop mein apna faida khud degi.
+
+Project ke aage badhne par apne users ko sunein taaki aapko ishare (clues) mil sakein ki kaun se features sach mein unhe khush (delight) karenge. Kuch cheezein jo aap asani se jod sakte hain aur jo aam user ko acchi lagti hain, unme shamil hain:
+
+* Balloon ya ToolTip help
+* Keyboard shortcuts
+* User manual ke alawa ek quick reference guide (chhoti madadgar guide)
+* Colorization (Rango ka istemal)
+* Log file analyzers
+* Automated installation
+* System ki integrity (sahi hone) ko check karne wale tools
+* Training ke liye system ke multiple versions chalane ki kshamta
+* Unki organization ke liye customized splash screen
+
+Yeh saari cheezein uper-uper se (superficial) hain, aur sach mein system ko be-wajah features (feature bloat) se bojhal (overburden) nahi karti hain. Halanki, har ek cheez aapke users ko yeh batati hai ki development team ek behtareen system banane ki parwah (cared) karti thi, jo sach mein istemal ke liye banaya gaya tha. Bas itna yaad rakhein ki in naye features ko jodte waqt system ko tod (break) na dein.
+
+**Related sections include:**
+
+* Good-Enough Software, page 9
+* Tracer Bullets, page 48
+* Prototypes and Post-it Notes, page 53
+* The Requirements Pit, page 202
+
+**Challenges (Chunautiyan)**
+
+* Kabhi-kabhi kisi project ke sabse sakht nindhuk (toughest critics) wahi log hote hain jinhone us par kaam kiya tha. Kya aapne kabhi aisi nirasha (disappointment) mehsoos ki hai jahan aapki apni banayi hui kisi cheez ne aapki khud ki umeedon ko poora na kiya ho? Aisa kaise ho sakta hai? Shayad yahan logic ke alawa bhi kuch aur kaam kar raha hai.
+* Jab aap software deliver karte hain toh aapke users kis baare mein comment karte hain? Kya application ke alag-alag hisson par unka dhyan aapke dwara lagayi gayi mehnat ke hisab se (proportional) hota hai? Unhe kya khush (delights) karta hai?
