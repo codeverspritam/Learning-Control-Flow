@@ -5251,3 +5251,157 @@ Kyunki yeh dubara hoga. Aur hamare paas un bugs ke piche bhagne ka waqt nahi hai
 
 * Kya aap apne project ko automatically test kar sakte hain? Kai teams ko "nahi" kehne par majboor hona padta hai. Kyun? Kya acceptable (manzoor) results tay karna bahut mushkil hai? Kya isse sponsors ko yeh saabit karna mushkil nahi ho jayega ki project "poora" (done) ho gaya hai?
 * Kya GUI ke bina application logic ko test karna bahut mushkil hai? Yeh GUI ke baare mein kya batata hai? Coupling ke baare mein?
+
+#### 44. It's All Writing (Yeh Sab Likhna Hai)
+
+> "Sabse fiki (palest) syahi sabse achi yaaddasht (memory) se behtar hoti hai."
+> — **Chinese Proverb (Cheeni Kahawat)**
+
+Aam taur par, developers documentation par zyada dhyan nahi dete. Sabse achi soorat mein ise ek unfortunate zaroorat (unfortunate necessity) mana jata hai; sabse buri soorat mein ise is umeed mein ek low-priority task (kam zaroori kaam) mana jata hai ki management project ke aakhir mein ise bhool jayega.
+
+Pragmatic Programmers documentation ko overall development process ke ek atoot hisse (integral part) ke roop mein apnate (embrace) hain. Mehnat ko dohra kar (duplicating) ya waqt barbad kiye bina, aur documentation ko aas-paas rakh kar—agar mumkin ho toh code ke andar hi—documentation likhna aasan banaya ja sakta hai.
+
+Yeh bilkul naye ya anokhe (novel) vichar nahi hain; code aur documentation ko milane (wedding) ka idea dusre logon ke alawa Donald Knuth ke literate programming ke kaam mein aur Sun ke JavaDoc utility mein dikhta hai. Hum code aur documentation ke beech ki duri (dichotomy) ko kam karna chahte hain, aur iske bajaye unhe ek hi model ke do views ke roop mein treat karna chahte hain (*It's Just a View*, page 157 dekhein). Asal mein, hum thoda aur aage jana chahte hain aur apne **sabhi** pragmatic principles ko code ki tarah documentation par bhi laagu (apply) karna chahte hain.
+
+---
+
+> **Tip 67**
+> **Treat English as Just Another Programming Language**
+> (English ko bas ek aur Programming Language ki tarah Treat Karein)
+
+---
+
+Kisi project ke liye aam taur par do tarah ke documentation produce kiye jate hain: internal (andaruni) aur external (bahari). Internal documentation mein source code comments, design aur test documents, ityadi shamil hote hain. External documentation koi bhi aisi cheez hoti hai jise bahari duniya ko ship ya publish kiya jata hai, jaise user manuals. Lekin padhne wale darshako (intended audience), ya likhne wale ke role (developer ya technical writer) ki parwah kiye bina, sabhi documentation code ka ek aaina (mirror) hote hain. Agar inme farq (discrepancy) hai, toh jo code mein hai wahi mayne rakhta hai—chahe ache ke liye ya bure ke liye.
+
+---
+
+> **Tip 68**
+> **Build Documentation In, Don't Bolt It On**
+> (Documentation ko Andar Banayein, Upar Se Na Jodein)
+
+---
+
+Hum internal documentation se shuru karenge.
+
+**Comments in Code (Code mein Comments)**
+
+Source code mein comments aur declarations se formatted documents produce karna kafi asan hai, lekin pehle hamein yeh pakka karna hoga ki hamare code mein sach mein comments **hain**. Code mein comments hone chahiye, lekin bahut zyada comments hona utna hi bura ho sakta hai jitna ki bahut kam hona.
+
+Aam taur par, comments mein is baat par charcha (discuss) honi chahiye ki kuch **kyun** kiya gaya hai, iska maqsad (purpose) aur lakshya (goal) kya hai. Code pehle se hi dikhata hai ki ise **kaise** kiya gaya hai, isliye is par comment karna ek hi baat ko dohrana (redundant) hai—aur yeh *DRY* principle ka ullanghan (violation) hai.
+
+Source code mein comment karna aapko project ke un pechida (elusive) hisson ko document karne ka behtareen mauka (perfect opportunity) deta hai jinhe kahin aur document nahi kiya ja sakta: engineering trade-offs (faisle), faisle kyun liye gaye the, dusre kin vikalpon (alternatives) ko kharij (discarded) kiya gaya tha, ityadi.
+
+Hamein ek **simple** module-level header comment, mahatvapurn (significant) data aur type declarations ke liye comments, aur har class aur har method ke liye ek chhota sa header dekhna pasand hai, jo yeh describe kare ki function ka istemal kaise kiya jata hai aur koi bhi aisi cheez jo yeh karta ho aur saaf (obvious) na ho.
+
+Variable names, zahir hai, achi tarah chune gaye aur matlab wale (meaningful) hone chahiye. `foo`, misaal ke taur par, meaningless (be-matlab) hai, aur `doit` ya `manager` ya `stuff` bhi waise hi hain. Hungarian notation (jahan aap variable ki type information ko naam mein hi encode karte hain) object-oriented systems mein bilkul in-appropriate (namunasib) hai. Yaad rakhein ki aap (aur aapke baad aane wale dusre log) code ko saikdon baar **padhenge (reading)**, lekin isey sirf kuch hi baar **likhenge (writing)**. `cp` ki jagah `connectionPool` likhne mein waqt lagayein (spell out karein).
+
+Meaningless (be-matlab) namon se bhi bure **gumrah karne wale (misleading)** naam hote hain. Kya kabhi kisi ne aapko purane (legacy) code mein aisi khamiyan (inconsistencies) samjhai hain jaise, "Routine jiska naam `getData` hai, wo darasal disk par data likhta (writes) hai"? Insaani dimaag baar-baar isme galti karega (foul this up)—ise *Stroop Effect* [ Str35 ] kaha jata hai. Is tarah ki interference (dakhal) ke asar ko dekhne ke liye aap khud is experiment ko try kar sakte hain. Kuch colored pens lijiye, aur unse colors (rangon) ke naam likhiye. Halanki, kabhi bhi kisi color ka naam usi color ke pen se mat likhiye. Aap "blue" (neela) shabd ko hare (green) rang mein likh sakte hain, "brown" (bhura) shabd ko laal (red) rang mein, ityadi. (Vikalp ke taur par/Alternatively, hamari Web site [http://www.pragmaticprogrammer.com](http://www.pragmaticprogrammer.com) par colors ka ek sample set pehle se bana hua hai.) Ek baar jab aapne color names likh liye hain, toh jitni jaldi ho sake, zor se us color ka naam bolne ki koshish karein jis color se har shabd likha gaya hai. Kisi point par aakar aap atkenge (trip up) aur colors ke naam padhna shuru kar denge, na ki khud colors ko. Naam aapke dimaag ke liye bahut gahra matlab rakhte hain, aur gumrah karne wale naam aapke code mein afra-tafri (chaos) failate hain.
+
+Aap parameters ko document kar sakte hain, lekin khud se puchein ki kya yeh sach mein sabhi cases mein zaroori hai. JavaDoc tool dwara sujhaya gaya comment ka level munasib (appropriate) lagta hai:
+
+```java
+/**
+ * Log message to standard error with a newline
+ * appended.
+ *
+ * @param severity    1=fatal, 2=error, 3=warning
+ * @param message     the text of the message
+ */
+public void logMessage(int severity, String message) {
+    // ...
+}
+
+```
+
+Yahan aisi cheezon ki ek list hai jo source comments mein **nahi** dikhni chahiye.
+
+* **File mein code dwara export kiye gaye functions ki list.** Aise programs hain jo aapke liye source ko analyze karte hain. Unka istemal karein, aur list ke up to date hone ki guarantee hogi.
+* **Revision history (Badlaavon ka itihas).** Iske liye hi source code control systems hote hain (dekhein *Source Code Control*, page 86). Halanki, last change ki date aur ise karne wale insaan ki jankari shamil karna upyogi (useful) ho sakta hai. [9]
+
+> [9] Is tarah ki jankari, saath hi filename, RCS `$Id$` tag dwara di jati hai.
+
+* **Un dusri files ki list jinka yeh file istemal karti hai.** Ise automatic tools ka istemal karke zyada sateek (accurately) tareeqe se pata lagaya ja sakta hai.
+* **File ka naam.** Agar isey file mein dikhna hi hai, toh ise haathon se (by hand) maintain na karein. RCS aur isi tarah ke systems is jankari ko automatically up to date rakh sakte hain. Agar aap file ko move ya rename karte hain, toh aap yeh yaad nahi rakhna chahenge ki header ko edit karna hai.
+
+Sabse mahatvapurn (important) jankariyon mein se ek jo source file mein dikhni **chahiye** wo author (lekhak) ka naam hai—yeh zaroori nahi ki jisne aakhiri baar file edit ki ho uska naam ho, balki owner (malik) ka naam. Source code ke sath zimmedari (responsibility) aur jawabdehi (accountability) ko jodne se logon ko imaandar rakhne mein madad milti hai (dekhein *Pride and Prejudice*, page 258).
+
+Project mein yeh bhi zaroori ho sakta hai ki har source file mein kuch copyright notices ya dusre kanooni (legal) boilerplate (tay-shuda bayaan) dikhein. Apne editor se kahein ki wo inhe aapke liye automatically insert kar de.
+
+Meaningful comments ke apni jagah par hone se, JavaDoc [ URL 7 ] aur DOC++ [ URL 21 ] jaise tools unhe extract (nikal) sakte hain aur API-level documentation automatically produce karne ke liye unhe format kar sakte hain. Yeh ek zyada general technique ka ek khaas udaharan hai jise hum istemal karte hain—**executable documents (chalaane layaq documents)**.
+
+**Executable Documents**
+
+Maan lijiye hamare paas ek specification hai jo kisi database table mein columns ki list batata hai. Tab hamare paas database mein asal table banane ke liye SQL commands ka ek alag set hoga, aur shayad table mein kisi row ke content ko rakhne ke liye kisi tarah ki programming language record structure hogi. Ek hi jankari ko teen baar dohraya gaya hai. In teen sources mein se kisi ek ko badle, aur baaki do turant purane (out of date) ho jate hain. Yeh *DRY* principle ka ek saaf ullanghan (violation) hai.
+
+Is problem ko theek karne ke liye, hamein jankari ke authoritative (pramanik) source ko chun-ne ki zaroorat hai. Yeh specification ho sakta hai, yeh database schema tool ho sakta hai, ya yeh poori tarah se koi teesra source ho sakta hai. Aaiye specification document ko source ke roop mein chunte hain. Ab yeh is process ke liye hamara **model** hai. Tab hamein isme di gayi jankari ko alag-alag **views** ke roop mein export karne ka ek tareeqa dhoondhne ki zaroorat hogi—misaal ke taur par, ek database schema aur ek high-level language record. [10]
+
+> [10] Models aur views ke baare mein aur janne ke liye, dekhein *It's Just a View*, page 157.
+
+Agar aapka document markup commands ke sath plain text ke roop mein store kiya gaya hai (misaal ke taur par HTML, LaTeX, ya troff ka istemal karke), toh aap Perl jaise tools ka istemal karke schema ko extract kar sakte hain aur ise automatically reformat kar sakte hain. Agar aapka document kisi word processor ke binary format mein hai, toh kuch options ke liye agle page ka box dekhein.
+
+Aapka document ab project development ka ek atoot hissa (integral part) hai. Schema badalne ka ek hi tareeqa hai document ko badalna. Aap is baat ki guarantee de rahe hain ki specification, schema, aur code sab aapas mein mael (agree) khate hain. Aap har badlaav ke liye karne wale kaam ki matra (amount of work) ko kam se kam (minimize) karte hain, aur aap badlaav ke views ko automatically update kar sakte hain.
+
+---
+
+> **What if My Document Isn't Plain Text? (Kya hoga agar mera document Plain Text nahi hai?)**
+> Badkismati se, zyada se zyada project documents ab aise word processors ka istemal karke likhe ja rahe hain jo disk par file ko kisi makhsoos (proprietary) format mein store karte hain. Hum "badkismati se" (unfortunately) kehte hain kyunki yeh document ko automatically process karne ke aapke options ko bahut sakhti se (severely) limit karta hai. Halanki, aapke paas abhi bhi kuch options hain:
+> * **Macros likhein.** Zyada-tar aadhunik (sophisticated) word processors mein ab ek macro language hoti hai. Thodi mehnat ke sath aap unhe apne documents ke tagged sections ko un doosre forms (vikalpon) mein export karne ke liye program kar sakte hain jinki aapko zaroorat hai. Agar is level par programming karna bahut takleef-deh (painful) hai, toh aap hamesha zaroori section ko ek standard format plain text file mein export kar sakte hain, aur phir isey final forms mein convert karne ke liye Perl jaise kisi tool ka istemal kar sakte hain.
+> * **Document ko subordinate (mat-hat) banayein.** Document ko definitive source (hathmi zariya) rakhne ke bajaye, ek dusri presentation (peshkash) ka istemal karein. (Database wale udaharan mein, aap schema ko authoritative/pramanik jankari ke roop mein istemal karna chahenge.) Phir ek aisa tool likhein jo is jankari ko ek aise form mein export kare jise document import kar sake. Halanki, savdhaan (careful) rahein. Aapko yeh pakka karne ki zaroorat hai ki yeh jankari har baar document print hote waqt import ho, na ki sirf ek baar jab document banaya jata hai.
+> 
+> 
+
+---
+
+Hum isi tareeqe se JavaDoc aur DOC++ jaise tools ka istemal karke source code se API-level documentation generate kar sakte hain. Model source code hai: model ke ek view ko compile kiya ja sakta hai; dusre views ko print karne ya Web par dekhne ke liye banaya gaya hai. Hamara lakshya hamesha model par kaam karna hota hai—chahe model khud code ho ya koi dusra document—aur sabhi views ko automatically update karna hota hai (automatic processes ke baare mein aur janne ke liye *Ubiquitous Automation*, page 230 dekhein).
+
+Achanak, documentation utna bura nahi lagta.
+
+**Technical Writers (Technical Lekhak)**
+
+Ab tak, humne sirf internal documentation ke baare mein baat ki hai—jo programmers khud likhte hain. Lekin tab kya hota hai jab aapke project mein professional technical writers shamil hote hain? Aksar (All too often), programmers bas material (samagri) ko technical writers ki taraf "deewar ke us paar phek" (throw over the wall) dete hain aur unhe user manuals, promotional pieces, ityadi banane ke liye khud ke bharose chhod dete hain (fend for themselves).
+
+Yeh ek galti hai. Sirf isliye ki programmers in documents ko nahi likh rahe hain, iska matlab yeh nahi hai ki hum pragmatic principles ko chhod (forsake) sakte hain. Hum chahte hain ki writers wahi basic principles apnayein jo ek Pragmatic Programmer karta hai—khaas taur par *DRY* principle, orthogonality, model-view concept, aur automation aur scripting ke istemal ka samman (honoring) karna.
+
+**Print It or Weave It (Isey Chhapein ya Bunein)**
+
+Published, paper (kaagzi) documentation ki ek aam problem (inherent problem) yeh hai ki yeh print hote hi purana (out of date) ho sakta hai. Kisi bhi roop mein Documentation bas ek snapshot (ek pal ki tasveer) hota hai.
+
+Isliye hum saara documentation ek aise roop (form) mein banane ki koshish karte hain jise online, Web par publish kiya ja sake, hyperlinks ke saath. Documentation ke is view ko up to date rakhna asan hai bajaye iske ki har maujooda paper copy dhoondhi jaye, jalayi jaye, aur nayi copies dubara print karke baanti (redistribute) jayein. Yeh ek badi audience ki zarooraton ko poora (address) karne ka bhi ek behtar tareeqa hai. Halanki, har Web page par ek date stamp ya version number lagana yaad rakhein. Is tarah padhne wala (reader) yeh andaza laga sakta hai ki kya up to date hai, haal hi mein kya badla hai, aur kya nahi.
+
+Kai baar aapko ek hi documentation ko alag-alag formats mein pesh (present) karna padta hai: ek printed document, Web pages, online help, ya shayad ek slide show. Iska aam (typical) samadhan (solution) cut-and-paste par bahut zyada nirbhar karta hai, jisme original se kai naye azaad (independent) documents banaye jate hain. Yeh ek bura idea hai: ek document ka presentation uske content se azaad (independent) hona chahiye.
+
+Agar aap kisi markup system ka istemal kar rahe hain, toh aapke paas apni zaroorat ke mutabik (as many as you need) alag-alag output formats implement karne ki flexibility (azaadi) hoti hai. Aap chun sakte hain ki
+
+`<H1> Chapter Title </H1>`
+
+document ke report version mein ek naya chapter generate kare aur slide show mein ek nayi slide ko title de. XSL aur CSS [11] jaisi technologies ka istemal is ek markup se multiple output formats generate karne ke liye kiya ja sakta hai.
+
+> [11] eXtensible Style Language aur Cascading Style Sheets, do aisi technologies jo presentation ko content se alag karne mein madad karne ke liye design ki gayi hain.
+
+Agar aap kisi word processor ka istemal kar rahe hain, toh shayad aapke paas isi tarah ki kabiliyatein (capabilities) hongi. Agar aapne document ke alag-alag elements ko pehchanne (identify) ke liye styles ka istemal karna yaad rakha hai, toh alag-alag style sheets laagu karke aap final output ka look kafi hadd tak (drastically) badal sakte hain. Zyada-tar word processors ab aapko apne document ko Web publishing ke liye HTML jaise formats mein convert karne dete hain.
+
+**Markup Languages (Markup ki Bhashayein)**
+
+Aakhir mein, bade paimane par (large-scale) documentation projects ke liye, hum documentation ko markup karne ke liye kuch zyada aadhunik (modern) schemes ko dekhne ki sifarish karte hain.
+
+Kai technical authors ab apne documents define karne ke liye DocBook ka istemal karte hain. DocBook ek SGML-based markup standard hai jo document ke har component ko dhyan se pehchanta (identifies) hai. Document ko kisi bhi ginti (number) ke alag-alag formats mein render (banane) karne ke liye ek DSSSL processor se guzara ja sakta hai. Linux documentation project RTF, info, PostScript, aur HTML formats mein jankari publish karne ke liye DocBook ka istemal karta hai.
+
+Jab tak aapka original markup un sabhi concepts ko express karne ke liye kaafi rich hai jinki aapko zaroorat hai (jisme hyperlinks shamil hain), tab tak kisi bhi dusre publish kiye ja sakne wale form mein translation aasan aur automatic dono ho sakta hai. Aap online help, published manuals, Web site ke liye product highlights, aur yahan tak ki ek tip-a-day calendar bhi bana sakte hain, wo bhi sab usi source se—jo zahir hai source control ke andar hota hai aur nightly build ke sath build kiya jata hai (dekhein *Ubiquitous Automation*, page 230).
+
+Documentation aur code ek hi buniyaadi (underlying) model ke alag-alag views hain, lekin view **wahi** hai jo alag hona chahiye. Documentation ko ek second-class citizen banne na dein, jise main project workflow se bahar nikal (banished) diya gaya ho. Documentation ko usi dekhbhal (care) ke sath treat karein jiske sath aap code ko karte hain, aur users (aur maintainers jo iske baad aayenge) aapki tareefon ke pul baandhenge (sing your praises).
+
+**Related sections include:**
+
+* The Evils of Duplication, page 26
+* Orthogonality, page 34
+* The Power of Plain Text, page 73
+* Source Code Control, page 86
+* It's Just a View, page 157
+* Programming by Coincidence, page 172
+* The Requirements Pit, page 202
+* Ubiquitous Automation, page 230
+
+**Challenges (Chunautiyan)**
+
+* Kya aapne abhi-abhi likhe gaye source code ke liye ek samjhane wala (explanatory) comment likha? Kyun nahi? Kya waqt ki kami (Pressed for time) thi? Kya aapko pakka pata nahi hai ki code sach mein kaam karega ya nahi—kya aap bas ek prototype ke roop mein ek idea try kar rahe hain? Aap baad mein is code ko phek denge, haina? Yeh project mein bina comment ke aur bina test ke (experimental) toh nahi chala jayega, kya aisa hoga?
+* Kabhi-kabhi source code ke design ko document karna ajeeb (uncomfortable) lagta hai kyunki design aapke dimaag mein saaf nahi hai; yeh abhi bhi ban raha (evolving) hai. Aapko nahi lagta ki jab tak koi cheez waqayi kaam na kare, tab tak aapko is baat ko describe karne mein mehnat barbad karni chahiye ki wo kya karti hai. Kya yeh programming by coincidence (page 172) jaisa lagta hai?
