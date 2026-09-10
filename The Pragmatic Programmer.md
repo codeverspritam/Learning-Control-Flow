@@ -5470,3 +5470,32 @@ Yeh saari cheezein uper-uper se (superficial) hain, aur sach mein system ko be-w
 
 * Kabhi-kabhi kisi project ke sabse sakht nindhuk (toughest critics) wahi log hote hain jinhone us par kaam kiya tha. Kya aapne kabhi aisi nirasha (disappointment) mehsoos ki hai jahan aapki apni banayi hui kisi cheez ne aapki khud ki umeedon ko poora na kiya ho? Aisa kaise ho sakta hai? Shayad yahan logic ke alawa bhi kuch aur kaam kar raha hai.
 * Jab aap software deliver karte hain toh aapke users kis baare mein comment karte hain? Kya application ke alag-alag hisson par unka dhyan aapke dwara lagayi gayi mehnat ke hisab se (proportional) hota hai? Unhe kya khush (delights) karta hai?
+
+#### 46. Pride and Prejudice (Garv aur Pakshpaat)
+
+> "Aapne hamein kaafi waqt tak khush kar diya hai (You have delighted us long enough)."
+> — **Jane Austen, *Pride and Prejudice***
+
+Pragmatic Programmers zimmedari se piche nahi hatte (shirk). Iske bajaye, hum challenges ko qubool karne aur apni kabiliyat (expertise) ko pehchan dilane mein khushi (rejoice) mehsoos karte hain. Agar hum kisi design, ya code ke kisi hisse ke liye zimmedar hain, toh hum aisa kaam karte hain jis par hum fakhr (proud) kar sakein.
+
+---
+
+> **Tip 70**
+> **Sign Your Work**
+> (Apne Kaam Par Apne Dastakhat Karein / Apne Kaam ki Pehchan Banein)
+
+---
+
+Purane zamane ke karigar (craftsmen) apne kaam par apne dastakhat (sign) karne mein garv mehsoos karte the. Aapko bhi karna chahiye.
+
+Halanki, project teams abhi bhi insaano se hi banti hain, aur yeh niyam (rule) pareshani khadi kar sakta hai. Kuch projects par, **code ownership** (code ka malik hone) ka idea mil-jul kar kaam karne (cooperation) mein problems paida kar sakta hai. Log apne hisse ko lekar possessive (territorial) ho sakte hain, ya aam (common) foundation elements par kaam karne se inkar kar sakte hain. Project aakhir-kaar chhote-chhote alag-thalag riyasaton (insular little fiefdoms) ke jhund jaisa ban kar reh sakta hai. Aap apne code ke haq mein aur apne sathiyon (coworkers) ke khilaf pakshpaati (prejudiced) ho jate hain.
+
+Hum yeh nahi chahte. Aapko dusron (interlopers) se jalte hue (jealously) apne code ko defend nahi karna chahiye; usi tarah, aapko dusre logon ke code ko bhi izzat (respect) ke sath treat karna chahiye. Golden Rule ("Dusron ke sath waisa hi sulook karein jaisa aap chahte hain ki wo aapke sath karein") aur developers ke beech aapsi izzat (mutual respect) ki buniyaad is tip ko kaam karne ke liye bahut zaroori (critical) hai.
+
+Gumnaami (Anonymity), khaas taur par bade projects par, laparwahi (sloppiness), galtiyon (mistakes), aalas (sloth), aur bure code ko panapne ki jagah (breeding ground) de sakti hai. Khud ko sirf machine ke ek chhote purze (cog in the wheel) ki tarah dekhna bahut asan ho jata hai, jahan aap ache code ke bajaye endless status reports mein bekaar ke bahane (lame excuses) banate hain.
+
+Halanki code ka koi malik hona chahiye (code must be owned), yeh zaroori nahi ki kisi ek insaan ka hi ho. Asal mein, Kent Beck ka kamyaab eXtreme Programming method [ URL 45 ] code ki communal ownership (sabki malkiyat) ki sifarish karta hai (lekin gumnaami ke khatron se bachne ke liye isme *pair programming* jaisi extra practices ki bhi zaroorat hoti hai).
+
+Hum malik hone ka garv (pride of ownership) dekhna chahte hain. "Yeh maine likha hai, aur main apne kaam ki poori zimmedari leta hoon (I stand behind my work)." Aapka signature (naam/dastakhat) quality ka ek ishara (indicator) ban kar pehchana jana chahiye. Log kisi code ke tukde par aapka naam dekhein toh unhe yeh umeed honi chahiye ki yeh thos (solid), achi tarah likha hua, tested, aur documented hoga. Ek sach mein professional kaam. Ek asli professional dwara likha gaya.
+
+Ek Pragmatic Programmer.
