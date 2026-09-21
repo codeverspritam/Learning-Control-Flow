@@ -2310,3 +2310,380 @@ An-sochi (Unexpected) cheezein samne (emerge) aati hain. Artists aur designers i
 
 ---
 
+#### CHAPTER 5
+
+## SEEING (Dekhna)
+
+**"Kabhi-kabhi students ko pata nahi hota ki unhone abhi kya kiya hai. Wo isey dekh nahi sakte, lekin unhone yeh kiya hota hai. Aur isliye hamein unhe us jagah tak lana hota hai jahan wo samajh sakein ki unhone abhi kya kiya hai, taaki wo isey dobara (redo) kar sakein. Yahi sikhana (teaching) hai."**
+
+Candida Alvarez, artist, School of the Art Institute of Chicago
+
+Apni research ke shuruati dino mein, spring 2010 mein, maine Savannah College of Art and Design (SCAD) ke foundations professors ke ek group ke sath lunch kiya. Maine table par sabse poocha: "Kya aapko lagta hai ki aap students ko creative banna sikha rahe hain?"
+
+Betty ne sabse pehle jawab diya: "Yeh is baat par nirbhar (depends) karta hai ki aap creativity kise mante hain, kyunki mujhe toh iski definition (tareef) bhi theek se nahi pata, haina?" Wo hasi aur phir boli: "Main unhe dekhna (how to see) sikha rahi hoon."
+
+Linda ne bhi beech mein kaha (chimed in): "Main bhi yahi kehne wali thi."
+
+Betty: "Dekhna kaise hai (How to see). Yeh sochne ka hi ek roop hai, lekin iske bahut se tareeqe hain. Main abhi turant aese saat (7) alag-alag tareeqe soch sakti hoon kisi cheez ko dekhne ke jin par hum kaam karte hain."
+
+Sabne haan mein badbadate (murmured) hue sehmati jatai.
+
+Betty: "Jaise-jaise aap aur zyada draw karna seekhte hain, aapko aur tajurba (experience) milta hai, yeh ek sath (simultaneously) hone lagta hai. Buniyaadi taur par, aap jo dekh rahe hain uske aadhar par. Main kisi cheez ko ek filter ke zariye dekhne, aap jo dekhte hain use samajhne (interpreting) ki baat kar rahi hoon. Mere assignments unke cheezon ko dekhne ke tareeqe ko badal dete hain. Yeh unhe cheezon ko alag dhang se dekhne ki kabiliyat (ability) de raha hai. Mere liye, iska poora matlab yahi hai (that's what it's all about)."
+
+Hamein pakka nahi pata ki creativity kya hai. Lekin ek baar jab aap dekhna seekh jate hain, toh creativity apne aap piche chali aati hai (follows).
+
+### **The Cliché Breast (Ghisi-Piti Chhaati)**
+
+Washington University in St. Louis (WashU) mein, main Bixby Hall mein sculptor Ron Leax ka interview le raha tha. Unhone mujhe ek cigarette ke liye apne sath bahar chalne ko kaha. Jaise hi hum hall se piche ke darwaze ki taraf gaye, hum aisi deewaron ke paas se guzre jo student ke kaam se dhaki hui thin. Leax ne mujhe samjhaya ki yeh ek first-year illustration class ke sketches the. Ek art aur design school mein, lagbhag har deewar par student ka kaam temporary (kuch waqt ke liye) taur par tape se lagaya jata hai (dekhein figure 5.1). Yeh koi formal ya official exhibition nahi hai; yeh rozana ki practice ka hissa hai. In drafts ko kuch dino ya hafton baad hata diya jata hai. Jaise hi hum ek aurat ki chhaati (breast) ke sketch ke paas se guzarte hain, Leax comment karne ke liye rukte hain. Sketch ki taraf ishara karte hue wo kehte hain, "Yeh yahan thoda cliché (ghisa-pita) hai." Main hasta hoon aur kehta hoon, "Kya koi breast kabhi non-cliché bhi ho sakti hai?" Wo hase nahi; maine saaf taur par unki baat galat samjhi thi. Unhone kaha, "Khair, main flesh (maas) aur gravity (gurutvakarshan) ki geography ki samajh ke baare mein soch raha tha." Mujhe koi idea nahi tha ki wo kis baare mein baat kar rahe the. Jis student ne isey sketch kiya tha, bilkul usi ki tarah, mujhe bhi dekhna nahi aata tha.
+
+**FIGURE 5.1** Washington University in St. Louis ka ek hallway jisme student sketches hain. 2015.
+
+Kuch mahinon baad, maine yeh kahani Leax ke WashU colleague Arny Nadler ko sunayi, jo ek sculptor hain aur jinhone paanch saal tak undergraduate art program ke chair ke taur par kaam kiya. Nadler ne kaha, "Mujhe theek se pata hai ki wo kis baare mein baat kar rahe the. Wo students cheezon ko ab kabhi pehle ki tarah nahi dekhenge. Aur main sach mein, main sach mein is baat par yakeen karta hoon. Main sach mein is baat par yakeen karta hoon." Unhone apni teaching ke baare mein bhi yahi kaha: wo students ko "cheezon ko dekhne ke naye tareeqe ijad karne (inventing) aur us asli point (kernel) ko pehchan-ne mein guide karte hain jo sach mein dilchasp hai."
+
+Student ki banayi breast cliché (ghisi-piti) thi. Leax hairan nahi the; shuruaat karne wale students aksar aesa kaam banate hain jo cliché hota hai. Unhe nahi pata hota ki yeh cliché hai. Dekhne ki kabiliyat ke bina, aap nahi jaan sakte ki kya cliché hai aur kya nahi. Jaisa ki School of the Art Institute of Chicago (SAIC) ki Candida Alvarez ne kaha, "Unhe us jagah tak pahunchne ke liye clichés se guzarna padta hai jahan unhe hona chahiye. Aap unhe clichés tak jane se nahi rok sakte, kyunki unhe tab tak pata hi nahi hota ki yeh cliché hai jab tak wo us tak pahunchte nahi."
+
+**Ek baar jab aap isey dekh lete hain, toh aap isey dekhna band nahi kar sakte.**
+
+#### Haven Lin-Kirk, University of Southern California
+
+Cliché breast ki kahani mere dimaag mein atak gayi (stuck with me). Saalon baad, maine isey Beth Grabowski ke samne rakha, jo ek artist hain aur University of North Carolina in Chapel Hill (UNC) mein padhati hain. Nadler ki tarah, wo turant samajh gayin: "Mujhe theek se pata hai ki wo kis baare mein baat kar rahe hain. Iska talluq dekhna seekhne se hai. Unhone us breast ko, us insaan ko dekhne ke bajaye, unke dimaag mein ek symbol (nishani) tha ki ek breast kaisa hota hai aur unhone dekhne ke bajaye wahi draw kar diya."
+
+SAIC ki Claudia Hart virtual reality aur high-end technologies ke sath kaam karti hain. Jab humne dekhna seekhne ke baare mein baat ki, toh unhone ise *deep breathing (gehri saans lena)* kaha. "Visual language (dekhne wali bhasha) unke analytical mind (jaanch karne wale dimaag) ke sath jis tarah kaam karti hai wo aisi cheez nahi hai jo qudrati taur par (naturally) aati ho. Yeh ek physical, bodily experience (jismani tajurba) hai, dekhna, samajhna (perceiving), aur mehsoos karna. Main unhe ise deconstruct (tod kar samajhna) karna sikhati hoon." Aap isey seedhe taur par (directly) nahi sikha sakte; agar aap students ko yeh batane ki koshish karte hain ki dekhna kaise hai, toh wo nahi samjhenge. Hart ne kaha:
+
+*Unme se kuch kehte hain "Mujhe samajh nahi aa raha aap kya keh rahi hain." Aur main kehti hoon, "Fikar mat karo. Tum samajh jaoge."*
+
+School of Visual Arts (SVA) ke ek photographer Accra Shepp ka bhi yahi tajurba (experience) raha hai: "Kabhi-kabhi main student ko instruct karunga (hidayat dunga), shayad student ko order bhi dunga, ki wo isey ek khas tareeqe se kare jo mujhe lagta hai ki kaam ko behtar support karega. Agar student mujhse behas (fighting) kar raha hai, toh main kehta hoon, main samajhta hoon. Lekin tum abhi tak isey nahi dekh pa rahe ho. Isliye main tumse isey dono tareeqon se karne ko kahunga aur hum classroom mein is par nazar dalenge."
+
+Dekhna seekhna ek niji badlaav (personal transformation) hai. Yeh asaan nahi hai. Professor aapko bata sakta hai ki kahan dekhna hai; professor aapko bata sakta hai ki kya dhoondhna hai; lekin aap phir bhi isey nahi dekh payenge. Batana (Telling) kaam nahi karta. Iske bajaye, professors students ko ek dhyan se design kiye gaye raste (pathway) se guide karte hain. Raste ke aakhir mein, students dekhna seekh chuke hote hain.
+
+Cheryl Wassenaar ki WashU mein incoming first-year students ke liye course mein, wo unhe dusre hafte mein yeh assignment deti hain:
+
+*Main students se black construction paper se pachaas (50) shapes katne ko kehti hoon. Ek 3 × 3 ya 5 × 5 inch square par pachaas shapes. Maqsad yeh hai ki sabse baarik nuances (fark), contour lines aur edge quality par charcha (discussion) shuru karne ke liye saikdon shapes hon. Hum ek shape ko dekhte hain aur turant isey kisi aisi cheez se jodne ke baare mein sochne lagte hain jise hum pehle se jante hain. Hum yeh sochne lagte hain ki wo shape kya ho sakti hai. Bhale hi yeh sirf black construction paper hai, iski density (ghanapan) aur wazan (weight) aur hilne ki kabiliyat ya na-kabiliyat ke baare mein sochein. Kya yeh kisi aisi cheez jaisa dikhne lagta hai jise hum pehchante hain? Toh hum bahut saare (shapes) lagate hain aur is ke baare mein baat karna shuru karte hain. Main kehti hoon, "In cheezon ko adjectives (visheshan/khasiyat batane wale shabdon) ke sath bayan (describe) karein." Pehle hum bas unhe shabdon ke sath bayan karna shuru karte hain. Yeh bas ek dhabbe (blob) jaisa lag sakta hai. Lekin wo shapes ko bayan karne ke ek jaise tareeqe dhoondhne lagte hain. Aur phir main ek detective ki tarah poochne lagti hoon, "Aesa kyun hai? Tum aisa kyun kehte ho? Wo cheez bhari (heavy) kyun lag rahi hai? Wo dusri sust (sluggish) kyun lag rahi hai?" Iska talluq shayad niche ki taraf curve ke sabse chote hisse se ho sakta hai, aur hum ek tarah ke thehrav (settling), ya wazan ka andaza (infer) lagate hain. Agar koi cheez thodi si uthi hui hai, ya agar koi cheez niche square ke kinare par baithi hai, toh ek shape aisa lag sakta hai jaise wo kisi bhari cheez se bana ho aur dusra tairta hua (buoyant) lag sakta hai.*
+
+Gaur karein ki students ko construction paper ka istemal karna hota hai, kisi computer program ka nahi. Maine unse poocha kyun, aur unhone isey is tarah samjhaya: "Agar aap cheezon ko physically idhar-udhar hila sakte hain, toh yeh behtar hai. Learning ke beech kinetic connections (harkat se jude rishton) ke baare mein studies hui hain. Agar aap physically apne hathon aur motor skills ko shamil (involved) kar lete hain, toh ek alag hi tarah ki learning hoti hai. Yeh unhe mouse par atke rehne ki tulna mein zyada wasee (broader) tareeqe se train karta hai. Phir wo badlaav (changes), aur options (vikalpon) ko nahi dekh rahe hote hain. Agar aap cheezon ko physically idhar-udhar nahi hila rahe hain, toh aap bahut jaldi sikud (narrow) jate hain aur aap bahut jaldi tay kar lete hain ki 'ise aisa hi hona chahiye.'"
+
+Pehla assignment unhe dekhna seekhne ke raste par chalata hai. Wo is project ke sath is safar (journey) ko aage badhati hain:
+
+*Dusra project jo main unke sath karti hoon, uska goal unhe ek idea par variations (badlaav) dekhne mein madad karna hai. Main unse do images chun-ne ko kehti hoon. Mujhe isse koi farq nahi padta ki wo kya hain. Main unhe 10 shabd deti hoon, jinme "aggressive (gusse wala)," "heavy (bhari)," "shy (sharmila)," "still (shant/ruka hua)" shamil hain. Phir, unhe ek page par 10 alag-alag arrangements (tarteeb) mein lagayein. Agar aap chahein toh unka scale (size) badal sakte hain. Wo dekhenge ki aap sirf arrangement ke sath poori tarah se alag ideas communicate kar sakte hain. Yeh ek zyada conceptual (khayali) cheez se ek zyada physical (thos) cheez mein badal jata hai. Wo is baare mein sach mein nahi sochte jab tak ki aap ise point out (ishara) na karein. Jaise hi aap isey point out karte hain, wo kehte hain, "Oh, okay, main yeh dekh sakta hoon." Lekin unhe ise describe (bayan) karna mushkil lagta hai. Yeh kahin zyada asardaar (effective) hota hai agar aap unse puchein ki wo jo dekh rahe hain use explain karein aur aapko describe karein, isse pehle ki aap unhe apni hypothesis (andaza) batayein.*
+
+Maine unse poocha, assignment par kaam shuru karne se pehle unhe ek lecture kyun nahi dete? Kya aap unhe nahi bata sakti ki arrangements concepts ko kaise communicate kar sakte hain? Shayad aap unhe dikha sakti hain ki isey "gussa (anger)" jaise kisi ek shabd ke sath kaise karna hai, taaki wo shuruat kar sakein? Wo is baare mein bahut clear thin ki wo is tarah kyun nahi padhati hain:
+
+*Agar main bas unhe yeh karne ko keh doon, toh isme discovery (khoj) ka koi ehsaas nahi hoga. Wo samajh jayenge, lekin wo shayad "anger" ko usi tareeqe se samjhenge jaise maine anger ko bayan kiya tha. Iska ek maqsad (point) is baat ke hamare visual (dekhne wale) ideas ko badhana (extend) hai ki anger kaisa dikh sakta hai. Anger kaisa dikh sakta hai iske baare mein bahut stereotypical (roodhiwadi/aam) ideas hote hain. Lekin agar wo dusre tareeqe dhoondh saken, ek naye (inventive) tareeqe se, ek thode naye tareeqe se, anger kaisa dikhta hai aur kaisa mehsoos hota hai (jiske baare mein hum pehle se jante hain) iski kuch maujuda connotations (mayne) ko sath lekar, aur isey hamein aese tareeqe se dikhayein jo kuch hadd tak an-socha (unexpected) ho, toh unhone seekh liya hai ki apni soch mein inventive (naya) kaise banna hai, visual stereotypes aur clichés se aage kaise jana hai.*
+
+Jab wo yeh khud karte hain, "Toh ek discovery (khoj) hoti hai. Wo isey aakhiri nateeje (end conclusion) par seedhe jump karne ke bajaye, raste mein (along the way) samajhte hain." Unka intended learning outcome (seekhne ka nateeja) kya hai? "Page par maujood har cheez forces ka ek juda hua jaal (connected web) hai jo sab aapas mein interact karte hain, aur agar aap ek ko hilate hain, toh aapne poore arrangement ko asar (affected) dala hai." Jab aap yeh padh rahe honge, toh aap soch rahe honge, yeh toh simple aur saaf (obvious) lagta hai. Beshak har cheez judi hui hai! Lekin yeh mumkin hai ki aapki samajh visual (dekhne wali) ke bajaye intellectual (dimaagi) ho; aur yeh aapko dekhne aur create karne ke liye taiyar nahi karta. Wassenaar kahengi, nahi, aap sach mein nahi samajhte ki visual connectedness ko kaise dekhna hai jab tak ki aap kaam na karein.
+
+Richard Mehl 2002 se SVA mein padha rahe hain. Unhone mujhe apni teaching ke shuruati saalon ki ek kahani sunayi. Unke paas ek yaadgaar (memorable) continuing ed (aage ki padhai wali) student thi: ek lawyer jo pehli baar art class le rahi thi. Wo apni mid-forties (45 saal ke aas-paas) mein thi. "Class ke aakhir mein, usne kaha, 'Maine yeh samajh liya (figured out) ki cheezon ko waise kaise dekhna hai jaise aap unhe dekhte hain.' Mujhe ehsaas hua, oh wow, toh main unhe yahi sikha raha hoon, dekhna kaise hai. Us student ne bilkul sahi pakda (nailed it)." Mehl ne students ko dekhna sikhana seekh liya tha, lekin unhe yeh ehsaas nahi hua tha ki wo yahi kar rahe the. Uske baad ke saalo mein, unhone lagatar ek aesi pedagogy (padhane ka tareeqa) develop ki hai jo students ko alag dhang se dekhne mein madad karti hai.
+
+*Dekhna seekhne se mera yahi matlab hai. Aap judgmental (faisla karne wala) banna seekh rahe hain, yeh samajhne ke liye ki aapne in design principles ke lihaz se kya banaya hai. Mujhe yeh kyun pasand hai? Chalo is baare mein sochte hain. Kya chal रहा hai? Wo isey practice ke zariye, cheezon ko karne aur iske baare mein baat karne ke process ke zariye seekhte hain. Wo cheezon ko samajhna shuru karte hain. Wo yeh samajhna shuru karte hain ki wo jo kar rahe hain use kaise dekhna hai. Der-saber (Sooner or later), yeh poori tarah se aadat (intuitive) ban jata hai, aur hamein is ke baare mein aur baat nahi karni padti, kyunki wo bas wahi dekh rahe hote hain jo main dekhta hoon. Yahi sab kuch hai. Main hamesha is idea par wapas aata hoon—aankhein kholna, seekhna, dekhna, dekhna sikhana. Dekhna sach mein important ho jata hai. Aapko lagta hai ki aap jante hain ki aapne kya kiya hai; koi aur isey dekhta hai aur kuch poori tarah alag (completely different) kehta hai. Students is baat se hamesha hairan (surprised) hote hain.*
+
+### **Jab Yeh Kaam Kar Raha Hota Hai (When It's Working)**
+
+**"Main aakar yeh nahi kehta, 'Yeh ache hain, yeh kachra (crap) hain.' Main kehta hoon, 'Kya kaam kar raha hai (working) aur kya kaam nahi kar raha hai? Inmein se kaun sa aesa kuch kar raha hai jo tumhe dilchasp lag raha hai?'"**
+
+Arny Nadler, Washington University in St. Louis
+
+Jab students se poocha jata hai ki wo kisi sathi (peer) ke kaam ke baare mein kya sochte hain, toh wo aksar "Mujhe yeh pasand hai (I like it)" aur "yeh acha hai (it's good)" par wapas aa jate hain. Yeh dekhna seekhne ke raste mein aata hai, kyunki dekhne ke kabil hona yeh seekhne ke baare mein nahi hai ki aapko kya pasand hai aur kya nahi. Professors yeh kehne se bachne ki koshish karte hain ki student ka kaam "acha (good)" hai, aur wo shayad hi kabhi "Mujhe yeh pasand hai" kehte hain (bhale hi unhe yeh pasand *ho*). Wo students ko bhi aisa kehne nahi dete. SVA mein ek painter, Steve DeFrank, khari baatein karte (blunt) hain: "Main students ko 'Mujhe pasand hai' shabdon ka istemal nahi karne deta. Main kehta hoon, 'Mujhe nahi pata iska kya matlab hai.'" Professor ko yeh pasand hai ya nahi, yeh be-matlab (irrelevant) hai. Ek kaam hamesha progress (banne ke amal) mein hota hai, hamesha move kar raha hota hai, hamesha arzi (tentative) hota hai. Isey "acha" kehne ka matlab (implies) hai ki yeh ruka hua (static) aur poora (complete) hai. Iska matlab hai ki student ka kaam khatam ho gaya hai. Iske bajaye, professors aese shabdon ka istemal karte hain jo kaam ko dynamic (harkat mein), process mein, aage badhne ke liye taiyar (poised to move forward) ke taur par describe karte hain. Kaam student se alag ek wajood (separate being) hai aur iski apni khasiyate (qualities) hain. Iske apne ideas hote hain ki yeh kahan ja raha hai.
+
+5 <br>ie Sa re
+
+
+
+**FIGURE 5.2** Ruben Salinas. *Nahimana*. Paper par Black tempera. 18 x 24 inches. 2014.
+
+Toh jab aap kisi student ke kaam ka review kar rahe hote hain toh aap kya kehte hain? Aap unhe kaise batate hain ki wo sahi raste (right track) par hain? Unke process mein aage badhne mein madad karne ke liye aap unhe kya advice de sakte hain? Maine lagatar professors ko, har discipline mein, yeh kehte hue suna "Yeh kaam kar raha hai (It's working)" jab kisi student ka kaam . . . kya, exactly? Main bata sakta tha ki art aur design mein *working* ek zaroori (essential) concept tha, aur yeh dekh pane ki kabiliyat hona ki koi cheez kab kaam kar rahi hai, ek ahem (key) learning outcome (seekhne ka nateeja) hai. Lekin mujhe samajh nahi aaya ki iska kya matlab tha. Isliye maine seedhe taur par poocha: "Kisi cheez ko 'working (kaam kar raha hai)' kehne ka kya matlab hai?" Professors ko ise samjhane mein kafi mushkil (trouble) hui; ya shayad mujhe hi unke explanations ko samajhne mein mushkil hui. "Working" ek aesa shabd hai jise sabhi professors samajhte hain, lekin wo theek se nahi bata sakte ki iska kya matlab hai. Mujhe ehsaas hua ki aap isey tab tak nahi samajh sakte jab tak ki aap dekhna na seekh lein. Jab aap dekhna jante hain, toh aap "working" aur "not working" ke beech ka contrast (farq) dekh sakte hain.
+
+"Working" kaam mein aage ki possibilities (sambhavnaon) ki taraf ishara karta hai. Jab yeh kaam kar raha hota hai, toh isme potential (dam/kabiliyat) hota hai. Julie Varland (architecture, SCAD) ne ek student se kaha ki unka kaam "sambhavit taur par (potentially) ek bahut hi exciting (romanchak) disha (direction) mein ja raha hai." Patricia Olynyk (artist, WashU) ne kaha ki jab koi cheez kaam kar rahi hoti hai, toh yeh "aur zyada complex sawalon ki ek badi tadad (multiplicity) khol deti hai."
+
+Ya wo kahenge ki ek kaam *dilchasp (interesting)* hai, jiska matlab yeh bhi hai ki is par aage kaam karna (pursuing) qabil-e-gaur hai. Maine illustrator Ruben Salinas dwara padhayi jane wali SCAD ki ek foundations class visit ki. Students tarah-tarah ke draft sketches laye the, asal mein sirf possibilities, jinhe wo "thumbnails" kehte the. Unka agla task ek ko chunna aur usi ke sath process ko aage badhana tha. Ek point par, unhone apne students se poocha, "Aapke liye sabse interesting kaun sa hai? Main khud se yahi poochta." Wassenaar ne students ko yeh sikhane ke baare mein baat ki ki "kin ideas ko pursue (aage le jana) karna interesting hai, aur kinhe nahi."
+
+Studio critiques mein dusre aam shabd *successful (kamyaab)*, *viable (mumkin)*, aur *effective (asardaar)* hain. Yeh sab *working* ke variants (roop) hain. Ek painting ya sculpture "not working" ya gair-asardaar (ineffective) kaise ho sakta hai? Yeh tasavvur (imagine) karna mushkil nahi hai ki ek advertisement asardaar ho sakta hai; SCAD ke ek advertising professor ne ad ki effectiveness (asardari) ki ehmiyat par zor diya. WashU mein communication design mein Douglas Dowd ne bhi kaha, "aapko mere liye kuch aesa banana hoga jo mazboot (strong) aur asardaar (effective) ho." Advertising aur communication design dono hi dekhne wale (viewer) ko prabhavit (influence) karne ki koshish kar rahe hain. Mujhe lagta tha ki ek painting kuch *karne (do)* ki koshish nahi kar rahi hoti. Main galat tha.
+
+Nadler ne mujhe bataya: "Artists aur designers cheezon ko dekhne aur gaur karne (look at) ke naye tareeqe ijad kar rahe hain. Nayi visual possibilities pesh kar rahe hain jinhe dekhne ke log aadi (used to) nahi hain." Maine unse poocha, aap students ko yeh dekhna kaise sikhate hain ki unki kin cheezon mein potential hai?
+
+*Main kahunga, "Okay. Kya kaam kar raha hai aur kya kaam nahi kar raha hai?" Ya main kahunga, "Inmein se aapko kis cheez mein dilchaspi (interests) hai aur kyun? Inmein se kaun sa aesa kuch kar raha hai jo aapko dilchasp lagta hai?" Aapko bas unke liye aisa karne ke experiences (tajurbe) set up karne hote hain. Mera kaam aise visual connections banana hai jo wo nahi bana pa rahe hain. Main aise nuances (baarikiyan) dekh pata hoon jo shayad wo shuru mein (right off the bat) notice nahi kar paate. Main aisi possibilities dekh pata hoon jinhe dekhne ke qabil abhi wo puri tarah nahi hain.*
+
+Jab painter Stephen Knudsen SCAD mein apne students ke sath famous painters par charcha (discuss) karte hain, toh wo students ko unki paintings ko ek naye tareeqe se dekhne mein guide karte hain. Unhone mujhe ek misaal di ki wo apne students ke sath kya karte hain: "Kya ho agar hum ek Rothko ko lein aur use tod dein (de-assimilated)? Kya farq hoga? Hum cheezon ko kat-te hain (dissect) aur unhe barbad (ruin) karte hain taaki dekh sakein ki wo kaise kaam kar rahe hain." WashU mein ek painter, Lisa Bulawsky bhi kehti hain ki wo students ko yeh dekhna sikhati hain ki "kaam kaise banaya gaya tha ya kaam kyun banaya gaya tha." WashU ki ek aur painter, Patricia Olynyk ne mujhe bataya ki wo students se dusre artworks ko dekhne aur poochne ke liye kehti hain: "Wo kaun se mechanisms (tareeqe) hain jinke zariye yeh artworks kaam karte (work) hain?" Yeh intentionality (irade) aur decisions (faisle) kaise liye jate hain yeh samajhne ke baare mein hai. SCAD ke advertising professor lagatar students se poochte hain, "Isey is dusre tareeqe se kyun nahi kiya gaya? Kya yeh aur bura hota, aur kyun?"
+
+### **Idea aur Reality ke Beech ka Disconnect (Fasla)**
+
+**Kabhi-kabhi idea aur unhone jo asal mein banaya hai (actually made) uske beech ek bahut bada disconnect (fasla) hota hai. Toh use wazeh (articulating) karna definitely process ka hissa hai.**
+
+Amy Honchell, painter aur sculptor, School of Visual Arts
+
+Dekhna seekhna aasaan nahi hai. SCAD ki ek architect, Julie Varland ne kaha: "Yeh Mount Everest ki unchai wali ek khayi (cliff) hai." Baad mein, unki studio class ko observe karte waqt, maine unhe ek critique ke dauran ek student se yeh kehte hue suna: "Aap aisi bahut si cheezon ke baare mein baat kar rahe hain jo asal drawing mein nahi hain." Yeh wahi *mismatch* (mel na khana) hai: jab kaam ke liye student ka irada (intention) us cheez se match nahi karta jo student ne banayi (generated) hai. Isse pehle ki students dekh sakein, wo yeh dekhne ke qabil nahi hote ki wahan koi mismatch hai. Wo apne kaam ko dekhte hain aur unhe lagta hai ki yeh unke irade ko darshata (reflects) hai. Studio critiques ka ek zaroori goal (maqsad) students ko in mismatches ko dekhne mein guide karna hai. Zyada-tar professors ka kehna hai ki isme kam se kam do saal lagte hain.
+
+**FIGURE 5.3** Julie Varland critique, architecture, SCAD. 2010.
+
+Jab students apna draft deewar par lagate hain, aur class ko yeh batate hue critique shuru karte hain ki unhone kya kiya hai aur kyun, toh professor jaldi hi samajh jate (realizes) hain ki wo jo keh rahe hain wo deewar par lage kaam se match nahi kha raha. Jab aesa hota hai, toh aap asani se student se keh sakte hain, "tum jo keh rahe ho wo main nahi dekh raha hoon," aur professors aksar aesa karte hain. Lekin wo jante hain ki unhe batana kafi nahi hai. Students tab tak sach mein nahi samjhenge jab tak ki unhe ek process se guide na kiya jaye.
+
+Steve DeFrank (SVA) ne mujhe yeh kahani sunayi jo dikhati hai ki cliché kaam kis tarah idea aur reality ke beech ek mismatch ka nateeja (results) deta hai:
+
+*Kuch saal pehle ek student, khuda bhalayi kare jawan logo ki (God bless youth), is jawan aurat ne chhote bacchon (tiny babies), gudiya jaisi cheezon ki casts (sanche) banaye. Aur phir unhe nakli khoon (fake blood) mein duboya aur chakuon (knives) ke sath latka diya. Kafi khooni, kafi aam (generic), lekin inmein se kuch bacchon ke liye, yeh pehli baar koi statement dene ki koshish (trying to make a statement) hoti hai. Aur critique mein, sabhi students ne kaha, aisa lagta hai ki yeh abortion (hamal girane) ke baare mein hai. Student bas sharm se laal (bright red) ho rahi thi. Jab uske bolne ki baari aayi, toh usne kaha, iska abortion se koi lena-dena nahi hai. Mujhe yakeen nahi ho raha ki aap log yeh dekh rahe hain. Aur hamara reaction tha, sach mein (really)? Agar tum yeh nahi dekh sakin, toh tum ek tarah se andhi (blind) ho! Aur saalon baad, jab wo ek senior thi, toh wo mere paas aayi aur boli, My God, Steve, mujhe yakeen nahi hota ki maine yeh nahi socha ki yeh abortion ke baare mein tha. Maine kaha, kabhi-kabhi hum jo banate hain uske liye hum andhe (blind) hote hain. Kabhi-kabhi hamein nahi pata hota ki hum kya banate hain, aur saalon baad, hamein pata chalta hai.*
+
+Maine kuch hafton baad DeFrank ko email kiya, jab main hamare interview ko transcribe kar raha tha, yeh poochne ke liye ki us student ne kya *socha* tha ki usne kya kiya hai. "Usne mujhe bataya ki wo kuch alarming (darawna/chaukane wala) karna chahti thi. Toh usne kuch shocking aur disturbing banane ki koshish ki. Bloody babies (khooni bacche), ek naye artist ke liye, bahut cutting edge (naya/advance) the. Agar har bloody baby sculpture aur cigarette butts wali Jack Daniels ki bottle ke liye mujhe ek nickel (sikka) milta, toh main ek ameer aadmi hota!" Art aur design padhane wale har insaan ko aesa hi experience hota hai. "Yeh sach mein mazakiya (funny) hai. Sculpture faculty ka ek lagatar chalne wala mazaak tha un saari cheezon ke baare mein jinhe hum unke hadd se zyada istemal (overuse) ki wajah se ban karna chahte the. Bloody babies sabse upar the, usi tarah cigarette butts, beer ya alcohol ki bottles, aur bloody Jackson Pollock marks bhi. Mujhe lagta hai ki art school ke professors ek sath aayen toh hamein ehsaas hoga ki hum sabki aesi hi (similar) kahaniyan hain."
+
+**Students kabhi-kabhi ek mamuli (mediocre) formal idea ke upar ek uncha (lofty) concept rakh dete hain. Jab students concept ko pehle rakhte hain, toh hum insaan par insaan ke zulam (man's inhumanity) ke baare mein lamba-chauda (endlessly) bol sakte hain, aur phir hum kabhi bhi deewar par lage us object (cheez) ke baare mein sach mein baat nahi karte.**
+
+Steve DeFrank, SVA
+
+DeFrank ne students ko apne mismatches ko aur jaldi dekhne mein madad karne ke liye ek hal (solution) nikala: "Main students ko shuru mein bolne nahi deta kyunki wo batane (communicating) mein bahut ache hote hain. Maine bahut baar dekha hai ki koi insaan par insaan ke zulam (man's inhumanity to man) ke baare mein baat kar raha hota hai aur mujhe wo nahi dikhta. Mujhe bas paper par colored pencil dikhti hai. Agar main artist ko bolne doon, toh baki sabhi students kahenge, oh haan, main wo dekh sakta hoon. Aur main soch raha hota hoon nahi, tum wo bilkul nahi dekh rahe ho. Toh main shuru mein student ko bolne nahi deta, aur phir jab wo apna lamba chauda bhashan (spiel) dete hain, toh baaki sabhi students, wo kehte hain yeh bakwas hai (call bullshit), yeh waisa nahi lag raha jise hum dekh rahe hain." SVA ke photographer Accra Shepp ne bhi isi experience ko dohrata (echoed):
+
+*Jab students pehli baar kaam ke baare mein baat karna shuru karte hain, oh my gosh, wo in cheezon mein kood padte (launch into) hain. Yeh sab abstract (khayali) baatein hoti hain. Aur main kehta hoon, "Kya tum picture ki taraf ishara (point) karke mujhe bata sakte ho ki connection kahan hai? Yeh physically (zaahiri taur par) kahan ho रहा hai?" Yahan tak ki jo log conceptually (ideas par) kaam karte hain unhe bhi yeh jan-na zaroori hai. Image ko hi asal message dena hoga (carry the water) aur isse bachne ka koi rasta nahi hai.*
+
+*Students soch sakte hain ki wo ek cheez kar rahe hain lekin wo sach mein kuch aur hi kar rahe hote hain. Khud ko dhokha dena (Self-deception) kafi aam (frequent) hai. Toh main unhe sun raha hota hoon aur hamesha un par vishwas nahi kar raha hota. Kabhi-kabhi wo mujhse bas saaf jhooth (lie outright) bolte hain aur mujhe kuch sach mein bewaqoofi (stupid) bhari baat batate hain. Main jawab deta hoon, khair, yeh kaam mein toh nahi hai, jo main dekhta hoon wo yeh hai. Aur phir wo jhenpte hue (sheepishly) muskurate hain kyunki wo jante hain ki wo jhooth bol rahe the.*
+
+Catalina Freixas ek architect hain jo WashU mein first-year students ko padhati hain. Unka bhi ek aesa hi (similar) tajurba (experience) hai. "Kabhi-kabhi unhe lagta hai ki wo jo kar rahe hain wo wo nahi hota jo wo bana rahe hote hain. Sochna (Thinking) aur banana (making) ek sath nahi aate, aur yeh ek problem hai, kyunki jab wo bayan (express) karte hain ki wo kya soch rahe hain, toh wo (kaam mein) nazar nahi aata (doesn't come through)." Ek desk crit (desk par jaize) mein, wo student ke sath baithti hain, aur "hum dono us project ko samajhne aur streamline (seedha/asaan) karke kuch aesa banane ki koshish kar rahe hote hain jisme unke sochne aur banane ke beech tal-mel (coherent) ho." Desk crits ke alawa har student ke sath unki ek-ghante ki private meetings hoti hain. Un meetings mein, "Main yeh pakka (make sure) karti hoon ki unhe pata ho ki unke khali-pan (voids) ya disconnects (faslay) kahan ho rahe hain. Agar koi aisi cheez hai jahan unki drawings unki baton se align (mel nahi kha rahi) nahi hain, ya unki drawing mein us baat ko support karne ke liye kisi cheez ki kami hai jo wo keh rahe hain, toh main unse wapas jane aur usay apne design mein dobara shamil (retrofit) karne ko kehti hoon."
+
+Jab Freixas students ke sath unke idea ko unke kaam ke sath align (milane) karne mein madad karne ke liye kaam karti hain, toh wo isey *streamlining* kehti hain. Hamare interview ke baad, maine Freixas ki studio class visit ki (dekhein figure 5.4). Maine unhe ek student se yeh kehte hue suna: "Main chahti hoon ki tum yeh samjho ki jab tum represent (dikha) kar rahe ho, jab tum koi statement (dawa) dete ho, toh isey wahan hona chahiye. Warna, isme koi dam (no teeth) nahi hai. Tum jo baatein kar rahe ho uske hisab se is waqt tumhari drawings bahut, bahut romantic (khayali) hain."
+
+**FIGURE 5.4**
+
+Catalina Freixas critique, architecture, Washington University in St. Louis. Freixas deewar par lage student ke kaam ki taraf ishara kar rahi hain; student unke piche chhipa hua hai. Samne (foreground) baithe students ka class mein baad mein apna critique hoga. 2011.
+
+Mismatch (mel na khana) zaroori nahi ki koi problem ho. Iska matlab yeh nahi hai ki student ne koi sharminda karne wali galti (embarrassing mistake) ki hai. Iska matlab yeh nahi hai ki student ek bura architect hai. Yahan tak ki professional artists aur designers bhi aisi cheezein banate hain jo unhe hairan (surprise) karti hain, kuch aisa jo waisa nahi hota jaisa unhone socha tha ki wo kar rahe hain. Problem mismatch nahi hai; problem isey na dekh pana hai. Ek mismatch dilchasp (exciting) hota hai kyunki yeh kuch aesa zahir (reveals) karta hai jiski aapko umeed nahi thi. Yeh koi failure (nakaami) nahi hai; yeh iteration (dohraav) ka ek mauka hai. Aap sunte hain ki kaam aapse kya keh raha hai aur aap us naye raste par chalte hain jis par yeh aapko le jata hai. Experienced artists aur designers apne khud ke working process mein mismatches ki umeed (expect) karte hain, aur wo jante hain ki students bhi unka tajurba (experience) karenge. Mismatches ek aise creative process ko aage badhate (drive) hain jahan aap kaam ke sath ek khoj bhare dialogue (exploratory dialogue) mein shamil (engage) hote hain.
+
+Mismatch ko dekh pane ke kabil hona kaam ke sath dialogue ke raste (path) ka pehla qadam (step) hai. Lekin students nahi dekh pate ki wahan koi mismatch hai. Pedagogical (padhane wala) challenge do-tarfa (twofold) hai: Pehla, students ko aisi jagah pahunchna hoga jahan wo mismatch ko dekh sakein. Dusra, students ko mismatch ko ek mauke (opportunity) ke taur par dekhna seekhna hoga, na ki apne irade (intention) ko poora karne mein nakaami ke taur par. Idea aur haqeeqat (reality) ke beech ki kashmakash (tension) process ko aage badhati hai.
+
+Jab students dheere-dheere dekhna seekh rahe hote hain, toh wo in mismatches ko notice (dhyan dena) karne mein behtar ho jate hain. Shuru mein, wo isey ek failure mante hain. Wo kaam ko apne shuruati irade (original intention) ke sath align (milane) karne ke liye modify (badalne) ki koshish karte hain. Yeh instinct (aadat) creativity ke linear model ko pakde rakhne se aati hai: Aap ek idea ke sath shuru karte hain aur phir aap us idea ko execute (pura) karte hain. Lekin jab aap apne irade (intention) ko kaam par thopne (force) ki koshish karte hain, toh aap kaam ko waisa dekhna band kar dete hain jaisa wo hai. Ek kamyaab (successful) creative process mein, aap kaam ke sath ek dialogue mein involve (engage) hote hain. Jab aap idea ko hawi hone (dominate) dete hain, toh aap kaam ko dabane (override), use kabu (behave) mein karne, use wo karne par majboor karne ki koshish karte hain jo aap chahte hain. Art ke baare mein yeh ek aam galatfehmi (misconception) hai: Artist ke paas ek message hota hai aur phir wo us message ko apne medium ke materials mein communicate (bhejne) karne ka kaam karta hai. Lekin jab aap original idea se match karne ke liye kaam ko modify (badalne) ki koshish karte hain, toh iska nateeja gair-asardaar (less effective) creativity hota hai.
+
+Los Angeles mein ek graphic designer Louise Sandhaus, jo California Institute of the Arts (CalArts) mein padhati hain, unke sath ek baatcheet mein humne is baare mein discuss kiya ki kaise students aksar kuch aesa banate (generate) hain jo usse alag hota hai jiske baare mein unhone socha tha ki unhone kiya hai. Wo pehle unhe mismatch ko notice karne ke liye guide karti hain. Phir wo unhe is baat par gaur (consider) karne ke liye guide karti hain ki unhone jo banaya hai uski haqeeqat (reality) unke original idea se behtar ho sakti hai: "Wo jahan pahunche hain wo us nateeje se behtar hai jahan wo soch rahe the ki wo ja rahe hain." Jab students apne kaam ko saaf taur par (clearly) dekh sakte hain, toh wo apne process mein zyada asardaar tareeqe se aage badhte hain.
+
+Behtar ideas materials ke sath ek dialogue se ubhar kar (emerge) aate hain. Instructors students ko naye idea ya problem ko dekhne ke liye guide karte hain jo kaam se ubhar kar aaya hai, aur us nayi problem ya sawal ko pehchan-ne (identify) mein madad karte hain jo kaam ne unke samne pesh kiya hai. Learning goal (seekhne ka maqsad) students ko apne original idea ko kam ehmiyat (deemphasize) dene mein madad karna hai, aur unka dhyan (focus) ideas ko ubharne (emerge) ka mauka dene ke liye process par bharosa (relying) karne ki taraf modna (shift) hai.
+
+Mismatches aksar isliye hote hain kyunki students pehle se hi us aakhiri kaam (final work) ki ek tasveer (internal representation) bana chuke hote hain jiski unhe umeed hoti hai, aur sochte hain ki wo jo final image banane ka irada (intending) kar rahe hain wo kaam mein dikhai de rahi hai. Yahi ek wajah hai ki professors mante hain ki aakhiri nateeje (endpoint) par focus students ko ek kamyaab creative process se guzarne se bhatkata (distracts) hai, aur iska nateeja gair-asardaar (ineffective) kaam hota hai. Sandra Reed, ek SCAD painting professor ne mujhe bataya: "Maine teaching ke saalon se yeh seekha hai ki ek naye (young) artist ko behtareen ideas aayenge aur wo apne dimaag ki aankhon (mind's eye) mein dekh lega ki final painting kaisi dikhti hai. Lekin jaise hi unka samna materials se hota hai, wo kho jate hain. Wo bahut asani se nirash (discouraged) ho sakte hain." Unhone kaha ki unka maqsad students ko "kaam kaisa dikhta hai aur idea kya hai, iske beech ki kashmakash (tension)" ko hal (resolve) karne mein madad karna hai. Students ko aksar "form ko kaam mein lane (make the form work) ke liye un cheezon ko chhodna padta hai jo idea ke lihaz se unke liye bahut ahem (precious) thin."
+
+UNC ki ek printmaker Beth Grabowski ne kaha:
+
+*Yeh ek aam problem hai, ki kaam irade (intention) ke sath align (mel) nahi khata. Kaam kis baare mein hai (what the work is about) aur kaam ko kis cheez ne prerit kiya (what motivated the work) iske beech ka idea. Apne students ke sath, main ek artist ke motivating ideas (prerit karne wale khayalat) aur kaam ka matlab (meaning) kya hai, iske beech ek saaf farq (clear distinction) rakhti hoon. Main kisi student se kabhi nahi poochti, Tum kya karne ki koshish kar rahe the? Main unse poochti hoon, Jab tumne yeh shuru kiya tha toh tum kya soch rahe the. Tumhare motivating ideas kya the? Wo sachai (truth) jiske baare mein main bilkul shuruat se baat karti hoon wo yeh hai ki meaning (matlab), ek capital M ke sath, aisi cheez nahi hai jis par artist ka bahut zyada control hota hai. Us meaning ko dekhne wala (viewer) mukammal (completed) karta hai. Hamesha kuch ajeeb log (outliers) honge, lekin agar log lagatar aapke kaam mein kuch aisa padhte/samajhte (read into) hain jise aap wahan nahi chahte, toh aapko thoda kaam karne ki zaroorat hai.*
+
+### **Baat Karna aur Dekhna (Talking and Seeing)**
+
+**Hum unke ideas ko tod (break down) dete hain aur unhe cheezon ke baare mein sochne ke naye tareeqe dikhate hain. Wo yakeenan creative hain, lekin hamein unki creativity ke baare mein aur zyada soche-samjhe (deliberate) banna padta hai aur unki creativity ke andar conceptual (khayali) ideas ke baare mein sochna padta hai. Unhe explain (samjhana) karna padta hai ki unhone jo chunav (choices) kiye, wo kyun kiye.**
+
+Cheryl Wassenaar, painter aur sculptor, Washington University in St. Louis
+
+Students ko dekhna seekhne mein madad karne ka ek keemti (valuable) tareeqa unse unke process aur unke kaam ke baare mein baat karwana hai. Shuru mein, unhe apne kaam ke baare mein saaf taur par (clearly) baat karne mein mushkil (struggle) hoti hai. Aisa isliye nahi hai ki unhone nayi terms aur fancy art ki duniya ki zuban (lingo) nahi seekhi hai. Aisa isliye hai kyunki unhe abhi tak yeh nahi pata ki sochna kaise hai aur dekhna kaise hai. Is baat ki ek nishani (sign) ki students saaf (clearly) nahi dekh rahe hain, yeh hai ki wo gol-mol (vague) ya un-clear (ambiguous) terms ka istemal karte hain; professors unhe aur zyada specific (khaas) hone ke liye guide karte hain. Yahan Heather Corcoran ki WashU mein communication design class se ek typical (aam) example hai. Assignment ek aesi posters ki jodi (pair) design karna hai jo "dilchasp sathiyon (interesting companions) ke roop mein kaam (function) karein." Ek student ne apne do posters deewar par ek sath (side by side) pin kiye hain, aur Corcoran us kaam par charcha (discuss) kar rahi hain (dekhein figure 5.5). Niche diye gaye transcript ko padhein aur dekhein ki jab student "not interesting (dilchasp nahi)" aur "simple (aasaan/sada)" shabd bolti hai toh Corcoran kaisa respond (jawab) deti hain.
+
+**FIGURE 5.5**
+
+Heather Corcoran critique, Word & Image Studio 2, Washington University in St. Louis. 2011.
+
+*Corcoran:* Okay. Toh, hum jo dekh rahe hain usay aap kaise judge (evaluate) karti hain?
+*Student:* Image ke lihaz se, mujhe images ka pair (joda) pasand hai. Um, aur text (likhawat), mujhe bas aisa lagta hai ki, text thoda, mujhe nahi pata. Yeh bas dekhne mein itna dilchasp (interesting) nahi hai.
+
+*Corcoran:* Kya aap thoda aur specific (khaas) ho sakti hain?
+
+* *Student:* Um . . . okay. Khair, main, mujhe bas aisa lagta hai ki wahan hai, mera matlab hai shayad yeh bas is haqeeqat ki wajah se hai ki mere, mere dono posters bahut simple (saade) hain. Jaise ab, text bhi bahut, bahut simple hai, aur jaise, main, main bas pakka nahi keh sakti, jaise . . .
+* *Corcoran:* "Simple" . . . ek mushkil shabd hai . . . kya aap mujhe thoda aur samjha sakti hain?
+
+*Student:* Um, mujhe lagta hai ki isme bas variation (badlaav) jaisa kuch nahi hai, isme bas zyada variation nahi hai.
+
+*Corcoran:* Khair, scale (size) mein toh kafi variation hai.
+*Student:* Mujhe lagta hai, mera matlab hai, teen alag-alag sizes hain, mujhe lagta hai.
+*Corcoran:* Sahi. Aur aapne apna medium size kaise tay kiya (derive)?
+
+Corcoran student se apne kaam ke baare mein baat karne ko keh rahi hain, lekin wo asal mein student ko uska kaam *dekhne (see)* par majboor karne ki koshish kar rahi hain. Student vague (gol-mol) shabdon ka istemal isliye nahi karti kyunki wo art ke baare mein baat karne ke tareeqe se anjaan (uneducated) hai; aisa isliye hai kyunki wo abhi tak apne kaam ko saaf taur par (clearly) nahi dekhti. Corcoran iski umeed rakhti hain; wo janti hain ki students kya nahi jante. Is tarah se padhane mein sabr (patience) ki zaroorat hoti hai, aur maine jin professors ko observe kiya unme yeh bahut tha.
+
+WashU ki ek typeface design ki class mein, ek one-on-one table crit (jaiza) mein, Ken Botnick ne ek student ko saaf-goi (articulation) ki ehmiyat par zor diya:
+
+*Main chahta hoon ki tum jo kar rahe ho use kisi hadd tak specificity (khasiyat/wazahat) ke sath describe (bayan) karne ke kabil ho, taaki A, tum us khas situation (halat) mein kirdaron (actors) ko pehchaan (identify) aur badal (modify) sako, lekin B, taaki tum yeh figure out (samajh) sako ki isey dobara (replicate) kaise karna hai, aur agli baar behtar kaise hona hai. Ambiguous (gol-mol) terms ka istemal mat karo, unki koi value (qadar) nahi hai. Kyunki yeh tumhe conceptual (khayali) taur par zimmadariaon se bacha leta hai (lets you off the hook).*
+
+Jab students dekhne ke qabil ho jate hain, toh wo jo kuch bhi unhone kiya hai uske baare mein saaf (clearly) aur deeply (specifically) baat kar sakte hain. Professors students ko yeh seekhne mein guide karte hain ki apne kaam ke baare mein kaise baat karni hai; baat karne ka yeh naya tareeqa unki soch (thinking) ko saaf (clarifies) karta hai. Yeh unhe faisle (decisions) lena seekhne mein madad karta hai, aur yeh unhe yeh seekhne mein madad karta hai ki unhone jo kiya hai wo successful (kamyaab) kyun hai ya kyun nahi hai, jisse wo apne process ke sath aur zyada soche-samjhe (deliberate) ban sakte hain.
+
+### **Hum Dekh Sakte Hain Ki Kab Students Dekhna Shuru Karte Hain (We Can See When Students Start to See)**
+
+**"Abhi, hum semester ke shuru mein hain. Hum ek line (lakeer) ki ehmiyat ke baare mein seekh rahe hain. Chalo ek line ki ehmiyat ke baare mein baat karte hain. Yeh sun-ne mein pagalpan (crazy) lagta hai, lekin class ke aakhir mein, students ko itna dhyan lagana (concentrate) padta hai ki wo thak (exhausted) jate hain. Unhone mujhse kaha, 'Maine apni zindagi mein kabhi itne gaur se (so hard) nahi dekha.' Mere liye, yahi iska asal maqsad (what it's about) hai. Aap un aankhon ko (eyeballs) kaise kholte hain aur unhe duniya mein ghoomne aur alag dhang se dekhna shuru karne ke kabil kaise banate hain?"**
+
+Steve DeFrank, School of Visual Arts, apni first-year foundations drawing class ke baare mein baat karte hue
+
+Main apni UNC ki colleague Beth Grabowski ke sath baitha aur unse poocha ki "dekhne" ka kya matlab hai. Unhone jawab diya:
+
+*Yeh mindfulness (hoshmandi/dhyaan) ki bhasha mein jata hai. Yeh dheema hona (slowing down) aur cheezon ke baare mein aagah (aware) hona hai. Jab main foundations padha rahi thi, ek baar humne shadows (parchaiyon), aur roshni aur parchai (light and shadow), aur roshni ki alag-alag categories aur roshni ki disha (directionality) ne cheezon ko kaisa alag dikhaya, is baare mein baat karna shuru kiya tha. Us introductory class ke baad maine unse bahar jane aur kuch sketches banane ya bas shadows ko observe karne ko kaha. Students mein se ek wapas classroom mein aati hai aur hairani (surprise) se kehti hai, "har taraf shadows hain!" [Hasti hain.]*
+
+Aap ise khud kisi dhoop wale din (sunny day) try kar sakte hain. Jab aap yeh kitab niche rakh kar din ki apni agli activity par jayein, toh is baat par khass dhayan dein (make a point) ki shadows kahan hain. Yeh koi building ho sakti hai, yeh koi street sign ho sakta hai, yeh ped ke patte (leaves) ho sakte hain. Rukein (Pause) aur dhyan (intention) se shadow ko dekhein. Curves (ghumav) aur seedhi lines ko notice karein. Phir, apni nazar ko ultayen (invert) aur shadows ko dekhna band karein. Iske bajaye, shadows ke andar un dhoop wali jagahon (sunny spaces) ko dekhein, wo jagah jo dhoop pa rahi hain. Grabowski ne studio class mein apne goal ko bayan (describe) karna jaari rakha:
+
+*Yeh cheezon ke baare mein unki aagahi (awareness) badhana hai. Hum jo karte hain wo darasal logon ke dimaag ko pehle se bani soch (preconceptions) se khali karne ki koshish karna hai. Phir hamara kaam unhe aisi nayi sochon (conceptions) se wapas bharna hai jo unki duniya ki apni empirical (tajarbe par mabni) samajh par aadharit hon, bajaye kisi aisi cheez ke jo unhe batai gayi ho ya unhone seekhi ho ya culture se imported (laayi gayi) ho. Phir hamein kehna padta hai, "Okay, hum isey ek taraf (aside) rakhne wale hain, iska matlab yeh nahi ki hum kisi aesi cheez ko bekar (discount) keh rahe hain jis par aap pehle vishwas (believed) karte the. Hum yeh nahi kahne wale ki yeh galat tha ya is par judgement paas karenge. Lekin bas is baat se aagah rahein ki yeh ek aesa khayal (thought) hai jo aapki parvarish (upbringing) ke kisi point par banaya (constructed) gaya tha. In banawaton (constructions) ke baare mein aagah (mindful) rahein." Yeh us kaam ka hissa hai jo aap kar rahe hain: un pehle se bani sochon (preconceptions) ko test karna.*
+
+SCAD foundations professors ke sath mere lunch mein, unhone students ko yeh dekhna sikhane ke baare mein baat ki ki shadows (parchaiyon) ka color hota hai. Betty ne kaha:
+
+*Hum abhi (right now) yeh color drawing kar rahe hain aur unmein se bahut se log darr rahe (freaking out) hain kyunki "Mujhe nahi pata kya karna hai," kyunki hum black and white karte aa rahe hain. Misaal ke taur par, aapko shadows mein blues (neele rang) dalne honge. Kayi baar wo isey nahi dekhenge. Mera matlab hai, students kisi aisi cheez ko dekh rahe hain jo gray hai, aur aap kehte hain, "Kya aapko nahi dikhta ki shadow mein yeh kitna blue ya kitna purple hai? Kya aapko nahi dikhta ki roshni mein yeh kitna yellow hai?" Wo use turant (right then) nahi dekhenge. Lekin bahut baar, mere paas students baad mein aate hain aur kehte hain, "Aap janti hain, maine ise us tarah se nahi dekha tha lekin, lekin ab jabki aapne isey point out (ishara) kiya hai aur main yeh kar raha hoon, mujhe yeh dikhta hai." Hum jo kar rahe hain wo unke cheezon ko dekhne ka tareeqa badal deta hai. Kya yeh creative hai? Mujhe umeed hai ki yeh unhe ek skill ya cheezon ko alag dhang se dekhne ki kabiliyat de raha hai. Mere liye, iska poora matlab yahi hai.*
+
+Phir unhone group mein shamil dusre logon se poocha: "Toh, kya yeh unhe bahar jane aur duniya ko alag dhang se dekhne par majboor karta hai?"
+
+Linda jawab deti hain:
+
+*Haan, mujhe lagta hai ki yeh karta hai. Kuch cases mein, mere paas students baad mein wapas aaye hain aur unhone kaha, "Aap janti hain, main duniya ko dekh raha hoon, aur har cheez milne (lining up) lagi hai. Yeh is se connect (judta) hota hai aur wo us se connect hota hai." Aur maine kaha, "Haan, yahi hai!"*
+
+Betty confirm karti hain (affirms), yeh kehte hue:
+
+*Yeh beej (seeds) hain, aap samajh rahe hain main kya keh rahi hoon? Hum beej bo (planting) rahe hain.*
+
+Heather Corcoran (WashU) waqayi bahut excited ho jati hain jab unhe ehsaas hota hai ki ek student dekhna shuru kar raha hai: "Yeh yakeenan sikhaya ja sakta hai (teachable). Agar wo isey chahte hain, toh wo isey seekh lenge. Yeh chahat (desire) ki baat hai. Yeh dekhna sach mein bahut exciting hai! Hum dekh sakte hain ki kab wo isey dekh pate hain. Yeh be-misaal (incredible) hai. Wo samajh jate hain (They get it)." Lynn Tomaszewski (SAIC) ko bhi wahi khushi (excitement) hoti hai jab wo kisi student ko samajhte hue (get it) dekhti hain: "Jab main drawing padha rahi hoti hoon, toh main sach mein dekh sakti hoon ki wo kuch samajh (perceiving) rahe hain. Yeh kafi inaam-wala (rewarding) hota hai."
+
+Students ke liye dekhna seekhna itna mushkil kyun hai? Wassenaar ne mujhe bataya:
+
+*Hamara dimaag ise rok nahi sakta (can't help it). Yeh bas kisi aisi cheez se wapas judna chahta hai jise hum jante hain. Main chahti hoon ki students yeh samjhein ki aisi visual (dekhne wali) cheezein hain jo aap kisi cheez ki apni samajh (perceptual understanding) ko guide (direct) karne ke liye kar sakte hain. Hum isey poori tarah se control nahi kar sakte, lekin agar hum chahte hain ki koi cheez sterile (saf-suthri/rukhi) dikhe, ya agar hum chahte hain ki yeh shant (calm) dikhe, toh isme ek farq hai. "Sterile" aur "calm" mein bahut si baatein ek jaisi (in common) hain, lekin jab aap ek sach mein simple language ka istemal kar rahe hon toh hum in cheezon ke beech visually (dekhne mein) kaise farq (differentiate) kar sakte hain? Main chahti hoon ki wo ek visual language ke base tools (bunyadi ozar) ko samjhein. Hum kisi cheez par kaise respond karna shuru karte hain ise direct (disha dene) ya shape (aakar dene) karne ke liye unhe tools ka istemal karna padta hai.*
+
+Los Angeles mein hamare interview ke dauran, Louise Sandhaus hath mein pen lekar mera questionnaire padh rahi thin. Wo tay (deciding) kar rahi thin ki wo art aur design teaching ke baare mein mere ekhattar (71) statements mein se har ek ke sath kitna sehmat (agreed) hain. Ek 5 ka matlab hai ki aap strongly agree (poori tarah sehmat) hain. Jab wo is statement par aayin "Main students ko dekhna sikhati hoon," toh unhone do exclamation points (!!) ke sath ek 5 likha:
+
+| 18.1 help students connect what they've done to the discipline—to past and contemporary
+
+
+
+EY} works and artists.‘ Feld,
+
+
+
+Sl! 19. | teach students how to generate work that engages and communicates with the viewer.
+
+
+
+Sibo, | teach students how to see.
+
+
+
+**FIGURE 5.6** Louise Sandhaus, CalArts, validation interview scan. 2017.
+
+Jab wo likh rahi thin, unhone kaha:
+
+*Oh, main students ko dekhna sikhati hoon, theek hai na. Yeh behad zaroori (crucial) hai. Wo jo dekh rahe hain use apne andar utaarne (internalize) ke qabil hona aur wo jo dekh rahe hain uski khasiyaton (qualities aur characteristics) ko dekhna. Yeh gehrai se dekhna (looking) aur samajhna (seeing) hai. Abhi, main students ko Moholy-Nagy par is exhibition ko dekhne jane ke liye taiyar kar rahi hoon, toh wo jayenge aur wo isey dekhenge (look at), lekin aesi kya cheez hai jo wo dekhenge (see)? Unhe dekhne (see) ke kabil hona padega tabhi wo dekh payenge (see), apne kaam ke zariye aur dusron ke kaam ke zariye, ki kya kaam nahi kar raha (not working). Yahan ki education dekhne ke qabil hone ke baare mein hai. Education chashme ke ek jode (pair of glasses) ki tarah hai; yeh kuch khas cheezon ko focus mein lata hai. Aapko us lens ke zariye dekhne ki training di ja rahi hai.*
+
+### **Ek Saajhi Visual Language (A Shared Visual Language)**
+
+Mid-twentieth-century ka Bauhaus school mere interviews mein baar-baar samne aya. Bauhaus style ka midcentury modernist art, design, aur architecture par bahut bada asar (major influence) tha (dekhein figure 5.7). Bauhaus ne art aur design ko ek manne (unity) ki himayat (advocated) ki. School ke pehle saal mein, students design aur color theory ke basic elements aur principles seekhte hain, aur art aur design ke students ek sath courses lete hain. Kai professors ne Bauhaus ke mash-hoor (legendary) educators ka zikr kiya, jinme Josef Albers aur Johannes Itten shamil hain. SVA mein Richard Mehl, Bauhaus se bahut asar-andaaz (deeply influenced) hain. "Main Josef Albers ke padhane ke tareeqe (way of teaching) se bahut mutasir (enamored) hoon aur main apni teaching mein unke kai ideas ka istemal karta hoon." SVA mein hi Tobi Kahn kehte hain ki wo Josef Albers ke approach ka istemal karke color theory padhate hain, samjhate hue ki "Hunter College mein, jahan se maine apna BA kiya, mere kai teachers Yale mein Albers ke students the."
+
+g
+
+
+
+C2< ZsSsZw ©Z sr“Org ea,
+
+
+
+SLEZ stSNE
+
+
+
+ST ON
+
+
+
+2 fof s 4 ]
+
+
+
+Bilzs/ FJ //Buwind\ & \z\2
+
+
+
+eifec| Ol ae }) & | Elm
+
+
+
+A
+
+
+
+a % WZ, y <
+
+
+
+ace ot
+
+
+
+we Gn COLOR’ “s;
+
+
+
+o, & Cone STuby-co1ok SY S
+
+
+
+EDS POSITION StU Ke
+
+
+
+Lay NTARY STUDY OF SY
+
+
+
+RIALS THe BPS
+
+
+
+**FIGURE 5.7** Itten ka Basic Course, pehli baar 1919–1923 mein develop kiya gaya. Asli caption: "Bauhaus ka Diagram curriculum, published 1923."
+
+Halanki Bauhaus do world wars ke beech shuru hua tha, lekin aaj ki contemporary art forms ke liye bhi iski ehmiyat (relevance) baqi hai. Claudia Hart ek virtual reality artist hain jo high-end technologies ke sath kaam karti hain. Unhone Bauhaus Basic Course ko virtual environment (computer ki duniya) mein badal (translated) diya aur isey apni class mein istemal kiya: "Maine apni Intro to Experimental 3D class mein jo kiya wo Bauhaus Basic Course ka ek translation (roop) hai."
+
+Yahan un cheezon ki ek list hai jo alag-alag professors ne mujhe batayi ki students ko dekhna seekhne ki zaroorat hai. Yeh ek saajhi visual language (dekhne ki bhasha) hai jise sabhi artists aur designers samajhte hain. Yeh concepts Bauhaus ke waqt se chale aa rahe hain aur art aur design education ke main hisse (central) hain.
+
+* "Visual closure (nazar ko poora karna), scale shift (size ka badalna), contrast (farq), movement (harkat)." John Hendrix, WashU
+* "Additive (jodne wale) aur subtractive (ghatane wale) processes; form (shakal) aur structure (dhancha)." Ek sculptor, SCAD
+* "Rhythm (lai/taal), repetition (dohraav), unity (ek-ta), proportion (anupat/size ka hisab), harmony (tal-mel)." Ek foundations professor, SCAD
+* "Modularity (hisson mein hona), identifiability (pehchan), unity (ek-ta), theme aur variation (badlaav), concept ki clarity (safai), investigation (jaanch) ki range aur breadth (phailao), completeness (poora hona)." Ken Botnick, WashU
+* "Material ko organize kaise karein." Catalina Freixas, WashU
+* "Form (shakal) ko theek (resolve) kaise karein." Heather Corcoran, WashU
+* "Volume (jagah), unchai (height), sidhapan (verticality), proportion, texture (satah ka khurdurapan), figure, ground (zameen/piche ka hissa), black and white, motion (harkat), line, shape, composition (banawat), form, concept." Ron Leax, WashU
+* "Organization ka koi matlab (sense) banna chahiye." Julie Varland, SCAD
+* "Visual hierarchies (dekhne mein unch-neech): kaun se issues primary (khaas) hain, dusre issues secondary, tertiary hain, wo ek dusre par kaise nirbhar (depend) karte hain—jo aapne explore kiya hai unke beech rishto ka structure." Julie Varland, SCAD
+* "Ek visual language ke basic tools, grammar ke rules, perception (samajh) ko samajhna." Cheryl Wassenaar, WashU
+* "Basic geometric forms, cube, cylinder, cone, sphere; geometric forms ke banawat (construction) ka istemal karke objects design karna." Ruben Salinas, SCAD
+* "Kisi di gayi situation mein cheezon ko arrange kaise karein, kya dynamic (badalta hua) hai, kya static (ruka hua) hai, kya balanced (santulit) hai, elements aur principles of design—wo building blocks hain." Stephen Thorpe, SCAD
+* "Message ki clarity, content ki clarity." Tiffany Holmes, SAIC
+
+Zyada-tar colleges mein, curriculum foundations courses ke ek saal se shuru hota hai, jise kabhi-kabhi "the core" bhi kaha jata hai. Art aur design ke students in courses ko ek sath lete hain kyunki yeh visual principles alag-alag disciplines mein saajha (shared) hote hain. Sabhi visual artists ko in cheezon ko dekhne ke kabil hona chahiye. Kuch students ko foundations year lene ki shikayat hoti hai; unhone pehle hi tay kar liya hota hai ki wo kis discipline mein ja rahe hain, aur yeh courses unhe waqt ki barbadi (waste of time) lagte hain. Jo student sculptor banna chahta hai, wo fauran sculpture classes lena shuru karna chahta hai; fashion, book making, ya computer animation ke liye bhi yahi baat hai. Graduation par job pane ke liye, students ko kaam ke ek mazboot portfolio ki zaroorat hoti hai. Jo kaam wo foundations mein generate karte hain, wo aam taur par unke portfolios mein nahi jate.
+
+Lekin lagbhag sabhi art aur design schools foundations ka ek ya do saal rakhte hain kyunki professors, saalon ki teaching se, jante hain ki incoming (naye aane wale) students apne major courses (khas subjects) mein jane ke liye taiyar nahi hote hain. Agar unhone fauran apni sculpture ya animation classes shuru kar din, toh unhe abhi tak dekhna nahi aata hoga, aur unka kaam kharab (suffer) hoga. Yeh waise bhi unke portfolio ke liye taiyar nahi hoga. Ek wajah yeh bhi hai ki students foundations courses ko napasand (object) karte hain kyunki unhe abhi tak ehsaas nahi hota ki unhe dekhna nahi aata. Unhe nahi pata ki unhe kitna kuch seekhna hai.
+
+### **Khali Jagah Ko Dekhna (Seeing Empty Space)**
+
+Shuru mein, students ko poore kaam ko dekhne mein mushkil hoti hai, jisme na sirf unke dwara draw ki gayi lines shamil hain balki lines ke beech ki blank spaces (khali jagehin) bhi shamil hain. Unka focus us dikhai dene wali cheez (visible artifact) par hota hai jo wo bana (generating) rahe hote hain. Lekin dekhne ke liye yeh zaroori hai ki wo jo dikh raha hai (visible) usse banne wali negative space ko dekhna seekhein. Zyada-tar log hosh-mand (consciously) taur par is baat se aagah nahi hote ki yeh negative spaces un par kaise asar dalti hain. Artists aur designers ko in spaces ko dekhna seekhna padta hai; wo inhe jaanbujh kar (intentionally) create karte hain. Yaad hai mera wo sujhaav (suggestion) ki aap shadows (parchaiyon) ko dekhna band karein, aur iske bajaye shadows ke beech ki sunny spaces (dhoop wali jagahon) ko dhoondhein? Typeface design mein, "negative space" aage-peeche aane wale letters ke beech ki blank space ko kehte hain; architecture mein, negative space structure dwara banai gayi threedimensional space ko kehte hain, wo jagah jahan log rehte (occupy) hain. Agar aapne FedEx ke logo ko kabhi dhyan se (closely) nahi dekha hai, toh isey ab dekhein. Letters ke beech ki white space par focus karein: E aur x ke beech aapko kya dikhta hai?
+
+FedEx.
+
+
+
+**FIGURE 5.8** FedEx logo. Trademark FedEx Corporation ki milkiyat (owned) hai.
+
+Ek baar jab aap isey dekh lete hain, toh aap isey dekhna band nahi kar sakte (can't not see it).
+
+Kuch assignments mein, professors students ko unhone jo draw kiya hai ya banaya hai, us par focus karne se hata kar, us space (jagah) par focus karne ki taraf guide karte hain jo object create karta hai, jaisa ki SCAD ke illustration professor Ruben Salinas ek student ko advise (salah) dete hain jo ek chair (kursi) design aur illustrate kar raha hai: "Us chair ko ek dabbe (box) mein rakha hua socho. Chair ke baare mein mat socho. Us box ke baare mein socho jiske andar chair hai."
+
+Maine WashU mein illustration padhane wale John Hendrix se poocha, aap students ko dekhna kaise sikhate hain?
+
+*Agar main students ko shapes (aakar) dekhna sikhane ke liye ek still life karta, toh main bahut saare dabbe (boxes) leta, shayad cardboard boxes, aur phir unhe ek dusre ke samne rakhta, aur unse wo planes draw karne ko kehta jo wo nahi dekh sakte—aap jante hain, jo dabbo ke piche hain, wo planes jo chhupe hue (obscured) hain. Ek tareeqe ke taur par unhe yeh train karne ke liye ki wo shuru karein... Dabba mat dekho. Us shape ko dekho jo dabbe ke andar hai, wo cheez jo gayab (missing) hai.*
+
+Ek architect imaraton (buildings) ko baaki sab logon se alag tareeqe se dekhta hai. Students ke liye ek eham goal unhe pehle space (jagah) ke baare mein, aur phir form (shakal) ke baare mein sochne par majboor karna hai. SCAD ki ek architecture professor, Julie Varland ne mujhe bataya: "Main 'bedroom' ya 'kitchen' jaise terms (lafz) istemal nahi karti. Main kehti hoon, 'sone ke liye jagah (space for sleeping)' ya 'khana banane ke liye jagah (space for preparing food).' Main unhe in spaces ke liye insaani kamo (human activity) ke hisab se 'iske liye jagah (space for)' ke baare mein sochne par majboor karti hoon." Kabhi-kabhi, yahan tak ki graduate MArch students bhi ise dekhne ke kabil nahi hote. Catalina Freixas ki WashU mein graduate architecture class ke ek panel critique session mein, jis student ka review kiya ja raha tha usne ek bahut achi building design ki thi. Lekin yeh assign ki gayi urban (shahari) site se judi hui (connected) nahi thi. Ek bahari reviewer ne is par kadi aalochna (extremely critical) ki:
+
+*Tum ise aese draw karte ho jaise yeh kahin maujood hi nahi hai. Kya tum dekh rahe ho?! Toh tum iske baare mein sabse zaroori baat ko nahi samajh rahe ho. Tumhare liye, tum voids (khali jagahon) ko nahi samajhte. Tumhare liye har cheez ek cheez hai. Yeh cheez nahi hai, balki yeh hai ki yeh streets (sadkon), dimensions ko kaise leta hai, aur ek poori nayi cheez banata hai. Yeh bas dekhne ka ek tareeqa hai. Aur ek baar jab tum isey dekh loge, toh yeh hamesha tumhare paas rahega. Lekin agar tum isey nahi dekhte, toh yeh kabhi tumhare paas nahi hoga.*
+
+### **Aap Jo Dekh Rahe Hain Use Kaise Samjhein (How to Understand What You're Seeing)**
+
+**Yeh darasal (actually) unhe yeh sikhane jaisa zyada hai ki wo jo dekh rahe hain use kaise samjhein. Har koi dekh sakta hai aur har koi dekhta (looks) hai aur har koi kam-o-besh (more or less) ek hi cheez dekhta hai, lekin yeh sach mein dekhne ke poore amal (act of seeing) ko samajhna hai. Aur dekhna sochne ka ek process hai. Jaise hi aap kuch dekhte hain, aap darasal soch rahe hote hain.**
+
+Jeffery Keedy, typeface design, CalArts
+
+Jeffery Keedy students ko ek designer ki tarah dekhna sikhate hain, unhe literal (asal mein) gujare hue waqt (past) ke ek hi medium mein hazaron kaamo ko dikhakar. Wo students ko yeh dekhna sikhate hain ki inmein se har ek kaam waqt ke daur (arc of time) mein kaise fit baithta hai, yeh samajhne ke liye ki har banane wale (creator) ne jo choices (faisle) kiye wo kyun kiye. Students ko yeh dekhna seekhna hoga ki wo decisions kyun liye gaye the. Keedy ki classes mein, students seekhte hain ki kaise past ke creators ne "wahi khayal (conceit) istemal kiya hai aur unhone isey alag-alag tareeqon se kiya hai."
+
+Dekhna aane (knowing how to see) ka ek hissa yeh dekhne ke kabil hona hai ki kaun se creative decisions liye gaye the aur yeh samajhne ke kabil hona hai ki wo decision kyun liya gaya tha. Isse koi farq nahi padta ki aapko yeh pasand hai ya nahi, aur isse koi farq nahi padta ki aapne koi alag choice (faisla) kiya hota. Ek kaam ko "dekh (see)" pane ka matlab hai ki students us creative process ko samajh sakte hain jise kaam ko banane mein follow kiya gaya tha—bhale hi unhone ek alag rasta apnaya hota. Wo samajh sakte hain ki kaam ko generate karne ke process mein kuch khas decisions kaise aur kyun liye gaye the. Jaisa ki John Hendrix (WashU) ne mujhe bataya:
+
+*Drawing un faislon (choices) ko lene ka naam hai ki aap kya dikhate hain aur kya hatate (remove) hain. Isey ache se kaise karna hai, yeh samajhne (figure out) mein bahut practice lagti hai. Zyada-tar log, jab wo itni achi tarah se ki gayi kisi drawing ko dekhte hain, toh wo notice bhi nahi karenge ki yeh choices li ja rahi hain. Drawing ke liye dekhna hath (hand part) wale hisse se kahin zyada zaroori hai. Zyada-tar log hath wale hisse par obsess (hadd se zyada dhyan) hote hain, lekin mujhe sach mein lagta hai ki koi bhi mechanical tareeqe se draw karna seekh sakta hai. Dekhna aur edit karna hi sach mein mushkil (tough) hai. Isme practice lagti hai. Isme cheezon ko lamba waqt (long time) tak dekhne ki zaroorat padti hai.*
+
+Jazz musicians kehte hain ki sun-na (listening) utna hi zaroori hai jitna bajana (playing). Wo sun-ne ke ek gehre tareeqe (deep form) ki baat kar rahe hain—sirf khana banate ya padhte waqt background mein music bajana nahi. Aap apni aankhein band karke baithte hain, bina kisi distraction (dhyan bhatkane wali cheez) ke. Aap sunte hain aur yeh sunne ki koshish karte hain ki musicians kya kar rahe hain, wo kya choices le rahe hain, aur kyun.
+
+**Agar main rules ko follow karta hoon aur isey mechanically kiya jata hai, toh yeh vibrate (thirakna) nahi karega. Yeh mujhme zinda kisi bhi cheez se correspond (mel) nahi khayega. Agar aap struggle (jaddo-jehad) karte hain, toh picture (tasveer) mein ek khas zindagi hoti hai. Isey samjhana (explain) mushkil hai. Yeh tab nahi hota agar aap jani-mani (known) cheezon mein jee rahe hain. Main apne andar ki kisi aisi cheez ko kaise chhoo (touch) sakta hoon jo asli (real) hai aur phir ek formal (thos) barabari (equivalent) dhoondh sakta hoon jo na sirf mujhse, balki dusron se, shayad ek poori peedhi (generation) se mel khati (correspond) ho?**
+
+Richard Wilde, graphic design, School of Visual Arts
+
+Jab aap kaam kar rahe hote hain, toh aapko ise usi tarah dekhne ke kabil hona chahiye jaise koi dusra viewer dekhega. Aap khud ko us kaam se alag karne ke kabil hote hain jo aapne kiya hai. Yeh aapko viewer ke experience (tajurbe) ke baare mein sochne ke liye taiyar karta hai. Haan, kaam ko niji (personal) hona zaroori hai; isme aapke liye ek urgency (ehmiyat) honi chahiye. Lekin jaisa ki Kara Rooney (SVA) ne kaha hai, kaam ko "kisi tarah personal se aage badhna (transcend) chahiye"; isey "ek aisi universal language (aam zuban) bolni chahiye jise viewer samajh (access) sake." Agar nahi, toh "viewer ko parwah (care) kyun karni chahiye?" Bahut se students ke liye iska jawab dena mushkil hota hai kyunki wo aksar "solipsistic (sirf apne baare mein sochne wale)" hote hain, jaisa ki Rooney kehti hain. Yeh graduate students ke liye ek aur bhi badi problem ho sakti hai, kyunki wo aksar saalo tak koi dusra career banane ki koshish karne ke baad school wapas aate hain, aur wo aksar apne art ko kisi social ya siyasi (political) rukh (stance) ko aage badhane ke liye istemal karne ke liye committed (pur-azm) hote hain. "Main yeh sawal har waqt poochti hoon, khaas taur par graduate students se—mujhe is baat ki parwah kyun karni chahiye ki aap abhi studio mein kya kar rahe hain?"
+
+Hairani ki baat yeh hai (Paradoxically) ki, apne hi kaam ko dekhna sabse mushkil (hardest) kaam hai. Rhonda Arntsen ki class (graphic design, SCAD) ke ek critique mein, present karne wala student aesa kaam dikha raha tha jo uske pehle ke kaam (past work) se bahut milta-julta (similar) tha. Arntsen ise dekh sakti thin; dusre students ise dekh sakte the. Lekin wo abhi ise nahi dekh pa raha tha. Arntsen ki strategy yeh thi ki usse baat karwayi jaye aur usne jo kiya hai us par reflect (gaur) karwaya jaye. "Main kuch aesi cheezon ko highlight (zahiri) kar rahi hoon jo maine pehle bhi aapke kaam mein dekhi hain." Wo usse apne computer par kuch kaam nikalne (pull up) ko kehti hain jo usne chhah mahine pehle kiya tha. Wo screen par ishara karti hain aur kehti hain ki is purane kaam ne bhi insaani aankh (human eye) par zor (emphasized) diya tha, yeh kehte hue, "Yeh kuch aisa hai jise aapne pehle explore (khoj) kiya hai." Phir wo aur bhi zyada saaf (explicit) ho jati hain: "Kabhi-kabhi aap jo cheezein karte hain unme jani-pehchani lagne ki aadat (pattern of familiarity) hoti hai. Hamein yeh sochne ki zaroorat hai ki hum yeh kyun kar rahe hain." Problem yeh nahi hai ki student ek semester se dusre semester tak ek jaisi (similar) cheezein kar raha hai; uske liye learning challenge yeh *dekhna (see)* hai ki wo aesa kar raha hai.
+
+Arntsen ko ehsaas hua ki yeh sabhi students ke liye ek aam point (general point) banane ka mauka tha. Unhone student ke kaam se ek qadam peeche liya aur poori class ki taraf mudi:
+
+*Yahan kuch poori tarah se anjaan (unfamiliar) hai jo aapko yeh bada sa khali panna (tremendous blank slate) deta hai. Kuch aesa nahi jis par aage kaam kiya jaye (build on), balki kuch aesa jise aapko bahar nikalna (pull out) hoga. Yeh wo experiences hain jo waqayi keemti (valuable) hain. Yeh wo hain jo sabse zyada mushkil (challenging) hain, kyunki jani-pehchani cheezein (familiarity), yahi humein dekhna sikhaya jata hai, hum us familiar stuff ko aapke charo taraf rakh dete hain. Mujhe lagta hai ki yeh ek aadat (habit) hai jo hum sab mein hai. Aisi cheezein hain jo main kabhi-kabhi khud apne kaam mein bhi abhi (right now) dekh raha hunga. Aap aise hote hain, "Oh. Hm. Achanak se mere paas yeh color palette aa gaya hai, jiske sath main kaam kar raha hoon." Aur mujhe is se aagah (aware) hona padega. Mujhe is baat se aagah hona padega ki main iske sath kaam kyun kar raha hoon. Kyunki yeh wahan hai, aur yeh acha lagta (pleasurable) hai, aur main isey enjoy karta hoon, aur iska matlab kya hai? Main yeh kyun kar raha hoon? Main isey dohra (repeating) kyun raha hoon?*
+
+Art aur design education ka goal yeh dekhna hai ki aap kya kar rahe hain aur yeh explain (samjhane) karne ke kabil hona hai ki aap yeh kyun kar rahe hain. Jis raste (path) par aap chal rahe hain use samajhne se pehle aapko dusre raston ko explore karna hoga. Phir aap apne chune hue raste ke baare mein ek socha-samjha faisla (informed decision) lene ke liye taiyar (prepared) hote hain. Jab aap dekhna seekh jate hain, toh aap ek personal transformation ka tajurba (experience) karte hain. Aap apne baare mein ek naye tarah ki aagahi (awareness) viksit (develop) karte hain.
+
+---
