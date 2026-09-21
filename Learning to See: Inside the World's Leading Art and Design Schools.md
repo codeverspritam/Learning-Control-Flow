@@ -594,3 +594,458 @@ Dusre professors kehte hain ki wo hain:
 *Creativity ke beej bone wale (Planting the seeds for creativity)*
 
 Art aur design school mein, students creative hona seekhte hain. Lekin yeh popular media ya business ki kitabo mein chhapne wali aam (clichés) kahanuton wali creativity ke concept se alag hai. Professors achanak aane wali (sudden) prerna (inspiration) nahi sikhate; wo originality (naye-pan) nahi sikhate; wo behtareen ideas laana nahi sikhate. Shayad yeh kehna sabse acha hoga ki art aur design school duniya mein rehne ka ek tareeqa (a way of being in the world) sikhata hai. Students aisi creative practices seekhte hain jo unka zindagi bhar sath dengi (support karengi). Art aur design ka nichod (essence) dekhna (seeing), sochna (thinking), aur banana (making) hai. Ek baar jab aap dekhna seekh jate hain, toh creativity apne aap piche chali aati hai (follows).
+
+---
+
+## **PART I (Pehla Hissa)**
+
+## **What You Learn (Aap Kya Seekhte Hain)**
+
+..........
+
+## **1 PROCESS (Tareeqa/Amal)**
+
+**Creativity ek process hai. Yeh iterative (baar-baar dohrane wala) hai. Yeh jazz music jaisa hai. Aap ek line banate hain aur aap us line par respond karte hain. Aap kuch aisa banate hain jo aap seedhe raste par chal kar (linear way) nahi bana sakte the.**
+
+John Hendrix, illustrator aur type designer, Washington University in St. Louis
+
+Washington University in St. Louis mein illustration ke professor, John Hendrix ka kaam aksar *New York Times* mein chhapta hai. Unhone kai magazine covers design kiye hain; wo desh ke top 10 sabse zyada maang wale (sought-after) illustrators mein se ek hain (dekhein figure 1.1). Unhone apni graduate training New York ki School of Visual Arts (SVA) mein ki thi—wahi jagah jahan maine 2022 mein pandrah (15) professors ka interview liya tha. SVA mein unke mentor asardaar (influential) painter aur illustrator Marshall Arisman the, jo MFA degree program ke chair the, aur jinhone *The education of an illustrator* jaise titles wali kitabein publish ki hain. Hendrix ek aise process ka istemal karke kaam karte hain jo explorative (khoj bhara), iterative (baar-baar hone wala), aur banane ke process ke hisab se dhalne wala (responsive) hai, ek soche-samjhe (deliberate) process jo intuition (andar ki aawaz) aur inspiration (prerna) par nirbhar nahi karta:
+
+*Creativity ka matlab sirf baith kar paper ko tab tak ghoorna nahi hai jab tak ki aapki aankhon se khoon na nikal aaye. Yeh apne samne kuch parameters (haddein/niyam) rakhna hai, aur phir unme se kuch ko badalne (shift or alter) ki koshish karna aur dekhna hai ki aapko kya milta hai.*
+
+PT tn]
+
+
+
+22e0.e
+
+
+
+peoe ie $e!
+
+
+
+CO aad
+
+
+
+‘ E> mite
+
+
+
+\ ar; oss
+
+
+
+« 7, eensory
+
+
+
+a Ne FE Ie eae wee
+
+
+
+: fe ——
+
+
+
+An ee ys
+
+
+
+**FIGURE 1.1** John Hendrix. *Life / Death / Life*. 2017.
+
+Zyada-tar log, jab kisi painting ko dekhte hain, toh yeh nahi sochte ki ise banaya kaise gaya tha. Wo yeh tasavvur (envision) nahi karte ki painter rang mila raha hai ya kisi parchhai (shadow) ka gadhapan (darkness) badal raha hai ya yeh tay kar raha hai ki brush stroke upar se niche marna hai ya baayein se daayein (left to right). Hamein ek ruki hui cheez (static object) dikhti hai: kisi park mein ek murti (sculpture) ya deewar par ek poster.
+
+Object par is focus ko art ke baare mein hone wali aalochnatmak charchaon (critical discourse) se aur badhava milta hai. Jab critics art ke baare mein baat karte hain, toh wo object ko aise discuss karte hain jaise isey waisa hi hona tha; jaise yeh hamesha se waisa hi tha. Critical reviews is baare mein baat nahi karte ki object alag kaise ho sakta tha, ya jo galtiyan chhupayi gayin, ya wo kai creative faisle jinpar artist ne gaur kiya aur phir unhe chhod diya. Wo kaam ko ek thehri hui cheez (static object) ki tarah dekhte hain. Jab hamari nazar kisi aane wale concert ka advertisement karte hue ek behtareen poster par padti hai, ya hum kisi mashhoor architect dwara design ki gayi nayi building mein dakhil hote hain, toh hum iska samna ek tay shuda cheez (fixed thing) ke taur par karte hain. Hum shayad hi kabhi us creative process ke baare mein sochte hain jiska nateeja wo object tha ya un dusre raston (alternative paths) ke baare mein sochte hain jinse koi alag object ban sakta tha.
+
+Jab aap dekhna seekh jate hain, toh aap jis kaam ko dekhte hain wo dynamic (badalta hua) aur flux (lagatar badlaav) mein hota hai, jo alag-alag visual forces ke hisab se badal raha hota hai. Jab aap dekhna jante hain, toh aap kaam ke piche dekhne ke qabil hote hain. Aap jante hain ki us chhupe hue process ko samne (uncover) kaise lana hai jiska nateeja wo object tha. Jab aap apne khud ke kaam mein is process mein shamil (engage) hona shuru karte hain, toh aap dusron ke kaamon ke piche ke process ko dekhne ke qabil ho jate hain.
+
+Art aur design ke piche iterative aur improvisational (mauqe par banane wale) process mein shamil hone ke liye, yeh zaroori hai ki aap shuru karne se pehle apne idea ko develop karne mein bahut zyada waqt bitane se bachein. Agar aap ek achi tarah se tayaar kiye gaye (well-elaborated) vision ke sath shuru karte hain, aur phir apna waqt isey pura karne (executing) mein bitate hain, toh yeh ek linear (seedha) aur andaza lagane layaq (predictable) process hai. Lekin professional artists aur designers ek iterative andaz mein kaam karna pasand karte hain jo process ke dauran naye ideas ko ubharne (emerge) ka mauka deta hai. Students ko kisi ek idea par bahut jaldi ruk jane (settling) se bachane ke liye guide karte waqt, professors aise assignments design karte hain jo unhe idea se lekar execution (pura karne) tak ke ek linear raste par chalne se rokte hain. School of Visual Arts ke ek illustrator, Grant Shaffer, ek illustration class mein is do-hafte ke assignment ka istemal karte hain: Wo students se kisi fairy tale (pari katha) ke beech mein se sirf ek page ko illustrate karne ke liye kehte hain. Kisi pehle se maujood fairy tale ka nahi; unki apni banayi hui fairy tale ka. Halanki, wo page shuruat ya aakhir ka nahi ho sakta. Unhe kahani likhne ya kahani ko illustrate karne ki zaroorat nahi hai—wo sirf ek page banate hain. Yeh waisa hi hoga jaise aapne bacchon ki kitab se ek page faad liya ho; bas ek random page. Shaffer kehte hain, "Bahut se students ghabra jate hain (freeze) aur sochte hain, mujhe nahi pata kya likhna hai. Main kahani kaise soch sakta hoon?" Jab students pehli baar ek iterative improvisational process mein shamil hona seekh rahe hote hain toh unhe guidance ki zaroorat hoti hai, aur Shaffer unhe kuch steps ke zariye guide karte hain jo unhone saalo mein develop kiye hain.
+
+*Sabse pehle, bees (20) shabd likho. Koi bhi shabd. Chhata (Umbrella), tidda (grasshopper), boombox, uh, blimp (hawa ka jahaz), mitti ka dhela (dirt clod), tum jante ho, khidki se bahar dekho, bas shabd likhna shuru karo. Phir main kahunga ki apne bees shabdon mein se teen shabdon par ghera (circle) lagao. Apni pasand ke teen shabdon par ghera lagao. Toh, tum grasshopper, blimp, aur boombox ko kaise mila (combine) sakte ho? Aur tum students ko yeh kehte hue dekh sakte ho, mujhe nahi pata, shayad grasshopper ud nahi sakta. Isliye wo ek blimp mein udta hai aur uske paas ek boombox hai, aur boombox padosiyon ko pareshan kar raha hai. Aur achanak tumhare paas ek grasshopper ki kahani hoti hai jise udna nahi aata, aur wo blimp mein udta hai. Aur phir mujhe lagta hai ki tum in ideas ko aage badhana (cultivating) shuru kar sakte ho.*
+
+Is do-hafte ke assignment ke baad, Shaffer is tajurbe (experience) ke aadhar par ek dusra assignment dete hain. Is baar, wo students se ek classic children's tale, jaise "Little Red Riding Hood" ya "Rapunzel" lene ko kehte hain, aur phir isey naye dhang se tasavvur (reimagine) karne ko kehte hain. Wo unhe kehte hain:
+
+*Lekin isey apna andaaz (spin) do, jaise 2082 mein Little Red Riding Hood. Agle hafte, hum apni khud ki kahani ke liye ek single page banate hain. Har koi kya soch kar aata hai yeh dekhna kafi mazedar (fun) hota hai. Mera ek student tha jisne ek billi aur ek aurat ki kahani banayi. Yeh aurat apni billi se bahut pyar karti thi. Billi usse pyar karti thi. Aur phir ek din aurat ka ek boyfriend ban gaya aur wo apni billi ke sath kam waqt bitane lagi, aur billi ne aurat se divorce ke liye case file kar diya, aur wo cat court gaye. Aur yeh ek ajeeb (crazy), pyari (lovely), aur anokhi kahani ban gayi. Mujhe acha lagta hai jab kahaniyan thodi atpati/khayali (surreal) ho jati hain.*
+
+Ek acha assignment students ko ek iterative process ke zariye guide karne ke liye design kiya jata hai. Unhe guidance ki zaroorat hoti hai, kyunki jab wo is process mein shamil hona nahi jante, toh wo qudrati taur par us linear, idea-driven kaam karne ke tareeqe par wapas chale jate hain jiske sath unhone college shuru kiya tha. Ek acha assignment students ko is linear process ko follow karne se rokta hai. Shaffer apna assignment is tarah design karte hain ki students ek linear process ko poora karne (completion) ke liye kisi ek idea ka istemal nahi kar sakte.
+
+Jab hum samne dikhne wale aur mukammal (finished) object par focus karte hain, toh yeh sochna natural hai ki us kaam ke piche ek hi vision ya idea tha. Kyunki aap kaam ko ek finished cheez ki tarah dekhte hain, aap yeh maan lete (assume) hain ki artist is par kaam shuru karne se pehle hi janta tha ki yeh kaisa hoga. Kaam pehle creator ke dimaag mein maujood tha aur phir medium ke materials ka istemal karke isey zinda kiya (brought to life) gaya. Yeh creativity ka *linear insight* (seedha aur achanak aane wala khayal) nazariya hai (dekhein figure 1.2). Is nazariye mein, idea ko poora karna (execution) bahut dilchasp nahi hota—yeh idea se lekar finished work tak ka ek seedha rasta hai. Creativity process ko shuru karti hai, lekin idea ko execute karne ke liye creativity ki zaroorat nahi hoti. Aur in creative ideas ko soch pane ki kabiliyat—yahi artists aur designers ko baaki hum logon se alag banati hai. Agar professors isi tarah ki creativity sikha rahe hain, toh wo students ko yeh sikha rahe honge ki zyada aur behtar ideas kaise laye jayen, aur un ideas ko unke chune hue medium mein wafadari (faithfully) aur kamyabi ke sath kaise execute kiya jaye.
+
+THE
+
+
+
+CREATED
+
+
+
+WORK
+
+
+
+vl
+
+
+
+THE BIG IDEA
+
+
+
+**FIGURE 1.2** Creativity ka linear insight view. Illustration Nyla Smith dwara.
+
+Lekin, jin professors ka maine interview liya aur jinhe observe kiya, unke anusaar, linear insight model ek jhooth (myth) hai. Create karne ki asliyat kahin zyada pechida (complicated) hai aur isey seekhna zyada mushkil hai. Introduction mein, humne seekha ki "originality" aur "creativity" shabd khatarnak hain. Wo shabd students ko ek ache idea ke sath shuruat karne par hadd se zyada focus karne par majboor karte hain. Linear insight ka jhooth kam se kam do tareeqon se galat hai. Pehla, creative cheezein aksar bade ideas se nahi aati hain. Arny Nadler, ek murtikar (sculptor) jo Washington University in St. Louis (WashU) mein padhate hain, samjhate hain ki yeh myth khatarnak kyun hai:
+
+*Ek masla (issue) jo creative hone ke raste mein aata hai wo yeh hai ki jab aap is sab ko plan karne ki koshish karte hain. Aap apne dimaag mein over-edit (hadd se zyada badlaav) karte hain. Aap khud se kehte hain, 'Khair, yeh ek bewaqoofi bhara idea hai, yeh acha nahi dikhega.' Lekin aap in pieces ki asliyat ko apne aap ko sabit (prove) karne ka mauka hi nahi de rahe hain ki wo kya ban sakte hain.*
+
+Dusra, creative process linear (seedha) nahi hota. Iske bajaye, creative works ek aise pechide (complex) process se ubhar kar (emerge) aate hain jiska andaza nahi lagaya ja sakta aur jo improvisational (mauqe par banne wala) hota hai (dekhein figure 1.3). Bhale hi process bikhra hua (messy) aur unpredictable (jiska andaza na lagaya ja sake) hota hai, iska ek pechida aur khoobsurat structure hota hai jo hamesha asardaar art aur design ke kamo ki taraf le jata hai. Art aur design ke objects ko sach mein dekhne ke liye, aapko us process ko samajhna hoga jo unhe banata hai.
+
+©)
+
+
+
+3 @ —s
+
+
+
+©) oA) 5
+
+
+
+6o VY
+
+
+
+@
+
+
+
+**FIGURE 1.3** Improvisational creative process. Illustration Nyla Smith dwara.
+
+Figure 1.3 creative process ka wo complex model dikhata hai jise professors sikhane ki koshish karte hain. Yeh process kisi linear process se kahin zyada complex hai; isme maharat hasil karna (master) aur isey sikhana zyada mushkil hai. In dono models ke beech ke farq Table 1.1 mein diye gaye hain. Jin artists aur designers ka maine interview liya, unke dwara sikhaya jane wala creative process linear insight model se poori tarah alag hai. Artists aur designers ke kaam karne ka tareeqa linear nahi hota. Wo kaam karna shuru karte hain aur is baat par vishwas (trust) karte hain ki materials ke sath dialogue (batchit/tal-mel) se ideas samne aayenge. Rasta unpredictable aur nonlinear (tedha-medha) hota hai. Yeh materials ke sath ek improvisational (mauqe ke hisab se) samna (encounter) hai, materials aur artist ya designer ke beech ek dialogue. Agar galtiyan (mistakes), accidents, ya surprises samne aate hain, toh unhe aapke pehle se tay kiye gaye goal ki taraf jane wale raste ki rukawatein (speedbumps) nahi mana jata. Unhe process ko ek alag disha (direction) mein modne ke mauko (opportunities) ke taur par dekha jata hai.
+
+Is tarah ki improvisational creativity mein maharat hasil karna is baat par nirbhar (depends) karta hai ki dekhna kaise hai.
+
+* Aapko yeh dekhna aana chahiye ki jab koi idea ubhar kar aaye (emerges).
+* Aapko har ubharne wale idea ko parakhna (evaluate) hoga aur tay karna hoga ki kin par aage kaam karna (pursue) faydemand hoga.
+* Aapko yeh dekhna aana chahiye ki jab aapse koi galti ho, aur aapko yeh dekhne ke qabil hona chahiye ki aap us galti ka istemal ek nayi faydemand disha (productive direction) mein mudne ke liye kaise kar sakte hain.
+* Aapko yeh dekhna aana chahiye ki materials kya kar rahe hain, wo aapse kya keh rahe hain, aur aap unke sath ek lagatar chalne wale dialogue mein jawab (respond) dene ke qabil hone chahiye.
+
+**TABLE 1.1**
+
+Creativity ke Alag-Alag Tasavvur (Conceptions)
+
+| **Linear insight (seedha khayal aane) ka jhooth (myth)** | **Professors kya sikhate hain** |
+| --- | --- |
+| Ek idea se shuruat karein aur use poora karein | Process ke sath shuruat karein aur dekhein kya hota hai |
+| Apne idea ko aage badhane ke liye pichli misaalon (precedents) ko pehchanein | Jo hota hai uske aadhar par pichli misaalein (precedents) dhoondhein |
+| Idea ko pura (execute) karne ke liye materials ke sath kaam karein | Ideas paida (generate) karne ke liye materials ke sath kaam karein |
+| Aakhiri point tak andaza lagane layaq (Predictable) process | Aakhiri point tak jiska andaza na lagaya ja sake waisa (Unpredictable) process |
+| Bina bhatke (detours) seedha (linear) rasta | Bhatakne wala aur mauqe ke hisab se badalne wala (improvisational) rasta |
+| Galtiyon (Mistakes) se bachna chahiye | Galtiyon ka swagat (welcomed) karna chahiye |
+| Koi rukawat aur nai shuruat nahi (No starts and stops) | Iteration (Baar-baar dohrana) |
+| Ideas shuruat mein aate hain | Ideas process ke dauran ubhar kar (emerge) aate hain |
+
+Dekhne ki kabiliyat ke bina, improvisational process bina kisi manzil ke (aimlessly) bhatakta rehta hai. Aur jab aisa hota hai, toh students apne jane-pehchane (familiar) raste par wapas chale jate hain: linear insight model par. Dekhna jane bina us tareeqe se kaam karna mumkin hai. Jab students ko idea-execution model ka istemal karne se roka jata hai, toh wo shuru mein kho jate hain. Wo abhi tak nahi jante ki jab koi umeed-bhara (promising) idea samne aaye toh use notice kaise karna hai. Wo abhi tak nahi jante ki accidents aur mistakes mein chhipe potential (sambhavna) ko kaise dekhna hai. Wo abhi tak nahi jante ki apne materials ko ek lagatar chalne wale dialogue mein apne partner ke taur par kaise dekhna hai.
+
+Professors is baat ko samajhte hain. Wo students ko linear rasta lene se rokna chahte hain. Lekin, sath hi, wo yeh bhi samajhte hain ki students ko dekhna nahi aata. Wo apne tajurbe se jante hain ki students kamyaab nahi honge—kam se kam abhi toh nahi—agar wo ek nonlinear (tedha-medha) rasta apnane ki koshish karein. Iska hal (solution) *project assignment* hai. Shaffer ki tarah, professors students ko dhyan se design kiye gaye assignments dete hain jinme achi tarah se tayaar ki gayi constraints (rukawatein) hoti hain. Bina constraints ke, students kho jate hain aur unka koi maqsad nahi rehta; constraints ke sath, wo asani se ek iterative process ke guided version ko follow kar sakte hain. Ek baar jab wo is process mein maharat (master) hasil kar lete hain, toh unhe constraints ki zaroorat nahi rehti.
+
+**Halanki aksar yeh mana jata hai ki artists, designers, aur creative thinkers 'eureka moments' (achanak idea aane ka pal) mehsoos karte hain jisme ek shandaar idea samne aata hai, lekin practice mein, creativity ek lamba process hai. Isme aksar banane wale (maker) ko kisi cheez ko baar-baar banana padta hai, aur har baar pichle iteration (dohraav) se seekhna padta hai.**
+
+Eva Sutton, transmedia artist, Rhode Island School of Design
+
+Professors ne yeh seekha hai ki students program mein is galatfehmi (misconception) ke sath aate hain ki creativity kaise kaam karti hai. Ek professor ne mujhe bataya, "Hum un athara (18) saal ke bacchon ke sath deal kar rahe hain jinke paas bahut hi romantic (khayali) ideas hote hain." Asardaar (effective) artists ban-ne ke liye students ko us nazariye ko piche chhodna padta hai. Figure 1.3 ke creative process mein, banayi gayi cheezein sirf behtareen ideas nahi hotin jinhe ek kabil craftsperson (karigar) ne ache se execute kiya ho. Iske bajaye, artworks ek soche-samjhe (deliberate) process se, an-soche (unpredictably) dhang se lekin lagatar (consistently) ubhar kar aate hain, jinki khasiyaton ko seekha ja sakta hai. Successful artists aur designers ke paas koi anokhi (unique) personality traits hona zaroori nahi hai.
+
+Professors kehte hain ki wo kisi ko bhi successful creative works generate karna sikha sakte hain—shart yeh hai ki student mein utsukta (curiosity) aur lagan (dedication) ho aur wo zaroori waqt aur mehnat (work) lagane ke liye taiyar ho.
+
+Art aur design schools mein, aap figure 1.3 wala process seekhte hain, wo process jo in programs mein padhane wale successful artists aur designers istemal karte hain. Iska learning outcome (seekhne ka nateeja) ek conscious (hosh-mand) aur soche-samjha (deliberate) process hai jisme critical thinking (gehri soch) aur awareness (jaagrukta), samajh (perceptiveness) aur gaur-o-fikar (reflection), aur koshish-bhari khoj (effortful exploration) shamil hai.
+
+### **Iteration (Baar-baar dohrana) aur Improvisation (Mauqe par banana)**
+
+**Aap isey shatranj (chess) ka khel keh sakte hain. Main canvas par ek chaal (move) chalta hoon aur phir yeh mujhe kuch batata hai. Main us par respond (jawab) karta hoon. Yeh ek dusre ke prati lagatar (constant) responses hain.**
+
+Thurston Belmer, MFA student, painting, Washington University in St. Louis
+
+Tobi Kahn ek painter aur sculptor hain jinhone 1985 se SVA mein padhaya hai. Wo is baat par thoda chidh (bristles) jate hain ki wo students ko "padha (teaching)" rahe hain. "Main asal mein unhe yeh nahi *sikhata* ki dekhna kaise hai. Main unhe *madad* karta hoon usko samajhne (interpret) mein jo wo dekh rahe hain." Wo yeh kaise karte hain? Shaffer ki tarah—structured project assignments ke sath. Apne pehle saal ke pehle semester mein, students ek painting ko structure karne ke liye zaroori tools seekhte hain—color theory, landscape imagery ko copy karna, aur still life. Dusre semester mein, wo apne students se teen paintings ki ek series banwate hain, ek structured process ka istemal karke jo unhe linear tareeqe se kaam karne ki unki instincts (fitrati aadat) se door le jata hai:
+
+*Main unse kisi bhi aise subject par ek painting banane ko kehta hoon jo unhe dilchasp lage. Main unhe yeh nahi batata ki agla assignment kya hai. Phir, agle assignment ke liye, students pehli painting se ek hissa (element) chunte hain taaki pehli painting se alag ek nayi kahani suna sakein. Wo apni hi painting ko dekh rahe hote hain, aur phir wo uske aadhar par ek kahani bana rahe hote hain. Teesra assignment poori tarah se ek alag disha (different direction) mein ek painting banana hota hai.*
+
+Wo iski ek misaal (example) dete hain:
+
+*Maan lijiye ki yeh ek summer landscape ki painting hai. Aur yeh ek summer landscape ka behad khubsurat bayan (articulation) hai. Dusri painting is baare mein hai ki aapko us summer landscape mein kaisa mehsoos hua: Kya aapko bahut garmi lag rahi hai? Kya aapko paseena aa raha hai? Teesri painting mein, aap jo bhi wo tha uska ulta (opposite) kar rahe hain. Ya toh puri tarah shanti (pure calmness) ke baare mein ya vacation mood mein hone ke baare mein. Dusre shabdon mein, ek hi experience (tajurbe) ko, aap teen alag-alag tareeqon se mehsoos kar rahe hain. Aap unhe pehle se nahi bata sakte ki agla kadam kya hone wala hai kyunki tab wo aage ki sochne lagenge.*
+
+Dekhna seekhne ka maqsad aapko is creative process mein hissa lene ke liye taiyar karna hai. SCAD ke ek professor ne mujhe bataya, "Yeh actions (kaamon) ki ek series hai. Aap nishan (marks) banate hain, aap sone jate hain, aap uthte hain, aap nishano ko dekhte hain aur aap un nishano par aage kaam karte hain (build on), aur aap is baare mein sochte hain, aur wapas jakar phir se koshish karte hain." Patricia Olynyk, ek artist jo WashU mein alag-alag disciplines (khetron) mein kaam karti hain, unhone kaha:
+
+*Hum unke samne baithte hain aur unhe is baat ka deeply jaiza (critical analysis) lene ke process mein shamil karte hain ki kya kaam jo nateeja (generates) de raha hai wo wahi hai jo student apne content mein develop karne ki koshish kar raha hai. Kisi aise insaan ke liye jo art ki duniya mein kai saalo se hai, mujhe nahi lagta ki pehla iteration (dohraav) wo hota hai jo kaam kar jaye.*
+
+Kevin Kaempf School of the Art Institute of Chicago (SAIC) mein first-year aur second-year foundations ko padhane ke baare mein batate hain: "Hamare saaf (explicit) learning objectives (maqsad) mein se ek yeh hai ki students yeh seekhein ki ek iterative process ke zariye kisi project ko develop kaise karna hai." Maine unse poocha, "Aapko kaise pata chalta hai ki unhone yeh seekh liya hai?"
+
+*Jab wo isey hasil (achieve) kar lete hain toh yeh mere liye saaf hota hai kyunki iska saboot (evidence) maujood hota hai. Hum us process ke beech mein rukte hain aur dekhte hain ki unhone kya produce (banaya) kiya hai. Misaal ke taur par, kai baar unka paanch-hafte ka project hota hai, aur raste mein benchmarks (nishanat) hote hain, rukne ke pal hote hain, jahan hum critique dete hain ya student presentation deta hai. Kabhi-kabhi koi student har step poora nahi karta. Aakhir mein, unka project utna socha-samjha (thought through) ya mukammal (complete) nahi hota, aur unhe nahi pata hota ki kyun. Main unse kahunga, 'Yaad hai jab tumne koi bhi research poori nahi ki thi? Ya tumne material tests nahi kiye the? Yahi wajah hai ki tumhara project acha nahi hai—kyunki tum iterative process se nahi guzre.'*
+
+Tasavvur (Imagine) karein ki aap athara (18) saal ke hain. Aap Rhode Island School of Design (RISD) mein apne pehle semester mein hain, jo duniya ke top art aur design schools mein se ek hai. Aap Spatial Dynamics (jagah aur movement ki class) le rahe hain, jo Kara Rooney dwara padhayi jane wali ek foundations class hai, jo ek interdisciplinary artist hain aur performance, sculpture, aur new media installation mein kaam karti hain. Wo aapko ek assignment poora karne ke liye teen hafte deti hain jise unhone design kiya hai aur jise wo *Multiples + Networks* kehti hain.
+
+**Jab Brassaï ne Picasso se poocha ki kya painter ke ideas use ittefaq se (by chance) aate hain ya soche-samjhe design se, toh Picasso ne jawab diya, 'Mujhe koi idea nahi hai. Ideas sirf shuruati points hote hain. Main shayad hi kabhi unhe waise likh pata hoon jaise wo mere dimaag mein aate hain. Jaise hi main kaam karna shuru karta hoon, dusre ideas mere pen se ubharne (well up) lagte hain. Yeh janne ke liye ki aap kya draw karne wale hain, aapko draw karna shuru karna padega. Jab main khud ko ek khali paper ke samne pata hoon, toh mere dimaag mein hamesha yahi chal raha hota hai. Main apni marzi ke khilaf (in spite of myself) jo capture karta hoon wo mujhe mere apne ideas se zyada dilchasp lagta hai.'**
+
+*Conversations with Picasso*, in Brassaï, 1999
+
+1. RISD ke photographs ke database ka istemal karein, research library mein, ek aisi image dhoondhne ke liye jo aapko kisi na kisi tarah inspire (prerit) kare.
+2. Mutthi ke size se badi na ho aisi mitti ki (clay) ek choti murti (sculpture) banayein jo us image ka jawab (responds) de. Zaroori nahi ki yeh image ke content (mazmoon) ka hi jawab de.
+3. Sculpture ko resin, plaster, ya kisi aur materials mein dalein (cast)—kam se kam aisi saat (7) ek jaisi sculptures banayein. Yeh step mold banane aur casting ki kuch technical details ke sath aata hai.
+4. Ek mukammal (finished) drawing banayein ki network kaisa dikhne wala hai. Yeh kafi abstract (khayali) ho sakta hai.
+5. Network banayein: Multiple pieces (kai hisso) ko rakhne ke liye ek bada structure banayein. Ek installation jaisi setting mein ek networked mahoul ke andar un multiples ka scale up (bada) karein.
+6. Public space (aam jagah) mein installation ko pesh karein (Present), is baat par gaur karte hue ki aas-paas ka mahoul kaam ke context (sandarbh) aur logon ke ise dekhne ke nazariye (reception) ko kaise asar dalega.
+
+Inmein se har step par, students Rooney aur dusre students se critique karwane ke liye apna kaam class mein laate hain. Apne midterm project ke liye, aap apna final kaam ek public exhibition mein display karenge jahan sabhi professors aur students ise dekhenge. Figure 1.4 fall 2020 mein Rooney ke student Gavriel Faigenblat dwara kiya gaya installation dikhata hai.
+
+mia:ee ay|
+
+
+
+~_ . See
+
+
+
+s at.
+
+
+
+| 2 Se
+
+
+
+**FIGURE 1.4** Gavriel Faigenblat. *Beehives*. Installation done for Professor Kara Rooney's assignment *Multiples + Networks*. Rhode Island School of Design. 2020.
+
+Yeh chhah (6) steps students ko ek creative process ke zariye guide karte hain jisme iteration (dohraav) aur disha (direction) badalne ke mauke hote hain. Kyunki students ko har step par kuch deliver karna (dena) hota hai, isliye wo bas ek idea lekar project ko due date se pehli raat mein poora (all-nighter) nahi kar sakte. Assignment ko is tarah se structure karne ke liye students ko dheema (slow down) hona padta hai. Students se har kadam par unke kaam ke baare mein discuss karne ko kaha jata hai. Apne kaam ke baare mein gehrai se sochna (Reflecting) aur uske baare mein baat karna aksar unhe apni direction badalne par majboor karta hai. Unhe har step par alag-alag materials ke sath kaam karna padta hai; isse aise an-soche (unexpected) ideas ubharne (emerge) ke mauke milte hain jo materials se aate hain, aise ideas jo unhone soche bhi nahi hote agar unhone experiment karna shuru na kiya hota.
+
+Students is assignment ke dauran bahut si technical skills seekhte hain. Wo research library ka istemal karna bhi seekhte hain. Lekin Rooney ka man-na hai ki sabse important learning outcome (seekhne ka nateeja) yeh hai ki dekhna kaise hai aur sochna kaise hai.
+
+*Wo ek installation wali setting ke andar kaam karke (saman ko) bada (scaling up) kar rahe hain. Wo is baare mein soch rahe hain ki ek network kya banata hai, ek network ka kaam (functionality), uska tootna (breakdown). Misaal ke taur par, samajik niyamon (societal norms) ke lihaz se ek network kaise kaam karta hai? Hum is baare mein bahut research karte hain aur readings padhne ko dete hain ki is shabd 'network' ka kya matlab hai. Iske alawa, main unhe tees (30) alag-alag artists ke kaamon (practices) ki lagbhag dedh ghante ki ek slide lecture dikhati hoon jo sculpture aur installation, aur network ke idea ke sath bhi jude (engaged) hain. Yeh project kuch sach mein dilchasp results nikal kar (yields) lata hai. Main kya dhoondh rahi hoon is mamle mein kuch rules aur rukawatein (restrictions) hain. Lekin yeh students ko waqayi jis disha (direction) mein wo jana chahte hain wahan jane ki kafi azaadi deta hai.*
+
+Kai art aur design schools mein saaf (explicit) learning goals hote hain jo faculty milkar develop karti hai. In goals mein aksar "iterative process seekhna" shamil hota hai. School of the Art Institute of Chicago mein, Adam Trowbridge ne mujhe apne Assessment Committee for Contemporary Practices (wo pehle foundation year ko yahi kehte hain) ke baare mein bataya.
+
+*Ek cheez jis par sab sehmat the wo yeh thi ki hamein curriculum (syllabus) mein iteration (baar-baar karne ke process) ko promote (badhava dena) karna chahiye. Yahi wo cheez hai jo main dekhna chahta hoon. Beech ke (in-between) pieces kahan hain? Mujhe wo saare pieces dekhne hain jo beech mein bane the. Jo students kamyaab (successful) hote hain unke paas waqayi wo hota hai. Unse iteration karwana sach mein mushkil hai.*
+
+### **Idea (Khayal) ka Khatra**
+
+**Shuruat karne mein hichkichayein mat. Bas karein.**
+
+Beth Grabowski apne art students ko University of North Carolina mein kehti hain
+
+Jeffery Keedy ek asardaar (influential) type designer hain jinhone 1985 se Los Angeles mein California Institute of the Arts (CalArts) mein padhaya hai. Unka kaam New York ke Museum of Modern Art mein pradarshit (exhibited) kiya ja chuka hai. Wo Keedy Sans namak typeface ke creator hain. CalArts mein unki colleague, Louise Sandhaus ne mujhe bataya, "Jeff teachers ke teacher hain. Wo waqayi janamjaat hunarmand (gifted) hain." Keedy is myth (jhooth) ke sakht khilaf (extremely critical) hain ki acha design process ke shuru mein ek badiya idea aane par aadharit (based) hota hai:
+
+*Mujhe chote students, first aur second years walon ki is aadat ko todna padta hai jisme wo sochne (thinking) ko banane (making) se, aur sochne ko kuch karne (doing) se alag rakhte hain. Zyada-tar logon ko yeh lagta hai ki aapke paas ek idea ya inspiration aati hai aur phir aap use poora (execute) karte hain. Aur is tarah aapke idea ya inspiration ki quality is baat ko tay karti (dictates) hai ki jo execute kiya gaya hai aur jo banaya gaya hai uski quality kya hogi. Agar aap ek tay shuda buniyad (premise) ke sath shuru karte hain, toh nateeja (outcome) andaza lagane layaq (predictable) hota hai. Yeh toh pehle se tay tha (foregone conclusion) ki yeh aisa dikhega kyunki aapki buniyad yeh thi. Jab bhi aap aisa karte hain, jab bhi aapke dimaag mein ek khayal hota hai ki ise kaisa hona chahiye aur phir aap use execute karte hain, toh yeh saaf zahir (obvious) ho jata hai.*
+
+Hum mein se zyada-tar log, creativity ko ache ideas aane ke roop mein sochte hain. Mere apne discipline, psychology of creativity mein, mere kai colleagues is baat ki study karte hain ki jab kisi insaan ko koi naya idea aata hai toh uske dimaag mein kya hota hai. Yeh psychologists creativity ko *insight* (achanak samajh aane wale khayal) ke pal se jodte (associate) hain. Insight ka tasavvur (conception) Gestalt psychologists ne shuru kiya tha, jinhone tajweez (proposed) kiya tha ki insight dimaag ke achanak dobara structure (restructuring) hone ki wajah se hoti hai. Misaal ke taur par, psychologists ne is baat ki study ki hai ki conceptual (khayali) combinations aur analogies (tashbeeh/misaalo) ke zariye insights kaise paida (generated) hoti hain.
+
+Keedy creativity ke is nazariye ko nakarte (rejects) hain.
+
+*Ek cheez jo aap unhe dikhane (demonstrate) ki koshish kar rahe hote hain wo yeh hai ki common sense naam ki koi cheez nahi hoti. Yeh bas wahi rasta hai jis par aap chal kar aaye hain. Yahi aapne socha tha. Aur aapko lagta hai ki, yeh mujhe sabse zyada logical (tark-sangat), sabse asli (real) disha lagti hai. Khair, aisi paanch aur dishaein hain jo aap kar sakte the. Aur apne classmates ko dekhein. Unhone is par poori tarah se alag nazariya (take) apnaya. Kya wo galat hain? Nahi, wo nahi hain. Main unke samajhne ke liye ek context (sandarbh/mahoul) bana raha hoon. Yahan bahut, bahut si choices aur nazariye (points of view) hain. Cheezein kisi ek khaas tareeqe se kaam nahi kartin. Cheezein lagatar badal rahi (in flux) hain. Cheezein lagatar badalti hain, variables (hissay) lagatar ghoomte (move) hain.*
+
+Keedy ne jo sabse zyada provoke (uksane) karne wali baatein kahin unme se ek yeh thi ki acha dikhne wala kaam paida (generate) karne ki khwahish seekhne mein ek rukawat (barrier) hai. Bahut se students shandaar technical skills ke sath art school aate hain. Aakhir-kaar, unhe admission lene ke liye apne high school ke kaam ka portfolio jama (submit) karna padta hai. Lekin jab aapko pata hai ki acha kaam kaise banaya jata hai, aur aapko pata hai ki yeh acha dikhta hai aur aapke professor ko bhi pata hai ki yeh acha dikhta hai, toh phir seekhne ke liye kya bacha hai? Aapko kyun badalna chahiye? Isliye kyunki agar aap wahi cheezein baar-baar karte rahenge, toh aap dekhna nahi seekh payenge, aur agle level par jane ke liye aapko dekhne ki zaroorat hoti hai. Keedy ke samne ek mushkil challenge hai: unhe in talented students ko convince (manana) karna padta hai ki bhale hi unka kaam acha dikhta ho, yeh abhi tak itna acha nahi hai. "Agar aap wahi karte rehte hain jisme aap pehle se hi ache hain, toh yeh dilchasp nahi hoga aur yeh unhe lamba waqt nahi chala (sustain) payega. Yeh ek bahut hi boring, an-interesting (gair dilchasp) wajood (existence) hai."
+
+Desh ke us paar East Coast par, ek poori tarah se alag discipline mein kaam karte hue, artist Beth Grabowski bhi process par zor deti (emphasizes) hain aur idea wali myth (jhooth) ko nakarti (rejects) hain:
+
+*Meri sabse badi shikayat, mere students ke sath meri sabse badi problem yeh soch (idea) hai ki idea pehle aata hai aur phir aap ise banate hain. Aur yeh soch ki banane (making) ki skill sirf ek aisi cheez hai jiska istemal aap is idea ko haqeeqat banane (realize) ke liye karte hain jo aapke dimaag mein poori tarah se ban chuka hai. Wo is idea ko kafi ehmiyat nahi dete ki idea apne aap mein badalta (evolves) hai aur asal mein banane (actual making) ke process se idhar-udhar dhakela (pushed around) jata hai.*
+
+WashU mein art ki professor Cheryl Wassenaar ne bhi shuruati (initial) idea ki ehmiyat ko kam (discounted) bataya:
+
+*Aap bahut se ideas ko acha bana sakte hain. Bahut kam aisa hota hai (very rarely) ki main koi idea sunu aur sochu ki, isme koi umeed (hope) nahi hai. Creativity sirf andhere mein teer marna (grasping at straws) aur achanak se kuch aisa bana lena nahi hai jo aapko acha lage. Yeh kisi idea par kaam karne aur use aage dhakelne, aur ise bada karne (expanding), aur ise nayi disha (redirecting) dene ka ek process hai, taaki aakhir mein aapke paas kuch aisa ho jo naya (inventive), sakht (rigorous), aur asardaar (effective) ho. Aap aisi choices kar rahe hain jo aap jo karne ki koshish kar rahe hain uske hisab se kafi soche-samjhe (deliberate) hain.*
+
+Professors student ke kaam ko grade kaise karte hain? Wo sabhi kehte hain ki process final kaam se zyada zaroori hai aur wo process ko grade karte hain. Lekin, beshak, aap chahte hain ki final kaam acha dikhe, haina? Students chahte hain ki wo itna acha kaam banayein jise wo apne portfolio mein rakh sakein taaki unhe graduation ke baad ek achi job mil sake. Jab maine Douglas Dowd ka interview liya, jo WashU mein illustration aur communication design padhate hain, toh maine sawal kiya ki kya wo sach mein process ko grade karte hain ya darasal (in fact) final kaam ko grade karte hain: "Maan lijiye ek student deadline (due) se pehle wale weekend par ek behad shandaar (awesome) final kaam banata hai, aur usne process ka istemal nahi kiya. Aur maan lijiye aapko yeh pata tha. Kya kaam ke shandaar hone ke aadhar par unhe phir bhi 'A' milega?"
+
+Dowd ne kaha:
+
+*Process ka istemal kiye bina unke liye kuch aisa banana jo waqayi bemisaal (extraordinary) ho, asal mein mumkin nahi hai. Aisa kabhi nahi hota ki kisi student ke paas itna behtareen qudrati hunar (natural gift) ho ki use process se guzarne ki zaroorat hi na pade.*
+
+### **Khatam karne ke liye shuru na karein (Don't Start to Finish)**
+
+**Chalo khatam karne ke liye shuru nahi karte (Let's not start to finish). Main har naye project (exploration) ki shuruat mein apne students se yahi kehti hoon. Hum isliye shuru nahi kar rahe hain, ki isey khatam kar dein.**
+
+Rhonda Arntsen, graphic designer, SCAD
+
+Agar students dimaag mein pehle se maujood ek idea ke sath kaam karna shuru karte hain, toh unka kaam ek linear process ban jayega. Wo ek zyada kamyaab (successful) process ki iterative fitrat (nature) ka tajurba (experience) nahi le payenge. Shuruaat karne wale students mukhya taur par us final kaam ke baare mein sochte hain jo wo assignment ke aakhir mein banayenge. Finish line (manzil) ke baare mein sochna creativity ko maar deta hai aur iska nateeja gair-asardaar (ineffective) kaam hota hai. Iske bajaye unhe ek iterative exploratory (khoj bhare) process ko follow karna seekhna chahiye. SCAD mein ek painting professor, Sandra Reed ne mujhe bataya,
+
+*Maine teaching ke saalon se yeh seekha hai ki ek naye (young) artist ko behtareen ideas aayenge aur wo apne dimaag ki aankhon (mind's eye) mein dekh lega ki final painting kaisi dikhti hai. Wo sochte hain, 'Mujhe theek se pata hai ki yeh kaisa dikhne wala hai!' Lekin jaise hi unka samna materials, ya scale, ya kaam ki asaliyaton (realities) se hota hai, wo kho jate hain. Wo bahut asani se nirash (discouraged) ho sakte hain.*
+
+Introduction mein, maine Beth Grabowski ke project *Souvenir* ko bayan (describe) kiya tha, jo unki class Photo Printmaking ka tha. Students ek cyanotype image banate hain jise hum objects aur images kyun collect (jama) karte hain is bare me literary writings padhne ke baad inspire ho kar banaya jata hai. Project ke handout mein, wo students ko kehti hain: "Shuru karne se pehle kisi specific intent (maqsad) ya 'meaning (matlab)' ko poori tarah tay karne ke liye khud ko majboor (obliged) mehsoos na karein. Banana (making) aapke intution (andar ki aawaz) aur aapki samajhdari (intellect) ke beech ek conversation (baat-cheet) hai." Class mein, maine unhe ek student se kehte hue suna, "Process mein aapka idea badal sakta hai," aur unhone ek dusre student ko bataya, "Kaam aise tareeqon se jawab (responds) deta hai jiska aap pehle se andaza (preconceive) nahi laga sakte." Figure 1.5 fall 2021 semester mein Grabowski ki student Dacia Perez ka kaam hai.
+
+Lekin, jaisa ki humne Introduction mein seekha tha, aap students ko bas yeh nahi bata sakte ki unhe kya janne ki zaroorat hai. Aap ise syllabus par rakhte hain, aur aap unhe class mein batate hain, aur phir bhi wo wahi karte hain jo wo pehle se karna jante hain. Yahi wajah hai ki professors Grabowski ke *Souvenir* aur Shaffer ki illustrated children's book jaise structured assignments develop karte hain.
+
+XN i —
+
+
+
+Be \iad S } ap Nee
+
+
+
+ee +1
+
+
+
+>
+
+
+
+= s ed sail Porque
+
+
+
+é, a ts Sa
+
+
+
+mais = = ded i} oS pa +s)
+
+
+
+ee ee :
+
+
+
+.
+
+
+
+F) ff NS Ree Sh b we ;
+
+
+
+v4 ¥ : \we ae oe i ESte
+
+
+
+nal eg BR 8 BL
+
+
+
+a Soe Me Ag
+
+
+
+a ¢ a
+
+
+
+a
+
+
+
+**FIGURE 1.5**
+
+Dacia Perez. *hija mia*. 30 × 24 inches. Charcoal rubbings, digital photographs, cloth, and dried flowers printed on cyanotype and embroidery thread on muslin using UV light exposure. Artwork done for Beth Grabowski's assignment *Souvenir* at the University of North Carolina at Chapel Hill. 2021.
+
+### **Jab Aap Phas Jate Hain (When You Get Stuck)**
+
+**Jab aap phas jate hain toh aap kya karte hain? Jab aapke paas ideas khatam ho jate hain toh aapke paas kya bachta hai? Aap kahan jate hain? Aap khud ko us gaddhay (hole) se kaise nikalte hain? Main waqayi unhe yahi sikhane ki koshish karti hoon.**
+
+Kara Rooney, interdisciplinary artist, School of Visual Arts
+
+Art aur design school ka maqsad students ko creativity ke ek soche-samjhe (deliberate) process mein hissa lena sikhana hai: unhe is jhooth (myth) se dur le jana ki unhe ek behtareen idea se inspire hone ki zaroorat hai, aur kaam karne ke ek aise process ki taraf le jana jahan ideas process se ubhar kar (emerge) aate hain. Is tarah, unke paas kabhi bhi ideas ki kami nahi hogi. Jab tak aap process ke zariye kaam karte rahenge, ideas ubharte rahenge. SCAD ke ek sculptor ne mujhe bataya ki unka maqsad students ko "intuitive (apne aap aane wali) creativity se deliberate (soche-samjhe) creativity mein switch karwana (badalna) hai. Kamyaab hone ke liye aapko ek deliberate creator banna hoga." WashU mein ek book designer, Amy Thompson, kehti hain ki wo students ko sikhati hain "apni creativity ke baare mein aur zyada deliberate kaise ban-na hai." Patricia Olynyk, jo WashU mein ek professor bhi hain aur pehle Graduate School of Art ki director reh chuki hain, unhone mujhe bataya, "Is program mein art banana un behad sakht (rigorous), critically engaged (soch-vichar wale) processes se aata hai jo hum apne students tak pahunchane ki koshish karte hain." Students seekhte hain ki ek methodology (tareeqa)—ek process—hai jo lagatar (consistently) ache results deta hai. Students us tareeqe se dekhna seekhte hain jo is process ko aage badhata (drive) hai.
+
+Lekin kya yeh advice improvisation (mauqe par banane) ke roop mein creativity ke vision se takrati (conflict) nahi hai? Aap ek hi waqt mein deliberate (soche-samjhe) kaise ho sakte hain aur sath hi improvisations (mauqe par badlaavon) aur direction mein badlaavon ke liye khule (open) ho sakte hain, un-sochay (unexpected) ideas ke ubharne ke liye khule ho sakte hain? Yeh art aur design practice ka challenge hai. Ise kaise karna hai yeh seekhne ke liye professional artists aur designers ki guidance mein rozana ki practice mein shamil hona zaroori hai. Yahi wajah hai ki aap bas kisi ko yeh nahi bata sakte ki kisi artist ki tarah kaise sochna hai; unhe ise studio mein experience karna padta hai. Artists aur designers process mein hissa lene ke baare mein deliberate hote hain, lekin pehle se soche gaye (preconceived) goal ko pane ke baare mein deliberate nahi hote.
+
+Ek painting class sirf painting ke baare mein nahi hoti. Painting karne ka amal (act) ek aisa tool hai jo aapki dekhne, sochne, aur banane ki kabiliyat ko aage badhata (drives) hai. Maine Reed ko apne students se yeh kehte hue suna:
+
+*Aap jin paradigms (misalo) aur processes se guzar rahe hain, wo hain. Image ke baare mein sochne aur use approach karne ke tareeqe hain. Agar aap kabhi phas jate (get stuck) hain, toh aap is class ko yaad kar sakte hain, aur keh sakte hain, 'Mujhe us process se dobara guzarne do.'*
+
+### **Anchor Point (Rukne/Sahare ki Jagah)**
+
+**Kabhi-kabhi aapki pehli cheez sabse behtareen cheez hoti hai. Lekin aapko yeh tab tak nahi pata hota jab tak ki aap process se na guzrein.**
+
+Lynn Tomaszewski, ek interdisciplinary artist aur SAIC mein graduate studies ki associate dean
+
+Creative process kisi idea ke sath shuru nahi hota, lekin ise kahin se shuru hona padta hai. Aap final kaam par ya aap kahan ja rahe hain is par focus nahi karte. Lekin aapko *kisi cheez (something)* se shuruat karne ki zaroorat hoti hai. Yeh man-na mushkil hai ki yeh aapka aakhiri idea nahi hai aur process ko wahan se ajeeb tarah (unpredictably) behne (flow) dena mushkil hai. Pehla idea ek anchor (sahara) hai jo aapko ek khas space (jagah) ko explore karne mein guide karta hai. Lekin yeh ek tool hai, na ki aakhiri point (endpoint). Successful creators hamesha aage badhne, kisi idea ko piche chhodne ke liye taiyar rehte hain, jab kaam se kuch zyada behtar (more promising) nikal kar aata hai. RISD mein ek graphic designer, Anther Kiley ne mujhe bataya,
+
+*Ek strategy jo achi tarah kaam karti hai, wo hai students ko project par shuruati koshish (initial pass) karne dena, assignment ke challenges ko poori tarah se (holistic way) apnaana, isse pehle ki unhe ek zyada structured (tarteeb-war) approach ke zariye guide kiya jaye.*
+
+Student ne wo rasta chuna hai jiske baare mein wo jante hain—ek idea lekar aana aur phir tezi se aage badhna, bas apne original idea ko execute (pura) karne ki koshish karna. Lekin idea problem nahi hai. Pehla idea ek important anchor point hai, lekin yeh zaroori hai ki aap us pehle idea ke sath zyada der tak na rukein. Kiley unhe apne anchor point ko ek shuruat ki tarah istemal karne ke liye guide karte hain, na ki ek anjaam (end) ki tarah: "Phir main unhe poori tarah se isey (idea ko) tod kar (tearing it apart) aur zaruri taur par (essentially) unhe ek structured process se guzarne par majboor karke poori tarah se niraash (frustrate) kar dunga." Agar aap apne pehle idea se chipke (stick) rehte hain, toh aap process nahi seekhte. Jaise-jaise wo process se guzarte hain, "Wo dekhenge ki yeh saare hisse ek sath kaise fit hote hain. Agar unhone sirf apne concept ke baare mein socha hota, toh uske mukable aisi conversations kahin zyada deep (richer) aur faydemand (productive) hoti hain."
+
+Kiley ke kai assignments is tarah design kiye gaye hain taaki is baat ki sambhavna zyada ho ki students kaam karne ke is process ko experience kar sakein. Kai projects mein, wo unhe shuruat mein hi ek rough sketch banane ko kehte hain. Shuruati sketch ek important anchor point hai: "Main waqayi chahta hoon ki students ke paas final cheez ke liye ek vision ho aur wo final kaam ke vision ki taraf kaam kar rahe hon. Mujhe nahi lagta ki yeh ek gahra (rich) process develop karne ke khilaf (counter) kaam karta hai." Wo is idea ke sath thoda kaam karte hain, lekin Kiley schedule ko is tarah design karte hain ki unke paas isey develop karne aur ise perfect dikhane ke liye kafi waqt nahi hota. Phir Kiley unhe apne sketch ko break down (todne) ke liye kehte hain "aur usse ek sach mein sakht (rigorous) system banane ke liye kehte hain. Ek poore (holistic) tareeqe se is sab ke sath jaddo-jehad (wrestled) karne ki wo pehli stage kaam ko ek kahin zyada behtar (sophisticated) level par develop hone deti hai."
+
+Yeh soch-samajh kar (deliberate) kaam karne aur sath hi exploration (khoj) aur iteration (dohraav) ke liye khula (open) rehne ka ek paradox (virodhabhas/uljhan) hai. Yeh ek paradox hai jise master karne mein saalo lag jate hain. SAIC mein ek painter aur sculptor, Amy Honchell ne mujhe bataya:
+
+*Har kisi ko shuruati point ke taur par kisi cheez se shuruat karni padti hai, bhale hi wo rasta jis par unhe lagta hai ki wo ja rahe hain A tak le jata ho, hum sach mein jante hain ki aakhir mein wo C tak pahunchenge taaki yeh sach mein kuch acha ban sake. Lekin agar unke paas wo shuruati anchor point nahi hai, toh unke liye bhatakna (aimless) aasan ho jata hai. Grounding point (shuruati point) process ke dauran poori tarah se discarded (kharij/phenk diya) ja sakta hai, lekin yeh kisi aisi boundary (hadd) ke hone jaisa hai jahan se aap us point par wapas echo-locate (awaaz ki madad se rasta dhoondhna) kar sakte hain jab tak ki aapko agla marker nahi mil jata.*
+
+SCAD mein ek lighting designer, Esma Dengiz ne mujhe bataya, "Main us pehle hal (solution) par nahi rukti jo wo mere paas late hain." Wo students ko aage badhane mein madad karne ke liye unse sawal poochti hain, jaise:
+
+*Okay. Toh iske baare mein kya khayal hai? Agar aap isey is tarah sochein toh kaisa rahega?" Main unke sochne ke tareeqe ko challenge kar rahi hoon, aur main yeh bahut karti hoon. Jab koi student mere paas ek solution lekar aata hai, toh main yeh nahi kehti, "Oh, yeh bahut acha hai," aur tumhara kaam ho gaya. Bhale hi yeh ek acha solution ho, main unhe batati hoon ki yeh acha kyun hai, lekin main hamesha isey behtar, aur zyada anokha (unique) banane ke liye kuch dhoondhti hoon.*
+
+Wo aage kehti hain: "Lekin jab wo apne pehle ya dusre solution par hi atak (fixated) jate hain, toh wo aur kuch nahi dekh pate."
+
+Kai artists aisa kaam banakar explore karna shuru karte hain jo shayad hum mein se zyada-tar logon ko confused ya be-matlab (meaningless) lage. Artist ko bhi shayad yeh aisa hi lage. Yeh process ka ek keemti (valuable) hissa ho sakta hai, agar yeh kisi khule (open-ended) exploration ki shuruat mein aata hai. Kabhi-kabhi chaos (afra-tafri) clarity (saaf dikhne) ko ubharne (emerge) ka mauka deta hai. WashU mein ek sculptor, Arny Nadler ne mujhe bataya:
+
+*Artist ka stereotype (bani-banayi chhavi) yeh hai ki wo bas andar ja kar cheezon ko yahan wahan phenkta (throwing shit around) hai. Lekin sach yeh hai ki wo shayad shuru mein aisa hi karenge, lekin phir ek acha artist wapas aata hai aur peeche baith kar is saari cheezon ko dekhta hai aur kehta hai, 'Yeh exciting (mazedar) tha, lekin yeh do bekar (crap) hain. Yeh kachre (dumpster) mein jayenge. Lekin yahan kuch ho raha hai. Shayad wahan mujhe kuch kaam karna hoga; shayad yeh dusri cheezein jaise hain waise hi badiya hain. Shayad mujhe yahan is par (on this over here) aage kaam karna chahiye.'*
+
+Dekhna seekhne ka matlab yeh hai ki jab aap apni cheezon ke bade se bikhrav (mess) ko dekh rahe hote hain, toh aap yeh notice kar pate hain ki iska kaun sa hissa aage badhane (pursuing) ke kabil hai. Kabhi-kabhi, shuruaat karne wale students ek aise point par pahunch jate hain jahan unhe nahi pata hota ki aage kaise badhna hai (how to continue). Wo us bikhrav (mess) ke paar nahi dekh pate. Unhone bahut saare sketches banaye hote hain, lekin unhe nahi pata hota ki aage kya karna hai. Jab koi student phas (stumped) jata hai, toh Nadler unhe kehte hain: "Shayad is piece mein koi aisi choti si chingaari (kernel) hai jo sach mein dilchasp hai, aur jiske sath tum aage badh sakte ho (run with). Dus mein se nau baar, us process mein kuch aisa hoga jo unhe spark (josh/idea) dega." Sabhi professors ki tarah, wo "creativity" shabd ke sath asahaj (uncomfortable) hain; unhone mujhe bataya, "Main unhe creative hona nahi sikha raha hoon." Iske bajaye, wo unhe sikha rahe hain "experiment (tajarba) kaise karein" aur "khud ko aisi position mein rakhein jahan nayi aur exciting cheezein ho sakein." Wo ek aisa process sikhate hain jo iterative, improvisational, aur exploratory hai.
+
+MFA program mein full-time do saal lagte hain. Zyada-tar MFA students ke paas pehle se hi undergraduate BFA degree hoti hai, halaanki yeh zaroori (required) nahi hai jab tak ki unke paas kisi tarah ki bachelor's degree ho. Lekin unki undergraduate degree jo bhi ho, MFA program mein apply karne wale students se umeed ki jati hai ki wo apne kaam ka ek portfolio jama (submit) karein. Program ka sabse ahem nateeja (culmination) MFA thesis hota hai. Thesis project mein do hissay shamil hote hain: ek achi khasi body of work jise dusre saal ke aakhir mein aam logon ke liye display (publicly displayed) kiya jata hai, aur tees (30) se pachaas (50) pages ka ek scholarly (tahqeeqi) document jo theory aur dusre artists ke kaamon ke sath juda (engages) hota hai. Maine SCAD aur WashU ke das (10) MFA students se interview lene ka faisla kiya ki unhe apne thesis project ke ideas kaise mile. Unmein se ek Judith Kruger thin, jinse hum introduction ki shuruat mein mile the. Sabhi das ne mujhe bataya ki wo shuruat wali jagah se ek alag jagah par khatam hue the. Jab maine das interviews ka analysis poora kar liya, toh main SAIC mein painter aur sculptor Amy Honchell se mila. Maine in MFA students ke iterative processes ko describe kiya, aur maine unse poocha ki kya SAIC mein MFA students ko bhi yahi tajurba (experience) hota hai. Unhone kaha:
+
+*Yeh kahani (narrative) bahut aam hai, aur sirf MFA level par hi nahi. Advanced undergraduates ke sath, third aur fourth-year ke courses jo main padhati hoon, hamare kam se kam 50 percent critiques mein, students kehte hain, 'Mujhe laga tha ki main yeh karne wala hoon, aur phir yeh ho gaya, aur phir mujhe yeh pata chala, aur yeh ek aur cheez, aur ab maine yeh kiya hai.' Students ka apne critique ki shuruat mein apne process mein iterations (dohraav) ke baare mein baat karna aam baat hai. Lekin kabhi-kabhi yeh productive (faydemand) nahi hota; aakhir-kaar, hum kehte hain ki hum chahte hain ki wo is baat par focus karein ki drawing mein sach mein kya hai. Toh aapko ise balance karna padta hai.*
+
+Ek zyada advanced student, ek fourth-year senior ke sath, "unke liye ek game plan ke sath semester mein aana samajhdari ki baat (make sense) hogi. Lekin phir, mera kaam unhe wo sawal poochne mein madad karna hai jo wo shayad khud se nahi pooch rahe hon. Unhe un cheezon ke baare mein sochne mein madad karna jo kaam ke liye unke aam vision (nazariye) ka hissa nahi hain. Unhe thoda push karna, unhe challenge karna. Lekin shuruat karne ke liye unke paas abhi bhi ek jagah honi chahiye."
+
+### **Na Janne ki Ahmiyat (The Importance of Not Knowing)**
+
+**Artists shikari (hunters) aur kisano (farmers) ki tarah hote hain. Aap bahar jate hain aur cheezein dhoondhte hain.**
+
+Richard Mehl, graphic design, School of Visual Arts
+
+Ek illustrator, Carol Fabricatore, SVA mein MFA students ko padhati hain. Students ke liye unka goal hai "yeh vishwas (trust) karna seekhna ki exploration ka process aapko ek achi problem aur ek ache solution ki taraf le jayega, yahan tak ki tab bhi jab aapko nahi pata ki kya ho raha hai." Process par trust karne ka matlab hai ki aapko khud ko saaf taur par dekhne ki apni kabiliyat par bharosa (confident) hai, yeh dekhne ki ki kaam se kya nikal kar aa raha (emerging) hai, aur aap aage kahan ja sakte hain.
+
+*Process par vishwas karne ka matlab khud ko sun-na hai, aapke liye kya mayne (important) rakhta hai use sun-na hai, aap kis cheez ke baare mein curious (utsuk) hain use samajhna aur uske piche jana hai. Bahut si alag-alag approaches, aap jo dekh rahe hain use dekhne aur draw karne ke alag-alag tareeqe aazmane ke liye taiyar (willing) rehna. Agar wo is process ke sath khud par vishwas kar sakein, mujh par vishwas kar sakein, toh aakhir mein wo aesa kaam banayenge jo behad asardaar (compelling) hoga. Finished kaam ke baare mein fikar karne ke pressure ko chhod (Let go) dein.*
+
+Jab aapka dhyan is baat par hota hai ki aapka final kaam kaisa dikhega, toh aap un an-sochi (unexpected) cheezon ko nahi dekhenge jo hoti hain. Aap un possibilities (sambhavnaon) ko nahi dekh sakte jo samne aati (emerge) hain. Aapko sirf yeh dikhta hai ki aap apne shuruati idea ko haqeekat banane (realizing) mein kitna aage pahunch gaye hain. Aap kisi artist ya designer ki tarah nahi dekh rahe hain.
+
+Bahut se students acha dikhne wala kaam banane par dhyan dete hain jise wo apne portfolio mein rakh sakein taaki unhe jobs milne mein madad mil sake. Fabricatore unhe is approach se door (away) le jati hain: "Yeh sabse bada tareeqa hai jisse aap apni drawing ko tabah (sabotage) kar sakte hain. Main isey rokne ke liye kuch assignments mein badlaav (tweak) karti hoon. Jab aap khud par wo pressure dalte hain, toh yeh isey maar deta hai. Mera ek student tha jise polished product (chamakte hue final kaam) ki parwah nahi thi, aur wo saal ke aakhir mein apni sketchbook seedhe art directors ke paas le gaya, aur use usi waqt (on the spot) hire kar liya gaya—uski drawings itni zinda (alive) aur tazi (fresh) aur behtareen (amazing) thin." Student ki rough sketches (drafty sketches) ne uski apne khud ke kaam ko saaf taur par dekhne ki kabiliyat dikhayi (demonstrated). Dekhne ke qabil hone ke liye aapko great-looking kaam banane ki zaroorat nahi hai. Lekin great-looking kaam banane ke liye aapko dekhne ke qabil hona padega.
+
+WashU ke Sam Fox School mein, main Ron Leax ke sath unke first-year foundations students ki sculptures (murtion) ko examine (jaanch) karte waqt chal raha tha (tagging along). Wo ek student ki sculpture ko dekhne ke liye ruke aur yeh advice di: "Jo aap sabse pehle chahte the usse aage dekhein, aur dekhein aur samjhein ki aapko kya mila hai." Humne is assignment ke baare mein introduction mein padha tha: students ko Leax ke diye gaye ek set se ek chota object chun-na tha. Unka task ek bada, scaled-up version banana tha. Ek challenge yeh bhi tha ki surface texture (satah ka khurdurapan) ko bhi bada (scaled up) karna tha. Leax ne aise objects chune the jinki textures dilchasp hoti hain, jaise ek nimbu (lemon) ya lily pad. Is student ne ek chota seashell (seep) chuna tha. Student ko exploration (khoj) par zyada trust karne ke liye manane (convince) mein madad karne ke liye, unhone pichli class ke baad se student ki textured surface ke badalne (evolved) ke tareeqe par comment kiya, aur kaha, "Tumhe yeh process mein mila!"
+
+**Carol Fabricatore aise students ke baare mein yeh kahani sunati hain jinhone ek behtareen mauka ganva diya (missed) kyunki wo abhi tak dekh nahi sakte the:**
+
+Maine students se kaha tha ki unhe kisi palm reader (hath dekhne wale) ko dhoondhna hai aur apna hath padhwana hai. Isme paanch (5) dollars se zyada nahi lagne chahiye. Yeh bas ek chota sa (quick) kaam hona chahiye. Aur phir unhe wahan tak ka apna safar (journey), aur building ke bahar ka hissa, aur yahan tak ki palm reader ko bhi draw karna tha agar unhe ijazat mile. Yeh do ladke wapas aaye aur bole, "Hum nahi kar paye. Humne logon se poocha, hamein koi palm reader nahi mila." Aur wo mujhe is aadmi ke baare mein bata rahe the, wo subway par baithe the, aur school aa rahe the. Unke theek samne ek beghar (homeless) aadmi baitha tha. Wo ek dusre se is assignment ke baare mein baat kar rahe the, keh rahe the, "ugh, unhe kya chahiye? Hamein koi palm reader nahi mil raha." Toh wo aadmi thoda aage ki taraf jhuka (hunched over) hua tha, lekin wo sun raha tha. Wo seedha baitha aur bola, "Main tumhara hath padh sakta hoon, main kar dunga." Aur maine (Fabricatore ne) kaha, "YAHI THA! Yahi tumhari kahani hai!" Art cheezein hone dene ke liye khula (open) rehne ke baare mein hai.
+
+VeIe / if \ \ Byay
+
+
+
+"2 a
+
+
+
+”__ <a] P < /
+
+
+
+¥ PA a im! &
+
+
+
+: UY a ENG) Rbddenedjaito
+
+
+
+**FIGURE 1.6** Carol Fabricatore. Rob Anderson Jazz Trio, Grand Central Station, April 11, 2016. 2016.
+
+### **Itefaqan (Serendipitous) Haadsa (Accident)**
+
+Bahut se artists apne creative process mein ek aise pal (moment) ko bayan karte hain jab koi an-socha (unexpected) accident kaam ko aage badhata hai. Kisi tarah, unhe koi aisi image mil jati hai jise wo be-tahasha pur-kashish (compelling) paate hain. Yeh kisi dusre artist ke studio space mein ya kisi art gallery mein ya shehar ki kisi sadak par ho sakta hai. Ya yeh tab ho sakta hai jab wo apne khud ke studio mein kaam kar rahe hon, jab process ka nateeja (results) us cheez se alag ho jiska unhone irada (intended) kiya tha. Kabhi-kabhi, wo accident, wo surprise, unke original irade se kahin zyada asardaar (compelling) sabit hota hai. Jab aisa hota hai, toh aapko apne pichle idea ko piche chhodne ke liye taiyar rehna padta hai.
+
+MFA students jinka maine interview liya un sabne accidents aur surprises ke baare mein kahaniyan sunayi. WashU mein ek MFA student, Lauren Cardenas ne mujhe yeh kahani sunayi:
+
+*Jab main pehli baar yahan aayi, toh main har taraf bhatak (all over the place) rahi thi. Mere ideas mere kaam se mel (lining up) nahi kha rahe the. Main consumerism (chizein kharidne ki aadat) ke baare mein baat kar rahi thi, lekin jo kaam main kar rahi thi uska talluq ghar (home) ki pehchan (identity) se tha. Pehle semester mein, zahir hai (apparently) yeh aam baat hai—wo aapse struggle karne (flounder) ki umeed karte hain. Apne dusre semester mein, maine letter-pressed scrolls (lapatne wala kaghaz) ki ek series banayi aur maine scrolls ko lapeta aur unhe bottles mein daal diya.*
+
+Maine usse poocha, "Tumhe yeh idea kaise mila?"
+
+*Main 12-step program ke zariye depression ke sath aane wale daily affirmations (khud ko hosla dene wali baten) aur meditations (soch-vichar) ko explore kar rahi thi. Aur isse self-medication (khud-ilaji) samne (emerged) aayi; mujhe yeh idea apne ek dost se mila jo Barnes-Jewish Hospital mein kaam karta tha, jo mere liye yeh ampules [sealed glass capsules] laya tha, aur maine inka istemal ek pichle project mein kiya tha. Phir maine aur bahut se ampules mangwaye, lekin wo bina tops (dhakkan) ke aaye. Yeh bas ek khush-gawar itefaq (happy accident) tha, waqayi koi idea (insight) nahi tha. Main bas cheezein ikattha karne wali (packrat) hoon aur mujhe kisi cheez ka istemal na karna acha nahi lagta. Phir, maine socha ki yeh ampules logon ko dena aur unse unhe tudwana (break) dilchasp hoga. Maine chaudah (14) ampules ke sath ek Z-PAC jaisa banaya, har ek mein ek likha hua message andar tha, ampules mein, jinhe sile hue pouches (thailiyon) ke andar rakha gaya tha [dekhein figure 1.7].*
+
+Yeh ek pechida (complex) artwork hai jo aisa lagta hai jaise ise pehle se dhyan se plan kiya gaya hoga. Na sirf material composition complex tha; isme ek gehra concept (conceptual depth) bhi tha. Lekin yeh ek improvisational aur unpredictable process se nikal kar samne (emerged) aya. Jab aap soche-samjhe (deliberate) process ko follow karte hain, toh aap acha kaam zaroor banayenge (generate). Final kaam aisa lagega jaise ise shuru se hi plan kiya gaya tha. Lekin artists aur designers jo dekhna jante hain, unhe pata hoga ki kaam ke piche ek chhipi hui history hoti hai.
+
+Ek creative career ek rozana ki practice hai. Iski koi saaf shuruat nahi hoti aur koi saaf anjaam (end) nahi hota. Ideas lagatar ubhar (emerge) aate hain. Art aur design school ka ek maqsad students ko aakhiri manzil (endpoint) par focus karne se rokna hai aur unhe us process par focus karne ki taraf le jana hai jisme wo shamil (engage) hote hain. Agar aap process ko sahi kar lete hain, toh ache kaam apne aap nikal aayenge (emerge).
+
+##### **FIGURE 1.7**
+
+Lauren Cardenas. Original Artist Book Mockup. Glass ampules, each with a rolled piece of paper inside with a written message in a sewn paper pouch. Artwork done for MFA thesis at Washington University in St. Louis. 2012.
+
+#### ..........
