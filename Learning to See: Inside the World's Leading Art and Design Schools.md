@@ -4048,4 +4048,405 @@ Esma Dengiz, lighting designer, SCAD
 
 Studio talk mein, professors pehle sochte aur phir baad mein baat nahi karte. Unka sochna aur bolna ek hi waqt (same time) mein hota hai. Har student expert creative thinking ko ussi waqt (in real time) dekhta hai. Zabaan (Linguistics) ki research se, hum jante hain ki das (10) speech techniques kya chhupe hue paighamaat (hidden messages) communicate karti hain. In techniques ka jaiza lene (analyze) ke liye, maine sirf lafzon (words) se zyada ko likha (transcribed) hai. Maine is baat ko dikhane ke liye interaction analysis ke methods ka istemal kiya hai ki students yeh dekh sakte hain ki studio talk spontaneous (achanak aane wali) aur improvised (mauqe par soch kar boli gayi) hoti hai. Wo soch ko amal (action) mein dekh rahe hain. Speech ke wo chote chote hisse (tiny bits) jin ke baare mein hum shayad hi kabhi sochte hain, students ko dikhate hain ki professors kaise sochte hain. Creative thinking iterative (doohrayi jane wali) hoti hai; yeh an-sochi (unexpected) cheezon ko ubharne (emerge) ka mauka (allows) deti hai; aur yeh dekhne ki kabiliyat (ability to see) ke sath gehrai se judi (intimately linked) hoti hai.
 
-..........
+---
+
+## **Chapter 9 - DIALOGUE (Baat-cheet/Guftgu)**
+
+**Art is baat ke darmiyan ek dialogue hai ki aap kya chahte hain aur kaam (work) kya chahta hai, aur kaam wapas aapse baat karta hai.**
+
+Beth Grabowski, artist, University of North Carolina at Chapel Hill
+
+Aapne ek nimbu ki murti (sculpture) banayi hai, ya kisi fairy tale (pari katha) ke ek page ki illustration banayi hai, ya ek sustainable beach bag ka prototype banaya hai. Shuru mein, yeh sirf ek draft ya prototype hota hai. Yeh wo anchor point (shuruati nishan) hai jahan se aapka process shuru hota hai. Phir, aap ek iterative (baar-baar dohrane wale) process mein shamil hote hain jahan kaam aapke aur kaam ke beech ke dialogue se ubhar kar (emerges) aata hai. Process ka maqsad sirf ek object banana nahi hai; maqsad ek dialogue paida karna hai, aur dialogue kaam banata hai.
+
+Oopar diye gaye qol (epigraph) mein, Grabowski apne kaam ke bare me aese baat karti hain jaise wo ek azaad (independent) agent ho. Wo chalis saalon se ek professional artist hain. Wo janti hain ki jaise-jaise dialogue aage badhta hai, kaam ke sath kaise judna (engage) hai. Lekin students abhi yeh karna nahi jante. Jab wo art ya design school shuru karte hain toh unke paas behtareen portfolios hote hain; wo jante hain ki aesi cheezein kaise banani hain jo dekhne mein achi lagti hain. Lekin wo creativity ke dialogue mein shamil hona nahi jante. School of Visual Arts (SVA) mein ek photographer, Accra Shepp, isay kuch is tarah bayan karte hain:
+
+*Main students se kehta hoon, aapko sunna padega ki kaam humse kya karne ko keh raha hai. Hum art ke kaam ki zarooraton ke baare mein baat karte hain, hum art ke kaam ko ek jandaar cheez (sentient thing) ka darja (position) dete hain jiski zarooratein humari zarooraton se alag hoti hain, aur phir wo aage badhta hai aur humse alag apni zindagi jeeta hai. Hum kaam mein ikhtiyar (agency) mante hain aur hum sochte hain, kaam ko kis cheez ki zaroorat hai? Yeh aapke baare mein nahi hai, yeh is baare mein hai ki tasveer (image) ko kis cheez ki zaroorat hai, tasveer ke liye kya sabse behtar hai. Jab aap art field ke bahar kisi se art ke kaam ki zarooraton ke baare mein baat karte hain toh aap unhe thode pagal lag sakte hain.*
+
+Creativity ke dialogue mein shamil hona seekhne ke liye, aapko ise ek fori (immediate) aur seedhay (direct) tareeqe se tajurba (experience) karna hoga. Creativity ka dialogue practice ka knowledge hai. Yeh *kaise* janna hai, yeh *nahi* janna ki kya. Lekin aap kisi aesi cheez ka tajurba kaise kar sakte hain jise aap karna hi nahi jante? Art aur design padhane ka yahi paradox (virodhabhas/uljhan) hai.
+
+Students ko creativity ke dialogue mein shamil hona sikhane ke liye, professors studio mein creativity ka dialogue *perform (pesh)* karte hain. Yani, wo student ke kaam ke sath baat-cheet (conversation) karte hain jabki students unhe aesa karte hue dekhte hain. Wo kaam aur usay banane wale ke darmiyan dialogue ka model (misaal) pesh karte hain. Beshak, student ka kaam baat nahi karta; wo saans nahi leta aur aawazein nahi nikalta. Kaam ke sath dialogue karne ke liye, professor ko isey zinda (bring it to life) karna padta hai. Professors kaam par khayalat aur irade (thoughts and intentions) project (daal kar) karke aisa karte hain. Professor ek bolti kathputli chalane wale (ventriloquist) ki tarah kaam ki aawaz banta hai. Student abhi tak yeh nahi dekh sakta ki kaam kya keh raha hai; professor ko student ke liye kaam ki zarooraton ko translate karna padta hai. Beshak, jis student ne kaam pesh kiya hai usne wahi kaam banaya hai jo samne hai, lekin student is dialogue ka sirf ek hissa (incidentally) hota hai.
+
+Professors kaam ko zinda karne ke liye baat karne ke ek khas tareeqe ka istemal karte hain, taaki students ko yeh dikha saken ki iski apni khwahishein aur chahatein (wishes and desires) hain. Is chapter mein, main aapko paanch (5) aisi speech techniques dikhaunga jinka istemal professors kaam mein jaan dalne (animate) ke liye karte hain. Hum sab roz-marra ki baat-cheet mein in paanch techniques ka istemal karte hain; zabaan ke mahir (linguists) dashko (decades) se inki study kar rahe hain, aur aap inhe fauran pehchaan lenge. Jab maahir (skilled) professors in paanch techniques ko ek sath late hain, toh kaam zinda ho jata hai. Is andaz (style) ki baat-cheet (talk) ka istemal karke, professor kaam ko "animate (mutaharrik)" karta hai, bilkul waise hi jaise ek cartoonist ek choohay (mouse) ko animate karta hai. Main is tarah ki speech ko *creative animation (takhleequi harkat)* kehta hoon. Professor us bani hui cheez (artifact) ke kamo (actions), zarooraton (needs), aur andaruni halchal (internal dynamics) ke baare mein baat karta hai.
+
+Professor pehle creative animation ka istemal karke kaam ko zinda karta hai, aur phir *creativity ka dialogue (the dialogue of creativity)* perform karta hai: khultay huay (unfolding) kaam ke sath lagatar juday rehne (continuing engagement) ka ek process. Professor students ke samne yeh performance deta hai, unke liye ek aese iterative (dohranay wale) process ki misaal (modeling) pesh karta hai jisme artist ya designer kaam ke sath ek saajhedaar (jointly participating) creative agent ke taur par judta (interacts) hai. Creativity ke dialogue mein, artist ek creative kadam (action) uthata hai; phir, kaam apne action ke sath jawab deta hai. Artist phir us action par respond karta hai. Dialogue ek ke baad ek chalta rehta hai—ek aesa iterative process jahan kaam an-sochay dhang se (unpredictably) ubharta (emerges) hai.
+
+Creative animation kaise kaam karta hai yeh dikhane ke liye, maine professors ke un videos ko likha (transcribed) jab wo creativity ke dialogue mein mashgool (engaged) the. Bilkul pichle chapter ki tarah, maine khas linguistic notation (zabaani nishanaat) ka istemal kiya taaki zabaan ke chhupe hue pehluon ko zahir (reveal) kiya ja sake—wo cheezein jo lafz nahi kehte lekin phir bhi matlab (meaning) communicate karti hain. Yeh notation un paanch techniques ko wazeh (reveals) karti hai aur humein yeh dekhne mein madad karti hai ki kaise baat, ishaaray (gesture), aur aankhon ka rabta (eye gaze) aapas mein mil kar kaam ko ikhtiyar (agency) dete hain.
+
+Is chapter mein, main Heather Corcoran ki Washington University in St. Louis (WashU) ki Word & Image Studio 2 class ke ek session par focus karunga. Students third-year ke hain aur yeh spring semester ki class hai; pichle fall semester mein, unhone Word & Image Studio 1 li thi. Yeh Communication Design majors hain. Assignment (page 213 par figure 6.2) do posters design karna tha jo "dilchasp sathiyon (interesting companions) ke taur par kaam (function) karein." Figure 9.1 mein studio ki deewar dikhai gayi hai jahan sabhi students ke poster pairs ek sath lage hue hain. Jis student ka sabse pehle critique ho raha hai, wo daayin (right) taraf baithi hai, aur Corcoran uske piche aadhi chhupi hui hain. Baayin (left) taraf wale do students abhi class mein aaye hain aur apne posters deewar par bachi hui thodi si jagahon par laga rahe hain.
+
+**FIGURE 9.1** Heather Corcoran ki class Word & Image Studio 2, Washington University in St. Louis mein. 2011. Class ki shuruat. Pehla critique bas shuru hone wala hai.
+
+Corcoran ek graphic designer hain jinhone Yale University Press, Saint Louis Zoo, aur Kansas City ke Kemper Museum of Contemporary Art ke liye kamo ko design kiya hai. Unhone 1998 mein Yale se graphic design mein apna MFA hasil kiya. Wo Sam Fox School of Design & Visual Arts mein ek senior endowed professor hain. 2014 se 2019 tak, unhone naye MFA aur BA degree programs ko develop karne mein madad ki. Corcoran ne poore United States aur duniya bhar mein apne kaam ko exhibit (paish) kiya hai. Unki ek Apple iTunes app bhi hai!
+
+Students pehle hi pichli class sessions mein in do posters par apna beecho-beech ka (interim) kaam pesh kar chuke hain. Is class ka maqsad yeh review karna hai ki unhone pichle critique ke baad se kya kiya hai aur agle qadam ke liye masail (issues) aur sujhau (suggestions) pehchanna hai, jo mukammal (completed) project ki aakhiri presentation hogi.
+
+Figure 9.2 mein bethi hui student ne upar baayin (upper left) taraf wale do posters design kiye hain. Baaki posters un doosre students ke hain jinke critiques baad mein honge. Corcoran student ke samne aur uski daayin (right) taraf khari hain, jisse student deewar par apna kaam dekh sakti hai aur baat karte waqt Corcoran ko bhi dekh sakti hai. Critique mein, Corcoran baayen (left) poster ko "A" aur daayen (right) poster ko "B" kehti hain.
+
+Example 9.1 mein, Corcoran kaam ki aawaz (voices) banti hain, student ko batati hain ki kaam kya chahta hai.
+
+**FIGURE 9.2**
+
+Critique shuru ho chuka hai. Corcoran "us wale ki banawat (composition of that one)" ki taraf ishara (pointing) kar rahi hain: baayen (left) poster ke upari aadhay hissay ("poster A") ka design. Yeh video tasveer example 9.1 ki line 1 se hai.
+
+#### **EXAMPLE 9.1. "USKI COMPOSITION USKE UPAR BHAARI HONE (TOP HEAVINESS) MEIN KUCH BADLAV (SHIFT) MAANG RAHI HAI"**
+
+* **1** Mujhe lagta hai ki us wale ki composition
+* [“us wale ki composition” kehte waqt, Corcoran kaam ke us hisse (element) ki taraf ishara karti hain jiska wo zikr kar rahi hain]
+
+
+* **2** maang rahi hai (is asking for)
+
+[Corcoran apni nazrein kaam se hata kar student par dalti hain, aur phir wapas kaam ki taraf dekhti hain]
+
+* **3** upar bhaari hone (top heaviness) mein kuch badlav (shift)
+
+[Corcoran apne hath uthati hain aur unhe "top heaviness" ko darshane ke liye hilati (wiggles) hain]
+
+Corcoran student ke liye kaam ki aawaz (voice) translate (tarjuma) kar rahi hain. Kaam ke ek hisse—left poster ke upari hisse ki composition—ko ek visual (dekhne wali) problem ho rahi hai, aur yeh apni problem ke liye madad "maang raha hai (asking for)." Yeh kis se maang raha hai? Line 2 mein Corcoran ki student ki taraf nazar (glance) ishara deti hai ki kaam student se baat kar raha hai aur yeh uski (student ki) zimmedari hai ki wo sunay.
+
+Corcoran ek kamyab professional designer hain. Jab wo apni khud ki practice mein create karti hain, toh wo apne kaam ke sath ek dialogue mein shamil hoti hain. Lekin apne studio mein akele, mujhe is baat par shaq hai (I doubt) ki wo out loud (aawaz nikal kar) apne kaam se baat karti hongi. Classroom mein, professors jo apne studio mein khamoshi (silently) se karte hain, usay verbally (bol kar) externalize (zahir) karte hain. Creative animation students ke liye ek performance (peshkash) hai.
+
+Yeh sikhane ke liye ki kaam ek zinda, saans leti hui cheez hai, aap ise students ke liye zinda kar dete hain. Aap yeh dikhate hain ki aap kaam ke sath kaise interact (guzarte/pesh aate) karte hain, aur kaam aapko kaise respond (jawab) deta hai. Aap kaam ke sath ek engagement (judav) ka pattern wazeh (visible) karte hain—baatcheet ki baariyan (conversational turns), ek ke baad ek. Creative animation students ke liye un zehniyaton (mindsets) aur practices (tarikao) ki misaal (models) banta hai jo kamyab creativity se judi (associated) hain.
+
+**Tasveer ko tumhe batane do ki iska agla roop (incarnation) kya hoga. Agar tasveer khulte waqt tumhe bata sake (inform you as it unfolds), toh tum is baat par bharosa kar rahe ho ki tumhe nahi pata kahan jana hai, lekin tum bata sakte ho ki kab yeh sahi nahi hai. Isliye tum naye tareeqe aazmate rehte ho jab tak ki yeh theek (resolved) na ho jaye. Us jagah (place) mein chale jao jo anjan (unknown) hai. Tumhe jo tum kar rahe ho uske sath ek rishte ki zaroorat hai.**
+
+Richard Wilde, graphic designer, SVA
+
+### **The Illusion of Independent Agency (Azaad Ikhtiyar Ka Weham/Dikhawa)**
+
+Lorne Buchman ne apni kitab *Make to know* mein is baat ko record (documented) kiya ki kaise sabhi disciplines mein creators apne unfolding (khultay hue) kaam ke sath ek azaad wajood (autonomous being) ki tarah pesh aate (engage) hain. Fiction (khayali) kahanion ke musannif (writers) shayad kisi bhi aur se zyada aesa karte hain, kyunki unki takhleeqon (creations) mein asali insaan (actual human beings) hotay hain. *Azaad ikhtiyar ka weham (The illusion of independent agency)* tab hota hai jab musannif yeh tasavvur (imagine) karne lagta hai ki uske khayali kirdaron (fictional characters) mein se kisi ek ke paas apne khud ke khayalat (thoughts) hain, aur wo apne shabdon mein bolna shuru kar deta hai. 90 percent se zyada fiction writers is weham ko mehsoos (experience) karte hain. Lekhika (Author) Francine du Plessix Gray ne ek baar kaha tha ki unke characters (kirdar) unke bistar (bed) mein unke sath sote the, aur kabhi-kabhi unhe jaga kar poochte the, "Tum aage kahani mein humse kya karwane wali ho?" Dusre mash-hoor authors jinhone is weham ko bayan (described) kiya hai unme Henry James, Jean Paul Sartre, Fyodor Dostoevsky, Marcel Proust, Kurt Vonnegut, Sue Grafton, aur Quentin Tarantino shamil hain.
+
+Artists aur designers jab create karte hain toh unke sath bhi bilkul wesa he hota hai. Lekin sirf tab jab aap uss object (kaam) ke sath apna maqsad (intention) share karne ke liye tayyar hon; sirf tab jab aap kaam ko ek guftgu (dialogue) se wujood mein aaney ka mauka den. Zaroori nahi ke kaam hamesha wohi kare jo aap chahte hain ya jesa aap ne socha tha, magar maine kabhi kisi professor ko ye kehte nahi suna ke kaam jo chahta hai wo "ghalat" ya "bura" hai. Unhone kabhi student ko yeh nahi kaha ke kaam ki zarooraton ko nazarandaz (ignore) kardo. Wo kabhi bhi kaam ki chahat (desire) ko creative process mein rukawat (block) ya banane wale ki soch (creator's vision) ke khilaf kisi an-chahe rokk (unwelcome resistance) ke tor par nahi dekhte. Creative animation mein sikhaya janay wala paigham yeh hota hai ke student ko kaam ki uski apni taqat (agency) ko sunna aur uska swagat (welcome) karna chahiye, ek aisi positive taqat (force) ke tor par jo creative process ko aage barhati hai.
+
+Kamyaab artists aur designers wahi sunte hain jo unka kaam keh raha hota hai; unhon ne seekh liya hai ki us kaam ko kaise dekhna hai jo wo kar raha hai.
+
+### **Khud Ko Apni Takhleeq (Creation) Se Alag Karna**
+
+Cheryl Wassenaar, WashU mein ek visual artist, ne mujhe bataya:
+
+*Aapke pichlay tajurbaat (past experiences) kisi cheez par aapke reaction, ya jo aap dekhte hain uski samajh (understanding) ko aakar (shape) dete hain. Aap apne kaam ke sath communicate (baat) karna shuru kar dete hain. Ya kuch log kahenge ki yeh ehsasat (feelings) jaga (evoking) raha hai. Aapko khud ko dekhne wale (viewer) ki jagah par rakhna padta hai aur un cheezon ko pehchan-na (recognize) shuru karna padta hai jo aap unke liye wahan paish kar rahe hain aur unke responses (jawab) kya ho sakte hain.*
+
+Naye students uss cheez se bohot zyada jud jatay (identify) hain jo unhon ne banai hai. Wo had se zyada attached hote hain. Unhon ne apna sab kuch (wujood aur soch), object (kaam) mein daal diya hota hai. Students ko apne kaam se alag hona (detach) bohot mushkil lagta hai. Yahi wajah hai ki professor kaam me jaan daltay (animates) hain aur kaam se baat karte hain, na ke student se. Creative animation yeh dikhati hai ke kaam student se bilkul alag (distinct) hai, apni khud ki zaroriat aur khuwahishon (needs and desires) ke sath ek khud mukhtar (autonomous) agent hai.
+
+Jo aapne banaya hai, agar aap usse bohot zyada gehrai se judein toh ye creativity ko rok deta (blocks) hai. Yeh aapko kaam ko usay uski asliyat (as it is) mein dekhne se rokta hai. Dekhna seekhne ke liye, aapko kaam se alag hona (detach) seekhna zaroori hai. Tajurbekar (Experienced) professors kehte hain ke is process mein do ya teen saal lag jatay hain.
+
+**Ek artwork (kaam) aksar banate waqt aapko batata hai ke usse kya chahiye. Agar aap zabardasti usse wo banana chahenge jo aapne socha tha, toh wo aksar be-jaan (stiff) lagne lagta hai ya bilkul bhi dilchasp (not particularly interesting) nahi rehta.**
+
+Peter Hristoff, painter aur carpet maker, SVA
+
+Creative animation mein, student ko us kaam ka "samajhdar banane wala (knowing creator)" nahi mana jata; balkay, kaam ke bare mein yeh tasavvur kiya jata hai ki wo khud ko shayad student se zyada behtar janta hai. Professor kaam ko dekhta hai aur uska matlab (meaning) samajhne (discern) ki koshish karta hai. Matlab (meaning) zahir (obvious) nahi hota; yeh mumkin hai ki student abhi tak khud na janta ho ki us kaam ka kya matlab hai. Ek studio critique (jaizay) mein, student aur professor is matlab ko dhoondhne ke liye mil kar (collaborate) kaam karte hain.
+
+University of North Carolina at Chapel Hill ki artist, Beth Grabowski ne mujhe bataya: "Art is baat ke darmiyan ek dialogue (guftgu) hai ki aap kya chahte hain aur kaam (work) kya chahta hai, aur kaam wapas aapse baat karta hai." Ek hi studio class mein jise maine dekha, unhone alag-alag students se yeh saari baatein kahin:
+
+*Kaam ki aawaz (voice) par gaur karo. Yeh kaam ke sath ek baat-cheet (conversation) hai. Kaam aese tareeqon se jawab (responds) deta hai jiska aap pehle se andaza (preconceive) nahi laga sakte.*
+
+California Institute of the Arts ke typeface designer Jeffery Keedy ne mujhe bataya:
+
+*Critical distance (jaiza lene ka fasla/door se parakhna), yeh wo cheez hai jispar main BFA twos [dusre saal ke undergraduate students] ke sath bahut kaam karta hoon. Ise bahut shuru mein viksit (develop) karna padta hai. Yeh paar karne wali (get over) pehli rukawaton (hurdles) mein se ek hai, kyunki aap jo bhi karte hain, mom (maa) ne use refrigerator par lagaya aur wo shandaar (wonderful) lagta hai. Sabse pehli cheezon mein se ek yeh hai ki logon ko unke apne kaam ko is tarah dekhne ki koshish karwana jaise unhone ise kiya hi nahi, apne kaam ko barabar ke nazariye (objectively) se dekhna. Critique process isi liye hota hai—har student mein critical distance (door se parakhne ki salahiyat) viksit karne ke liye. Behtareen taur par (Ideally), aap us point par pahunch jate hain jahan kuch hi seconds mein aap sach mein is se peeche hat sakte hain aur ise wese dekh sakte hain jese baki sab dekhenge.*
+
+Maine Savannah College of Art and Design ki ek interior designer, Esma Dengiz se poocha, "Ek acha student kya banta hai?" Unhone kaha:
+
+*Wo apne khud ke kaam par tanqeed (criticize) kar sakte hain. Wo waqayi ek kadam piche hat kar (step back) apne kaam ko aese dekh sakte hain jaise wo koi aur hon. Students mein yeh bahut kam (pretty rare) hota hai.*
+
+### **Ek Kaam Ko Zinda Karne Ke Paanch Tareeqe Creative Animation Ke Zariye (Five Ways to Bring a Work to Life Using Creative Animation)**
+
+**Jab insaan jawan aur chhoti soch wala (narrow-minded) hota hai, toh wo chahta hai ki drawing uske pehle se soche hue idea (preconceived idea) ko thos (concretize) roop de. Be-yakeeni (uncertainty), ghair-wazehi (vagueness), definition (wazahat) ki kami aur durustagi (precision) ko bardasht karne ki badhti hui salahiyat (growing capacity) ke zariye, insaan dheere-dheere apne kaam ke sath tawaun (cooperating) karne ka hunar (skill) seekh jata hai, aur kaam ko iske khud ke sujhau (suggestions) dene aur apne an-sochay (unexpected) raston (turns) aur harkaton (moves) ko lene ki ijazat deta hai. Soch ko thopne (dictating a thought) ke bajaye, sochne ka process intezar karne (waiting), sun-ne (listening), collaboration (mil-kar kaam karne) aur dialogue (baat-cheet) ke ek amal (act) mein badal jata hai.**
+
+Juhani Pallasmaa, *The thinking hand*
+
+Poore critique ke dauran, Corcoran student ke kaam ke sath aesa sulook karti hain jaise ki isme ikhtiyar (agency) ho. Wo aesa isliye karti hain kyunki wo kaam se baat karti hain aur kaam ko aese respond (jawab) deti hain jaise ki kaam unse baat kar raha ho. Zahir hai, student hi banane wala (creator) hai; student ne dono posters banaye hain. Lekin Corcoran aese act nahi karti jaise ki student janti ho ki kya chal raha hai. Asal mein, Corcoran aesa lagta hai ki student se zyada janti hain ki kaam kya soch raha hai. Wo kaam ke sath judti (engages) hain taaki pata laga saken ki iska kya matlab hai; wo student ke liye kaam ki aawaz ko translate karti hain, kyunki student abhi tak apni khud ki aawaz ko sun-na nahi janti. Wo kaam jo keh raha hai use aesi bhasha (language) mein translate karti hain jise student samajh sake.
+
+Corcoran student ke kaam ko zinda (bring to life) karne ke liye creative animation ki paanch speech techniques (bolne ke tareeqo) ka istemal karti hain. In paanch speech techniques ko samajhne ke liye, main pichle chapter ki transcription notation (likhne ke nishanat) ka istemal karunga. Aur kyunki paanch mein se kuch techniques mein nonverbal actions (bina bole hone wale actions) jaise ishaare (gestures) aur aankhon ka rabta (eye gaze) shamil hain, isliye maine in actions ko zahir (reveal) karne ke liye kuch naye transcription rules jode hain: Corcoran ki aankhon ke dekhne ki disha (direction) mein badlaav ke liye ek plus sign (+), aur jahan unke ishaare shuru aur khatam hote hain wahan asterisks (*). Isey dekhne mein kaam ka (visually) banane ke liye, main ek *fixed-width font* ka istemal karunga taaki ishaare un bole gaye lafzon (words) ke sath bilkul theek se line up (mil saken) hon. Yeh pakka (make sure) karne ke liye ki wo bilkul theek se line up hon, ek split second (second ke hisse) tak, maine video ko bohot dheema (slowed down dramatically) kiya aur mujhe ise an-ginat (uncountable) baar dekhna pada!
+
+#### **Speech technique 1. Ek sentence (jumle) mein, kaam (work) subject (karta) hota hai aur verb (fail/kaam) kaam dwara liya gaya ek action hota hai. Student sentence mein nahi hota.**
+
+Creative animation mein, professors student se mukhatib (address) hote hue 'tum (you)' ya 'tumhara (your)' ka istemal kam karte hain (second person); wo aesa nahi kehte, "Tumne yeh kiya" ya "Tum kya soch rahe the?" Creative animation mein, kaam (work) hi har sentence ka subject (karta) aur object (jis par kaam ho raha ho) hota hai. Example 9.2 mein wahi baat kahi gayi hai jo example 9.1 mein thi. Lekin is baar, maine ek makhsoos (specialized) transcript notation (likhne ke nishanat) ka istemal kiya hai taaki hum dekh saken ki *sach mein (really)* kya chal raha hai. Sentence ka subject "us wale ki composition (the composition of that one)" hai, aur yeh kisi cheez ki "maang kar raha (is asking for)" hai. Lekin kaam (work) ko abhi tak poori tarah nahi pata ki use kya chahiye, aur Corcoran student ko dikha rahi (demonstrating) hain ki yeh kaise pata lagaya jaye ki use kya chahiye. Corcoran is baat par zor dene ke liye *that one* par point (ishara) karti hain ki yeh agent (karta) hai. Asterisks pointing gesture (ishara karne wale action) ke shuru aur khatam hone ke nishan hain.
+
+#### **EXAMPLE 9.2. "USKI COMPOSITION USKE UPAR BHAARI HONE (TOP HEAVINESS) MEIN KUCH BADLAV (SHIFT) MAANG RAHI HAI"**
+
+Corcoran deewar se char foot ki doori par khadi hain. Wo aur student deewar par lage posters ko dekh rahi hain. "C" Corcoran hai; "S" student hai.
+
+> **1** `Mujhe lagta hai ki us wale ki composition`
+
+* *C teen baar "that one" par ishara karti hain,
+* `*..........................*` wo hissa jiska hawala (referenced element) diya gaya hai
+* **2** `maang rahi hai (is asking for) +S.......+` +C ki nigaah (gaze) thodi der ke liye S ki taraf mudti hai, phir wapas aarti-fact (kaam) ki taraf
+* **3** `kuch badlav (shift)`
+
+**4** `upar bhaari hone (top heaviness) mein *..................*` *C apne dono hathon ko upar uthati hain aur unhe "top heavy (upar bhaari)" ko dikhane (iconically represent) ke liye hilati (wiggles) hain `+S..............+` +Hathon se ishaara karte waqt, C jaldi se ek nazar (quick glance) S ki taraf dalti hain
+
+Bole gaye lafzon ki har line ke niche ek dusri line hai, jisme dots hain, jo unn nonverbal actions (bina bole wale actions) ko bayaan karti hai jo usi waqt (same time) ho rahe hain, in symbols ka istemal karte hue:
+
+* **Nazaron mein badlaav (Gaze changes)** ko ek plus sign (+) se ishara kiya jata hai. Nazar mein ek chhota sa badlaav, jiske baad nazar wapas asli jagah (original target) par aa jaye, do plus signs (+ . . .  . . . . . . . . . . . +) se ishara kiya jata hai. Plus sign ke baad aane wala harf (letter) ishara karta hai ki Corcoran kahan dekh rahi hain: "S" student ke liye, "W" kaam (work) ke liye.
+* **Ishara karna, harkat aur jismani movement (Pointing, gesture, and body movement)** ko asterisks (* . . . . . . . . . . . *) se nishan zada kiya gaya hai. Isharay ki wazahat (description) daayin taraf (right) wale column mein hai.
+
+Yahi wajah hai ki Example 9.2 ka transcript *fixed-width font (aik jaise chaudayi wale font)* ka istemal karta hai. Is tarah, aap *bilkul theek (exactly)* dekh sakte hain ki nonverbal actions kahan hote hain—exact microsecond tak. Sach mein (Literally) is tarah se conversation ko transcribe (likhne) karne mein *ghanto (hours)* lagte hain! Jab Corcoran kehti hain "asking for (maang raha hai)", toh niche bane plus signs yeh nishan zada karte hain ki wo kab student ki taraf dekhne ke liye mudti hain, aur phir deewar par lage kaam ki taraf wapas mudti hain. Unki nazar chupke se (implicitly) ishara karti hai ki kaam student se baat kar raha hai; Corcoran student ke liye yeh translate (tarjuma) kar rahi hain ki kaam kya chahta hai. Aur, line 4 mein, Corcoran ek baar phir student ki taraf dekhne ke liye mudti hain jab wo "the top heaviness (upar bhaari hona)" kehti hain. Is baar, wo top heavy hone ko dikhane ke liye apne hathon ko hawa mein upar utha kar ek ishara (gesture) bhi karti hain.
+
+Example 9.2 mein, kaam (work) ki ek khasiyat (feature)—iski composition—ko agent (karta) ke roop mein zinda (animated) kiya gaya hai, aur ise kuch chahiye: "some shift in the top heaviness (upar bhaari hone mein kuch badlav)." Jo cheez utni hi dilchasp hai wo yeh hai ki kya *nahi (not)* hota: Corcoran student se kaam ke baare mein nahi poochti hain; wo student se nahi poochti ki wo kya karne ki koshish kar rahi thi; wo student se nahi poochti ki wo aage kya karne ka plan bana rahi hai. Yahan un baaton (sorts of things) ki list hai jo wo *nahi (doesn't)* kehti hain:
+
+* X *Tumhe iski composition par kaam karna chahiye.*
+* X *Tumhe yeh badalna (change) hoga ki yeh kitna top heavy dikh raha hai.*
+* X *Tumne ise itna top heavy kyun banaya?*
+* X *Kya tumne notice kiya ki yeh iske mukable mein imbalanced (asamtul/ghair mutawazin) hai?*
+
+Aise sentences student ko actor (karta) aur kaam ko khamosh/murda (passive) manenge. Creative animation mein aapko aesa dekhne ko nahi milta. Iske bajaye, professor kaam ko ek aese agent ke roop mein animate (zinda) karte hain jiski apni zarooratein hain. Students isme sirf aade-tade (indirectly) shamil hote hain.
+
+Kaam ki translated aawaz student ko thik (exactly) yeh nahi batati ki kya karna hai. Kaam student ko koi specific solution nahi deta; iske bajaye, ise ek problem hai jisme ise madad ki zaroorat hai. Student kaam ki ek khadim (servant) hai. Ek professional artist ya designer dekh sakta hai ki kaam ko kya zaroorat hai, lekin students abhi bhi is tarah se dekhna seekh rahe hain.
+
+#### **Technique 2. Kaam ke specific elements (khas hissay) agents (karta) hote hain, na ki poora kaam (work as a whole)**
+
+Z्यादा-tar cases mein, poora kaam actor (karta) nahi hota. Balki, yeh kaam ka ek hissa (element) hota hai, jo aksar kisi dusre hisse par asar (acting on) dalta hai. Example 9.2 mein, agent "us wale ki composition (the composition of that one)" hai; Corcoran iski taraf ishara karti hain, yeh wazeh (clear) karte hue ki yahi agent hai.
+
+#### **Technique 3. Kaam ka ek hissa dusre hisse par asar dalta hai (One element of the work acts on another element)**
+
+Corcoran ki performance kaam ko ek rich, pechidah visual system (dekhne ka pechida nizam) ke taur par pesh karti hai, jisme ek hissa dusre hisse par asar dalta hai. Yeh dusra hissa, jo sentence ka object (jis par kaam ho raha ho) hai, action ko wasool (receive) kar sakta hai aur uspe respond (jawab) de sakta hai; iske paas bhi ikhtiyar (agency) hai. Is interaction (mulaqaat) mein student kahan hai? Kahin nahi—kaam ke hisse student ki dakhlandazi (involvement) ke *bina* ek dusre ke sath interact karte hain. Creative animation student ko dikhata hai ki uska kaam aese agentive elements (asan shabdon me zinda hisso) ka ek collection hai jo uske bina ek dusre ke sath interact (pesh aana/rabta) kar sakte hain.
+
+#### **Technique 4. Kaam ke us hisse (element) par ishara karein jisme ikhtiyar (agency) hai**
+
+Example 9.2 ki line 1 mein, asterisks (sitare) dikhate hain ki Corcoran ishara karna (pointing) shuru karti hain jab wo "composition" kehti hain aur wo "one" shabd ke baad lekin "is" shabd se pehle ishara karna band kar deti hain. Example 9.3 mein, Corcoran bayan karti hain ki ek hissa dusre hisse par kaise asar dalta hai. Shabdon ke niche diye gaye dots (nuqte) dikhate hain ki wo har hisse (element) par ishara karti hain jab wo uska zikr (reference) karti hain—jis se unki azaad agency (ikhtiyar) aur mazboot (reinforcing) hoti hai. Yeh transcript ek naye tareeqe (convention) ko pesh karta hai: Angle brackets (< >) ke beech aane wali baatcheet, jaise lines 1, 2, aur 3 mein, *tez ki gayi baatcheet (sped-up speech)* hai: Corcoran in cheezon ko jaldi se bolti hain, aur uske baad, wo wapas ek aam (normal) bolne ki rafter (speech tempo) par dheemi ho jati hain.
+
+Example 9.2 ki tarah, student is dialogue mein ek performer (hissa lene wali) nahi hai. Student audience hai. Yeh student ke baare mein nahi hai; yeh kaam (work) ke baare mein hai. Creative animation mein, aap is tarah ki baatein (things) nahi sunte:
+
+X *Agar yeh niche shift hota hai, toh tum shayad usay bhi niche shift karna chaho . . .*
+
+X *Yaad rakho ki project assignment aapse A aur B ke beech ke relationship par gaur karne (consider) ke liye kehta hai.*
+
+**FIGURE 9.3**
+
+Yeh video tasveer example 9.3 ki line 5 se ishara (gesture) dikhati hai: "ya wo, niche shift hota hua (or that, shifting down)."
+
+**FIGURE 9.4**
+
+Yeh video tasveer example 9.3 ki line 8 se ishara (gesture) dikhati hai, "toh iska asar B par parta hai (then it has implications for B)."
+
+#### **EXAMPLE 9.3. "AGAR WO NICHE SHIFT HOTA HAI, TOH BESHAK ISKA ASAR B PAR PARTA HAI (IF THAT SHIFTS DOWN, OF COURSE THEN IT HAS IMPLICATIONS FOR B)"**
+
+Corcoran kaam ko ghoor (gazing) rahi hain, aur phir deewar ki taraf qadam badhati hain aur deewar se ek foot ki doori par rukti hain.
+
+* **1** `>Toh, do cheezein jinke baare mein main soch rahi hoon,<`
+* **2** `>bilkul fauran (right off the top of my head),<`
+* **3** `>wo iska scale (size) hoga,< *............*`
+* *C poster A ke sabse upari (top) hisse mein "is (this)" element ki taraf ishara karti hain
+
+
+* **4** `>Jiske baare mein humne abhi baat ki,<`
+* **5** `ya wo, niche shift hota hua (shifting down). *...................*`
+* **6** `Ab. Agar wo niche shift hota hai, *...................> *.................*`
+* **7** `beshak (of course), +S.........+`
+* **8** `toh iska asar B par parta hai (then it has implications for B), *.............................* *.......................*`
+
+*C poster A ke nichle (bottom) hisse mein "us (that)" element ki taraf ishara karti hain
+
+*C daayin (right) taraf qadam badhati hain, poster B ke samne khadi ho jati hain *C poster A par "us (that)" element ki taraf dobara ishara karti hain +C jaldi se haan mein sir hilati hain (nod) aur S ko dekhar muskurati hain
+
+*C poster B ki taraf ishara karti hain
+
+* *Ishare ke sath-sath, C deewar se ek qadam piche hatti (takes one step back) hain
+* **9** `project poori tarah isi tarah kaam karta hai.`
+* **10** `Toh, shayad, shayad phir yeh niche shift ho jaye`
+* **11** `Daayin (right) taraf bhi,`
+
+#### **EXAMPLE 9.4. "CHEEZEIN LEFT PAR HOTI HAIN, AUR CHEEZEIN CENTER AXIS KE RIGHT PAR HOTI HAIN (THINGS HAPPEN ON THE LEFT, AND THINGS HAPPEN ON THE RIGHT OF THE CENTER AXIS)"**
+
+* **1 C** `Khair (Well), jo system tumne banaya hai,`
+* **2** `jo mujhe lagta hai ki taqaton (strengths) mein se ek hai +S.........>` +C S ko dekhne (gaze) ke liye apna sir ghumati hain
+* **3** `jo ubhri (emerged) hai` **4** `text ko ek jesa karne (unifying) mein?` **5 S** `+C................+W` +S ek nazar (glance) dalti hai aur C ki taraf sir hilati hai, phir wapas kaam ki taraf dekhne lagti hai
+* **6 C** `wo yeh hai ki yahan ek center axis (beecho beech ki lakeer) hai, +W..............+S...->` +C kaam par ek nazar (glance) dalti hain, phir wapas S ki taraf `*..............*` *C poster ke top par hath uthati hain aur phir theek niche (vertically) poster ke bottom tak lati hain
+* **7** `aur cheezein left par hoti hain, (1)` *C left ki taraf ishara karti hain
+* `*...............*`
+* **8** `aur cheezein right par hoti hain# (1)` *C right ki taraf ishara karti hain
+* `*...............*`
+* **9** `center axis ke.`
+
+Example 9.4 mein, 9.2 aur 9.3 ki tarah, Corcoran student par kayi baar ek nazar (glances) dalti hain, lekin hamesha apni body ko deewar ki taraf rakhti hain. Yeh is message ko pakka (reinforces) karta hai ki unki baat (talk) us cheez ka tarjuma (translation) hai jo kaam keh raha hai. Wo yeh nahi keh rahi hain ki *wo* kya sochti hain; wo sirf wo translate kar rahi hain jo wo kaam mein dekhti hain. Wo aksar student ki taraf dekhti hain taaki use bataya ja sake ki kaam usse baat kar raha hai. Corcoran aese statements nahi detin jese niche diye gaye hain, jo student ko creative agency (ikhtiyar) dete hain:
+
+X *Tumne left side par jo cheezein (banti hui) draw ki hain, aur mujhe lagta hai ki tum behtar kar sakti ho agar . . .*
+
+X *Main bata sakti hoon ki tum chahti thi ki viewer (dekhne wala) dekhay ki left side par kya ho raha hai, lekin main yaqeeni taur par (sure) nahi keh sakti ki tum apne maqsad (goal) ko paane mein kamyab (accomplished) hui ho ya nahi . . .*
+
+#### **Technique 5. Verb aspect aur gesture (ishara): Kaam (work) musalsal (continuously) hota rehta hai; student alag-alag makhsoos lamhon (distinct moments) mein kaam karti hai**
+
+Jis tareeqe se grammar (zabaan ke niyam) ka istemal kisi verb (fail/kaam) ke waqt ke sath action ko darshane ke liye kiya jata hai use *aspect* kaha jata hai. Yahan English mein ek aasan si farq ki misaal (simple contrast) di gayi hai. Tasavvur karein ki koi aapse poochta hai, "Tum kya karte rahay?" Aap in dono mein se kisi ek tareeqe se jawab de sakte hain:
+
+* *Maine aaj dopehar ka khana banaya (I cooked lunch today).* Yeh khana pakane ke ek waqiye (event) ka zikr karta hai, jiska ek start (shuru) aur ek end (khatam) hai. Isey *perfective* aspect (mukammal roop) kehte hain.
+* *Main khana banata raha hoon (I have been cooking).* Yeh khana pakane ke jaari (ongoing) amal (action) ki taraf ishara karta hai; kisi shuru ya khatam hone ka ishara (implied) nahi diya gaya hai. Shayad aap poora hafta khana paka rahe the; shayad khana pakana aapka shauk (hobby) hai aur aap isey har din karte hain; shayad aap is weekend ek badi party ke liye taiyari karne ke liye lagatar (several days in a row) khana paka rahe hon. Isey *imperfective* aspect (na-mukammal roop) kehte hain.
+
+Ek verb ka aspect waqt ke sath kisi amal (action) ke bahaav (flow) ko dikhata (represents) hai: action kaise aur kab shuru hota hai, hota hai, aur khatam hota hai. Imperfective aspect mein verb construction action ko jaari (ongoing), an-khatam (unfinished), ya na-mukammal (incomplete) dikhati hai. Perfective aspect mein verb construction kisi action ka zikr (references) ek mukammal poore hisse (complete whole) ke taur par karta hai. Yahan dekhiye ki yeh creative animation mein zaroori kyun hai: Jab ek professor kaam dwara kiye gaye kisi action (kadam) ko bayan karta hai, toh verb *imperfective* aspect hoti hai. Jab professor student dwara kiye gaye kisi action ko bayan karta hai, toh verb *perfective* aspect hoti hai. Baat karne ke is pechide (sophisticated) tareeqe ka istemal creativity ke dialogue ki misaal (model) banane ke liye kiya jata hai.
+
+Example 9.2 mein, kaam ki composition "maang rahi hai (is asking for)"; yeh imperfective hai. Iska matlab hai ki "mangne" ka kaam (act) waqt ke sath lagatar (continuous) chal raha hai; yeh koi ek aesa pal (simple moment) nahi hai jahan ek specific (khas) sawal poocha jata hai. Humein imperfective ka istemal example 9.5 mein bhi dikhta hai, jahan "passages" (student ne jo novel chuni thi usse liye gaye quotes) lagatar "aage-piche chalang laga rahe (jumping back and forth)" hain—ek jhalang (single jump) nahi, balki chalang lagane ka jaari (ongoing) amal. Jin passages ka zikr (referenced) kiya gaya hai wo student ke chune gaye (chosen) ek novel ke text ke chhote hisse (short lines) hain;
+
+Corcoran ke assignment mein har student se kaha gaya tha ki wo apne poster design ka hissa banne ke liye apne khud ke text ke hissay (textual excerpts) chunein.
+
+#### **EXAMPLE 9.5. "IS PAR, AESE PURE PASSAGES HAIN JO AAGE-PICHE JUMP KARTE HAIN (ON THIS ONE, THERE ARE WHOLE PASSAGES THAT JUMP BACK AND FORTH)"**
+
+* **1 C** `Toh, IS par, (4)`
+* `*.............*`
+
+
+* **2** `aese pure passages (hissay) hain *.......->`
+* **3** `jo aage piche jump karte hain (that jump back and forth), ->......................*`
+
+*C in 4-second pause ke dauran poster B par ishara karna jari rakhti hain
+
+*dono left aur right hath aage piche jump karne ki nakal (mime) karte hain
+
+*jump karne ke ishaaray jari (continue) rehte hain
+
+* **4 S** `Sahi (Right).`
+* **5 C** `jo: theek: <hai>,`
+* **6** `lekin main is baare mein soch rahi (wonder) hoon (1)`
+* **7** `humein ek chhota sa hierarchical moment (unche darje ka pal) dene ke bare mein`
+* `+S...........................+`
+
+
+* **8** `yahan tak ke tumhare apne system ke andar bhi *...........*`
+
+*C ishaaray (iconically) mein us vertical axis (sidhi lakir) ko banati hain jiska zikr example 9.4 ki line 6 mein hua tha
+
+Verb aspect humein dikhata hai ki agent, sentence ka karta (subject), action (kadam) ko kaise samajh (perceiving) raha hai. Linguists kehte hain ki perfective action ko bahar se dekhta hai aur jo ho raha hai use poore waqiye (whole event) ke taur par dekhta hai. Imperfective action ko andar se dekhta hai aur jo ho raha hai uski andaruni pechidgi (internal complexity) ko dekhta hai. Jab professor kaam (work) ki jagah bolta hai, toh kaam ke actions ko imperfective verbs (na-mukammal af'aal) ka istemal karke bayan (described) kiya jata hai—yeh kaam ke nazariye se bahari duniya mein dekhna hai.
+
+#### ***Ishaaray aur aspect (Gesture and aspect)***
+
+Jab Corcoran kaam kya kar raha hai yeh zahir (represent) karne ke liye ishaaro (gestures) ka istemal karti hain, toh wo aese gestures ka istemal karti hain jo andar se imperfective (na-mukammal) actions ko pakadte hain—actions jo student ke nazariye se nahi, balki kaam ke nazariye se hote hain. Imperfective aspect verbs ke sath aane wale ishaaro (Gestures that accompany imperfective aspect verbs) ki yeh chaar khasiyate (features) hoti hain:
+
+1. Unhe banane (produce) mein zyada waqt lagta hai;
+2. Wo zyada pechida (complex) hote hain;
+3. Wo ek action (kaam) ko waqt ke sath phailey hue (extended) ke roop mein dikhate hain; aur/ya
+4. Wo ek single action ko dikhate hain jo kai baar dohrata (repeats) hai.
+
+Corcoran kaam ko creative tarike se animate (zinda) karne ke liye in sabhi imperfective gestures (isharo) ka istemal karti hain. Jab wo "mangne" ka imperfective verb ka istemal karte hue "uski composition (banawat) maang rahi hai (the composition of that one is asking for)" kehti hain, toh wo teen baar (three times) ishara karti hain, ek **dohraav (repetition)** jo ek jaari amal (ongoing action) ki nishandahi (signifies) karta hai.
+
+Example 9.4 mein, "cheezein left par hoti hain, aur cheezein right par hoti hain" ek ongoing action ko refer (ishaara) karne mein imperfective hai. Verb form (fail ki shakal) ke imperfective aspect ko plural subject (jama karta) "cheezein (things)" se taqat (reinforced) milti hai (waqt ke sath lagatar (successive) hone wali cheezon ka hawaala dete hue). Iske sath juda ishara (accompanying gesture) **pechida (complex)** hai, jo ek vertical axis (seedhi lakeer) aur uske do hisson (sides) ko dikhata (representing) hai.
+
+Example 9.5 mein, lines 1 se 3 tak, Corcoran ek baar phir imperfective verbs aur imperfective gestures dono ka istemal karke kaam ke alag-alag elements (hisson) dwara uthaye gaye qadmon (actions) ko zahir (represent) karti hain.
+
+*IS (THIS) par, aese pure passages hain jo aage-piche jump karte hain (jump back and forth)*
+
+Yeh kehte waqt, wo apne hathon aur baazuon ko apne jism ke samne, baayen se daayen (left to right), bade qouson (large arcs) mein, lagatar teen baar ghumati (moves) hain—dohraav (**repetition**) aur pechidgi (**complexity**) dono. Passages (hisson) ka zikr agents ke taur par kiya gaya hai aur verb construction "jump back and forth" imperfective hai. Iske alawa, sathi ishaare (accompanying gestures) teen baar-baar lagayi gai chalangon (jumps) ko dikhate hain. Yeh ishaare is baat ko pakka (reinforce) karte hain ki yeh amal (action) kaam (work) ke andar aur kaam ke do hisson (elements) ke beech hota hai.
+
+### **Creativity ke Dialogue Ko Nibhana (Performing the Dialogue of Creativity)**
+
+**Jab tak aap kuch bana nahi lete, aapke paas sach mein sochne (reflect) ke liye kuch nahi hota. Jab tak aap isey bana nahi lete, main kuch nahi keh sakta, isliye aapke paas jane ke liye koi disha (direction) nahi hoti.**
+
+Stephen Thorpe, painter, Savannah College of Art and Design
+
+Jab professors kaam ko animate (zinda) karte hain, toh students seekhne lagte hain ki kaam unse alag (separate) hai aur uski apni ek zindagi (life of its own) hai. Lekin professors kuch aur bhi zabardast (amazing) karte hain: wo in paanch mechanisms (tareeqo) ko milakar ek aesa pattern banate hain jise main *creativity ka dialogue (the dialogue of creativity)* kehta hoon: student aur chal rahe kaam (work in progress) ke beech ek lagatar chalne wala (ongoing) len-den (exchange). Creativity ke dialogue mein, creative work (takhleequi kaam) banane wale (creator) aur kaam ke mile-jule aamal (joint actions) se ubhar kar samne (emerges) aata hai. Jaise-jaise professor in creativity ke dialogues ko perform (nibhaate) karte hain, students ko yeh dekhne ke mauke (opportunities) milte hain ki unke creative choices par kaam kaisa jawab (respond) de sakta hai, aur kaam ke apne azaad (independent) kamo (actions) par wo kaisa jawab de sakte hain.
+
+Yahan Corcoran ki ek misaal hai jo creativity ke ek dialogue ki misaal (modeling) pesh kar rahi hain jahan student pehle action leti hai aur kaam (work) phir uska jawab (responds) deta hai:
+
+*Kisi tarah (Somehow), mujhe nahi pata yeh tumhare andar se kaise bahar aaya (came out), lekin yeh AAYA (DID). Tumne achanak is sab ko ek sath jodd diya (threw it all together). Mujhe lagta hai (think) yeh isliye tha kyunki wahan kuch bhi pehle se socha hua (preconceived) nahi tha.*
+
+*Aur phir, yeh kisi tarah bas ek tareeqe se khud bakhud organized (self-organized) ho gaya.*
+
+Kya "khud bakhud organized (self-organized)" hua? Beshak, kaam. Corcoran yeh nahi kehti ki, "tumne ise waqayi bahut ache se organize (tarteeb) kiya." Organization (Tarteeb) kaam ke sath ek dialogue se ubhar kar aayi. Kaam par student ka control (qabu) Corcoran ki baat-cheet se aur bhi kam kar (downplayed) diya jata hai; wo student ke action (kaam) ko aese bayan karti hain jese yeh jaan-bujh kar na kiya gaya ho (not consciously intended): "wahan kuch bhi pehle se socha hua (preconceived) nahi tha." Yeh creative process ki ek ahem (key) khasiyat ko pakka (reinforces) karta hai: yeh shuruati (initial) idea ke baare mein nahi hai (dekhein chapter 1, "Process"). Corcoran student ko uske process ke baare mein positive feedback (raye) de rahi hain, na ki us kaam ke baare mein jo usne generate (paida) kiya hai. Yeh dialogue student ke process mein ubharne (emergence) ke ek pal (moment) ki taraf dhyan khinchta (calls attention) hai. "Mujhe nahi pata ki yeh tumhare andar se kaise bahar aaya (came out), lekin yeh hua" emergence ko sirf student ki khoobi (attributes) manta hai. Lekin
+
+aakhiri line mein, "yeh kisi tarah bas khud bakhud organized ho gaya (it sort of just self-organized)" ek aesi emergence ko darshata (represents) hai jo kaam ke sath partnership mein student ke ikhtiyar (agency) ka nateeja (results) hai.
+
+##### **FIGURE 9.5**
+
+Yeh video tasveer (still) example 9.6 ki line 6 mein Corcoran ka ishara (gesture) dikhati hai, "Agar yeh safed ho jaye (If this went to white)," daayin (right) taraf wale poster, poster B ke nichle hisse ki taraf ishara (pointing) karte hue. Video ki kam resolution ki wajah se poster B par letters nazar nahi aa rahe hain.
+
+##### **FIGURE 9.6**
+
+Yeh video tasveer (still) example 9.6 ki line 7 mein Corcoran ka ishara dikhati hai, "Main iske pale pink (halke gulabi) hone ka tasavvur (imagine) kar sakti hoon," baayen (left) taraf wale poster, poster A ke upari hisse ki taraf ishara karte hue.
+
+Creativity ke dusre dialogues mein, kaam (work) pehle amal (acts) karta hai, aur student ko jawab dene (respond) ke liye uksaya (prompted) jata hai. Example 9.6 mein, Corcoran chaar bariyon (four turns) wale creativity ke dialogue ko amal mein laati (enacts) hain: pehla action kaam leta hai, phir student, phir kaam, aur phir student dobara. Sirf Corcoran hi baat kar rahi hain. "Agent (karta)" column mera interpretation (nazariya) dikhata hai ki wo creative animation ki paanch techniques ka istemal karke kise ikhtiyar (attributing agency) de rahi hain.
+
+#### **EXAMPLE 9.6. KAAM (WORK) AUR STUDENT KE BEECH IKHTIYAR KA TABBADLA (AGENCY SHIFTING BETWEEN THE WORK AND THE STUDENT)**
+
+|  | **Agent (Karta)** | **Action (Kadam)** |
+| --- | --- | --- |
+| **1** | **Kaam (The work)** | Main iske ek tarah ke system mein hone ka tasavvur (imagine) kar sakti hoon, |
+| **2** |  | Jis tareeqe se system axis (lakeer) ke sath kaam (works) karta hai.<br>
+
+<br>[Corcoran poster A ke top se bottom tak ek vertical (seedha) ishara karti hain] |
+| **3** |  | Main iska aesa hona bhi tasavvur kar sakti hoon, ki wo type white ki taraf jata hai (that type goes to white). |
+| **4** | **Student** | Aap janti hain, toh aap ek tarah se kheenchi rahi hain (pulling), aur shayad aapko aesa lagta hai ki, |
+| **5** |  | oh, is point par color (rang) thoda sa bahut zyada narrow (kam) aur bandha hua (contained) hai, |
+| **6** | **Kaam (The work)** | Agar yeh white ki taraf jaye (If this went to white),<br>
+
+<br>[Corcoran poster B ke "is (this)" element ki taraf ishara karti hain] |
+| **7** |  | Main uske pale pink (halke gulabi) hone ka tasavvur (imagine) kar sakti hoon<br>
+
+<br>[Corcoran poster A ke "us (that)" element ki taraf ishara karti hain] |
+| **8** | **Student** | toh ab tum thoda sa system ki value ko bada rahe ho (expanding),<br>
+
+<br>[Corcoran apne hathon ko dheere-dheere alag karke "bada karne (expanding)" ka dikhawa (mimes) karti hain] |
+| **9** |  | dono taraf (on both sides).<br>
+
+<br>[Corcoran left-to-right (baayen se daayen) isharay (motions) karti hain] |
+
+Example 9.6 mein, ikhtiyar (agency) kaam se student ki taraf bari bari (alternates) aata jata hai, jise verb aspect aur ishare (gesture) mein tabdeelion ke ek lagatar (iterative) silsilay (sequence) dwara zahir (represented) kiya gaya hai, aur creative animation ki kai techniques ka istemal kiya gaya hai:
+
+1. Corcoran kaam ke elements (hisson) ki agency ke baare mein baat karke shuruat karti hain: *that being in a sort of system (is ka ek tarah ke system mein hona)* aur *the system works with (system sath kaam karta hai)*.
+2. Dusra action student legi: *you're sort of pulling (tum ek tarah se kheench rahi ho)*.
+3. Teesra action kaam ke elements ke beech hota hai: *If this went to white, I could imagine that going to pale pink (Agar yeh safed ki taraf jaye, toh main uske halke gulabi hone ka tasavvur kar sakti hoon)*.
+4. Chautha action student legi: *Now you're expanding the value (Ab tum value ko bada rahi ho)* aur *That might give you a little more (Yeh tumhe thoda aur de sakta hai)*.
+
+Posters ke elements (hisse) dialogue (baat-cheet) shuru karte hain, lekin wo student ko yeh nahi batate ki kya karna hai—situation ambiguous (uljhi hui) rehti hai. Corcoran ki baat ishara (signals) karti hai ki yeh uljhan creative process mein positively (musbat tareeqe se) hissa (contributes) dalti hai. Jab kaam ek ambiguous action leta hai ya ek ambiguous request (guzarish) karta hai, toh yeh student ke liye jawab dene (respond) ke mumkin (potential) tareeqo ko explore karne ka ek mauka (opportunity) hota hai. Kaam ke ambiguous action ka solution (hal) foran saaf (immediately obvious) nahi hota; Corcoran student ko dikhati hain ki possibilities ko dhoondh kar (exploring) dialogue ko kaise jaari (continue) rakha jaye. Corcoran creativity ke dialogue ko model (pesh) karne ke liye creative animation ka istemal karti hain, ek aese process ko model karne ke liye jahan dono, student aur kaam, creative agents ke taur par ek sath hissa (participate) lete hain, jisme agency student aur kaam ke beech badalti (alternating) rehti hai.
+
+Student seekhta hai ki creativity ideas dhoondhne aur unhe execute karne ka naam nahi hai. Process mein agla qadam (step) student ke liye kaam ko khatam (finish) karne ke liye ek linear (seedha) rasta dhoondhna *nahi* hai. Kabhi-kabhi shuruaat karne wale (beginning) students process se jitni jaldi ho sake guzarne ki koshish karte hain, dialogue ko band (close down) karne ke liye. Yahi wajah hai ki, jaisa ki humne chapter 6 mein seekha, assignment constraints (rukawatein) students ko dheema (slow down) karne ke liye design ki jati hain. Unhe dheema hone ki zaroorat hoti hai kyunki creativity ke dialogue mein waqt lagta hai. Creative animation ek aese kaam karne ke tareeqe ki misaal (models) banta hai jahan har creative amal (act) dialogue ko jaari rakhta hai; hum nahi jante ki yeh kab khatam hoga.
+
+Example 9.7 mein, Corcoran student aur kaam ke beech ek future (mustaqbil ke) dialogue ka tasavvur (envisions) karti hain. Yeh critique ke bilkul aakhir (very end) mein hota hai; is critique ke baad, student khud (on her own) akeli hogi. Example 9.6 ki tarah, Corcoran chaar bariyon (four-turn) wala creative dialogue paish (performs) karti hain jo kaam ke action ke sath shuru hota hai. Example 9.6 ki tarah hi, yahan bhi sirf Corcoran baat kar rahi hain. "Agent (karta)" column mera tasavvur (interpretation) hai ki wo creative animation ki paanch techniques ka istemal karke kis ko agency (ikhtiyar) de rahi hain.
+
+#### **EXAMPLE 9.7. CREATIVITY KA CHAAR-BARIYON (FOUR-TURN) WALA DIALOGUE**
+
+|  | **Agent (Karta)** | **Action (Kadam)** |
+| --- | --- | --- |
+| **1** | **Kaam (The work)** | Is element (hissay) ke sath kuch chal raha hai (has something going on). |
+| **2** | **Student** | Us se churane (steal) ki koshish karo, |
+|  |  | aur isey wapas import (le kar aana) karo, |
+| **3** | **Kaam (The work)** | aur phir dekho kya hota hai (what happens). |
+| **4** | **Student** | Aur wahan se aage badho (go from there). |
+
+Pehla, element "kuch kar raha hai (has something going on)" ek imperfective verb (na-mukammal af'aal) construction hai. Dusra, student "us se churayegi, aur isey wapas import (import it back in)" karegi. Teesra, kaam jawab dega, lekin hume tab tak nahi pata chalega ki yeh kaisa hoga jab tak ki hum koi kadam na uthayen (act): "dekho kya hota hai (see what happens)" (imperfective). Aakhir mein, is dialogue ki chauthi baari mein, student us baat par respond karegi jo kaam karne wala hai, lekin hum nahi jaan sakte ki wo possibilities kya ho sakti hain jab tak ki dialogue khulne (unfolds) na lage. Creativity ka yeh dialogue na janne (not knowing) ki uljhan (ambiguity) mein dooba (steeped) hua hai.
+
+#### **EXAMPLE 9.8. STUDENT KO KAAM KO ANIMATE (ZINDA) KARNE KA MASHWARA (ADVISING)**
+
+* **1** Main, main tumhe dhoondhne ke liye encourage (prerit) karungi
+* **2** ek aesa element (hissa) ya do jo, um, animate kar raha ho (1)
+* [Corcoran ke hath motion (harkat) ki nakal (mime) karne ke liye pahiyay (wheel) ki tarah ghoomte hain]
+
+
+
+Line 2 mein creative animation ke sath judi hui (associated) imperfective (na-mukammal) syntactic (jumlon ki banawat) aur gestural (isharon ki) khasiyatein (features) hain. Verb *animating* imperfective aspect hai aur yeh animating karne wala agent (karta) kaam (work) ka ek khas (specific) hissa (element) hai. Sath hi, professor ke hath ghoomne wala motion (harkat) banate hain, jo pechidgi (complexity), dohraav (repetition), aur waqt ke sath chalne (duration through time) mein imperfective aspect ke sath juda (associated) hai.
+
+**"Humein shayad hi kabhi materials ke baare mein actions ke agent (karta) ke taur par sochne ka invite (dawat) diya jata hai, asardaar (forceful) substances ke taur par jinki apni aadatein (tendencies), aur shayad yahan tak ki apni khwahishein (desires) bhi hoti hain. Ek baar jab hum in khasiyaton (properties) ko pehchan (recognize) lete hain aur unke sath kaam karna seekh jate hain, toh hamein ehsaas hota hai ki materials aksar lead (aage rah dikhate) karte hain."**
+
+Kelly Dobson, Digital+Media department ki head, Rhode Island School of Design
+
+Examples 9.6, 9.7, aur 9.8 ek aese dialogue ki performances hain jahan agency (ikhtiyar) kaam aur student ke beech badalti (alternates) rehti hai. Corcoran ek iterative (dohranay wale) process ki misaal paish karti hain jo shayad tab ho jab student class ke baad kaam jaari rakhe. Wo student ko yeh nahi bata rahi hain ki aage kya karna hai; uski bajaye, wo aage badhne ke ek mumkin (potential) raste ko improvise (mauqe par bana) kar rahi hain. Creative animation mein, professor ek aese process mein involve (engaging) hone ke tareeqe ko model karta hai jo iterative ho, jo ambiguous (uljha hua) ho, aur jo nayi cheezon ko achanak (unexpectedly) samne aane (emerge) ka mauka de.
+
+Creativity ke dialogue mein, designer aur kaam lagatar (successive) actions lete hain jo creative process ko aage badhate (drive) hain. Designer control mein nahi hota; designer nateeja (outcome) tay (determine) nahi karta. Designer bahut aage ki planning nahi kar sakta; warna, wo is baat ko miss kar dega ki kaam jawab mein kya kehne wala hai. Unhe yeh jane bina act (kaam) karna hota hai ki kya ho sakta hai, aur phir dekhna hota hai ki kaam kaisa respond (jawab) deta hai. Yahi wajah hai ki professors students ko specific (khaas) actions lene ko nahi kehte, jaisa ki humne chapter 8 mein dekha tha: kyunki koi bhi pehle se nahi jaan sakta ki sabse zyada asardaar (effective) kya hone wala hai—yahan tak ki professor ko bhi nahi pata hota. Iske bajaye, professors students ko kaam ki awaz sunne (listen to the work) ki advice dete hain. Kaam unhe batayega ki usay un se kya karwane ki zaroorat hai. Artists aur designers ko yeh jane bina creative choices karni hoti hain ki kaam kaisa respond karega. Yahan tak ki jab kisi designer ko koi naya idea aata hai jo umeed bhara (promising), hairan kun (surprising), ya aam se hat kar (unusually) creative lagta hai, designer tab tak nahi jaan sakta ki idea acha hai ya nahi jab tak ki wo yeh na dekh le ki kaam kaisa respond karta hai. Yahan tak ki professor ko bhi nahi pata hota. Aakhiri (final) kaam creativity ke dialogue se ubhar kar (emerges) aata hai.
+
+Maine Heather Corcoran par focus kiya hai kyunki wo creative animation ki ek khaas taur par (particularly) behtareen (brilliant) performer hain. Lekin maine sabhi professors ko yeh karte dekha, har discipline ke critiques mein, art aur design dono mein. Creativity ke dialogue mein, agency (ikhtiyar) kaam aur student ke beech bati (distributed) hui hoti hai. Ek baar jab professor creative animation ke sath kaam ko zinda karta hai, toh wo phir creativity ka ek dialogue paish (perform) kar sakte hain, jahan animated kaam aur student aapas mein creative actions ka len-den (exchange) karte hain. Creative process ek dialogue hai jisme insaan aur kaam mil kar (together) create karte hain.
+
+### **Students Apne Process ke Baare Mein Kaise Baat Karte Hain (How Students Talk about Their Process)**
+
+Zyada-tar (For the most part), BFA program ke pehle kuch saalo mein students abhi tak yeh nahi jante ki creativity ke dialogue mein kaise shamil hona hai. Wo nahi jante ki kisi process ke zariye is tarah kaise aage badhna (iterate) hai jo naye ideas aur solutions ke ubharne (emergence) ko badhava (fosters) de. Unke professors ke paas kai saalon ka teaching experience hota hai aur wo apne students ko achi tarah jante hain. Wo jante hain, students ke baat karne ke tareeqe se, ki kya wo dekh sakte hain ki kaam kya keh raha hai ya nahi.
+
+Pehla tareeqa jisse aap pata laga sakte hain ki students abhi tak yeh nahi dekh pate ki kaam kya kar raha hai, wo yeh hai ki jab students creative animation ki techniques ka istemal nahi karte. Un critiques mein jo maine dekhe (observed), second ya third-year ke undergraduate students ke sath, students ke liye kaam ko subject ki jagah par rakhna ya kaam ke zariye kiye gaye actions ko batane ke liye imperfective verbs ka istemal karna kafi kam (rare) tha. Iske bajaye, students ne apne hi kamo ko batane ke liye first-person pronouns (main/mera) aur verbs ka istemal kiya. Student hi akela agent (karta) hota hai. Misaal ke taur par, Corcoran ki class ke students mein se ek ne pinup ke apne chote (brief) introduction summary mein first person ka istemal kiya. Wo is kahani mein akeli actor (karta) hai:
+
+*Toh, um, left poster ke liye, maine, um, text (likhawat) ko thoda aur unify (ek jesa) kiya. Aur isliye, uh, yeh sab upper bold (mota) hai. Um, aur phir right poster ke liye, main chahti thi, left poster mein maine jo cheezein ki uske treatment (tareeqe) ki tarah kuch karoon. Isliye mujhe text ko wahan todna (break) pada jahan mujhe laga ki break karna munasib (appropriate) hai.*
+
+Is baat-cheet mein, kaam passive (khamosh/be-jaan) hai. Kaam kya kar रहा hai iska koi zikr (mention) nahi hai; kaam ko agent (karta) ke taur par nahi treat kiya gaya; koi imperfective verbs ya ishaaray (gestures) nahi hain. Maine jin undergraduate students ko critiques mein observe kiya, unke liye yeh ek aam baat (typical) thi. Upar ki student ka muqabla (Compare) un graduate MFA students se karein jinka hawala (quoted) maine is poori kitab mein diya hai. Wo sab kaam (work) ke baare mein aise baat karte hain jaise yeh ek azaad (independent) agent ho; wo sab imperfectives ka istemal karte hain; wo sab apne khud ke kaam ko creatively animate karte hain. Lekin undergraduate students aam taur par apne kaam ko animate karne ki kabiliyat mein tab tak maharat (master) hasil nahi kar paate jab tak ki wo program mein kai saalon se na hon. Maine is critique ke kuch dino baad Corcoran ka interview liya. Unhone mujhe bataya ki, shuru mein, students "waqayi yeh samajhne (figure out) ki koshish kar rahe hote hain ki is vocabulary (zabaan/shabdon) ko kaise apne hisab se (manipulate) karna hai, aur unhe aesa karne mein lamba waqt lagta hai, mera matlab hai kisi ke liye bhi yeh aesa hi hota hai." Lekin aakhir-kaar (eventually), "wo samajh jate hain (they get it). Wo isay figure out (hall) kar lete hain."
+
+### **Dialogue ka Jaiza (Assessing the Dialogue), Student ka Nahi**
+
+Chapter 5, "Seeing" mein, humne seekha ki professors kya kehte hain jab student ka kaam ek achi disha (direction) mein ja raha hota hai:
+
+*Yeh kaam kar raha hai (It's working).*
+
+*Kuch toh chal raha hai (There's something going on).*
+
+Kaam subject (karta) hai aur kaam ka action (kadam) imperfective verb (na-mukammal fail) "working" ya "going on" hai. Yeh statements (bayanat) is baare mein hain ki kaam kya kar रहा hai, na ki is baare mein ki kaam abhi kaisa lagta hai. Yeh dikhate hain ki kaam dynamic (harkat mein) hai, static (ruka hua) nahi. Yeh flux (lagatar badlaav) mein hai. Ek statement jaise "Yeh kaam kar रहा hai (It's working)" student ke kamo (actions) ya faislon (decisions) par koi comment (tabsera) nahi hai; yeh ek agent (karta) ke roop mein kaam ke baare mein ek statement hai.
+
+Is chapter ke examples mein, student ka evaluation (jaiza) nahi kiya ja raha hai—kam se kam seedhay (directly) taur par nahi. Corcoran kaam ke baare mein baat karti hain, yeh kehte hue ki isay poori tarah (fully) waazeh (realized), kamyaab (successful) hone ke liye kis cheez ki zaroorat hai. Unka maqsad yeh kehna nahi hai ki kaam kitna acha hai, balki focus ko kaam se process ki taraf, us tareeqe ki taraf modna (shift) hai jis tareeqe se student ek lagatar (continuing) creative process mein kaam ke sath judta (engages) hai. Yahi wajah hai ki jab professors kehte hain ki process aakhiri (final) kaam se zyada zaroori hai toh unka matlab yahi hota hai.
+
+Kya hota hai jab kaam successful nahi hota? Kya hoga agar process ek dead end (band raste) par pahunch jaye? Kya student khud (personally) fail hua hai? Aakhir-kaar, yeh aapka kaam hai; aap banane wale (creator) hain. Lekin jab aap kaam ko apni khud ki marzi rakhne wale (mind of its own), apne kamo (actions) ko lene wale aur apni khud ki khwahishein (desires) rakhne wale ke roop mein dekhte hain, toh failure dono ki milti julti (collaborative) hoti hai. Jab student kisi dead end par pahunchta hai, toh yeh sirf student ki galti nahi hoti. Failure sirf creator ke action mein nahi milti; iski bajaye, yeh kaam ke sath milkar (jointly) ki gayi responsive (jawab dene wale) aur continuing dialogue (lagatar guftgu) mein paayi jati hai. Failing (Nakaam hona) ek progressive (lagatar) state hai, na ki achanak hone wala (sudden) moment.
+
+Bhale hi process ek dead end par pahunch jaye, professors students ko yeh nahi batate ki unhone koi mistake (galti) ki hai (dekhein chapter 4, "Failure"). Wo kaam (work) ke baare mein baat karte hain, student ke baare mein nahi. Agar kaam "kaam nahi kar raha (not working)" hai, toh designer ka challenge aese actions lena hai jo kaam ko ek "working (kaam karne ki)" state ki taraf guide karein.
+
+"Working" ka imperfective aspect yeh batata (communicates) hai ki ek successful kaam bhi ruka hua (static) nahi hota, finished nahi hota, aur kabhi ek endpoint (aakhri point) nahi hota. Koi bhi insaan "ek acha kaam (a good work)" ek momentary action (kuch pal ke kaam), waqt mein ek bandhi hui (bounded) ghatna ke taur par create (paida) nahi karta. Aise waqiye (event) ko perfective aspect mein describe (bayan) kiya jayega: "Yeh acha hai (This is good)" ya "Tumne ek acha kaam kiya hai (You did a good job)." Professors shayad hi kabhi aesi baatein kehte hain, aur yeh isliye nahi hai ki wo bure (mean) hain ya unhe parwah (uncaring) nahi hai. Iske bajaye, professors ache kaam ko khud kaam (work itself) dwara liye gaye autonomous (azaad) imperfective actions ka hawala dekar describe karte hain. Ek successful kaam mein, kaam hamesha amal kar raha hota (acting) hai; yeh hamesha harkat (motion) mein hota hai. Students ko yahi sunai deta hai, shayad anjaane mein (subconsciously), jab professors kisi kaam ke baare mein imperfective aspect verbs ka istemal karke baat karte hain. Yakeenan (to be sure), "not working" hone se behtar hai "working" hona; lekin jab yeh kaam kar raha (working) hota hai, tab bhi kaam mukammal (finished) nahi hota. Process kabhi khatam nahi hota. Creativity ek zindagi bhar ki (lifetime) practice hai. Kaam kabhi khatam (done) nahi hota; process hamesha jari (continues) rehta hai; kaam hamesha ubhar raha (emerging) hota hai.
+
+---
