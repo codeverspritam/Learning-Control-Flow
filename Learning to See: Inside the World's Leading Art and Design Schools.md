@@ -2687,3 +2687,587 @@ Arntsen ko ehsaas hua ki yeh sabhi students ke liye ek aam point (general point)
 Art aur design education ka goal yeh dekhna hai ki aap kya kar rahe hain aur yeh explain (samjhane) karne ke kabil hona hai ki aap yeh kyun kar rahe hain. Jis raste (path) par aap chal rahe hain use samajhne se pehle aapko dusre raston ko explore karna hoga. Phir aap apne chune hue raste ke baare mein ek socha-samjha faisla (informed decision) lene ke liye taiyar (prepared) hote hain. Jab aap dekhna seekh jate hain, toh aap ek personal transformation ka tajurba (experience) karte hain. Aap apne baare mein ek naye tarah ki aagahi (awareness) viksit (develop) karte hain.
 
 ---
+
+## **PART II**
+
+## **Project Assignments**
+
+..........
+
+## **Chapter 6 - CONSTRAINTS (Rukawatein / Haddein)**
+
+**Constraints darasal aapko azaad karti hain. Jaise ek nadi jo ek patle raste (narrow channel) se behti hai, yeh channel se tezi se guzarti hai aur unki learning ko tez kar deti hai. Ek ache project mein bahut sakht (severe) constraints hoti hain.**
+
+John Hendrix, illustrator aur type designer, Washington University in St. Louis
+
+Tasavvur karein ki aap 18 saal ke student hain aur art school ke apne pehle semester mein hain. Aap illustration ki ek compulsory (required) class mein dakhil (enrolled) hue hain. Professor aapko Monday ko yeh assignment deta hai aur yeh Wednesday tak jama (due) karna hai:
+
+#### *Ek sketch banayein.*
+
+Aap das saal ki umar se sketching kar rahe hain. Aap isme kafi ache hain. Toh, yeh ek asaan assignment hoga, haina? Bilkul nahi, Jeff Pike ke anusaar, jo ek illustrator aur pehle Washington University in St. Louis (WashU) mein illustration program ke director the, kyunki yeh bahut gol-mol (vague) hai. "Sabse mushkil assignment jo main kisi ko de sakta hoon wo yeh hai, 'Thik hai. Mere liye ek art piece banao.'"
+
+Ache assignments students ko guidelines (hidayat) dete hain, jaise yeh wala jise Savannah College of Art and Design (SCAD) ki ek tajurbakar (seasoned) professor ne apni first-year foundations class ke liye design kiya tha:
+
+Ek sketch banayein jo yeh batata ho (conveys):
+
+* Kuch aisa jo abhi hua hai, kuch ho raha hai, ya kuch hone wala hai
+* Aap kisi figure (shakal) ka sirf ek chauthayi (quarter) ya usse kam hissa istemal kar sakte hain
+* Aapko in pandrah (15) objects [jo instructor ne diye hain] ka istemal karna hoga. Yeh architecture ke lihaz se ek eham (significant) interior (andaruni hissa) hona chahiye
+
+*Ek sketch banayein* ke mukable, yeh assignment students ke paas maujood creative options ko kam kar deta hai. Lekin unhe phir bhi bahut saare faisle (decisions) lene hote hain: Kya event past (guzre kal) mein hai ya future (aane wale kal) mein? Kaun sa architectural daur (period)? Pandra (15) objects ko kaise arrange karna hai? Yahan tak ki jab students ko behad structured assignments diye gaye the, maine hamesha student ke kaam mein be-tahasha (amazing) variety dekhi. Jab students itni saari constraints dekhte hain, toh kabhi-kabhi unhe lagta hai ki aage badhne ka rasta bilkul saaf (obvious) hai. Lekin jab wo agli class mein ek dusre ko apne illustrations dikhate hain, toh wo yeh dekh kar hairan (surprised) rah jate hain ki unke classmates ke solutions kitne alag hain. Unhe yeh ehsaas (realize) hone lagta hai ki wo assignment parameters (niyamon) ke mukable apni dimaagi soch (subconscious visual biases) se zyada bandhay (constrained) hue hain. Jab har kisi ka sketch deewar par lagaya jata hai, toh wo dekhte hain ki aur bhi bahut si aesi possibilities thin jin par unhone gaur nahi kiya tha.
+
+Project assignments ki kuch khas buniyaadi khasiyat (defining features) hoti hain:
+
+* Ek creative challenge;
+* Goal (maqsad) ki taraf steps ki ek series, har ek ki apni deadline ke sath;
+* Har step mein, students kuch banate hain jise unhe class mein dusre students ko dikhane ke liye laana hota hai;
+* Har class ke baad, students se umeed ki jati hai ki wo pichle step par mili feedback (raye) ka istemal karein; aur
+* Kuch *constraints (rukawatein)* ya *parameters (niyam)* diye jate hain aur students ko un constraints ke andar kaam karna hota hai.
+
+Yeh aakhiri feature sabse bada surprise hai. Aakhir-kaar, zyada-tar logon ka man-na hai ki creativity constraints ke na hone par (in the absence of constraints) phalti-phoolti (thrives) hai. Lekin art aur design school mein, constraints ka istemal students ko yeh sikhane ke liye guide karne mein kiya jata hai ki dekhna, sochna aur banana kaise hai. Yeh chapter is baare mein hai ki assignment constraints kaise kaam karti hain. Constraints aur khule-pan (openness) ke beech ke rishte ko samajhna creative process aur log dekhna kaise seekhte hain is ke baare mein kuch eham (essential) batata (reveals) hai. Students jo seekhte hain wo yeh hai ki aapka dimaag (brain) aisi un-dekhi (invisible) constraints se bhara hua hai jinke baare mein aap jante bhi nahi hain. Assignment ki constraints isliye design ki jati hain taaki wo aapko apne khud ke unconscious assumptions (bina soche samjhe banayi gayi sochon) ko overcome (par) karne mein madad kar sakein.
+
+**Paul Rand ka Pasandeeda Assignment**
+
+Paul Rand ek behtareen American designer the, jo IBM, UPS, aur ABC samet kai dusre logos ke liye jane jate hain. School of Visual Arts ke ek professor aur Rand ke dost, Richard Wilde, ne ek baar unse poocha, "Toh Paul, tumhara sabse best assignment kya hai?" Unhone kaha, "Main tumhe student success ke lihaz se apna sabse successful assignment batata hoon: Ek circus poster." Wilde ne Rand se poocha, "Aur kya? Tumne kya kaha?" Rand ne jawab diya, "Maine sirf ek circus poster banane ko nahi kaha. Yeh ek clown (joker) ka chehra hona chahiye tha. Yeh sirf geometric shapes ka hona chahiye tha. Aur tum sirf wo teen (3) specific colors istemal kar sakte the jo maine unhe diye the. Aur isey 14 x 18 ke page par hona tha."
+
+Students abhi tak dekhna nahi jante. Unhone ek aise iterative creative process mein maharat (mastery) haasil nahi ki hai jo successful kaam ki taraf le jata ho. Cheryl Wassenaar, jo WashU mein ek artist hain, unhone mujhe bataya ki bina constraints ke, students kho (lost) jate hain:
+
+*Mujhe kaise pata chalega ki iske sath shuruat (get started) bhi kaise karni hai? Hamein unhe ek aise method (tareeqe) se train karna hoga jo unhe aisi jagah par le jaye jahan wo khali paper (blank page) se poori tarah pareshan (freaked out) na hon, ya bahut dare (too afraid) hue na hon, mera matlab hai, darr (fear) ek bahut badi cheez hai. Darr ki unhe nahi pata ki shuruat kaise karni hai, darr ki "Yeh acha nahi hone wala hai"; isme bahut darr shamil (involved) hota hai. Agar bahut zyada azaadi (freedom) ho, agar bahut zyada khulapan (openness) ho, toh aapko lagbhag pata hi nahi chalega ki kahan se shuru karein. Kuch dena padta hai ya kuch ek rukawat (constraint) honi chahiye ya kuch aesi hadd (boundary) ya parameter hona chahiye jiske andar naye dhang se (inventively) kaam karna aapka kaam hai. Aur us parameter ya us boundary ko aisi jagahon par dhakelna (push) padega jo aapki umeedon (expectations) se zyada (exceed) ho ki wo cheez kya ho sakti hai ya kya kar sakti hai. Agar aap kuch cheezon ko mehdood (limit) karte hain, toh aap dusre options ko bada (expand) aur explore (khoj) kar sakte hain. Agar aap kehte hain, "Ise left se right jana chahiye," toh ab aap kitne alag-alag tareeqon se isey karne ke baare mein soch sakte hain? Unhe aise assignments dein jo chote aur tez (quick) hon, jahan wo is par zyada na sochein, aur bas tez ideas ka istemal karein, aur aap unhe ek timeline (waqt) dete hain, aur aap unhe kuch variations (badlaav) sochne ko dete hain—yeh kabhi-kabhi madad karta hai. Agar aap is ke baare mein bahut zyada general (aam) tareeqe se soch rahe hain, toh aap wo choices (faisle) nahi kar rahe hain jo us maqsad ke liye kafi soche-samjhe (deliberate) hon jo aap karne ki koshish kar rahe hain.*
+
+Yeh professors expert creatives hain; wo jante hain ki banane (making) ke ek successful process mein kaise involve (engage) hona hai. Lekin aap kisi student ko bas yeh nahi bata sakte ki aapki tarah kaise create karna hai. Art school mein bees saal padhane ke baad, wo jante hain ki "batana (telling)" kaam nahi karta. Agar aap kisi student ko "ek sketch banane" ke liye kehte hain, toh wo wahi karenge jo wo pehle se jante hain ki kaise karna hai, aur unke creative safar (journey) ke is point par, wo nahi jante ki ek asardaar (effective) creative process mein kaise shamil hona hai. Students ko creative process ka tajurba (experience) khud karna padta hai jab wo kaam mein lagte (engage in) hain. Lekin aap ek naye tarah ki creative practice mein kaise shamil ho sakte hain jab aap abhi tak nahi jante ki isey kaise karna hai ya yeh kaisa dikhta hai? Yahin par structured assignments kaam aate hain. Students ko successful creative practice ke zariye guide karne ke liye, isse pehle ki wo janiye ki isey khud kaise karna hai, unhe parameters (niyamon) ki zaroorat hoti hai jo unhe raste par le jate hain.
+
+SCAD mein athara (18) saal se padha rahi ek painter, Sandra Reed ne mujhe bataya ki unhone constraints ke sath projects kyun assign kiye. Yahan unke kuch reasons hain:
+
+* Assignments students ko "guide" karte hain.
+* Assignments students ko "ek structure (dhancha) dete hain."
+* Assignments "students ke liye abhi jitne creative hain usse bhi zyada creative hone ke liye mahoul banate (set the stage) hain."
+
+Assignments "possibilities (sambhavnayein) kholte hain."
+
+**Main insaan ko dekhne ka ek zyada bada nazariya (larger way of seeing) dikhane mein madad karta hoon. Main apne role ko gaadi chalane wale ke bajaye gaadi ke bumpers (bachav) ki tarah dekhta hoon. Main wahan students ko unki gaadi chalane mein madad karne ke liye hoon aur main wahan sirf unhe deewar se takrane se rokne ke liye hoon.**
+
+Tobi Kahn, painter aur sculptor, School of Visual Arts
+
+Bhale hi wahan constraints hoti hain—kabhi-kabhi behad sakht (severe) constraints—assignments itne open-ended (bina soche samjhe) hote hain ki students ko creative process ka ek authentic (asli) experience (tajurba) milta hai jiska zikr is kitab ke pehle paanch chapters mein kiya gaya hai: ek aesa process jahan wo materials ke sath kaam karke, process mein samne aane wali problems ko solve karke, aur fail hokar aur phir us failure ke zariye kaam karke lagatar (progressively) ek solution (hal) ki taraf aage badhte hain. Har ache assignment mein hamesha creative freedom (azaadi) hoti hai aur successful kaam ki taraf le jane wale kai mumkin raste hote hain. Ek well-designed assignment ek aesa challenge pesh karta hai jiska koi ek waazeh (obvious) solution nahi hota. Har student ko solution tak pahunchne ka apna khud ka rasta dhoondhna hota hai aur creative process ke ek structured version (dhanche wale roop) se guzar kar assignment poora karna hota hai.
+
+Sabse behtareen assignments mein, problem ka dhancha (framing) poori tarah saaf (clear) nahi hota. Assignment ko poora karne ke liye, har student ko problem ka apna khud ka roop (representation) banana (formulate) padta hai. Chapter 3 mein, maine ise *problem finding (problem dhoondhna)* kaha tha, aur yeh zyada dilchasp (interesting), zyada hairan karne wali (surprising) creativity se juda (associated) hai. In assignments mein wo features hote hain jinhe cognitive scientists *illstructured problems (bin-taya problems)* se jodte hain: wo parameters ki ek limit batate hain jabki bahut se parameters un-kahe chhod dete hain, jinhe student khud creatively tay karta hai; parameters ek dusre ke sath dilchasp tareeqon se milte (interact) hain; aur wo aage badhne ke kai raste (multiple paths forward) kholte hain.
+
+Professors lagbhag hamesha apne khud ke assignments banate hain. WashU mein padhane wale illustrator, John Hendrix ne kaha:
+
+*Ache projects ka koi database nahi hai. Main jo projects istemal karta hoon wo wahi hain jo maine banaye hain, ya un cheezon ke hybrids (mile-jule roop) hain jo mujhe yaad hain ki main ek student ke taur par karta tha aur wo successful the. Main kabhi-kabhi naye bhi soch (come up with) leta hoon. Main shayad hi kabhi ek hi project ko teen semester se zyada padhata hoon kyunki main isse bore (tired) ho jata hoon.*
+
+Hamare interviews ke dauran, professors ko apne pasandeeda assignments ke baare mein baat karna bahut pasand tha. Unhe in par garv (proud) hai kyunki unhone inhe khud develop kiya hai aur saalon ke iteration (baar-baar dohrane) mein unhe baar-baar revise (badla) kiya hai. Yahi wajah hai ki art aur design padhana itna creative profession (pesha) hai. In assignments ko banane mein ek art (kala) hai; yeh teaching (padhane) ki art hai.
+
+### **Constraints Set You Free (Rukawatein Aapko Azaad Karti Hain)**
+
+Yahan char mein se dusra assignment hai jise Jeff Pike apni second-year WashU class, Pictures for Communication mein istemal karte hain. Yeh assignment Pike ke colleague John Hendrix dwara design kiya gaya tha.
+
+Constraints ka maqsad creativity ko mehdood (limit) karna nahi hai; iska maqsad students ko ek zyada successful raste (path) par guide karke creativity ko badhana (increase) hai. Har saal, har student is assignment ko ek alag tareeqe se pura karta hai. Pike ne mujhe bataya ki dashko (decades) ke teaching ke baad bhi, "Har semester, main aesi cheezein dekhta hoon jo mere liye original hoti hain. Aur main use celebrate karne ki koshish karta hoon. Main kehta hoon, 'Main isey ek lambe waqt se padha raha hoon. Solutions ki is line ko dekho! Yeh *sach mein, sach mein* alag (different) hain. Yeh waqayi (really) mazedar (exciting) hai!'" Kuch semesters mein, aadhe se zyada students naye aur unique solutions soch kar late (come up with) hain.
+
+### **A Short Comic Event (Ek Chhoti Comic Ghatna)**
+
+**Jeff Pike, "Pictures for Communication" (Assignment by John Hendrix)**
+
+Aap ek nau-panel (nine-panel) wali comic banayenge. Is comic mein kam se kam do characters (kirdar) (char se zyada nahi) aur ek environment (mahoul) hona chahiye. Aapka main character hona zaroori nahi hai. Aapka topic niche di gayi kahanion (narratives) mein se ek hoga. Apne chunav (choice) ko bahut zyada sochne (over-think) ki khwahish (desire) ko rokें (Resist).
+
+* Ek ajeeb Sunday nap (chhoti neend)
+* Kaam par jane ke liye ek pareshan karne wali (frustrating) drive
+* Public mein sharmindagi (Embarrassment)
+* Maut se pehli mulaqat (First encounter with death)
+* Mausam (Weather) ne outing (bahar jana) kharab kar di
+* Ek galat waqt par rukaawat (badly timed delay)
+* Romance se pehli pehchaan (An introduction to romance)
+
+Size: Nau (9) panels mein se har ek 2 inch by 2.5 inch ka hoga. Sabhi nau panels ko ek black matt board ke ek tukde par mounted (lagaya) hona chahiye jiske kinaro (perimeter) ke charo taraf 2-inch ka border ho.
+
+Media: Sabhi comics sirf 2 colors ki limited color palette, plus 1 value, aur black mein banayi jayengi. Drawing kisi tarah ki ink mein honi chahiye.
+
+#### **Methodology (Tareeqa)**
+
+* Narrative (kahani) likhein. *Chhota sochein (Think small)*. Ek chote pal (small moment) ke baare mein sochne ki koshish karein, misaal ke taur par car mein jaldi break marne par coffee girna, aur uske ird-gird apni narrative (kahani) banayein.
+* Visual development. Bayaan (Describe) karein, samjhaye (explain) nahi. Panel architecture ke 20-30 chote thumbnails (chote sketches) banayein.
+* Teen (3) bade, zyada refined (sudhre huye) page layouts taiyar karein, jisme jitna zyada ho sake variety (mukhtalif tarah) ho. Final scripts aur sketches poore karein.
+
+Maine Pike se poocha ki unhone students ko itni saari constraints kyun din. Wo kehte hain, "Rukawatein (Restrictions) options ko khatam (eliminate) kar deti hain, aur yeh sabko focused aur directed (raah par) rakhne mein madad karta hai." Unhone teaching ke saalon aur dashko (decades) ke dauran constraints ko is tarah design kiya hai ki wo student ki creativity ko maximum (sabse zyada) kar sakein. Wo upar di gayi har constraint ke piche ka logic (rationale) samjha sakte hain. Aap shart laga sakte hain ki in saalon mein kabhi na kabhi, kisi student ne unse poocha hoga ki kya wo is ya us parameter ko ignore kar sakte hain. Pike is baat ka explanation taiyar rakhte hain ki har constraint kyun important hai. Jo students in constraints ko follow nahi karte, wo lagbhag hamesha kharab kaam (bad work) banate (generate) hain aur unhe seekhne ka ek behtar (effective) tajurba (learning experience) nahi milta.
+
+Is assignment ke designer John Hendrix ne kaha,
+
+*"Tum jo chaho karo aur wapas aao"—yeh kaam nahi karega. Assignment ki constraints (rukawatein) asal mein aapko azaad kar rahi hain. Jaise ek nadi jo kisi chaude raaste (wide branch) ke bajaye ek patle raaste (narrow channel) se behti hai, wo channel se tezi se guzarti hai aur unki learning ko tez kar deti hai kyunki yeh un variables (cheezon) par dhyan kendrit (focuses) karti hai jinke baare mein unhe sochne ki zaroorat nahi hai. Yeh learning ko kisi ek khas (particular) cheez, ek tarah ki soch (thinking) par focus karta hai. Ek ache project mein behad sakht (severe) constraints hoti hain. Ya phir rukawatein (limitations), shayad isey kehne ka ek behtar tareeqa ho.*
+
+Hamari kuch sabse zyada jani-mani (best-known) creativity ki kahanion (narratives) mein, ek genius creator constraints par kaabu pa kar kamyabi (success) haasil karta hai. High school mein, jin students ko log "artistic" mante hain wo aksar wahi hote hain jo paramparaon (convention) ko nakarte (reject) hain aur niyam (rules) todte hain. Lekin art aur design schools mein—jahan aap yeh umeed (expect) kar sakte hain ki kisi bhi dusri jagah se kam constraints hongi—wahan dekhna seekhne ke liye constraints aur parameters (niyam) behad zaroori (essential) hain. Professors tajurbe se jante hain ki bina constraints ke, students ek successful creative process mein engage (shamil) nahi hote hain.
+
+SCAD mein pandrah (15) saal tak padhane wali interior designer, Esma Dengiz ne mujhe bataya:
+
+*Meri umeed yeh hai ki haddein (boundaries) asal mein aapki creativity ko badhava (foster) deti hain. Main ise is tarah dekhti hoon. Aap bahut zyada haddein nahi dena chahte, lekin students kabhi-kabhi un haddon se bhi inspire (prerit) ho sakte hain. Yeh kuch aesa ban sakta hai jo inspire karta hai, aur aap sach mein iske ird-gird (around it) design kar sakte hain aur ek aisa solution soch sakte hain jo ek khubsurat interior (andaruni hissa) banata hai jo is baat ko bhi khushi se (celebrates) pesh karta hai ki wahan kya hai.*
+
+### **Princess Cuties Don't Have Cooties (Pyari Rajkumarion ko Keetanu (Cooties) Nahi Hote)**
+
+Maine SCAD mein ek advertising professor ka interview liya jinhone aathara (18) saal tak Chicago mein apni khud ki advertising agency chalai thi. Maine unka syllabus dekha; unke constraints ka degree bahut zyada (extreme) tha. Yeh jaanbujh kar (intentional) tha; unhone mujhe bataya ki bina kisi dhanchay (structure) ke, "students kahin bhi nahi pahunchenge." Ek assignment mein, jisme pure das (10) hafte (entire ten-week quarter) lagte the, unhone shuruat mein students ko bees (20) health-oriented (sehat se jude) products ki ek list di, jinme Ronzoni Healthy Harvest Pasta, Splenda, aur Dial liquid soap shamil the. Students ne ek chuna aur phir unhone poora semester pura design process se guzarne mein bitaya, client ki pitch se lekar ek target market ko identify (pehchane) karne se lekar ad campaign tak. Sabhi students se ek health-oriented product lene ko kyun kaha gaya? Kyunki wo itne milte-julte (similar) hain ki har student yeh dekh kar seekhta hai ki unke classmates project ko kaise approach karte hain.
+
+Unhone mujhe ek student ke creative process ke beecho-beech ke kuch (intermediate) steps ki ek series dikhayi jo Dial soap ke liye ek ad campaign develop kar rahi thi:
+
+*Yeh uska pehla rough sketch hai ki wo kahan jana chahti hai. Idea yeh tha ki wo bacchon aur unke gande (grimy) hathon par focus karna chahti thi aur Dial ke sath milkar bacchon ko germ-free (kitaro se mukt) rakhna chahti thi. Yeh raha uska rough. [Ek "rough" ek sketch hota hai jisme ek chota sa toy soldier hota hai jis par poori dhool (dirt) lagi hoti hai.] Uski headline hai "Dushmano ki sarhad (enemy lines) se germs wapas na laayein."*
+
+Yeh kafi acha tha; unhone use is idea ko aage badhane ke liye hosla (encouraged) diya. Phir unhone mujhe uske baad wale assignments dikhaye jo usne submit kiye the.
+
+*Lekin phir wo raste se bhatak (off track) jati hai. Wo ise develop karna shuru karti hai, lekin ab, aapko mushkil se hi product dikhta hai, aapko mushkil se hi toy soldier dikhta hai, isliye uska sketch ek baat keh raha hai, lekin wo kuch aur keh rahi hai. Wo lafzon par zor (emphasis) de rahi hai, aur yeh bas kaam nahi kar raha (not working). Yeh kaam nahi kar raha. Idea mazboot tha, lekin jab wo execution (poora karne) par aayi, toh wo bhatak gayi.*
+
+Class critique (tajziye) mein hidayat (guidance) ke sath, use apni galti (mismatch) ka ehsaas hua. Isliye usne dohraav (iterated) kiya, ek naye raste par chalna shuru kiya.
+
+*Use achanak ek khayal (epiphany) aya ki yeh sirf ladko (boys) ke gande hone ke baare mein nahi hona chahiye, balki chhoti ladkiyan bhi gandi (grimy) hoti hain. Aur agar aap ek ladki ko dikhate hain, toh jinki maayein ladko ki hain wo bhi samjhengi, kyunki maayein (moms) kabhi ladkiyan thin, aur wo is tarah ke khilono se khelti thin.*
+
+Unhone phir mujhe uska naya (latest) version dikhaya. Yeh ek chhoti ladki ke kamre mein tha. Usne headline likhi,
+
+*Pyari rajkumariyon ko keetanu nahi hone chahiye (Princess cuties shouldn't have cooties).*
+
+Phir usne try kiya,
+
+*Sunehri joddha (golden knight) ke sath bacteria ko maaro (slay).*
+
+Baad mein, uske paas sink mein ek khilona naav (toy boat) ki image thi jiski headline thi,
+
+*Bacteria ko sink ke tale (bottom) par hi chhod do.*
+
+Jo agla sketch unhone mujhe dikhaya usme toy soldier Dial soap nikal (pumping) raha tha. Iske baad ek frame mein ek gande bacche ka hath parde ke piche (off-screen) se ek rubber duck uthane ke liye aata hai. Yeh headline thi
+
+*Apni yucky ducky ko tub mein jane se pehle sink par thoda saaf (cleaner) kar lo.*
+
+Yeh wahi creative exploration (khoj) hai jo professors sikha rahe hain. Unhone mujhe bataya ki yeh sabse successful students mein se ek thi; unhe uska kaam mere sath share karne mein fakhr (proud) tha. Project ke sabhi hisse ek dusre ke sath jude hue (integrated) the; kaam ka roop aur ehsaas (look and feel) har jagah nazar aa raha tha. Wo tajurbe (experience) se jante the ki is tarah ki success ko assignment ke constraints se hi badhava (enhanced) milta hai:
+
+*Main sabse zyada (more than anything) yeh koshish kar raha hoon ki wo bas cheezon ko mehsoos karne ke bajaye, apne dimaag (minds) aur apni soch (thinking) ko wasee (expand) karein.*
+
+Constraints ka paradox (virodhabhas) yeh hai ki wo possibilities (sambhavnaon) ko wasee karte hain aur aapko azaad (set you free) karte hain.
+
+### **Constraints Students ko Asan Kaam Karne se Rokti Hain**
+
+Constraints students ko us asan raste par jaane se rokte hain jis par chalkar wo wahi karte hain jo wo pehle se karna jante hain. Agar aap students ko kehte hain, "Ek sketch banao," toh wo ek aesa sketch banayenge jo un sketches se milta-julta hoga jo wo das (10) saal ki umar se banate aa rahe hain. Dekhna seekhne ke liye, aapko aese kaam mein shamil hone ke liye majboor (pushed) hona padta hai jo aapke comfort zone se bahar ho. SCAD ki ek architecture professor Julie Varland ne mujhe bataya ki bina constraints ke, "students wahi karte hain jo unhe pehle se karna aata hai." Wo students ki sochne ke dhang ko "hilane (shake up)" ke liye assignment parameters (niyamon) ka istemal karti hain:
+
+*Misaal ke taur par, pencil se drawing karne ke bajaye, main suggest (mashwara) karti hoon ki wo watercolor karein. Ya sirf jagah (space) mein roshni (light) ke baare mein sochein. Structure (dhanche) ke baare mein mat socho, sirf roshni ke baare mein socho. Ya main unhe materials badalne ko kahungi. Toh, agar wo planar (flat/patle) materials ka bahut istemal kar rahe hain, toh main unse kisi aesi cheez ka istemal karwaungi jise unhe sach mein dhalna (mold) pade. Mitti jise wo cast (saanche mein daalna) kar sakein, ya sidhi taar (linear wire).*
+
+Maine unse poocha, aap aisa kyun karti hain?
+
+*Unhe hilane ke liye, zor se hilane (jostle up) aur badalne (shift) ke liye, kuch rukaawaton (blockages) ko kholne ke liye. Agar aap unke kaam karne ke tareeqe ko hila dete (shake up) hain, toh kabhi-kabhi nayi cheezein nikal kar (come out) aati hain.*
+
+### **Students ko Constraints Samjhana**
+
+John Hendrix ne mujhe bataya ki students aksar constraints par chid-chidade (chafe) ho jate hain. "Unhe yeh idea pasand nahi aata ki aap unhe sirf do colors istemal karne de rahe hain, ya ki wo digital media ke sath kaam nahi kar sakte." Advertising professor jinka zikr pehle kiya gaya tha, unhone mujhe bataya ki jab wo students ko ek deliberate structured (soche-samjhe tayar shuda) process se guzarne ke liye majboor karte hain toh students niraash (frustrated) ho jate hain:
+
+*Wo creative hisse (part) tak pahunchna chahte hain. Wo isey karne ke liye betab (chomping at the bit) hain. Lekin main chahta hoon ki wo is par sochein aur isey samajhne ki koshish karein. Tabhi unhe zyada samajh (higher understanding) aayegi. Agar main unhe bas kuch de deta hoon, toh wo kuch nahi seekhenge. Lekin agar unhe wahan baith kar is baare mein sochna pade, isey khud karna pade, toh yeh bilkul alag baat (deal) hai.*
+
+Professors apne students ke sath constraints ki wajah (reason) par discuss (charcha) karte hain, lekin yeh baatcheet (conversation) assignment pura hone aur students ke guided creative process ke zariye kaam kar lene ke baad kahin zyada asardaar (effective) hoti hai. Shuruat mein, ek student aksar poochta hai ki kya wo kisi ek parameter ko skip (chhod) sakta hai. Parameter shayed mamuli (trivial) ya optional (marzi ka) lag sakta hai. Lekin choti se choti constraint bhi jaanbujh kar chuni jati hai, aur professor yeh samjhane ke liye taiyar rehte hain ki agar student constraints ke andar kaam karega toh wo zyada kyu seekhega. Sandra Reed, jo SCAD mein ek painter hain, ne mujhe bataya:
+
+*Maine class mein bahut zyada khushi (joy) paida (invest) karna seekh liya hai, taaki wahan adventure ka jazba (spirit) rahe. Mujhe bahut dukh hoga (make me sad) agar students in parameters (hadon) ko jo maine unhe diye hain unhe constraints ke taur par dekhein. Ya agar wo yeh na samjhein ki koi khas cheez hai jo main unhe kisi technique ke baare mein samjhana chahti hoon, aur yeh kya kar sakti hai, aur yeh ek aisi technique kyun hai jise istemal aur develop (viksit) kiya gaya hai. Aap jante hain, agar unhe bas yeh lage, "Wo mujhe bas bata rahi hain ki kya karna hai aur main wo nahi kar sakta jo main chahta hoon." Mere sath aisa waqayi nahi hota kyunki main hamesha apni constraints ke reasons samjhati hoon.*
+
+Students dwara saalo tak challenge kiye jane ke baad, professors ne yeh samjhana seekh liya hai ki students ko assignments ke parameters ke andar kaam karne ki zaroorat kyun hai—project ki shuruat mein, beech mein, yahan tak ki aakhir (toward the end) mein bhi. Yeh discussions students ko unke creative process aur aam taur par (generally) creative process par gaur karne (reflect) ka mauka deti hain. Students apne creative process ko behtar dhang se samajhte hain jab wo apni saamne aayi (faced) constraints ko wapas dekhte hain, unhone inka samna kaise kiya, aur agar unmein se ek ya usse zyada parameters na hote toh yeh kitna alag (different) ho sakta tha. Reed ne apne ek class session mein students ko apni assignment ki constraints explain (samjhai) ki thin, jise maine observe (dekha) kiya tha, jab wo project ke lagbhag beecho-beech the:
+
+*Main is baat par zor dena chahti thi ki aap is pure safar mein faisle (decisions) le rahe hain. Toh, shayad aapke dimaag mein ek behtareen (great) image ho, lekin aap bas wahan se shuru nahi karte . . . Wahan tak le jane wala ek process hota hai. Sahi kaha na? Kya aap isey mehsoos (feel) karte hain? Ki aapne shuruat mein saare faisle nahi liye the?*
+
+Teen (3) students ne haan mein sir hilaya (spoke up in agreement). Aakhiri wale ne kaha, "Mujhe lagta hai ki mujhe abhi bhi bahut saare faisle (decisions) lene hain." Reed ne haan mein sir hilate (nodded) hue kaha: "Haan, bahut saare faisle lene hain. Toh yeh koi band kitab (closed book) nahi hai." Isse pehle ki students kisi project par kaam karna shuru karein, unke liye kisi specific constraint ki wajah (reason) ko samajhna mumkin nahi hota. Kabhi-kabhi, professor ko bas yeh kehna padta hai, "Mujh par vishwas karo (Trust me); tum baad mein samajh jaoge." Lekin ek baar jab students is process ko experience (tajurba) kar lete hain, toh assignment design par ek reflective discussion (soch-vichar wali baatcheet) is learning ko aur mazboot (reinforce) karne mein madad kar sakti hai.
+
+### **Kabootar Nahi (No Pigeons!)**
+
+Maine Kevin Kaempf ka interview liya jab wo School of the Art Institute of Chicago (SAIC) mein foundations padha rahe the, jo downtown ke kinare, Lake Michigan ke saahil (shores) par waqe hai. Maine unse poocha, "Kya aap students ko zahiri (obvious) rasta lene se rokne ke liye constraints ka istemal karte hain?" Unhone is kahani ke sath jawab diya:
+
+*Meri sculpture class mein, sabhi naye students (freshmen), jab wo Chicago aate hain, toh wo kabootaron (pigeons) ke baare mein koi kaam karne wale hote hain. Ya beghar (homeless) logon ke baare mein. Main bolta hoon, tum yeh nahi kar sakte. Main hamesha yeh kehta hoon kyunki main tajurbe (experience) se janta hoon ki assignment yahi uksayega (trigger). Aap beghar (homeless) logon ke baare mein koi assignment nahi bana sakte. Aur koi kabootar nahi. Wo hamesha yahi karna chahte hain, kyunki wo Chicago shift hue hain aur wo downtown mein reh rahe hain, aur yeh aesa hai jaise unhone iska samna pehle kabhi nahi kiya ho. Unhe lagta hai ki yeh sabse zyada dilchasp (fascinating) cheez hai.*
+
+Maine unse poocha, "Agar wo kabootaron ko chunte hain toh isme kya ghalat hai?" Unhone jawab diya: "Yeh bahut cliché (ghisa-pita) hai. Homeless wala idea isse bhi bura hai." Bina assignment ki constraints ke, "wo apne comfort zone mein hi rahenge. Constraints yahi toh karti hain, haina? Mera matlab hai, yahi toh creative hissa (part) hai."
+
+Constraints aese design ki jati hain taaki students ko shuru mein hi ek idea develop karne ki unki fitrati aadat (instinct) se door rakha ja sake, aur unhe assignment ko jitni jaldi ho sake khatam karne ki jald-bazi se roka ja sake. Iske bajaye, constraints students ko ek aise nonlinear (tedhe-medhe) iterative creative process ke zariye guide karti hain, jisme unhone abhi tak maharat (mastery) hasil nahi ki hai. Agar constraints achi tarah design ki gayi hain, toh students ko sabse saaf (obvious) rasta lene se roka ja sakta hai—wo rasta jo unke pehle ke knowledge aur experience par aadharit (based) hota hai.
+
+Tiffany Holmes (Ringling College of Art and Design) kehti hain: "Cliché kaam hamesha hota hai. Aap isey sach mein rok nahi sakte. Isse bachna (escape) mushkil hai." Lekin kabhi-kabhi "aap waqayi mein yeh nahi keh rahe hote ki yeh cliché hai. Aap keh rahe hote hain ki yeh pehle bhi kiya ja chuka hai. Student waqayi manta (believes) hai ki unka kaam kisi na kisi tarah se original hai. Toh aap unhe naram lehjay mein samjhana (let them down softly) chahte hain. Is waqt art ki duniya mein originality (naye-pan) ke liye bahut kam jagah (room) bachi hai."
+
+Students ko clichés se bachne mein madad karne ke liye, Beth Grabowski (UNC) aksar apne syllabus mein wo cheez shamil karti hain jise wo "Bob Marley clause" kehti hain. Bob Marley clause yeh hai ki "koi gaane ke bol (song lyrics) nahi, aur kisi hero ya celebrity ki tasveerein (images) nahi. Wo cheezein jo popular culture mein wahan maujood hain." Grabowski kuch aam clichés ko bayan (describe) karti hain:
+
+*Drawing classes ke apne experience se, jab main darr (anxiety) ke baare mein sochti hoon—kai students anxious (dare huye) hote hain—toh darr (angsty) wali drawings kisi kone mein simte hue (huddled) log hote hain. Ya wo pyaar ya romance ke liye tasveer mein ek toota hua wine glass, aur ek gulab (rose), aur aadhi bhari wine ki bottle ka istemal karenge. Ek teddy bear jo purani yaadon (nostalgia) ya is aaramdeh (comfortable) jagah ki taraf ishara kar raha ho. Yeh arrangements (banaawatein) is culture mein itni aam hain ki logon ne inhe apne dimaag mein utar (internalized) liya hai aur wo bina soche-samjhe (without even thinking) usi ko draw kar dete hain.*
+
+Jab students ko bina constraints ke assignments milte hain, toh unke cliché aur wazeh (obvious) kaam (work) paida (generate) karne ki zyada sambhavna hoti hai. Wo un cheezon ko draw karte hain jo wo apne dimaag mein tasavvur (imagine) karte hain, bajaye iske ki wo jaisi darasal (really) hain use dekhein. Jaisa ki Grabowski ne chapter 5, "Seeing" mein kaha tha, students auraton ke breasts (chhatiyon) ki cliché illustrations (tasveeren) isliye draw karte hain kyunki "unke dimaag mein is baat ka ek symbol tha ki ek breast kaisi hoti hai aur unhone usay dekhne (looking) ke bajaye draw kar diya." Unhone mujhe bataya,
+
+*Agar wo wazeh (obvious) aur cliché kaam (work) paida (generating) kar rahe hain, toh zaroori nahi ki project mein hi constraints ya parameters (hadon) ki kami (lacking) ho. Ho sakta hai maine project ko achi tarah se set na kiya ho, artists ka kaam dikha kar, ya koi aesa article (reading) de kar, ya kuch aesa de kar, jo unki soch ko ek zyada behtareen (sophisticated) tareeqe se josh (spark) de sake. Shayad main bas cliché ke idea ke baare mein baat karungi. Cliché kya hota hai? Is mamle mein (in this manner) ek cliché kaisa dikhega?*
+
+Clichés wo cheezein hoti hain jo har kisi ne dekhi hoti hain kyunki wo hamare saajhe (shared) popular culture ka hissa hoti hain. Aaj, log YouTube ya dusre social media par kya dekh rahe hain. Grabowski ko yaad hai ki unke career ki shuruat mein, yeh janna zyada asaan tha ki clichés kya the kyunki tab TV shows aur movies ki ginti limited (mehdood) thi jo log dekh rahe the. Lekin aaj, popular culture bahut tezi se badalta hai, aur maujood (available) creative content lagbhag laa-mehdood (unlimited) hai; kisi bhi professor ke liye yeh janna mumkin nahi hai ki wo sabhi shared cliché cheezein kya hain. Grabowski ne students ko clichés dekhna sikhane ka apna tareeqa badal liya hai: "Main ise alag tareeqe se hal (get at) karungi. Main students ke sath shuru mein hi cliché ke idea ke baare mein charcha (conversation) karungi. Yeh farz (presuming) karne ke bajaye ki *mujhe* pata hai ki yeh kya hai, main unse ise define (bayan) karwaungi."
+
+SAIC ki Candida Alvarez "cliché" ke concept ko dhyan (carefully) se pesh aati (approaches) hain. Wo kehti hain, "Hamein cliché nahi chahiye, sahi? Hum yeh jante hain. Lekin mujhe pakka nahi pata ki constraints kya kar sakti hain. Mujhe lagta hai wo cliché ki taraf le ja sakti hain. Constraint ka idea (notion) khud mein cliché ho sakta hai." Students ko yeh dekhne se pehle ki cliché kya hota hai, cliché kaam banana (generate) padta hai, aur apne khud ki perceptions (samajh) ke baare mein yeh janne se pehle ki unhone kya aesa socha jisne unhe cliché kaam banane par majboor kiya. Aapko dekhna seekhne se pehle apni khud ki samajh aur paishbandi (biases) ko samajhna hoga.
+
+Grabowski ek aese assignment ke baare mein kahani sunati hain jo cliché ko seedhe taur par nishana (hits cliché head on) banata hai:
+
+*Mera ek dost hai jo darasal clichés ke baare mein ek assignment deta hai. Halloween ke aas-paas, wo students se ek chand (moon), ek kaali billi (black cat), chudail ki topi (witch's hat), aur ek Jack-o’-lantern (kaddu ka lamp) ka istemal karne ko kehta hai. Aur unhe in bahut hi cliché design elements ka istemal karke aese designs sochne hote hain jo cliché na hon. Yeh ek asli challenge hai. Wo zyada tar is baare mein baat kar rahe hote hain ki cliché kis cheez se banta hai (what constitutes cliché).*
+
+Constraints ko bilkul theek karne ke liye, aapko lagatar kai saalo tak ek assignment ke sath padhana padta hai aur isey revise (sudharna) karna padta hai. Aap lagbhag hamesha bahut kam (too few) constraints ke sath shuruat karte hain aur, waqt ke sath (over the years), aap aur zyada jodte jate hain. Yeh seekhne mein aapko kai baar class padhani padti hai. Aap ek baar course padhate hain aur students cliché kaam karte hain. Isliye, agli baar jab aap course padhate hain, toh aap unhe in clichés se bachane ke liye kuch constraints jodte hain, jaise "koi kabootar (no pigeons) nahi." Lekin phir, students koi aur cliché cheezein lekar aayenge, aur phir, teesri baar, aap aur constraints jodenge. Kabhi-kabhi aapke paas itni zyada constraints ho jati hain ki students ko exploration aur emergence ka koi asardaar (effective) process experience nahi hota. Assignment constraints ko is tarah se calibrate (barabar) karna mushkil hota hai ki wo students ko zyada successful hone mein madad karein, jabki unhe kafi creative azaadi bhi dein.
+
+In experienced professors ne lagbhag har cliché dekha hai. Wo un par haste hain; wo unki umeed (expect) karte hain; wo unhe dusre professors ke sath share karte hain. Yahi wajah hai ki wo aese assignments design karte hain jinme constraints hon jo students ko cliché rasta (path) lene se rokein. Agar bahut se students cliché kaam generate karte hain, toh apne assignment mein aesi constraint jodein jo students ko agli baar us cliché ka istemal karne se roke.
+
+### **Constraints Isliye Design Kiye Jate Hain Taaki Students Dheeme (Slow Down) Ho Sakein**
+
+SCAD mein ek painting class jise maine observe (dekha) kiya, Sandra Reed ne ek aesa assignment diya jisme students ne kisi neutral gray ya brown underpainting (buniyaadi paint) par ek translucent (halka roshan) color glaze paint karne ki classic technique ka istemal kiya. Unhone samjhaya ki unhone yeh assignment isliye banaya kyunki glazes ka istemal karne mein bahut lamba waqt lagta hai; har glaze layer (part) ko sookhne mein barah (12) ghante ya usse zyada lag sakte hain, aur man chaha (desired) effect hasil karne ke liye kai layers ki zaroorat hoti hai. Jaisa ki unhone samjhaya:
+
+*Aap unhe bas aese hi dheema (slow down) hone ko nahi keh sakte. Yeh sirf teacher ki aawaz hogi. Lekin agar technique mein hi dheema hona shamil hai, toh wo apni learning ke liye aisa kar rahe hote hain, bajaye iske ki unhe aesa karne ke liye kaha gaya hai. Painting Monday ko due (jama karni) hai. Toh Wednesday ko main unhe batati hoon, agar aap painting par kaam karne ke liye Sunday tak ka intezar karte hain, toh yeh aapke agle step ke liye Monday tak taiyar nahi hogi. Aapko is par Thursday aur Friday ko kaam karna padega taaki yeh sookh sake. Aur phir shayad Sunday ko yeh itna sookh jayega ki aap thoda aur kaam kar sakein. Materials unhe lead karte hain (aage badhate hain). Wo meri aawaz se zyada materials ki sunte hain. Aisi cheezein hain jo materials kar sakte hain aur nahi kar sakte. Materials ko khud (themselves) waqt ki zaroorat hoti hai. Aur jab wo kaam par wapas aate hain, toh wo use taze (afresh) dhang se dekhte hain. Is assignment ke khamosh (quiet) maqasid (objectives) mein se ek yeh hai ki main unhe apne idea par ek hi baar mein pura karne (one huge thing) ke bajaye, hisso (stages) mein kaam karne ke liye dheema karti hoon.*
+
+**FIGURE 6.1** SCAD mein Sandra Reed ki painting class. Oil-Based Media Exploration. Reed center mein khadi hain. 2010.
+
+Is chaar hafte ke glaze project ke do hafte baad, main class mein gaya aur maine unhe apne students ko ek milta julta (similar) explanation (wazahahat) dete hue suna:
+
+*Glazing ke baare mein jo ek cheez mujhe chupke se achi lagti hai wo yeh hai ki yeh aapko class ke turant baad (right after) is par kaam karne ka ek bahut hi thos karan (good reason) deti hai. Aap jante hain, Sunday ki raat tak ka intezar na karein, balki turant shuru kar dein, kyunki aapko sookhne ke waqt (drying time) ki zaroorat hai. Aur main samajh sakti hoon ki kabhi-kabhi aap cheezon ko taal (put off) dete hain, lekin glazing aapko karni hi hoti hai, taaki isey wo sookhne ka waqt (drying time) mil sake, aur aapke paas dubara is par kaam karne (come back to it) ka mauka ho.*
+
+Yeh explanation assignment ke do hafte baad aaya—shuruat mein nahi. Students aksar yeh nahi samajhte ki constraints kyun zaroori (necessary) hain jab tak ki wo project ke zariye kaam na kar lein; wo isay tab kahin behtar samjhenge bajaye iske ki aap pehle se (ahead of time) samjhane ki koshish karein.
+
+Art aur design school mushkil hai. Students der raat tak kaam karte hain. Grabowski ke paas un students ke liye ek mazedar (amusing) lafz (term) hai jo assignment due (jama) hone se pehli raat tak intezar karte hain; wo ise "guerrilla art making" kehti hain. "Raat ke sannate (stealth) mein." Lekin jab students jald bazi (rush) karte hain ya aakhiri minute tak intezar karte hain, toh yeh kaam mein dikhai deta hai. Jo students art aur design school jate hain wo high school mein ache (successful) students the. Unke paas achi time management skills hoti hain aur wo jante hain ki assignment pura karne aur 'A' grade lane ke liye teacher jo kahe wo kaise karna hai. Jaisa ki zyada-tar university classes mein hota hai, students apne assignments ko jitni jaldi ho sake (as quickly as possible) khatam karne ki koshish karte hain. Isi nazariye (approach) ke sath wo art aur design school ke pehle ek ya do saal guzaarte hain. Zyada-tar colleges mein, yeh success (kamyabi) ka ek asardaar rasta (effective path) hoga. Lekin jab art aur design seekhne ki baat aati hai, toh yeh approach creativity ko rok (blocks) deti hai. Ek asardaar creative process mein waqt lagta hai. Agar koi student kisi assignment ko jaldi aur bina waqt zaya (efficiently) kiye khatam karne ki koshish karta hai, toh wo kharab (poor) kaam karega (generate).
+
+Students ko assignment jald se jald khatam karne (rushing through the process) se rokne ke liye, instructors aise constraints wale assignments dete hain jo students ko apni raftaar dheemi karne (slow down) par majboor (require) karte hain. Instructors constraints ko is tarah design karte hain taaki students ko assignment poora karne ke liye sabse asaan aur jaldi wala rasta (most obvious, quick path) chun-ne se roka ja sake. Dheema hone (slowing down) ko zaroori banane wale constraints mein Reed ka glazing requirement ya Botnick ka type design assignment shamil hain, jahan students ko patle paper ke bajaye mote corrugated cardboard se apne letters kaatne hote hain (chapter 2, "Materials," pp. 86-87 mein).
+
+Instructors ko aam taur par kai saalo ka tajurba (experience) lagta hai yeh tay (determine) karne mein ki students assignment ko jaldi khatam karne ke liye aam taur par (likely) kaun se asaan (obvious) raste apnaate hain, aur phir aise constraints design karne mein jo students ko in jaldi wale, asaan raston se door kar dein (force away), aur iski bajaye (instead) iterative creativity (lagatar aage badhne aur dohrane) wale process ko follow karne par majboor karein—jo hamesha ek lamba rasta (longer path) hota hai.
+
+### **Constraints Students ko Faisle (Decisions) Lena Seekhne mein Madad Karti Hain**
+
+**Constraints (rukawatein) focus lana mumkin banati hain. Aap unse decision making (faisla lene ka kaam) ka kuch hissa wapas le rahe hain. Aap unhe kaam karne ke liye ek dhancha (framework) de rahe hain. Yeh faislon ki ginti (number of decisions) ko kam karta hai, yeh aur zyada focused (gahraye huay) faisle lene deta hai, isliye isey sambhalna (manageable) aasan ho jata hai.**
+
+Beth Grabowski, printmaker, UNC Chapel Hill
+
+Choices (faislon) ko mehdood (limit) karke, assignments students ko intention (irade) ke sath choices karne mein guide karte hain. Assignment ki constraints students ko yeh seekhne mein madad karti hain ki ek creative zindagi mein, wo lagatar (constantly) choices karte rahenge—jaise-jaise kaam karne ke process se, materials se, aur unke intention (irade) aur jo kaam mein pesh (manifested) hua hai uske beech ki aam mismatches (mel na khana) se naye ideas samne aate (emerge) rahenge. Har choice asardaar tareeqe (effectively) se tab hi li ja sakti hai jab student saaf taur par (clearly) dekh sake. Mere aur Reed ke beech baad mein hue ek interview mein, unhone mujhe apne sikhane ka maqsad (learning goal) bataya: "Main chahti hoon ki wo ek socha-samjha faisla (informed choice) lene ke qabil hon."
+
+Har creative decision kisi maqsad (intentionality) ke sath lena chahiye. Ek artist ya designer apni bahut saari choices (alternative possibilities) ke baare mein jaanta hai aur yeh samjha (explain) sakta hai ki usne koi khass (particular) chunav kyun kiya. Aap us raaste par bhi baat kar sakte hain jise chuna nahi gaya, aur yeh bhi samjha sakte hain ki wo utna asardaar (successful) kyun nahi hota. Lekin, shuruaat karne wale students aksar is wajah (knowing why) ko jaane baghair hi faisle karte hain. Unhe ek andaaz (intuition) hota hai, ya wo sochte hain ki yeh acha lag raha hai, ya unke paas waqt ki kami hoti hai aur unhone wo raasta (option) chuna jo khatam karne mein sabse aasan hota hai. Jab aap clearly dekh nahi pate, toh aap yeh bhi nahi samjha pate ki aapne kya kiya aur kyun kiya. Iska asar gair asardaar kaam (ineffective work) mein dikhta hai.
+
+Assignments mumkin choices ki jagah (space) ko mehdood (constrain) karte hain. Hairani ki baat yeh hai (Paradoxically) ki, isse students ko choices karna seekhne mein madad milti hai. Beth Grabowski ne mujhe bataya:
+
+*Jo assignment ki constraints (rukawatein) aap banate hain wo creative work ki us field (arena) par focus karti hain jise unhe karna hai. Isliye aap unse decision making (faisla lene ka kaam) ka kuch hissa wapas le rahe hain, kyunki aap unhe kaam karne ke liye ek dhancha (framework) de rahe hain. Ek akele kaam karne wala artist us dhanche ko khud define karega. Aur wo ek insaan ke zati shauq (individual interest), wagaira, jo bhi ho, usse define hoga. Yeh faislon (decisions) ki ginti (number) ko kam kar deta hai, jo unhe ek zyada focused relationship banane, ya zyada focused decision making, zyada focused problem solving ka mauka deta hai. Toh yeh zyada manageable (jise asani se handle kiya ja sake) ho jata hai. Yeh itna zyada ghabrahat wala (overwhelming) nahi hota. Constraints ka yehi kaam (function) hota hai; wo ek shuruati jagah (starting place) na milne ki problem ko door kar deti hain.*
+
+### **Constraints Students ka Dhyan Expected Learning Outcomes par Lagati Hain**
+
+**Jo parameter (shart/hudood) constraint (mehdoood) nahi kiya gaya wahi exploration (khoj) ka hissa hai.**
+
+Tiffany Holmes, digital media artist, Ringling College of Art and Design
+
+Heather Corcoran, jo WashU mein communication design padhati hain, wo apne students ko ek list (jisme 5 novels hote hain jo wo khud deti hain) mein se ek novel (novel) chun kar apna assignment shuru karne ke liye kehti hain (dekhein figure 6.2).
+
+**diptych broadsides: beginnings & endings**
+
+( *figure 6.2* se liya gaya hissa)
+
+Aap sab ko ek novel (upanyas/kahaani) diya gaya hai. Apne novel ke shuru ke kuch pages (panno) aur aakhir ke kuch pages se do hissay (passages) chuniye (select karein), jinme har ek mein 100 se zyada words na hon.
+
+* Willa Cather, *My Ántonia*
+* Dave Eggers, *You shall know our velocity*
+* Cormac McCarthy, *All the pretty horses*
+* Zora Neale Hurston, *Their eyes were watching God* Michael Cunningham, *The hours*
+
+diptych broadsides: beginnings & endings
+
+
+
+Communication Design Assignment Novels, 2011
+
+
+
+College and Graduate School of Art
+
+
+
+SpringWashingtonscaraiacactaa 20% University ln page St.Louls Eachafromdesign short theof twotext youending broadside/postersfromhasbeen in the the assigned beginning most visuallyina novel. whichand a dynamicshort youYou will displaytext way Willa‘CormacDaveZora Neale Eggers:Cather:McCarthy: Hurston: YouMy ShallAntoniaAllTheir EyestheKnow PrettyOur Were Horses Velocity Watching God
+
+
+
+possible. You may use images, or not. Michael Cunningham: The Hours
+
+
+
+Your posters should function as interesting
+
+
+
+companions.visual—and more Thisis specifially.typographic—risk an opportunityfor  Chiteria—
+
+
+
+typeWhat and is thecommunicative relationship between value?  expressive Eachtext so of thatyour itcan be posters read, themust includename ofyouryour assigned book,
+
+
+
+of‘Yoursolutions. process Given. should involveButitshoulda widealsoinvolve range the—_r6xzoinches,zuther,and the your
+
+
+
+hera distinctfstsetbody of entry pointsof  intoetrat  the problem.on Posers must be = output on one stace.surface.
+
+
+
+eee Image, olor, type unlimited.
+
+
+
+Read or read your novel. Think about its story arc,
+
+
+
+meaning
+
+
+
+the beginning and use of language. Think about how ‘
+
+
+
+Select two passagesand ending frame theof no more than novel.100 words Due April 22.
+
+
+
+cach from the first few pages and last few pages of
+
+
+
+your novel. You may not eliminate any text
+
+
+
+between the first and last words
+
+
+
+Your jobis to select, interpret, andof express,your passages.but not
+
+
+
+to write or edit.
+
+
+
+2.Collect examples.
+
+
+
+This should include examples
+
+
+
+in the world that may or may notof  relateexpressiveto your type
+
+
+
+‘text, as well as examplesof posters are other
+
+
+
+surfacepeople borrowingdesign that anduses manipulating type expressively. letterfH o rms?w are
+
+
+
+How might you adapt their ideas and methods?
+
+
+
+-Find visual material.
+
+
+
+Collect images
+
+
+
+or other visual material related to
+
+
+
+your texts. Go for variety and volume,
+
+
+
+4-Make visual sketches.
+
+
+
+Sketches of potential approaches tothe broadside.
+
+
+
+Worry less about pairings, initially, and more
+
+
+
+aboutapproaches.volume. ideas, and rangeof formal
+
+
+
+##### **FIGURE 6.2**
+
+Heather Corcoran assignment, *diptych broadsides: beginnings and endings*. Class Word & Image Studio 2 ka chautha (4th) aur aakhiri assignment, Spring 2011, Washington University in St. Louis.
+
+be pot fe A BAOHean euecreic Dei moonwan Tv aemeree
+
+
+
+a
+
+
+
+RIBBONED een
+
+
+
+Leck
+
+
+
+ene HAIR,ae
+
+
+
+7
+
+
+
+‘
+
+
+
+8) es
+
+
+
+=
+
+
+
+pare OOK pewcer ) “4
+
+
+
+’
+
+
+
+ThereseT ER
+
+
+
+neLe ‘ WNRZ yen
+
+
+
+CACTUS
+
+
+
+**FIGURE 6.3** Peter Hristoff. “Everything and Nothing” cards. 2023.
+
+Students ko apni marzi se kuch bhi chun-ne (choose) ki ijazat dene ke bajaye, Corcoran unhe paanch (5) novels deti hain; Pike unhe saat (7) narratives (kahaniyan) dete hain. Yeh bahut aam baat (common) hai. Chapter 5, "Seeing" mein, maine John Hendrix ke ek assignment ka zikr kiya tha jahan wo students ko aam ghisi-piti baaton (cliché sayings) ki ek list dete hain aur unhe ek sketch banana hota hai jo unmein se kisi ek ka naya roop pesh kare (recontextualizes). Wo unhe khud chun-ne ki bajaye wo phrases (jumle) ki list dete hain jo wo istemal karenge, kyunki
+
+*Bache kaun sa phrase chunte hain yeh zaroori nahi hai. Agar hum unhe apna phrase chunne ki ijazat dete jo wo istemal karne wale the, toh yeh eham (important) nahi hota. Yeh waqt ki barbadi (waste of time) hai. Tum teen (3) classes bas buri selections dekhne mein guzaar doge. Zaroori baat wo choti si cheez hai jahan wo ek phrase dekhte hain aur ek aesi image lagate hain jo uske sath bilkul mel (doesn't go together) nahi khati. Yeh mismatch (incongruity), yahi wo cheez hai jo tum chahte ho ki wo seekhein. Jo cheez nahi tay ki gayi (unfixed) hai wo seekhne ka nateeja (learning outcome) hai. Yahi wajah hai ki main unhe phrase deta hoon, kyunki wo (phrase) zaroori nahi hai.*
+
+#### **Inventory Drawing**
+
+SVA ke Peter Hristoff ne apne khud ke cards ka ek set banaya jise "Everything and Nothing (Sab Kuch aur Kuch Nahi)" kaha jata hai. Har card par ek lafz (word) hai. Aese sau (100) cards hain jin par *light bulb* (bulb), *table* (mez), *bed* (bistar), *wheel* (pahiya), *watering can* (pani dene wala dabba), *rain* (barish), *cloud* (badal), *sun* (sooraj), *moon* (chand), *stars* (sitare), wagaira jaise shabd likhe hain. Wo bina kisi khaas tarteeb (random) ke ek card uthate hain, students ko shabd batate hain, aur unke paas ise draw karne ke liye ek minute hota hai. Yeh ek bahut hi fitrati (spontaneous) kism ki drawing hai.
+
+Unhone kuch aur card decks (cards ke packet) bhi banaye hain, har ek mein ek makhsoos (specific) theme hai. Ek "Landscape as Metaphor (Nazara bataur Ista'ara)" hai jisme *flowers* (phool), *outer space* (khalai dunya), *garden* (baghicha), *explosion* (dhamaka), *cacti* (kaktees), *rain* (barish), *wheat* (gandum), *lightning* (bijli) jaise cards hain. Ek aur deck Robert Frost ki shayri (poetry) ki ek kitab se liye gaye lafzon ka hai: *breast* (seena), *flight* (udaan), *wings* (par), *heaven* (jannat), *light* (roshni), *undergrowth* (jhariyan), *winter* (sardiyan). Baad ki classes mein, wo kai cards (multiple cards) chunte hain, waqt ko badha kar do minute kar dete hain, aur students ko in cards ke mail (combination) se drawing banane ka kehte hain. Ek waqt mein do cards, phir teen, chaar, paanch.
+
+Hristoff assignment ki wajah batate hain:
+
+Yeh hint (prompt) unki creativity (takhleequi salahiyat) ko baahar nikaalti hai (releases). Yeh unki creativity ko jagane (release) ka bahut aasaan (simple) tarika hai. Yeh students ko bohot prabhavit (resonates) karta hai. Yeh khali safay (blank page) ke pressure (dabao) ko door karne ka ek tarika hai, taaki students yeh samajh (realize) sakein ki koi bhi cheez drawing shuru karne ke liye ek hint ban sakti hai. Aur phir ek baar jab aap drawing shuru kar dete hain, toh jaadu (magic) shuru ho jata hai—aap isme apni kahani le aate hain. Ise padhana bahut mazedar (fun) hota hai. Main poori tarah se doob jata hoon (get into a zone). Main poori tarah dhyan mein kho jata hoon. Yeh waqai (amazing) hai ki kis tarah bas hints padh kar aur timer ke sath chal kar, aur phir ek sath do cards par jakar, ek sath teen cards par jakar [wo drawing poori karte hain]. Aur phir jab aap paanch cards par pahunchte hain, drawing chhod dain. Achanak wo choti (mini) kavitayen (poems) ban jate hain. Unhe jaldi (faster) draw karna padta hai kyunki yeh ek bohot hi spontaneous (fitrati/azaad) qism ki drawing hoti hai. Khas taur par us student ke liye jo apni drawing ko lekar thoda insecure (be-yakeeni) mehsus karta hai ya jiske dimaag mein pehle se hi yeh baat basi hui hai (preconceived ideas) ki ek achi drawing kya hoti hai. Main unhe itna waqt (enough time) nahi dena chahta ki wo pareshan (uptight) ho jayein; main bas unhe react karne ke liye kafi waqt dena chahta hoon. Aur yeh unme ek khas kism ka confidence (aetmaad) paida karta hai. Yeh discipline (nazm-o-zabt) hai; bas khud ko iske hawale kar do (commit yourself). Yeh ek aisi cheez hai jo koi (apne sath) le ja sakta hai. Main koi life coach (zindagi sawarne wala) nahi hoon, lekin yeh kisi life coach ki baat jaisa lagta hai. Agar aap khud ko kisi bhi kaam mein laga dete hain, toh aap usme behtar ho jayenge. Zindagi mein aage badhna (grow), kisi cheez mein behtar hona eham (important) hai.
+
+Kyun students ko saat narratives (kahaaniyon) ki list ya paanch novels (kahaaniyon ki kitabon) ki list mein se chunkar kaam karne ka kaha jata hai? Kyunki agar aisa na kiya jaye, toh students content (mawaad/kahaani) ke baare mein sochne mein bohot zyada waqt zaya (spend too much time) kar denge, is bajaye ke wo us content ko tasweer ki surat (visual representation) mein laane ka sochein. Is class mein unke liye yeh eham nahi hai ki wo bohot saare novels padhein aur wo chunein jo unhe pasand hai.
+
+In constraints (rukawaton) ki ek aur wajah yeh hai ki yeh students ko sabse saaf (obvious) aur comfortable (aaraam de) cheez karne se rokti hain. Agar Pike kehta, "Ek narrative (kahaani) chuno aur usay illustrate (khaanaka/tasweer mein bayaan) karo," toh wo us event ki kahani chunte jisse wo pehle se wakif hain—shayad apni khud ki zindagi se. Agar Corcoran kehti, "Ek novel chuno," toh students shayad apni pasandeeda novel ya aisi novel chunte jo unhone haal hi mein padhi ho. Ya phir wo bohot saari novels padhne mein bohot sara waqt guzarte aur ek aisi novel dhoondhne ki koshish karte jo unki assignment ki samajh se sabse zyada milti-julti ho.
+
+School of Visual Arts (SVA) ke Richard Mehl apni advanced typography (type designing) class mein bhi aise hi assignments ka tarika (approach) apnate hain, jisme juniors aur seniors hotay hain. "Main unhe kaam karne ke liye content (mawaad) deta hoon. Kyunki warna wo do ya teen hafte content sochne mein nikal denge. Aap nahi chahte ki wo yeh sochein aur apna qeemti waqt (precious time) is baat ka faisla (deciding) karne mein barbad karein ki kya kiya jaye. Sirf is baat ka faisla karne mein hi do ya teen hafte lag sakte hain ki wo kya content istemal karna chahte hain. Lekin mera maqsad (purpose) skills sikhana hai. Letter spacing (harfon ke darmian jagah). Line spacing." Bahut se design assignments mein students se "Lorem ipsum" text—jo ke be-maani (meaningless) Latin shabd hain—ka istemal karne ko kaha jata hai taaki students ka dhyan design ke visual (dikhnay walay) elements se na hate.
+
+Kabhi-kabhi, seekhne ka maqsad iske bilkul ulat (opposite) hota hai: students ko text par ghor (focus) karne ki zaroorat hoti hai. Amy Thompson, jo typeface design aur book design sikhati hain, ne mujhe bataya: "Yeh shayad ek text-based (text par mubni) project ho aur main chahti hoon ki wo sach mein imagery (tasweerat) banane ke liye text ka istemal karein, aur wo poochenge ki kya wo images (tasweeron) ka bhi istemal kar sakte hain, aur main inkaar kar doongi, kyunki yeh baad mein hoga." Assignment ki pabandiyan (constraints) seekhne ke umeed-kardah nateejon (desired learning outcome) ke hisab se badalti rehti hain.
+
+Ek healthcare product ke ad campaign wale assignment ke liye, professor ne category aur products ki list pehle hi teh (assign) kar di thi; students ko apni marzi se kuch bhi chunne ka mauka nahi mila. Is baat se koi zyada farq nahi padta ki category healthcare products hai; jo tareeqa (process) wo seekhenge, wo kisi bhi product category par laagu kiya ja sakta hai. Lekin zaroori yeh hai ki aap unhe 'kuch bhi' (anything) karne ka kehne ki bajaey koi makhsoos cheez (something) dein. Wo explain karte hain: "Aapne in barray sochne ke dhang (bigger ways of thinking) sikhane ke maqsad (purpose) se unke options ko mehdood (constrained) kiya hai."
+
+### **Kai Options (Possibilities) Tay Karein (Assign Multiple Possibilities)**
+
+Tiffany Holmes (Ringling) ne ek drawing assignment ke baare mein bataya jo wo us waqt deti thin jab wo University of Michigan mein thin:
+
+*Students mujh par bohot ghussa (mad) the kyunki maine unse kaha tha ki pure semester ke liye unhe ek aisa object (cheez) chunna tha jo unke hath se chhota aur quarter (sikke) se bada ho. Aur wahi unhe draw karna tha. Unhe ek hafte mein us object ki 5 drawing banani thi. Aur semester ke aakhir tak, wo is se bohot thak (bored) chuke the. Lekin unke paas be-misaal tor par dilchasp (incredibly compelling) sketchbooks the. Yeh dekhna ek ajeeb (cool) cheez thi, bas unki skills (facility) aur object ko draw karne (rendering) ka dikhnay wala irtaqa (visual growth).*
+
+Art aur design ke assignments shuruat mein hi ek bohot achay idea (great idea) ki maang nahi karte kyunki behtareen ideas kaam karne ke process se ubhar kar aate hain. Bahut se assignments is baat ki maang karte hain ki students ek khas ginti (specific number) mein naye raaste ya ideas paida (generate) karein—jaise chaar, das, bees, ya yahan tak ki pachaas ideas aage badhne ke tareeqo par (how to proceed). Cheryl Wassenaar (WashU) ne mujhe bataya: "Yeh idea bahut zyada ideas sochne (generating a lot) aur jo aapke paas hai use dekhne ka hai, unme se kuch ko chunna jo faydemand (useful) lagen, aur phir us idea par aur ideas banana (generating more). Agar aap kisi cheez ko karne ke sirf teen tareeqe sochte hain, toh iska matlab hai ki aapka dimaag poori mehnat (flexing its muscles) nahi kar raha hai." Creativity par research karne wale ise *divergent thinking (alag-alag sochna)* kehte hain: Jitne zyada ideas soch sakte ho, socho, bhale hi unme se bahut se bekaar lag rahe hon. Is shuruaati marahil (early stage) mein is baat ki fikar na karo ki wo kitne achay hain; warna, tum apni poori dimaagi tawanai (mental energy) ek behtareen idea sochne mein laga doge.
+
+**Assignments process ko shuru karne wale trigger points hain aur wahan se kuch kamaal (amazing) ho sakta hai. Theek hai na? Humein abhi nahi pata. Yeh sabse bewaqoofi wali cheez (dumbest thing) bhi ho sakti hai!**
+
+Candida Alvarez, artist, SAIC
+
+Douglas Dowd (illustration, WashU) apne chauthe saal ke illustration students ko sirf ek weekend mein 100 drawings banane ko kehte hain:
+
+*Main unhe ek task deta hoon jahan unhe ek weekend mein 100 figure drawings banani hoti hain. Insaano ki drawings. Yeh pagal kar dene wala (maddening) problem hai, kyunki aapke paas jitni bhi tricks hain, wo ideas jo naturally (qudrati taur par) dimaag mein aate hain, wo sab 30 tak pahunchte-pahunchte khatam ho jate hain. Phir bhi 70 baaqi rehti hain. Yeh thaka dene wala (grueling) kaam hai. Aakhir mein, aap un sab ko (display ke liye) laga dete hain aur wahi aapka data set ban jata hai. Aur sawal yeh hota hai ki deewar par lage in 100 kamo mein se kaun se sabse dilchasp lag rahe hain? Kuch aisa ubhar (happens) aata hai jiska student ne kabhi socha (intended) nahi hota, siwae un mushkil halaaton (extreme circumstances) ke, jisse ek aesa rasta (opportunity) khulta hai jiska unhe tasawwur bhi nahi tha. Wo kuch aesa karte hain jo waqai mazedar (exciting) hota hai. Jis se wo faida utha sakte hain (capitalize on). Toh phir aap us daryaft (discovery) par ghaur karne ya uska faida uthane ke liye aese problems design karna shuru kar dete hain.*
+
+Arny Nadler, WashU mein 1997 se padha rahe hain aur 2013 se 2018 tak undergraduate art program ke chair rahe hain. Wo ideas paida (idea generation) karne ko *serious play (sanjeda khel)* ki tarah dekhte hain:
+
+*Ek acha artist yeh puchega, "Kya sahi (working) ho raha hai aur kya galat (not working)? Inmein se kaunsa aisa kaam kar raha hai jo tumhe dilchasp (interesting) lag raha hai?" Lekin aap ek student ko yeh karna kaise sikhayenge? Mujhe lagta hai ki aap ek aesa curriculum (nisaab) design karte hain jahan wo sach mein isey tajurba (experience) kar saken. Jahan unhe darjano (dozen) sketches banane hon. Jab ek student darjano sketches banata hai, aur phir dusre student ko un sketches ko milana (combine) hota hai, ek tarah se chhan-been (pick apart) karni hoti hai ki kaun se achay hain aur bure ko nikalna (throw out) hota hai, aur achay ideas ko pakad ke rakhna (hold on) hota hai. Jitna zyada wo yeh karte hain, utna hi zyada wo is sanjeda khel (serious play) ko tajurba karte hain, jisko bayaan (describe) karne ka sabse behtar tareeqa shayad yahi hai. Main sach mein manta hoon ki har cheez mein ek dilchasp khel-kood wali sifat (playful quality) hoti hai. Ek tarah ka curious (utsuk) aur playful (khel khel mein) sawal karna (inquiry) hota hai. Wahi waqt hota hai jab sach mein, sach mein kamaal ki (cool) cheezein samne aati hain. Mera man-na hai ki ek khasi tadad (decent quantity) mein sketches banwana zaroori hona chahiye. Yeh unhe pehle, dusre, teesre idea se aage, naye imkanaat (possibilities) ki taraf badhne mein madad karta hai. Main unhe batata hoon ki ek aesa waqt hona chahiye jab wo sketches par bina kisi judgement (faisle) ke kaam kar rahe hon. Tumhe is kaam ko bas jaldi jaldi bahar nikalna hai (pooping this stuff out). In par bohot zyada mat socho (overthink); bus mukhtalif (different) ashkalo (forms) ka ambar (bunch) paida (generate) karo.*
+
+### **Figures & Stories (Insaani shakal aur Kahaniyan)**
+
+**Jeff Pike, Pictures for Communication, Spring 2011, Washington University in St. Louis**
+
+Aap ek aisi two-color (do rangu) illustration banayenge jo niche di gayi kahanion (stories) mein se kisi ek ko saaf-saaf bayan kare. In mumkin (potential) kahanion (narratives) mein se sirf ek chunein.
+
+**The Lesson (Sabaq) The Escape (Faraar/Bhagna) The Revenge (Badla) The Negotiation (Samjhota/Baat-cheet) The Breakup (Rishta Tootna) The Injury (Chot) The Stake Out (Nazar Rakhna) The Dance (Raqs) The Triumph (Jeet) The Advance (Aage Badhna) The Envious (Hasad/Jalan) The Tragedy (Haadsa) The Contest (Mukabla) The Outrage (Shadeed Gussa)**
+
+Pehle, humne Pike ki class ke dusre project, *A Short Comic Event*, ke baare mein padha tha, jise John Hendrix ne design kiya tha. Semester ka chautha (4th) aur aakhiri project, *Figures & Stories*, students ko Pike ki taraf se di gayi narratives (kahanion) ki ek list mein se kisi ek ko chun kar ek narrative editorial piece illustrate (khenchna/tasveer mein bayan) karne ka kehta hai (dekhein aglay safhay (page) ka ooper hissa). Main ek class mein gaya jahan students pinup critiques (deewar par laga kar jaiza lena) kar rahe the. Pehle student ne "The Escape" narrative chuna tha. Usne deewar par apne das (10) chote draft sketches, jinhe *thumbnails* kaha jata hai, lagaye the. Pinup ke baad, student ko in das mein se ek chunna tha jiske baad wo is assignment ke agle hisse par kaam karta. Student ne yeh kehna shuru kiya, "Mujhe inmein se koi bhi pasand nahi hai. Yeh sab ajeeb tarah se (kind of, like), boring aur baghair kisi asar (uninspired) ke hain." Yeh Pike ke liye poori class ke samne ek zaroori (important) baat rakhne ka ek badiya mauka tha:
+
+*Jab aap pinup karte hain aur aapko is khayal ke sath shuruat karni padhti hai ki "yeh sabhi bekar (suck) hain," toh aap kya karte hain? Aap isse bahar kaise nikalte hain? Aapko us point se aage badhne ke liye ek plan (strategy) chahiye. Thumbnails sirf shuruat hain. Hum hamesha koshish karte hain ki bahut saare thumbnails banayein, taaki hamare paas bahut saare potential (mumkin) ideas hon, jisse ek idea se doosre ideas janam lein (suggest other ideas). Yahan tak ki bure ideas (bad ideas) se bhi behtar ideas (better ideas) nikal sakte hain. Thumbnail stage par, yeh sab mumkin sone ki khan (potential goldmines) ho sakte hain, ya nahi. Aap escape (bhagne) ke topic (theme) ke sath jude reh sakte hain, isme chhote janwar shamil karke Bee Horror Show bana sakte hain, jaise Peter Rabbit Farmer McGregor se bach ke bhag raha ho. Wo un par rocket-propelled grenades chala raha ho sakta hai. Mera matlab hai, aap isey kisi bhi cheez mein badal (turn) sakte hain jo aap chahein. Lekin is stage par problem ka ek hissa apnay hi ideas ko baar-baar parkhna (awful self-editing) hai. Apnay ideas ko baar-baar mat parkho (Don't self-edit). Is muqaam par (At this stage of the game), khud ko judge (self-editing) karna ek bahut, bahut, bahut buri cheez hai.*
+
+Thodi behes (discussion) ke baad, is student ne us thumbnail ko chuna jisme do log ghod-sawari karke ek azdaha (giant monster) se bhag rahe the. Aakhri lamhe mein (At the last minute), usay us azdahe ko pachaas (50) foot ooche Peter Rabbit mein badalne ka idea aaya jiska sketch usne ek alag thumbnail mein banaya tha.
+
+Phir class ne doosre student ke banaye 10 thumbnails ko dekha, jisne "The Envious (Hasad)" ko chuna tha. Uske thumbnail sketches mein shamil the:
+
+* Do judwa (twins) aapas mein behan bhai ki hasad (sibling rivalry) kar rahe hain
+* Teen bhai behen (siblings), jismein bada aur chhota mil kar beech walay bacche (middle child) ke khilaf team bana rahe hain
+* Ek tasveer jismein ek aurat ko shadi ke liye poocha (proposed) ja raha hai, aur peechay khari ek aur aurat ussi aadmi se be-tahasha mohabbat karti hai
+* Ek patli (skinny) ladki sheeshe mein khud ko dekh rahi hai aur ek moti (bigger) ladki usay dekh rahi hai
+* Ek ladki apne locker ke paas khadi hai, jahan ek khubsurat ladka (cute guy) uski taraf haath hila (waving) raha hai, lekin asal mein wo uske peechay khadi kisi aur ladki ko haath hila raha hai
+* Ek aesa shakhs jiske paas bahut zyada paisa hai, jo sadak par chal raha hai
+* Ek student jo ek teacher ko pasand (crush) karti hai aur phir teacher ki patni classroom mein dakhil hoti hai
+
+Thodi baat-cheet ke baad, usne behan bhai ki hasad (sibling rivalry) wala theme chuna. Pike ne kaha, "Aaj, tum isay gehrai se (in depth) explore (khoj/analyze) karoge. Behan bhai ki hasad par 10 ideas."
+
+Teesre student ne "The Revenge" chuna tha. Uske pasandeeda sketch ka idea uss waqt se juda tha jab uska ek dost concert mein kisi jhagde mein pad gaya tha. Lekin jaise hi wo apna sketch bayaan karne laga, yeh saaf hone laga ki story intahai pechida (too complex) hai, jo ek aasan do-rang (two-color) wali illustration mein puri nahi aa sakti:
+
+*Mera ek dost concert mein gaya. High school ke ek ladke ne socha ke usne uska wallet chura liya hai toh us high school kid ne mere dost ke muh par punch maara, phir mere dost ne usay gaali di aur wahan se bhaag gaya. Ye sab andar chal raha tha, phir wo kisi na kisi tarah (somehow) bahar footpath (sidewalk) par pohnch gaye, wahan meri ek dusri dost apni car me aai aur boli, "Jaldi! Andar baitho!"*
+
+Student ne qissay (episode) ki thodi aur details dena shuru kar di; kahani aur bhi zyada confusing (uljhan mein dalne wali) hoti ja rahi thi. Pike ne jawab (responded) diya:
+
+*Ye ek pechida satah (complicated scenario) hai. Tumhein ek waqay (moment) par focus karne ki zaroorat hai. Yeh ghalatfehmi (mistaken identity) hai. Kya hum punch dekhne wale hain ya punch se pehle ka waqt? Kya hum gaadi aate dekhenge? Kya sabse zaroori (important) hai? Kon si information jan-na zaroori hai? Kon si rasta (direction) sabse umeed afza (promising) lag rahi hai? Humme jaan na hoga ke hum us pechida kahani ka kon sa hissa dikhane walay hain. Class me aaj, mujhe das (10) aese thumbnails chahiye jo is ko explore (kholay/soch-wichar karay).*
+
+Jab sabhi students ne apna critique (jaiza) khatam kar liya, unhone khamoshi se kaam karna shuru kiya aur das (10) naye sketches banaye. Baad mein, Pike ne mujhe bataya ki kuch students class ke dauran das thumbnails pure nahi kar paye, kyunki unhone har ek sketch par bohot zyada waqt barbad (spent too much time) kar diya tha. Wo iski ummeed hi (expecting) kar rahe the; yeh hamesha hota hai. Pike ke das thumbnails maangne ki ek wajah students ko tez (quickly) kaam karne par majboor (force) karna hai. Isse unhe kisi ek tasveer par zyada waqt lagane se bachaya jata hai. Unki buniyadi fitrat (instinct) yeh hoti hai ki wo shuru mein hi ek badiya (single great idea) idea par focus karein; assignment constraints is aadat ko khatam (block) karti hain aur iski jagah process par zyada dhyan (focus) mangti hain. Is time constraint (waqt ki bandish) ka ek aur fayda yeh hai ki students ko un cheezon par focus karna padta hai jo *sach mein (needs)* tasveer mein honi chahiye. Agar wo kisi tasveer par bohot waqt kharch kareinge, toh wo bohot zyada pechida (complicated) ban jayegi. Pike ke colleague Arny Nadler ne bhi ek aesi hi misaal (assignment) batayi, jo unhone apni sculpture (moti-saji) class me di thi: Students ko limits (quota) di jayein taki wo kisi ek par bhi bohot zyada dhyan na laga sakein. Unhone explain (wazahat) kiya:
+
+*Pehle sculpture ki class me hamare paas samaan aur mavad (materials) ka ek bada dher hota tha. Aur tum sirf wohi bekaar cheezein (crap) istemal kar sakte the jo tum uss kamre (room) me paate the. Tumhe Monday ko ek piece bana kar dikhana hota tha, phir har aane wale din ek naya piece banate, aur Friday ko main un sab (5 pieces) ka review (muaayina) leta. Aisi pabandiyon (deadlines) me tumhe yeh sooliyat (luxury) nahi milti thi ki tum farigh beth kar khayalon (navel-gazing) me gum raho. Aakhir mein, agar paancho (5) bekaar the, toh theek hai. Lekin das (10) me se nau (9) dafa, uss safar (process) me koi cheez zaroor umeed ki kiran (spark) de jati.*
+
+### **Naye (Creative) Ideas Ki Tadat (Range) Bahrana**
+
+Ab aapki baari hai. Aglay das (10) second mein, paanch (5) kism ke jaanwaron (animals) ke naam lein. Main aapke liye "cat (billi)" se shuruat karta hoon.
+
+*Paanch jaanwaron ke baare mein sochne ke liye thoda thehrein (Pause).*
+
+Nahi, waqayi! Padhna jaari rakhne se pehle paanch jaanwaron ke baare mein sochein . . .
+
+Kya aapne soch liya? Yahan mera andaza (prediction) hai: Aapki list mein sirf wo jaanwar hain jinke chaar (4) pair hain. Aapne shayad keedon (worms), machliyon (fish), ya machharon (mosquitos) ke baare mein nahi socha hoga. Kisi ek khas daira (narrow conceptual range) ke andar hi rehna, ye har insaan ki zahni aadat (cognitive instinct) hoti hai. Yeh baat tab aur zyada asar karti hai agar aapko pehle koi misaal (example) de di jaye; kyunki maine "cat" kaha, toh aapke dimaag mein chaar pairon wale doodh pilane wale jaanwar (mammals) aane ke liye taiyar (primed) ho gaye. Idea generation (Naye ideas paida karna) tab aur zyada creativity lata hai jab ideas ek doosre se bahut alag hon. Art aur design ke naye (beginning) students bhi wahi dimaagi aadat (cognitive habit) rakhte hain jo hum sab mein hoti hai: unke ideas sirf kuch aam (core) concepts ke ird-gird hi rehte hain. Aisa hone se rokne ke liye, assignments mein aesi rukawatein (constraints) rakhi jati hain jo students ko alag-alag (broader range) ideas paida karne mein madad karti hain. Tasavvur (Imagine) karein agar main aapse paanch jaanwaron ke baare mein sochne ko kehta, lekin sath mein yeh bhi kehta ki "koi bhi chaar pairon wala jaanwar nahi."
+
+John Hendrix aksar apne illustration students ko kam se kam teen (3) sketches ya drafts laane ka kehte hain, aur unhe ek dusre se jitna mumkin ho sake alag (different) banane ke liye, unhe "bilkul ulat (polar opposite)" sochne ka mashwara (advises) dete hain:
+
+*Hum wusat (range) par bohot zyada zor (stress) dete hain. Agar aap koi idea bana rahe hain aur aapko lagta hai ki yeh ek bahut hi mazboot (solid) idea hai, toh yeh ek aam baat (tendency) hoti hai ki aap ek aesa idea banayenge jo kafi milta julta ho, lekin thodi variation (fark) ke sath. Isliye hum ye kehte hain, "Okay. Us idea mein jo cheez kaam kar rahi hai use lein aur bilkul ulat (polar opposite) ki taraf jayein. Jaise abhi, yeh scale shift (size badalne) ki wajah se kaam kar raha hai, yani koi cheez badi hai aur kuch chhoti hai." Toh main poochta hoon, "Kya hoga agar tum use ulat (reverse) do? Ya kya hoga agar tum us visual metaphor (dikhnay wali misaal) ke liye kisi doosre object ko rakh (substitute) do?" Hum sach mein jitna ho sake utni wusat (range) haasil karne ki koshish karne par hosla (encourage) badhate hain. Unhe shuru mein yeh itna acha nahi aata, aur yeh ek aesi jagah hai jahan aap sach mein student ke kaam ko professional ke kaam se alag dekhte hain: unke ideas mein wusat (range) paida karne ki kabiliyat.*
+
+Pike ki illustration class mein, maine unhe ek student ko yeh advice dete hue suna: "Khud ko is sasti susti (doldrums) se nikalne (snapping ourselves out) ka ek tareeqa yeh hai ki hum iske ulat (opposite) ka tasavvur (imagine) karein. Ek cheez ki jagah doosri cheez ko badalna (substituting) aksar kafi acha kaam karta hai."
+
+**Professional artists aur designers ne ek apna khusoosi (recognizable personal) style bana liya hai, lekin iska yeh matlab nahi ki unhone apni wusat (range) ko mehdood (limiting) kar diya hai. Jab students kisi professional ka kaam dekhte hain aur unki aawaz (visual voice) ko pehchante hain, toh wo yeh sochte hain ki professionals ki creativity mein kami (narrow) aagayi hai. Lekin John Hendrix ka man-na hai ki tajurbekar professionals (experienced professionals) ke paas waqayi mein ek behtareen (greater) wusat (range) hoti hai: "Bhale hi unka point of view zyada theek (concise) ho, unki sochne ki wusat (range of thinking) aam taur par bahut zyada broad (chaudi) hoti hai. Soch mein badi wusat aam taur par wo cheez hoti hai jo lambe arse tak cultivate (tayar) ki jati hai."**
+
+Students ko zyada options (possibilities) generate (paida) karne mein madad karne ke liye, kai professors in do steps wale assignment structure ka istemal karte hain:
+
+* Class 1. Students se ek tay shuda ginti (specific number) ki ideas ya possibilities banayein, aur agali class mein sath lekar aane ko kahen.
+* Class 2. Jab wo ideas lekar aayein, toh unse kehein ki har ek idea le kar uska bilkul ulat (polar opposite) karein.
+
+Yeh aur zyada behtareen tareeqe se kaam karta hai jab students pehla step karte hue yeh na jante hon ki unhe baad mein uska ulat bhi karna hoga.
+
+Beth Grabowski (UNC) is assignment structure ka istemal isliye karti hain taaki wo students ki "yeh jan-ne mein madad kar sakein ki unke apne dimaagi (biases) kya hain, aur unki apni pasand (aesthetic) kya hai. Meri kai classes mein, khas taur par shuruati classes mein, mera maqsad (what I do) yeh hota hai ki students ko unke khud ke mizaaj (aesthetic temperament) ya unki pasand (aesthetic preference) ko samajhne (understanding) mein madad karun, aur usay challenge karu ya isme izaafa (grow that change) karu." Wo kuch aam taur par paye jane wale polar opposites ko bayaan (describes) karti hain: "Ek khoobsurat (beautiful) cheez banane ki bajaye ek gandi (ugly) cheez banana, ya ek bohot hi choti (miniature) cheez banana aur phir ek bohot hi badi (huge) cheez banana, chahe wo bilkul ulat he kyun na ho. Ye bilkul ek mukhtasar raasta (shorthand) hai is baatcheet ka ki hum structure (dhancha) aur roop (form) mein kis tarah maani (meaning) ko daalte hain."
+
+Kisi student ka ulat (opposite) kaam karna khusoosan us waqt behtar kaam aata hai jab wo kisi muqaam par atak gaye hon (stuck). Varland, SCAD ke ek architect, ne mujhe bataya, "Ek niyam (motto) hai jise hum mein se kai professors istemal karte hain: Agar aap phas (stuck) jate hain, toh kuch aur try karein. Jo aap kar rahe hain use chhod (stop) dein, aur kisi nayi taraf mudh (shift) jayein. Apna waqt zaya (waste) na karein. Main students se kehti hoon ki unhone jo thesi (khayal) bunayi hai, uska bilkul ulat (antithesis) karein aur use samajhne ki koshish karein. Yeh dhoondhne ke liye ki usme kaunsi aesi khamiyan (holes) hain jo unhe agay bharnay nahi de rahin."
+
+Chapter 2, "Materials" mein, maine SCAD ke ek sculpture professor ke baare mein ek kahani sunai thi jise, apne career ke aaghaz (early in his career) mein, yeh laga tha ki usne apna ek anokha tareeqa (teaching technique) ijad (invent) kiya hai. Unhone saalo baad (years later) seekha ki kai dusre professors bhi aesi (similar) he practices apnate hain. Iska main idea yeh tha ki students kisi material ko uski asal halat (usual context) se hata den (displace). Yeh student ko uksati (jostles) hai kyunki yeh material ke maino (connotations) ko poori tarah tabdeel (changes) kar deti hai. "Yeh sikhana bohot aasan (very simple) hai. Misaal ke taur par, aap nails (keelon) se hammer (hathora) bana sakte hain." Ek dusri technique jo wo apne sculpture students ke sath istemal karte hain, wo yeh hai ki pehle wo unse ek *additive* sculpture banane ko kehte hain, jiska matlab hai, misaal ke taur par, ki aap clay (mitti) se shuru karte hain aur ise object ka aakar (shape) dete hain. Phir wo unse usi sculpture ko ek *subtractive* technique ka istemal karke banane ko kehte hain, jiska matlab hai ki aap stone (patthar) ke ek block se shuru karte hain aur aap isey tab tak tarashte (carve) hain jab tak ki aapka object nazar (appears) nahi aa jata. "Main aisa isliye karta hoon taaki unka dimaag badla (switch) ja sake. Yeh soch kar unhe mushkil hoti hai, magar ajeeb tor par bohot faydemand hai. Jab student isay model karne se le kar, tarashne par aate hain toh unka un cheezon ke hawale se, zehan puri tarah tabdeel ho jata hai. Unka is nateejay par pohnchna ke waqai aesa mumkin hai. Is cheez ne ek object ke, hawa mein tayrnay ke amal (form in space) ko bilkul double kardiya, sirf ek project se. Ye wakei waqai heran kun (amazing) hai."
+
+### **Jab Aapko Constraints ki Zaroorat Nahi Rehti (When You No Longer Need Constraints)**
+
+BFA program ke har saal ke sath, jaise-jaise students creative practice mein engage hona seekhte hain, wo seekhte hain ki dheema (slow down) kaise hona hai aur ek deliberate (soche-samjhe) process mein kaise engage hona hai. Unhe successful hone ke liye itni zyada constraints ki zaroorat nahi hoti. BFA program ke teesre aur chauthe saal mein, projects lagatar zyada open ended (khule) hote jate hain aur inme kaam ke lambe periods (waqt) aur kam constraints (rukawatein) hoti hain. Kabhi-kabhi ek hi project poora semester le leta hai.
+
+Teesre saal tak, students kam constraints ke sath kaam karne ke liye taiyar (ready) hote hain. Amy Thompson (book arts, WashU) kehti hain ki "ek naya student (freshman) ya doosre saal ka student (sophomore) ko zyada constraints ki zaroorat ho sakti hai, jabki ek junior ya senior ko kam constraints ki zaroorat ho sakti hai, bas isliye ki ek project thoda aur openended ho sake. Bade (Older) students ise chhote (younger) students se thoda behtar dhang se handle (sambhal) kar sakte hain." Lisa Bulawsky, WashU mein ek artist, teesre aur chauthe saal ke students ko padhati hain. Jis tareeqe se wo apna course design karti hain, "unka 80 percent kaam selfdetermined (khud tay kiya hua) hota hai." Lekin in advanced students ko bhi kuch constraints se fayda (benefit) hota hai; semester ke shuru mein, wo unhe shuruat (started) karne ke liye ek-hafte ka project deti hain. "Bas isliye ki wo apni azaadi (freedom) ki waja se ghabra na jayein (paralyzed)."
+
+Assignment constraints kisi bhi artist ya designer ki education mein ek aarzi (temporary) qadam hote hain. Pehle aur doosre saal ke students ko in supports ki bohot zyada zaroorat (need) hoti hai, lekin aakhiri maqsad (goal) students ko aesi manzil (place) par pahunchana hota hai jahan wo baghair kisi bahari maddad (support) ke apna khud ka creative process chala sakein. Cheryl Wassenaar, WashU ki ek painter aur sculptor, ne isey kuch is tarah bayaan (put it this way) kiya:
+
+*Yahan unke 4 saal poore hone ke baad, wo khud ke bose hain (on their own). Aap asaan shabdon mein baag dhorr (reins) unke haath mein sonp dete hain. Ab wo khud he apne taya karda rules (parameters) ko structure (tartiib dena) dete hain, wo apne khud ke sawalaat puchte (questions) hain aur inko set karte (structure) hain, aur is silsilay (method) ko bhi tayaab aur set karte hain. Aur aap unhein naseehat detay hain.*
+
+---
