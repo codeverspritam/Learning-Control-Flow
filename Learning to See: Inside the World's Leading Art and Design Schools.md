@@ -4699,3 +4699,244 @@ Figure 8.7. Video still Keith Sawyer dwara. 2011. Douglas Dowd ki ijazat se.
 #### **Chapter 9**
 
 Chapter 9 mein diye gaye sabhi figures Keith Sawyer dwara usi 2011 ke video se liye gaye video stills hain. Heather Corcoran ki ijazat se.
+
+---
+
+## **Notes (Hawalay / Notes)**
+
+Sirf kuch hi exceptions (chhoot) ke ilawa, is kitab ke sabhi quotes (hawalay) mere apne interviews aur observations (mushahidaat) se liye gaye hain. Zyada-tar professors ne mujhe apna naam istemal karne ki ijazat di, aur maine unke lafzon ko unhi se mansoob (attributed) kiya hai. Unhe Acknowledgments (Shukriya) mein list kiya gaya hai. Kuch professors ne gumnam (anonymous) rehna pasand kiya. Jab main unhe quote karta hoon, toh main aam taur par unka hawala is tarah deta hoon, misaal ke taur par, “ek advertising professor.”
+
+#### **Introduction (Parichay)**
+
+* 18 ***Teaching illustration***: Heller and Arisman (2006).
+* 18 ***Design school confidential***: Heller and Talarico (2009).
+* 20 **Picasso**: Pablo Picasso, Brassaï (1999) mein quoted, 66.
+
+#### **Chapter 1**
+
+* 44 ***The education of an illustrator***: Heller and Arisman (2000).
+* 47 **creativity ka *linear insight* (seedha khayal aane ka) nazariya**: Sawyer aur Henriksen (2024) is research ka khulasa (summarize) karte hain jo dikhati hai ki sabse asardaar (effective) creative process mein ek insight (khayal) se lekar execution (pura karne) tak ke seedhe raste ke bajaye improvisational action (mauqe par uthaye gaye qadam) shamil hota hai. Artists aur designers ke kaam karne ke processes ki studies ne paya hai ki wo ek iterative (dohranay wale) process mein shamil hote hain (Halverson, 2013), aur yeh ki creativity un chote ideas mein basti (resides) hai jo is process ke dauran aksar aate rehte hain (misaal ke taur par, Cross, 2011; Mace and Ward, 2002; Sawyer, 2018b).
+* 51 **Eva Sutton**: Eva Sutton, Somerson aur Hermano (2013) mein quoted, 211.
+* 54 ***Conversations with Picasso***: Pablo Picasso, Brassaï (1999) mein quoted, 66.
+* 60 **Art aur design school ka maqsad (The goal of art and design school)**: Process par yeh pedagogical (seekhne-sikhane wala) focus Bauhaus aur Basic Design se shuru hua: “Basic Design movement ne technique par aadharit (based) hidayat aur teaching se hat kar ek aesi zehni talash (intellectual quest) ki taraf rukh kiya jisne artists ke ideas aur sochne ke processes ko uske Bauhaus predecessor (pichle) ke muqable ek jesi aur anokhi ahmiyat di. . . . Process ko aakhiri product (end product) se zyada ehmiyat di gayi” (Daichendt, 2010, 133). Kai asardaar (influential) design educators design process ki iterative aur cyclical (gol ghoomne wali) fitrat (nature) par zor dete hain (Cross, 2011; Davis, 2017; Lawson, 1990).
+
+#### **Chapter 2**
+
+* 84 **Ken Botnick**: Ken Botnick, Stewart (2002) mein quoted, 3–21.
+* 89 **Tim Ingold**: Ingold (2013), 22.
+* 91 **Tom Friedman ki "kisi object se poochne ke liye 200 sawalo" ki list (Tom Friedman's list of “200 questions to ask an object”)**: Hainley et al. (1990).
+* 95 **creativity ki action theory (the action theory of creativity)**: Sawyer and Henriksen (2024), 95–96.
+* 95 **phaila hua dimaag (the extended mind)**: Paul (2021).
+* 96 **“deskilling (hunar khatam karna)”**: Houghton (2016); Roberts (2007).
+* 97 **Zyada-tar fields (domains) mein expert performance ke liye bahut zyada baar-baar practice (repetitive practice) ki zaroorat hoti hai**: Zyada-tar domains mein expert performance ke liye bahut zyada repetitive practice ki zaroorat hoti hai, aur zyada-tar knowledgeintensive (gayan se bhari) professions ke liye yeh zaroori hota hai ki facts aur skills ke ek bade hisse par maharat (mastered) hasil ki jaye (Ericsson, 2002).
+
+#### **RECOMMENDED READING (Padhne ke liye Sujhaav)**
+
+Buchman (2021).
+
+#### **Chapter 3**
+
+* 108 **Paul Ekman**: Ekman (1985).
+* 116 **Creativity par research karne wale ise *problem finding* (problem dhoondhna) kehte hain**: Sawyer and Henriksen (2024).
+* 122 **Unki chhattis-page (36-page) ki MFA thesis**: Victore (2010).
+* 122 **Pragmatist philosopher G. H. Mead**: Mead (1932), 2.
+* 123 **“Mujhe kisi artist ke iradon (intentions) ki parwah nahi hai. Mujhe is baat ki parwah hai ki kaam aesa lagta hai ki iske kuch nateeje (consequences) ho sakte hain”**: Dave Hickey, Thornton (2008) mein quoted, 54.
+* 125 **1934 mein, Dewey ne yeh shabd likhe the**: Dewey (1934), 138–139, 214.
+* 126 **1938 mein, aesthetic philosopher R. G. Collingwood**: “Paint ki gayi tasveer art ka kaam nahi hai” (Collingwood, 1938, 305).
+* 131 **Art critic Dave Hickey**: Hickey, Liese (2014) mein quoted.
+* 132 **Cardenas ke kaam ke baare mein yeh likha (wrote this about Cardenas's work)**: Tamarkin (2012).
+* 135 **Sculptor Louise Bourgeois**: Bourgeois (1954), 18.
+
+#### **RECOMMENDED READINGS (Padhne ke liye Sujhaav)**
+
+Fine (2018). Rose (2022). Dewey aur Collingwood par Sawyer (2000). MFA student ke thesis creation process par Sawyer (2016).
+
+#### **Chapter 4**
+
+150 **productive failure (faydemand nakaami)**: Kapur and Bielaczyc (2012).
+152 **Agar learners bahut jaldi haar maan lete (give up) hain, toh productive failure designs kaam nahi karte**: Kapur (2008).
+
+#### **RECOMMENDED READING (Padhne ke liye Sujhaav)**
+
+Sawyer (2018a).
+
+#### **Chapter 5**
+
+* 179 **Mid-twentieth-century ka Bauhaus school**: Yeh idea ki art education dekhna seekhne ka mamla hai, Bauhaus se juda (associated) hai; Josef Albers ne, 1933 mein Black Mountain College mein, kaha tha ki unka maqsad students ki “aankhein kholna (open the eyes)” tha (Saletnik, 2022, 143). James Elkins ne, yeh bahas karte hue ki art school zyada kuch nahi sikhata, is baat ko tasleem (acknowledged) kiya ki isne unhe dekhna sikhaya (2001, 103).
+* 180 **Itten's Basic Course**: Itten (1964).
+
+#### **RECOMMENDED READINGS (Padhne ke liye Sujhaav)**
+
+Goodwin (1994). Schon and Wiggins (1992).
+
+#### **Chapter 6**
+
+195 ***problem finding (problem dhoondhna)***: Sawyer and Henriksen (2024)
+
+215 ***divergent thinking (alag-alag sochna)***: Sawyer and Henriksen (2024).
+
+* 220 **Kisi ek khas daira (narrow conceptual range) ke andar hi rehna, ye har insaan ki zahni aadat (cognitive instinct) hoti hai**: Sawyer and Henriksen (2024).
+
+#### **RECOMMENDED READING (Padhne ke liye Sujhaav)**
+
+Costello and Keane (2000). Moreau and Dahl (2005).
+
+#### **Chapter 7**
+
+* 234 ***What the best college teachers do***: Bain (2004).
+
+247 ***Design school confidential***: Heller and Talarico (2009).
+
+* 247 ***Draw it with your eyes closed***: Paper Monument (2012).
+* 247 ***The education of an illustrator***: Heller and Arisman (2009).
+
+#### **RECOMMENDED READINGS (Padhne ke liye Sujhaav)**
+
+Sawdon and Marshall (2015). Sawyer and Henriksen (2024).
+
+#### **Chapter 8**
+
+261 ***problem finding (problem dhoondhna)***: Sawyer and Henriksen (2024).
+
+#### **RECOMMENDED READINGS (Padhne ke liye Sujhaav)**
+
+Ambrožič and Vettese (2013). Sawyer (2021b).
+
+#### **Chapter 9**
+
+* 292 ***Make to know***: Buchman (2021).
+* 292 ***The illusion of independent agency (Azaad ikhtiyar ka weham)*** [is paragraph ke aakhir tak]: Taylor et al. (2002– 2003).
+* 295 **Juhani Pallasmaa**: Pallasmaa (2009), 111.
+* 301 ***aspect***: Binnick (1991).
+* 303 **Imperfective aspect verbs ke sath aane wale ishaaray (Gestures that accompany imperfective aspect verbs)**: Duncan (2002).
+* 308 **Kelly Dobson**: Somerson and Hermano (2013), 139.
+
+#### **RECOMMENDED READING (Padhne ke liye Sujhaav)**
+
+Sawyer (2021a).
+
+#### **Conclusion (Nateeja)**
+
+* 313 **James Elkins**: Elkins (2001), 99.
+
+#### ..........
+
+## **References (Hawalajaat)**
+
+*(Translators Note: The following references are standard academic citations and are kept in their original English format to preserve their accuracy and searchability for research purposes.)*
+
+Ambrožič, M., & Vettese, A. (Eds.). (2013). *Art as a thinking process: Visual forms of knowledge production* . Sternberg Press.
+
+Bain, K. (2004). *What the best college teachers do* . Harvard University Press.
+
+Bamberger, J., & Schön, D. A. (1983). Learning as reflective conversation with materials: Notes from work in progress. *Art Education* , *36* (2), 68–73.
+
+Binnick, R. I. (1991). *Time and the verb: A guide to tense and aspect* . Oxford University Press.
+
+Bourgeois, L. (1954). Louise Bourgeois. *Design Quarterly* , *30* , 18.
+
+Brassaï. (1999). *Conversations with Picasso* . University of Chicago Press.
+
+Buchman, L. M. (2021). *Make to know: From spaces of uncertainty to creative discovery* . Thames & Hudson.
+
+Collingwood, R. G. (1938). *The principles of art* . Oxford University Press.
+
+Costello, F., & Keane, M. (2000). Efficient creativity: Constraint-guided conceptual combination. *Cognitive Science* , *24* (2), 299–349.
+
+Cross, N. (2011). *Design thinking: Understanding how designers think and work* . Berg.
+
+Daichendt, G. J. (2010). *Artist teacher: A philosophy for creating and teaching* . University of Chicago Press.
+
+Davis, M. (2017). *Teaching design: A guide to curriculum and pedagogy for college design faculty and teachers who use design in their classrooms* . Allworth Press.
+
+Dewey, J. (1934). *Art as experience* . Perigree Books.
+
+Duncan, S. D. (2002). Gesture, verb aspect, and the nature of iconic imagery in discourse. *Gesture* , *2* (2), 183–206.
+
+Ekman, P. (1985). *Telling lies: Clues to deceit in the marketplace, politics, and marriage* . Norton.
+
+Elkins, J. (2001). *Why art cannot be taught: A handbook for art students* . University of Illinois Press.
+
+Ericsson, K. A. (2002). Attaining excellence through deliberate practice: Insights from the study of expert performance. In M. Ferrari (Ed.), *The pursuit of excellence in education* (pp. 21–55). Erlbaum.
+
+Fine, G. A. (2018). *Talking art: The culture of practice and the practice of culture in MFA education* . University of Chicago Press.
+
+Goodwin, C. (1994). Professional vision. *American Anthropologist* , *96* (3), 606–633.
+
+Hainley, B., Cooper, D., & Searle, A. (1990). *Tom Friedman* . Phaidon Press.
+
+Halverson, E. R. (2013). Digital art-making as a representational process. *Journal of the Learning Sciences* , *23* (1), 121–162.
+
+Heller, S. (Ed.). (2017). *Teaching graphic design* . Allworth Press.
+
+Heller, S., & Arisman, M. (Eds.). (2000). *The education of an illustrator* . Allworth Press and The School of Visual Arts.
+
+Heller, S., & Arisman, M. (Eds.). (2006). *Teaching illustration: Course offerings and class projects from the leading graduate and undergraduate programs* . Allworth Press.
+
+Heller, S., & Talarico, L. (2009). *Design school confidential: Extraordinary class projects from international design schools* . Rockport Publishers.
+
+Houghton, N. (2016). Six into one: The contradictory art school curriculum and how it came about. *International Journal of Art and Design Education* , *35* (1), 107–120.
+
+Ingold, T. (2013). *Making: Anthropology, archaeology, art, and architecture* . Routledge.
+
+Itten, J. (1964). *Design and form: The basic course at the Bauhaus* . Reinhold Publishing Corporation. (Originally published as *Mein Vorkurs am Bauhaus. Gestaltungs- und Formenlehre* . 1963. Otto Maier Verlag.)
+
+Kapur, M. (2008). Productive failure. *Curriculum and Instruction* , *26* (3), 379–424.
+
+Kapur, M., & Bielaczyc, K. (2012). Designing for productive failure. *Journal of the Learning Sciences* , *21* , 45–83.
+
+Lawson, B. (1990). *How designers think* . 2nd ed. Butterworths.
+
+Liese, J. (2014). Toward a history (and future) of the artist statement. *Paper Monument* 4. Retrieved August 22, 2023, from [https://www.papermonument.com/post/toward-a-history-and-future-of-the-](https://www.papermonument.com/post/toward-a-history-and-future-of-the-?utm_source=gemini) artist-statement
+
+Mace, M. A., & Ward, T. (2002). Modeling the creative process: A grounded theory analysis of creativity in the domain of art making. *Creativity Research Journal* , *14* (2), 179–192.
+
+Mead, G. H. (1932). *The philosophy of the present* . University of Chicago Press.
+
+Mead, G. H. (1934). *Mind, self, and society* . University of Chicago Press.
+
+Moreau, C. P., & Dahl, D. W. (2005). Designing the solution: The impact of constraints on consumers’ creativity. *Journal of Consumer Research* , *32* (1), 13–22.
+
+Pallasmaa, J. (2009). *The thinking hand: Existential and embodied wisdom in architecture* . Wiley. Paper Monument. (Ed.). (2012). *Draw it with your eyes closed: The art of the art assignment* . n+1 Foundation, Inc.
+
+Paul, A. M. (2021). *The extended mind: The power of thinking outside the brain* . Mariner Books.
+
+Roberts, J. (2007). *The intangibilities of form: Skill and deskilling in art after the readymade* . Verso Books.
+
+Rose, S. (2022). *Interpreting art* . University College Press.
+
+Saletnik, J. (2022). *Josef Albers: Late modernism and pedagogic form* . University of Chicago Press. Sawdon, P., & Marshall, R. (Eds.). (2015). *Drawing ambiguity: Beside the lines of contemporary art* . Bloomsbury.
+
+Sawyer, R. K. (2000). Improvisation and the creative process: Dewey, Collingwood, and the aesthetics of spontaneity. *Journal of Aesthetics and Art Criticism* , *58* (2), 149–161.
+
+Sawyer, R. K. (2016). How artists create: An empirical study of MFA painting students. *Journal of Creative Behavior* , *50* (1), 1–19.
+
+Sawyer, R. K. (2018a). The role of failure in learning how to create. *Thinking Skills and Creativity* , *33* , 1–10. [https://doi.org/10.1016/j.tsc.2018.08.002](https://doi.org/10.1016/j.tsc.2018.08.002?utm_source=gemini)
+
+Sawyer, R. K. (2018b). Teaching and learning how to create in schools of art and design. *Journal of the Learning Sciences* , *27* (1), 137–181.
+
+Sawyer, R. K. (2019). *The creative classroom: Innovative teaching for 21st-century students* . Teachers College Press.
+
+Sawyer, R. K. (2021a). The dialogue of creativity: Teaching the design process by animating student work as a collaborating creative agent. *Cognition and Instruction* , *40* (4), 459–487. [https://doi.org/10.1080/07370008.2021.1958219](https://doi.org/10.1080/07370008.2021.1958219?utm_source=gemini)
+
+Sawyer, R. K. (2021b). Teaching creative thinking: How design professors externalize their creative thinking in studio classroom talk. *Mind, Culture, and Activity* , *29* (1), 21–42. [https://doi.org/10.1080/10749039.2021.1893337](https://doi.org/10.1080/10749039.2021.1893337?utm_source=gemini)
+
+Sawyer, R. K. (Ed.). (2022). *The Cambridge handbook of the learning sciences* . 3rd ed. Cambridge University Press.
+
+Sawyer, R. K., & Henriksen, D. (2024). *Explaining creativity: The science of human innovation* . 3rd ed. Oxford University Press.
+
+Schon, D. A., & Wiggins, G. (1992). Kinds of seeing and their functions in designing. *Design Studies* , *13* (2), 135–156.
+
+Somerson, R., & Hermano, M. L. (Eds.). (2013). *The art of critical making: Rhode Island School of Design on creative practice* . Wiley.
+
+Stewart, M. (2002). *Launching the imagination: A comprehensive guide to basic design* . McGrawHill.
+
+Tamarkin, N. (2012). Nicholas Tamarkin on Lauren Cardenas. In *MFA 2012 thesis exhibition* (pp. 18–19). Sam Fox School of Design & Visual Arts. [https://issuu.com/samfoxschool/docs/sfs_mfa12](https://issuu.com/samfoxschool/docs/sfs_mfa12?utm_source=gemini)
+
+Taylor, M., Hodges, S., & Kohïni, A. (2002–2003). The illusion of independent agency: Do adult fiction writers experience their characters as having minds of their own? *Imagination, Cognition, and Personality* , *22* (4), 361–380.
+
+Thornton, S. (2008). *Seven days in the art world* . W. W. Norton.
+
+Victore, L. (2010). *A beautiful demise* [unpublished MFA thesis]. Savannah College of Art and Design. Savannah, GA.
+
+#### ..........
