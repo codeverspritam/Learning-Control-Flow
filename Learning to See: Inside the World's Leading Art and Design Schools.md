@@ -4450,3 +4450,252 @@ Bhale hi process ek dead end par pahunch jaye, professors students ko yeh nahi b
 "Working" ka imperfective aspect yeh batata (communicates) hai ki ek successful kaam bhi ruka hua (static) nahi hota, finished nahi hota, aur kabhi ek endpoint (aakhri point) nahi hota. Koi bhi insaan "ek acha kaam (a good work)" ek momentary action (kuch pal ke kaam), waqt mein ek bandhi hui (bounded) ghatna ke taur par create (paida) nahi karta. Aise waqiye (event) ko perfective aspect mein describe (bayan) kiya jayega: "Yeh acha hai (This is good)" ya "Tumne ek acha kaam kiya hai (You did a good job)." Professors shayad hi kabhi aesi baatein kehte hain, aur yeh isliye nahi hai ki wo bure (mean) hain ya unhe parwah (uncaring) nahi hai. Iske bajaye, professors ache kaam ko khud kaam (work itself) dwara liye gaye autonomous (azaad) imperfective actions ka hawala dekar describe karte hain. Ek successful kaam mein, kaam hamesha amal kar raha hota (acting) hai; yeh hamesha harkat (motion) mein hota hai. Students ko yahi sunai deta hai, shayad anjaane mein (subconsciously), jab professors kisi kaam ke baare mein imperfective aspect verbs ka istemal karke baat karte hain. Yakeenan (to be sure), "not working" hone se behtar hai "working" hona; lekin jab yeh kaam kar raha (working) hota hai, tab bhi kaam mukammal (finished) nahi hota. Process kabhi khatam nahi hota. Creativity ek zindagi bhar ki (lifetime) practice hai. Kaam kabhi khatam (done) nahi hota; process hamesha jari (continues) rehta hai; kaam hamesha ubhar raha (emerging) hota hai.
 
 ---
+
+## **CONCLUSION (Nateeja)**
+
+**"Mera khayal hai ki art schools aur art departments ko waqayi yeh samajhne ki zaroorat hai ki wo pehle se kya kar rahe hain. Hum jo karte hain uske baare mein hum bahut kam jante hain. Studio mein jo kuch bhi hota hai uska zyada-tar hissa hamare liye poori tarah an-jana (unknown) hai: isay pehchana nahi gaya (uncognized), analyse nahi kiya gaya (unanalyzed), aur na hi is par theek se socha gaya hai (unthought)."**
+
+James Elkins, *Why art cannot be taught*
+
+Hamare interview ke lagbhag ek ghante baad, New York ke ek painter Peter Hristoff, jo lagbhag chalis (40) saal se padha rahe hain, unhone mujhe bataya:
+
+*Yeh kitna bada (big) topic hai. Main is baare mein hamesha baat kar sakta hoon aur main kabhi thakunga nahi. Yahan tak ki jab main khud ko sun raha hoon, toh mujhe ehsaas hota hai ki isme khilaaf baatein (contradictions) hain, aur yeh pechida (complicated) hai, aur yeh behtareen (wonderful) hai.*
+
+Professors apni teaching ke baare mein baat karne ke liye bahut pur-josh (excited) hote hain. Mere kai interviews unke tay shuda waqt (scheduled time) se aage nikal gaye. Kisi ko bhi mujhse baat karne ki pabandi (required) nahi thi; un sabne khud (independently) faisla kiya ki mere email invitation (dawat-name) ka jawab kaise dena hai. Mujhe in successful artists aur designers ki kahanian bayan karte hue fakhar (honored) mehsoos ho raha hai jo ittefaq se (happen to be) shandaar (brilliant) teachers bhi hain. Wo apni baaton ko wazeh taur par bayan (incredibly articulate) karte hain aur jo wo karte hain usme sabse behtareen (best) hain.
+
+Yeh kitab is baare mein hai ki creative kaam kaise banta hai. Yeh chapters hamein dikhate hain ki artists aur designers cheezein kaise banate hain, wo jo kar rahe hain uske baare mein kaise sochte hain, aur unka dekhne ka anokha (unique) tareeqa (way of seeing) process ko kaise aage badhata (drives) hai. Banana (Making), sochna (thinking), aur dekhna (seeing)—yeh wo bunyadi asool (underlying essence) hai jo sabhi art aur design fields (disciplines) mein saajha (shared) hai, un sabhi baees (22) disciplines mein jinhe maine introduction mein list kiya tha.
+
+Yeh desh ke sabse behtareen professors hain. Unke paas saalo aur saalo ka tajurba (experience) hai. Wo teaching (pedagogy) ki sikharr (pinnacle) ko dikhate hain. Unhone United States ke top art aur design schools mein padhaya hai. Maine un professors ka interview liya jinhe mujhe sabse behtareen, sabse aala (exemplary) teachers ke taur par tajweez (recommended) kiya gaya tha. Yeh recommendations school ke leaders ya school ke teaching center se aaye the.
+
+Kya studio model kaam karta hai? Kya students waqayi mein dekhna seekhte hain? Kya wo ek niji tabdeeli (personal transformation) se guzarte hain? Kya wo behtar artists aur designers bante hain? Mere paas iska koi direct saboot (evidence) nahi hai. Maine student transcripts nahi dekhe aur maine in students ki kabiliyato (abilities) ke assessments (jaizay) nahi padhe. Maine yeh nahi mapa (measure) ki unke aakhiri (final) projects kitne creative the, ya graduation ke baad unke careers kitne successful rahe hain.
+
+Phir bhi, hum jante hain ki yeh pedagogy kaam karti hai. Yahan janiye ki hum yeh kaise jante hain.
+
+Pehla, jin professors se maine baat ki wo successful professional artists aur designers hain. Unme se kai ke studios, galleries, dealers, aur consultancies New York (School of Visual Arts), Los Angeles (California Institute of the Arts), ya Chicago (School of the Art Institute of Chicago) mein hain. Aapko in top institutions mein class padhane ka invite tab tak nahi milta jab tak ki aapki pehle se hi ek successful creator ke taur par reputation (pehchaan) na ho. Yeh expert, professional creators hain.
+
+Dusra, in artists aur designers ke paas successful kaam banane ke tareeqe ko lekar kafi milte-julte khayalat (conceptions) hain, jaisa ki part I ke paanch chapters mein cover (captured) kiya gaya hai: Process, Materials, Emergence (Ubharna), Failure (Nakaami), aur Seeing (Dekhna). Aapne shayad andaza (predicted) lagaya hoga ki artists ka apna anokha (idiosyncratic) tareeqa (approach) hoga ya architects illustrators se alag tareeqe se dekhte aur sochte hain. Lekin artists aur designers apne creative processes ko ek hi tareeqe se bayan (describe) karte hain, chahe wo painters hon, typeface designers hon, ya product designers. Wo sab milakar us bunyadi asool (underlying essence) ko share karte hain ki creative kaam kaise banta hai.
+
+Teesra, in artists aur designers ne kisi kitab se ya kisi school of education se padhana nahi seekha. Unhone apni pedagogy khud ijad (invented) ki aur saalo ke experiments aur iterations (dohraav) ke zariye isey behtar (refined) banaya. Aur, hairani ki baat yeh hai ki, bhale hi unme se har ek ne apni teaching khud banayi ho, lekin wo sab teaching ke ek hi andaz (style) par aakar mil gaye (converged). Part II mein, humne seekha ki wo assignments design karne ke baare mein ek hi (similar) tarah se sochte hain taaki constraint (rukawat) aur ambiguity (uljhan) ke beech ki kashmakash (tension) ko balance (santulan) kiya ja sake. Part III mein, humne seekha ki students ke sath studio critiques mein, wo wohi baatein kehte aur karte hain—aawaz nikal kar sochna (thinking out loud) aur creativity ke dialogue ki misaal (modeling) pesh karna. Wo ek hi tareeqe se padhana kaise seekh gaye? Kya wo sab ek hi galat (wrong), be-asar (ineffective) teaching par ikkathe (converged) ho sakte the? Yeh yakeen se baahar (beyond belief) hai. Is ikhatta hone (convergence) ki wahid mumkin wajah (only possible explanation) yahi hai ki studio model students ko yeh sikhane mein kaam karta hai ki dekhna, sochna, aur banana kaise hai.
+
+**Main abhi bhi apni teaching ko lekar apne aap par tanqeed (self-critical) karta hoon. Aap kabhi bhi sach mein wahan nahi hote (kamil nahi hote). Aap kabhi nahi sochte ki, oh, maine kar dikhaya (I've made it), main yeh aankhein band karke bhi kar sakta hoon. Main hamesha padhate waqt thoda ghabraya (nervous) hua hota hoon, chahe main ise kitni baar bhi kar loon. Mujhe umeed hai ki main apne baki teaching career ke liye bhi yeh ghabrahat ka chota sa hissa (tiny bit of nerves) barkarar (keep) rakhunga.**
+
+Cathy Rosamond, Art Education Department ki chair, School of Visual Arts
+
+Ek behtareen professor banna aasan nahi hai. Pehla, aapko part I ke paanch chapters mein bataye gaye process ka expert hona chahiye. Aap apni aam aur lagatar practice wale ek professional hain. Dusra, aapke paas assignments ka ek aesa silsila (repertoire) hona chahiye jo dhyan se constraint aur ambiguity ko balance karta ho, jaisa ki part II ke do chapters mein bataya gaya hai. Teesra, aap studio critiques mein students ko akele (one-on-one) guide karne mein mahir (skilled) hone chahiye, jaisa ki part III ke do chapters mein bataya gaya hai. Yeh hairani ki baat (surprising) nahi hai ki ise theek se karna seekhne mein saalon lag jate hain.
+
+### **Insaani Kaam (Human Action) ka Nichod**
+
+Insan hone ki ek defining feature (khasiyat) yeh hai ki hum apne irade (intention) ke sath kaam (act) kar sakte hain. Dusre janwaron ke muqable (Unlike), hum pechida (complex) plans bana sakte hain; hum aanay wale waqt (future world) ka ek vision soch sakte hain aur use haqeeqat (come to pass) banane ke liye action (kadam) utha sakte hain. Insaani kamo (human action) ki kai shaklon (forms) mein, hum kafi waqt planning mein bitate hain, aur phir hum plan ko poora (realize) karne ke liye action lete hain. Hum grocery store (dukaan) mein ham (gosht), cheese, aur pineapple kharidne jate hain, aur jab hum ghar wapas aate hain, toh hum Hawaiian pizza banate hain. Har koi janta hai ki unhe dinner mein pizza milne wala hai, na ki chili (mirch) aur na hi filet mignon (khas qism ka gosht). Lekin kaam ki dusri shaklon (forms of action) mein, planning aur irada (intention) aapas mein mil jate (blend together) hain. Sochna aur karna dono ek sath jud (unified) jate hain. Yeh improvisation (mauqe par kuch banana) ka, rozana ki practice ka, duniya ke sath gehre (intimately) jode hone ka daira (realm) hai. Tajurbekar (Experienced) bawarchi (cooks) kitchen mein jo kuch bhi ho usse ek behtareen khana bana sakte hain, lekin yeh kisi naye seekhne wale (novice) ke bas ki baat (ability) nahi hai. Improvisational action mein, aap duniya ko clearly (saaf) aur fori (immediately) dekhte hain. Soch aur kaam ek sath (in unison) hote hain. Intention physical (zahiri) duniya ke sath ek dialogue mein hota hai.
+
+Art aur design planning se lekar improvisation ke is spectrum par kahin bhi ho sakte hain. Ek idea, ek anchor point se shuru karna zaroori hai, lekin yeh bhi zaroori hai ki shuruati (initial) irada badalne layaq (fluid) aur mutabikat rakhne wala (adaptable) ho. Students ko duniya ke sath pesh aane (interacting) ka ek naya tareeqa sikhaya ja raha hai. Unhe dekhne, sochne, aur banane ka tareeqa sikhaya ja raha hai—ek process jo soche-samjhe (deliberate) ho lekin badlaav laane wala (responsive) bhi ho. Ek aisa process jo intentional (iradatan) ho lekin yeh jane bina ki wo kahan ja raha hai. Banai gayi cheezein (Created objects) banane wale (creator) aur object ke beech ek an-sochay (unpredictable) aur bhatakne wale (wandering) process ke dialogue se ubharti (emerge) hain. Creator kabhi bhi poori tarah se control mein nahi hota. Creativity woh hai jo log *karte (do)* hain, na ki jo log *hote (are)* hain. Creativity duniya mein ek nazar aane wali (visible) practice hai, dimaag ki gehrayiyon (recesses) mein chhipi hui koi cheez nahi. Creativity insaani amal (human action) ka nichod (essence) hai.
+
+### **The Process Never Ends (Process Kabhi Khatam Nahi Hota)**
+
+**Projects kabhi bhi sach mein khatam (end) nahi hote. Unhe hamesha behtar (better) banaya ja sakta hai. Wo sirf isliye khatam hote hain kyunki deadlines hoti hain.**
+
+Esma Dengiz, interior designer, Savannah College of Art and Design
+
+SVA ke Kevin Kaempf ne mujhe bataya, "Main nahi janta ki kaam (work) ko kaise banana hai jab tak ki wo ban na jaye. Hum lagatar (constantly) use naya roop (reinventing) de rahe hain. Har baar jab hum kuch karte hain toh hum shuruat se (from scratch) nayi cheez ijad (invent) karte hain. Toh aap kaam banate hain, wo ho jata (done) hai, aur phir aapko use theek (right) karne ke liye dubara banana padta hai." Yahan tak ki jab aap apne mukammal (finished) piece ko kisi show mein display karte hain, toh aap un cheezon ko notice karte hain jo aap shayad alag tareeqe se (differently) kar sakte the. "Agli cheez aapke un sabhi choices (faislon) se prabhavit (informed) hoti hai jo aapne kiye the. Yeh wahi (same) piece nahi hota, lekin yeh usi raste (trajectory) par hota hai. Yeh pehle wale piece ki jagah (replace) nahi leta."
+
+Creative process kabhi khatam nahi hota. Jab ek kaam poora ho jata hai aur duniya ke hawale kar (released) diya jata hai, toh agle kaam par shuruat ho jati hai. Har kaam agle kaam par asar (influences) dalta hai. Sochna (Thinking) aur dekhna (seeing) tab tak nahi rukte jab tak ki koi object ban na chuka ho aur display par na ho. Har kaam ek career mein ruke hue (frozen) pal ki tarah hai jo chal raha hai (fluid), improvised (mauqe par banne wala), ubharta hua (emerging), aur hamesha viksit (evolving) hota rehta hai. Art aur design banana zindagi jeene ka ek tareeqa (a way of being) hai. Ek baar jab aap is naye tareeqe se dekhna seekh lete hain, toh aap is tareeqe se *na* dekhne ki koshish (can't *not* see this way) nahi kar sakte. Ab aap ek artist hain.
+
+Pichle saal mein, maine in chapters ke drafts professors aur students ke sath share kiye hain. Unhone kitab mein khud ko pehchana; unhone apne colleagues ke quotes ko highlight (zahiri) kiya; unhone hashino (margins) mein exclamation points (!) lagaye. Is kitab ke sath meri umeed professional artists aur designers dwara istemal kiye jane wale creative process ko describe (bayan) karna, aur phir yeh bayan karna hai ki wo is process ko kaise sikhate hain. Kisi bhi professional school mein, aapka kaam students ko us tarah se sochna aur kaam karna sikhana hai jaisa aap karte hain. Yeh baat medical school, journalism school, ya school of education par bhi laagu hoti hai (true). Kisi professional practice ko sikhane ke liye, aapko apne khud ke knowledge aur practice par ek alag tareeqe se gaur (reflect) karna padta hai. Yahi wajah hai ki artists aur designers jo padhate hain, wo is baare mein bahut articulate (saaf dhang se bolne wale) hote hain ki wo kaise create karte hain. Yahi wajah hai ki is kitab ke quotes itne asardar (compelling) hain. Art aur design professors apne knowledge ko apne students ke liye wazeh (visible) banate hain. Jab aap dusron ko wo karna sikhate hain jo aap karte hain, toh aap apni khud ki practice ko aur gehrai (deeply) se samajhne lagte hain.
+
+#### ..........
+
+## **Acknowledgments (Shukriya/Tehseen)**
+
+Mera sabse bada shukriya un artists, designers, aur architects ka hai jinhone mujhe interviews ke liye apna waqt diya aur jinhone mujhe apne studio classrooms visit karne ki ijazat (allowed) di. Maine in acknowledgments (shukriya ke paigham) ke aakhir mein unke naam, affiliations (adaron se judav), aur websites ki list di hai. Unme se kisi ko bhi mujhse baat karna zaroori (had to) nahi tha, aur main is research ko shuru karne se pehle unme se kisi ko bhi nahi janta tha. Unhone mujhe apna waqt isliye diya kyunki wo padhane (teaching), seekhne (learning), aur banane (making) ke liye committed (waqf) the. Yeh kitab unke liye hai.
+
+Main kai educational leaders ka shukraguzar (owe thanks) hoon jinhone mujhe apne adaron (institutions) mein dawat (invited) di. Savannah College of Art and Design mein, Edward Dupuy, jo us waqt Graduate Studies ke Dean the, unhone 2010 mein Savannah, Georgia mein chhah (6) mahine ke sabbatical (chhutti) par aane ki dawat dekar mujhe is lambe raste (path) par shuru kiya. Mujhe Visiting Professor ka title (ohda) diya gaya; isne mujhe un artists aur designers ke sath ek professional connection diya jinka maine sabse pehle interview liya tha. Spring 2010 ke baad, main Washington University in St. Louis mein Associate Professor ki apni position par wapas aya, aur maine WashU ke art, design, aur architecture programs mein professors ka interview lena aur observe (mushahida) karna shuru kiya. Buzz Spector, jo us waqt College aur Graduate School of Art ke Dean the, unhone mera welcome kiya aur 2011 mein mujhe apne colleagues (sathiyon) se milwaya. School of the Art Institute of Chicago mein, Tiffany Holmes, jo us waqt Undergraduate Studies ki Dean thin, unhone mera welcome kiya aur 2016 mein mujhe apne colleagues ke sath milwaya. California Institute for the Arts mein, Anther Kiley mere pehle contact (rabtay wale) the, aur isne kai dusre interviews ka raasta khola. New York ki School of Visual Arts mein, main khas taur par Office of Learning Technologies ki Director Jennifer Phillips ka shukarguzar hoon, jinhone 2022 mein mujhe pandrah (15) professors se milwaya.
+
+Is kitab ko shuru karne se pehle, maine in interviews aur observations ke aadhar (based) par kai peerreviewed (dusron ki janchi hui) academic journal articles likhe aur publish kiye. Un findings (nateejon) aur analyses (jaizay) mein se bahut se, bhale hi specialized aur academic the, is kitab ke ideas mein madadgar (contributed) sabit huye. Main un articles ke editors aur reviewers ka shukarguzar hoon, jinme Maggie Dahn, Sharon Derry, Noel Enyedy, Erica Halverson, Alfredo Jornet, Kylie Peppler, aur Josh Radinsky shamil hain. Har ek ke liye kai anonymous (gumnam) peer reviewers bhi the, aur main unki imandar (honest) aur constructive (taameri) feedback (raye) ke liye shukarguzar hoon.
+
+In journal articles ke aadhar (based) par, mujhe is research par kai lectures dene ke liye dawat di gayi, aur in dauron (visits) ke dauran colleagues ke sath hui kai bahas (discussions) se meri soch (thinking) ko faida (benefited) hua. Mere hosts aur colleagues mein Ugo Corte, Gary Alan Fine, Kristina Kumpulainen, Maarit Mäkelä, Palmyre Pierroux, Mark Runco, Pirita Seitamaa-Hakkarainen, aur Steven Tepper shamil the.
+
+Is poore safar mein, mujhe publishing ke maidan mein do colleagues se besh-qeemati (invaluable) advice mili: mere lambe arse (longtime) ke agent Esmond Harmsworth, aur mere dost John Sherer, jo University of North Carolina Press ke Director hain. Un dono ne mujhe gehra (profound) aur imandar (honest) feedback diya jisne mujhe yeh samajhne (figure out) mein madad ki ki yeh kitab kis qism ki ho sakti hai.
+
+Main is kitab ko zinda (bring this book to life) karne mein madad dene par MIT Press ke poore staff ka be-tahasha (extremely) shukarguzar hoon. Yeh ek cross-departmental (kai shobo ka mila-jula) project tha aur bahut se logon ne milkar (worked together) kaam kiya, jinme (alphabetical order mein) Matthew Abbate, Amy Brand, Nicholas DiSabatino, Nora Flaherty, Emily Gutheinz, Sam Kelly, Debora Kuan, Haley MacArthur, Jay Martsi, Pamela Quick, Bill Smith, aur Paula Woolley shamil hain.
+
+MIT mein mere editor, Phil Laughlin, ka ek khas shukriya banta (due) hai. Phil ne pichle bees saalon se mere kaam ko support kiya hai. Jab wo Oxford University Press mein the toh unhone meri kitab *Creativity and development* (2001) acquire (khareedi/chuni) ki thi, aur jab wo Cambridge University Press mein gaye, toh unhone meri kitab *The Cambridge handbook of the learning sciences* (2006) acquire ki. Hum in saalon mein hamesha raabte (in touch) mein rahe hain aur maine hamesha unke sath ek aur kitab karne ki umeed ki thi. Unke sath kaam karna shandaar (wonderful) raha hai.
+
+Sabse badhkar, main lafzon se pare (beyond words) apni patni (wife) Barb Sawyer ka shukarguzar hoon. Unhone is kitab ko aese tareeqon se mumkin (possible) banaya jo shayad hi koi janta ho.
+
+### **The Artists and Designers I Interviewed or Observed (Wo Artists aur Designers Jinka Maine Interview Liya ya Observe Kiya)**
+
+Yahan is kitab mein jin professors aur students ke naam quotes ke roop mein aaye hain, 2024 tak unki websites aur affiliations (adaron se judav) diye gaye hain. Main un sabhi professors aur students ka shukarguzar hoon jinhone is project ke liye interview dena qubool (agreed) kiya. In sabhi ne mujhe apne quotes ke sath apna naam istemal karne ki permission (ijazat) di. Kai dusron ne mujhe apne interview se ya apni studio classroom conversations se quotes lene ki ijazat di, lekin anonymous (gumnam) rehne ka faisla (chose) kiya. Maine unhe sirf discipline (field) aur affiliation (adare) ka hawala dekar quote kiya hai.
+
+Har kisi ki list, yahan aur kitab mein, usi affiliation ke sath di gayi hai jo hamare interview ke waqt thi. Halanki, unme se kai ne dusre institutions (adaron) mein bhi kaam kiya hai, aur in sabhi ko is kitab ke shuru mein (front) list kiya gaya hai. Har professor ke liye, main 2024 tak unki affiliation aur unki website, agar available ho, likh raha hoon.
+
+#### **Students: Savannah College of Art and Design**
+
+Judith Kruger, MFA, 2010. [http://www.judithkruger.com/](http://www.judithkruger.com/?utm_source=gemini)
+Lily Kuonen, MFA, 2010. [https://cargocollective.com/lilykuonen](https://cargocollective.com/lilykuonen?utm_source=gemini)
+Mead McLean, MFA, 2010. [https://www.meadmclean.com/](https://www.meadmclean.com/?utm_source=gemini)
+Adam Reinhardt, MFA, 2010. [https://www.adamreinhard.com/](https://www.adamreinhard.com/?utm_source=gemini)
+Laura Victore, MFA, 2010. [https://www.lvictore.com/](https://www.lvictore.com/?utm_source=gemini)
+Jay Wheelock, MFA, 2010. [https://www.linkedin.com/in/jaywheelock/](https://www.linkedin.com/in/jaywheelock/?utm_source=gemini)
+
+#### **Students: Washington University in St. Louis**
+
+Jennifer Baker, MFA, 2012. [https://jenniferseas.com/](https://jenniferseas.com/?utm_source=gemini)
+Thurston Belmer, MFA, 2012. [http://www.ethurstonbelmer.com/](http://www.ethurstonbelmer.com/?utm_source=gemini)
+Lauren Cardenas, MFA, 2012. [http://lauren-cardenas.com/](http://lauren-cardenas.com/?utm_source=gemini)
+Kathleen Perniciaro, MFA, 2012. [https://www.linkedin.com/in/kathleen-](https://www.linkedin.com/in/kathleen-?utm_source=gemini) perniciaro-87271015/
+Nyla Smith, BFA in graphic design. [https://nvision-that.com/](https://nvision-that.com/?utm_source=gemini)
+
+#### **Professors: California Institute of the Arts**
+
+Jeffery Keedy. [https://art.calarts.edu/faculty-and-staff/faculty/jeff-keedy](https://art.calarts.edu/faculty-and-staff/faculty/jeff-keedy?utm_source=gemini)
+Anther Kiley. Rhode Island School of Design. [http://antherkiley.com/](http://antherkiley.com/?utm_source=gemini)
+Louise Sandhaus. [https://news.lsd-studio.net/](https://news.lsd-studio.net/?utm_source=gemini)
+Gail Swanlund. [https://gailswanlund.com/](https://gailswanlund.com/?utm_source=gemini)
+
+#### **Professors: Savannah College of Art and Design**
+
+Rhonda Arntsen. [https://rhondaa.com/](https://rhondaa.com/?utm_source=gemini)
+Joe DiGioia. Design consultant. [https://josephdigioia.com/](https://josephdigioia.com/?utm_source=gemini)
+Stephen Hall. [https://www.linkedin.com/in/stephen-hall-23aa235/](https://www.linkedin.com/in/stephen-hall-23aa235/?utm_source=gemini)
+Stephen Knudsen. [https://steveknudsen.com/](https://steveknudsen.com/?utm_source=gemini)
+Sandra Reed. Marshall University. [https://sandrareedfineart.com/](https://sandrareedfineart.com/?utm_source=gemini)
+Ruben Salinas. State University of New York Oneonta. [https://www.linkedin.com/in/ruben-salinas-ba9aa6b/](https://www.linkedin.com/in/ruben-salinas-ba9aa6b/?utm_source=gemini)
+Stephen Thorpe. [http://www.stephen-thorpe.com/](http://www.stephen-thorpe.com/?utm_source=gemini)
+Julie Varland. [https://www.linkedin.com/in/julie-rogers-varland-a4967b8/](https://www.linkedin.com/in/julie-rogers-varland-a4967b8/?utm_source=gemini)
+
+#### **Professors: School of the Art Institute of Chicago**
+
+Candida Alvarez. [https://www.candidaalvarez.com/](https://www.candidaalvarez.com/?utm_source=gemini)
+Claudia Hart. [https://claudiahart.com/](https://claudiahart.com/?utm_source=gemini)
+Tiffany Holmes. Ringling College of Art + Design. [http://tiffanyholmes.com/](http://tiffanyholmes.com/?utm_source=gemini)
+Amy Honchell. [https://amyhonchell.com/](https://amyhonchell.com/?utm_source=gemini)
+Kevin Kaempf. Milwaukee Institute of Art & Design. [https://www.miad.edu/faculty/kevin-kaempf](https://www.miad.edu/faculty/kevin-kaempf?utm_source=gemini)
+Lynn Tomaszewski. [http://www.lynntomaszewski.com/](http://www.lynntomaszewski.com/?utm_source=gemini)
+Adam Trowbridge. Koi website available nahi hai.
+Jess Parris Westbrook. DePaul University. [https://jessparriswestbrook.com/](https://jessparriswestbrook.com/?utm_source=gemini)
+
+#### **Professors: School of Visual Arts**
+
+Allan Chochinov. [https://www.allanchochinov.com/](https://www.allanchochinov.com/?utm_source=gemini)
+Steve DeFrank. [www.stevedefrank.com](https://www.google.com/search?q=https%3A%2F%2Fwww.stevedefrank.com)
+Carol Fabricatore. [www.carolfabricatore.com](https://www.google.com/search?q=https%3A%2F%2Fwww.carolfabricatore.com)
+Steve Heller. [www.hellerbooks.com](https://www.google.com/search?q=https%3A%2F%2Fwww.hellerbooks.com)
+Peter Hristoff. [www.peterhristoff.com](https://www.google.com/search?q=https%3A%2F%2Fwww.peterhristoff.com)
+Tobi Kahn. [http://www.tobikahn.com/](http://www.tobikahn.com/?utm_source=gemini)
+Hyesu Lee. [https://www.heyheysu.com/](https://www.heyheysu.com/?utm_source=gemini)
+Richard Mehl. [www.richardmehl.com](https://www.google.com/search?q=https%3A%2F%2Fwww.richardmehl.com)
+Miya Osaki. [https://www.linkedin.com/in/miya-osaki-1a319430/](https://www.linkedin.com/in/miya-osaki-1a319430/?utm_source=gemini)
+Kara Rooney. [http://www.karalrooney.com/](http://www.karalrooney.com/?utm_source=gemini)
+Cathy Rosamond. [https://sva.edu/faculty/catherine-rosamond](https://sva.edu/faculty/catherine-rosamond?utm_source=gemini)
+Grant Shaffer. [http://grantshaffer.com/](http://grantshaffer.com/?utm_source=gemini)
+Accra Shepp. [www.accrashepp.com](https://www.google.com/search?q=https%3A%2F%2Fwww.accrashepp.com)
+Amy Whitaker. [https://www.amywhitakerart.com/](https://www.amywhitakerart.com/?utm_source=gemini)
+Richard Wilde. Retired. [https://archives.sva.edu/about-collection/richardwilde-papers](https://archives.sva.edu/about-collection/richardwilde-papers?utm_source=gemini)
+
+#### **Professors: Washington University in St. Louis**
+
+Ken Botnick. [https://www.kenbotnick.com/](https://www.kenbotnick.com/?utm_source=gemini)
+Lisa Bulawsky. [https://lisabulawsky.com/](https://lisabulawsky.com/?utm_source=gemini)
+Heather Corcoran. [https://corcoranfordesign.com/](https://corcoranfordesign.com/?utm_source=gemini)
+Douglas Dowd. [https://www.dbdowd.com/](https://www.dbdowd.com/?utm_source=gemini)
+Catalina Freixas. [https://www.linkedin.com/in/catalina-freixas-144138158/](https://www.linkedin.com/in/catalina-freixas-144138158/?utm_source=gemini)
+John Hendrix. [https://www.johnhendrix.com/](https://www.johnhendrix.com/?utm_source=gemini)
+Ron Leax. [https://ronaldleax.com/](https://ronaldleax.com/?utm_source=gemini)
+Bruce Lindsey. [https://samfoxschool.wustl.edu/people/faculty/164-bruce-](https://samfoxschool.wustl.edu/people/faculty/164-bruce-?utm_source=gemini)lindsey
+Arny Nadler. [https://www.arnynadler.com/](https://www.arnynadler.com/?utm_source=gemini)
+Patricia Olynyk. [https://patriciaolynyk.com/](https://patriciaolynyk.com/?utm_source=gemini)
+Jeff Pike. [https://samfoxschool.wustl.edu/people/faculty/61-jeff-pike](https://samfoxschool.wustl.edu/people/faculty/61-jeff-pike?utm_source=gemini)
+Amy Thompson. University of Utah. [https://www.paperboatstudios.com/](https://www.paperboatstudios.com/?utm_source=gemini)
+Cheryl Wassenaar. [http://www.cherylwassenaar.com/](http://www.cherylwassenaar.com/?utm_source=gemini)
+
+#### **Professors aur students dusri universities (universities) mein**
+
+* Sarah Cunningham. Interview Virginia Commonwealth University mein liya gaya tha. Ab Rhode Island School of Design mein hain. [https://www.linkedin.com/in/sarah-b-cunningham-411b124/](https://www.linkedin.com/in/sarah-b-cunningham-411b124/?utm_source=gemini)
+* Meredith Davis. North Carolina State University. [https://design.ncsu.edu/people/mjdavis/](https://design.ncsu.edu/people/mjdavis/?utm_source=gemini)
+* Beth Grabowski. University of North Carolina at Chapel Hill. [https://www.bethgrabowski.com/](https://www.bethgrabowski.com/?utm_source=gemini)
+* Jim Hirschfield. University of North Carolina at Chapel Hill. [https://www.hirschfieldishii.com/](https://www.hirschfieldishii.com/?utm_source=gemini)
+* Haven Lin-Kirk. University of Southern California. [https://www.usc.edu/profile/haven-lin-kirk/](https://www.usc.edu/profile/haven-lin-kirk/?utm_source=gemini)
+
+### **Artwork Credits (Artworks ki tafseel)**
+
+#### **Introduction (Parichay)**
+
+Figure 1. Public domain. 1915.
+Figure 2. Copyright 2011 Judith Kruger. Judith Kruger ki ijazat se.
+Figure 3. Photo Steve DeFrank ki. Steve DeFrank ki ijazat se.
+Figure 4. Copyright 2011 Ron Leax. Ron Leax ki ijazat se.
+Figure 5. Shutterstock ki ijazat se.
+Figure 6. Video still Keith Sawyer dwara. 2011. Ron Leax ki ijazat se.
+Figure 7. Kevin Kaempf ka sculpture 2006. Photo copyright 2023 Kevin Kaempf. Kevin Kaempf ki ijazat se.
+Figure 8. Copyright 2023, Visual Arts Press, Ltd. Carol Fabricatore aur Visual Arts Press, Ltd. ki ijazat se.
+Figure 9. Photo Keith Sawyer ki. 2021. Beth Grabowski ki ijazat se.
+Figure 10. Video still Keith Sawyer dwara. 2010. Rhonda Arntsen ki ijazat se.
+Figure 11. Photo Keith Sawyer ki. 2016. Amy Honchell ki ijazat se.
+
+#### **Chapter 1**
+
+Figure 1.1. Copyright 2017 John Hendrix. John Hendrix ki ijazat se.
+Figure 1.2. Illustration Nyla Smith dwara. Work for hire; Keith Sawyer ki ijazat se.
+Figure 1.3. Illustration Nyla Smith dwara. Work for hire; Keith Sawyer ki ijazat se.
+Figure 1.4. Copyright 2020 Gavriel Faigenblat. Gavriel Faigenblat ki ijazat se.
+Figure 1.5. Copyright 2021 Dacia Perez. Dacia Perez ki ijazat se.
+Figure 1.6. Copyright 2016 Carol Fabricatore. Carol Fabricatore ki ijazat se.
+Figure 1.7. Photo aur kaam copyright 2012 Lauren Cardenas. Lauren Cardenas ki ijazat se.
+
+#### **Chapter 2**
+
+Figure 2.1. Copyright 2002 Jeffery Keedy. Jeffery Keedy ki ijazat se.
+Figure 2.2. Copyright 2015 Ken Botnick. Ken Botnick ki ijazat se.
+Figure 2.3. Photo Keith Sawyer ki. 2011. Jennifer Baker ki ijazat se.
+Figure 2.4. Photo Ken Botnick ki. 2023. Ken Botnick ki ijazat se.
+Figure 2.5. Photo Keith Sawyer ki. 2011. Judith Kruger ki ijazat se.
+Figure 2.6. Copyright 2011 Ken Botnick. Ken Botnick ki ijazat se.
+Figure 2.7. Copyright 2017 Tobi Kahn. Tobi Kahn ki ijazat se.
+Figure 2.8. Copyright 2012 Cheryl Wassenaar. Cheryl Wassenaar ki ijazat se.
+Figure 2.9. Copyright 2017 Carol Fabricatore. Carol Fabricatore ki ijazat se.
+
+#### **Chapter 3**
+
+Figure 3.1. Copyright 2010 Janelle D. Wheelock. Ijazat ke sath dubara shamil (Reproduced) kiya gaya hai.
+Figure 3.2. Photo Keith Sawyer ki. 2011. Jennifer Baker ki ijazat se.
+Figure 3.3. Photo Keith Sawyer ki. 2010. Lily Kuonen ki ijazat se.
+Figure 3.4. Copyright 2009 Adam Reinhard. Adam Reinhard ki ijazat se.
+
+#### **Chapter 4**
+
+Figure 4.1. Copyright 2022 John Hendrix. John Hendrix ki ijazat se.
+Figure 4.2. Copyright 2006 Morgan Schweitzer. Morgan Schweitzer ki ijazat se.
+
+#### **Chapter 5**
+
+Figure 5.1. Photo Keith Sawyer ki. 2015.
+Figure 5.2. Dono illustrations copyright 2014 Ruben Salinas. Ruben Salinas ki ijazat se.
+Figure 5.3. Video still Keith Sawyer dwara. 2010. Julie Varland ki ijazat se.
+Figure 5.4. Video still Keith Sawyer dwara. 2011. Catalina Freixas ki ijazat se.
+Figure 5.5. Video still Keith Sawyer dwara. 2011. Heather Corcoran ki ijazat se.
+Figure 5.6. Photo Keith Sawyer ki. 2017. Louise Sandhaus ki ijazat se.
+Figure 5.7. Copyright 1964 John Wiley & Sons. John Wiley ki ijazat se.
+Figure 5.8. Halanki FedEx logo mein letters aur unki arrangement par copyright nahi lagg sakta, FedEx logo ek trademark ke taur par protected hai aur logo ki malkiyat FedEx ki hai. Yeh tasveer yahan sirf samjhane aur education (taleem) ke maqsad ke liye hai aur kisi kism ke endorsement (taeed) ki alamat nahi hai.
+
+#### **Chapter 6**
+
+Figure 6.1. Video still Keith Sawyer dwara. 2010. Sandra Reed ki ijazat se.
+Figure 6.2. Copyright 2011 Heather Corcoran. Heather Corcoran ki ijazat se.
+Figure 6.3. Copyright 2023 Peter Hristoff. Peter Hristoff ki ijazat se.
+
+#### **Chapter 7**
+
+Figure 7.1. Photos Keith Sawyer dwara. 2010.
+
+#### **Chapter 8**
+
+Figure 8.1. Video still Keith Sawyer dwara. 2010. Esma Dengiz ki ijazat se.
+Figure 8.2. Photo Keith Sawyer ki. 2010. Sandra Reed ki ijazat se.
+Figure 8.3. Video still Keith Sawyer dwara. 2011. Heather Corcoran ki ijazat se.
+Figure 8.4. Video still Keith Sawyer dwara. 2011. Ken Botnick ki ijazat se.
+Figure 8.5. Video still Keith Sawyer dwara. 2010. Jo DiGioia ki ijazat se.
+Figure 8.6. Video still Keith Sawyer dwara. 2010. Jo DiGioia ki ijazat se.
+Figure 8.7. Video still Keith Sawyer dwara. 2011. Douglas Dowd ki ijazat se.
+
+#### **Chapter 9**
+
+Chapter 9 mein diye gaye sabhi figures Keith Sawyer dwara usi 2011 ke video se liye gaye video stills hain. Heather Corcoran ki ijazat se.
