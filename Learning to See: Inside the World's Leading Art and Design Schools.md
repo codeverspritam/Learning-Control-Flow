@@ -3509,3 +3509,543 @@ Adam Trowbridge ne bhi is khayal (idea) ko reject kar diya ki students ko frustr
 Students ko dekhna seekhne mein madad karne ka yahi challenge hai: aapko constraint aur openness, ambiguity aur certainty, frustration aur support ke beech balance banana hoga. Isey theek se (well) karna seekhne mein saalon lag jate hain. Yahan tak ki sabse zyada experienced professors bhi hamesha experiment kar rahe hote hain, badlav laa rahe (iterating) hote hain, aur behtar ho rahe hote hain.
 
 ---
+
+## **PART III (Teesra Hissa) Studio Critique (Jaiza/Tabsara)**
+
+..........
+
+## **Chapter 8 - THINKING (Sochna)**
+
+**"Yeh production (paidaawar) aur nateejon (results) ke baare mein nahi hai. Yeh is baare mein zyada hai ki aap apni zindagi aur apne zindagi ke kaam ke baare mein kis tarah sochte hain, bajaye iske ki aap bas kuch naya banane (come up with something) ki koshish karein. Bhale hi hamare paas nateeje hote hain, aur unhe presentations deni hoti hain, lekin darasal yeh is baare mein zyada hai ki jab wo yahan se jayen toh unke sochne ka tareeqa (way they think) kaisa ho."**
+
+Gail Swanlund, graphic designer, California Institute of the Arts
+
+Bolna (Speech) sochne ka ek aaina (window) hai. Jab professors studio critiques mein baat karte hain, toh students dekh sakte hain ki wo art aur design banane ke baare mein kaise sochte hain. Yeh artists aur designers aese tareeqon se sochna jante hain jo un creative processes ko aage badhate (further) hain jinka zikr chapters 1 se 5 mein kiya gaya hai—aisi soch (thinking) jo materials ke sath kaam karne ke ek iterative (baar-baar dohrane wale) process ko guide karti hai aur jisse naye ideas samne (emergence) aate hain.
+
+Artists aur designers har roz apni practice mein isi soch (thinking) ka istemal karte hain. Agar aap kisi artist ke studio ke ek kone mein khade hokar unhe kaam karte hue dekhein, toh zahir hai aap unhe sochte hue nahi dekh payenge. Lekin studio critiques mein, professors students ko yeh dikhate hain ki wo kaise sochte hain, sochte waqt (while they're thinking) bol kar. Main ise *studio talk* kehta hoon. Is chapter aur agle chapter mein, hum dekhenge ki yeh kaise kaam karta hai. Studio talk students ko dikhata hai ki artists aur designers ki tarah kaise sochna hai. Jaisa ki ek advertising professor ne mujhe bataya, "Aap unhe ek image banana nahi sikha rahe hain. Aap unhe sochne ka ek tareeqa (a way of thinking) sikha rahe hain."
+
+Kisi bhi professional practice ko sikhane ka sabse behtareen tareeqa uski misaal (model) banna hai. Shagird (apprentice) ke samne ise karke dikhayein jabki wo aapko aisa karte hue dekh raha ho. Phir, aap unse uski nakal (copy) karne ko kahen jo aapne abhi kiya, aur aap unhe raye (feedback) dein ki unhone kya sahi kiya aur kya galat kiya. Is tarah se aap motorcycle repair ya khana pakana sikhate hain. Lekin un cheezon ko aap dekh sakte hain. Sochna (Thinking) nazar nahi aata (isn't visible). Koi bhi aapko sochte hue nahi dekh sakta. Jab tak ki...
+
+**"Creativity kisi aesi cheez ke baare mein sochne ke naye tareeqe failane (expanding) aur paida (generating) karne ka naam hai jise hum pehle se jante (familiar) hain."**
+
+Cheryl Wassenaar, Washington University in St. Louis mein ek visual artist
+
+Studio critiques ki videos ka mutaliya (studying) karke, maine seekha ki professors darasal students ke samne soch rahe hote hain, aur wo aesa isliye karte hain taaki students unki soch ko usi waqt (in real time) dekh sakein. Wo apni soch ko aawaz dekar (externalizing their thinking in speech) students ko sochna sikhate hain. Yahi studio talk ka jaadu (magic) hai.
+
+Kabhi-kabhi students ke liye yeh samajhna asan hota hai ki professor apni soch ka muzahira (modeling thinking) kar rahe hain. Washington University in St. Louis (WashU) mein ek communication design professor, Heather Corcoran, aksar students ko saaf taur par (explicitly) batati hain ki wo soch rahi hain, jaise ek student ke poster design ke is critique mein:
+
+*Wo do cheezein jinke baare mein main soch rahi hoon, bas achanak dimaag mein aayin (right off the top of my head), wo hongi iski scale (size) jiske baare mein humne abhi baat ki thi, us shifting down (niche sarakne) ke sath.*
+
+Das minute baad, ek dusre student ke poster ke critique mein, Corcoran bayan (describes) karti hain ki wo kis cheez ke baare mein "soch (wondering)" rahi hain:
+
+*Aur main soch rahi hoon (I wonder), aur tum shayad isey isse aage nahi kheench paoge (pull this any further), isliye shayad main kuch aesa suggest kar rahi hoon jo waqayi kaam ka na ho (isn't workable), lekin kuch had tak, main chahti hoon ki uske sir (head) ko, tum use poora yahan tak upar le jao . . .*
+
+Students jante hain ki Corcoran soch rahi hain kyunki wo unhe batati hain ki wo soch rahi hain, aur phir wo apne sochne ke process ko bayan karti hain: khoj bhara (exploratory), bhatakta hua (wandering), uljhano (ambiguity) se guzarta hua. Wo is baat ko lekar yaqeen (sure) nahi hain ki aage kya kiya jana chahiye, aur yeh theek (okay) hai. Agar professor ko nahi pata, toh yakeenan student ke liye bhi na pata hona theek hai. Studio talk students ke samne yeh misaal (models) paish karti hai ki sochne ka maqsad sabse behtareen idea soch kar (come up with) aana nahi hai; sochne ka maqsad materials ke sath kaam karne ke ek khoj bhare (exploratory) process ko guide karna hai, aur ideas isi process se ubhar (emerge) kar aate hain.
+
+Maine Savannah College of Art and Design (SCAD) mein Esma Dengiz ki lighting design class visit ki taaki ek critique session observe (dekh) saku. Har team ne ek dabba (box) banaya hai jisme unhone jis kamre ko design karna hai uska ek scale model (chota model) banaya hai, aur choti-choti lights (scaled-down tiny lights) se lighting ki hai. Yeh dabbe (boxes) har taraf se teen (3) foot lambe-chaude hain, aur inka samne wala hissa khula hai (dekhein figure 8.1). Aaj ki class mein teesre (third) group ne ek dance club design kiya hai jahan dance floor dancers ke wazan (weight) ke hisab se light up hota hai, aur piche ek bar hai jisme Christmas lights ke sath colors wali lighting ki gayi hai. Students khidkiyon ke parde (window shades) girate hain aur lights band kar dete hain. Dengiz aur students phir is baat par bahas (discuss) karte hain ki wo bar ki lighting ko kaise badal sakte hain. Lagbhag do minute ki bahas ke baad, Dengiz kehti hain ki wo soch rahi hain:
+
+*Ek aur cheez jo abhi mere dimaag mein aayi (popped in my mind) wo yeh thi ki . . .*
+
+er He: |
+
+
+
+**FIGURE 8.1** SCAD mein ek lighting design class mein ek critique. In teen students ne milkar (collaborated) ek dance club ka model tayyar kiya hai, jise box ke andar chota (scaled down) karke rakha gaya hai. 2010.
+
+Lekin jaise-jaise wo aage badhti (continues) hain, wo apne sochne ke process ko ek alag tareeqe se model karna (dikhana) shuru karti hain, ek aesa tareeqa jo lagbhag an-dekha (invisible) hai: Wo apne sochne ko *kis tarah (way)* baat karti hain usse model karti hain, na ki un baton se (content) jo wo kehti hain. Yahan unki baaton ke do alag-alag transcripts (likhi hui baatein) hain jo wo aage kehti hain—har ek ko alag-alag notation (nishanaat) ka istemal karke likha (transcribed) gaya hai. Pehla wala wo hai jo aap aam taur par kisi transcript mein dekhte hain:
+
+*Ek aur cheez jo abhi mere dimaag mein aayi (popped in my mind) wo yeh thi ki, us piche wale (back) hisse ke liye, kya ho agar wahan bottles aur colored gel paper ka ek cutout ho?*
+
+Isey padh kar aesa lagta hai jaise unhe poora yaqeen (pretty certain) hai ki yeh ek acha idea hai. Lekin yahan dekhiye ki unhone *asal (really)* mein ise kaise kaha, interaction analysis ki khaas (specialized) notation (nishanaat) ka istemal karke. Brackets (parentheses) mein diye gaye numbers ek- aur do-second ke thehrao (pauses) hain.
+
+#### **EXAMPLE 8.1. ESMA DENGIZ, LIGHTING DESIGN, SCAD**
+
+* **1** Ek aur idea jo abhi mere (1) dimaag mein aya,
+* **2** aapke bo:ttle wale hisse (part) ke liye,
+* **3** wo, piche (back) wala hissa, ki, uh (1)
+* **4** Kya ho agar yeh hota, agar yeh hota, ek cutout, uh ka, mujhe nahi pata, uh, bottles ka, (2)
+* **5** aur uh, (2)
+* **6** colored gel paper, (1)
+* **7** misaal ke taur par (for instance)?
+
+Jab aap kisi baat ko is tarah se transcribe (likhte) karte hain, har ek detail ke sath, toh aap bata sakte hain ki wo an-decided (uncertain) hain, ki wo aawaz nikal kar (out loud) soch rahi hain. Wo teen baar *uh* kehti hain. Wo *bottle wala hissa (the bottle part)* kehti hain jabki wo *piche wala hissa (the back part)* kehna chahti thin; phir wo khud ko theek (corrects) karti hain. Wo kuch shabd do baar kehti hain, jaise *wo, piche wala hissa (the, the back part)*. Wo rukti hain aur phir kuch poori tarah se alag (completely different) kehna shuru karti hain, jaise *piche wala hissa, ki, uh, (1) Kya ho agar yeh hota . . . bottles ka ek cutout?* Mahireen zabaan (Linguists) ise *self-repair (khud ko theek karna)* kehte hain. Wo kehti hain, *mujhe nahi pata (I don't know)*; linguists ise *hedge (bachao/shuk)* kehte hain, aur yeh dikhata hai ki bolne wala (speaker) sach mein yaqeen (certain) nahi hai. Wo *misaal ke taur par (for instance)* keh kar apni baat khatam karti hain, jise linguists ek *qualifier (wazahat karne wala/shartiya lafz)* kehte hain; jab aap kisi sujhaav (suggestion) ke theek baad *misaal ke taur par (for instance)* kehte hain, toh yeh students ko batata hai ki aur bhi bahut si sambhavnayein (possibilities) hain. Wo *bottles* shabd mein vowel *o* ko lamba (elongates) karti hain—aawaz ko ek extra second ke liye kheenchti hain (is notation system mein, har colon [:] ka matlab hai ki vowel ek second lamba hai). Yeh sabhi techniques us cheez se judi (associated) hain jise linguists *tentative speech (hichkichahat wali baat)* kehte hain. Studio talk students ko dikhata hai ki professor usi waqt (in real time) soch rahi hain, aur yeh ki unki soch uncertain (an-decided) aur exploratory (khoj bhari) hai.
+
+Artists aur designers expert creative thinkers (sochne wale) hote hain. Wo apne khud ke studios mein is tarah sochte hain. Lekin zyada-tar creators yeh subconsciously (un-jane mein) karte hain; unhe is baat ka ehsaas (aware) hona zaroori nahi hai ki wo theek kaise soch rahe hain. In professors ne yeh samajh liya hai (figured out) ki apni hi practice par consciously (hosh-o-hawaas mein) gaur (reflect) kaise karna hai. Is chapter mein hum jin professors ko dekhenge wo aawaz nikal kar (out loud) sochne mein experts hain. Wo jante hain ki apni soch ko shabdon mein kaise badalna (translate) hai, aur wo isey bilkul us level par kar sakte hain jahan students unke sath chal (follow along) sakein aur unke sochne ke process ko samajh sakein.
+
+**"Aap unhe sochne ka ek tareeqa (a way of thinking) sikha rahe hain. Aap unhe ek image banana nahi sikha rahe hain. Main sabse zyada jo karne ki koshish kar raha hoon, wo yeh hai ki wo bas cheezon ko mehsoos (feeling) karne ke bajaye, apne dimaag (minds) aur apni soch ko bada (expand) karein."**
+
+SCAD mein ek advertising professor
+
+Hum studio talk ka apna analysis un professors ke examples se shuru karenge jo *explicitly (saaf taur par)* kehte hain ki wo soch rahe hain, jaise Corcoran ka yeh kehna, "right off the top of my head (bas achanak dimaag mein aaya)". Phir, hum aage badh kar yeh analyze karenge ki wo baaton ke un-noticed (jin par dhyan na diya jaye) chote-chote tukdon (bits and pieces)—rukna (stops) aur phir shuru karna (restarts); lambe thehrao (long pauses); aise shabd jinka koi matlab nahi hota (don't refer to anything), jaise *um* aur *uh*, *like* aur *you know*—mein apni soch (thinking) ki misaal (model) kaise pesh karte hain. Studio talk students ko expert creative thinking (soch) mein jhankne (window) ka mauka deta hai. Studio talk ki explicit aur implicit (chhipi hui) dono techniques creative process ke zaroori features (khasiyaton) ki misaal (model) banti hain—yeh iterative aur bhatakne (wandering) wala hai (chapter 1), aur na janne (not knowing) ke ek process se an-soche dhang se (unpredictably) naye ideas ubharte (emerge) hain (chapter 3).
+
+### **The Studio Critique (Studio ka Jaiza)**
+
+Studio classes ek baar mein kai ghanton ke liye hoti hain. Har student ka critique das (10) ya pandrah (15) minute leta hai, kabhi-kabhi isse zyada. Students apna chal raha kaam (work-in-progress) class mein laate hain aur isey professor aur baaki class ko dikhate (display) hain, ya toh isey studio classroom ki deewar par laga kar ya table par rakh kar. Jab unki baari aati hai, toh present (pesh) karne wala student kaam ki ek chhoti si tafseel (brief description) deta hai. Kai cases mein, professor aur dusre students ne kaam ke pichle iterations (dohraav) dekhe hote hain aur student ko sirf us kaam ko describe karna hota hai jo pichle critique ke baad se kiya gaya hai. Uske baad professor bolna shuru karte hain aur unchi aawaz mein sochna (thinking out loud) shuru kar dete hain.
+
+Kyunki projects ko guiding constraints (raah dikhane wali pabandiyon) ke sath design kiya jata hai, isliye sabhi students ek hi creative challenge par kaam kar rahe hote hain. Bhale hi ek critique presenter ke kaam par focus karta hai, sabhi students professor ke presenter ke kaam ko explore (jaiza) karne se seekhte hain. Kara Rooney (School of Visual Arts) ne isey is tarah samjhaya:
+
+*Main personal ya alag-alag (individual) assignments nahi deti. Mujhe lagta hai ki unke liye yeh dekhna acha hai ki har insaan (individual person) instructions ko kitne alag tareeqe se samajhta (interpreted) hai. Yeh is discovery aur exploration (khoj) ke process ka ek hissa hai. Jo aap apne samne dekhte hain, jo bahut saaf (black and white) lagta hai, ya seedha (straightforward) lagta hai, zaroori nahi ki wo waisa hi ho. Yeh group critique mein hamesha bahut sari faydemand (fruitful) baatcheet paida karta hai, jis par main bahut zor (emphasis) deti hoon. Hum critique mein bahut waqt bitate hain jahan unhe bolne par majboor (forced) kiya jata hai.*
+
+Jab presenter apna chhota sa taaruf (brief introduction) khatam karta hai, toh professor foran (right away) bolna shuru kar dete hain. Yeh zahir (obvious) hota hai ki professor ne pehle se yeh plan nahi kiya hota ki unhe kya kehna hai—wo improvise (mauqe par soch kar bolna) kar rahe hote hain, usi waqt (in real time) soch rahe hote hain. Studio talk us soch (thinking) par jhalkne (window) jaisi hai.
+
+**Art aur design critiques jo maine dekhe (observed):** Architecture Communication design Graphic design Illustration Interior design Painting Product design Sculpture
+
+Sabhi students professor ko aawaz nikal kar (out loud) sochte hue dekh kar seekhte hain, is baat se farq nahi padta ki kis student ka critique ho raha hai. Jaisa ki sculptor Ron Leax ne kaha, "Class ka maqsad (point) koi cheez banana nahi hai, balki yeh hai ki jab aap bana rahe hote hain toh aap kaisa sochte hain. Jo cheez wo banate hain wo sirf ek zariya (carrier) hai." Har student ka kaam ek aisa markaz (pivot) hai jo professor ko aisi creative thinking model (misaal) karne ka mauka deta hai jisse sabhi students ko fayda hota hai. Jo students kisi critique ko observe (dekhte) karte hain wo us student ke lagbhag barabar hi seekhte hain jiska critique ho raha hota hai. Jab professors kisi presenter ke kaam par comment karte hain, toh wo creative process ke aam (universal) khasiyato (characteristics) par zor (emphasize) dete hain. Jin challenges ko wo identify (pehchante) karte hain, wo aise challenges hote hain jinka sabhi students samna kar rahe hote hain. Presenter aur class ke liye pedagogical (seekhne-sikhane wale) messages ko ek sath bun kar (interweaving), har kisi ko is baat ki behtar (richer) samajh milti hai ki general (aam) themes ko kisi specific kaam (khas kaam) par kaise apply kiya jaye aur general themes ke zariye kisi specific kaam ko kaise interpret (samjha) kiya jaye. Jo sochne ka andaaz (style of thinking) perform kiya jata hai wo wahi rehta hai, chahe kisi bhi student ka review ho raha ho. Har student ka kaam anokha (unique) hota hai, lekin sabhi students studio talk se seekhte hain.
+
+Is page ke top par diye gaye box mein shamil sabhi disciplines (khetron) mein Studio talk bahut milta-julta (similar) hai. Yeh sabhi art aur design professors is tarah se sochna sikha rahe hain aur ise model (paish) karne ke liye baat karne ke usi tareeqe ka istemal kar rahe hain.
+
+### **Problem Framing (Masle ko Samne Rakhna)**
+
+Example 8.2 ka transcript Sandra Reed ki SCAD mein painting class, Oil-Based Media Exploration, se liya gaya hai. Yeh un students ke liye second-year ki class hai jo painting mein BFA degree le rahe hain. Is chaar hafte (four-week) ke assignment ke teen (3) steps the: pehla, ek photo collage banana; dusra, collage ke aadhar (based) par ek painting banana, jisme underpainting (buniyadi teh) ke taur par ek neutral (sada) rang ka istemal ho; teesra, translucent (halke shaffaf) glazes ka istemal karke painting mein color jodna. Students ab teesre step par hain aur apne man-chahe color effect ko paane ke liye glaze ki kai tehein (multiple layers) paint kar rahe hain.
+
+Figure 8.2 us video ka hissa hai jo maine Reed ki studio class mein record kiya tha. Jo bhi artworks aap dekh rahe hain, easels (stands) par aur deewaron par, wo students ne is project ke liye banayi hain. Reed baayein taraf (at the left) hain, aur ek painting ki taraf ishara (gesturing) kar rahi hain jo chehron (faces) ke chhah (6) photos ke collage par aadharit (based) hai, jinhe color ke alag-alag blocks mein glaze kiya gaya hai. Example 8.2 ka transcript student ke apne agle step ke liye ek specific idea paish (proposing) karne aur Reed ki manzoori (approval) mangne se shuru hota hai. Reed yeh nahi kehti ki yeh acha idea hai ya nahi. Iske bajaye, wo naye sawalon ki ek series khadi karti hain (raises):
+
+**FIGURE 8.2**
+
+Sandra Reed ki SCAD painting class, Oil-Based Media Exploration mein ek critique. Yeh video tasveer example 8.2 ki transcript ki line 2 se judi (corresponds) hui hai.
+
+#### **EXAMPLE 8.2. SANDRA REED, OIL-BASED MEDIA EXPLORATION, SCAD**
+
+* **1 Student:** Kya ho agar main yahan maujood colors ko bas is design ke mukable mein (against) kheench (pulled) doon?
+* **2 Reed:** Mujhe lagta hai ki aapko jo sabse eham (main) faisle lene hain, unme se ek yeh hai ki in forms (shaklon) ka us background se kya rishta (relationship) hai.
+* **3** Kya wo uske upar baithe hain?
+* **4** Kya wo ek continuous (lagatar) plane (satah) hain jo badalta hai ki wo plane kya hai?
+* **5** Um, agar wo iske upar baithe hain, toh aap ek light source (roshni ke zariye) ka tasavvur (imagine) kar sakte hain, jo, thodi si parchhai (shadow) daal (casting) raha ho, theek usi tarah jaisa aapko yahan in colors ke beech overlap (ek dusre ke upar) hone se milta hai, you know.
+* **6** Mujhe lagta hai ki aap isey kuch variety (alag-alag rang roop) de sakte hain.
+* **7** Jaise, main thoda zinc white (sufaid rang) iske upar lane ki koshish karne ki taraf jhuk (inclined) sakti hoon, misaal ke taur par (say) agar iske bagal mein thodi si parchhai (shadow) hai, aap jante hain, usay vary (badalna) karein.
+* **8** Shayad aap isey alag kar dein aur alag-alag hisson (sections) mein alag-alag colors karein. **9** Isse madad mil sakti hai.
+
+Jab students class mein aate hain, toh unke dimaag mein aksar kuch khaas (specific) hota hai ki aage kahan jana hai. Wo janna chahte hain ki kya professor ise approve karte hain (manzoori dete hain). Lekin critique ka maqsad sabse behtareen (best) idea chunna nahi hai; maqsad yeh seekhna hai ki sochna kaise hai. Yahi wajah hai ki Reed jawab (answer) nahi deti. Iske bajaye, wo model (misaal paish) karti hain ki student ko apne hi sawal ke baare mein kaise sochna chahiye. Is case mein, jaisa ki kai critiques mein hota hai, student abhi tak challenges ko saaf taur par (clearly) nahi dekh pa raha hai, isliye Reed model karti hain ki problem ko naye siray se kaise socha (reframe) jaye, jise creativity researchers *problem finding* kehte hain. Wo apni khud ki exploratory (khoj bhari) soch ko zahir karke (externalizing) student ko khud se sochna (think for himself) sikhati hain (demonstrates). Studio talk sochne ke ek aise tareeqe ka model banati (pesh karti) hai jo dhyan ko idea se hatakar process ki taraf le jata hai.
+
+Aksar, jab students phans (stuck) jate hain, toh iski wajah yeh hoti hai ki unhone creative challenge ko ek gair-faidamand (nonproductive) tareeqe se frame kiya (samjha) hota hai. Professors students ko is baare mein sochne ke liye guide karte hain ki wo apni problem ko dobara kaise frame (reframe) karein, bajaye iske ki wo apni problem ki mojooda (current) framing ke liye koi jawab dhoondhne ki koshish karein. Students aksar problems ko aese dhang se (formulate) banate hain jo possibilities (sambhavnaon) ko band kar dete hain; studio talk possibilities ko khol deta hai.
+
+### **Ideas Aarzi Hain; Bohat Se Ideas Rakhein (Ideas Are Tentative; Have Lots of Ideas)**
+
+Kai assignments students ko bahut si possibilities (sambhavnayein) dhoondhne (generate) ko kehte hain—das, bees, ya isse bhi zyada. Creativity par research karne wale isey *divergent thinking (alag-alag sochna)* kehte hain, aur yeh behtar creativity se juda (associated) hai. Studio talk idea dhoondhne ke (idea generation) amal (process) ki misaal (modeling) dekar divergent thinking sikhata hai. Professors shayad hi kabhi (rarely) students ko exactly batate hain ki unhe kya karna chahiye; iske bajaye, wo explore (khojne) karne ke liye possibilities (sambhavnaon) ki ek series (range) dete hain. Wo kai possibilities tajweez (suggest) karte hain—hamesha studio talk ki hichkichahat wali (tentative) zabaan mein, kabhi bhi hakimana (authority) andaaz mein nahi. Maqsad students ko yeh dikhana hai ki aage badhne ke kai raaste hain, aur unhe yeh sikhana hai ki bahut jaldi bahut si possibilities ko dhoondhna mumkin (possible) hai. Kabhi bhi ek akela jawab nahi hota, kabhi bhi aage badhne ka koi ek sabse behtareen (best) rasta nahi hota. Studio talk ka maqsad students ko yeh sikhana hai ki ek creator (banane wale) ki tarah kaise sochna hai—kai alag-alag sawal uthana (posing) aur kai alag-alag hal (solutions) tajweez (proposing) karna.
+
+Example 8.3 mein, Corcoran ek student ka critique kar rahi hain jisne apni communication design class mein posters ki ek jodi (pair) lagayi (pinned up) hai—figure 8.3 ke oopar baayein taraf (upper left) wale do posters. Baki posters un dusre students ke hain jinki baari jaldi hi aane wali hai, aur jo ab piche baithkar is critique ko dekh rahe hain. Aap chapter 5, "Seeing" ke page 213 par assignment ka handout dekh sakte hain. Corcoran bahut tezi se sawalon ki ek ladi (series) poochti hain; student ke paas unmein se kisi ko samajhne (absorb) ya notes lene ka koi waqt nahi milta. Asal mein, maine kabhi kisi student ko critique ke dauran notes lete hue nahi dekha. Jab Corcoran baat karti hain, toh wo posters ke alag-alag hisson (elements) ki taraf ishara karti (points at) hain.
+
+##### **FIGURE 8.3**
+
+Heather Corcoran ki class, Word & Image Studio 2, Washington University in St. Louis mein. Spring, 2011.
+
+#### **EXAMPLE 8.3. HEATHER CORCORAN, WORD & IMAGE STUDIO 2, WASHINGTON UNIVERSITY**
+
+* **1** Is type (likhawat) ke baare mein aur kya badla ja sakta hai?
+* **2** Kya ho agar aakhiri line, jaise (like), HUGE (bohat badi) ho, aur yeh kahan jayegi?
+* **3** Aur kya ho agar is taraf ki aakhiri line ka us taraf ki aakhiri line se koi rishta (relationship) hona chahiye?
+* **4** Aur kya hoga agar wo badi toh hon, lekin phir bhi ek hi waqt mein (at the same time) ek tarah se dhundhli (fading away) hoti ja rahi hon?
+* **5** Kisi aesi cheez ke liye jo badi ho, lekin nazar na aane wali (invisible) ho, iska (size ki) tateeb (hierarchy) ke liye kya matlab hoga?
+* **6** Ya choti, lekin BOHAT wazeh (visible)?
+* **7** Toh yeh saare sawalaat (questions) hain.
+* **8** Main soch rahi hoon ki kya ho agar yeh ek block jaisa na rahe?
+* **9** Shayad, shayad yeh jagahain (spaces) itni consistent (ek jaisi) nahi honi chahiye?
+* **10** Ya shayad yeh margins (kinare) alag hone chahiye.
+* **11** Ya shayad iska scale (size) bilkul sahi nahi hai.
+
+Corcoran student ko yeh nahi batati ki use kya karna hai. Iske bajaye, wo student ko dikhati hain ki uljhan (ambiguity) aur sambhavna (possibility) ke zariye kaise sochna hai. Wo pesh karne (presenting) wale student aur sun-ne wale sabhi students ke liye is soch (mindset) ki misaal (modeling) de rahi hain. Paigham (Message) yeh hai ki, jitni jaldi ho sake ek hi jawab dhoondhne ki koshish na karo. Iske bajaye, dekho ki main kaise sochti hoon aur phir uski nakal (emulate) karne ki koshish karo.
+
+Sawalon ki is tez bauchar (rapid-fire list) ke baad, Corcoran thoda rukh badalti hain (shifts gears) aur apni baat ko saaf taur par (explicitly) rakhti hain:
+
+*Main yeh sab isliye nahi keh rahi hoon ki tumhe yehi karna chahiye (prescriptive at all), balki isliye keh rahi hoon ki, mujhe lagta hai isme ek typographic investigation (type se judi tehqeeq/khoj) ki zaroorat (warrants) hai. Jo hum aaj dekh rahe hain wo (sirf) ek tareeqa (way) hai. Aur tumhare liye ek designer ke taur par sabse zaroori cheez yeh hai ki tum is tarah ki tehqeeq (investigation) kar sako. Jab main kehti hoon ki mujhe illustration ki parwah nahi hai toh mera yahi matlab hota hai. Mera matlab hai, mujhe parwah hai, lekin tum abhi jahan ho, tum chahti ho ki tumhare paas ek typographic investigation (tehqeeq) karne ka confidence (bharosa) ho. Yeh sach mein, sach mein bahut zaroori (important) hai. Kyunki agar tum ek designer ban-na chahti ho toh tumhe yeh ek hazar baar karna padega. Ek hazar aur ek baar.*
+
+Corcoran pehle yeh model (misaal) pesh karti hain ki sochna kaise hai, aur phir saaf taur par bayan karti (explicitly describes) hain ki wo soch kya hai. Ek baar phir, message yeh hai ki, itni jaldi hal (solution) tak pahunchne ki koshish mat karo. Abhi apni tehqeeq (investigation) ko band karna (close down) bahut jaldi hai. Sochna aur process mein shamil (engage) hona seekho; is baat par vishwas (trust) rakho ki ideas khud ba khud samne (emerge) aayenge.
+
+Maine yehi same studio talk ka andaz (style) unn sabhi classes mein dekha jinme main gaya. Architect Julie Varland (SCAD) ne mujhe bataya ki wo bhi kuch milta-julta (similar) hi karti hain:
+
+*Main lagbhag aadha darjan (half a dozen) "misaal ke taur par (for instances)" bol dalti hoon (rattle off), pata hai, ideas takay kaam shuru ho sakay (pump primed), takay wo uss raste (road) par chal sakein jahan wo kisi aesi cheez ko naye tareeqe se sochein jo mujhe lagta hai ki achi tarah (well) developed nahi hai ya bahut mutasir-kun (inspiring) nahi hai. Kuch aesa jo humne hazaar baar dekha hai. Shayad unke liye yahan koi alag raasta (option) ho jo wo pesh (offer) kar sakein.*
+
+Example 8.4 Ken Botnick ki Washington University mein typeface design class se hai. Main apne camera ke sath studio mein Botnick ke peeche ghoom raha tha, unki har student ke sath one-on-one baatcheet (conversations) dekh raha tha. Yeh student *Modular Letterform Design* project (dekhein chapter 2 mein figure 2.6) ke abhi shuruaati (early) stage par thi. Botnick letterform designs ke uske thumbnail sketches (figure 8.4) ko dekh (reviewing) rahe hain.
+
+**FIGURE 8.4**
+
+Ken Botnick ka project assignment *Modular Letterform Design*. Washington University in St. Louis. 2011.
+
+#### **EXAMPLE 8.4. KEN BOTNICK, MODULAR LETTERFORM DESIGN, WASHINGTON UNIVERSITY**
+
+| **1** | **Student:** | Yeh un do letters ke beech ki space hai. Lekin mujhe lagta hai ki yeh thoda ambiguous (uljha hua) hai. |
+| --- | --- | --- |
+| **2** | **Botnick:** | Kyun? Tumhe aisa kyun lagta hai? |
+| **3** | **Student:** | Khair kyunki maine B ya C ko as a letter pehchana (identified) nahi hai. Kya yeh masla (issue) hoga? |
+| **4** | **Botnick:** | Yeh maslo (issues) mein se ek hai. |
+| **5** | **Student:** | Aur scale (size) ka behna (drift)? |
+| **6** | **Botnick:** | Haan, bilkul (exactly). Toh hamein in dono cheezon ko seedh (alignment) mein laane ka ek tareeqa dhoondhna (figure out) hoga. |
+| **7** |  | Toh phir humein khud se yeh sawal poochna hoga, ki, you know, zahir taur par (obviously), visually (dekhne ke lihaz se), tum jis baare mein soch rahi ho uski dynamic range (vibhinnata/mukhtalif roop) ko convey (pesh) karne ka sabse behtareen tareeqa kya hai? |
+| **8** |  | Kyunki yeh idea jiske baare mein (2) tum itne dhayan se soch rahi ho, is form ki quality, ek kafi advanced idea hai. |
+| **9** |  | Aur isliye, aise bahut se log nahi hain jo dekh rahe hain, (1) mera matlab hai log har din padhte hain, wo kabhi uske baare mein nahi sochte. |
+| **10** |  | Toh tumhe thoda sa, um, (2) apne readers ko manane (sell job) ki koshish karni hogi, kyunki (1) |
+| **11** |  | wo, wo foran (immediately) tumhare sath nahi honge. |
+| **12** | **Student:** | Toh, kya mujhe alag letters chunne chahiye? Ya mujhe yahan aur kaam karna chahiye? [Sketch ki taraf ishara karte hue] |
+
+* **13 Botnick:** Okay, toh, aao thoda peeche chalte hain (let's back up). (1) **14** Asal mein (really) tum yahan kya kehne ki koshish kar rahi ho? **15 Student:** Toh, kya main shayad uske bagal mein (on the side next to it), sirf is shape ka istemal kar sakti hoon, aur phir is shape ka [sketch ki taraf ishara karte hue],
+* **16** aur, like, unhe ek dusre ke paas rakh doon (lay them next to each other), aur phir un letters ko dikhaun jo unhe cover (enclose) karte hain?
+* **17 Botnick:** [Gala saaf karte hain; paanch second ki khamoshi.] **18** Mujhe lagta hai yahan problem yeh hai ki is scale (size) par yeh kafi abstract (khayali) ho jata hai.
+
+Example 8.2 mein SCAD ki painting student aur example 8.3 mein Corcoran ki student ki tarah, Botnick ki student bhi process soche bina (without first going through the thinking process) tehqeeq (investigation) ko khatam karne ki koshish kar rahi hai. Uske dimaag mein pehle se hi ek specific idea aa chuka hai aur wo Botnick se pooch rahi hai ki kya unhe yeh pasand aaya. Uske idea ko haan (affirming) ya na (rejecting) kehne ke bajaye, Botnick line 13 mein kehte hain, "aao thoda peeche chalte hain (let's back up)—asal mein tum yahan kya kehne ki koshish kar rahi ho?" Wo use ek professional designer ki tarah sochna sikhane (guides) hain.
+
+Example 8.5 Washington University mein Douglas Dowd ki communication design class ke ek critique (tabsiray/jaizay) se hai. Is project assignment ka naam *Cinema* hai. Is class session ke liye, har student ne ek storyboard banaya hai: single-frame black-and-white sketches (tasweeron) ka ek silsila, jisme koi text (likhawat) nahi hai, jo ek kahani (story) sunata hai. Dowd ek aese student ka critique kar rahe hain jiski kahani ek seb (apple) par microorganisms (bohat chote jandaron) ke ek group se shuru hoti hai. Wo student ke animation ke frames ko scroll karke shuruat karte hain. Ek insaan apple khata hai, aur microorganisms us insaan ke pait (stomach) mein chale jate hain. Un mein se ek keeda (bug) dusre ko ghoorne (stare) lagta hai, aur phir sabhi keeday digestive tract (hazmay ki nali) ke bhanwar (maelstrom) mein gir jate hain aur wo dono alag ho jate hain. Aakhiri frame ke baad, Dowd sawal poochna shuru karte hain:
+
+#### **EXAMPLE 8.5. DOUGLAS DOWD, PROJECT ASSIGNMENT** ***CINEMA* , WASHINGTON UNIVERSITY**
+
+* **1 Dowd** : Ab, kya wo, kya mujhe yeh sochna chahiye ki use us par pyar aagaya hai (he's got the hots for her)? **2 Student:** Yep.
+* **3 Dowd:** Toh—(2) yeh aur saaf (clearer) kaise ho sakta hai? **4 Student:** Mujhe nahi pata. Maine use aisa dikhane ki koshish ki jaise wo us par focus (dhyan de) kar raha hai, aur phir wo distract (dhyan bhatakna) ho jata hai, aur phir apne doston ko dekhta (notices) hai.
+* **5 Dowd:** Haan. Ek waqt mein ek kadam (One step at a time). **6** Wo uske pyaar mein hai. Humein kaise pata chalega?
+* **7 Student:** Kyunki wo, wo use ghoor (staring) raha hai.
+* **8 Dowd:** Lekin yeh bas, bas usay ghoorne jaisa hai. Mujhe nahi pata iska kya matlab hai.
+* **9** WO use ghoor raha hai? (3) **10** Lekin main tumhe kayi alag alag wajahon (reasons) se ghoor sakta hoon.
+* **11 Student:** Use aisa dikhna chahiye jaise, jaise wo sharma (blushing) raha hai, jaise–
+* **12 Dowd:** Khair, zahir hai (naturally), main yeh nahi bata sakunga ki wo sharma raha hai kyunki yeh ek black-and-white drawing hai. Lekin hum isse nikal sakte hain (can get over that).
+* **13** Kaisa ho, uski aankhein badi ho jayen? **14** Uski aankhein thodi pighli hui (liquid) ho jayen? **15** Wo thoda khawabon mein khoya hua (dreamy) sa dikhe, theek hai? **16** Uski, uski aankhon ki putliyan (pupils) dil (hearts) mein badal jayen. **17** Kya, isey karne ke kayi, kayi tareeqe hain, (2) **18** lekin tum isey bilkul theek se (precisely) aur seedhe taur par (directly) karne ke siwa nahi kar sakte. **19** Yeh atmospheric (mahoul ke mutabiq/dhundla) nahi hai. Yeh aisa nahi hai ki, oh hum isey samajh jayenge kyunki wo usay dekh raha hai. Nahi. (4)
+* **20** Yeh us tarah ki, us tarah ki safai (level of clarity) hai jiski zaroorat hai.
+* **21 Student:** Okay.
+* **22 Dowd:** Aur shayad wo, you know, shayad uske paas thoda sa [apne hathon aur ungliyon ko hilate hue (wiggles)] kuch ho,
+* **23** Mujhe nahi pata, lekin jese ise playact (natak/khel ki tarah) karna.
+* **24 Student:** Okay.
+* **25 Dowd:** Toh, wo use aankh marti (winks) hai? [Drawing mein, microorganism ki ek aankh band hai.]
+* **26 Student:** Haan.
+* **27 Dowd:** Toh wo use dekhti hai, wo use dekhta hai, wo use dekhti hai, wo use dekhta hai, jo bhi (whatever).
+* **28 Student:** Haan.
+* **29 Dowd:** Sahi? Humein wink (aankh marna) samajh aa gaya (picked up on).
+* **30** Yeh bhi funny (mazakiya) hoga agar wo insaan abhi bhi kha raha ho, jaise wo apna cheese kha rahi ho.
+
+Dowd foran (immediately) apni soch (thought) ko zahir (externalizes) karte hain, sochte waqt baat karte hain, jisse students ko yeh dekhne ka mauka (window) milta hai ki wo kaise sochte hain. Studio talk soche samjhe (considered) aur pichli baton ko dekhne (retrospective) ke bajaye achanak (spontaneous) aur fori (immediate) hoti hai. Studio talk ek aage badhne wale (ongoing) aur mauqe par kuch banane wale (improvisational) process ko zahir karti (reveals) hai.
+
+### **Explicit Statements of Thinking (Soch ke Saaf Byanaat)**
+
+Example 8.6 Joe DiGioia ki SCAD mein product design class se liya gaya hai. Assignment ke is hisse (step) mein students ko recycled materials se ek sustainable package design karna hai. Main poori teen (3) ghante ki class mein ruka aur maine DiGioia ko in student prototypes (models) ka critique karte dekha:
+
+* Laundry lint (kapdon ka bacha hua rui jesa material) se bani ek laundry basket (tokri);
+* Brown paper grocery bag se bana ek beach bag;
+* Sushi ya nuts ke liye ek dabba (box);
+* Kaale cardboard se bana ek lapboard (goud mein rakhne wala board);
+* Bachon ke liye ek art box;
+* Ek laundromat box, jismein sikkon (coins), saabun (soap), aur bleach ke liye pockets hain, aur jise aap backpack (pithoo bag) ki tarah pehan sakte hain;
+* Ek angle wala footrest jo kaam karte waqt aapki desk ke niche rehta hai, jo ek khulne wala laptop case bhi hai;
+* Ek collector ke liye kheeray-makoro (insects), jaise titliyon (butterflies), ko rakhne wala ek dabba.
+
+Example 8.6 ki shuruat mein, DiGioia ek dabbe ke prototype ko dekh rahe hain jisme sushi ya nuts ke liye alag-alag khane (compartments) bane hain—is level (point) par yeh dono me se kuch bhi ho sakta hai. Prototype ek computer monitor ke upar rakha hai. Students uske aas-paas jama (gathered) hain aur jis student ne ise banaya hai wo DiGioia ke bagal mein khadi hai. Unki nazrein poori batchit (transcript) ke dauran prototype par hi tiki (remains) rehti hain. Baki students bhi use dekh rahe hain. Dabbe mein saat (7) hissay hain, hafte ke har din ke liye ek.
+
+Sabhi students design options ke liye alag-alag possibilities tajweez (tossing out) kar rahe the. Misaal ke taur par, ek idea is container ka istemal karke hafte bhar ke liye gair-sehatmand (unhealthy) snacks, jaise namkeen nuts, rakhne ka tha. Idea yeh tha ki isse diet mein unhealthy snacks ko control (ration) karne mein madad milegi. Aap ek din mein sirf ek hissay ka snack kha sakte the.
+
+Kai students dwara ideas dene ke baad, baatcheet mein ek thehrao (pause) aata hai. DiGioia example 8.6 mein is khamoshi ko todte (breaks) hain. Giniye ki wo kitni baar kehte hain ki wo soch rahe hain; maine har ek ke baayein (left) taraf ek arrow (→) lagaya hai. Yaad rakhein ki har colon (:) ka matlab hai ki us se pichla harf (letter) ek extra second ke liye lamba (elongated) kiya gaya hai.
+
+#### **EXAMPLE 8.6. JOE DIGIOIA, PRODUCT DESIGN, SCAD**
+
+* → **1** Aur mujhe lagta hai yeh, you know, jese um, (2) **2** [Do second ke thehrao ke dauran DiGioia table ke aur kareeb hote hain aur prototype ko uthate hain]
+* → **3** Main bas sochne ki koshish (trying to think) kar raha hoon
+* **4** kisi paper product ke bare me. You know,
+* **5** Isme mujhe bas ek hi cheez pareshan (bothers) karti hai
+
+
+* **6** wo abhi (right now) is plastic wali cheez ka istemal hai.
+* → **7** Mera matlab hai, mujhe lagta hai ki yeh—you know, **8** abhi yeh kaam karta hua lagta hai. **9** Yeh theek (fine) kaam karta hai. You know. **10** Yeh isey us tarah se seal (band) karta hai jaise ise hona chahiye. **11** Sahi (Right), yeh tight (kasa hua) hai, um::, **12** yeh nami (moisture) ko bahar rakhega, jo bahut acha (great) hai, **13** Toh, (3) um:: (1) **14** [DiGioia prototype ko niche rakh dete hain] **15** Mujhe nahi pata.
+* → **16** Mujhe lagta hai (think) ki iska istemal karne ka koi na koi tareeqa hona chahiye, uh **17** ek sakht (rigid) paper product, um. (2) **18** Lekin dekho, abhi (right now) **19** hum dono ka istemal karne ki baat kar rahe hain, **20** iske dono taraf (sides).
+* → **21** [DiGioia apna hath apni thuddi (chin) tak uthate hain aur use wahan ek "sochne (thinking)" wale ishare (gesture) mein rakhte hain.] **22** You know? (3) **23** Aur isey dubara band karne (recap it) ka koi tareeqa nahi hai **24** jaise, **25** [DiGioia apna hath thuddi se hatate hain aur "recap it" ka ishara karte hain] **26** agar hum poora nahi khate (1)
+* **27** you know, poora side, **28** ya, jaise Heather ne kaha, **29** [DiGioia thodi der ke liye (briefly) Heather ki taraf dekhte hain] **30** you know, kya main aesa karu jisme yeh (1)
+* **31** double ho, you know?
+
+
+* → **32** [DiGioia apna hath apni thuddi (chin) tak uthate hain.]
+* **33** Um::: (4) haan. (1)
+* **34** [DiGioia prototype ki taraf ishara karne ke liye apna hath thuddi se niche karte hain.]
+
+
+* → **35** Mujhe lagta hai (think) koi aur tareeqa (other way) hona chahiye
+* → **36** is bare me sochne (think) ka.
+
+DiGioia students ko aesi baat nahi bata rahe jo unhone *pehle se (already)* soch rakhi ho; studio talk mein, professors sochte hain aur sath hi (at the same time) baat bhi karte hain. Wo "thinking (soch raha hoon)" fail (verb) ka istemal yeh dikhane ke liye karte hain ki wo bilkul soch ke process ke beech (middle of thinking) mein hain. Professors aapko yeh nahi batate ki wo *kya (what)* sochte hain; wo aapko batate hain ki wo *kaise (how)* soch rahe hain.
+
+DiGioia saaf taur par (explicitly) kehte hain ki wo kya aur kaise soch rahe hain; misaal ke taur par:
+
+* Lines 3–4: *Main bas kisi paper product ke baare mein sochne ki koshish (trying to think) kar raha hoon*
+* Line 16: *Mujhe lagta hai (think) ki istemal karne ka koi na koi tareeqa hona chahiye, uh*
+* Lines 35–36: *Mujhe lagta hai (think) is bare me sochne (think) ka koi aur tareeqa hona chahiye*
+
+Yeh studio talk successful creative process ke kai aspects (features) ki misaal (models) banti hai:
+
+* Kaam ko aarzi (tentative) aur hamesha process (bante hue) ki haalat mein maanein
+* Maslon (Issues) ko pehchaanein
+* Naye sawalat (questions) banayein
+* Aage badhne ke dusre raston (alternative paths) par gaur karein
+
+Wo "sochne (thinking)" ka ishara (gesture) bhi karte hain—apne hath ko thuddi (chin) par rakh kar (dekhein figure 8.5).
+
+**FIGURE 8.5**
+
+SCAD mein Joe DiGioia ki sustainable product design class. DiGioia example 8.6 ki line 32 mein apne hath ko thuddi (chin) par rakhne ka "thinking" ishara (gesture) kar rahe hain. 2010.
+
+Lagbhag 10 minute baad, critique khatam hota hai aur class agle critique ki taraf badh jati hai. Is student ne ek brown paper bag ke material se bana ek beach bag design kiya hai. Isme ek towel, rait (sand) par letne (lay) ke liye ek mat (chatai), sunscreen, aur dusri cheezon ke liye pockets hain. Pehle das minute ke dauran, DiGioia yeh baatein kehte hain:
+
+* *Mujhe lagta hai (think) tum bas is bare mein sochna chahte ho . . .*
+* *Yeh dilchasp (interesting) ho sakta hai ki . . .*
+* *Humein koi aesa tareeqa dhoondhna (figure out) hoga ki wo patti (strap) asani se istemal (accessible) ki ja sake.*
+* *Wo kuch ache (good) points hain. Bas inmein se kuch dusri cheezon par kaam karo. Materials ke bare mein socho. Yaad rakho ki, uh, tum ise beach par le jane wale ho. Wahan garmi hogi, rait hogi, aur paani (wet) hoga.*
+
+Phir, DiGioia bag ke prototype ko kholte hain aur farsh par late jate hain, yeh dikhane ke liye (demonstrating) ki ek user iske sath towel ke taur par kaise interact kar sakta hai (dekhein figure 8.6).
+
+Studio talk mein, professors students ko hatmi (definitive) jawab ya hidayat (directions) nahi dete; wo problems aur issues (masail) ko pehchante (identify) hain. Wo aarzi taur par (tentatively) potential (mumkin) solutions ki ek range tajweez (suggest) karte hain, ya wo solutions diye bina problem bayan (describe) karte hain. Example 8.6 mein, line 5 par DiGioia kaam mein ek an-suljhay (unresolved) masle (issue) ko pehchante hain: "Isme mujhe bas ek hi cheez pareshan (bothers) karti hai." Aur phir bhi, lines 6 se 36 tak, wo koi solution (hal) nahi dete; wo lagatar apni creative thinking ko bahar zahir (externalize) karte rehte hain, ambiguity (uljhan) ka swagat karte hain aur naye sawalat aur issues ko pehchante hain.
+
+**FIGURE 8.6**
+
+SCAD mein Joe DiGioia ki product design class. 2010.
+
+### **Studio Talk ke Chhupe Hue Paighaam (The Hidden Messages of Studio Talk)**
+
+DiGioia lagatar students ko batate hain ki wo soch rahe hain. Usi tarah, students ke liye yeh janna asaan hai ki Corcoran soch rahi hain jab wo kehti hain, "Do cheezein jinke baare mein main soch rahi hoon, bas achanak dimaag mein aayin (right off the top of my head)." Lekin tajurbekar (experienced) professors kuch aur bhi behtar (more skillful) karte hain: wo apni soch ko apnay *bat karne ke andaz (way they talk)* se misaal (model) banate hain, na ke us baat se jo wo kehte hain. Ek professor ki bolchal ka andaz (unfolding talk itself)—wo kya kehte hain yeh nahi, balki wo kaise kehte hain—yeh dikhata hai ki wo kaise soch rahe hain. Professors *chhupe hue dhang se (implicitly)* studio talk ke patterns aur tareeqo (mechanisms) mein sochne (thinking) ki misaal (model) dete hain.
+
+Studio talk ka yeh chupa hua hissa (hidden aspect) tab hi nazar aata (visible) hai jab aap in conversations (baatcheet) ko kisi microscope ke niche rakhte hain. Studio talk ki asli taqat (real power) ko samajhne ke liye, hamein kuch khas transcription methodology (likhne ke tareeqe) ka istemal karna hoga. Main das (10) alag-alag aesi linguistic (zabaan/bhasha se judi) techniques ke baare mein baat karunga jo studio talk mein creative thinking ki misaal banti hain, bina yeh kahe ki "Main soch raha hoon." Example 8.6 mein, DiGioia inme se kai istemal karte hain, jinme shamil hain:
+
+1. *Um* aur *uh*, line 1, 11, aur dusri jagaho par.
+2. Khinchi hui (Elongated) speech jaise lines 13 aur 33 mein *um*:::. Har colon (:) ek second ko dikhata hai. Line 33 par, DiGioia teen second ke liye "m" ki awaz ko rokte (holds) hain. Khinchi hui speech (Elongated speech) yeh dikhati hai ki baat be-soche (unplanned) boli ja rahi hai aur dimaag ki soch se aage nikal chuki hai.
+3. Dobara shuru karna (Restarts), jaise lines 19-20 mein, *we're talking about using both, both sides of it (hum dono ka istemal karne ki baat kar rahe hain, iske dono taraf)*
+
+Hum agle transcripts mein in baki saat (7) techniques ke examples dekhenge:
+
+4. Khud ko theek karna (Self-repairs)
+5. Wazahat karna (Clarifications)
+6. *Khair (Well)*
+7. Shartiya lafz (Qualifiers) jaise *kinda (thoda)*
+8. Bachao/Shuk (Hedges) jaise *maybe (shayad)*
+9. Mumkin kaam ko dikhane wale af'aal (Modal verbs) jaise *could* aur *should*
+10. Bat khatam karne wale alfaaz (Disclaimers) jaise *whatever (jo bhi)*
+
+Yeh awazein (sounds), lafz (words), aur jumlay (phrases) kisi cheez ki taraf *ishara (refer)* nahi karte. Inka koi matlab (content) nahi hota. Yeh wo chote-chote shabd (tiny words) hain jinhe hum hosh-o-hawaas (consciously) mein nahi sunte, jo un shabdon ke beech mein aa jate (pop up) hain jinhe hum *asal mein (do)* sunte hain. Journalists shayad hi kabhi (almost never) aese alfaaz likhte (transcribe) hain jab log *um* ya *uh* kehte hain ya jab wo kisi harf-e-illat (vowel) ko khinchte (elongate) hain. Is chapter mein, main aise nishanaat (notation) ka istemal karunga jo studio talk ke chhupe hue paigham (hidden messages) ko zahir (reveals) karte hain.
+
+Example 8.7 mein, Dowd ne microorganism wali story ka critique khatam kar liya hai, aur wo dusre student par aage badh gaye (moved on) hain. Is student ki tasweeri kahani (visual story) ek aadmi ke sone se shuru hoti hai. Phir use ek khawab aata hai ki use ek alien (khalai makhlooq) spaceship (jahaz) ne pakad liya hai, aur wo wahan alien bacchon mein se ek ke sath dosti kar leta hai. Story ke frames ko scroll karne ke baad, Dowd das (10) techniques mein se kai ka istemal karke yeh zahir karte (indicate) hain ki unki soch (thinking) khoj bhari (exploratory) aur achanak aane wali (spontaneous) hai. Wo baat karte waqt visual narrative (tasweeri kahani) ke frames mein lagatar aage aur piche ghoomte rehte hain.
+
+#### **EXAMPLE 8.7. DOUGLAS DOWD, PROJECT ASSIGNMENT** ***CINEMA* , WASHINGTON UNIVERSITY**
+
+* **1** Um (3) au:::r yakeenan (certainly) rang (color) ka, ka izafa (addition)
+* **2** (4) yahan bahut madad (help), uh::
+* **3** karega. Kyunki
+* **4** tumhe beech (middle) ki zaroorat hai,
+* **5** [student ki taraf ek nazar, phir wapas screen ki taraf]
+* **6** tumhe middle tone (beecho beech ki roshni/shade) ki zaroorat hai (2) jo, ah, (2)
+* **7** usay aesa dikhaye
+* **8** jese wo andhere (dark) mein hai, you know. (1)
+* **9** Uh, aur phir wo, wo bahut acha (great) hoga. (1)
+* **10** Boom-boom, (3)
+* **11** [Dowd individual (alag-alag) frames ko scroll kar rahe hain]
+* **12** uh:: (4) yeh acha (good) hai, yeh behtar (better) hai, (5) uh (5)
+* **13** ja::b ek lagatar chalne wali baat (continuity thing) aati hai. (1)
+* **14** Okay. The, the, the:: (wo, wo, wo)
+* **15** is aadmi ko laat (kicked) padi.
+* **16** Ab hum wapas us ki taraf aa gaye hain. (1) Theek hai?
+
+**FIGURE 8.7**
+
+Douglas Dowd ek student ke sath baat karte hue. Student ne abhi-abhi table par rakhe laptop par apni animation sequence dikhayi hai. Spring 2011.
+
+Dowd ki baat cheet mein in das (10) speech techniques ki bharmar (interspersed) hai. Yeh zahir (demonstrate) karti hain ki unki soch (thinking) khoj bhari (exploratory), be-yakeeni (uncertain), aur hichkichahat wali (tentative) hai. Main un teen techniques ko bayan (describing) karke shuruat karunga jinka samna hum pehle hi kar chuke hain: *um* aur *uh*; khinchi hui awaz (elongated speech); aur dobara shuru karna (restarts).
+
+#### **Technique 1.** ***Um* aur** ***Uh***
+
+Linguists (Zabaan/Bhasha ke mahir) jante hain ki *um* aur *uh* ka talluq achanak aur fitrati (spontaneous) speech se hai; yeh zahir karte (communicate) hain ki soch khoj bhari (exploratory) aur be-yakeeni (uncertain) hai. Example 8.7 mein, Dowd lines 1, 2, 6, 9, aur 12 mein *uh* ya *um* ka istemal karte hain. Aap isey DiGioia ki class se example 8.6 ki lines 1, 11, 13, aur 33 mein bhi dekh sakte hain.
+
+Jab log *uh* ya *um* kehte hain, toh yeh ek ishara (sign) hai ki unhone abhi tak yeh tay (figured out) nahi kiya hai ki wo kya kehna chahte hain. Doston ya colleagues ke sath rozana ki aam baat-cheet (everyday casual conversation) mein yeh aam (not unusual) baat hai. Lekin researchers ne paya hai ki jab ek high-status (unche darje ka) shakhs kisi lower-status (niche darje ke) shakhs ke sath baat-cheet (interacts) karta hai toh yeh kafi kam (relatively rare) hota hai. Teachers aam taur par aam baat-cheet ki tulna mein bahut kam tentative speech (hichkichahat wali aawaz) ka istemal karte hain. Teacher hone ke naate, aapse yeh umeed ki jati hai ki aap jante hain ki aap kya kar rahe hain; aapse expert hone ki umeed ki jati hai. Lekin hairani ki baat yeh hai ki art aur design professors har waqt *uh* ya *um* kehte hain. Kya unse experts hone ki umeed nahi ki jati? Aakhir chal kya raha hai?
+
+Studio talk mein, yeh techniques be-yakeeni (uncertainty) ka ishara (signal) deti hain, bilkul wese hi jaise wo aam baat-cheet mein karti hain. Lekin jab professors aesa karte hain, toh unki be-yakeeni ka ek maqsad (purpose) hota hai—yeh ek bhatakte hue (wandering), khoj bhari (exploratory), baar-baar dohrane wali (iterative) sochne ke process ka model paish karta hai. Professors bewaqoof (clueless) dikhne se fikar-mand (worried) nahi hote; asal mein, wahi toh asal maqsad (the point) hai.
+
+#### **Technique 2. Khinchi hui (Elongated) speech**
+
+*Elongated speech* wo hoti hai jab kisi *phoneme (harf ki awaz)*—ek lafz ki aawaz—ko ek split-second (second ke hisse) ya usse bhi zyada der tak khincha jata hai. Tasavvur (Imagine) karein ki aap *um* keh rahe hain aur "m" ki aawaz ko do ya teen seconds ke liye same pich (sur) par qaayim rakhtay (holding) hue nikal rahe hain; professors bahut alag-alag phonemes ke sath aesa karte hain. Example 8.7 mein, Dowd kai vowels (hurf-e-illat) aur consonants (hurf-e-sahi) ko lamba (elongates) karte hain. Transcript mein, elongation (khinchav) ke har second ko "colon (:)" ke nishan se darshaya (notated) gaya hai. Examples mein line 1 mein *an:::d* shamil hai, jisme teen colons yeh darshate hain ki Dowd ne "n" ko teen seconds ke liye roka, aur phir bilkul aakhir mein "d" ki aawaz nikali; line 13 mein *ja::b (when::)*, jisme "a" ko do seconds ke liye roka gaya hai; aur line 14 mein *the*::, jisme "e" ki aawaz ko do seconds ke liye roka gaya hai. *Um* aur *uh* ko bhi aksar lamba (elongated) kiya jata hai, jaise lines 2 aur 12 mein. Elongated phonemes ishara dete (signal) hain ki speaker ne abhi tak wo soch taiyar (formulated) nahi ki hai jo agli baat (utterance) ki taraf le jayegi. *uh/um* ki tarah, elongations (khinchav) be-yakeeni (uncertainty) ka ishara dete hain.
+
+#### **Technique 3. Dobara shuru karna (Restarts)**
+
+Ek *restart* tab hota hai jab speaker aage badhne se pehle usi shabd ya phrase (jumle) ko dohrata (repeats) hai, aam taur par repeat karne se pehle ek microsecond (halke se) thehrao ke sath. Example 8.7 mein, Dowd aesa kayi baar karte hain:
+
+* Line 1 mein, ek akela shabd repeat hota hai: *the, the* ;
+* Lines 4-6 mein, ek poora clause (hissa) repeat hota hai: *you need the middle, you need the middle tone (tumhe beech ki zaroorat hai, tumhe beech ke tone ki zaroorat hai)* ;
+* Line 9 mein, ek akela shabd repeat hota hai: *that, that'll be (wo, wo hoga)*
+
+Ek restart zahir karta (indicates) hai ki baat-cheet (talking) sochne (thinking) se aage nikal gayi hai. Yeh zahir karta (communicates) hai ki professor ki baat-cheet be-sochi (unplanned) hai aur ek iterative (baar-baar dohrane wali) sochne ke process ka model banati hai jisme aksar band raste (dead ends) aate hain. Studio talk aesi soch ka model banati hai jo linear (seedhi) nahi hoti; jo lagatar possibilities (sambhavnayein) generate karti (dhoondhti) hai; jo direction (disha) mein badlaav ke liye khuli (open) rehti hai. Yeh idea dhoondhne (idea generation) aur possibility (sambhavna/imkaan) ke ek process ka model banati hai.
+
+#### **Technique 4. Khud ko theek karna (Self-repair)**
+
+Ek *self-repair* tab hota hai jab aap kuch kehne ke beech mein hote hain, aur aapko av-chetan (subconsciously) roop se ehsaas hota hai ki aap kisi aur disha (direction) mein jana chahte hain. Aap achanak (abruptly) ruk jate hain aur phir se shuru (start over) karte hain. Example 8.8 (example 8.1 ki ek copy) mein, Esma Dengiz line 2 par self-repairs karti hain: *the, the back part (wo, piche wala hissa)*.
+
+#### **EXAMPLE 8.8. ESMA DENGIZ, LIGHTING DESIGN CRITIQUE, SCAD**
+
+* **1** Ek aur cheez jo abhi mere dimaag mein aayi wo thi aapke bo:ttle (bottle) wale hisse ke liye,
+* **2** wo, piche wala hissa (back part), ki, uh, (1)
+* **3** Kya ho agar yeh hota, agar yeh hota, ek cutout, uh ka, mujhe nahi pata, uh, bottles ka, (1)
+* **4** aur uh, (2)
+* **5** colored gel paper, (1)
+* **6** misaal ke taur par (for instance)?
+
+Aapko pehli teen techniques bhi dikhti hain: *um* aur *uh*, khinchi hui awaz/elongated speech (*bo:ttle*—*o* ek second lamba hai), aur restarts. Jis tareeqe se wo apna suggestion deti hain—ek bottle ya gel paper katne ka—wo be-yakeen (uncertain) aur exploratory (khoj bhara) hai. Wo communicate kar rahi hain ki students ko unki baaton ko hidayat (instruction) ke taur par nahi lena chahiye.
+
+Ek self-repair soch ki disha badalna (redirection of thought) hai—ek naye khayal ka peda hona (generation) jise pichlay khayal (previous thought) se prerna (inspired) mili ho. Self-repairs students ko dikhate hain ki professor ki baat-cheet exploratory (khoj bhari) hai aur unke sujhaav aazmaishi (tentative) hain. Wo ek aese creative process ko model karte hain jo aksar ek dead end (band raste) ki taraf le jata hai, lekin jahan sochne ka process phir lagatar (successive) iterations mein dobara shuru hota hai.
+
+#### **Technique 5. Wazahat karna (Clarifications)**
+
+Self-repair se hi judi hui *clarification (wazahat)* hai, jab ek speaker yeh batata hai ki usne jo abhi kaha hai wo theek (quite) waisa nahi hai jaisa wo kehna chahta tha. DiGioia ki example 8.6 mein baat-cheet mein kayi aese jumlay (utterances) shamil hain jo chupkay se (implicitly) ishara karte hain ki usne jo kaha hai wo bilkul waisa nahi hai jaisa usne chaha tha, jisme yeh bhi shamil hain:
+
+* Line 1: *Aur mujhe lagta hai yeh, you know, jaise um (And I think it, you know, like um)*
+* Line 7: *Mera matlab hai, mujhe lagta hai ki yeh—you know, abhi yeh kaam karta hua lagta hai (I mean, I think it—you know, right now it seems to work).*
+
+Sabse aam (common) clarification expressions (alfaz) yeh hain:
+
+* *Mera matlab hai (I mean)*
+* *Mujhe lagta hai (I think)*
+* *Aap jante hain (You know)*
+* *Jaise (Like)*
+
+*Aap jante hain (You know)* aur *mera matlab hai (I mean)* be-yakeeni (uncertainty), gair-wazeh (imprecision), aur ambiguity (uljhan) ki taraf ishara karte hain. Lekin wo self-repairs se alag hain kyunki ek clarification soch ki disha (direction of the thought) ko nahi badalti. Clarifications yeh batati hain ki aap aage jo kehne wale hain wo usse juda (related) hoga jo aapne abhi kaha hai. *Mera matlab hai (I mean)* aur *mujhe lagta hai (I think)* ke baad aksar aur details aati hain jo pehli baat kehne ke baad hi speaker ke dimaag mein aati hain. Aksar log *jaise (like)* ka istemal bhi isi tarah karte hain, jaisa ki DiGioia example 8.6 ki line 1 mein karte hain:
+
+*Aur mujhe lagta hai yeh, you know, jaise (like) um* (2)
+
+Ya Corcoran, example 8.2 ki line 5 mein:
+
+*Aap ek light source (roshni ke zariye) ka tasavvur kar sakte hain, you know, jo thodi si parchhai (shadow) daal raha ho, you know,*
+*thik usi tarah jaisa (kind of like) aapko yahan in colors ke beech overlap (ek dusre ke upar) hone se milta hai, you know*
+
+*You know* aksar us waqt aata hai jab aap us baat ko clarify karne (wazahat) wale hote hain jo aapne abhi kahi hai, bilkul *I mean* aur *I think* ki tarah. Lekin *you know* ka aksar ek aur matlab bhi hota hai: aap student ko is soch ki disha (line of thought) ko jaari rakhne ke liye invite kar rahe hain (bulawa de rahe hain). Jab ek professor is tarah se *you know* kehta hai, toh yeh student ko is tarah se sochne ke liye encourage (prerit) karta hai jisse bahut saare ideas generate hote hain. Yeh dikhata hai ki idea generation (idea nikalna) zaroori hai, lekin sath hi yeh student ko yeh bhi batata hai ki professor aapke liye koi idea lekar aane (come up with) ka plan nahi bana raha hai.
+
+#### **Technique 6.** ***Khair (Well)***
+
+*Khair (Well)* aksar *you know* jaisa hi kaam karta hai kyunki dono *kami (insufficiency)* ka ishara dete hain—ki ab tak ki gayi baat ne student ke liye yeh andaza lagane (predict) ke liye n-kaafi jankari (insufficient information) di hai ki professor aage kya kahenge, aur jo aage aane wala hai wo ab tak kahi gayi baat ko aage badhayega (extend) aur saaf (clarify) karega. Arntsen example 8.9 mein *well* ka isi tarah istemal karti hain. Line 3 *well, not really* line 1 ke initial (shuruati) suggestion ko naye tareeqe se paish (reframes) karta hai, aur iske baad lines 5-7 mein ek revised (badla hua) suggestion aata hai. *Well* ishara (indicates) deta hai ki pichla suggestion exploratory (khoj bhara) tha aur soch (thought) ab ek alag raste par shift ho rahi hai. Yeh technique ek aese sochne ke process (thinking process) ki misaal paish karti hai jahan ek dead end (band raste) ne ek naye aur behtar idea ko janam diya hai, ek aesa process jisme yahan tak ki ek chhode gaye (discarded) idea se bhi faydemand dhang se (productively) dubara gaur (reconsideration) kiya ja sakta hai aur disha badli (change of direction) ja sakti hai. Arntsen ki baat-cheet mein students ko is baat par sochne ki taraf le jane ke liye theek (just the right amount) uljhan (ambiguity) hai ki is point tak kya baat layi aur aage kya ho sakta hai. Asal mein, lines 5 aur 6 mein, Arntsen saaf taur par (explicitly) student ko "relationship ke baare mein sochne" ki hidayat (instructs) deti hain:
+
+#### **EXAMPLE 8.9. RHONDA ARNTSEN, GRAPHIC DESIGN, SCAD**
+
+| **1** | **Rhonda:** | Toh, mujhe lagta hai hum is sab ko ek taraf rakh dein (put all this away)? |
+| --- | --- | --- |
+| **2** | **Student:** | Okay. |
+| **3** | **Rhonda:** | Khair (Well), waqayi mein nahi (not really). |
+| **4** |  | Hum ise poori tarah se (completely) ek taraf nahi rakhenge. |
+| **5** |  | Lekin, lekin, you know, socho |
+| **6** |  | us rishte (relationship) ke baare mein (2) |
+| **7** |  | is, sajawat (decoration) ke concept (notion) ke beech. |
+
+Aam taur par, jab *well* ka istemal hota hai, toh situation ambiguous (uljhi hui) rehti hai. Professor koi specific (khas) jawab nahi de raha hota. Student ko is ambiguity ke hote hue missing (gayab) jankari ka andaza (infer) lagana padta hai. *Well* ka istemal ek aese sochne ke tareeqe ki misaal deta hai jo ambiguity ke sath comfortable (sahaj) ho.
+
+### **Batcheet Jo Uljhan Aur Sambhavna (Ambiguity and Possibility) Ki Misaal De (Talk That Models Ambiguity and Possibility)**
+
+Techniques 7 se 10 exploratory (khoj bhari) soch ko zahir (externalize) karti hain aur yeh dikha kar ambiguity (uljhan) ka swagat karti hain ki har sambhavna (possibility) aazmaishi (tentative) aur be-yakeen (uncertain) hai. Professors ek aese thought process (sochne ke amal) ko zahir (externalize) karte hain jahan wo aese ideas generate karte hain jo plan nahi kiye gaye hote. Students dekhte hain ki ideas studio talk ke dauran, achanak (spontaneously), ubhar kar (emerging) samne aa rahe hain. Professors possibility thinking (sambhavnao ke baray me sochne) ki misaal dene ke liye chaar speech techniques ka istemal karte hain:
+
+7. Shartiya lafz (Qualifiers)
+8. Bachao/Shuk (Hedges)
+9. Mumkin kaam ko dikhane wale af'aal (Modal verbs)
+10. Bat khatam karne wale alfaaz (Disclaimers)
+
+#### **Technique 7. Shartiya lafz (Qualifiers)**
+
+Qualifiers mein shamil hain
+
+*ek tarah se (sort of)*
+*kisi had tak (kind of)*
+*thoda bahut (somewhat)*
+
+Qualifier ka istemal yeh ishara deta hai ki aap jo keh rahe hain uske baare mein aapko poora yakeen (certain) nahi hai. Yeh ishara de kar ki professor jo keh raha hai wo hatmi (definitive) nahi hai, yeh aesi creative thinking (takhleequi soch) ki misaal deta hai jo exploratory (khoj bhari) hoti hai aur ambiguity (uljhan) ka swagat karti hai. Example 8.6 mein, DiGioia lines 5-6 mein is tarah se *kinda (thoda)* ka istemal karte hain:
+
+*Ekmatra (only) cheez jo mujhe is mein thoda (kinda) pareshan (bothers) karti hai, wo abhi is plastic ki cheez ka istemal hai*
+
+Aur aage neeche (farther down), lines 23 aur 24 mein, wo kehte hain:
+
+*Aur ise wapas pehnanay (recap) ka ek tarah se (kinda) koi tareeqa nahi hai*
+
+Upar example 8.8 mein, Esma Dengiz ki studio talk mein *kya ho agar yeh hota (What if it was)* aur *mujhe nahi pata, uh, bottles (I don't know, uh, bottles)* jaise qualifiers shamil hain. Unki studio talk possibilities (sambhavnaon) ko explore karti hai, suggestions (sujhaav) generate karti hai, aur naye sawalon ko frame (tayaar) karti hai.
+
+#### **Technique 8. Bachao/Shuk (Hedges)**
+
+Hedges mein shamil hain
+
+*kya ho agar (what if)*
+*shayad (maybe)*
+*mujhe nahi pata (I don't know)*
+*ho sakta hai (perhaps)*
+*maan lijiye (let's say)*
+
+Hedges in sabhi examples mein paye jate hain, khas taur par example 8.3 mein Heather Corcoran ke sath:
+
+*Aur kya ho agar (what if) is taraf ki aakhiri line ka us taraf ki aakhiri line se rishta hona zaroori ho?*
+
+*Shayad (Maybe), shayad yeh jagahain itni consistent (ek jaisi) nahi honi chahiye?*
+
+Hedges dikhate hain ki professor apni kahi hui baat ke sath paband (committed) nahi hain. Hedges ek aese sochne ke process ki misaal bante hain jahan ideas aur possibilities aksar aur achanak (spontaneously) aati rehti hain. Qualifiers ki tarah, hedges ambiguity ko dikhate (represent) hain. Lekin hedges thode alag hote hain: wo student ko ek aage badhne wale (ongoing) creative exploration (takhleequi khoj) mein ek joint participant (saajhedar) ke taur par shamil (engage) karte hain. Jab aap poochte hain, "Kya ho agar (What if)?" ya kehte hain, "Shayad (Maybe)," toh aap student ko apne sath sochne (think along) ke liye invite (dawat de) rahe hote hain.
+
+Professors apne statements ko *mujhe nahi pata (I don't know)* keh kar bhi hedge (bachao/shuk me dalte) karte hain. Yahan example 8.5 (lines 22-23) mein Douglas Dowd hain:
+
+*Aur shayad wo kar sakta hai, you know, shayad uske paas thoda sa kuch ho, mujhe nahi pata (I don't know)*
+
+*Mujhe nahi pata (I don't know)* aksar kisi issue ya possibility ke suggestion (sujhaav) se pehle, baad mein, ya uske beech (embedded) aata hai, jaisa ki example 8.6 mein DiGioia karte hain, lines 15 se 17 tak:
+
+* *Mujhe nahi pata (I don't know). Mujhe lagta hai (I think) iska istemal karne ka koi na koi tareeqa hona chahiye, uh, ek sakht paper product, um.*
+
+Dowd aur DiGioia apne students ko creative thinking ke process mein unke sath shamil hone ke liye invite karte hain.
+
+#### **Technique 9. Mumkin kaam ko dikhane wale af'aal (Modal verbs)**
+
+Professors possibility (imkaan) aur ambiguity ko bayan (express) karne ke liye *sakte hain (could)* aur *ho sakta hai (might)* ka istemal karte hain, jaisa ki DiGioia example 8.6 wale usi critique se, example 8.10, lines 1 aur 2 mein karte hain—jahan wo rozana khaye jane wale nuts ke dibbe (box) par bahas (discussing) kar rahe hain:
+
+#### **EXAMPLE 8.10. DIGIOIA, PRODUCT DESIGN, SCAD**
+
+| **1** | **DiGioia:** | Khair (Well), yeh bahar nikal sakta hai (could dispense out), |
+| --- | --- | --- |
+| **2** |  | yeh yahan se nikal sakta hai (could dispense). (2) |
+| **3** |  | You know, jaise wo sab ek ke upar ek rakhe hon (stacked), |
+| **4** |  | maan lijiye (let's say) wo sab yahan rakhe hue (stacked) the. (2) |
+| **5** |  | You know? |
+| **6** | **Student:** | Haan (Yeah) |
+
+Modal verbs mumkin (possible) aage hone wale creative decisions ki taraf ishara karte hain. Wo ek aese mumkin (possible) action ki taraf ishara karte hain jiska nateeja (outcome) an-jana (unknown) ho—ambiguity (uljhan) aur na-janne (not knowing) ki duniya. *Yeh ho sakta hai (It could)* object ki ek mumkin future feature ki taraf ishara karta hai, aur isey aazmaishi (tentative) ke taur par, kai possibilities mein se ek ke taur par paish karke, yeh exploration (khoj) aur ambiguity (uljhan) ki misaal (models) paish karta hai.
+
+DiGioia techniques 5, 6, aur 8 ka bhi istemal karte hain: *well*, *you know*, aur *let's say*. Ek hi jumle (utterance) mein kai techniques ko mila kar (combining), yeh baat (talk) creative thinking ka ek aur zyada asardaar muzahira (powerful demonstration) ban jati hai.
+
+#### **Technique 10. Bat khatam karne wale alfaaz (Disclaimers)**
+
+Disclaimers (Bat khatam karne wale alfaaz) aese shabd aur jumle hote hain jo aam taur par kisi baat ke aakhir (end) mein aate hain. Wo pichle (preceding) statement ki certainty (yakeen) aur authority (hukmrani) ko kam kar dete hain. Inmein shamil hain
+
+*Jo bhi (Whatever)*
+*Kam o besh (More or less)*
+*Misaal ke taur par (For instance)*
+
+Example 8.5, line 27 mein, Dowd apple par do microorganisms ke baare mein baat karte hue disclaimer *jo bhi (whatever)* ka istemal karte hain:
+
+* *Toh wo usay dekhti hai, wo usay dekhta hai, wo usay dekhti hai, wo usay dekhta hai, jo bhi (whatever).*
+
+Usi class mein baad ki ek critique mein, wo kisi dusre student se kehte hain:
+
+*Jaise jab character rukta hai, thoda tasveer ruk jati hai? Kam o besh (More or less)?*
+
+Disclaimers unki soch ki aazmaishi (tentative) aur khoji (exploratory) fitrat (nature) par zor dete hain. Kuch disclaimers suggestions (sujhaavon) ki ek list ke baad aate hain aur student ko us list ko aage badhane ke liye invite karte hain, jaisa ki Esma Dengiz example 8.1 mein *for instance (misaal ke taur par)* ke sath karti hain:
+
+* *Kya ho agar yeh hota, agar yeh hota, ek cutout, uh ka, mujhe nahi pata, uh, bottles ka, (1) aur uh, (2) colored gel paper, (1) misaal ke taur par (for instance),*
+
+Ya jaisa ki Julie Varland (architecture) *wagaira wagaira (and so forth)* ke sath karti hain:
+
+* *Kya wo ek sath perfect unity (ek-ta) ki zuban (language) mein aate hain? Ya balance (santulan) aur wagaira wagaira (and so forth)?*
+
+Ya DiGioia (product design):
+
+*Yeh ek hafta hoga, yeh do hafte honge, jo bhi mamla ho (whatever the case may be).*
+
+Suggestions ki ek list ke aakhir mein jode gaye yeh jumlay (phrases) student ko isi andaz (fashion) mein ideas generate (paida) karke aage badhne, exploratory dhang se sochne, aur ek iterative (doohranay wale) process mein aage badhne ka dawat (invite) dete hain jo jaari (continues) rehta hai.
+
+### **Soch Mein Shagirdi (Apprenticeship in Thinking)**
+
+**Aakhir mein yeh dekhne mein bahut hi naya (innovative) aur creative (takhleequi) lagta hai, lekin buniyaadi (basically) taur par jo wo kar rahe the wo bas sochne ke ek tareeqe (a way of thinking) ko follow karna tha.**
+
+Stephen Thorpe, sculptor aur foundations professor, SCAD
+
+2021 mein, in videotapes ko banane ke das saal baad, maine apne kuch videos Beth Grabowski ko dikhaye, jo ek printmaker hain aur University of North Carolina at Chapel Hill mein padhati hain. Humne Heather Corcoran ki communication design class mein ek pinup ka hissa (excerpt) dekha (dekhein example 8.3). Maine apni yeh theory samjhai ki Corcoran apni soch (thinking) ko zahir (externalizing) kar rahi thin taaki students usay dekh sakein. Maine Grabowski se poocha, kya aap manti (agree) hain ki yahan yahi ho raha hai? Unhone bilkul (absolutely) haami bhari (agreed), aur kaha ki wo bhi theek yahi karti hain jab wo kisi student ke kaam par bahas (discuss) karti hain. Maine unse poocha, jab aap is tarah baat karti hain, toh kya aap waqayi wahi mauqe par (right on the spot) usay samajhne ki koshish (working through) kar rahi hoti hain, ya aapne zyada-tar student ke kaam ke baare mein apna dimaag pehle se hi bana liya hota hai (made up your mind)? Grabowski ne kaha ki kaam ko dekhte waqt unka sochne ka tareeqa waqayi exploratory (khoji) hota hai; wo nahi janti ki wo kya kehne wali hain kyunki wo khud bhi us problem se jaddo-jehad (working through) kar rahi hoti hain. Bhale hi Corcoran ek designer hain aur Grabowski ek artist hain, wo ek hi tarah se sochte hain, aur wo students ke liye us soch (thought) ki misaal dene ke liye baat karne ke ek jaise tareeqo (similar ways of talking) ka istemal karte hain.
+
+Jab artists aur designers pehli baar padhana shuru karte hain, toh unhe nahi pata hota ki students ke samne aawaz nikal kar (out loud) kaise sochna hai. Aawaz nikal kar sochna mushkil hai. Jab aap sure (yaqeen) nahi hote ki aap kya kehne wale hain, toh aapko apne dimaag ke andar ke kaamo (innermost workings) ko samne (reveal) lana padta hai. Grabowski ne mujhe bataya, "Yeh ehsaas karna mushkil hai ki ek tajurbekar (experienced) artist ke liye kitni saari cheezein bilkul aam (automatic) ho jati hain, jab tak ki aapko kisi aur ko yeh na sikhana pade ki wo kaise kare." Studio talk se apni soch ko dikhana (show) seekhne mein saalon lag jate hain, aesi khas dhang se creative thinking ko model (misaal) karna jo students tak theek wahan pahunchti ho jahan wo hote hain, jab unhe abhi tak sochna nahi aaya hota.
+
+Studio talk bahut asardaar (powerful) hoti hai. Yeh students ko sochne ka ek tareeqa communicate (pahunchati) karti hai. Aapko sochne ke tareeqe par lecture dene ki zaroorat nahi hai; sochna studio practice mein mila hua (embedded) hota hai. Professor *jis andaz se (way)* baat karta hai, wo yeh aham (essential) jankari communicate karta hai ki ek creative professional ki tarah kaise sochna hai. Yeh kisi bhi lecture se zyada powerful hota hai kyunki yeh baat karne ke tareeqe (way of talking) mein shamil (built into) hota hai. Jab students is tarah baat karna shuru karte hain, toh wo dheere-dheere is tarah sochna bhi shuru kar dete hain.
+
+Researchers ne paya hai ki yehi das (10) speech techniques aapas ke rishton (peer relationships) ki be-takallufi (informality) se judi hoti hain. Studio talk ek professor hone se judi hui hukm-rani (authority status) ko kam kar deti hai. Ek aam (traditional) classroom mein, teacher aur students ke beech martabay ka farq (status asymmetry) kahin zyada wazeh (pronounced) hota hai. Math aur science classes mein teacher ki baaton mein zyada yakeen (certain) aur sidha (direct) andaz hota hai. Studio talk studio classroom ko aesi jagah (place) banati hai jahan har maujood shakhs ek hi peshawar bradri (professional community) ka hissa hota hai. Us community ke andar, professor ek jan-ne wala expert (knowledgeable expert) hota hai aur students shagird (apprentices) hote hain. Unka maqsad apne professor jaisa banna hota hai, aur isme artist ya designer ki tarah sochna (thinking) shamil hai. Art aur design schools mein, students sochne ke mamle mein shagird (apprentices in thinking) hote hain.
+
+Lekin bahut se students yeh nahi jante ki critique soch (thinking) ka ek muzahira (performance) hai, yeh creative process ke baare mein ek sabak (lesson) hai. Bahut se students critique ko ek imtihaan (assessment) mante hain. Wo janna chahte hain ki professor ko unka kaam pasand aaya ya nahi. Wo janna chahte hain ki aage kya karna hai iske baare mein unhe hidayat (direction) mile. Students studio talk ki be-yakeeni (uncertainty) se niraash (frustrated) ho sakte hain. Taleemi (pedagogical) paigham aksar an-kaha (unstated) hota hai; aakhir-kaar, yeh bole gaye lafzon ki satah (surface) ke niche chhupa hota hai. Jab maine Nyla Smith ka interview liya, jo Washington University se BFA graduate hain, toh unhone kaha,
+
+*Professors yeh samjhate (explain) nahi the ki wo kya kar rahe the ya kyun. Yeh frustrate (niraash) karne wala tha, khas taur par agar aap phasse (stuck) hue hon. Wo aapko jawab dene se pehle ruk jate the. Aapko deewar par apna sir patakna (hit your head against the wall) padta hai. Aapko yeh khas hidayat (specific guidance) nahi milti ki aage kya karna hai. Students is se nafrat (hate) karte hain, lekin hamesha nahi. Unhone kabhi seedhe (directly) yeh nahi bataya ki wo kya sikha rahe the; unhone kabhi process ko bayan (described) nahi kiya. Kuch students ko lagta hai ki unka creative jajba (impulse) dabaya (squashed) ja raha hai. Yeh program kuch logon ke liye bahut tahlili (analytic) hai. Lekin ab jab main graduate ho chuki hoon, mujhe lagta hai ki yeh follow karne ke liye ek acha process hai.*
+
+Ek mutabadil (alternative) critique format ka tasavvur (imagine) karein jahan professor aawaz nikal kar (out loud) *nahi* sochta. Iske bajaye, professor student ke kaam ko khamoshi se mutaliya (studying) karne mein kuch minute bitata hai. Student ghabrahat (nervously) mein pas khada rehta hai. Class mein maujood dusre students be-chain (fidgeting) ho rahe hote hain aur apne phones check kar rahe hote hain. Phir, jab professor yeh tay (figured out) kar leta hai ki use kya kehna hai, toh wo student ko exactly batata hai ki wo kya sochta hai, ek hatmi (definitive) aur yaqeeni (certain) awaz ke sath, studio talk ki hichkichahat wali (tentative) zabaan ka bilkul istemal nahi karta. Aisa lagta hai jaise is student ko *zyada (more)* raye (feedback) mil rahi hai. Aakhir-kaar, professor ek expert hai, aur professor ki raye (opinion) students ke liye bahut mayne (worth a lot) rakhti hai. Professor wahi hai jo aapko aapka grade dega; aap janna chahte hain ki kis cheez se use khushi (happy) milegi. Lekin is alternative kism ke critique mein, students yeh nahi dekh pate ki professor kaise sochte hain. Expert creative thinking chhipi (hidden) reh jayegi.
+
+**Mera ek student hai abhi jise main bahut creative kahunga. Main usay creative kyun kehta hoon? Kyunki uska dimaag hamesha kaam (working) kar raha hota hai. Mujhe lagta hai ki creativity, asal mein, lagatar sochna (constantly thinking) hai.**
+
+Esma Dengiz, lighting designer, SCAD
+
+Studio talk mein, professors pehle sochte aur phir baad mein baat nahi karte. Unka sochna aur bolna ek hi waqt (same time) mein hota hai. Har student expert creative thinking ko ussi waqt (in real time) dekhta hai. Zabaan (Linguistics) ki research se, hum jante hain ki das (10) speech techniques kya chhupe hue paighamaat (hidden messages) communicate karti hain. In techniques ka jaiza lene (analyze) ke liye, maine sirf lafzon (words) se zyada ko likha (transcribed) hai. Maine is baat ko dikhane ke liye interaction analysis ke methods ka istemal kiya hai ki students yeh dekh sakte hain ki studio talk spontaneous (achanak aane wali) aur improvised (mauqe par soch kar boli gayi) hoti hai. Wo soch ko amal (action) mein dekh rahe hain. Speech ke wo chote chote hisse (tiny bits) jin ke baare mein hum shayad hi kabhi sochte hain, students ko dikhate hain ki professors kaise sochte hain. Creative thinking iterative (doohrayi jane wali) hoti hai; yeh an-sochi (unexpected) cheezon ko ubharne (emerge) ka mauka (allows) deti hai; aur yeh dekhne ki kabiliyat (ability to see) ke sath gehrai se judi (intimately linked) hoti hai.
+
+..........
